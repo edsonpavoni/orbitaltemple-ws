@@ -1,4 +1,322 @@
 @import "tailwindcss";
-@theme { }
-:root { color-scheme: light dark; }
-html,body{margin:0;padding:0}
+
+/* ----------------------------------
+ * Font-Face: Libre Franklin Variable Font
+ * ---------------------------------- */
+@font-face {
+  font-family: 'Libre Franklin';
+  src: url('/fonts/Libre_Franklin/LibreFranklin-VariableFont_wght.ttf') format('truetype-variations'),
+       url('/fonts/Libre_Franklin/LibreFranklin-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  src: url('/fonts/Libre_Franklin/LibreFranklin-Italic-VariableFont_wght.ttf') format('truetype-variations'),
+       url('/fonts/Libre_Franklin/LibreFranklin-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: block;
+}
+
+/* ----------------------------------
+ * Design Tokens: Figma Styles
+ * Exact mapping from Figma design system
+ * ---------------------------------- */
+:root {
+  /* Typography */
+  --font-sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  /* Color Styles - Exact Figma tokens */
+  --color-ot-light: #ffffff;
+  --color-ot-dark:  #000000;
+  --color-ot-gold100: #fff2d9;
+  --color-ot-gold200: #fad43a;
+  --color-ot-gold300: #c79e2c;
+  --color-ot-gold400: #9b711a;
+  --color-ot-gold500: #7a550c;
+  --color-ot-gold600: #553903;
+
+  /* Text Styles - Exact Figma specifications */
+  /* Display Styles */
+  --text-display-lg: 30px;
+  --text-display-lg-lh: 32px;
+  --text-display-md: 22px;
+  --text-display-md-lh: 26px;
+  --text-display-sm: 14px;
+  --text-display-sm-lh: 16px;
+
+  /* Body Styles */
+  --text-body-lg: 32px;
+  --text-body-md: 24px;
+  --text-body-std: 16px;
+  --text-body-std-lh: 24px;
+  --text-body-sm: 12px;
+  --text-body-sm-lh: 20px;
+  --text-body-sub: 8px;
+  --text-body-sub-lh: 10px;
+
+  /* Accent Styles */
+  --text-accent-lg: 20px;
+  --text-accent-md: 16px;
+  --text-accent-sm: 14px;
+
+  /* Spacing Tokens */
+  --spacing-title-to-text: 8px;
+  --spacing-responsive: clamp(16px, 5vh, 72px);
+  --spacing-xl: 72px;
+  --spacing-lg: 36px;
+  --spacing-md: 24px;
+  --spacing-sm: 16px;
+  --spacing-xs: 8px;
+}
+
+
+/* ----------------------------------
+ * Global Base Styles
+ * ---------------------------------- */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-ot-dark);
+  color: var(--color-ot-light);
+  font-family: 'Libre Franklin', var(--font-sans);
+  color-scheme: dark;
+}
+
+* {
+  font-family: 'Libre Franklin', var(--font-sans);
+}
+
+/* ----------------------------------
+ * Font Weight Utilities
+ * ---------------------------------- */
+.font-light {
+  font-weight: 200;
+}
+
+.font-regular, .font-normal {
+  font-weight: 400;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+/* ----------------------------------
+ * Typography Classes - Send Name Journey
+ * Complete styles with font-size, weight, line-height, and spacing
+ * ---------------------------------- */
+
+/* Page Title - Used on all main pages */
+.page-title {
+  font-size: 22px;
+  line-height: var(--text-display-lg-lh);
+  font-weight: 700;
+  margin: 0 0 var(--spacing-title-to-text) 0;
+  color: var(--color-ot-light);
+}
+
+/* Page Subtitle - Descriptive text under titles */
+.page-subtitle {
+  font-size: var(--text-body-std);
+  line-height: var(--text-body-std-lh);
+  opacity: 0.8;
+  margin: 0 0 var(--spacing-responsive) 0;
+}
+
+/* Input Field Styles */
+.input-field {
+  font-size: var(--text-display-lg);
+  line-height: var(--text-display-lg-lh);
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  color: var(--color-ot-light);
+  text-align: center;
+  outline: none;
+  padding: 1rem;
+  width: 100%;
+  max-width: 400px;
+  font-family: var(--font-sans);
+  margin: 0 0 var(--spacing-responsive) 0;
+}
+
+.input-field--no-border {
+  border-bottom: none;
+}
+
+/* Button - Small Caps Action Button */
+.btn-action {
+  background: none;
+  border: none;
+  color: var(--color-ot-light);
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  margin: 0;
+  padding: 0.5rem;
+  animation: fadeIn 0.3s ease-in;
+  position: relative;
+  z-index: 1000;
+  touch-action: manipulation;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
+
+.btn-action img {
+  height: 14px;
+  width: auto;
+  transform: rotate(270deg);
+}
+
+/* Success Page Text */
+.success-title {
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: 700;
+  margin: 0 0 2rem 0;
+  color: var(--color-ot-light);
+  text-align: center;
+}
+
+.success-subtitle {
+  font-size: 16px;
+  line-height: var(--text-body-sm-lh);
+  font-weight: 700;
+  opacity: 0.7;
+  text-align: center;
+}
+
+/* ----------------------------------
+ * Drawer Styles
+ * ---------------------------------- */
+.drawer {
+  position: fixed;
+  top: 0;
+  height: 100dvh;
+  width: min(84vw, 24rem);
+  padding: 1.5rem;
+  box-shadow: 0 10px 40px rgba(0,0,0,.6);
+  transition: transform .25s ease, visibility 0s linear .25s;
+  visibility: hidden;
+  z-index: 60;
+}
+
+.drawer[data-open="true"] {
+  visibility: visible;
+  transition-delay: 0s;
+  transform: translateX(0);
+}
+
+.drawer--left  { left: 0;  transform: translateX(-100%); }
+.drawer--right { right: 0; transform: translateX(100%); }
+
+/* Menu Drawer Content */
+.menu-drawer-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  align-items: flex-end;
+  text-align: right;
+  padding: 0 1.5rem;
+}
+
+/* ----------------------------------
+ * Animations
+ * ---------------------------------- */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.6;
+    transform: scale(1.05);
+  }
+}
+
+@keyframes domeSlideDown {
+  from {
+    transform: translateY(-50%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* ----------------------------------
+ * Artwork Page Styles
+ * ---------------------------------- */
+.artwork-page {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 120px 24px 60px;
+  font-family: var(--font-sans);
+}
+
+.artwork-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 48px 0;
+  color: var(--color-ot-light);
+}
+
+.artwork-subtitle {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 32px 0;
+  color: var(--color-ot-light);
+}
+
+.artwork-text {
+  font-size: var(--text-body-std);
+  line-height: var(--text-body-std-lh);
+  font-weight: 400;
+  margin: 0 0 32px 0;
+  color: var(--color-ot-light);
+}
+
+.artwork-text--section-end {
+  margin-bottom: 48px;
+}
+
+.artwork-image {
+  margin: 0 0 48px 0;
+}
+
+.artwork-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.artwork-footer {
+  font-size: var(--text-body-sm);
+  line-height: var(--text-body-sm-lh);
+  font-weight: 400;
+  color: var(--color-ot-light);
+  opacity: 0.7;
+  margin: 60px 0 0 0;
+}

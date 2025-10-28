@@ -1,0 +1,64 @@
+---
+import Base from "../layouts/BaseLayout.astro";
+// import YetAnotherTemple from "../components/YetAnotherTemple.astro";
+---
+<Base title="Orbital Temple">
+
+  <!-- First Fold: Hero Section with Satellite Background -->
+  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1.5rem;">
+    <!-- Satellite Background -->
+    <div style="position: absolute; inset: 0; z-index: 0;">
+      <img src="/satellite_placeholder.jpg" alt="Orbital Temple satellite in space"
+           style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6;" />
+    </div>
+
+    <!-- Hero Content -->
+    <div style="text-align: center; max-width: 600px; position: relative; z-index: 1;">
+      <h1 style="font-size: var(--text-display-lg); line-height: var(--text-display-lg-lh); font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1rem 0;">
+        Orbital Temple
+      </h1>
+
+      <p style="font-size: var(--text-body-std); line-height: var(--text-body-std-lh); opacity: 0.8; margin: 0 0 3rem 0;">
+        is an artwork and a satellite,<br />
+        aiming to be a radical inclusive temple,<br />
+        in a place where no wall can reach.
+      </p>
+
+      <a href="/send-a-name" style="display: inline-block; margin: 0;">
+        <img src="/btn_enter.png" alt="Enter" style="width: 16rem; height: 16rem; object-fit: contain; transition: transform 0.2s;"
+             onmouseover="this.style.transform='scale(1.05)'"
+             onmouseout="this.style.transform='scale(1)'" />
+      </a>
+    </div>
+
+    <!-- Bottom link positioned 32px from bottom -->
+    <div style="position: absolute; bottom: 64px; left: 0; right: 0; z-index: 1;">
+      <p style="font-size: var(--text-display-sm); line-height: var(--text-display-sm-lh); font-weight: 200; opacity: 0.5; margin: 0; text-align: center;">
+        <a href="#dome" style="color: inherit; text-decoration: none; transition: color 0.2s; display: inline-flex; flex-direction: column; align-items: center; gap: 0.5rem;"
+           onmouseover="this.style.color='var(--color-ot-gold200)'"
+           onmouseout="this.style.color='inherit'">
+          <span>Yet, another temple?</span>
+          <img src="/arrow.svg" alt="arrow" style="width: 8px; height: 12px; opacity: 0.5;" />
+        </a>
+      </p>
+    </div>
+  </section>
+
+  <!-- Second Fold: Dome Image -->
+  <section id="dome" style="position: relative; width: 100%; background-color: var(--color-ot-dark);">
+    <img src="/dome.png" alt="Dome" style="width: 100%; height: auto; display: block;" />
+  </section>
+
+  <!-- Third Section: Manifesto -->
+  <!-- <section id="yet-another-temple" style="position: relative; background-color: var(--color-ot-dark);">
+    <YetAnotherTemple />
+  </section> -->
+
+  <!-- Footer: Credits -->
+  <footer style="background-color: var(--color-ot-dark); padding: 4rem 1.5rem 2rem 1.5rem;">
+    <p style="font-size: var(--text-body-sm); line-height: var(--text-body-sm-lh); color: var(--color-ot-light); opacity: 0.6; max-width: 800px; margin: 0; text-align: left;">
+      Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple.
+    </p>
+  </footer>
+
+</Base>
