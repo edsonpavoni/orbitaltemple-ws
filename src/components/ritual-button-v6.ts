@@ -1,4 +1,4 @@
-import type { RitualButtonProps } from './types.js';
+import type { RitualButtonProps } from './ritual-button-types';
 
 interface RitualButtonV6Props extends RitualButtonProps {
   orbitTiltX?: number; // Initial tilt on X-axis (default 0)

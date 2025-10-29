@@ -33,16 +33,16 @@
   position: relative;
   justify-content: center;
   align-items: center;
-  inline-size: 150px;
-  block-size: 150px;
+  inline-size: calc(var(--size) * 0.882); /* 150/170 ratio */
+  block-size: calc(var(--size) * 0.882);
 }
 
 /* Circle elements */
 .ritual-circle-v6 {
   display: block;
   position: absolute;
-  height: 150px;
-  width: 150px;
+  height: calc(var(--size) * 0.882);
+  width: calc(var(--size) * 0.882);
   border-radius: 50%;
   z-index: 4;
 }
@@ -60,8 +60,8 @@
 .ritual-center-v6 {
   display: block;
   position: absolute;
-  height: 150px;
-  width: 150px;
+  height: calc(var(--size) * 0.882);
+  width: calc(var(--size) * 0.882);
   z-index: 4;
   display: flex;
   align-items: center;
@@ -86,10 +86,10 @@
 .ritual-orbit-v6 {
   display: block;
   position: absolute;
-  height: 170px;
-  width: 170px;
-  top: -10px;
-  left: -10px;
+  height: var(--size);
+  width: var(--size);
+  top: calc(var(--size) * -0.059); /* -10px when size is 170px */
+  left: calc(var(--size) * -0.059);
   border-radius: 50%;
   z-index: 22;
   box-shadow: 0px 2px 0px 1px var(--gold-color);
@@ -171,8 +171,8 @@
   position: absolute;
   inset: 50%;
   transform: translate(-50%, -50%);
-  inline-size: 150px;
-  block-size: 150px;
+  inline-size: calc(var(--size) * 0.882);
+  block-size: calc(var(--size) * 0.882);
   border-radius: 50%;
   border: none;
   background: transparent;
