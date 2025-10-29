@@ -16,10 +16,18 @@ export default function Starfield({
 }: StarfieldProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [currentSpeed, setCurrentSpeed] = useState(baseSpeed);
-  const starsRef = useRef<Array<{x: number, y: number, size: number, opacity: number, speedMultiplier: number}>>([]);
+  const starsRef = useRef<Array<{
+    x: number;
+    y: number;
+    size: number;
+    opacity: number;
+    targetOpacity: number;
+    speedMultiplier: number;
+    flickerSpeed: number;
+  }>>([]);
   const animationFrameRef = useRef<number>();
 
-  // Initialize stars with depth-based speed
+  // Initialize stars with depth-based speed and flicker
   useEffect(() => {
     if (typeof window === 'undefined') return;
 
@@ -29,12 +37,18 @@ export default function Starfield({
       // Smaller stars = farther away = slower (0.3x to 1.0x of base speed)
       const speedMultiplier = 0.3 + (size / 2.5) * 0.7;
 
+      // Each star has its own flicker rhythm (very slow, 2-6 seconds per cycle)
+      const flickerSpeed = 0.0003 + Math.random() * 0.0007; // Random speed for natural effect
+      const baseOpacity = 0.5 + Math.random() * 0.3; // 0.5-0.8 base opacity
+
       stars.push({
         x: Math.random() * window.innerWidth,
         y: Math.random() * window.innerHeight,
         size: size,
-        opacity: Math.random() * 0.5 + 0.3,
-        speedMultiplier: speedMultiplier
+        opacity: baseOpacity,
+        targetOpacity: baseOpacity,
+        speedMultiplier: speedMultiplier,
+        flickerSpeed: flickerSpeed
       });
     }
     starsRef.current = stars;
@@ -43,7 +57,7 @@ export default function Starfield({
   // Handle speed boost with immediate ease-out
   useEffect(() => {
     if (speedBoost > 0) {
-      const boostSpeed = baseSpeed * 6;
+      const boostSpeed = baseSpeed * 9;
       const easeDuration = 1200; // Ease back to base over 1.2s
 
       // Immediately boost speed
@@ -90,8 +104,11 @@ export default function Starfield({
     const canvas = canvasRef.current;
     if (!canvas) return;
 
-    const ctx = canvas.getContext('2d');
+    const ctx = canvas.getContext('2d', { alpha: true });
     if (!ctx) return;
+
+    // Disable image smoothing for crisp rendering
+    ctx.imageSmoothingEnabled = false;
 
     // Set canvas size
     const resize = () => {
@@ -121,7 +138,14 @@ export default function Starfield({
           star.x = Math.random() * canvas.width;
         }
 
-        // Draw star
+        // Update flicker: slowly change target opacity to create subtle twinkle
+        // Each star updates at its own pace
+        star.targetOpacity = 0.5 + Math.sin(performance.now() * star.flickerSpeed) * 0.25;
+
+        // Smoothly interpolate current opacity towards target (no abrupt changes)
+        star.opacity += (star.targetOpacity - star.opacity) * 0.05;
+
+        // Draw star with crisp edges (no blur/shadow)
         ctx.fillStyle = `rgba(255, 255, 255, ${star.opacity})`;
         ctx.beginPath();
         ctx.arc(star.x, star.y, star.size, 0, Math.PI * 2);
