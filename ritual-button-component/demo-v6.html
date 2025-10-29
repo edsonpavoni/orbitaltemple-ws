@@ -49,6 +49,12 @@
         <div id="button6"></div>
         <p style="font-size: 0.75rem; color: #666; margin: 0;">X:30° Y:30° Z-axis</p>
       </div>
+
+      <div class="demo-item">
+        <h3>Y-axis + Slight Tilt 25°</h3>
+        <div id="button7"></div>
+        <p style="font-size: 0.75rem; color: #666; margin: 0;">Y-axis • orbitTiltX: 25deg</p>
+      </div>
     </div>
 
     <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid rgba(212, 175, 55, 0.2); text-align: center; color: #666;">
@@ -124,6 +130,17 @@
       onClick: () => console.log('Button 6 clicked: Both tilts + Z'),
     });
     button6.mount(document.getElementById('button6'));
+
+    // Button 7: Y-axis rotation + Slight tilt
+    const button7 = new RitualButtonV6({
+      label: 'ritual',
+      orbitRotationAxis: 'y',
+      orbitTiltX: 25,
+      rotationSec: 12.5,
+      hoverRotationSec: 5,
+      onClick: () => console.log('Button 7 clicked: Y-axis tilted 25°'),
+    });
+    button7.mount(document.getElementById('button7'));
 
     console.log('🪐 Orbit rotating at different angles! Try hovering each one.');
   </script>
