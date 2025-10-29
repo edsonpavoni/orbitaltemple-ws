@@ -92,7 +92,7 @@ import SendNameForm from "../components/SendNameFormNew";
   </script>
 
   <!-- Fixed Dome at top - animates down during journey -->
-  <div id="dome-container" style="position: fixed; top: 0; left: 0; width: 100%; overflow: hidden; z-index: 5; pointer-events: none;">
+  <div id="dome-container" style="position: fixed; top: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 640px; overflow: hidden; z-index: 1; pointer-events: none;">
     <img id="dome-image" src="/dome.png" alt="Dome" style="position: relative; width: 100%; height: auto; display: block; transform: translateY(-100%); transition: transform 1s ease-out;" />
   </div>
 
