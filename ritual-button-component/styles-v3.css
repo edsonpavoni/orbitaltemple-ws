@@ -1,0 +1,252 @@
+/* Reset and base styles */
+* {
+  box-sizing: border-box;
+}
+
+/* Ritual Button Container V3 - 3D CSS Version */
+.ritual-wrap-v3 {
+  --size: 170px;
+  --rotation-sec: 8s;
+  --hover-rotation-sec: 3s;
+  --gold: #D4AF37;
+  --gold100: #FFF7E6;
+  --dark-text: #3C2A00;
+
+  position: relative;
+  display: inline-block;
+  inline-size: var(--size);
+  block-size: var(--size);
+  min-inline-size: 44px;
+  min-block-size: 44px;
+  perspective: 800px;
+}
+
+/* 3D Scene Container */
+.ritual-3d-scene {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  pointer-events: none;
+}
+
+/* Center Sphere (Button) */
+.ritual-sphere {
+  position: absolute;
+  inset: 50%;
+  transform: translate(-50%, -50%);
+
+  inline-size: calc(var(--size) * 0.65);
+  block-size: calc(var(--size) * 0.65);
+
+  border-radius: 50%;
+  background-color: var(--gold100);
+  opacity: 0.8;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow:
+    0 4px 12px rgba(212, 175, 55, 0.3),
+    0 2px 6px rgba(212, 175, 55, 0.2),
+    inset 0 -2px 8px rgba(212, 175, 55, 0.15);
+
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* Label inside sphere */
+.ritual-label {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 700;
+  font-size: calc(var(--size) * 0.12);
+  text-transform: lowercase;
+  color: var(--dark-text);
+  line-height: 1;
+  letter-spacing: 0.02em;
+  pointer-events: none;
+}
+
+/* Orbit Ring Container */
+.ritual-orbit-ring {
+  position: absolute;
+  inset: 50%;
+  inline-size: calc(var(--size) * 1.0);
+  block-size: calc(var(--size) * 1.0);
+  transform: translate(-50%, -50%) rotateX(75deg);
+  transform-style: preserve-3d;
+  animation: orbit-spin var(--rotation-sec) linear infinite;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* The actual ring */
+.ritual-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 2.5px solid var(--gold);
+  box-shadow:
+    0 0 10px rgba(212, 175, 55, 0.4),
+    inset 0 0 10px rgba(212, 175, 55, 0.2);
+  pointer-events: none;
+}
+
+/* Orbit animation */
+@keyframes orbit-spin {
+  from {
+    transform: translate(-50%, -50%) rotateX(75deg) rotateZ(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotateX(75deg) rotateZ(360deg);
+  }
+}
+
+/* Invisible button overlay for interaction */
+.ritual-btn-overlay {
+  position: absolute;
+  inset: 50%;
+  transform: translate(-50%, -50%);
+
+  inline-size: calc(var(--size) * 0.65);
+  block-size: calc(var(--size) * 0.65);
+
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+
+  cursor: pointer;
+  z-index: 3;
+
+  transition: transform 0.15s ease;
+}
+
+/* Hover state - accelerate animation */
+.ritual-wrap-v3.is-hovered .ritual-orbit-ring {
+  animation-duration: var(--hover-rotation-sec);
+}
+
+.ritual-wrap-v3.is-hovered .ritual-sphere {
+  transform: translate(-50%, -50%) scale(1.05);
+  transition: transform 0.2s ease;
+}
+
+.ritual-wrap-v3.is-hovered .ritual-btn-overlay {
+  transform: translate(-50%, -50%) scale(1.05);
+}
+
+/* Active state */
+.ritual-btn-overlay:active {
+  transform: translate(-50%, -50%) scale(0.98);
+}
+
+/* Focus styles */
+.ritual-btn-overlay:focus {
+  outline: 2px solid var(--gold);
+  outline-offset: 4px;
+}
+
+.ritual-btn-overlay:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.ritual-btn-overlay:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 4px;
+}
+
+/* Dark theme support */
+[data-theme="dark"] .ritual-wrap-v3 {
+  --gold100: rgba(255, 247, 230, 0.85);
+  --dark-text: #3C2A00;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .ritual-orbit-ring {
+    animation: none !important;
+  }
+
+  .ritual-wrap-v3.is-hovered .ritual-orbit-ring {
+    transform: translate(-50%, -50%) rotateX(75deg) rotateZ(45deg);
+    transition: transform 0.3s ease;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  .ritual-btn-overlay:focus-visible {
+    outline-width: 3px;
+    outline-offset: 5px;
+  }
+
+  .ritual-sphere {
+    border: 2px solid var(--gold);
+  }
+}
+
+/* Demo page styles */
+body {
+  margin: 0;
+  padding: 2rem;
+  background: #000;
+  color: #fff;
+  font-family: system-ui, -apple-system, sans-serif;
+  min-block-size: 100vh;
+}
+
+.demo-container {
+  max-inline-size: 1400px;
+  margin: 0 auto;
+}
+
+.demo-header {
+  margin-block-end: 3rem;
+}
+
+.demo-header h1 {
+  font-size: 2.5rem;
+  margin-block-end: 0.5rem;
+  font-weight: 700;
+  color: #D4AF37;
+}
+
+.demo-header p {
+  font-size: 1.125rem;
+  color: #999;
+  margin: 0;
+}
+
+.demo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 4rem;
+  padding-block: 2rem;
+}
+
+.demo-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.demo-item h3 {
+  font-size: 0.875rem;
+  color: #D4AF37;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .demo-grid {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  .demo-header h1 {
+    font-size: 2rem;
+  }
+}
