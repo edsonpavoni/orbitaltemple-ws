@@ -6,10 +6,33 @@ import Base from "../layouts/BaseLayout.astro";
 
   <!-- First Fold: Hero Section with Satellite Background -->
   <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1.5rem;">
-    <!-- Satellite Background -->
+    <!-- Satellite Background Video -->
     <div style="position: absolute; inset: 0; z-index: 0;">
-      <img src="/satellite_placeholder.jpg" alt="Orbital Temple satellite in space"
-           style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6;" />
+      <!-- Mobile Video -->
+      <video
+        autoplay
+        loop
+        muted
+        playsinline
+        poster="/videos/mobile_placeholder.jpg"
+        style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6; display: block;"
+        class="mobile-video">
+        <source src="/videos/mobile.webm" type="video/webm" />
+        <source src="/videos/mobile_h264.mp4" type="video/mp4" />
+      </video>
+
+      <!-- Desktop Video -->
+      <video
+        autoplay
+        loop
+        muted
+        playsinline
+        poster="/videos/desk_placeholder.jpg"
+        style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6; display: none;"
+        class="desktop-video">
+        <source src="/videos/desk_h264.webm" type="video/webm" />
+        <source src="/videos/desk_h264.mp4" type="video/mp4" />
+      </video>
     </div>
 
     <!-- Hero Content -->
@@ -196,5 +219,26 @@ import Base from "../layouts/BaseLayout.astro";
       Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple.
     </p>
   </footer>
+
+  <!-- Responsive Video Styles -->
+  <style>
+    /* Mobile: show mobile video, hide desktop video */
+    .mobile-video {
+      display: block !important;
+    }
+    .desktop-video {
+      display: none !important;
+    }
+
+    /* Desktop: hide mobile video, show desktop video */
+    @media (min-width: 768px) {
+      .mobile-video {
+        display: none !important;
+      }
+      .desktop-video {
+        display: block !important;
+      }
+    }
+  </style>
 
 </Base>
