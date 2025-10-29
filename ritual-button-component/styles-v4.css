@@ -108,14 +108,10 @@
 }
 
 .ritual-orbit:first-of-type {
-  box-shadow: 0px 2px 0px 1px var(--gold-color);
-  transform: rotateX(70deg);
   animation: ritual-spinX var(--rotation-sec) linear infinite forwards;
 }
 
 .ritual-orbit:nth-of-type(2) {
-  box-shadow: 2px 0px 0px 1px var(--gold-color);
-  transform: rotateY(70deg);
   animation: ritual-spinY var(--rotation-sec) linear infinite alternate;
 }
 
@@ -231,47 +227,47 @@
 /* Orbit ring animations */
 @keyframes ritual-spinX {
   0% {
-    transform: rotateX(70deg) rotateZ(0deg);
+    transform: rotateX(0deg);
     box-shadow: 0px 2px 0px 1px var(--gold-color);
   }
   25% {
-    transform: rotateX(70deg) rotateZ(90deg);
+    transform: rotateX(90deg);
     box-shadow: 0px 2px 0px 1px var(--gold-color);
   }
   50% {
-    transform: rotateX(70deg) rotateZ(180deg);
+    transform: rotateX(180deg);
     box-shadow: 0px -2px 0px 1px var(--gold-color);
   }
   75% {
-    transform: rotateX(70deg) rotateZ(270deg);
+    transform: rotateX(270deg);
     box-shadow: 0px -2px 0px 1px var(--gold-color);
   }
   100% {
-    transform: rotateX(70deg) rotateZ(359deg);
+    transform: rotateX(359deg);
     box-shadow: 0px 2px 0px 1px var(--gold-color);
   }
 }
 
 @keyframes ritual-spinY {
   0% {
-    transform: rotateY(70deg) rotateZ(0deg);
+    transform: rotateY(0deg);
     box-shadow: 2px 0px 0px 1px var(--gold-color);
   }
   25% {
-    transform: rotateY(70deg) rotateZ(90deg);
+    transform: rotateY(90deg);
     box-shadow: 2px 0px 0px 1px var(--gold-color);
   }
   50% {
-    transform: rotateY(70deg) rotateZ(180deg);
+    transform: rotateY(180deg);
     box-shadow: -2px 0px 0px 1px var(--gold-color);
   }
   75% {
-    transform: rotateY(70deg) rotateZ(270deg);
+    transform: rotateY(270deg);
     box-shadow: -2px 0px 0px 1px var(--gold-color);
   }
   100% {
-    transform: rotateY(70deg) rotateZ(359deg);
-    box-shadow: 0px 2px 0px 1px var(--gold-color);
+    transform: rotateY(359deg);
+    box-shadow: 2px 0px 0px 1px var(--gold-color);
   }
 }
 
