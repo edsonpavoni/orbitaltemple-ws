@@ -1,17 +1,26 @@
 import { useState, useEffect, useRef } from 'react';
 
-type Step = 'breathing' | 'name-input' | 'email-input' | 'complete';
+type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete';
 
 export default function SendNameForm() {
   const [currentStep, setCurrentStep] = useState<Step>('breathing');
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
+  const [isEmailValid, setIsEmailValid] = useState(false);
   const [breathingScale, setBreathingScale] = useState(1);
   const [viewportHeight, setViewportHeight] = useState(typeof window !== 'undefined' ? window.innerHeight : 800);
   const [isKeyboardOpen, setIsKeyboardOpen] = useState(false);
+  const [nameFontSize, setNameFontSize] = useState(30);
+  const [emailFontSize, setEmailFontSize] = useState(30);
 
   const nameInputRef = useRef<HTMLInputElement>(null);
   const emailInputRef = useRef<HTMLInputElement>(null);
+
+  // Email validation function
+  const validateEmail = (email: string): boolean => {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email);
+  };
 
   // Track viewport height changes with smooth transitions
   useEffect(() => {
@@ -115,55 +124,92 @@ export default function SendNameForm() {
     };
   }, []);
 
-  // Remove auto-scroll behavior - keep content static at top
-  // useEffect(() => {
-  //   if (currentStep === 'name-input' && name.length >= 3 && contentOffset === 0) {
-  //     setContentOffset(-80); // Move up 80px smoothly
-  //   } else if (currentStep === 'email-input' && email.length >= 3 && contentOffset === -80) {
-  //     setContentOffset(-80); // Keep at same position
-  //   }
-  // }, [name, email, currentStep, contentOffset]);
-
-  // Animate dome down on final step - keep at 72px throughout journey
+  // Dynamic font sizing for name input
   useEffect(() => {
-    const domeContainer = document.getElementById('dome-container');
-    const domeImage = domeContainer?.querySelector('img') as HTMLImageElement;
-    if (!domeContainer) return;
+    if (nameInputRef.current) {
+      const containerWidth = nameInputRef.current.offsetWidth;
+      const textWidth = nameInputRef.current.scrollWidth;
 
-    if (currentStep === 'complete') {
-      domeContainer.style.transform = 'translateY(0)';
-      domeContainer.style.height = '100vh';
-      // Reset image position to show full dome
-      if (domeImage) {
-        domeImage.style.top = '0';
+      if (textWidth > containerWidth && name.length > 0) {
+        // Calculate new font size to fit text
+        const ratio = containerWidth / textWidth;
+        const newSize = Math.max(16, Math.min(30, 30 * ratio));
+        setNameFontSize(newSize);
+      } else {
+        setNameFontSize(30);
       }
-    } else {
-      //Keep dome at 72px with image positioned up
-      domeContainer.style.height = '168px';
-      if (domeImage) {
-        domeImage.style.top = '-110px';
+    }
+  }, [name]);
+
+  // Dynamic font sizing for email input
+  useEffect(() => {
+    if (emailInputRef.current) {
+      const containerWidth = emailInputRef.current.offsetWidth;
+      const textWidth = emailInputRef.current.scrollWidth;
+
+      if (textWidth > containerWidth && email.length > 0) {
+        // Calculate new font size to fit text
+        const ratio = containerWidth / textWidth;
+        const newSize = Math.max(16, Math.min(30, 30 * ratio));
+        setEmailFontSize(newSize);
+      } else {
+        setEmailFontSize(30);
       }
+    }
+  }, [email]);
+
+  // Validate email whenever it changes
+  useEffect(() => {
+    setIsEmailValid(validateEmail(email));
+  }, [email]);
+
+  // Animate dome down through journey stages
+  useEffect(() => {
+    const domeImage = document.getElementById('dome-image');
+    if (!domeImage) return;
+
+    if (currentStep === 'breathing') {
+      // Start: dome fully hidden
+      domeImage.style.transform = 'translateY(-100%)';
+    } else if (currentStep === 'name-input' || currentStep === 'email-input') {
+      // During journey: show bottom portion only (about 72px visible)
+      domeImage.style.transform = 'translateY(-70%)';
+    } else if (currentStep === 'complete') {
+      // Final page: animate further down to show more of the dome
+      domeImage.style.transform = 'translateY(0)';
     }
   }, [currentStep]);
 
   const handleProceed = () => {
-    console.log('handleProceed called', { currentStep, name, email });
+    console.log('handleProceed called', { currentStep, name, email, isEmailValid });
     if (currentStep === 'name-input' && name.length >= 1) {
       console.log('Moving to email-input');
       setCurrentStep('email-input');
-    } else if (currentStep === 'email-input' && email.length >= 1) {
-      console.log('Moving to complete');
-      setCurrentStep('complete');
+    } else if (currentStep === 'email-input' && isEmailValid) {
+      console.log('Moving to loading');
+      setCurrentStep('loading');
     } else {
-      console.log('Condition not met', { currentStep, nameLength: name.length, emailLength: email.length });
+      console.log('Condition not met', { currentStep, nameLength: name.length, isEmailValid });
     }
   };
+
+  // Simulate server wait on loading screen
+  useEffect(() => {
+    if (currentStep === 'loading') {
+      // TODO: Replace with actual API call
+      const timer = setTimeout(() => {
+        setCurrentStep('complete');
+      }, 2000); // 2 second loading simulation
+
+      return () => clearTimeout(timer);
+    }
+  }, [currentStep]);
 
   // Calculate step visibility
   const getStepStyle = (step: Step): React.CSSProperties => {
     const isActive = currentStep === step;
-    const isPast = ['breathing', 'name-input', 'email-input', 'complete'].indexOf(currentStep) >
-                   ['breathing', 'name-input', 'email-input', 'complete'].indexOf(step);
+    const stepOrder: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
+    const isPast = stepOrder.indexOf(currentStep) > stepOrder.indexOf(step);
 
     return {
       position: 'absolute',
@@ -258,6 +304,7 @@ export default function SendNameForm() {
             }}
             placeholder=""
             className={`input-field ${name.length > 0 ? 'input-field--no-border' : ''}`}
+            style={{ fontSize: `${nameFontSize}px`, transition: 'font-size 0.2s ease' }}
           />
 
           {name.length >= 1 && (
@@ -312,9 +359,10 @@ export default function SendNameForm() {
             }}
             placeholder=""
             className={`input-field ${email.length > 0 ? 'input-field--no-border' : ''}`}
+            style={{ fontSize: `${emailFontSize}px`, transition: 'font-size 0.2s ease' }}
           />
 
-          {email.length >= 1 && (
+          {isEmailValid && (
             <button
               onMouseDown={(e) => {
                 e.preventDefault();
@@ -346,7 +394,23 @@ export default function SendNameForm() {
           )}
         </div>
 
-        {/* Step 4: Complete */}
+        {/* Step 4: Loading */}
+        <div style={getStepStyle('loading')}>
+          <h1 className="page-title">
+            sending to the temple...
+          </h1>
+          <div style={{
+            width: '60px',
+            height: '60px',
+            borderRadius: '50%',
+            border: '3px solid rgba(255, 255, 255, 0.3)',
+            borderTopColor: 'var(--color-ot-light)',
+            margin: '3rem 0',
+            animation: 'spin 1s linear infinite',
+          }}></div>
+        </div>
+
+        {/* Step 5: Complete */}
         <div style={getStepStyle('complete')}>
           <div style={{
             margin: '2rem 0 3rem 0',
