@@ -13,6 +13,9 @@
   --rotation-sec: 12.5s;
   --hover-rotation-sec: 5s;
   --gold-color: #D4AF37;
+  --orbit-tilt-x: 0deg;
+  --orbit-tilt-y: 0deg;
+  --orbit-axis: x;
 
   display: inline-flex;
   position: relative;
@@ -90,30 +93,76 @@
   border-radius: 50%;
   z-index: 22;
   box-shadow: 0px 2px 0px 1px var(--gold-color);
-  animation: ritual-spinX-v6 var(--rotation-sec) linear infinite forwards;
 }
 
-/* Orbit ring rotation animation */
-@keyframes ritual-spinX-v6 {
+/* Apply rotation based on axis */
+.ritual-wrap-v6[style*="--orbit-axis: x"] .ritual-orbit-v6 {
+  animation: ritual-spin-x-v6 var(--rotation-sec) linear infinite forwards;
+}
+
+.ritual-wrap-v6[style*="--orbit-axis: y"] .ritual-orbit-v6 {
+  animation: ritual-spin-y-v6 var(--rotation-sec) linear infinite forwards;
+}
+
+.ritual-wrap-v6[style*="--orbit-axis: z"] .ritual-orbit-v6 {
+  animation: ritual-spin-z-v6 var(--rotation-sec) linear infinite forwards;
+}
+
+/* Orbit ring rotation animations for X axis */
+@keyframes ritual-spin-x-v6 {
   0% {
-    transform: rotateX(0deg);
+    transform: rotateY(var(--orbit-tilt-y)) rotateX(var(--orbit-tilt-x)) rotateX(0deg);
     box-shadow: 0px 2px 0px 1px var(--gold-color);
   }
   25% {
-    transform: rotateX(90deg);
+    transform: rotateY(var(--orbit-tilt-y)) rotateX(calc(var(--orbit-tilt-x) + 90deg));
     box-shadow: 0px 2px 0px 1px var(--gold-color);
   }
   50% {
-    transform: rotateX(180deg);
+    transform: rotateY(var(--orbit-tilt-y)) rotateX(calc(var(--orbit-tilt-x) + 180deg));
     box-shadow: 0px -2px 0px 1px var(--gold-color);
   }
   75% {
-    transform: rotateX(270deg);
+    transform: rotateY(var(--orbit-tilt-y)) rotateX(calc(var(--orbit-tilt-x) + 270deg));
     box-shadow: 0px -2px 0px 1px var(--gold-color);
   }
   100% {
-    transform: rotateX(359deg);
+    transform: rotateY(var(--orbit-tilt-y)) rotateX(calc(var(--orbit-tilt-x) + 360deg));
     box-shadow: 0px 2px 0px 1px var(--gold-color);
+  }
+}
+
+/* Orbit ring rotation animations for Y axis */
+@keyframes ritual-spin-y-v6 {
+  0% {
+    transform: rotateX(var(--orbit-tilt-x)) rotateY(var(--orbit-tilt-y)) rotateY(0deg);
+    box-shadow: 2px 0px 0px 1px var(--gold-color);
+  }
+  25% {
+    transform: rotateX(var(--orbit-tilt-x)) rotateY(calc(var(--orbit-tilt-y) + 90deg));
+    box-shadow: 2px 0px 0px 1px var(--gold-color);
+  }
+  50% {
+    transform: rotateX(var(--orbit-tilt-x)) rotateY(calc(var(--orbit-tilt-y) + 180deg));
+    box-shadow: -2px 0px 0px 1px var(--gold-color);
+  }
+  75% {
+    transform: rotateX(var(--orbit-tilt-x)) rotateY(calc(var(--orbit-tilt-y) + 270deg));
+    box-shadow: -2px 0px 0px 1px var(--gold-color);
+  }
+  100% {
+    transform: rotateX(var(--orbit-tilt-x)) rotateY(calc(var(--orbit-tilt-y) + 360deg));
+    box-shadow: 2px 0px 0px 1px var(--gold-color);
+  }
+}
+
+/* Orbit ring rotation animations for Z axis (flat spin) */
+@keyframes ritual-spin-z-v6 {
+  0% {
+    transform: rotateX(var(--orbit-tilt-x)) rotateY(var(--orbit-tilt-y)) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(var(--orbit-tilt-x)) rotateY(var(--orbit-tilt-y)) rotateZ(360deg);
   }
 }
 

@@ -1,6 +1,12 @@
 import type { RitualButtonProps } from './types.js';
 
-const DEFAULT_PROPS: Required<Omit<RitualButtonProps, 'onClick' | 'className' | 'ariaLabel'>> = {
+interface RitualButtonV6Props extends RitualButtonProps {
+  orbitTiltX?: number; // Initial tilt on X-axis (default 0)
+  orbitTiltY?: number; // Initial tilt on Y-axis (default 0)
+  orbitRotationAxis?: 'x' | 'y' | 'z'; // Which axis to rotate around (default 'x')
+}
+
+const DEFAULT_PROPS = {
   label: 'ritual',
   size: 170,
   ringRx: 85,
@@ -12,10 +18,13 @@ const DEFAULT_PROPS: Required<Omit<RitualButtonProps, 'onClick' | 'className' | 
   textColor: '#3C2A00',
   rotationSec: 12.5,
   hoverRotationSec: 5,
-  easing: 'linear',
+  easing: 'linear' as const,
   wobble: false,
   wobbleSec: 6,
   shadow: true,
+  orbitTiltX: 0,
+  orbitTiltY: 0,
+  orbitRotationAxis: 'x' as 'x' | 'y' | 'z',
 };
 
 export class RitualButtonV6 {
@@ -23,7 +32,7 @@ export class RitualButtonV6 {
   private main: HTMLDivElement;
   private button: HTMLButtonElement;
 
-  private props: Required<Omit<RitualButtonProps, 'onClick' | 'className' | 'ariaLabel'>> & {
+  private props: typeof DEFAULT_PROPS & {
     onClick?: (ev: MouseEvent) => void;
     className?: string;
     ariaLabel?: string;
@@ -36,8 +45,8 @@ export class RitualButtonV6 {
     keydown: (ev: KeyboardEvent) => this.handleKeydown(ev),
   };
 
-  constructor(props: RitualButtonProps = {}) {
-    this.props = { ...DEFAULT_PROPS, ...props };
+  constructor(props: RitualButtonV6Props = {}) {
+    this.props = { ...DEFAULT_PROPS, ...props } as any;
 
     // Create container
     this.container = this.createContainer();
@@ -63,6 +72,9 @@ export class RitualButtonV6 {
     div.style.setProperty('--rotation-sec', `${this.props.rotationSec}s`);
     div.style.setProperty('--hover-rotation-sec', `${this.props.hoverRotationSec}s`);
     div.style.setProperty('--gold-color', this.props.strokeColor);
+    div.style.setProperty('--orbit-tilt-x', `${this.props.orbitTiltX}deg`);
+    div.style.setProperty('--orbit-tilt-y', `${this.props.orbitTiltY}deg`);
+    div.style.setProperty('--orbit-axis', this.props.orbitRotationAxis);
     return div;
   }
 
@@ -129,8 +141,8 @@ export class RitualButtonV6 {
     }
   }
 
-  public update(partialProps: Partial<RitualButtonProps>): void {
-    this.props = { ...this.props, ...partialProps };
+  public update(partialProps: Partial<RitualButtonV6Props>): void {
+    this.props = { ...this.props, ...partialProps } as any;
 
     if (partialProps.size !== undefined) {
       this.container.style.setProperty('--size', `${this.props.size}px`);
@@ -153,6 +165,18 @@ export class RitualButtonV6 {
 
     if (partialProps.strokeColor !== undefined) {
       this.container.style.setProperty('--gold-color', this.props.strokeColor);
+    }
+
+    if (partialProps.orbitTiltX !== undefined) {
+      this.container.style.setProperty('--orbit-tilt-x', `${this.props.orbitTiltX}deg`);
+    }
+
+    if (partialProps.orbitTiltY !== undefined) {
+      this.container.style.setProperty('--orbit-tilt-y', `${this.props.orbitTiltY}deg`);
+    }
+
+    if (partialProps.orbitRotationAxis !== undefined) {
+      this.container.style.setProperty('--orbit-axis', this.props.orbitRotationAxis);
     }
   }
 
