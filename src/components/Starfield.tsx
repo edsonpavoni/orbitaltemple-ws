@@ -127,30 +127,48 @@ export default function Starfield({
       // Clear canvas
       ctx.clearRect(0, 0, canvas.width, canvas.height);
 
+      // Cache time for flicker calculation (avoid multiple performance.now() calls)
+      const time = currentTime;
+
+      // Pre-calculate common values
+      const canvasHeight = canvas.height;
+      const canvasWidth = canvas.width;
+      const speedDelta = currentSpeed * deltaTime;
+
       // Update and draw stars
-      starsRef.current.forEach((star) => {
+      const stars = starsRef.current;
+      const starsLength = stars.length;
+
+      for (let i = 0; i < starsLength; i++) {
+        const star = stars[i];
+
         // Move star upward based on current speed and its depth multiplier
-        star.y -= currentSpeed * star.speedMultiplier * deltaTime;
+        star.y -= speedDelta * star.speedMultiplier;
 
         // Wrap around when star goes off top
         if (star.y < -10) {
-          star.y = canvas.height + 10;
-          star.x = Math.random() * canvas.width;
+          star.y = canvasHeight + 10;
+          star.x = Math.random() * canvasWidth;
         }
 
         // Update flicker: slowly change target opacity to create subtle twinkle
         // Each star updates at its own pace
-        star.targetOpacity = 0.5 + Math.sin(performance.now() * star.flickerSpeed) * 0.25;
+        star.targetOpacity = 0.5 + Math.sin(time * star.flickerSpeed) * 0.25;
 
         // Smoothly interpolate current opacity towards target (no abrupt changes)
         star.opacity += (star.targetOpacity - star.opacity) * 0.05;
 
         // Draw star with crisp edges (no blur/shadow)
-        ctx.fillStyle = `rgba(255, 255, 255, ${star.opacity})`;
+        // Set alpha directly instead of creating RGBA string
+        ctx.globalAlpha = star.opacity;
+        ctx.fillStyle = '#ffffff';
         ctx.beginPath();
         ctx.arc(star.x, star.y, star.size, 0, Math.PI * 2);
         ctx.fill();
-      });
+      }
+
+      // Reset global alpha
+      ctx.globalAlpha = 1;
 
       animationFrameRef.current = requestAnimationFrame(animate);
     };
