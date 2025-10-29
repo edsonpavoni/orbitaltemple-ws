@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ritual Button V6 - Simplified Single Orbit</title>
+  <link rel="stylesheet" href="/styles-v6.css">
+</head>
+<body>
+  <div class="demo-container">
+    <header class="demo-header">
+      <h1>Ritual Button V6</h1>
+      <p>Clean single orbit • Based on working V4 • Hover to accelerate</p>
+    </header>
+
+    <div class="demo-grid">
+      <div class="demo-item">
+        <h3>Default (12.5s rotation)</h3>
+        <div id="button1"></div>
+      </div>
+
+      <div class="demo-item">
+        <h3>Fast (6s rotation)</h3>
+        <div id="button2"></div>
+      </div>
+
+      <div class="demo-item">
+        <h3>Slow (20s rotation)</h3>
+        <div id="button3"></div>
+      </div>
+
+      <div class="demo-item">
+        <h3>Large (220px)</h3>
+        <div id="button4"></div>
+      </div>
+    </div>
+
+    <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid rgba(212, 175, 55, 0.2); text-align: center; color: #666;">
+      <p>Single rotating orbit ring • Gold sphere center</p>
+      <p style="margin-top: 0.5rem; color: #999;">Hover to accelerate rotation</p>
+      <p style="margin-top: 1rem; color: #D4AF37;">✨ Simplified from V4 - Only essential elements</p>
+    </footer>
+  </div>
+
+  <script type="module">
+    import { RitualButtonV6 } from './src/ritual-button-v6.ts';
+
+    // Button 1: Default
+    const button1 = new RitualButtonV6({
+      label: 'ritual',
+      rotationSec: 12.5,
+      hoverRotationSec: 5,
+      onClick: () => console.log('Button 1 clicked: Default'),
+    });
+    button1.mount(document.getElementById('button1'));
+
+    // Button 2: Fast
+    const button2 = new RitualButtonV6({
+      label: 'ritual',
+      rotationSec: 6,
+      hoverRotationSec: 2,
+      onClick: () => console.log('Button 2 clicked: Fast'),
+    });
+    button2.mount(document.getElementById('button2'));
+
+    // Button 3: Slow
+    const button3 = new RitualButtonV6({
+      label: 'ritual',
+      rotationSec: 20,
+      hoverRotationSec: 8,
+      onClick: () => console.log('Button 3 clicked: Slow'),
+    });
+    button3.mount(document.getElementById('button3'));
+
+    // Button 4: Large
+    const button4 = new RitualButtonV6({
+      label: 'ritual',
+      size: 220,
+      rotationSec: 15,
+      hoverRotationSec: 6,
+      onClick: () => console.log('Button 4 clicked: Large'),
+    });
+    button4.mount(document.getElementById('button4'));
+
+    console.log('🪐 Single orbit rotating! Hover to see it accelerate.');
+  </script>
+</body>
+</html>
