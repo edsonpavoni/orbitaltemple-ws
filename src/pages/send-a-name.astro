@@ -54,6 +54,13 @@ import SendNameForm from "../components/SendNameFormNew";
   <script is:inline>
     // Aggressive scroll prevention for iOS
     (function() {
+      // Cached function for scroll reset to avoid recreation
+      var resetScroll = function() {
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      };
+
       // Prevent all scrolling
       document.addEventListener('touchmove', function(e) {
         // Allow scrolling only on inputs when keyboard is open
@@ -63,31 +70,21 @@ import SendNameForm from "../components/SendNameFormNew";
       }, { passive: false });
 
       // Force scroll to top on any scroll attempt
-      let scrollTimeout;
+      var scrollTimeout;
       window.addEventListener('scroll', function() {
         clearTimeout(scrollTimeout);
-        scrollTimeout = setTimeout(function() {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 0);
+        scrollTimeout = setTimeout(resetScroll, 0);
       }, { passive: false });
 
       // Prevent iOS from scrolling when keyboard appears
-      window.addEventListener('resize', function() {
-        window.scrollTo(0, 0);
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-      });
+      window.addEventListener('resize', resetScroll);
 
-      // Force top position on interval
+      // Force top position on interval (reduced frequency for better performance)
       setInterval(function() {
         if (window.scrollY > 0 || document.body.scrollTop > 0) {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
+          resetScroll();
         }
-      }, 100);
+      }, 200); // Reduced from 100ms to 200ms for better performance
     })();
   </script>
 

@@ -1,7 +1,13 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import Starfield from './Starfield';
 
 type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete';
+
+// Email validation regex - created once, not per render
+const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+// Step order for transition calculations
+const STEP_ORDER: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
 
 export default function SendNameForm() {
   const [currentStep, setCurrentStep] = useState<Step>('breathing');
@@ -18,11 +24,10 @@ export default function SendNameForm() {
   const nameInputRef = useRef<HTMLInputElement>(null);
   const emailInputRef = useRef<HTMLInputElement>(null);
 
-  // Email validation function
-  const validateEmail = (email: string): boolean => {
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return emailRegex.test(email);
-  };
+  // Email validation function - memoized
+  const validateEmail = useCallback((email: string): boolean => {
+    return EMAIL_REGEX.test(email);
+  }, []);
 
   // Track viewport height changes with smooth transitions
   useEffect(() => {
@@ -204,7 +209,7 @@ export default function SendNameForm() {
     }
   }, [currentStep]);
 
-  const handleProceed = () => {
+  const handleProceed = useCallback(() => {
     console.log('handleProceed called', { currentStep, name, email, isEmailValid });
     if (currentStep === 'name-input' && name.length >= 1) {
       console.log('Moving to email-input');
@@ -215,7 +220,7 @@ export default function SendNameForm() {
     } else {
       console.log('Condition not met', { currentStep, nameLength: name.length, isEmailValid });
     }
-  };
+  }, [currentStep, name, email, isEmailValid]);
 
   // Simulate server wait on loading screen
   useEffect(() => {
@@ -229,11 +234,10 @@ export default function SendNameForm() {
     }
   }, [currentStep]);
 
-  // Calculate step visibility
-  const getStepStyle = (step: Step): React.CSSProperties => {
+  // Calculate step visibility - memoized to avoid recreating style objects
+  const getStepStyle = useCallback((step: Step): React.CSSProperties => {
     const isActive = currentStep === step;
-    const stepOrder: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
-    const isPast = stepOrder.indexOf(currentStep) > stepOrder.indexOf(step);
+    const isPast = STEP_ORDER.indexOf(currentStep) > STEP_ORDER.indexOf(step);
 
     return {
       position: 'absolute',
@@ -248,7 +252,7 @@ export default function SendNameForm() {
       alignItems: 'center',
       textAlign: 'center',
     };
-  };
+  }, [currentStep]);
 
   // Position content just below dome (72px) and menu (46px + 30px icon)
   // Move up when keyboard is open to keep everything visible
