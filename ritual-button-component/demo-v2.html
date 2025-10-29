@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ritual Button V2 - Canvas-Based 3D Orbit</title>
+  <link rel="stylesheet" href="/styles-v2.css">
+</head>
+<body>
+  <div class="demo-container">
+    <header class="demo-header">
+      <h1>Ritual Button V2</h1>
+      <p>Canvas-based implementation with single 3D orbit</p>
+    </header>
+
+    <div class="demo-grid">
+      <div class="demo-item">
+        <h3>Default Configuration</h3>
+        <div id="button1"></div>
+      </div>
+
+      <div class="demo-item">
+        <h3>Thicker Stroke + Larger Ring</h3>
+        <div id="button2"></div>
+      </div>
+
+      <div class="demo-item">
+        <h3>Tilted Azimuth (38°)</h3>
+        <div id="button3"></div>
+      </div>
+
+      <div class="demo-item">
+        <h3>Tall Ellipse</h3>
+        <div id="button4"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module">
+    import { RitualButtonV2 } from './src/ritual-button-v2.ts';
+
+    // Button 1: Default
+    const button1 = new RitualButtonV2({
+      onClick: () => console.log('Button 1 clicked: Default'),
+    });
+    button1.mount(document.getElementById('button1'));
+
+    // Button 2: Thicker stroke + larger ring
+    const button2 = new RitualButtonV2({
+      strokeWidth: 4,
+      ringRx: 95,
+      onClick: () => console.log('Button 2 clicked: Thicker stroke'),
+    });
+    button2.mount(document.getElementById('button2'));
+
+    // Button 3: Tilted azimuth
+    const button3 = new RitualButtonV2({
+      ringAzimuthDeg: 38,
+      ringRy: 45,
+      strokeColor: '#8B6F47',
+      onClick: () => console.log('Button 3 clicked: Tilted'),
+    });
+    button3.mount(document.getElementById('button3'));
+
+    // Button 4: Tall ellipse
+    const button4 = new RitualButtonV2({
+      ringRx: 60,
+      ringRy: 75,
+      ringAzimuthDeg: 25,
+      rotationSec: 6,
+      hoverRotationSec: 2,
+      onClick: () => console.log('Button 4 clicked: Tall ellipse'),
+    });
+    button4.mount(document.getElementById('button4'));
+
+    console.log('🎯 Try hovering and clicking the buttons!');
+  </script>
+</body>
+</html>
