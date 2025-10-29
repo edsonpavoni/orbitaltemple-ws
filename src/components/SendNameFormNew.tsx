@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import Starfield from './Starfield';
 
 type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete';
 
@@ -12,6 +13,7 @@ export default function SendNameForm() {
   const [isKeyboardOpen, setIsKeyboardOpen] = useState(false);
   const [nameFontSize, setNameFontSize] = useState(30);
   const [emailFontSize, setEmailFontSize] = useState(30);
+  const [speedBoost, setSpeedBoost] = useState(0);
 
   const nameInputRef = useRef<HTMLInputElement>(null);
   const emailInputRef = useRef<HTMLInputElement>(null);
@@ -62,6 +64,8 @@ export default function SendNameForm() {
       // Auto-advance after 3 seconds
       const timer = setTimeout(() => {
         setCurrentStep('name-input');
+        // Trigger speed boost when advancing to name input
+        setSpeedBoost(prev => prev + 1);
       }, 3000);
 
       return () => {
@@ -70,6 +74,26 @@ export default function SendNameForm() {
       };
     }
   }, [currentStep]);
+
+  // Track name input changes for speed boost
+  const prevNameLengthRef = useRef(0);
+  useEffect(() => {
+    if (name.length > prevNameLengthRef.current) {
+      // User typed a character
+      setSpeedBoost(prev => prev + 1);
+    }
+    prevNameLengthRef.current = name.length;
+  }, [name]);
+
+  // Track email input changes for speed boost
+  const prevEmailLengthRef = useRef(0);
+  useEffect(() => {
+    if (email.length > prevEmailLengthRef.current) {
+      // User typed a character
+      setSpeedBoost(prev => prev + 1);
+    }
+    prevEmailLengthRef.current = email.length;
+  }, [email]);
 
   // Detect keyboard open/close using focusin/focusout events
   useEffect(() => {
@@ -457,7 +481,8 @@ export default function SendNameForm() {
 
       </div>
 
-     
+      {/* Starfield background */}
+      <Starfield baseSpeed={10} starCount={67} speedBoost={speedBoost} />
     </div>
   );
 }

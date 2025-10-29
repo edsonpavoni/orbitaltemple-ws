@@ -1,0 +1,74 @@
+---
+// Lightweight SVG placeholder for the ritual button
+// Shows immediately while JS loads (core circle + text only)
+interface Props {
+  size?: number;
+  label?: string;
+}
+
+const { size = 154, label = "ritual" } = Astro.props;
+const radius = size / 2;
+// Match exact dimensions from ritual-button-v6 CSS:
+// Circle diameter: calc(var(--size) * 0.882), so radius = size * 0.441
+const circleRadius = size * 0.441;
+---
+
+<div class="ritual-placeholder" style={`width: ${size}px; height: ${size}px;`}>
+  <svg
+    width={size}
+    height={size}
+    viewBox={`0 0 ${size} ${size}`}
+    xmlns="http://www.w3.org/2000/svg"
+    aria-hidden="true"
+  >
+    <!-- Center sphere -->
+    <circle
+      cx={radius}
+      cy={radius}
+      r={circleRadius}
+      fill="#FFF7E6"
+      opacity="0.8"
+      class="center-sphere"
+    />
+
+    <!-- Label -->
+    <text
+      x={radius}
+      y={radius}
+      text-anchor="middle"
+      dominant-baseline="middle"
+      font-family="system-ui, -apple-system, sans-serif"
+      font-size={size * 0.12}
+      font-weight="700"
+      fill="#3C2A00"
+      class="button-label"
+    >
+      {label}
+    </text>
+  </svg>
+</div>
+
+<style>
+  .ritual-placeholder {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+
+  .ritual-placeholder:hover {
+    transform: scale(1.05);
+  }
+
+  .ritual-placeholder:active {
+    transform: scale(0.95);
+  }
+
+  /* Fade out when replaced */
+  .ritual-placeholder.loaded {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease-out;
+  }
+</style>
