@@ -1,0 +1,374 @@
+/* Ritual Button V5 - Single Gradient Orbit with Entrance Animation */
+
+:root {
+  --color-background: #000;
+  --color-gold100: #FFF7E6;
+  --color-text: #3C2A00;
+  --gradient-start: #93763E;
+  --gradient-end: #372605;
+}
+
+/* Container */
+.ritual-wrap-v5 {
+  --size: 170px;
+  --circle-scale-duration: 800ms;
+  --orbit-show-delay: 900ms;
+  --label-show-delay: 1200ms;
+  --orbit-rotation-sec: 20s;
+  --orbit-hover-rotation-sec: 8s;
+
+  display: inline-flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  inline-size: var(--size);
+  block-size: var(--size);
+  min-inline-size: 44px;
+  min-block-size: 44px;
+}
+
+/* Main sphere container */
+.ritual-main-v5 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  inline-size: 150px;
+  block-size: 150px;
+}
+
+/* Main circle (sphere) */
+.ritual-circle-v5 {
+  display: block;
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  z-index: 4;
+  background-color: var(--color-gold100);
+  opacity: 0.8;
+  box-shadow:
+    0 4px 12px rgba(147, 118, 62, 0.2),
+    inset -10px -5px 15px rgba(147, 118, 62, 0.1);
+
+  /* Initial state - scaled down */
+  transform: scale(0);
+  opacity: 0;
+}
+
+/* Circle entrance animation */
+.ritual-wrap-v5.animate-in .ritual-circle-v5 {
+  animation: ritual-circle-entrance var(--circle-scale-duration) ease-out forwards;
+}
+
+@keyframes ritual-circle-entrance {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+}
+
+/* Center container */
+.ritual-center-v5 {
+  display: block;
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Label inside center */
+.ritual-label-v5 {
+  position: relative;
+  z-index: 25;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 700;
+  font-size: calc(var(--size) * 0.12);
+  text-transform: lowercase;
+  color: var(--color-text);
+  line-height: 1;
+  letter-spacing: 0.02em;
+  pointer-events: none;
+
+  /* Initial state - hidden */
+  opacity: 0;
+  transform: translateY(10px);
+}
+
+/* Label entrance animation */
+.ritual-wrap-v5.animate-in .ritual-label-v5 {
+  animation: ritual-label-entrance 600ms ease-out var(--label-show-delay) forwards;
+}
+
+@keyframes ritual-label-entrance {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Single orbit ring with gradient */
+.ritual-orbit-v5 {
+  display: block;
+  position: absolute;
+  height: 170px;
+  width: 170px;
+  top: -10px;
+  left: -10px;
+  border-radius: 50%;
+  z-index: 22;
+
+  /* Gradient border using conic-gradient for smooth transition */
+  background: conic-gradient(
+    from 0deg,
+    var(--gradient-start) 0%,
+    var(--gradient-end) 50%,
+    var(--gradient-start) 100%
+  );
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  padding: 2px;
+
+  /* Initial state - hidden and tilted */
+  opacity: 0;
+  transform: rotateX(70deg);
+
+  /* Slow rotation animation */
+  animation: ritual-orbit-spin var(--orbit-rotation-sec) linear infinite;
+}
+
+/* Orbit entrance animation */
+.ritual-wrap-v5.animate-in .ritual-orbit-v5 {
+  animation:
+    ritual-orbit-entrance 600ms ease-out var(--orbit-show-delay) forwards,
+    ritual-orbit-spin var(--orbit-rotation-sec) linear var(--orbit-show-delay) infinite;
+}
+
+@keyframes ritual-orbit-entrance {
+  0% {
+    opacity: 0;
+    transform: rotateX(70deg) rotateZ(0deg) scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: rotateX(70deg) rotateZ(0deg) scale(1);
+  }
+}
+
+/* Orbit rotation animation */
+@keyframes ritual-orbit-spin {
+  0% {
+    transform: rotateX(70deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(70deg) rotateZ(360deg);
+  }
+}
+
+/* Hover state - flatten orbit to 2D */
+.ritual-wrap-v5.is-hovered .ritual-orbit-v5 {
+  animation:
+    ritual-orbit-flatten 400ms ease-out forwards,
+    ritual-orbit-spin-flat var(--orbit-hover-rotation-sec) linear infinite;
+}
+
+@keyframes ritual-orbit-flatten {
+  0% {
+    transform: rotateX(70deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(0deg) rotateZ(0deg);
+  }
+}
+
+@keyframes ritual-orbit-spin-flat {
+  0% {
+    transform: rotateX(0deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(0deg) rotateZ(360deg);
+  }
+}
+
+/* Scale circle slightly on hover */
+.ritual-wrap-v5.is-hovered .ritual-circle-v5 {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+/* Invisible button overlay */
+.ritual-btn-v5 {
+  position: absolute;
+  inset: 50%;
+  transform: translate(-50%, -50%);
+  inline-size: 150px;
+  block-size: 150px;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  z-index: 30;
+  transition: transform 0.15s ease;
+}
+
+/* Active state */
+.ritual-btn-v5:active {
+  transform: translate(-50%, -50%) scale(0.95);
+}
+
+/* Focus styles */
+.ritual-btn-v5:focus {
+  outline: 2px solid var(--gradient-start);
+  outline-offset: 4px;
+}
+
+.ritual-btn-v5:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.ritual-btn-v5:focus-visible {
+  outline: 2px solid var(--gradient-start);
+  outline-offset: 4px;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .ritual-orbit-v5 {
+    animation: none !important;
+  }
+
+  .ritual-wrap-v5.animate-in .ritual-circle-v5,
+  .ritual-wrap-v5.animate-in .ritual-orbit-v5,
+  .ritual-wrap-v5.animate-in .ritual-label-v5 {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
+  .ritual-wrap-v5.is-hovered .ritual-orbit-v5 {
+    transform: rotateX(0deg);
+    transition: transform 0.3s ease;
+  }
+}
+
+/* Demo page styles */
+body {
+  margin: 0;
+  padding: 2rem;
+  background: #000;
+  color: #fff;
+  font-family: system-ui, -apple-system, sans-serif;
+  min-block-size: 100vh;
+}
+
+.demo-container {
+  max-inline-size: 1400px;
+  margin: 0 auto;
+}
+
+.demo-header {
+  margin-block-end: 3rem;
+}
+
+.demo-header h1 {
+  font-size: 2.5rem;
+  margin-block-end: 0.5rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #93763E, #D4AF37);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.demo-header p {
+  font-size: 1.125rem;
+  color: #999;
+  margin: 0;
+}
+
+.demo-controls {
+  margin-block-end: 2rem;
+  padding: 1.5rem;
+  background: rgba(147, 118, 62, 0.05);
+  border: 1px solid rgba(147, 118, 62, 0.2);
+  border-radius: 8px;
+}
+
+.demo-controls h3 {
+  font-size: 1rem;
+  color: #93763E;
+  margin: 0 0 1rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.demo-controls button {
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, #93763E, #73572E);
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.demo-controls button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(147, 118, 62, 0.3);
+}
+
+.demo-controls button:active {
+  transform: translateY(0);
+}
+
+.demo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 4rem;
+  padding-block: 2rem;
+}
+
+.demo-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.demo-item h3 {
+  font-size: 0.875rem;
+  color: #93763E;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .demo-grid {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  .demo-header h1 {
+    font-size: 2rem;
+  }
+}

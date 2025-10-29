@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ritual Button V5 - Gradient Orbit with Entrance Animation</title>
+  <link rel="stylesheet" href="/styles-v5.css">
+</head>
+<body>
+  <div class="demo-container">
+    <header class="demo-header">
+      <h1>Ritual Button V5</h1>
+      <p>Single gradient orbit • Entrance animation • Hover to flatten to 2D</p>
+    </header>
+
+    <div class="demo-controls">
+      <h3>Replay Entrance Animation</h3>
+      <button id="replayBtn">↻ Replay Animation</button>
+    </div>
+
+    <div class="demo-grid">
+      <div class="demo-item">
+        <h3>Default Timing</h3>
+        <div id="button1"></div>
+        <p style="font-size: 0.75rem; color: #666; margin: 0;">
+          Circle: 800ms<br>
+          Orbit: 900ms delay<br>
+          Label: 1200ms delay<br>
+          Rotation: 20s
+        </p>
+      </div>
+
+      <div class="demo-item">
+        <h3>Fast Animation</h3>
+        <div id="button2"></div>
+        <p style="font-size: 0.75rem; color: #666; margin: 0;">
+          Circle: 400ms<br>
+          Orbit: 450ms delay<br>
+          Label: 600ms delay<br>
+          Rotation: 10s
+        </p>
+      </div>
+
+      <div class="demo-item">
+        <h3>Slow Animation</h3>
+        <div id="button3"></div>
+        <p style="font-size: 0.75rem; color: #666; margin: 0;">
+          Circle: 1200ms<br>
+          Orbit: 1400ms delay<br>
+          Label: 1800ms delay<br>
+          Rotation: 30s
+        </p>
+      </div>
+
+      <div class="demo-item">
+        <h3>Large (220px)</h3>
+        <div id="button4"></div>
+        <p style="font-size: 0.75rem; color: #666; margin: 0;">
+          Size: 220px<br>
+          Very slow rotation: 40s<br>
+          Hover: 12s
+        </p>
+      </div>
+    </div>
+
+    <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid rgba(147, 118, 62, 0.2); text-align: center; color: #666;">
+      <p>✨ Entrance Sequence: Circle scales up → Orbit appears → Label fades in</p>
+      <p style="margin-top: 0.5rem; color: #999;">Hover to flatten orbit to 2D and accelerate rotation</p>
+      <p style="margin-top: 1rem;">
+        <strong style="color: #93763E;">Gradient:</strong>
+        <span style="color: #93763E;">#93763E</span> →
+        <span style="color: #372605;">#372605</span>
+      </p>
+    </footer>
+  </div>
+
+  <script type="module">
+    import { RitualButtonV5 } from './src/ritual-button-v5.ts';
+
+    let buttons = [];
+
+    function createButtons() {
+      // Clear previous buttons if any
+      document.getElementById('button1').innerHTML = '';
+      document.getElementById('button2').innerHTML = '';
+      document.getElementById('button3').innerHTML = '';
+      document.getElementById('button4').innerHTML = '';
+      buttons = [];
+
+      // Button 1: Default
+      const button1 = new RitualButtonV5({
+        label: 'ritual',
+        circleScaleDuration: 800,
+        orbitShowDelay: 900,
+        labelShowDelay: 1200,
+        orbitRotationSec: 20,
+        orbitHoverRotationSec: 8,
+        onClick: () => console.log('Button 1 clicked: Default'),
+      });
+      button1.mount(document.getElementById('button1'));
+      buttons.push(button1);
+
+      // Button 2: Fast
+      const button2 = new RitualButtonV5({
+        label: 'ritual',
+        circleScaleDuration: 400,
+        orbitShowDelay: 450,
+        labelShowDelay: 600,
+        orbitRotationSec: 10,
+        orbitHoverRotationSec: 4,
+        onClick: () => console.log('Button 2 clicked: Fast'),
+      });
+      button2.mount(document.getElementById('button2'));
+      buttons.push(button2);
+
+      // Button 3: Slow
+      const button3 = new RitualButtonV5({
+        label: 'ritual',
+        circleScaleDuration: 1200,
+        orbitShowDelay: 1400,
+        labelShowDelay: 1800,
+        orbitRotationSec: 30,
+        orbitHoverRotationSec: 12,
+        onClick: () => console.log('Button 3 clicked: Slow'),
+      });
+      button3.mount(document.getElementById('button3'));
+      buttons.push(button3);
+
+      // Button 4: Large
+      const button4 = new RitualButtonV5({
+        label: 'ritual',
+        size: 220,
+        circleScaleDuration: 1000,
+        orbitShowDelay: 1100,
+        labelShowDelay: 1400,
+        orbitRotationSec: 40,
+        orbitHoverRotationSec: 12,
+        onClick: () => console.log('Button 4 clicked: Large'),
+      });
+      button4.mount(document.getElementById('button4'));
+      buttons.push(button4);
+    }
+
+    // Create buttons on load
+    createButtons();
+
+    // Replay button
+    document.getElementById('replayBtn').addEventListener('click', () => {
+      // Destroy all buttons
+      buttons.forEach(btn => btn.destroy());
+
+      // Recreate buttons
+      createButtons();
+
+      console.log('🔄 Animation replayed!');
+    });
+
+    console.log('✨ Watch the entrance animation! Hover to see 3D → 2D transition');
+  </script>
+</body>
+</html>
