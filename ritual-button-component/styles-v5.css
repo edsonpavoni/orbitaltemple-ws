@@ -148,10 +148,7 @@
 
   /* Initial state - hidden and tilted */
   opacity: 0;
-  transform: rotateX(70deg);
-
-  /* Slow rotation animation */
-  animation: ritual-orbit-spin var(--orbit-rotation-sec) linear infinite;
+  transform: rotateX(70deg) rotateZ(0deg);
 }
 
 /* Orbit entrance animation */
@@ -164,11 +161,9 @@
 @keyframes ritual-orbit-entrance {
   0% {
     opacity: 0;
-    transform: rotateX(70deg) rotateZ(0deg) scale(0.8);
   }
   100% {
     opacity: 1;
-    transform: rotateX(70deg) rotateZ(0deg) scale(1);
   }
 }
 
@@ -182,20 +177,9 @@
   }
 }
 
-/* Hover state - flatten orbit to 2D */
+/* Hover state - flatten orbit to 2D and speed up */
 .ritual-wrap-v5.is-hovered .ritual-orbit-v5 {
-  animation:
-    ritual-orbit-flatten 400ms ease-out forwards,
-    ritual-orbit-spin-flat var(--orbit-hover-rotation-sec) linear infinite;
-}
-
-@keyframes ritual-orbit-flatten {
-  0% {
-    transform: rotateX(70deg) rotateZ(0deg);
-  }
-  100% {
-    transform: rotateX(0deg) rotateZ(0deg);
-  }
+  animation: ritual-orbit-spin-flat var(--orbit-hover-rotation-sec) linear infinite;
 }
 
 @keyframes ritual-orbit-spin-flat {
