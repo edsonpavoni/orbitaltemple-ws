@@ -336,7 +336,7 @@ html, body {
   color: var(--color-ot-light);
   opacity: 0.6;
   margin-top: 8px;
-  text-align: left;
+  text-align: right;
 }
 
 .artwork-image--overflow-right {

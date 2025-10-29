@@ -171,12 +171,12 @@ export default function SendNameForm() {
     if (currentStep === 'breathing') {
       // Start: dome fully hidden
       domeImage.style.transform = 'translateY(-100%)';
-    } else if (currentStep === 'name-input' || currentStep === 'email-input') {
+    } else if (currentStep === 'name-input' || currentStep === 'email-input' || currentStep === 'loading') {
       // During journey: show bottom portion only (about 72px visible)
       domeImage.style.transform = 'translateY(-70%)';
     } else if (currentStep === 'complete') {
-      // Final page: animate further down to show more of the dome
-      domeImage.style.transform = 'translateY(0)';
+      // Final page: animate down but not fully - show about 50% of dome
+      domeImage.style.transform = 'translateY(-20%)';
     }
   }, [currentStep]);
 
