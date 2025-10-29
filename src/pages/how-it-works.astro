@@ -1,10 +1,38 @@
 ---
 import Base from "../layouts/BaseLayout.astro";
-const title = "How it works";
+import Footer from "../components/footer.astro";
 ---
-<Base title={title}>
-  <main class="mx-auto max-w-screen-md p-6 pt-20">
-    <h1 class="text-2xl font-bold text-white">{title}</h1>
-    <p class="mt-2 text-white/80">Content for the {title} page goes here.</p>
+<Base title="How it works - Orbital Temple">
+
+  <main class="artwork-page">
+
+    <!-- Main Title -->
+    <h1 class="artwork-title">
+      How it works
+    </h1>
+
+    <p class="artwork-text">
+      The Orbital Temple system consists of three interconnected elements that work together to send names to space.
+    </p>
+
+    <!-- Image -->
+    <figure class="artwork-image">
+      <img src="/howItWorks/info.png" alt="How it works diagram" />
+    </figure>
+
+    <p class="artwork-text">
+      The satellite orbits Earth at an altitude of approximately 525 km, storing the names in its memory. Ground stations communicate with the satellite during its passes, transmitting the names that people have submitted through the website.
+    </p>
+
+    <p class="artwork-text artwork-text--section-end">
+      When you submit a name, it joins a queue and will be transmitted to the satellite during the next available pass. You'll receive an email confirmation when your name has been successfully uploaded to the Orbital Temple.
+    </p>
+
+    <!-- Footer -->
+    <footer class="artwork-footer">
+      <Footer />
+    </footer>
+
   </main>
+
 </Base>

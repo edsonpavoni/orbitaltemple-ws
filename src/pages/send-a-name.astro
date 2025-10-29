@@ -91,9 +91,9 @@ import SendNameForm from "../components/SendNameFormNew";
     })();
   </script>
 
-  <!-- Fixed Dome at top - only bottom 72px visible, expands on final page -->
-  <div id="dome-container" style="position: fixed; top: 0; left: 0; width: 100%; height: 72px; overflow: hidden; z-index: 5; pointer-events: none; transition: transform 1s ease-out, height 1s ease-out;">
-    <img src="/dome.png" alt="Dome" style="position: relative; top: -170px; width: 100%; height: auto; display: block;" />
+  <!-- Fixed Dome at top - animates down during journey -->
+  <div id="dome-container" style="position: fixed; top: 0; left: 0; width: 100%; overflow: hidden; z-index: 5; pointer-events: none;">
+    <img id="dome-image" src="/dome.png" alt="Dome" style="position: relative; width: 100%; height: auto; display: block; transform: translateY(-100%); transition: transform 1s ease-out;" />
   </div>
 
   <!-- Main Content - Component handles its own positioning -->
