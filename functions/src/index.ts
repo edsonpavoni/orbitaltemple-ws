@@ -5,6 +5,13 @@ import {Resend} from "resend";
 // Initialize Firebase Admin
 admin.initializeApp();
 
+// Helper functions
+function isValidEmail(email: string): boolean {
+  if (!email) return false;
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return emailRegex.test(email.trim());
+}
+
 // Type definitions
 interface NameSubmission {
   name: string;
@@ -125,8 +132,17 @@ export const sendConfirmationEmail = functions.firestore
     const beforeData = change.before.data() as NameDocument;
     const afterData = change.after.data() as NameDocument;
 
-    // Only send email if status changed to "confirmed"
+    // Only send email if status changed to "confirmed" and email is valid
     if (beforeData.status !== "confirmed" && afterData.status === "confirmed") {
+      // Skip sending email if email is invalid
+      if (!isValidEmail(afterData.email)) {
+        functions.logger.warn("Skipping email send - invalid email address", {
+          nameId: context.params.nameId,
+          email: afterData.email,
+        });
+        return;
+      }
+
       try {
         // Initialize Resend with API key from Firebase config
         const resend = new Resend(functions.config().resend.api_key);
@@ -205,6 +221,54 @@ export const getNames = functions.https.onRequest(async (req, res) => {
     res.status(200).json({success: true, names});
   } catch (error) {
     functions.logger.error("Error fetching names", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
+/**
+ * HTTP endpoint to get name count statistics
+ * GET /getNameCount
+ */
+export const getNameCount = functions.https.onRequest(async (req, res) => {
+  // Enable CORS
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "GET, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  // Handle preflight request
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  // Only accept GET requests
+  if (req.method !== "GET") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const namesCollection = admin.firestore().collection("names");
+
+    // Get total count
+    const totalSnapshot = await namesCollection.count().get();
+    const total = totalSnapshot.data().count;
+
+    // Get counts by status
+    const pendingSnapshot = await namesCollection.where("status", "==", "pending").count().get();
+    const sentSnapshot = await namesCollection.where("status", "==", "sent").count().get();
+    const confirmedSnapshot = await namesCollection.where("status", "==", "confirmed").count().get();
+
+    const stats = {
+      total: total,
+      pending: pendingSnapshot.data().count,
+      sent: sentSnapshot.data().count,
+      confirmed: confirmedSnapshot.data().count,
+    };
+
+    res.status(200).json({success: true, stats});
+  } catch (error) {
+    functions.logger.error("Error fetching name count", error);
     res.status(500).json({error: "Internal server error"});
   }
 });
