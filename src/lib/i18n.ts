@@ -12,7 +12,7 @@ export const SUPPORTED_LANGUAGES = [
   { code: 'da', name: 'Danish', nativeName: 'Dansk' },
   { code: 'de', name: 'German', nativeName: 'Deutsch' },
   { code: 'el', name: 'Greek', nativeName: 'Ελληνικά' },
-  { code: 'en', name: 'English (US)', nativeName: 'english (us)' },
+  { code: 'en', name: 'English (US)', nativeName: 'English (us)' },
   { code: 'es', name: 'Spanish', nativeName: 'Español' },
   { code: 'et', name: 'Estonian', nativeName: 'Eesti' },
   { code: 'fi', name: 'Finnish', nativeName: 'Suomi' },
