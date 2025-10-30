@@ -5,6 +5,17 @@ import { SUPPORTED_LANGUAGES, isRTL } from '../lib/i18n';
 export default function LanguageSwitcher() {
   const { i18n } = useTranslation();
 
+  // Languages with home screen translations (for testing)
+  const TRANSLATED_LANGS = ['en', 'pt', 'es', 'fr', 'de', 'it', 'ja', 'zh'];
+
+  // Split languages into translated and untranslated
+  const translatedLanguages = SUPPORTED_LANGUAGES.filter(lang =>
+    TRANSLATED_LANGS.includes(lang.code)
+  );
+  const untranslatedLanguages = SUPPORTED_LANGUAGES.filter(lang =>
+    !TRANSLATED_LANGS.includes(lang.code)
+  );
+
   // Set default language to English if none is set
   useEffect(() => {
     // Only set to English if the current language is not one of our supported languages
@@ -52,7 +63,7 @@ export default function LanguageSwitcher() {
     }}>
       {/* Language Icon */}
       <img
-        src="/lang_icon.svg"
+        src="/lang_icon_pos.svg"
         alt="languages"
         style={{
           width: '70px',
@@ -83,11 +94,20 @@ export default function LanguageSwitcher() {
         }}
         aria-label="Select language"
       >
-        {SUPPORTED_LANGUAGES.map((lang) => (
-          <option key={lang.code} value={lang.code}>
-            {lang.nativeName}
-          </option>
-        ))}
+        <optgroup label="✓ Translated (Home Screen)">
+          {translatedLanguages.map((lang) => (
+            <option key={lang.code} value={lang.code}>
+              {lang.nativeName}
+            </option>
+          ))}
+        </optgroup>
+        <optgroup label="Other Languages (English fallback)">
+          {untranslatedLanguages.map((lang) => (
+            <option key={lang.code} value={lang.code}>
+              {lang.nativeName}
+            </option>
+          ))}
+        </optgroup>
       </select>
 
       {/* Subtitle */}
@@ -99,7 +119,11 @@ export default function LanguageSwitcher() {
         textAlign: 'center',
         width: '100%',
       }}>
-        choose from {SUPPORTED_LANGUAGES.length} languages
+        {translatedLanguages.length} languages translated • {SUPPORTED_LANGUAGES.length} total
+        <br />
+        <span style={{ fontSize: '12px', opacity: 0.7 }}>
+          (Home screen only for testing)
+        </span>
       </div>
     </div>
   );
