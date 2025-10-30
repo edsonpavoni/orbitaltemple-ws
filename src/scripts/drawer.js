@@ -1,33 +1,62 @@
 // src/scripts/drawer.js
 
 /**
- * Toggles the 'data-open' attribute on a drawer element.
- * @param {HTMLElement} drawer - The drawer element to toggle.
+ * Opens a drawer element.
+ * @param {HTMLElement} drawer - The drawer element to open.
+ * @param {HTMLElement} button - The button that triggered the drawer.
  */
-function toggleDrawer(drawer) {
-  const isOpen = drawer.getAttribute('data-open') === 'true';
-  drawer.setAttribute('data-open', !isOpen);
+function openDrawer(drawer, button) {
+  drawer.setAttribute('data-open', 'true');
+  button?.setAttribute('aria-expanded', 'true');
+  document.body.style.overflow = 'hidden';
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+/**
+ * Closes a drawer element.
+ * @param {HTMLElement} drawer - The drawer element to close.
+ * @param {HTMLElement} button - The button that triggered the drawer.
+ */
+function closeDrawer(drawer, button) {
+  drawer.setAttribute('data-open', 'false');
+  button?.setAttribute('aria-expanded', 'false');
+  document.body.style.overflow = '';
+}
+
+/**
+ * Toggles the 'data-open' attribute on a drawer element.
+ * @param {HTMLElement} drawer - The drawer element to toggle.
+ * @param {HTMLElement} button - The button that triggered the drawer.
+ */
+function toggleDrawer(drawer, button) {
+  const isOpen = drawer.getAttribute('data-open') === 'true';
+  if (isOpen) {
+    closeDrawer(drawer, button);
+  } else {
+    openDrawer(drawer, button);
+  }
+}
+
+function setupDrawers() {
   const langDrawer = document.getElementById('lang-drawer');
   const menuDrawer = document.getElementById('menu-drawer');
-  
+  const btnLang = document.getElementById('btn-lang');
+  const btnMenu = document.getElementById('btn-menu');
+
   // Attach event listeners to the main header buttons
-  document.getElementById('btn-lang')?.addEventListener('click', () => {
+  btnLang?.addEventListener('click', () => {
     if (menuDrawer?.getAttribute('data-open') === 'true') {
       // Close the menu drawer if it's open
-      toggleDrawer(menuDrawer);
+      closeDrawer(menuDrawer, btnMenu);
     }
-    toggleDrawer(langDrawer);
+    toggleDrawer(langDrawer, btnLang);
   });
-  
-  document.getElementById('btn-menu')?.addEventListener('click', () => {
+
+  btnMenu?.addEventListener('click', () => {
     if (langDrawer?.getAttribute('data-open') === 'true') {
       // Close the language drawer if it's open
-      toggleDrawer(langDrawer);
+      closeDrawer(langDrawer, btnLang);
     }
-    toggleDrawer(menuDrawer);
+    toggleDrawer(menuDrawer, btnMenu);
   });
 
   // Attach event listeners to all 'data-close' buttons within drawers
@@ -36,8 +65,37 @@ document.addEventListener('DOMContentLoaded', () => {
       // Find the nearest parent drawer and close it
       const drawer = event.target.closest('.drawer');
       if (drawer) {
-        toggleDrawer(drawer);
+        const relatedButton = drawer.id === 'lang-drawer' ? btnLang : btnMenu;
+        closeDrawer(drawer, relatedButton);
       }
     });
   });
-});
+
+  // Close on Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      if (langDrawer?.getAttribute('data-open') === 'true') {
+        closeDrawer(langDrawer, btnLang);
+      }
+      if (menuDrawer?.getAttribute('data-open') === 'true') {
+        closeDrawer(menuDrawer, btnMenu);
+      }
+    }
+  });
+
+  // Close on overlay click
+  [langDrawer, menuDrawer].forEach(drawer => {
+    drawer?.addEventListener('click', (e) => {
+      if (e.target === drawer) {
+        const relatedButton = drawer.id === 'lang-drawer' ? btnLang : btnMenu;
+        closeDrawer(drawer, relatedButton);
+      }
+    });
+  });
+}
+
+// Run on page load
+document.addEventListener('DOMContentLoaded', setupDrawers);
+
+// Run on Astro page transitions
+document.addEventListener('astro:page-load', setupDrawers);

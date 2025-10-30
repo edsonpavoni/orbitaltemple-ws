@@ -1,32 +1,20 @@
-import { useState, useEffect, useRef } from 'react';
+import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { SUPPORTED_LANGUAGES, isRTL } from '../lib/i18n';
 
 export default function LanguageSwitcher() {
   const { i18n } = useTranslation();
-  const [isOpen, setIsOpen] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
-  const dropdownRef = useRef<HTMLDivElement>(null);
-  const searchInputRef = useRef<HTMLInputElement>(null);
 
-  // Close dropdown when clicking outside
+  // Set default language to English if none is set
   useEffect(() => {
-    const handleClickOutside = (event: MouseEvent) => {
-      if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
-        setIsOpen(false);
-      }
-    };
+    // Only set to English if the current language is not one of our supported languages
+    const currentLang = i18n.language;
+    const isSupported = SUPPORTED_LANGUAGES.some(lang => lang.code === currentLang);
 
-    if (isOpen) {
-      document.addEventListener('mousedown', handleClickOutside);
-      // Focus search input when opened
-      setTimeout(() => searchInputRef.current?.focus(), 50);
+    if (!isSupported) {
+      i18n.changeLanguage('en');
     }
-
-    return () => {
-      document.removeEventListener('mousedown', handleClickOutside);
-    };
-  }, [isOpen]);
+  }, []);
 
   // Update HTML attributes when language changes
   useEffect(() => {
@@ -35,187 +23,84 @@ export default function LanguageSwitcher() {
     document.documentElement.dir = isRTL(currentLang) ? 'rtl' : 'ltr';
   }, [i18n.language]);
 
-  // Filter languages based on search query
-  const filteredLanguages = SUPPORTED_LANGUAGES.filter(lang =>
-    lang.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    lang.nativeName.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    lang.code.toLowerCase().includes(searchQuery.toLowerCase())
-  );
-
   const changeLanguage = (langCode: string) => {
     i18n.changeLanguage(langCode);
-    setIsOpen(false);
-    setSearchQuery('');
+    // Close the drawer after selecting a language
+    const drawer = document.querySelector('#lang-drawer');
+    const btnLang = document.querySelector('#btn-lang');
+    if (drawer && btnLang) {
+      drawer.setAttribute('data-open', 'false');
+      btnLang.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
   };
 
   const currentLanguage = SUPPORTED_LANGUAGES.find(lang => lang.code === i18n.language);
 
+  const handleSelectChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    changeLanguage(event.target.value);
+  };
+
   return (
-    <div ref={dropdownRef} style={{ position: 'relative', display: 'inline-block' }}>
-      {/* Current Language Button */}
-      <button
-        onClick={() => setIsOpen(!isOpen)}
-        aria-label="Change language"
-        aria-expanded={isOpen}
-        aria-haspopup="listbox"
+    <div style={{
+      width: '100%',
+      maxWidth: '520px',
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      gap: '1.5rem',
+    }}>
+      {/* Language Icon */}
+      <img
+        src="/lang_icon.svg"
+        alt="languages"
         style={{
-          display: 'flex',
-          alignItems: 'center',
-          gap: '0.5rem',
-          padding: '0.5rem 0.75rem',
-          background: 'transparent',
-          border: '1px solid rgba(212, 175, 55, 0.3)',
-          borderRadius: '4px',
-          color: 'var(--color-ot-gold100)',
-          fontSize: 'var(--text-body-sm)',
+          width: '70px',
+          height: '70px',
+          marginBottom: '1rem',
+        }}
+      />
+
+      {/* Language Select Dropdown */}
+      <select
+        value={i18n.language}
+        onChange={handleSelectChange}
+        style={{
+          width: '100%',
+          padding: '1rem 1.5rem',
+          fontSize: '18px',
+          fontWeight: 400,
+          color: 'var(--color-ot-gold600)',
+          backgroundColor: '#fff',
+          border: '2px solid var(--color-ot-gold600)',
+          borderRadius: '0',
           cursor: 'pointer',
-          transition: 'border-color 0.2s ease',
+          appearance: 'none',
+          backgroundImage: `url("data:image/svg+xml,%3Csvg width='12' height='8' viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1L6 6L11 1' stroke='%23553903' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E")`,
+          backgroundRepeat: 'no-repeat',
+          backgroundPosition: 'right 1.5rem center',
+          paddingRight: '3.5rem',
         }}
-        onMouseEnter={(e) => {
-          e.currentTarget.style.borderColor = 'rgba(212, 175, 55, 0.6)';
-        }}
-        onMouseLeave={(e) => {
-          e.currentTarget.style.borderColor = 'rgba(212, 175, 55, 0.3)';
-        }}
+        aria-label="Select language"
       >
-        <span style={{ fontSize: '1.2rem' }}>🌐</span>
-        <span>{currentLanguage?.nativeName || 'English'}</span>
-        <span style={{ fontSize: '0.7rem', opacity: 0.6 }}>
-          {isOpen ? '▲' : '▼'}
-        </span>
-      </button>
+        {SUPPORTED_LANGUAGES.map((lang) => (
+          <option key={lang.code} value={lang.code}>
+            {lang.nativeName}
+          </option>
+        ))}
+      </select>
 
-      {/* Dropdown Menu */}
-      {isOpen && (
-        <div
-          role="listbox"
-          aria-label="Select language"
-          style={{
-            position: 'absolute',
-            top: 'calc(100% + 0.5rem)',
-            right: 0,
-            width: '320px',
-            maxHeight: '400px',
-            background: 'var(--color-ot-dark)',
-            border: '1px solid rgba(212, 175, 55, 0.3)',
-            borderRadius: '8px',
-            boxShadow: '0 8px 32px rgba(0, 0, 0, 0.5)',
-            zIndex: 1000,
-            display: 'flex',
-            flexDirection: 'column',
-          }}
-        >
-          {/* Search Input */}
-          <div style={{ padding: '0.75rem', borderBottom: '1px solid rgba(212, 175, 55, 0.2)' }}>
-            <input
-              ref={searchInputRef}
-              type="text"
-              placeholder="Search languages..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              aria-label="Search languages"
-              style={{
-                width: '100%',
-                padding: '0.5rem',
-                background: 'rgba(212, 175, 55, 0.05)',
-                border: '1px solid rgba(212, 175, 55, 0.2)',
-                borderRadius: '4px',
-                color: 'var(--color-ot-gold100)',
-                fontSize: 'var(--text-body-sm)',
-                outline: 'none',
-              }}
-              onFocus={(e) => {
-                e.currentTarget.style.borderColor = 'rgba(212, 175, 55, 0.5)';
-              }}
-              onBlur={(e) => {
-                e.currentTarget.style.borderColor = 'rgba(212, 175, 55, 0.2)';
-              }}
-            />
-          </div>
-
-          {/* Language List */}
-          <div
-            style={{
-              overflowY: 'auto',
-              flex: 1,
-            }}
-          >
-            {filteredLanguages.length > 0 ? (
-              filteredLanguages.map((lang) => (
-                <button
-                  key={lang.code}
-                  role="option"
-                  aria-selected={i18n.language === lang.code}
-                  onClick={() => changeLanguage(lang.code)}
-                  style={{
-                    width: '100%',
-                    padding: '0.75rem 1rem',
-                    background: i18n.language === lang.code
-                      ? 'rgba(212, 175, 55, 0.15)'
-                      : 'transparent',
-                    border: 'none',
-                    borderBottom: '1px solid rgba(212, 175, 55, 0.1)',
-                    color: 'var(--color-ot-gold100)',
-                    fontSize: 'var(--text-body-sm)',
-                    textAlign: 'left',
-                    cursor: 'pointer',
-                    transition: 'background-color 0.15s ease',
-                    display: 'flex',
-                    justifyContent: 'space-between',
-                    alignItems: 'center',
-                  }}
-                  onMouseEnter={(e) => {
-                    if (i18n.language !== lang.code) {
-                      e.currentTarget.style.background = 'rgba(212, 175, 55, 0.08)';
-                    }
-                  }}
-                  onMouseLeave={(e) => {
-                    if (i18n.language !== lang.code) {
-                      e.currentTarget.style.background = 'transparent';
-                    }
-                  }}
-                >
-                  <div>
-                    <div style={{ fontWeight: 500 }}>{lang.nativeName}</div>
-                    <div style={{ fontSize: '0.85rem', opacity: 0.6, marginTop: '0.15rem' }}>
-                      {lang.name}
-                    </div>
-                  </div>
-                  {i18n.language === lang.code && (
-                    <span style={{ color: 'var(--color-ot-gold200)', fontSize: '1rem' }}>✓</span>
-                  )}
-                </button>
-              ))
-            ) : (
-              <div
-                style={{
-                  padding: '2rem 1rem',
-                  textAlign: 'center',
-                  color: 'var(--color-ot-gold100)',
-                  opacity: 0.5,
-                  fontSize: 'var(--text-body-sm)',
-                }}
-              >
-                No languages found
-              </div>
-            )}
-          </div>
-
-          {/* Footer Info */}
-          <div
-            style={{
-              padding: '0.5rem 1rem',
-              borderTop: '1px solid rgba(212, 175, 55, 0.2)',
-              fontSize: '0.75rem',
-              opacity: 0.5,
-              color: 'var(--color-ot-gold100)',
-              textAlign: 'center',
-            }}
-          >
-            {filteredLanguages.length} of {SUPPORTED_LANGUAGES.length} languages
-          </div>
-        </div>
-      )}
+      {/* Subtitle */}
+      <div style={{
+        fontSize: '14px',
+        fontWeight: 400,
+        color: 'var(--color-ot-gold600)',
+        lineHeight: 1.5,
+        textAlign: 'center',
+        width: '100%',
+      }}>
+        choose from {SUPPORTED_LANGUAGES.length} languages
+      </div>
     </div>
   );
 }
