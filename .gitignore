@@ -36,6 +36,7 @@ coverage/
 .firebase/
 functions/lib/
 functions/node_modules/
+functions/service-account-key.json
 
 # TypeScript
 *.tsbuildinfo

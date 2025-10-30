@@ -8,6 +8,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     <div class="stats">
       <div class="stat-card">
+        <h3>Total Names</h3>
+        <p class="stat-number" id="total-count">-</p>
+      </div>
+      <div class="stat-card">
+        <h3>Valid Emails</h3>
+        <p class="stat-number" id="valid-count">-</p>
+      </div>
+      <div class="stat-card">
         <h3>Pending</h3>
         <p class="stat-number" id="pending-count">-</p>
       </div>
@@ -59,6 +67,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <tbody id="names-tbody">
       </tbody>
     </table>
+
+    <div id="pagination" class="pagination" style="display: none;">
+      <button id="prev-page" class="btn-page">← Previous</button>
+      <span id="page-info" class="page-info">Page 1 of 1</span>
+      <button id="next-page" class="btn-page">Next →</button>
+    </div>
   </div>
 </BaseLayout>
 
@@ -397,6 +411,43 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     border-style: solid;
     border-color: rgba(0, 0, 0, 0.9) transparent transparent transparent;
   }
+
+  /* Pagination */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 2rem;
+    padding: 1.5rem;
+  }
+
+  .btn-page {
+    padding: 0.75rem 1.5rem;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.2s;
+  }
+
+  .btn-page:hover:not(:disabled) {
+    background: rgba(255, 255, 255, 0.2);
+  }
+
+  .btn-page:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+  }
+
+  .page-info {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.8);
+    min-width: 150px;
+    text-align: center;
+  }
 </style>
 
 <script>
@@ -418,6 +469,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
   let allNames: NameRecord[] = [];
   let filteredNames: NameRecord[] = [];
+  let currentPage = 1;
+  const ITEMS_PER_PAGE = 50;
+
+  function isValidEmail(email: string): boolean {
+    if (!email) return false;
+    // Basic email validation
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email.trim());
+  }
 
   async function loadNames() {
     const loading = document.getElementById('loading');
@@ -437,10 +497,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       const data = await response.json();
       allNames = data.names;
-      filteredNames = allNames;
+      // Filter to only show names with valid emails
+      filteredNames = allNames.filter(name => isValidEmail(name.email));
+      currentPage = 1;
 
       updateStats();
       renderTable();
+      updatePagination();
 
       if (loading) loading.style.display = 'none';
       if (table) table.style.display = 'table';
@@ -455,14 +518,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   }
 
   function updateStats() {
-    const pending = allNames.filter(n => n.status === 'pending').length;
-    const sent = allNames.filter(n => n.status === 'sent').length;
-    const confirmed = allNames.filter(n => n.status === 'confirmed').length;
+    const validNames = allNames.filter(n => isValidEmail(n.email));
+    const pending = validNames.filter(n => n.status === 'pending').length;
+    const sent = validNames.filter(n => n.status === 'sent').length;
+    const confirmed = validNames.filter(n => n.status === 'confirmed').length;
 
+    const totalEl = document.getElementById('total-count');
+    const validEl = document.getElementById('valid-count');
     const pendingEl = document.getElementById('pending-count');
     const sentEl = document.getElementById('sent-count');
     const confirmedEl = document.getElementById('confirmed-count');
 
+    if (totalEl) totalEl.textContent = allNames.length.toString();
+    if (validEl) validEl.textContent = validNames.length.toString();
     if (pendingEl) pendingEl.textContent = pending.toString();
     if (sentEl) sentEl.textContent = sent.toString();
     if (confirmedEl) confirmedEl.textContent = confirmed.toString();
@@ -520,7 +588,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     tbody.innerHTML = '';
 
-    filteredNames.forEach(name => {
+    // Calculate pagination
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+    const endIndex = startIndex + ITEMS_PER_PAGE;
+    const paginatedNames = filteredNames.slice(startIndex, endIndex);
+
+    paginatedNames.forEach(name => {
       const tr = document.createElement('tr');
       const countryFlag = getCountryFlag(name.countryCode);
       const countryName = name.country || 'Unknown';
@@ -606,6 +679,47 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     }
   }
 
+  function updatePagination() {
+    const pagination = document.getElementById('pagination');
+    const prevButton = document.getElementById('prev-page') as HTMLButtonElement;
+    const nextButton = document.getElementById('next-page') as HTMLButtonElement;
+    const pageInfo = document.getElementById('page-info');
+
+    if (!pagination || !prevButton || !nextButton || !pageInfo) return;
+
+    const totalPages = Math.ceil(filteredNames.length / ITEMS_PER_PAGE);
+
+    // Show pagination only if there's more than one page
+    if (totalPages > 1) {
+      pagination.style.display = 'flex';
+    } else {
+      pagination.style.display = 'none';
+    }
+
+    prevButton.disabled = currentPage === 1;
+    nextButton.disabled = currentPage === totalPages || totalPages === 0;
+
+    const startItem = filteredNames.length > 0 ? (currentPage - 1) * ITEMS_PER_PAGE + 1 : 0;
+    const endItem = Math.min(currentPage * ITEMS_PER_PAGE, filteredNames.length);
+
+    pageInfo.textContent = `Page ${currentPage} of ${totalPages} (${startItem}-${endItem} of ${filteredNames.length})`;
+  }
+
+  function goToPage(page: number) {
+    const totalPages = Math.ceil(filteredNames.length / ITEMS_PER_PAGE);
+    if (page < 1 || page > totalPages) return;
+
+    currentPage = page;
+    renderTable();
+    updatePagination();
+
+    // Scroll to top of table
+    const table = document.getElementById('names-table');
+    if (table) {
+      table.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
   function applyFilters() {
     const searchInput = document.getElementById('search') as HTMLInputElement;
     const filterSelect = document.getElementById('filter') as HTMLSelectElement;
@@ -614,6 +728,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     const statusFilter = filterSelect?.value || 'all';
 
     filteredNames = allNames.filter(name => {
+      // Only show names with valid emails
+      if (!isValidEmail(name.email)) return false;
+
       const matchesSearch = name.name.toLowerCase().includes(searchTerm) ||
                            name.email.toLowerCase().includes(searchTerm);
       const matchesStatus = statusFilter === 'all' || name.status === statusFilter;
@@ -621,12 +738,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       return matchesSearch && matchesStatus;
     });
 
+    currentPage = 1; // Reset to first page when filtering
     renderTable();
+    updatePagination();
   }
 
   function exportUnsentCSV() {
-    // Get all names that are not confirmed (pending or sent)
-    const unsentNames = allNames.filter(n => n.status === 'pending' || n.status === 'sent');
+    // Get all names that are not confirmed (pending or sent) and have valid emails
+    const unsentNames = allNames.filter(n =>
+      (n.status === 'pending' || n.status === 'sent') && isValidEmail(n.email)
+    );
 
     if (unsentNames.length === 0) {
       alert('No unsent names to export!');
@@ -740,11 +861,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     const refreshButton = document.getElementById('refresh');
     const exportButton = document.getElementById('export-csv');
     const uploadInput = document.getElementById('upload-csv');
+    const prevButton = document.getElementById('prev-page');
+    const nextButton = document.getElementById('next-page');
 
     searchInput?.addEventListener('input', applyFilters);
     filterSelect?.addEventListener('change', applyFilters);
     refreshButton?.addEventListener('click', loadNames);
     exportButton?.addEventListener('click', exportUnsentCSV);
     uploadInput?.addEventListener('change', handleCSVUpload);
+    prevButton?.addEventListener('click', () => goToPage(currentPage - 1));
+    nextButton?.addEventListener('click', () => goToPage(currentPage + 1));
   });
 </script>
