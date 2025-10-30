@@ -329,6 +329,7 @@ export default function SendNameForm() {
         position: 'relative',
         width: '100%',
         maxWidth: '600px',
+        minHeight: isDesktop ? '400px' : 'auto',
       }}>
 
         {/* Step 1: Breathing */}
