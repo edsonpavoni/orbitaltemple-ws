@@ -367,7 +367,7 @@ export default function SendNameForm() {
             }}
           >
             {t('breathing.button')}
-            <img src="/arrow.svg" alt="arrow" />
+            <img src="/UI/arrow.svg" alt="arrow" />
           </button>
         </div>
 
@@ -453,7 +453,7 @@ export default function SendNameForm() {
               }}
             >
               {t('nameInput.button')}
-              <img src="/arrow.svg" alt="arrow" />
+              <img src="/UI/arrow.svg" alt="arrow" />
             </button>
           )}
         </div>
@@ -540,7 +540,7 @@ export default function SendNameForm() {
               }}
             >
               {t('emailInput.button')}
-              <img src="/arrow.svg" alt="arrow" />
+              <img src="/UI/arrow.svg" alt="arrow" />
             </button>
           )}
         </div>
@@ -548,7 +548,7 @@ export default function SendNameForm() {
         {/* Step 4: Loading */}
         <div style={getStepStyle('loading')}>
           <img
-            src="/loader.svg"
+            src="/UI/loader.svg"
             alt={t('loading.alt')}
             style={{
               width: '60px',

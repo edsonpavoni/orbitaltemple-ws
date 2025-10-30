@@ -28,7 +28,7 @@ export default function HomeCTA() {
       >
         <span>{t('cta.link')}</span>
         <img
-          src="/arrow.svg"
+          src="/UI/arrow.svg"
           alt={t('cta.arrowAlt')}
           style={{
             width: '8px',
