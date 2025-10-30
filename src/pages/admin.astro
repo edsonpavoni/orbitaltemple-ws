@@ -74,7 +74,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
 
     <div id="load-info" class="load-info" style="display: none;">
-      Showing most recent <strong id="loaded-count">100</strong> names. <button id="load-all-link" class="load-all-link">Load all names</button>
+      Showing most recent <strong id="loaded-count">100</strong> submissions (only valid emails displayed). <button id="load-all-link" class="load-all-link">Load all names</button> to see complete dataset.
     </div>
 
     <div id="loading" class="loading">Loading names...</div>
@@ -694,7 +694,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     if (loginScreen) loginScreen.style.display = 'none';
     if (adminInterface) adminInterface.style.display = 'block';
 
-    // Load data after showing interface
+    // Load database stats first (shows real totals)
+    loadDatabaseStats();
+
+    // Then load recent names for display
     loadNames(INITIAL_LOAD_LIMIT);
   }
 
@@ -718,12 +721,48 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   const ITEMS_PER_PAGE = 50;
   const INITIAL_LOAD_LIMIT = 100;
   let allNamesLoaded = false;
+  let databaseStats = { total: 0, validEmails: 0, pending: 0, sent: 0, confirmed: 0 };
 
   function isValidEmail(email: string): boolean {
     if (!email) return false;
     // Basic email validation
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return emailRegex.test(email.trim());
+  }
+
+  async function loadDatabaseStats() {
+    try {
+      const response = await fetch(`${FUNCTIONS_URL}/getNameCount`);
+      if (!response.ok) {
+        throw new Error('Failed to fetch stats');
+      }
+
+      const data = await response.json();
+
+      // Set database totals (these include all names, valid or not)
+      databaseStats.total = data.stats.total;
+      databaseStats.pending = data.stats.pending;
+      databaseStats.sent = data.stats.sent;
+      databaseStats.confirmed = data.stats.confirmed;
+      // Estimate valid emails as total for now (will be updated when all loaded)
+      databaseStats.validEmails = data.stats.total;
+
+      updateStats();
+    } catch (error) {
+      console.error('Error loading database stats:', error);
+    }
+  }
+
+  function recalculateValidEmailStats() {
+    // When we have all names loaded, recalculate valid email stats
+    if (allNamesLoaded) {
+      const validNames = allNames.filter(n => isValidEmail(n.email));
+      databaseStats.validEmails = validNames.length;
+      databaseStats.pending = validNames.filter(n => n.status === 'pending').length;
+      databaseStats.sent = validNames.filter(n => n.status === 'sent').length;
+      databaseStats.confirmed = validNames.filter(n => n.status === 'confirmed').length;
+      updateStats();
+    }
   }
 
   async function loadNames(limit?: number) {
@@ -752,7 +791,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       filteredNames = allNames.filter(name => isValidEmail(name.email));
       currentPage = 1;
 
-      updateStats();
+      // Recalculate valid email stats if we loaded all names
+      recalculateValidEmailStats();
+
       renderTable();
       updatePagination();
       updateLoadInfo();
@@ -799,22 +840,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   }
 
   function updateStats() {
-    const validNames = allNames.filter(n => isValidEmail(n.email));
-    const pending = validNames.filter(n => n.status === 'pending').length;
-    const sent = validNames.filter(n => n.status === 'sent').length;
-    const confirmed = validNames.filter(n => n.status === 'confirmed').length;
-
     const totalEl = document.getElementById('total-count');
     const validEl = document.getElementById('valid-count');
     const pendingEl = document.getElementById('pending-count');
     const sentEl = document.getElementById('sent-count');
     const confirmedEl = document.getElementById('confirmed-count');
 
-    if (totalEl) totalEl.textContent = allNames.length.toString();
-    if (validEl) validEl.textContent = validNames.length.toString();
-    if (pendingEl) pendingEl.textContent = pending.toString();
-    if (sentEl) sentEl.textContent = sent.toString();
-    if (confirmedEl) confirmedEl.textContent = confirmed.toString();
+    // Use database stats instead of loaded names
+    if (totalEl) totalEl.textContent = databaseStats.total.toString();
+    if (validEl) validEl.textContent = databaseStats.validEmails.toString();
+    if (pendingEl) pendingEl.textContent = databaseStats.pending.toString();
+    if (sentEl) sentEl.textContent = databaseStats.sent.toString();
+    if (confirmedEl) confirmedEl.textContent = databaseStats.confirmed.toString();
   }
 
   function formatTimestamp(timestamp?: { _seconds: number }): string {
