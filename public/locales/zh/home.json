@@ -1,13 +1,13 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
+    "title": "轨道神殿",
+    "subtitle": "是一件艺术品和一颗卫星，\n旨在成为一座根本包容的寺庙，\n在一个没有墙能够触及的地方。"
   },
   "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
+    "link": "然而，又一座寺庙？",
+    "arrowAlt": "箭头"
   },
   "dome": {
-    "alt": "Dome"
+    "alt": "穹顶"
   }
 }
