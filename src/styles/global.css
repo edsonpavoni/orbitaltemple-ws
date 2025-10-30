@@ -143,6 +143,21 @@ html, body {
   margin: 0 0 var(--spacing-responsive) 0;
 }
 
+.input-field::placeholder {
+  opacity: 0.5;
+  color: var(--color-ot-light);
+}
+
+.input-field::-webkit-input-placeholder {
+  opacity: 0.5;
+  color: var(--color-ot-light);
+}
+
+.input-field::-moz-placeholder {
+  opacity: 0.5;
+  color: var(--color-ot-light);
+}
+
 .input-field--no-border {
   border-bottom: none;
 }
@@ -155,18 +170,20 @@ html, body {
   font-size: 16px;
   font-weight: 700;
   cursor: pointer;
-  margin: 0;
+  margin: 0 auto;
   padding: 0.5rem;
-  animation: fadeIn 0.3s ease-in;
   position: relative;
   z-index: 1000;
   touch-action: manipulation;
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-left: auto;
   text-transform: lowercase;
   font-variant: small-caps;
+}
+
+.btn-action:hover {
+  color: var(--color-ot-gold300);
 }
 
 .btn-action img {
