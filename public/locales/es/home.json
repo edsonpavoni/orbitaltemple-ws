@@ -3,6 +3,9 @@
     "title": "Templo Orbital",
     "subtitle": "es una obra de arte y un satélite,\ncon el objetivo de ser un templo radicalmente inclusivo,\nen un lugar donde ningún muro puede alcanzar."
   },
+  "ritual": {
+    "label": "ritual"
+  },
   "cta": {
     "link": "¿Aún así, otro templo?",
     "arrowAlt": "flecha"

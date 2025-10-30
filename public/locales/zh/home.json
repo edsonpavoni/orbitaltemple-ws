@@ -9,5 +9,8 @@
   },
   "dome": {
     "alt": "穹顶"
+  },
+  "ritual": {
+    "label": "ritual"
   }
 }
