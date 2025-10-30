@@ -63,7 +63,7 @@ export default function LanguageSwitcher() {
     }}>
       {/* Language Icon */}
       <img
-        src="/lang_icon_pos.svg"
+        src="/UI/lang_icon_pos.svg"
         alt="languages"
         style={{
           width: '70px',

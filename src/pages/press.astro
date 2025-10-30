@@ -1,0 +1,411 @@
+---
+import Base from "../layouts/BaseLayout.astro";
+import Footer from "../components/Footer.astro";
+import NameCounter from "../components/NameCounter";
+---
+<Base title="Press & Media - Orbital Temple">
+
+  <main class="artwork-page">
+
+    <!-- Main Title -->
+    <h1 class="artwork-title">
+      Press & Media
+    </h1>
+
+    <!-- Press Contact -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        Press Contact
+      </h2>
+      <p class="artwork-text">
+        For press inquiries, interviews, and media requests:<br />
+        <strong>Email:</strong> <a href="mailto:edson@edsonpavoni.com">edson@edsonpavoni.com</a><br />
+        <strong>Website:</strong> <a href="https://orbitaltemple.com">orbitaltemple.com</a>
+      </p>
+    </section>
+
+    <!-- About the Project -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        About the Project
+      </h2>
+      <p class="artwork-text">
+        Orbital Temple is an artwork and a satellite that aims to be the first radically inclusive temple—a sacred space accessible to all, built where no walls can reach. Created by Brazilian artist Edson Pavoni, the project invites people from around the world to send the name of someone they wish to remember. These names are transmitted to a satellite in orbit, creating a collective memorial beyond borders, nations, and religions.
+      </p>
+      <p class="artwork-text artwork-text--section-end">
+        Through a website available in 246 languages, participants engage in a breathing ritual before sending a name into space. The Orbital Temple explores themes of inclusion, memory, and our shared humanity—questioning why no physical temple on Earth can truly welcome everyone, and proposing space as the only place where radical inclusivity might exist.
+      </p>
+    </section>
+
+    <!-- Key Facts -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        Key Facts
+      </h2>
+      <ul class="artwork-text" style="list-style: none; padding-left: 0;">
+        <li style="margin-bottom: 0.5rem;"><strong>Artist:</strong> Edson Pavoni (Brazil)</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Project Type:</strong> Satellite artwork, participatory installation, web-based ritual</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Launch Date:</strong> November 28, 2025</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Launch Location:</strong> ISRO (Indian Space Research Organisation), India</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Orbit:</strong> 525km altitude, Sun-synchronous</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Languages:</strong> 246 languages supported via Google Translation API</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Participation:</strong> Free, open to everyone globally</li>
+        <li style="margin-bottom: 0.5rem;"><strong>Ground Station:</strong> 6m diameter antenna/sculpture installation</li>
+      </ul>
+
+      <div style="margin-top: 1.5rem; padding: 1rem; background: rgba(250, 212, 58, 0.05); border-left: 3px solid var(--color-ot-gold200);">
+        <p class="artwork-text" style="margin: 0 0 0.5rem 0; font-weight: 600;">
+          <strong>Names Sent to Orbit:</strong>
+        </p>
+        <NameCounter client:load />
+        <p class="artwork-text" style="margin: 0.5rem 0 0 0; font-size: var(--text-body-sm); opacity: 0.7;">
+          <em>Live count updated from database • Last refreshed: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' })}</em>
+        </p>
+      </div>
+    </section>
+
+    <!-- About the Artist -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        About the Artist
+      </h2>
+
+      <div class="artist-photos-grid">
+        <div class="artist-photo-item">
+          <a href="/press/edson-pavoni-1.jpg" download="edson-pavoni-portrait-1.jpg">
+            <img src="/press/edson-pavoni-1.webp" alt="Edson Pavoni Portrait 1" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Photo 1<br />↓ Download High-Res</p>
+          </a>
+        </div>
+        <div class="artist-photo-item">
+          <a href="/press/edson-pavoni-2.jpg" download="edson-pavoni-portrait-2.jpg">
+            <img src="/press/edson-pavoni-2.webp" alt="Edson Pavoni Portrait 2" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Photo 2<br />↓ Download High-Res</p>
+          </a>
+        </div>
+      </div>
+
+      <p class="artwork-text" style="margin-top: 2rem;">
+        <strong>Edson Pavoni</strong> is a Brazilian artist whose work explores the intersection of technology, ritual, and human connection. Through participatory installations and public artworks, Pavoni creates experiences that invite collective participation and challenge traditional boundaries between art, science, and spirituality.
+      </p>
+      <p class="artwork-text artwork-text--section-end">
+        Orbital Temple is created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple.
+      </p>
+    </section>
+
+    <!-- High-Resolution Images -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        High-Resolution Images for Press Use
+      </h2>
+      <p class="artwork-text">
+        All images are available for editorial use. Click any image to download the high-resolution file. Please credit: "Photo by Clara Marques / Courtesy of Edson Pavoni, Orbital Temple"
+      </p>
+
+      <div class="press-images-grid">
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-08.jpg" download="edson-pavoni-orbital-temple-clara-marques-08.jpg">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-08.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 01<br />Photo: Clara Marques<br />↓ Download High-Res (1.4 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-01.jpg" download="edson-pavoni-orbital-temple-clara-marques-01.jpg">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-01.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 02<br />Photo: Clara Marques<br />↓ Download High-Res (2.9 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-02.png" download="edson-pavoni-orbital-temple-clara-marques-02.png">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-02.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 03<br />Photo: Clara Marques<br />↓ Download High-Res (11 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-03.jpg" download="edson-pavoni-orbital-temple-clara-marques-03.jpg">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-03.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 04<br />Photo: Clara Marques<br />↓ Download High-Res (3.4 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-04.jpg" download="edson-pavoni-orbital-temple-clara-marques-04.jpg">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-04.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 05<br />Photo: Clara Marques<br />↓ Download High-Res (3.3 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-05.jpg" download="edson-pavoni-orbital-temple-clara-marques-05.jpg">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-05.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 06<br />Photo: Clara Marques<br />↓ Download High-Res (3.7 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-06.jpg" download="edson-pavoni-orbital-temple-clara-marques-06.jpg">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-06.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 07<br />Photo: Clara Marques<br />↓ Download High-Res (3.4 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/press/edson-pavoni-orbital-temple-clara-marques-07.jpg" download="edson-pavoni-orbital-temple-clara-marques-07.jpg">
+            <img src="/press/edson-pavoni-orbital-temple-clara-marques-07.webp" alt="Orbital Temple Installation by Edson Pavoni" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Installation View 08<br />Photo: Clara Marques<br />↓ Download High-Res (2.7 MB)</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/artwork/satellite_1.webp" download="orbital-temple-satellite.webp">
+            <img src="/artwork/satellite_1.webp" alt="Orbital Temple Satellite Design" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Satellite Design<br />↓ Download</p>
+          </a>
+        </div>
+
+        <div class="press-image-item">
+          <a href="/artwork/antenna.webp" download="orbital-temple-antenna.webp">
+            <img src="/artwork/antenna.webp" alt="Orbital Temple Antenna Sculpture" />
+            <p style="font-size: var(--text-body-sm); margin-top: 0.5rem;">Antenna/Sculpture<br />↓ Download</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Awards & Recognition -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        Awards & Recognition
+      </h2>
+      <ul class="artwork-text" style="list-style: none; padding-left: 0;">
+        <li style="margin-bottom: 1rem;">
+          <strong>13th Mercosul Bienal</strong> (2022)<br />
+          Porto Alegre, Brazil<br />
+          Curated by Marcelo Dantas
+        </li>
+        <li style="margin-bottom: 1rem;">
+          <strong>Lumen Prize 2022 - Futures Award</strong><br />
+          Longlisted
+        </li>
+        <li style="margin-bottom: 1rem;">
+          <strong>CubeDesign 2021 Competition</strong><br />
+          Winner - ArtSat Category<br />
+          Promoted by Brazilian Institute of Space Research (INPE)
+        </li>
+      </ul>
+
+      <div class="milestone-images-container" style="margin-top: 2rem;">
+        <figure class="milestone-image">
+          <img src="/milestones/lumen.webp" alt="Lumen Prize" />
+        </figure>
+
+        <figure class="milestone-image">
+          <img src="/milestones/mercosul.webp" alt="Mercosul Bienal" />
+        </figure>
+      </div>
+    </section>
+
+    <!-- Quotes / Artist Statement -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        Artist Statement (Excerpt)
+      </h2>
+      <p class="artwork-text" style="font-style: italic;">
+        "No temple can be radically inclusive. There is no place on Earth that can hold the universal sacred. Yet all peoples who ever lived built temples, proof that something sacred unites us. Something that sees no borders. Something that deserves a place of its own."
+      </p>
+      <p class="artwork-text artwork-text--section-end" style="font-style: italic;">
+        "Where could we build such a temple? Where no walls can reach, no nation can claim, no religion can rule. Space."
+      </p>
+    </section>
+
+    <!-- Featured In / Press Coverage -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        Featured In / Press Coverage
+      </h2>
+      <p class="artwork-text">
+        <em>Press coverage and features will be added as they become available. For the latest updates, please contact our press team.</em>
+      </p>
+      <p class="artwork-text artwork-text--section-end">
+        Previous exhibitions and features include presentations at the 13th Mercosul Bienal, recognition from the Lumen Prize, and selection by the Brazilian Institute of Space Research (INPE).
+      </p>
+    </section>
+
+    <!-- Technical Specifications -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        Technical Specifications
+      </h2>
+
+      <h3 style="font-size: var(--text-body-std); font-weight: 700; margin: 1.5rem 0 0.75rem 0;">Satellite</h3>
+      <ul class="artwork-text" style="list-style: none; padding-left: 0;">
+        <li>Dimensions: 50 x 58 x 64 mm</li>
+        <li>Classification: 1P PocketQube</li>
+        <li>Weight: 245g</li>
+        <li>Materials: Aluminum, gold, fiberglass, electronic components</li>
+        <li>Orbit: Altitude 525 ± 25 km; Inclination: SSO 97.6 ± 0.1°</li>
+        <li>Launch: November 28, 2025 via ISRO, India</li>
+      </ul>
+
+      <h3 style="font-size: var(--text-body-std); font-weight: 700; margin: 1.5rem 0 0.75rem 0;">Antenna/Sculpture</h3>
+      <ul class="artwork-text" style="list-style: none; padding-left: 0;">
+        <li>Dimensions: 6m diameter x 1.2m height</li>
+        <li>Weight: 46 kg</li>
+        <li>Materials: Aluminum, epoxy mirrored board, golden aluminum dome suspended through scaffolding structure</li>
+      </ul>
+
+      <h3 style="font-size: var(--text-body-std); font-weight: 700; margin: 1.5rem 0 0.75rem 0;">Radio Specifications</h3>
+      <p class="artwork-text artwork-text--section-end">
+        Downlink: 437 MHz<br />
+        Launch Status: Scheduled November 28, 2025
+      </p>
+    </section>
+
+    <!-- Additional Resources -->
+    <section class="press-section">
+      <h2 class="artwork-subtitle">
+        Additional Resources
+      </h2>
+      <p class="artwork-text additional-resources-links">
+        <a href="/artwork">→ View Artwork Documentation</a><br />
+        <a href="/how-it-works">→ How It Works</a><br />
+        <a href="/info">→ Technical Information</a><br />
+        <a href="/space-launch">→ Space Launch Information</a><br />
+        <a href="/">→ Experience the Ritual</a>
+      </p>
+    </section>
+
+    <!-- Footer -->
+    <footer class="artwork-footer">
+      <Footer />
+    </footer>
+
+  </main>
+
+  <style>
+    .press-section {
+      margin-bottom: 3rem;
+    }
+
+    .press-section h2.artwork-subtitle {
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+    }
+
+    .press-section h3 {
+      color: var(--color-ot-light);
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .press-release-summary {
+      background: rgba(250, 212, 58, 0.05);
+      padding: 2rem;
+      border-left: 4px solid var(--color-ot-gold200);
+      margin-bottom: 3rem;
+    }
+
+    .artist-photos-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      margin-top: 1.5rem;
+    }
+
+    .artist-photo-item {
+      text-align: right;
+    }
+
+    .artist-photo-item a {
+      text-decoration: none;
+      color: var(--color-ot-light);
+      transition: color 0.2s ease;
+      display: block;
+    }
+
+    .artist-photo-item a:hover {
+      color: var(--color-ot-gold200);
+    }
+
+    .artist-photo-item img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .press-images-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2rem;
+      margin-top: 1.5rem;
+    }
+
+    .press-image-item {
+      text-align: right;
+    }
+
+    .press-image-item a {
+      text-decoration: none;
+      color: var(--color-ot-light);
+      transition: color 0.2s ease;
+      display: block;
+    }
+
+    .press-image-item a:hover {
+      color: var(--color-ot-gold200);
+    }
+
+    .press-image-item img {
+      display: block;
+      width: 100%;
+    }
+
+    .milestone-images-container {
+      display: flex;
+      gap: 2rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .milestone-image {
+      margin: 0;
+      max-width: 200px;
+    }
+
+    .milestone-image img {
+      width: 100%;
+      height: auto;
+    }
+
+    /* Additional Resources styling */
+    .additional-resources-links a {
+      color: var(--color-ot-light);
+      text-decoration: underline;
+      transition: color 0.2s ease;
+    }
+
+    .additional-resources-links a:hover {
+      color: var(--color-ot-gold200);
+    }
+
+    @media (max-width: 768px) {
+      .press-images-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      .artist-photos-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .press-release-summary {
+        padding: 1.5rem;
+      }
+    }
+  </style>
+
+</Base>
