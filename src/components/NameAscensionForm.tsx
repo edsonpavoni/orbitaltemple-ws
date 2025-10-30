@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
+import { useTranslation } from 'react-i18next';
 import Starfield from './Starfield';
 
 type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete';
@@ -10,6 +11,18 @@ const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const STEP_ORDER: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
 
 export default function SendNameForm() {
+  const { t } = useTranslation('send-a-name');
+
+  // Helper function to convert \n to <br/> tags
+  const renderTextWithBreaks = (text: string) => {
+    return text.split('\n').map((line, index, array) => (
+      <span key={index}>
+        {line}
+        {index < array.length - 1 && <br />}
+      </span>
+    ));
+  };
+
   const [currentStep, setCurrentStep] = useState<Step>('breathing');
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -328,14 +341,7 @@ export default function SendNameForm() {
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
           }}>
-            as you enter<br />
-            a ritual <br /><br />
-            to send a name<br />
-            into the<br />
-            orbital temple<br />
-            in space <br /><br />
-            take <br />
-            a breath
+            {renderTextWithBreaks(t('breathing.text'))}
           </p>
 
           <p className="page-subtitle" style={{
@@ -359,7 +365,7 @@ export default function SendNameForm() {
               marginRight: 0,
             }}
           >
-            I'm ready
+            {t('breathing.button')}
             <img src="/arrow.svg" alt="arrow" />
           </button>
         </div>
@@ -371,14 +377,14 @@ export default function SendNameForm() {
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
           }}>
-            type a name
+            {t('nameInput.title')}
           </h1>
           <p className="page-subtitle" style={{
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
           }}>
-            it will rise to the Orbital Temple in space.
+            {t('nameInput.subtitle')}
           </p>
 
           <input
@@ -399,7 +405,7 @@ export default function SendNameForm() {
               window.scrollTo(0, 0);
               document.body.scrollTop = 0;
             }}
-            placeholder="name"
+            placeholder={t('nameInput.placeholder')}
             className={`input-field ${name.length > 0 ? 'input-field--no-border' : ''}`}
             style={{
               fontSize: `${nameFontSize}px`,
@@ -445,7 +451,7 @@ export default function SendNameForm() {
                 transitionDelay: '0.4s',
               }}
             >
-              let it ascend
+              {t('nameInput.button')}
               <img src="/arrow.svg" alt="arrow" />
             </button>
           )}
@@ -458,14 +464,14 @@ export default function SendNameForm() {
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
           }}>
-            type your email
+            {t('emailInput.title')}
           </h1>
           <p className="page-subtitle" style={{
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
           }}>
-            so you get a message when the name ascends.
+            {t('emailInput.subtitle')}
           </p>
 
           <input
@@ -486,7 +492,7 @@ export default function SendNameForm() {
               window.scrollTo(0, 0);
               document.body.scrollTop = 0;
             }}
-            placeholder="your email"
+            placeholder={t('emailInput.placeholder')}
             className={`input-field ${email.length > 0 ? 'input-field--no-border' : ''}`}
             style={{
               fontSize: `${emailFontSize}px`,
@@ -532,7 +538,7 @@ export default function SendNameForm() {
                 transitionDelay: '0.4s',
               }}
             >
-              it is done
+              {t('emailInput.button')}
               <img src="/arrow.svg" alt="arrow" />
             </button>
           )}
@@ -542,7 +548,7 @@ export default function SendNameForm() {
         <div style={getStepStyle('loading')}>
           <img
             src="/loader.svg"
-            alt="Loading"
+            alt={t('loading.alt')}
             style={{
               width: '60px',
               height: '60px',
@@ -563,21 +569,7 @@ export default function SendNameForm() {
             opacity: showCompleteText ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
           }}>
-            The name<br />
-            {name}<br />
-            is now queued<br />
-            for ascension.<br />
-            <br />
-            When the<br />
-            temple in space<br />
-            aligns, with<br />
-            our antenna<br />
-            on Earth<br />
-            <br />
-            we will send<br />
-            the name<br />
-            and you'll receive<br />
-            a message.
+            {renderTextWithBreaks(t('success.text', { name }))}
           </p>
         </div>
 
