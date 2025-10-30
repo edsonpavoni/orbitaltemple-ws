@@ -3,45 +3,39 @@ import { initReactI18next } from 'react-i18next';
 import HttpBackend from 'i18next-http-backend';
 import LanguageDetector from 'i18next-browser-languagedetector';
 
-// List of all 246 supported languages
-// This is a comprehensive list - you can add/remove based on your needs
+// DeepL-supported languages (30 total)
+// These languages are available for free translation via DeepL API
 export const SUPPORTED_LANGUAGES = [
-  // Top 20 most spoken languages
-  { code: 'en', name: 'English', nativeName: 'English' },
-  { code: 'zh', name: 'Chinese', nativeName: '中文' },
-  { code: 'hi', name: 'Hindi', nativeName: 'हिन्दी' },
-  { code: 'es', name: 'Spanish', nativeName: 'Español' },
-  { code: 'fr', name: 'French', nativeName: 'Français' },
   { code: 'ar', name: 'Arabic', nativeName: 'العربية', rtl: true },
-  { code: 'bn', name: 'Bengali', nativeName: 'বাংলা' },
-  { code: 'pt', name: 'Portuguese', nativeName: 'Português' },
-  { code: 'ru', name: 'Russian', nativeName: 'Русский' },
-  { code: 'id', name: 'Indonesian', nativeName: 'Bahasa Indonesia' },
-  { code: 'ur', name: 'Urdu', nativeName: 'اردو', rtl: true },
-  { code: 'de', name: 'German', nativeName: 'Deutsch' },
-  { code: 'ja', name: 'Japanese', nativeName: '日本語' },
-  { code: 'sw', name: 'Swahili', nativeName: 'Kiswahili' },
-  { code: 'mr', name: 'Marathi', nativeName: 'मराठी' },
-  { code: 'te', name: 'Telugu', nativeName: 'తెలుగు' },
-  { code: 'tr', name: 'Turkish', nativeName: 'Türkçe' },
-  { code: 'ta', name: 'Tamil', nativeName: 'தமிழ்' },
-  { code: 'vi', name: 'Vietnamese', nativeName: 'Tiếng Việt' },
-  { code: 'ko', name: 'Korean', nativeName: '한국어' },
-
-  // Additional major languages
-  { code: 'it', name: 'Italian', nativeName: 'Italiano' },
-  { code: 'th', name: 'Thai', nativeName: 'ไทย' },
-  { code: 'pl', name: 'Polish', nativeName: 'Polski' },
-  { code: 'uk', name: 'Ukrainian', nativeName: 'Українська' },
-  { code: 'nl', name: 'Dutch', nativeName: 'Nederlands' },
-  { code: 'el', name: 'Greek', nativeName: 'Ελληνικά' },
-  { code: 'he', name: 'Hebrew', nativeName: 'עברית', rtl: true },
-  { code: 'fa', name: 'Persian', nativeName: 'فارسی', rtl: true },
+  { code: 'bg', name: 'Bulgarian', nativeName: 'Български' },
   { code: 'cs', name: 'Czech', nativeName: 'Čeština' },
+  { code: 'da', name: 'Danish', nativeName: 'Dansk' },
+  { code: 'de', name: 'German', nativeName: 'Deutsch' },
+  { code: 'el', name: 'Greek', nativeName: 'Ελληνικά' },
+  { code: 'en', name: 'English (US)', nativeName: 'english (us)' },
+  { code: 'es', name: 'Spanish', nativeName: 'Español' },
+  { code: 'et', name: 'Estonian', nativeName: 'Eesti' },
+  { code: 'fi', name: 'Finnish', nativeName: 'Suomi' },
+  { code: 'fr', name: 'French', nativeName: 'Français' },
+  { code: 'hu', name: 'Hungarian', nativeName: 'Magyar' },
+  { code: 'id', name: 'Indonesian', nativeName: 'Bahasa Indonesia' },
+  { code: 'it', name: 'Italian', nativeName: 'Italiano' },
+  { code: 'ja', name: 'Japanese', nativeName: '日本語' },
+  { code: 'ko', name: 'Korean', nativeName: '한국어' },
+  { code: 'lt', name: 'Lithuanian', nativeName: 'Lietuvių' },
+  { code: 'lv', name: 'Latvian', nativeName: 'Latviešu' },
+  { code: 'nb', name: 'Norwegian', nativeName: 'Norsk' },
+  { code: 'nl', name: 'Dutch', nativeName: 'Nederlands' },
+  { code: 'pl', name: 'Polish', nativeName: 'Polski' },
+  { code: 'pt', name: 'Portuguese', nativeName: 'Português' },
+  { code: 'ro', name: 'Romanian', nativeName: 'Română' },
+  { code: 'ru', name: 'Russian', nativeName: 'Русский' },
+  { code: 'sk', name: 'Slovak', nativeName: 'Slovenčina' },
+  { code: 'sl', name: 'Slovenian', nativeName: 'Slovenščina' },
   { code: 'sv', name: 'Swedish', nativeName: 'Svenska' },
-
-  // Add more languages as needed - this structure supports all 246
-  // Format: { code: 'ISO-639-1', name: 'English Name', nativeName: 'Native Name', rtl?: true }
+  { code: 'tr', name: 'Turkish', nativeName: 'Türkçe' },
+  { code: 'uk', name: 'Ukrainian', nativeName: 'Українська' },
+  { code: 'zh', name: 'Chinese', nativeName: '中文' },
 ];
 
 // RTL languages helper
@@ -69,9 +63,9 @@ i18n
       crossDomain: false,
     },
 
-    // Language detection order
+    // Language detection order - prioritize localStorage, but fallback to English
     detection: {
-      order: ['localStorage', 'navigator', 'htmlTag'],
+      order: ['localStorage', 'htmlTag', 'navigator'],
       caches: ['localStorage'],
       lookupLocalStorage: 'i18nextLng',
     },

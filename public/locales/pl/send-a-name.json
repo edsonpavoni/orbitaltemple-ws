@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "title": "think of a name",
+    "subtitle": "a being you want to honor, cherish, celebrate."
+  },
+  "nameInput": {
+    "title": "now, type that name",
+    "subtitle": "it will rise to the Orbital Temple in space.",
+    "placeholder": "Name to Ascend",
+    "button": "let it ascend"
+  },
+  "emailInput": {
+    "title": "type your email",
+    "subtitle": "so you get a message when the name ascends.",
+    "placeholder": "you@something.com",
+    "button": "it is done"
+  },
+  "loading": {
+    "title": "sending to the temple..."
+  },
+  "success": {
+    "title": "The name {{name}}\nis now queued for ascension.\nWhen the temple aligns, you'll\nreceive a message."
+  }
+}

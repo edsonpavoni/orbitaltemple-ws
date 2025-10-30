@@ -50,7 +50,7 @@ export default function SendNameForm() {
     };
   }, []);
 
-  // Breathing animation (3 seconds for testing)
+  // Breathing animation
   useEffect(() => {
     if (currentStep === 'breathing') {
       const breathingCycle = 2000;
@@ -66,16 +66,8 @@ export default function SendNameForm() {
 
       const animationId = requestAnimationFrame(animate);
 
-      // Auto-advance after 3 seconds
-      const timer = setTimeout(() => {
-        setCurrentStep('name-input');
-        // Trigger speed boost when advancing to name input
-        setSpeedBoost(prev => prev + 1);
-      }, 3000);
-
       return () => {
         cancelAnimationFrame(animationId);
-        clearTimeout(timer);
       };
     }
   }, [currentStep]);
@@ -286,30 +278,35 @@ export default function SendNameForm() {
         {/* Step 1: Breathing */}
         <div style={getStepStyle('breathing')}>
           <h1 className="page-title">
-            think of a name
+            
           </h1>
           <p className="page-subtitle">
-            a being you want to honor, cherish, celebrate.
+            as you enter<br />
+            a ritual <br /><br />
+            to send a name<br />
+            into the<br /> 
+            orbital temple<br />
+            in space <br /><br />
+            take <br />
+            a breath
           </p>
 
-          <div style={{
-            width: '120px',
-            height: '120px',
-            borderRadius: '50%',
-            border: '2px solid var(--color-ot-light)',
-            margin: 'clamp(16px, 5vh, 72px) 0',
-            transform: `scale(${breathingScale})`,
-            transition: 'transform 0.1s ease-out',
-            boxShadow: '0 0 40px rgba(255, 255, 255, 0.3)',
-          }}></div>
-
-          <p style={{
-            fontSize: 'var(--text-body-std)',
-            lineHeight: 'var(--text-body-std-lh)',
-            opacity: 0.8,
-            margin: '2rem 0 0 0',
+          <p className="page-subtitle" style={{
+            margin: 'clamp(16px, 5vh, 72px) 0 2rem 0',
           }}>
+            
           </p>
+
+          <button
+            onClick={() => {
+              setCurrentStep('name-input');
+              setSpeedBoost(prev => prev + 1);
+            }}
+            className="btn-action"
+          >
+            I'm ready
+            <img src="/arrow.svg" alt="arrow" />
+          </button>
         </div>
 
         {/* Step 2: Name Input */}
@@ -424,63 +421,39 @@ export default function SendNameForm() {
 
         {/* Step 4: Loading */}
         <div style={getStepStyle('loading')}>
-          <h1 className="page-title">
-            sending to the temple...
-          </h1>
-          <div style={{
-            width: '60px',
-            height: '60px',
-            borderRadius: '50%',
-            border: '3px solid rgba(255, 255, 255, 0.3)',
-            borderTopColor: 'var(--color-ot-light)',
-            margin: '3rem 0',
-            animation: 'spin 1s linear infinite',
-          }}></div>
+          <img
+            src="/loader.svg"
+            alt="Loading"
+            style={{
+              width: '60px',
+              height: '60px',
+              marginTop: '3rem',
+              animation: 'spin 1s linear infinite',
+            }}
+          />
         </div>
 
         {/* Step 5: Complete */}
         <div style={getStepStyle('complete')}>
-          <div style={{
-            margin: '2rem 0 3rem 0',
-            position: 'relative',
-            width: '200px',
-            height: '200px',
-          }}>
-            <div style={{
-              width: '100%',
-              height: '100%',
-              borderRadius: '50%',
-              border: '2px solid var(--color-ot-gold300)',
-              background: 'transparent',
-              position: 'absolute',
-              animation: 'pulse 2s ease-in-out infinite',
-            }}></div>
-            <div style={{
-              width: '60%',
-              height: '60%',
-              borderRadius: '50%',
-              border: '1px solid var(--color-ot-gold400)',
-              background: 'var(--color-ot-dark)',
-              position: 'absolute',
-              top: '20%',
-              left: '20%',
-            }}></div>
-            <div style={{
-              position: 'absolute',
-              top: '50%',
-              left: 0,
-              right: 0,
-              height: '1px',
-              background: 'var(--color-ot-gold300)',
-            }}></div>
-          </div>
 
-          <h1 className="success-title">
-            The name {name}<br />
-            is now queued for ascension.<br />
-            When the temple aligns, you'll<br />
-            receive a message.
-          </h1>
+          <p className="page-subtitle" style={{
+            marginTop: '4rem',
+          }}>
+            The name<br />
+            {name}<br />
+            is now queued<br />
+            for ascension.<br />
+            <br />
+            When the<br />
+            temple in space<br />
+            aligns, with<br />
+            our antenna<br />
+            on Earth<br />
+            <br />
+            we will send it<br />
+            and you'll receive<br />
+            a message.
+          </p>
         </div>
 
       </div>

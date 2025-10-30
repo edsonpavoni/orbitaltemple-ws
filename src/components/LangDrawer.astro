@@ -1,36 +1,15 @@
 ---
+import LanguageSwitcher from "./LanguageSwitcher.tsx";
 const { id = "lang-drawer" } = Astro.props;
 ---
-<aside id={id} class="drawer drawer--left" style="background-color: #fff;" role="dialog" aria-modal="true" aria-labelledby="lang-title" data-open="false">
-  <button class="absolute top-4 left-4 p-2" data-close aria-label="close">
-    <img src="/close_icon.svg" alt="close" class="size-5" style="filter: brightness(0.3) sepia(1) hue-rotate(20deg) saturate(10);" />
+<aside id={id} class="drawer drawer--left" style="background-color: #fff; color: #553903;"
+role="dialog" aria-modal="true" aria-labelledby="lang-title" data-open="false">
+  <button style="position: absolute; top: 1.5rem; left: 2rem; padding: 0.5rem; background: none; border: none; cursor: pointer;" data-close aria-label="close">
+    <img src="/close_icon.svg" alt="close" style="width: 1.8rem; height: 1.8rem;" />
   </button>
 
-  <div class="flex flex-col h-full justify-center" style="color: #553903;">
-    <div class="flex flex-col items-center mb-8">
-      <div class="text-4xl mb-4">
-        <span class="text-ot-gold600">Æ</span><span class="text-ot-gold600/70">A</span> 
-      </div>
-      <h2 id="lang-title" class="mb-3 text-lg font-semibold uppercase tracking-wider">selected: english (us)</h2>
-      <p class="text-center text-sm max-w-xs">
-        choose from 243 languages for navigation, or use the audio option.
-      </p>
-    </div>
-
-    <ul class="space-y-1 text-center max-h-96 overflow-y-scroll p-4">
-      <li><button class="uppercase hover:text-ot-gold400 transition">abkhaz</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">acehnese</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">acholi</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">afrikaans</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">albanian</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">alur</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">amharic</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">arabic</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">armenian</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">assamese</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">awadhi</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">aymara</button></li>
-      <li><button class="uppercase hover:text-ot-gold400 transition">azerbaijani</button></li>
-    </ul>
+  <div class="menu-drawer-content" style="align-items: center !important; text-align: center !important;">
+    {/* React component for language switching */}
+    <LanguageSwitcher client:load />
   </div>
 </aside>
