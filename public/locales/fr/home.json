@@ -1,13 +1,13 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
+    "title": "Temple Orbital",
+    "subtitle": "est une œuvre d'art et un satellite,\nvisant à être un temple radicalement inclusif,\ndans un lieu qu'aucun mur ne peut atteindre."
   },
   "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
+    "link": "Encore un autre temple?",
+    "arrowAlt": "flèche"
   },
   "dome": {
-    "alt": "Dome"
+    "alt": "Dôme"
   }
 }
