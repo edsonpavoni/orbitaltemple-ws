@@ -744,8 +744,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       databaseStats.pending = data.stats.pending;
       databaseStats.sent = data.stats.sent;
       databaseStats.confirmed = data.stats.confirmed;
-      // Estimate valid emails as total for now (will be updated when all loaded)
-      databaseStats.validEmails = data.stats.total;
+
+      // Fetch all names in background to count valid emails accurately
+      const allResponse = await fetch(`${FUNCTIONS_URL}/getNames`);
+      if (allResponse.ok) {
+        const allData = await allResponse.json();
+        const validNames = allData.names.filter((n: NameRecord) => isValidEmail(n.email));
+
+        databaseStats.validEmails = validNames.length;
+        databaseStats.pending = validNames.filter((n: NameRecord) => n.status === 'pending').length;
+        databaseStats.sent = validNames.filter((n: NameRecord) => n.status === 'sent').length;
+        databaseStats.confirmed = validNames.filter((n: NameRecord) => n.status === 'confirmed').length;
+      }
 
       updateStats();
     } catch (error) {
