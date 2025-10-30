@@ -61,12 +61,16 @@ function getTranslator(): deepl.Translator | null {
     console.log('');
     console.log('To use this script:');
     console.log('1. Get a DeepL API key from: https://www.deepl.com/pro-api');
-    console.log('2. Create a .env file in the project root');
-    console.log('3. Add: DEEPL_API_KEY=your_api_key_here');
+    console.log('2. Sign up for the FREE tier (requires credit card verification)');
+    console.log('3. Get your API key from: https://www.deepl.com/account/keys');
+    console.log('4. Add to .env: DEEPL_API_KEY=your_api_key_here');
     console.log('');
     return null;
   }
 
+  // The DeepL library auto-detects free vs pro tier from the key format
+  // Free tier keys end with :fx, Pro keys don't
+  // If using free tier, the library will automatically use api-free.deepl.com
   return new deepl.Translator(apiKey);
 }
 
