@@ -22,6 +22,7 @@ export default function SendNameForm() {
   const [speedBoost, setSpeedBoost] = useState(0);
   const [showBreathingText, setShowBreathingText] = useState(false);
   const [showBreathingButton, setShowBreathingButton] = useState(false);
+  const [showCompleteText, setShowCompleteText] = useState(false);
   const [isDesktop, setIsDesktop] = useState(false);
 
   const nameInputRef = useRef<HTMLInputElement>(null);
@@ -67,27 +68,20 @@ export default function SendNameForm() {
     }
   }, [currentStep]);
 
-  // Breathing animation - DISABLED
-  // useEffect(() => {
-  //   if (currentStep === 'breathing') {
-  //     const breathingCycle = 2000;
-  //     const startTime = Date.now();
+  // Delayed text appearance for complete page
+  useEffect(() => {
+    if (currentStep === 'complete') {
+      // Show text after dome animation completes (1s dome + 0.4s wait)
+      const timer = setTimeout(() => {
+        setShowCompleteText(true);
+      }, 1400);
 
-  //     const animate = () => {
-  //       const elapsed = Date.now() - startTime;
-  //       const progress = (elapsed % breathingCycle) / breathingCycle;
-  //       const scale = 1 + Math.sin(progress * Math.PI * 2) * 0.15;
-  //       setBreathingScale(scale);
-  //       requestAnimationFrame(animate);
-  //     };
-
-  //     const animationId = requestAnimationFrame(animate);
-
-  //     return () => {
-  //       cancelAnimationFrame(animationId);
-  //     };
-  //   }
-  // }, [currentStep]);
+      return () => clearTimeout(timer);
+    } else {
+      // Reset when leaving complete step
+      setShowCompleteText(false);
+    }
+  }, [currentStep]);
 
   // Track name input changes for speed boost
   const prevNameLengthRef = useRef(0);
@@ -199,15 +193,12 @@ export default function SendNameForm() {
   // Validate email whenever it changes
   useEffect(() => {
     setIsEmailValid(validateEmail(email));
-  }, [email]);
+  }, [email, validateEmail]);
 
-  // Animate dome down through journey stages - DISABLED
+  // Animate dome down through journey stages
   useEffect(() => {
     const domeImage = document.getElementById('dome-image');
     if (!domeImage) return;
-
-    // No animation, instant positioning
-    domeImage.style.transition = 'none';
 
     if (currentStep === 'breathing') {
       // Start: dome fully hidden
@@ -277,11 +268,9 @@ export default function SendNameForm() {
     }
   };
 
-  // Calculate step visibility - memoized to avoid recreating style objects
-  // NO ANIMATIONS
+  // Calculate step visibility with fade transitions
   const getStepStyle = useCallback((step: Step): React.CSSProperties => {
     const isActive = currentStep === step;
-    const isPast = STEP_ORDER.indexOf(currentStep) > STEP_ORDER.indexOf(step);
 
     return {
       position: 'absolute',
@@ -290,20 +279,21 @@ export default function SendNameForm() {
       left: '50%',
       transform: 'translateX(-50%)',
       opacity: isActive ? 1 : 0,
-      transition: 'none',
+      transition: 'opacity 0.4s ease-in-out',
       pointerEvents: isActive ? 'auto' : 'none',
-      display: 'flex',
+      display: isActive ? 'flex' : 'none',
       flexDirection: 'column',
       alignItems: 'center',
       textAlign: 'center',
+      visibility: isActive ? 'visible' : 'hidden',
     };
   }, [currentStep]);
 
   // Position content just below dome (72px) and menu (46px + 30px icon)
-  // Move up when keyboard is open to keep everything visible
+  // Move up when keyboard is open to keep everything visible (MOBILE ONLY)
   // On desktop, center vertically
   const basePadding = 150; // 72px dome + some spacing for content
-  const topPadding = isKeyboardOpen ? 100 : (isDesktop ? 0 : basePadding); // Move closer to top when keyboard opens, center on desktop
+  const topPadding = (isKeyboardOpen && !isDesktop) ? 100 : (isDesktop ? 0 : basePadding); // Move closer to top when keyboard opens on MOBILE only, center on desktop
 
   return (
     <div style={{
@@ -313,9 +303,9 @@ export default function SendNameForm() {
       width: '100%',
       height: `${viewportHeight}px`,
       display: 'flex',
-      alignItems: isDesktop && !isKeyboardOpen ? 'center' : 'flex-start',
+      alignItems: isDesktop ? 'center' : 'flex-start',
       justifyContent: 'center',
-      paddingTop: isDesktop && !isKeyboardOpen ? '0' : `${topPadding}px`,
+      paddingTop: isDesktop ? '0' : `${topPadding}px`,
       paddingLeft: '1.5rem',
       paddingRight: '1.5rem',
       paddingBottom: '1.5rem',
@@ -335,6 +325,8 @@ export default function SendNameForm() {
           </h1>
           <p className="page-subtitle" style={{
             opacity: showBreathingText ? 1 : 0,
+            transition: 'opacity 0.6s ease-in-out',
+            transitionDelay: '0.1s',
           }}>
             as you enter<br />
             a ritual <br /><br />
@@ -360,6 +352,8 @@ export default function SendNameForm() {
             className="btn-action"
             style={{
               opacity: showBreathingButton ? 1 : 0,
+              transition: 'opacity 0.6s ease-in-out',
+              transitionDelay: '0.3s',
               alignSelf: 'flex-end',
               marginLeft: 'auto',
               marginRight: 0,
@@ -372,10 +366,18 @@ export default function SendNameForm() {
 
         {/* Step 2: Name Input */}
         <div style={getStepStyle('name-input')}>
-          <h1 className="page-title">
+          <h1 className="page-title" style={{
+            opacity: currentStep === 'name-input' ? 1 : 0,
+            transition: 'opacity 0.6s ease-in-out',
+            transitionDelay: '0.1s',
+          }}>
             type a name
           </h1>
-          <p className="page-subtitle">
+          <p className="page-subtitle" style={{
+            opacity: currentStep === 'name-input' ? 1 : 0,
+            transition: 'opacity 0.6s ease-in-out',
+            transitionDelay: '0.2s',
+          }}>
             it will rise to the Orbital Temple in space.
           </p>
 
@@ -399,7 +401,12 @@ export default function SendNameForm() {
             }}
             placeholder="name"
             className={`input-field ${name.length > 0 ? 'input-field--no-border' : ''}`}
-            style={{ fontSize: `${nameFontSize}px` }}
+            style={{
+              fontSize: `${nameFontSize}px`,
+              opacity: currentStep === 'name-input' ? 1 : 0,
+              transition: 'opacity 0.6s ease-in-out',
+              transitionDelay: '0.3s',
+            }}
           />
 
           {name.length >= 1 && (
@@ -411,23 +418,32 @@ export default function SendNameForm() {
               onTouchStart={(e) => {
                 e.preventDefault();
                 console.log('Button touchstart');
-                // Blur input to close keyboard
-                if (nameInputRef.current) {
-                  nameInputRef.current.blur();
-                }
-                setTimeout(() => handleProceed(), 100);
+                handleProceed();
+                setTimeout(() => {
+                  if (nameInputRef.current) {
+                    nameInputRef.current.blur();
+                  }
+                }, 0);
               }}
               onClick={(e) => {
                 e.preventDefault();
                 console.log('Button click');
-                // Fallback for desktop
-                if (nameInputRef.current) {
-                  nameInputRef.current.blur();
-                }
-                setTimeout(() => handleProceed(), 100);
+                handleProceed();
+                setTimeout(() => {
+                  if (nameInputRef.current) {
+                    nameInputRef.current.blur();
+                  }
+                }, 0);
               }}
               className="btn-action"
-              style={{ alignSelf: 'flex-end', marginLeft: 'auto', marginRight: 0 }}
+              style={{
+                alignSelf: 'flex-end',
+                marginLeft: 'auto',
+                marginRight: 0,
+                opacity: currentStep === 'name-input' ? 1 : 0,
+                transition: 'opacity 0.6s ease-in-out',
+                transitionDelay: '0.4s',
+              }}
             >
               let it ascend
               <img src="/arrow.svg" alt="arrow" />
@@ -437,10 +453,18 @@ export default function SendNameForm() {
 
         {/* Step 3: Email Input */}
         <div style={getStepStyle('email-input')}>
-          <h1 className="page-title">
+          <h1 className="page-title" style={{
+            opacity: currentStep === 'email-input' ? 1 : 0,
+            transition: 'opacity 0.6s ease-in-out',
+            transitionDelay: '0.1s',
+          }}>
             type your email
           </h1>
-          <p className="page-subtitle">
+          <p className="page-subtitle" style={{
+            opacity: currentStep === 'email-input' ? 1 : 0,
+            transition: 'opacity 0.6s ease-in-out',
+            transitionDelay: '0.2s',
+          }}>
             so you get a message when the name ascends.
           </p>
 
@@ -462,9 +486,14 @@ export default function SendNameForm() {
               window.scrollTo(0, 0);
               document.body.scrollTop = 0;
             }}
-            placeholder="email"
+            placeholder="your email"
             className={`input-field ${email.length > 0 ? 'input-field--no-border' : ''}`}
-            style={{ fontSize: `${emailFontSize}px` }}
+            style={{
+              fontSize: `${emailFontSize}px`,
+              opacity: currentStep === 'email-input' ? 1 : 0,
+              transition: 'opacity 0.6s ease-in-out',
+              transitionDelay: '0.3s',
+            }}
           />
 
           {isEmailValid && (
@@ -476,23 +505,32 @@ export default function SendNameForm() {
               onTouchStart={(e) => {
                 e.preventDefault();
                 console.log('Email button touchstart');
-                // Blur input to close keyboard
-                if (emailInputRef.current) {
-                  emailInputRef.current.blur();
-                }
-                setTimeout(() => handleProceed(), 100);
+                handleProceed();
+                setTimeout(() => {
+                  if (emailInputRef.current) {
+                    emailInputRef.current.blur();
+                  }
+                }, 0);
               }}
               onClick={(e) => {
                 e.preventDefault();
                 console.log('Email button click');
-                // Fallback for desktop
-                if (emailInputRef.current) {
-                  emailInputRef.current.blur();
-                }
-                setTimeout(() => handleProceed(), 100);
+                handleProceed();
+                setTimeout(() => {
+                  if (emailInputRef.current) {
+                    emailInputRef.current.blur();
+                  }
+                }, 0);
               }}
               className="btn-action"
-              style={{ alignSelf: 'flex-end', marginLeft: 'auto', marginRight: 0 }}
+              style={{
+                alignSelf: 'flex-end',
+                marginLeft: 'auto',
+                marginRight: 0,
+                opacity: currentStep === 'email-input' ? 1 : 0,
+                transition: 'opacity 0.6s ease-in-out',
+                transitionDelay: '0.4s',
+              }}
             >
               it is done
               <img src="/arrow.svg" alt="arrow" />
@@ -509,6 +547,10 @@ export default function SendNameForm() {
               width: '60px',
               height: '60px',
               marginTop: '3rem',
+              animation: 'spin 1s linear infinite',
+              opacity: currentStep === 'loading' ? 1 : 0,
+              transition: 'opacity 0.6s ease-in-out',
+              transitionDelay: '0.1s',
             }}
           />
         </div>
@@ -518,6 +560,8 @@ export default function SendNameForm() {
 
           <p className="page-subtitle" style={{
             marginTop: isDesktop ? '1rem' : '4rem',
+            opacity: showCompleteText ? 1 : 0,
+            transition: 'opacity 0.6s ease-in-out',
           }}>
             The name<br />
             {name}<br />
