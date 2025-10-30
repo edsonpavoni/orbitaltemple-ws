@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 
 // Set your admin password here
-const password = 'orbitaltemple2025';
+const password = 'lnjsndvVIYKNMKUBDJW45672ghj!';
 
 // Generate SHA-256 hash
 const hash = crypto.createHash('sha256').update(password).digest('hex');
