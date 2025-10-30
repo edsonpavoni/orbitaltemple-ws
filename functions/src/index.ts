@@ -186,8 +186,10 @@ export const sendConfirmationEmail = functions.firestore
   });
 
 /**
- * HTTP endpoint to get all names (for admin interface)
- * GET /getNames
+ * HTTP endpoint to get names (for admin interface)
+ * GET /getNames?limit=100
+ * Query params:
+ *   - limit (optional): Number of names to fetch. If not provided, fetches all.
  */
 export const getNames = functions.https.onRequest(async (req, res) => {
   // Enable CORS
@@ -208,17 +210,27 @@ export const getNames = functions.https.onRequest(async (req, res) => {
   }
 
   try {
-    const namesSnapshot = await admin.firestore()
+    // Get limit from query parameter
+    const limitParam = req.query.limit as string | undefined;
+    const limit = limitParam ? parseInt(limitParam, 10) : undefined;
+
+    let query = admin.firestore()
       .collection("names")
-      .orderBy("createdAt", "desc")
-      .get();
+      .orderBy("createdAt", "desc");
+
+    // Apply limit if specified
+    if (limit && limit > 0) {
+      query = query.limit(limit) as any;
+    }
+
+    const namesSnapshot = await query.get();
 
     const names = namesSnapshot.docs.map((doc) => ({
       id: doc.id,
       ...doc.data(),
     }));
 
-    res.status(200).json({success: true, names});
+    res.status(200).json({success: true, names, count: names.length});
   } catch (error) {
     functions.logger.error("Error fetching names", error);
     res.status(500).json({error: "Internal server error"});
