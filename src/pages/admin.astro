@@ -3,8 +3,29 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="Admin - Orbital Temple">
-  <div class="admin-container">
-    <h1>Name Ascension Admin</h1>
+  <!-- Login Screen -->
+  <div id="login-screen" class="login-screen">
+    <div class="login-box">
+      <h1>Admin Login</h1>
+      <p style="margin-bottom: 1.5rem; opacity: 0.8;">Enter password to access admin panel</p>
+      <input
+        type="password"
+        id="admin-password"
+        placeholder="Password"
+        class="login-input"
+        autocomplete="current-password"
+      />
+      <button id="login-button" class="login-button">Login</button>
+      <div id="login-error" class="login-error" style="display: none;">Incorrect password</div>
+    </div>
+  </div>
+
+  <!-- Admin Interface (hidden until authenticated) -->
+  <div id="admin-interface" class="admin-container" style="display: none;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+      <h1 style="margin: 0;">Name Ascension Admin</h1>
+      <button id="logout-button" class="btn-logout">Logout</button>
+    </div>
 
     <div class="stats">
       <div class="stat-card">
@@ -78,10 +99,104 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <span id="page-info" class="page-info">Page 1 of 1</span>
       <button id="next-page" class="btn-page">Next →</button>
     </div>
-  </div>
+  </div><!-- End admin-interface -->
 </BaseLayout>
 
 <style>
+  /* Login Screen */
+  .login-screen {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .login-box {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 3rem;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .login-box h1 {
+    margin: 0 0 0.5rem 0;
+    font-size: 2rem;
+    color: white;
+  }
+
+  .login-input {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    color: white;
+    font-size: 1rem;
+    box-sizing: border-box;
+  }
+
+  .login-input::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+
+  .login-input:focus {
+    outline: none;
+    border-color: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.15);
+  }
+
+  .login-button {
+    width: 100%;
+    padding: 1rem;
+    background: rgba(76, 175, 80, 0.3);
+    border: 1px solid rgba(76, 175, 80, 0.5);
+    border-radius: 4px;
+    color: #4caf50;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .login-button:hover {
+    background: rgba(76, 175, 80, 0.4);
+  }
+
+  .login-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .login-error {
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background: rgba(244, 67, 54, 0.2);
+    border: 1px solid rgba(244, 67, 54, 0.4);
+    border-radius: 4px;
+    color: #f44336;
+    font-size: 0.9rem;
+  }
+
+  .btn-logout {
+    padding: 0.5rem 1rem;
+    background: rgba(244, 67, 54, 0.2);
+    border: 1px solid rgba(244, 67, 54, 0.4);
+    border-radius: 4px;
+    color: #f44336;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+  }
+
+  .btn-logout:hover {
+    background: rgba(244, 67, 54, 0.3);
+  }
+
   .admin-container {
     max-width: 1400px;
     margin: 0 auto;
@@ -492,6 +607,96 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <script>
   const FUNCTIONS_URL = 'https://us-central1-orbital-temple.cloudfunctions.net';
+  const ADMIN_PASSWORD_HASH = 'ef3c12b648f3cffa8656e9282e20e157d20178219b298b9ef10fd49d24fdf9c7'; // SHA-256 hash: orbitaltemple2025
+  const AUTH_SESSION_KEY = 'orbital_admin_auth';
+
+  // Authentication functions
+  async function hashPassword(password: string): Promise<string> {
+    const encoder = new TextEncoder();
+    const data = encoder.encode(password);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  function isAuthenticated(): boolean {
+    return sessionStorage.getItem(AUTH_SESSION_KEY) === 'true';
+  }
+
+  function setAuthenticated(value: boolean) {
+    if (value) {
+      sessionStorage.setItem(AUTH_SESSION_KEY, 'true');
+    } else {
+      sessionStorage.removeItem(AUTH_SESSION_KEY);
+    }
+  }
+
+  async function handleLogin() {
+    const passwordInput = document.getElementById('admin-password') as HTMLInputElement;
+    const loginButton = document.getElementById('login-button') as HTMLButtonElement;
+    const loginError = document.getElementById('login-error') as HTMLDivElement;
+
+    if (!passwordInput || !loginButton || !loginError) return;
+
+    const password = passwordInput.value;
+
+    if (!password) {
+      loginError.textContent = 'Please enter a password';
+      loginError.style.display = 'block';
+      return;
+    }
+
+    loginButton.disabled = true;
+    loginButton.textContent = 'Verifying...';
+    loginError.style.display = 'none';
+
+    try {
+      const hash = await hashPassword(password);
+
+      if (hash === ADMIN_PASSWORD_HASH) {
+        // Correct password
+        setAuthenticated(true);
+        showAdminInterface();
+      } else {
+        // Incorrect password
+        loginError.textContent = 'Incorrect password';
+        loginError.style.display = 'block';
+        passwordInput.value = '';
+        passwordInput.focus();
+      }
+    } catch (error) {
+      console.error('Login error:', error);
+      loginError.textContent = 'An error occurred';
+      loginError.style.display = 'block';
+    } finally {
+      loginButton.disabled = false;
+      loginButton.textContent = 'Login';
+    }
+  }
+
+  function handleLogout() {
+    setAuthenticated(false);
+    showLoginScreen();
+  }
+
+  function showLoginScreen() {
+    const loginScreen = document.getElementById('login-screen');
+    const adminInterface = document.getElementById('admin-interface');
+
+    if (loginScreen) loginScreen.style.display = 'flex';
+    if (adminInterface) adminInterface.style.display = 'none';
+  }
+
+  function showAdminInterface() {
+    const loginScreen = document.getElementById('login-screen');
+    const adminInterface = document.getElementById('admin-interface');
+
+    if (loginScreen) loginScreen.style.display = 'none';
+    if (adminInterface) adminInterface.style.display = 'block';
+
+    // Load data after showing interface
+    loadNames(INITIAL_LOAD_LIMIT);
+  }
 
   interface NameRecord {
     id: string;
@@ -930,9 +1135,27 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
   // Event listeners
   document.addEventListener('DOMContentLoaded', () => {
-    // Load only most recent 100 names on startup
-    loadNames(INITIAL_LOAD_LIMIT);
+    // Check authentication on page load
+    if (isAuthenticated()) {
+      showAdminInterface();
+    } else {
+      showLoginScreen();
+    }
 
+    // Login form event listeners
+    const loginButton = document.getElementById('login-button');
+    const passwordInput = document.getElementById('admin-password') as HTMLInputElement;
+    const logoutButton = document.getElementById('logout-button');
+
+    loginButton?.addEventListener('click', handleLogin);
+    passwordInput?.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        handleLogin();
+      }
+    });
+    logoutButton?.addEventListener('click', handleLogout);
+
+    // Admin interface event listeners
     const searchInput = document.getElementById('search');
     const filterSelect = document.getElementById('filter');
     const refreshButton = document.getElementById('refresh');
