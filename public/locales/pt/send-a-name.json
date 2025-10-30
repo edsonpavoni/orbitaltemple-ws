@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "title": "think of a name",
-    "subtitle": "a being you want to honor, cherish, celebrate."
+    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
+    "button": "I'm ready"
   },
   "nameInput": {
-    "title": "now, type that name",
+    "title": "type a name",
     "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "Name to Ascend",
+    "placeholder": "name",
     "button": "let it ascend"
   },
   "emailInput": {
     "title": "type your email",
     "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "you@something.com",
+    "placeholder": "your email",
     "button": "it is done"
   },
   "loading": {
-    "title": "sending to the temple..."
+    "alt": "Loading"
   },
   "success": {
-    "title": "The name {{name}}\nis now queued for ascension.\nWhen the temple aligns, you'll\nreceive a message."
+    "text": "The name\n{{name}}\nis now queued\nfor ascension.\n\nWhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
   }
 }

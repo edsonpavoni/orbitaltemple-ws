@@ -12,6 +12,10 @@ import Header from "../components/Header.astro";
   <body style="margin: 0; padding: 0; min-height: 100vh; background-color: var(--color-ot-dark);">
     <Header />
     <slot />
+    <script>
+      // Initialize i18n before components load
+      import('../lib/i18n');
+    </script>
     <script src="../scripts/drawer.js"></script>
   </body>
 </html>
