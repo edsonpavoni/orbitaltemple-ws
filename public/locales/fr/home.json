@@ -9,5 +9,8 @@
   },
   "dome": {
     "alt": "Dôme"
+  },
+  "ritual": {
+    "label": "ritual"
   }
 }

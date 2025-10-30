@@ -1,6 +1,6 @@
 ---
 import Base from "../layouts/BaseLayout.astro";
-import RitualButton from "../components/RitualButton";
+import HomeRitualButton from "../components/HomeRitualButton";
 import RitualButtonPlaceholder from "../components/RitualButtonPlaceholder.astro";
 import HomeHero from "../components/HomeHero";
 import HomeCTA from "../components/HomeCTA";
@@ -59,16 +59,7 @@ import "../styles/ritual-button.css";
 
           <!-- Enhanced version (loads after page is interactive) -->
           <div id="ritual-button-enhanced" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.4s ease-in; pointer-events: none;">
-            <RitualButton
-              client:load
-              label="ritual"
-              orbitRotationAxis="y"
-              orbitTiltX={25}
-              rotationSec={12.5}
-              hoverRotationSec={5}
-              hoverSlowToFlat={true}
-              size={123}
-            />
+            <HomeRitualButton client:load />
           </div>
         </div>
       </a>

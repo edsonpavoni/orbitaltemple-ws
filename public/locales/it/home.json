@@ -9,5 +9,8 @@
   },
   "dome": {
     "alt": "Cupola"
+  },
+  "ritual": {
+    "label": "ritual"
   }
 }

@@ -3,6 +3,9 @@
     "title": "Orbital Temple",
     "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
   },
+  "ritual": {
+    "label": "ritual"
+  },
   "cta": {
     "link": "Yet, another temple?",
     "arrowAlt": "arrow"
