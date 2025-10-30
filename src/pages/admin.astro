@@ -43,12 +43,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <option value="confirmed">Confirmed</option>
         <option value="deleted">Deleted</option>
       </select>
+      <button id="load-all" class="btn-load-all" style="display: none;">Load All Names</button>
       <button id="refresh" class="btn-refresh">Refresh</button>
       <button id="export-csv" class="btn-export">↓ Export Unsent CSV</button>
       <label for="upload-csv" class="btn-upload">
         ↑ Upload Confirmed CSV
         <input type="file" id="upload-csv" accept=".csv" style="display: none;" />
       </label>
+    </div>
+
+    <div id="load-info" class="load-info" style="display: none;">
+      Showing most recent <strong id="loaded-count">100</strong> names. <button id="load-all-link" class="load-all-link">Load all names</button>
     </div>
 
     <div id="loading" class="loading">Loading names...</div>
@@ -172,6 +177,41 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
   .btn-upload:hover {
     background: rgba(33, 150, 243, 0.3);
+  }
+
+  .btn-load-all {
+    background: rgba(156, 39, 176, 0.2);
+    border-color: rgba(156, 39, 176, 0.4);
+    color: #9c27b0;
+  }
+
+  .btn-load-all:hover {
+    background: rgba(156, 39, 176, 0.3);
+  }
+
+  .load-info {
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: rgba(156, 39, 176, 0.1);
+    border: 1px solid rgba(156, 39, 176, 0.3);
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 0.9);
+  }
+
+  .load-all-link {
+    background: none;
+    border: none;
+    color: #9c27b0;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: inherit;
+    padding: 0;
+    margin-left: 0.5rem;
+  }
+
+  .load-all-link:hover {
+    color: #ba68c8;
   }
 
   .loading, .error {
@@ -471,6 +511,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   let filteredNames: NameRecord[] = [];
   let currentPage = 1;
   const ITEMS_PER_PAGE = 50;
+  const INITIAL_LOAD_LIMIT = 100;
+  let allNamesLoaded = false;
 
   function isValidEmail(email: string): boolean {
     if (!email) return false;
@@ -479,7 +521,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     return emailRegex.test(email.trim());
   }
 
-  async function loadNames() {
+  async function loadNames(limit?: number) {
     const loading = document.getElementById('loading');
     const error = document.getElementById('error');
     const table = document.getElementById('names-table');
@@ -489,7 +531,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     if (table) table.style.display = 'none';
 
     try {
-      const response = await fetch(`${FUNCTIONS_URL}/getNames`);
+      // Build URL with limit parameter if provided
+      const url = limit ? `${FUNCTIONS_URL}/getNames?limit=${limit}` : `${FUNCTIONS_URL}/getNames`;
+      const response = await fetch(url);
 
       if (!response.ok) {
         throw new Error('Failed to fetch names');
@@ -497,6 +541,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       const data = await response.json();
       allNames = data.names;
+      allNamesLoaded = !limit; // If no limit, we loaded everything
+
       // Filter to only show names with valid emails
       filteredNames = allNames.filter(name => isValidEmail(name.email));
       currentPage = 1;
@@ -504,6 +550,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       updateStats();
       renderTable();
       updatePagination();
+      updateLoadInfo();
 
       if (loading) loading.style.display = 'none';
       if (table) table.style.display = 'table';
@@ -514,6 +561,35 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         error.textContent = 'Failed to load names. Please check console for details.';
         error.style.display = 'block';
       }
+    }
+  }
+
+  function updateLoadInfo() {
+    const loadInfo = document.getElementById('load-info');
+    const loadedCount = document.getElementById('loaded-count');
+
+    if (!loadInfo || !loadedCount) return;
+
+    if (!allNamesLoaded) {
+      loadInfo.style.display = 'block';
+      loadedCount.textContent = allNames.length.toString();
+    } else {
+      loadInfo.style.display = 'none';
+    }
+  }
+
+  async function loadAllNames() {
+    const loadAllBtn = document.getElementById('load-all-link') as HTMLButtonElement;
+    if (loadAllBtn) {
+      loadAllBtn.disabled = true;
+      loadAllBtn.textContent = 'Loading...';
+    }
+
+    await loadNames(); // No limit = load all
+
+    if (loadAllBtn) {
+      loadAllBtn.disabled = false;
+      loadAllBtn.textContent = 'Load all names';
     }
   }
 
@@ -854,7 +930,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
   // Event listeners
   document.addEventListener('DOMContentLoaded', () => {
-    loadNames();
+    // Load only most recent 100 names on startup
+    loadNames(INITIAL_LOAD_LIMIT);
 
     const searchInput = document.getElementById('search');
     const filterSelect = document.getElementById('filter');
@@ -863,13 +940,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     const uploadInput = document.getElementById('upload-csv');
     const prevButton = document.getElementById('prev-page');
     const nextButton = document.getElementById('next-page');
+    const loadAllLink = document.getElementById('load-all-link');
 
     searchInput?.addEventListener('input', applyFilters);
     filterSelect?.addEventListener('change', applyFilters);
-    refreshButton?.addEventListener('click', loadNames);
+    refreshButton?.addEventListener('click', () => loadNames(INITIAL_LOAD_LIMIT));
     exportButton?.addEventListener('click', exportUnsentCSV);
     uploadInput?.addEventListener('change', handleCSVUpload);
     prevButton?.addEventListener('click', () => goToPage(currentPage - 1));
     nextButton?.addEventListener('click', () => goToPage(currentPage + 1));
+    loadAllLink?.addEventListener('click', loadAllNames);
   });
 </script>
