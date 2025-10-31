@@ -33,10 +33,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <p class="stat-number" id="total-count">-</p>
       </div>
       <div class="stat-card">
-        <h3>Valid Emails</h3>
-        <p class="stat-number" id="valid-count">-</p>
-      </div>
-      <div class="stat-card">
         <h3>Pending</h3>
         <p class="stat-number" id="pending-count">-</p>
       </div>
@@ -74,7 +70,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
 
     <div id="load-info" class="load-info" style="display: none;">
-      Showing most recent <strong id="loaded-count">100</strong> submissions (only valid emails displayed). <button id="load-all-link" class="load-all-link">Load all names</button> to see complete dataset.
+      Showing most recent <strong id="loaded-count">100</strong> submissions. <button id="load-all-link" class="load-all-link">Load all names</button> to see complete dataset.
     </div>
 
     <div id="loading" class="loading">Loading names...</div>
@@ -721,14 +717,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   const ITEMS_PER_PAGE = 50;
   const INITIAL_LOAD_LIMIT = 100;
   let allNamesLoaded = false;
-  let databaseStats = { total: 0, validEmails: 0, pending: 0, sent: 0, confirmed: 0 };
-
-  function isValidEmail(email: string): boolean {
-    if (!email) return false;
-    // Basic email validation
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return emailRegex.test(email.trim());
-  }
+  let databaseStats = { total: 0, pending: 0, sent: 0, confirmed: 0 };
 
   async function loadDatabaseStats() {
     try {
@@ -739,39 +728,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       const data = await response.json();
 
-      // Set database totals (these include all names, valid or not)
+      // Set database totals (all emails are now valid)
       databaseStats.total = data.stats.total;
       databaseStats.pending = data.stats.pending;
       databaseStats.sent = data.stats.sent;
       databaseStats.confirmed = data.stats.confirmed;
 
-      // Fetch all names in background to count valid emails accurately
-      const allResponse = await fetch(`${FUNCTIONS_URL}/getNames`);
-      if (allResponse.ok) {
-        const allData = await allResponse.json();
-        const validNames = allData.names.filter((n: NameRecord) => isValidEmail(n.email));
-
-        databaseStats.validEmails = validNames.length;
-        databaseStats.pending = validNames.filter((n: NameRecord) => n.status === 'pending').length;
-        databaseStats.sent = validNames.filter((n: NameRecord) => n.status === 'sent').length;
-        databaseStats.confirmed = validNames.filter((n: NameRecord) => n.status === 'confirmed').length;
-      }
-
       updateStats();
     } catch (error) {
       console.error('Error loading database stats:', error);
-    }
-  }
-
-  function recalculateValidEmailStats() {
-    // When we have all names loaded, recalculate valid email stats
-    if (allNamesLoaded) {
-      const validNames = allNames.filter(n => isValidEmail(n.email));
-      databaseStats.validEmails = validNames.length;
-      databaseStats.pending = validNames.filter(n => n.status === 'pending').length;
-      databaseStats.sent = validNames.filter(n => n.status === 'sent').length;
-      databaseStats.confirmed = validNames.filter(n => n.status === 'confirmed').length;
-      updateStats();
     }
   }
 
@@ -797,12 +762,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       allNames = data.names;
       allNamesLoaded = !limit; // If no limit, we loaded everything
 
-      // Filter to only show names with valid emails
-      filteredNames = allNames.filter(name => isValidEmail(name.email));
+      filteredNames = allNames;
       currentPage = 1;
-
-      // Recalculate valid email stats if we loaded all names
-      recalculateValidEmailStats();
 
       renderTable();
       updatePagination();
@@ -851,14 +812,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
   function updateStats() {
     const totalEl = document.getElementById('total-count');
-    const validEl = document.getElementById('valid-count');
     const pendingEl = document.getElementById('pending-count');
     const sentEl = document.getElementById('sent-count');
     const confirmedEl = document.getElementById('confirmed-count');
 
     // Use database stats instead of loaded names
     if (totalEl) totalEl.textContent = databaseStats.total.toString();
-    if (validEl) validEl.textContent = databaseStats.validEmails.toString();
     if (pendingEl) pendingEl.textContent = databaseStats.pending.toString();
     if (sentEl) sentEl.textContent = databaseStats.sent.toString();
     if (confirmedEl) confirmedEl.textContent = databaseStats.confirmed.toString();
@@ -1056,9 +1015,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     const statusFilter = filterSelect?.value || 'all';
 
     filteredNames = allNames.filter(name => {
-      // Only show names with valid emails
-      if (!isValidEmail(name.email)) return false;
-
       const matchesSearch = name.name.toLowerCase().includes(searchTerm) ||
                            name.email.toLowerCase().includes(searchTerm);
       const matchesStatus = statusFilter === 'all' || name.status === statusFilter;
@@ -1072,9 +1028,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   }
 
   function exportUnsentCSV() {
-    // Get all names that are not confirmed (pending or sent) and have valid emails
+    // Get all names that are not confirmed (pending or sent)
     const unsentNames = allNames.filter(n =>
-      (n.status === 'pending' || n.status === 'sent') && isValidEmail(n.email)
+      n.status === 'pending' || n.status === 'sent'
     );
 
     if (unsentNames.length === 0) {
