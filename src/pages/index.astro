@@ -45,7 +45,7 @@ import "../styles/ritual-button.css";
 
     <!-- Hero Content (centered) -->
     <div style="text-align: center; max-width: 600px; position: relative; z-index: 1;">
-      <HomeHero client:load />
+      <HomeHero client:only="react" />
     </div>
 
     <!-- Ritual Button (centered in remaining space) -->
@@ -59,7 +59,7 @@ import "../styles/ritual-button.css";
 
           <!-- Enhanced version (loads after page is interactive) -->
           <div id="ritual-button-enhanced" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.4s ease-in; pointer-events: none;">
-            <HomeRitualButton client:load />
+            <HomeRitualButton client:only="react" />
           </div>
         </div>
       </a>
@@ -104,7 +104,7 @@ import "../styles/ritual-button.css";
 
     <!-- Bottom link with 36px margin (from padding) -->
     <div style="position: relative; z-index: 1; width: 100%;">
-      <HomeCTA client:load />
+      <HomeCTA client:only="react" />
     </div>
   </section>
 
