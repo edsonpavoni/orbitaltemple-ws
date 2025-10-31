@@ -23,7 +23,7 @@ import Footer from "../components/Footer.astro";
       <div class="partner-card">
         <div class="partner-logo-container">
           <a href="https://risenewyork.com/" target="_blank" rel="noopener noreferrer">
-            <img src="/partners/riseny.svg" alt="RiseNY&Partners Logo" class="partner-logo partner-logo-no-filter" />
+            <img src="/partners/riseny.svg" alt="RiseNY&Partners Logo" class="partner-logo partner-logo-no-filter partner-logo-small" />
           </a>
         </div>
         <h3 class="partner-name">
@@ -190,6 +190,14 @@ import Footer from "../components/Footer.astro";
     background: #000000;
     border-radius: 0;
     padding: 1.5rem;
+  }
+
+  .partner-logo-container a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
   }
 
   .partner-logo {
