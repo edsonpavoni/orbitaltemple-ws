@@ -39,13 +39,15 @@
   --color-ot-gold600: #553903;
 
   /* Text Styles - Exact Figma specifications */
-  /* Display Styles */
-  --text-display-lg: 30px;
-  --text-display-lg-lh: 32px;
-  --text-display-md: 22px;
-  --text-display-md-lh: 26px;
+  /* Display/Heading Styles */
+  --text-display-xl: 30px;
+  --text-display-xl-lh: 38px;
+  --text-display-lg: 22px;
+  --text-display-lg-lh: 28px;
+  --text-display-md: 18px;
+  --text-display-md-lh: 24px;
   --text-display-sm: 14px;
-  --text-display-sm-lh: 16px;
+  --text-display-sm-lh: 18px;
 
   /* Body Styles */
   --text-body-lg: 32px;
@@ -301,7 +303,7 @@ html, body {
 }
 
 /* ----------------------------------
- * Artwork Page Styles
+ * Artwork Page Layout
  * ---------------------------------- */
 .artwork-page {
   max-width: 600px;
@@ -310,49 +312,7 @@ html, body {
   font-family: var(--font-sans);
 }
 
-.artwork-title {
-  font-size: 22px;
-  font-weight: 700;
-  line-height: 1.2;
-  margin: 0 0 72px 0;
-  color: var(--color-ot-light);
-}
-
-.artwork-subtitle {
-  font-size: 22px;
-  font-weight: 700;
-  line-height: 1.2;
-  margin: 84px 0 36px 0;
-  color: var(--color-ot-light);
-}
-
-.section-subtitle {
-  font-size: 16px;
-  font-weight: 700;
-  line-height: 1.2;
-  margin: 0 0 8px 0;
-  color: var(--color-ot-light);
-}
-
-.artwork-text {
-  font-size: var(--text-body-std);
-  line-height: var(--text-body-std-lh);
-  font-weight: 400;
-  margin: 0 0 32px 0;
-  color: var(--color-ot-light);
-}
-
-.artwork-text--section-end {
-  margin-bottom: 48px;
-}
-
-.artwork-text--secondary {
-  font-size: var(--text-body-secondary);
-  line-height: var(--text-body-secondary-lh);
-  font-weight: 400;
-  opacity: 0.8;
-}
-
+/* Image Styles */
 .artwork-image {
   margin: 0 0 48px 0;
 }
@@ -418,13 +378,25 @@ html, body {
  * Unified type scale for consistent design
  * ---------------------------------- */
 
-/* 1. HEADINGS */
+/* ============================================
+ * 1. HEADINGS
+ * ============================================ */
 
-/* H2 - Major Section Heading */
-.section-heading {
-  font-size: 22px;
+/* H1 - Page Title (Main Title) */
+.artwork-title,
+.page-title {
+  font-size: var(--text-display-xl);
+  line-height: var(--text-display-xl-lh);
   font-weight: 700;
-  line-height: 1.2;
+  margin: 0 0 var(--space-2xl) 0;
+  color: var(--color-ot-light);
+}
+
+/* H2 - Section Heading (Major Sections) */
+.section-heading {
+  font-size: var(--text-display-lg);
+  line-height: var(--text-display-lg-lh);
+  font-weight: 700;
   margin: var(--space-2xl) 0 var(--space-lg) 0;
   color: var(--color-ot-light);
 }
@@ -434,17 +406,18 @@ html, body {
 }
 
 /* H3 - Subsection Heading */
-.subsection-heading {
-  font-size: 16px;
+.subsection-heading,
+.section-subtitle {
+  font-size: var(--text-body-std);
   font-weight: 700;
   line-height: 1.3;
   margin: var(--space-xl) 0 var(--space-sm) 0;
   color: var(--color-ot-light);
 }
 
-/* Label/Small Heading */
+/* H4 - Label/Small Heading */
 .label-heading {
-  font-size: 14px;
+  font-size: var(--text-display-sm);
   font-weight: 700;
   line-height: 1.3;
   margin: 0 0 var(--space-xs) 0;
@@ -452,11 +425,13 @@ html, body {
   text-transform: none;
 }
 
-/* 2. BODY TEXT */
+/* ============================================
+ * 2. BODY TEXT
+ * ============================================ */
 
 .body-text {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: var(--text-body-std);
+  line-height: var(--text-body-std-lh);
   font-weight: 400;
   margin: 0 0 var(--space-md) 0;
   color: var(--color-ot-light);
@@ -470,18 +445,16 @@ html, body {
   margin-bottom: var(--space-xl);
 }
 
-.body-text-secondary {
-  font-size: 14px;
-  line-height: 20px;
+.body-text--secondary {
+  font-size: var(--text-body-secondary);
+  line-height: var(--text-body-secondary-lh);
   font-weight: 400;
-  margin: 0 0 var(--space-md) 0;
-  color: var(--color-ot-light);
   opacity: 0.8;
 }
 
 .caption-text {
-  font-size: 12px;
-  line-height: 20px;
+  font-size: var(--text-body-sm);
+  line-height: var(--text-body-sm-lh);
   font-weight: 400;
   color: var(--color-ot-light);
   opacity: 0.6;
@@ -489,38 +462,113 @@ html, body {
   text-align: right;
 }
 
-/* 3. EMPHASIS */
+/* ============================================
+ * 3. SEMANTIC HTML MAPPINGS
+ * ============================================ */
+
+h1 {
+  font-size: var(--text-display-xl);
+  line-height: var(--text-display-xl-lh);
+  font-weight: 700;
+  margin: 0 0 var(--space-2xl) 0;
+  color: var(--color-ot-light);
+}
+
+h2 {
+  font-size: var(--text-display-lg);
+  line-height: var(--text-display-lg-lh);
+  font-weight: 700;
+  margin: var(--space-2xl) 0 var(--space-lg) 0;
+  color: var(--color-ot-light);
+}
+
+h3 {
+  font-size: var(--text-body-std);
+  font-weight: 700;
+  line-height: 1.3;
+  margin: var(--space-xl) 0 var(--space-sm) 0;
+  color: var(--color-ot-light);
+}
+
+h4 {
+  font-size: var(--text-display-sm);
+  font-weight: 700;
+  line-height: 1.3;
+  margin: var(--space-md) 0 var(--space-xs) 0;
+  color: var(--color-ot-light);
+}
+
+/* ============================================
+ * 4. EMPHASIS & UTILITIES
+ * ============================================ */
 
 strong {
   font-weight: 700;
   color: inherit;
 }
 
+.text-gold,
 .emphasis-gold {
   color: var(--color-ot-gold200);
-  font-weight: 700;
 }
 
-/* 4. SPECIAL COMPONENTS */
+.text-muted {
+  opacity: 0.6;
+}
 
-/* Price Display */
-.price-display {
-  font-size: 22px;
+.text-italic {
+  font-style: italic;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+/* ============================================
+ * 5. SPECIAL COMPONENTS
+ * ============================================ */
+
+/* Price Display Classes */
+.price-display,
+.price-standard {
+  font-size: var(--text-display-lg);
   font-weight: 700;
   color: var(--color-ot-gold200);
   margin: 0;
   line-height: 1.2;
 }
 
+.price-large,
 .price-display--large {
-  font-size: 30px;
+  font-size: var(--text-display-xl);
+  font-weight: 700;
+  color: var(--color-ot-gold200);
+  margin: 0;
+  line-height: 1.2;
 }
 
+.price-small,
 .price-display--small {
-  font-size: 16px;
+  font-size: var(--text-body-std);
+  font-weight: 700;
+  color: var(--color-ot-gold200);
+  margin: 0;
+  line-height: 1.2;
 }
 
-/* Callout Box */
+/* Quote/Callout Styles */
+.quote-text {
+  font-size: 18px;
+  line-height: 1.6;
+  font-style: italic;
+  margin: var(--space-lg) 0;
+  opacity: 0.95;
+}
+
 .callout-box {
   padding: var(--space-md);
   margin: var(--space-lg) 0;
@@ -529,13 +577,11 @@ strong {
   border-radius: 4px;
 }
 
-.callout-box .body-text,
-.callout-box .artwork-text {
+.callout-box .body-text {
   margin-bottom: 0;
 }
 
-.callout-box .body-text:not(:last-child),
-.callout-box .artwork-text:not(:last-child) {
+.callout-box .body-text:not(:last-child) {
   margin-bottom: var(--space-sm);
 }
 
@@ -588,4 +634,43 @@ strong {
   left: 0;
   color: var(--color-ot-gold200);
   font-weight: 700;
+}
+
+/* ============================================
+ * 6. RESPONSIVE TYPOGRAPHY
+ * ============================================ */
+
+@media (max-width: 640px) {
+  /* Scale down headings on mobile */
+  .artwork-title,
+  .page-title,
+  h1 {
+    font-size: clamp(24px, 6vw, 30px);
+    line-height: 1.3;
+  }
+
+  .section-heading,
+  h2 {
+    font-size: clamp(20px, 5vw, 22px);
+    line-height: 1.3;
+  }
+
+  /* Adjust spacing on mobile */
+  .section-heading {
+    margin: var(--space-xl) 0 var(--space-md) 0;
+  }
+
+  .body-text {
+    font-size: 15px;
+    line-height: 22px;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 968px) {
+  /* Tablet optimization */
+  .artwork-title,
+  .page-title,
+  h1 {
+    font-size: 28px;
+  }
 }
