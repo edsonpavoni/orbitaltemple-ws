@@ -3,7 +3,10 @@ import RitualButtonV6React from './RitualButton';
 import type { RitualButtonReactProps } from './ritual-button-types';
 
 export default function HomeRitualButton() {
-  const { t } = useTranslation('home');
+  const { t, ready } = useTranslation('home');
+
+  // Don't render until translations are loaded
+  if (!ready) return null;
 
   return (
     <RitualButtonV6React

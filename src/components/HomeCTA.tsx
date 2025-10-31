@@ -1,7 +1,10 @@
 import { useTranslation } from 'react-i18next';
 
 export default function HomeCTA() {
-  const { t } = useTranslation('home');
+  const { t, ready } = useTranslation('home');
+
+  // Don't render until translations are loaded
+  if (!ready) return null;
 
   return (
     <p style={{
