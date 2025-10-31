@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next';
 
 export default function HomeHero() {
-  const { t } = useTranslation('home');
+  const { t, ready } = useTranslation('home');
 
   // Helper to convert \n to <br/>
   const renderTextWithBreaks = (text: string) => {
@@ -12,6 +12,9 @@ export default function HomeHero() {
       </span>
     ));
   };
+
+  // Don't render until translations are loaded
+  if (!ready) return null;
 
   return (
     <>

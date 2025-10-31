@@ -11,7 +11,7 @@ const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const STEP_ORDER: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
 
 export default function SendNameForm() {
-  const { t } = useTranslation('send-a-name');
+  const { t, ready } = useTranslation('send-a-name');
 
   // Helper function to convert \n to <br/> tags
   const renderTextWithBreaks = (text: string) => {
@@ -307,6 +307,25 @@ export default function SendNameForm() {
   // On desktop, center vertically
   const basePadding = 150; // 72px dome + some spacing for content
   const topPadding = (isKeyboardOpen && !isDesktop) ? 100 : (isDesktop ? 0 : basePadding); // Move closer to top when keyboard opens on MOBILE only, center on desktop
+
+  // Don't render until translations are loaded to prevent flash of untranslated content
+  if (!ready) {
+    return (
+      <div style={{
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: '100vh',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        opacity: 0,
+      }}>
+        <Starfield />
+      </div>
+    );
+  }
 
   return (
     <div style={{
