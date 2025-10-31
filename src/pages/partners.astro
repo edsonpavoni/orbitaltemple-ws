@@ -155,13 +155,13 @@ import Footer from "../components/Footer.astro";
 
   @media (min-width: 640px) {
     .partners-grid {
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }
 
   @media (min-width: 968px) {
     .partners-grid {
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 2.5rem;
     }
   }
@@ -214,8 +214,8 @@ import Footer from "../components/Footer.astro";
   }
 
   .partner-logo-small {
-    max-width: 40%;
-    max-height: 40%;
+    max-width: 55%;
+    max-height: 55%;
   }
 
   .partner-name {
