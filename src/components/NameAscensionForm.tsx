@@ -563,10 +563,14 @@ export default function SendNameForm() {
         </div>
 
         {/* Step 5: Complete */}
-        <div style={getStepStyle('complete')}>
+        <div style={{
+          ...getStepStyle('complete'),
+          top: isDesktop ? '50%' : 'auto',
+          transform: isDesktop ? 'translate(-50%, -50%)' : 'translateX(-50%)',
+        }}>
 
           <p className="page-subtitle" style={{
-            marginTop: isDesktop ? '1rem' : '4rem',
+            marginTop: isDesktop ? '0' : '4rem',
             opacity: showCompleteText ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
           }}>

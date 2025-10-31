@@ -116,7 +116,7 @@ export const submitName = functions.https.onRequest(async (req, res) => {
     try {
       const resend = new Resend(functions.config().resend.api_key);
 
-      await resend.emails.send({
+      const emailResult = await resend.emails.send({
         from: "Orbital Temple <noreply@orbitaltemple.art>",
         to: [email.trim().toLowerCase()],
         subject: `${name.trim()} is now queued for ascension`,
@@ -126,11 +126,14 @@ export const submitName = functions.https.onRequest(async (req, res) => {
       functions.logger.info("Immediate confirmation email sent", {
         nameId: docRef.id,
         email: email.trim().toLowerCase(),
+        resendResponse: emailResult,
       });
     } catch (emailError) {
       functions.logger.error("Error sending immediate confirmation email", {
         nameId: docRef.id,
         error: emailError,
+        errorMessage: emailError instanceof Error ? emailError.message : "Unknown error",
+        errorStack: emailError instanceof Error ? emailError.stack : undefined,
       });
       // Don't fail the request if email fails
     }
