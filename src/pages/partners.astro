@@ -167,17 +167,15 @@ import Footer from "../components/Footer.astro";
     display: flex;
     flex-direction: column;
     padding: 2rem;
-    background: rgba(250, 212, 58, 0.03);
-    border: 1px solid rgba(250, 212, 58, 0.2);
-    border-radius: 8px;
+    background: transparent;
+    border: none;
+    border-radius: 0;
     transition: all 0.3s ease;
   }
 
   .partner-card:hover {
-    background: rgba(250, 212, 58, 0.08);
-    border-color: var(--color-ot-gold200);
+    background: transparent;
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(250, 212, 58, 0.15);
   }
 
   .partner-logo-container {
@@ -187,9 +185,9 @@ import Footer from "../components/Footer.astro";
     align-items: center;
     justify-content: center;
     margin-bottom: 1.5rem;
-    background: #ffffff;
-    border-radius: 6px;
-    padding: 1rem;
+    background: #000000;
+    border-radius: 0;
+    padding: 1.5rem;
   }
 
   .partner-logo {
@@ -198,6 +196,7 @@ import Footer from "../components/Footer.astro";
     width: auto;
     height: auto;
     object-fit: contain;
+    filter: brightness(0) invert(1);
   }
 
   .partner-name {
