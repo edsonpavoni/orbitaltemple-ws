@@ -90,7 +90,10 @@ import SendNameForm from "../components/NameAscensionForm";
 
   <!-- Fixed Dome at top - animates down during journey -->
   <div id="dome-container" style="position: fixed; top: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 640px; overflow: hidden; z-index: 1; pointer-events: none;">
-    <img id="dome-image" src="/UI/dome.webp" alt="Dome" style="position: relative; width: 100%; height: auto; display: block; transform: translateY(-100%); transition: transform 1s ease-out;" />
+    <picture>
+      <source media="(min-width: 768px)" srcset="/UI/dome_large.webp" />
+      <img id="dome-image" src="/UI/dome.webp" alt="Dome" style="position: relative; width: 100%; height: auto; display: block; transform: translateY(-100%); transition: transform 1s ease-out;" />
+    </picture>
   </div>
 
   <!-- Main Content - Component handles its own positioning -->
