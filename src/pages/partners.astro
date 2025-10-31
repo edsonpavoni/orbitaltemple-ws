@@ -23,7 +23,7 @@ import Footer from "../components/Footer.astro";
       <div class="partner-card">
         <div class="partner-logo-container">
           <a href="https://risenewyork.com/" target="_blank" rel="noopener noreferrer">
-            <img src="/partners/riseny.svg" alt="RiseNY&Partners Logo" class="partner-logo" />
+            <img src="/partners/riseny-white.svg" alt="RiseNY&Partners Logo" class="partner-logo partner-logo-no-filter" />
           </a>
         </div>
         <h3 class="partner-name">
@@ -38,7 +38,7 @@ import Footer from "../components/Footer.astro";
       <div class="partner-card">
         <div class="partner-logo-container">
           <a href="https://www.ourhighestmantra.com/" target="_blank" rel="noopener noreferrer">
-            <img src="/partners/highest-mantra.webp" alt="Our Highest Mantra Logo" class="partner-logo" />
+            <img src="/partners/highest-mantra.webp" alt="Our Highest Mantra Logo" class="partner-logo partner-logo-small" />
           </a>
         </div>
         <h3 class="partner-name">
@@ -78,7 +78,7 @@ import Footer from "../components/Footer.astro";
       <!-- Mercosul Bienial -->
       <div class="partner-card">
         <div class="partner-logo-container">
-          <img src="/partners/mercosul.webp" alt="13th Mercosul Bienial Logo" class="partner-logo" />
+          <img src="/milestones/mercosul.webp" alt="13th Mercosul Bienial Logo" class="partner-logo partner-logo-no-filter" />
         </div>
         <h3 class="partner-name">
           13th Mercosul Bienial
@@ -136,9 +136,12 @@ import Footer from "../components/Footer.astro";
       </p>
     </div>
 
-  </main>
+    <!-- Footer -->
+    <footer class="artwork-footer">
+      <Footer />
+    </footer>
 
-  <Footer />
+  </main>
 
 </Base>
 
@@ -197,6 +200,15 @@ import Footer from "../components/Footer.astro";
     height: auto;
     object-fit: contain;
     filter: brightness(0) invert(1);
+  }
+
+  .partner-logo-no-filter {
+    filter: none;
+  }
+
+  .partner-logo-small {
+    max-width: 60%;
+    max-height: 60%;
   }
 
   .partner-name {
