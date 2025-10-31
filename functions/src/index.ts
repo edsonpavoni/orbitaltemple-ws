@@ -112,6 +112,29 @@ export const submitName = functions.https.onRequest(async (req, res) => {
       ip: cleanIp,
     });
 
+    // Send immediate confirmation email
+    try {
+      const resend = new Resend(functions.config().resend.api_key);
+
+      await resend.emails.send({
+        from: "Orbital Temple <noreply@orbitaltemple.art>",
+        to: [email.trim().toLowerCase()],
+        subject: `${name.trim()} is now queued for ascension`,
+        text: `The name\n${name.trim()}\nis now queued\nfor ascension.\n\nWhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
+      });
+
+      functions.logger.info("Immediate confirmation email sent", {
+        nameId: docRef.id,
+        email: email.trim().toLowerCase(),
+      });
+    } catch (emailError) {
+      functions.logger.error("Error sending immediate confirmation email", {
+        nameId: docRef.id,
+        error: emailError,
+      });
+      // Don't fail the request if email fails
+    }
+
     res.status(200).json({
       success: true,
       id: docRef.id,
