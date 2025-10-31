@@ -110,7 +110,10 @@ import "../styles/ritual-button.css";
 
   <!-- Second Fold: Dome Image -->
   <section id="dome" style="position: relative; width: 100%; background-color: var(--color-ot-dark);">
-    <img src="/UI/dome.webp" alt="Dome" style="width: 100%; height: auto; display: block;" />
+    <picture>
+      <source media="(min-width: 768px)" srcset="/UI/dome_large.webp" />
+      <img src="/UI/dome.webp" alt="Dome" style="width: 100%; height: auto; display: block;" />
+    </picture>
   </section>
 
   <!-- Third Section: Manifesto -->
