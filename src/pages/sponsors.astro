@@ -8,145 +8,549 @@ import Footer from "../components/Footer.astro";
 
     <!-- Main Title -->
     <h1 class="artwork-title">
-      Help Build the First Radically Inclusive Temple
+      Support Orbital Temple
     </h1>
 
-    <!-- Vision -->
-    <p class="artwork-text" style="font-size: var(--text-display-sm); line-height: 1.4; text-align: center; max-width: 800px; margin: 0 auto 3rem auto;">
-      Every temple on Earth has a threshold.<br>
-      Every sacred space draws a line.<br>
-      <br>
-      Space has no borders. No walls. No exclusions.<br>
-      It belongs to every sentient being who has ever lived.
+    <!-- Opening Vision -->
+    <p class="artwork-text" style="max-width: 900px; margin: 0 auto 3rem auto;">
+      On <strong>November 28, 2025</strong>, the first purely artistic satellite from the Global South will launch from <strong>India</strong> aboard an <strong>ISRO</strong> rocket. <strong>Orbital Temple</strong> is a monument to radical inclusion, a platform for education, and a catalyst for global conversation about the future of the sacred in the age of space exploration.
     </p>
 
-    <p class="artwork-text artwork-text--section-end" style="text-align: center;">
-      Orbital Temple is an artistic satellite that will orbit Earth for a decade, storing names of departed beings from every corner of our planet. It is art. It is ritual. It is the first temple that truly welcomes everyone.
+    <!-- Visual Content Section -->
+    <figure style="margin: 3rem auto 48px auto; max-width: 900px;">
+      <div id="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px; cursor: pointer;">
+        <!-- Video Thumbnail -->
+        <img
+          id="video-thumbnail"
+          src="https://img.youtube.com/vi/xf-Fj_YaRik/maxresdefault.jpg"
+          alt="Orbital Temple video introduction"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"
+        />
+        <!-- Play Button Overlay -->
+        <div id="play-button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; background: rgba(0, 0, 0, 0.7); border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease;">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="white" style="margin-left: 4px;">
+            <path d="M8 5v14l11-7z"/>
+          </svg>
+        </div>
+        <!-- YouTube iframe (hidden initially) -->
+        <iframe
+          id="youtube-iframe"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 4px; display: none;"
+          src=""
+          title="Orbital Temple video introduction"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <figcaption style="font-size: var(--text-body-sm); line-height: var(--text-body-sm-lh); color: var(--color-ot-light); opacity: 0.6; margin-top: 8px; text-align: right;">
+        Orbital Temple video introduction, 1 min.
+      </figcaption>
+    </figure>
+
+    <script>
+      // Click-to-play functionality
+      const videoContainer = document.getElementById('video-container');
+      const videoThumbnail = document.getElementById('video-thumbnail');
+      const playButton = document.getElementById('play-button');
+      const youtubeIframe = document.getElementById('youtube-iframe');
+
+      videoContainer?.addEventListener('click', function() {
+        // Hide thumbnail and play button
+        if (videoThumbnail) videoThumbnail.style.display = 'none';
+        if (playButton) playButton.style.display = 'none';
+
+        // Show and load YouTube video with autoplay
+        if (youtubeIframe) {
+          youtubeIframe.src = 'https://www.youtube.com/embed/xf-Fj_YaRik?start=14&autoplay=1';
+          youtubeIframe.style.display = 'block';
+        }
+
+        // Remove cursor pointer after video loads
+        videoContainer.style.cursor = 'default';
+      });
+
+      // Hover effect on play button
+      videoContainer?.addEventListener('mouseenter', function() {
+        if (playButton && playButton.style.display !== 'none') {
+          playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+          playButton.style.background = 'rgba(250, 212, 58, 0.9)';
+        }
+      });
+
+      videoContainer?.addEventListener('mouseleave', function() {
+        if (playButton && playButton.style.display !== 'none') {
+          playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+          playButton.style.background = 'rgba(0, 0, 0, 0.7)';
+        }
+      });
+    </script>
+
+    <!-- What We've Accomplished -->
+    <h2 class="artwork-subtitle">
+      What We've Accomplished
+    </h2>
+
+    <p class="artwork-text artwork-text--section-end">
+      After years of research and development, the mission is ready. We have completed <strong>hardware and software development</strong> for the satellite, passed <strong>official shaker tests</strong> required for flight certification, and finalized our contract with ISRO. The satellite is built. The technology works. We are cleared for launch.
     </p>
 
-    <!-- What Your Support Enables -->
+    <!-- Funding Progress -->
     <h2 class="artwork-subtitle">
-      What Your Support Enables
+      Funding Progress
     </h2>
 
-    <div style="display: grid; gap: 2rem; margin-bottom: 3rem;">
+    <div style="max-width: 600px; margin: 0 auto 3rem auto; padding: 2rem; background: rgba(250, 212, 58, 0.03); border: 1px solid var(--color-ot-gold200); border-radius: 4px;">
 
-      <!-- Artistic -->
-      <div>
-        <h3 style="font-size: var(--text-body-std); font-weight: 700; margin-bottom: 0.75rem;">Launch Art into Orbit</h3>
-        <p class="artwork-text">
-          On November 28, 2025, the first purely artistic satellite from the Global South will launch from India. Your support makes history — helping send a sculpture into space that represents collective memory, radical inclusion, and the democratization of the heavens.
-        </p>
+      <p class="artwork-text" style="text-align: center; margin-bottom: 1rem;">
+        <strong style="font-size: 22px; color: var(--color-ot-gold200);">$29,000</strong> raised of <strong style="font-size: 22px;">$249,000</strong> goal
+      </p>
+
+      <!-- Progress Bar -->
+      <div style="width: 100%; height: 8px; background: rgba(250, 212, 58, 0.1); border-radius: 4px; overflow: hidden; margin-bottom: 1.5rem;">
+        <div style="width: 11.65%; height: 100%; background: var(--color-ot-gold200); border-radius: 4px;"></div>
       </div>
 
-      <!-- Educational -->
-      <div>
-        <h3 style="font-size: var(--text-body-std); font-weight: 700; margin-bottom: 0.75rem;">Empower the Next Generation</h3>
-        <p class="artwork-text">
-          The Quebrada Space Program teaches teenagers from the Global South how to build and launch satellites using open-source technology. Your contribution funds scholarships, workshops, and the dream that space belongs to everyone — not just those born into privilege.
-        </p>
-      </div>
-
-      <!-- Mediatic -->
-      <div>
-        <h3 style="font-size: var(--text-body-std); font-weight: 700; margin-bottom: 0.75rem;">Spark a Global Conversation</h3>
-        <p class="artwork-text">
-          Through exhibitions, documentaries, and a viral question — "What makes something a temple?" — this project invites humanity to reimagine the sacred. Your support amplifies this message across continents, languages, and belief systems.
-        </p>
-      </div>
-
-    </div>
-
-    <!-- Ways to Participate -->
-    <h2 class="artwork-subtitle">
-      Ways to Participate
-    </h2>
-
-    <div style="display: grid; gap: 1.5rem; margin-bottom: 3rem;">
-
-      <!-- Contribute Now -->
-      <div style="border-left: 3px solid var(--color-ot-gold200); padding-left: 1.5rem;">
-        <h3 style="font-size: var(--text-body-std); font-weight: 700; margin-bottom: 0.5rem;">Contribute Now</h3>
-        <p class="artwork-text" style="margin-bottom: 1rem;">
-          Make a tax-deductible donation through our fiscal sponsor, The Field. All contributions directly support the satellite launch, educational programs, and global exhibitions.
-        </p>
+      <div style="text-align: center;">
         <a
           href="https://app.thefield.org/home/donation/general/632877/0"
           target="_blank"
           rel="noopener noreferrer"
-          style="display: inline-block; padding: 0.75rem 1.5rem; background: var(--color-ot-gold200); color: var(--color-ot-dark); font-weight: 600; text-decoration: none; border-radius: 4px; transition: background 0.2s ease;">
-          Donate via The Field →
+          style="display: inline-block; padding: 0.875rem 2rem; background: var(--color-ot-gold200); color: var(--color-ot-dark); font-weight: 700; font-size: 1rem; text-decoration: none; border-radius: 4px; transition: all 0.2s ease;">
+          Support the Mission
         </a>
       </div>
 
-      <!-- Become a Partner -->
-      <div style="border-left: 3px solid var(--color-ot-gold200); padding-left: 1.5rem;">
-        <h3 style="font-size: var(--text-body-std); font-weight: 700; margin-bottom: 0.5rem;">Become a Partner</h3>
-        <p class="artwork-text" style="margin-bottom: 1rem;">
-          For institutions, foundations, and organizations interested in major partnerships — including naming rights, educational co-branding, and documentary co-production — let's start a conversation.
-        </p>
-        <a
-          href="mailto:edson@edsonpavoni.com?subject=Orbital Temple Partnership Inquiry"
-          style="display: inline-block; padding: 0.75rem 1.5rem; border: 2px solid var(--color-ot-gold200); color: var(--color-ot-light); font-weight: 600; text-decoration: none; border-radius: 4px; transition: all 0.2s ease;">
-          Contact Us →
-        </a>
-      </div>
+    </div>
 
-      <!-- Stay Connected -->
-      <div style="border-left: 3px solid var(--color-ot-gold200); padding-left: 1.5rem;">
-        <h3 style="font-size: var(--text-body-std); font-weight: 700; margin-bottom: 0.5rem;">Stay Connected</h3>
-        <p class="artwork-text">
-          Follow the journey as we prepare for launch. Receive updates about exhibitions, educational initiatives, and ways to participate in this historic mission.
+    <!-- What We Need Support For -->
+    <h2 class="artwork-subtitle">
+      What We Need Support For
+    </h2>
+
+    <p class="artwork-text">
+      To complete this historic mission and maximize its impact, we need support for four critical components:
+    </p>
+
+    <div style="display: grid; gap: 1.25rem; margin-bottom: 48px; padding-left: 1.5rem;">
+      <p class="artwork-text" style="margin: 0;">
+        · <strong>ISRO Launch Costs:</strong> $32,000
+      </p>
+      <p class="artwork-text" style="margin: 0;">
+        · <strong>Artist Journey to India:</strong> $6,000
+      </p>
+      <p class="artwork-text" style="margin: 0;">
+        · <strong>Educational Program:</strong> $46,000
+      </p>
+      <p class="artwork-text" style="margin: 0;">
+        · <strong>Documentary Production:</strong> $136,000
+      </p>
+    </div>
+
+    <!-- The Decade Ahead -->
+    <h2 class="artwork-subtitle">
+      The Decade Ahead
+    </h2>
+
+    <p class="artwork-text">
+      This mission doesn't end on November 28, 2025—it's just beginning.
+    </p>
+
+    <p class="artwork-text">
+      For the next <strong>10 years</strong>, this satellite will orbit Earth, responding to names sent from every corner of the planet. The educational program will train <strong>thousands of teenagers</strong> in satellite technology, breaking the Space Gap for the Global South. The documentary will reach <strong>millions</strong> worldwide, sparking conversations about belonging, memory, and the sacred.
+    </p>
+
+    <p class="artwork-text">
+      Orbital Temple is partnering with <strong>Sathi Roy</strong> and <strong>The Roy Foundation</strong> to make this decade-long vision culturally significant. The Roy Foundation is a nonprofit dedicated to expanding access to spiritual education, emotional healing, and consciousness tools for underserved communities worldwide—bridging ancient wisdom and modern technology to create a more conscious, connected, and compassionate world. Together, we're building the infrastructure to ensure Orbital Temple becomes a lasting movement that reaches communities across the globe.
+    </p>
+
+    <p class="artwork-text artwork-text--section-end">
+      Your support doesn't just fund a launch—it creates a movement that will echo for a decade and inspire the next generation of space artists and engineers.
+    </p>
+
+    <!-- Individual Supporter Tiers -->
+    <h2 class="artwork-subtitle">
+      Individual Supporters
+    </h2>
+
+    <p class="artwork-text" style="margin-bottom: 32px;">
+      Join the mission at a level that works for you. Individual supporters are the foundation of this historic project.
+    </p>
+
+    <div style="display: grid; gap: 1.5rem; margin-bottom: 4rem; max-width: 900px; margin-left: auto; margin-right: auto;">
+
+      <!-- $1,000 Tier -->
+      <div style="background: rgba(250, 212, 58, 0.02); padding: 1.75rem; border-left: 3px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 class="section-subtitle" style="margin: 0;">Orbital Friend</h3>
+          <p style="font-size: var(--text-body-std); font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$1,000</p>
+        </div>
+        <p class="artwork-text artwork-text--secondary" style="margin-top: 0.75rem;">
+          You receive: Name on website honor roll · Personalized orbital certificate when satellite launches · Documentary thank you credit · Tax-deductible receipt
         </p>
-        <p class="artwork-text" style="margin-top: 1rem;">
-          <a href="mailto:edson@edsonpavoni.com?subject=Orbital Temple Updates - Please Add Me" style="color: var(--color-ot-light); text-decoration: underline; transition: color 0.2s ease;">
-            Join our mailing list
+        <div style="margin-top: 1.25rem; text-align: right;">
+          <a
+            href="https://app.thefield.org/home/donation/general/632877/0"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem; border: 1px solid var(--color-ot-gold200); color: var(--color-ot-light); text-decoration: none; border-radius: 3px; transition: all 0.2s ease;">
+            Make Tax-Deductible Donation
           </a>
+        </div>
+      </div>
+
+      <!-- $2,500 Tier -->
+      <div style="background: rgba(250, 212, 58, 0.02); padding: 1.75rem; border-left: 3px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 class="section-subtitle" style="margin: 0;">Satellite Supporter</h3>
+          <p style="font-size: var(--text-body-std); font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$2,500</p>
+        </div>
+        <p class="artwork-text artwork-text--secondary" style="margin-top: 0.75rem;">
+          You receive: All Orbital Friend benefits · Exclusive satellite tracking app access · Artist thank you video message · Launch event livestream invitation · Tax-deductible receipt
         </p>
+        <div style="margin-top: 1.25rem; text-align: right;">
+          <a
+            href="https://app.thefield.org/home/donation/general/632877/0"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem; border: 1px solid var(--color-ot-gold200); color: var(--color-ot-light); text-decoration: none; border-radius: 3px; transition: all 0.2s ease;">
+            Make Tax-Deductible Donation
+          </a>
+        </div>
+      </div>
+
+      <!-- $5,000 Tier -->
+      <div style="background: rgba(250, 212, 58, 0.02); padding: 1.75rem; border-left: 3px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 class="section-subtitle" style="margin: 0;">Space Advocate</h3>
+          <p style="font-size: var(--text-body-std); font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$5,000</p>
+        </div>
+        <p class="artwork-text artwork-text--secondary" style="margin-top: 0.75rem;">
+          You receive: All Satellite Supporter benefits · Printed name in documentary credits · Invitation to private documentary screening · Quarterly updates from the team · Tax-deductible receipt
+        </p>
+        <div style="margin-top: 1.25rem; text-align: right;">
+          <a
+            href="https://app.thefield.org/home/donation/general/632877/0"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem; border: 1px solid var(--color-ot-gold200); color: var(--color-ot-light); text-decoration: none; border-radius: 3px; transition: all 0.2s ease;">
+            Make Tax-Deductible Donation
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Funding Opportunities -->
+    <h2 class="artwork-subtitle">
+      Fund a Specific Component
+    </h2>
+
+    <p class="artwork-text" style="margin-bottom: 32px;">
+      Your contribution directly funds specific aspects of the mission. Choose what speaks to you—or combine multiple to create a larger impact.
+    </p>
+
+    <div style="display: grid; gap: 2rem; margin-bottom: 4rem;">
+
+      <!-- Satellite Launch -->
+      <div style="background: rgba(250, 212, 58, 0.03); padding: 2rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 class="section-subtitle" style="margin: 0;">Fund the Space Launch</h3>
+          <p style="font-size: 22px; font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$32,000</p>
+        </div>
+        <p class="artwork-text">
+          The actual launch cost aboard the <strong>ISRO</strong> rocket on <strong>November 28, 2025</strong>. This sends the first purely artistic satellite from the Global South into orbit, where it will remain for a decade as a temple in the sky.
+        </p>
+        <p class="artwork-text artwork-text--secondary" style="margin-top: 1rem;">
+          You receive: "Launch Sponsor" title · Featured in all press releases · On-screen documentary acknowledgment · VIP access to launch events · Join quarterly video calls with Edson and the mission team · Certificate with satellite orbital data · Tax-deductible receipt
+        </p>
+        <div style="margin-top: 1.5rem; text-align: right;">
+          <a
+            href="https://app.thefield.org/home/donation/general/632877/0"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem; border: 1px solid var(--color-ot-gold200); color: var(--color-ot-light); text-decoration: none; border-radius: 3px; transition: all 0.2s ease;">
+            Make Tax-Deductible Donation
+          </a>
+        </div>
+      </div>
+
+      <!-- Artist Travel -->
+      <div style="background: rgba(250, 212, 58, 0.03); padding: 2rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 class="section-subtitle" style="margin: 0;">Fund the Artist's Journey to India</h3>
+          <p style="font-size: 22px; font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$6,000</p>
+        </div>
+        <p class="artwork-text">
+          Travel, accommodation, and production costs for artist Edson Pavoni and core team to witness the launch in <strong>India on November 28, 2025</strong>. This trip is essential for documentary filming, media coverage, and representing the Global South at this historic moment.
+        </p>
+        <p class="artwork-text artwork-text--secondary" style="margin-top: 1rem;">
+          You receive: Personal thank you from artist · Behind-the-scenes documentary access · Name in documentary credits · Launch event invitation · Tax-deductible receipt
+        </p>
+        <div style="margin-top: 1.5rem; text-align: right;">
+          <a
+            href="https://app.thefield.org/home/donation/general/632877/0"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem; border: 1px solid var(--color-ot-gold200); color: var(--color-ot-light); text-decoration: none; border-radius: 3px; transition: all 0.2s ease;">
+            Make Tax-Deductible Donation
+          </a>
+        </div>
+      </div>
+
+      <!-- Educational Program -->
+      <div style="background: rgba(250, 212, 58, 0.03); padding: 2rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 class="section-subtitle" style="margin: 0;">Fund the Educational Program</h3>
+          <p style="font-size: 22px; font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$46,000</p>
+        </div>
+        <p class="artwork-text">
+          Develop and launch the complete multilingual course teaching Global South teenagers how to build satellites. Includes curriculum development, video production, platform hosting, and the first year of scholarships for underserved students. Creates lasting infrastructure for space education.
+        </p>
+        <p class="artwork-text artwork-text--secondary" style="margin-top: 1rem;">
+          You receive: "Education Founding Sponsor" recognition · Scholarships in your name · Featured in educational materials · Meet the first cohort of students your scholarship funded (virtual or in-person) · Documentary feature segment · Speaking opportunity at launch events · Tax-deductible receipt
+        </p>
+        <div style="margin-top: 1.5rem; text-align: right;">
+          <a
+            href="https://app.thefield.org/home/donation/general/632877/0"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem; border: 1px solid var(--color-ot-gold200); color: var(--color-ot-light); text-decoration: none; border-radius: 3px; transition: all 0.2s ease;">
+            Make Tax-Deductible Donation
+          </a>
+        </div>
+      </div>
+
+      <!-- Documentary -->
+      <div style="background: rgba(250, 212, 58, 0.03); padding: 2rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 class="section-subtitle" style="margin: 0;">Fund the Documentary Production</h3>
+          <p style="font-size: 22px; font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$136,000</p>
+        </div>
+        <p class="artwork-text">
+          Complete production and post-production of <strong>"What Makes a Temple?"</strong> — the feature documentary exploring the intersection of art, technology, and the sacred. Includes filming in multiple countries, interviews with thought leaders, and premiere screenings in <strong>India</strong> and <strong>NYC</strong>.
+        </p>
+        <p class="artwork-text artwork-text--secondary" style="margin-top: 1rem;">
+          You receive: Executive Producer credit · Featured in opening credits · Private screening for your guests · World premiere invitations (both cities) · Private dinner with Edson and documentary director before premiere · Behind-the-scenes access · Tax-deductible receipt
+        </p>
+        <div style="margin-top: 1.5rem; text-align: right;">
+          <a
+            href="https://app.thefield.org/home/donation/general/632877/0"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem; border: 1px solid var(--color-ot-gold200); color: var(--color-ot-light); text-decoration: none; border-radius: 3px; transition: all 0.2s ease;">
+            Make Tax-Deductible Donation
+          </a>
+        </div>
+      </div>
+
+      <!-- Art Collector -->
+      <div style="background: linear-gradient(135deg, rgba(250, 212, 58, 0.12) 0%, rgba(250, 212, 58, 0.03) 100%); padding: 3rem; border: 3px solid var(--color-ot-gold200); border-radius: 4px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">
+          <h3 style="font-size: 22px; font-weight: 700; margin: 0; color: var(--color-ot-gold200);">Become the Only Orbital Temple Art Collector</h3>
+          <p style="font-size: 22px; font-weight: 700; color: var(--color-ot-gold200); margin: 0;">$50,000</p>
+        </div>
+
+        <figure style="margin: 0 0 2rem 0;">
+          <img
+            src="/press/edson-pavoni-orbital-temple-clara-marques-07.webp"
+            alt="Orbital Temple installation at Mercosul Biennial"
+            style="width: 100%; height: auto; display: block; border-radius: 4px;"
+          />
+          <figcaption style="font-size: var(--text-body-sm); line-height: var(--text-body-sm-lh); color: var(--color-ot-light); opacity: 0.6; margin-top: 8px; text-align: right;">
+            Orbital Temple at the 13th Mercosul Biennial, Porto Alegre. Photo by Clara Marques.
+          </figcaption>
+        </figure>
+
+        <p class="artwork-text">
+          Three identical satellites were built for this mission. <strong>One</strong> launched to space on November 28, 2025. <strong>One</strong> travels to museum exhibitions worldwide. <strong>One</strong> is reserved for a generous collector who wants to fund this vision and own a piece of space art history.
+        </p>
+
+        <p class="artwork-text">
+          This is not a replica—it is one of the three original satellites. A fully <strong>functional spacecraft</strong> that is also a <strong>sculpture</strong>. The satellite measures <strong>5cm³</strong> and weighs <strong>245g</strong>, with a dome made of <strong>gold</strong>. This is a <strong>1/1 artwork</strong>. No one else will ever have this piece.
+        </p>
+
+        <p class="artwork-text">
+          As the collector, you will receive the same installation created for the <strong>13th Mercosul Biennial</strong>—a complete museological display that showcases the satellite as both art and technology. This installation has been exhibited at major international venues and represents the highest standard of space art presentation.
+        </p>
+
+        <p class="artwork-text" style="margin-bottom: 2rem;">
+          Your support funds the entire vision—the launch, the educational program, and the documentary that will spark global conversations about the sacred in the age of space exploration. Your name becomes permanently intertwined with this historic mission.
+        </p>
+
+        <div style="margin-top: 2rem; text-align: center;">
+          <a
+            href="mailto:edson@spacesandcreatures.com?subject=Orbital Temple Art Collector Inquiry"
+            style="display: inline-block; padding: 1rem 2.5rem; background: var(--color-ot-gold200); color: var(--color-ot-dark); font-weight: 700; font-size: 1.1rem; text-decoration: none; border-radius: 4px; transition: all 0.2s ease;">
+            Inquire About This Opportunity
+          </a>
+        </div>
       </div>
 
     </div>
 
     <!-- Current Supporters -->
     <h2 class="artwork-subtitle">
-      With Gratitude
+      With Gratitude to Our Supporters
     </h2>
 
-    <p class="artwork-text">
-      Orbital Temple is made possible by the generous support of institutions, individuals, and believers in radical inclusion:
+    <p class="artwork-text" style="margin-bottom: 2rem;">
+      Orbital Temple is made possible by institutions, individuals, and believers in radical inclusion who understand that art creates tomorrow's imaginaries.
     </p>
 
-    <div style="margin: 2rem 0 3rem 0; padding: 2rem; background: rgba(250, 212, 58, 0.05); border-left: 3px solid var(--color-ot-gold200);">
-      <p style="font-size: var(--text-display-sm); font-weight: 600; margin: 0;">
-        Pearmill
+    <div style="margin: 0 0 3rem 0; padding: 2.5rem; background: rgba(250, 212, 58, 0.05); border: 2px solid var(--color-ot-gold200); border-radius: 4px;">
+      <img
+        src="https://cdn.prod.website-files.com/5f467eca8efd267ebe6dc293/63b59b7475377c988b04eb2e_Pearmill-logo-svg.svg"
+        alt="Pearmill"
+        style="height: 40px; margin-bottom: 1.5rem;"
+      />
+      <p class="artwork-text" style="margin: 0 0 1rem 0; font-weight: 600; color: var(--color-ot-gold200);">
+        Founding Supporter
       </p>
+      <p class="artwork-text" style="margin: 0; line-height: 1.6;">
+        Pearmill is one of the fastest-growing performance marketing agencies in the US—a group of designers, marketers, and engineers working together to help grow some of the most iconic startups in the world. Their generous support enabled the Orbital Temple team to purchase critical components and develop the open-source hardware that makes this satellite mission possible.
+      </p>
+    </div>
+
+    <p class="artwork-text" style="text-align: center; font-style: italic; opacity: 0.9;">
+      Your name could be here. Join us in creating history.
+    </p>
+
+    <!-- The Team -->
+    <h2 class="artwork-subtitle">
+      The People Behind This Mission
+    </h2>
+
+    <p class="artwork-text" style="margin-bottom: 2rem;">
+      Orbital Temple is a 10-year commitment. It's led by two people who have spent their lives bridging art, technology, and human connection—and who are building the infrastructure to sustain this vision for the decade ahead.
+    </p>
+
+    <!-- Team Grid -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 3rem; margin-bottom: 4rem;">
+
+      <!-- Edson Pavoni -->
+      <div>
+        <img
+          src="/sponsors/edson-pavoni-portrait.webp"
+          alt="Edson Pavoni"
+          style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; margin-bottom: 1.5rem;"
+        />
+        <h3 class="section-subtitle" style="margin-bottom: 0.5rem;">Edson Pavoni</h3>
+        <p class="artwork-text" style="margin-bottom: 1rem; font-size: var(--text-body-secondary); opacity: 0.8;">
+          Artist & Technologist
+        </p>
+        <p class="artwork-text" style="margin-bottom: 0.75rem;">
+          Edson is an artist and technologist who explores human intimacy at the intersection of art and technology. His practice spans architectural installations, algorithms, AI-generated imagery, poetry, photography, and satellite technology.
+        </p>
+        <p class="artwork-text" style="margin-bottom: 0.75rem;">
+          With over <strong>20 years</strong> of experience, he has been part of creative teams for the <strong>2016 Rio Olympics</strong> and the <strong>Inter American Development Bank</strong>. He was recognized as one of the <strong>50 most innovative Brazilian professionals</strong> by Proxxima Magazine and received two consecutive <strong>IF Design Awards</strong> in 2017 and 2018.
+        </p>
+        <p class="artwork-text artwork-text--secondary">
+          His work has been exhibited at the 13th Mercosul Biennial (Brazil), IX International Biennale (Uzbekistan), and NTU Global Digital Art Prize (Singapore).
+        </p>
+      </div>
+
+      <!-- Sathi Roy -->
+      <div>
+        <img
+          src="/sponsors/sathi-roy-portrait.webp"
+          alt="Sathi Roy"
+          style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; margin-bottom: 1.5rem;"
+        />
+        <h3 class="section-subtitle" style="margin-bottom: 0.5rem;">Sathi Roy</h3>
+        <p class="artwork-text" style="margin-bottom: 1rem; font-size: var(--text-body-secondary); opacity: 0.8;">
+          Founder, The Roy Foundation & Strategic Partner
+        </p>
+        <p class="artwork-text" style="margin-bottom: 0.75rem;">
+          Sathi is the founder of <strong>The Roy Foundation</strong>, a nonprofit dedicated to expanding access to spiritual education, emotional healing, and consciousness tools for underserved communities around the world. The foundation partners with schools, cultural institutions, and local organizations to distribute AI-powered wellness tools, community curriculum, and media that inspires transformation.
+        </p>
+        <p class="artwork-text" style="margin-bottom: 0.75rem;">
+          With a background in neuroscience, coaching, and leadership, Sathi has built and led teams across North America and India, generating <strong>$600 million</strong> in annual sales at one venture. She is also the founder of <strong>OHM</strong>, a digital-first spiritual movement, Co-Founder of <strong>SUTE</strong> (a digital AI-driven office platform), and serves as Advisor and Global Head of Growth for <strong>RISE Global Creative</strong>.
+        </p>
+        <p class="artwork-text artwork-text--secondary">
+          As a Bengali-American woman who bridges Eastern and Western philosophies, Sathi brings a unique perspective to spiritual and artistic movements in the 21st century. With a growing network of <strong>65,000+ followers</strong> and over <strong>40 million online impressions</strong>, she is building global communities that connect across cultural and spiritual divides.
+        </p>
+      </div>
+
+    </div>
+
+    <p class="artwork-text" style="text-align: center; margin-bottom: 3rem; font-style: italic; opacity: 0.95;">
+      Together with The Roy Foundation, we're building a 10-year mission that bridges art, technology, education, and the sacred—starting with a satellite launch on November 28, 2025, and continuing with a movement that will reach underserved communities worldwide and inspire the next generation.
+    </p>
+
+    <!-- Take Action -->
+    <h2 class="artwork-subtitle">
+      Join Us
+    </h2>
+
+    <p class="artwork-text" style="margin-bottom: 2rem;">
+      The satellite is built. The technology is ready. The launch date is set: <strong>November 28, 2025</strong>. This is the moment to join a mission that reimagines what art can do, where it can go, and who it can serve.
+    </p>
+
+    <div style="display: grid; gap: 1.5rem; margin-bottom: 4rem;">
+
+      <!-- Contact for Major Sponsorship -->
+      <div style="background: rgba(250, 212, 58, 0.05); padding: 2rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <h3 class="section-subtitle" style="margin-bottom: 1rem;">Fund a Specific Component or Become a Founding Partner</h3>
+        <p class="artwork-text" style="margin-bottom: 1.5rem;">
+          Choose one of the funding opportunities above, inquire about becoming the art collector, or discuss a custom partnership package that aligns with your vision.
+        </p>
+        <a
+          href="mailto:edson@spacesandcreatures.com?subject=Orbital Temple Sponsorship Inquiry"
+          style="display: inline-block; padding: 1rem 2rem; background: var(--color-ot-gold200); color: var(--color-ot-dark); font-weight: 700; font-size: 1.1rem; text-decoration: none; border-radius: 4px; transition: all 0.2s ease;">
+          Contact Us to Begin →
+        </a>
+      </div>
+
+      <!-- General Donation -->
+      <div style="background: rgba(250, 212, 58, 0.03); padding: 2rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <h3 class="section-subtitle" style="margin-bottom: 1rem;">Make a Tax-Deductible Contribution</h3>
+        <p class="artwork-text" style="margin-bottom: 1.5rem;">
+          All contributions—large or small—support the mission and are tax-deductible through our fiscal sponsor, The Field.
+        </p>
+        <a
+          href="https://app.thefield.org/home/donation/general/632877/0"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="display: inline-block; padding: 1rem 2rem; border: 2px solid var(--color-ot-gold200); color: var(--color-ot-light); font-weight: 700; font-size: 1.1rem; text-decoration: none; border-radius: 4px; transition: all 0.2s ease;">
+          Donate via The Field →
+        </a>
+      </div>
+
     </div>
 
     <!-- Fiscal Sponsorship Info -->
     <h2 class="artwork-subtitle">
-      About Our Fiscal Sponsor
+      Tax-Deductible Giving
     </h2>
 
     <p class="artwork-text">
-      Orbital Temple operates under <strong>The Field (Performance Zone Inc.)</strong>, a 501(c)(3) non-profit organization based in New York. All U.S. contributions are tax-deductible to the extent allowed by law.
+      Orbital Temple is a fiscally sponsored project of <strong>The Field (Performance Zone Inc.)</strong>, a <strong>501(c)(3)</strong> non-profit organization based in New York. All U.S. contributions are tax-deductible to the extent allowed by law.
     </p>
 
     <p class="artwork-text">
       <strong>The Field</strong><br>
-      75 Maiden Lane #906<br>
+      75 Maiden Lane, Suite 906<br>
       New York, NY 10038<br>
-      <a href="https://thefield.org" target="_blank" rel="noopener noreferrer" style="color: var(--color-ot-light); text-decoration: underline;">thefield.org</a>
+      <a href="https://thefield.org" target="_blank" rel="noopener noreferrer" style="color: var(--color-ot-light); text-decoration: underline; transition: color 0.2s;">thefield.org</a>
     </p>
 
     <p class="artwork-text artwork-text--section-end">
-      When making contributions by check, please make payable to <em>Performance Zone Inc.</em> with memo: "Edson Pavoni: Orbital Temple."
+      When making contributions by check, please make payable to <strong>Performance Zone Inc.</strong> with memo: <strong>"Edson Pavoni: Orbital Temple"</strong>
     </p>
 
     <!-- Closing Vision -->
-    <div style="text-align: center; margin: 4rem 0 3rem 0; padding: 2rem; border-top: 1px solid rgba(250, 212, 58, 0.2); border-bottom: 1px solid rgba(250, 212, 58, 0.2);">
-      <p style="font-size: var(--text-display-sm); font-style: italic; margin: 0; line-height: 1.6;">
-        "When a name ascends, it carries our collective memory.<br>
-        When art ascends, it carries our hope."
+    <div style="text-align: center; margin: 72px 0 48px 0; padding: 3rem 2rem; background: linear-gradient(135deg, rgba(250, 212, 58, 0.05) 0%, rgba(250, 212, 58, 0.01) 100%); border-radius: 8px;">
+      <p style="font-size: 22px; font-style: italic; margin: 0 0 1.5rem 0; line-height: 1.6; opacity: 0.95;">
+        "Art doesn't reflect the future it creates it."
+      </p>
+      <p class="artwork-text" style="margin: 0; opacity: 0.85;">
+        When we reimagine the sacred, <br>
+        we reimagine who belongs.<br>
+        When we democratize space, <br>
+        we empower the next generation.<br>
+        When you support this mission, <br>
+        you help create a more inclusive tomorrow.
       </p>
     </div>
 

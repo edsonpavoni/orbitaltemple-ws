@@ -52,6 +52,8 @@
   --text-body-md: 24px;
   --text-body-std: 16px;
   --text-body-std-lh: 24px;
+  --text-body-secondary: 14px;
+  --text-body-secondary-lh: 20px;
   --text-body-sm: 12px;
   --text-body-sm-lh: 20px;
   --text-body-sub: 8px;
@@ -312,7 +314,7 @@ html, body {
   font-size: 22px;
   font-weight: 700;
   line-height: 1.2;
-  margin: 0 0 48px 0;
+  margin: 84px 0 36px 0;
   color: var(--color-ot-light);
 }
 
@@ -334,6 +336,13 @@ html, body {
 
 .artwork-text--section-end {
   margin-bottom: 48px;
+}
+
+.artwork-text--secondary {
+  font-size: var(--text-body-secondary);
+  line-height: var(--text-body-secondary-lh);
+  font-weight: 400;
+  opacity: 0.8;
 }
 
 .artwork-image {
