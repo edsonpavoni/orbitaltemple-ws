@@ -1,0 +1,10 @@
+INPE Logo TODO
+
+The INPE logo needs to be manually added as inpe.webp or inpe.svg
+
+Source: https://upload.wikimedia.org/wikipedia/commons/f/f9/Inpelogo.png
+
+Or download from: https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Pesquisas_Espaciais
+
+Once downloaded, convert to WebP:
+ffmpeg -i inpelogo.png -q:v 85 inpe.webp -y
