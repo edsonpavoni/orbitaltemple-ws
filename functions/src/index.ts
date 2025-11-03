@@ -127,7 +127,7 @@ export const submitName = functions.https.onRequest(async (req, res) => {
       const resend = new Resend(functions.config().resend.api_key);
 
       const emailResult = await resend.emails.send({
-        from: "Orbital Temple <noreply@update.orbitaltemple.art>",
+        from: "Orbital Temple <noreply@orbitaltemple.art>",
         to: [email.trim().toLowerCase()],
         subject: `${name.trim()} is now queued for ascension`,
         text: `the name\n${name.trim()}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
@@ -201,7 +201,7 @@ export const sendConfirmationEmail = functions.firestore
 
         // Send email via Resend
         const emailResult = await resend.emails.send({
-          from: "Orbital Temple <noreply@update.orbitaltemple.art>", // Change this to your verified domain
+          from: "Orbital Temple <noreply@orbitaltemple.art>",
           to: [afterData.email],
           subject: `${afterData.name} ascension to the orbital temple in space`,
           text: `today, ${formattedDate}, at ${formattedTime} the name ${afterData.name} ascend, and there it remains.`,
@@ -548,7 +548,7 @@ export const sendLaunchNotifications = functions.https.onRequest(async (req, res
 
       try {
         await resend.emails.send({
-          from: "Orbital Temple <noreply@update.orbitaltemple.art>",
+          from: "Orbital Temple <noreply@orbitaltemple.art>",
           to: [subscriber.email],
           subject: subject.trim(),
           text: message.trim(),
