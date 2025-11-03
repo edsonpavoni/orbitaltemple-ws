@@ -523,7 +523,7 @@ export default function SendNameForm() {
                 document.documentElement.scrollTop = 0;
               }, 100);
             }}
-            placeholder={t('nameInput.placeholder')}
+            placeholder="name123"
             className={`input-field ${name.length > 0 ? 'input-field--no-border' : ''}`}
             style={{
               fontSize: `${nameFontSize}px`,
