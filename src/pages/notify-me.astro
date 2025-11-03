@@ -126,30 +126,53 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     document.addEventListener('DOMContentLoaded', () => {
       const form = document.getElementById('notify-form') as HTMLFormElement;
       const successMessage = document.getElementById('success-message');
+      const submitButton = form?.querySelector('button[type="submit"]') as HTMLButtonElement;
 
       if (form) {
         form.addEventListener('submit', async (e) => {
           e.preventDefault();
 
-          const email = (document.getElementById('email') as HTMLInputElement).value;
+          const emailInput = document.getElementById('email') as HTMLInputElement;
+          const email = emailInput.value;
 
-          // TODO: Replace this with actual email collection service
-          // For now, we'll just log it and show success message
-          console.log('Email submitted:', email);
-
-          // Show success message
-          if (successMessage) {
-            form.style.display = 'none';
-            successMessage.style.display = 'block';
+          // Disable button during submission
+          if (submitButton) {
+            submitButton.disabled = true;
+            submitButton.textContent = 'Sending...';
           }
 
-          // Here you would typically send to your backend or email service
-          // Example:
-          // await fetch('/api/notify', {
-          //   method: 'POST',
-          //   headers: { 'Content-Type': 'application/json' },
-          //   body: JSON.stringify({ email })
-          // });
+          try {
+            // Call Firebase function to subscribe to launch notifications
+            const response = await fetch('https://us-central1-orbital-temple.cloudfunctions.net/subscribeLaunchNotification', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ email })
+            });
+
+            const result = await response.json();
+
+            if (response.ok && result.success) {
+              // Show success message
+              if (successMessage) {
+                form.style.display = 'none';
+                successMessage.style.display = 'block';
+              }
+            } else {
+              // Handle error
+              alert('Something went wrong. Please try again.');
+              if (submitButton) {
+                submitButton.disabled = false;
+                submitButton.textContent = 'Send';
+              }
+            }
+          } catch (error) {
+            console.error('Error submitting email:', error);
+            alert('Something went wrong. Please try again.');
+            if (submitButton) {
+              submitButton.disabled = false;
+              submitButton.textContent = 'Send';
+            }
+          }
         });
       }
     });
