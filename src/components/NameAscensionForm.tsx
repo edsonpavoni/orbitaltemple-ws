@@ -328,22 +328,32 @@ export default function SendNameForm() {
   }
 
   return (
-    <div style={{
-      position: 'fixed',
-      top: 0,
-      left: 0,
-      width: '100%',
-      height: `${viewportHeight}px`,
-      display: 'flex',
-      alignItems: isDesktop ? 'center' : 'flex-start',
-      justifyContent: 'center',
-      paddingTop: isDesktop ? '0' : `${topPadding}px`,
-      paddingLeft: '1.5rem',
-      paddingRight: '1.5rem',
-      paddingBottom: '1.5rem',
-      boxSizing: 'border-box',
-      overflow: 'hidden',
-    }}>
+    <div
+      style={{
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: `${viewportHeight}px`,
+        display: 'flex',
+        alignItems: isDesktop ? 'center' : 'flex-start',
+        justifyContent: 'center',
+        paddingTop: isDesktop ? '0' : `${topPadding}px`,
+        paddingLeft: '1.5rem',
+        paddingRight: '1.5rem',
+        paddingBottom: '1.5rem',
+        boxSizing: 'border-box',
+        overflow: 'hidden',
+        cursor: (currentStep === 'complete' && !isDesktop) ? 'pointer' : 'auto',
+      }}
+      onClick={() => {
+        // On mobile, clicking anywhere on complete screen opens the menu
+        if (currentStep === 'complete' && !isDesktop) {
+          const menuButton = document.getElementById('btn-menu');
+          menuButton?.click();
+        }
+      }}
+    >
       <div style={{
         position: 'relative',
         width: '100%',
@@ -582,11 +592,21 @@ export default function SendNameForm() {
         </div>
 
         {/* Step 5: Complete */}
-        <div style={{
-          ...getStepStyle('complete'),
-          top: isDesktop ? '50%' : 'auto',
-          transform: isDesktop ? 'translate(-50%, -50%)' : 'translateX(-50%)',
-        }}>
+        <div
+          style={{
+            ...getStepStyle('complete'),
+            top: isDesktop ? '50%' : 'auto',
+            transform: isDesktop ? 'translate(-50%, -50%)' : 'translateX(-50%)',
+            cursor: !isDesktop ? 'pointer' : 'auto',
+          }}
+          onClick={() => {
+            // On mobile, clicking anywhere opens the menu
+            if (!isDesktop) {
+              const menuButton = document.getElementById('btn-menu');
+              menuButton?.click();
+            }
+          }}
+        >
 
           <p className="page-subtitle" style={{
             marginTop: isDesktop ? '0' : '4rem',
