@@ -116,6 +116,22 @@ export default function SendNameForm() {
     prevEmailLengthRef.current = email.length;
   }, [email]);
 
+  // Continuous scroll monitor when keyboard is open
+  useEffect(() => {
+    if (!isKeyboardOpen) return;
+
+    // Aggressive continuous scroll prevention
+    const scrollInterval = setInterval(() => {
+      if (window.scrollY !== 0 || document.body.scrollTop !== 0 || document.documentElement.scrollTop !== 0) {
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    }, 16); // Run every frame (60fps)
+
+    return () => clearInterval(scrollInterval);
+  }, [isKeyboardOpen]);
+
   // Detect keyboard open/close using focusin/focusout events
   useEffect(() => {
     const isKeyboardInput = (elem: HTMLElement) =>
@@ -127,6 +143,8 @@ export default function SendNameForm() {
 
     const handleFocusIn = (e: FocusEvent) => {
       if (e.target instanceof HTMLElement && isKeyboardInput(e.target)) {
+        // Prevent default iOS scroll behavior
+        e.preventDefault();
         setIsKeyboardOpen(true);
         // Prevent iOS from scrolling content up - multiple attempts
         window.scrollTo(0, 0);
@@ -157,6 +175,11 @@ export default function SendNameForm() {
           document.body.scrollTop = 0;
           document.documentElement.scrollTop = 0;
         }, 200);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        }, 300);
       }
     };
 
