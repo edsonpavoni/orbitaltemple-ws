@@ -588,3 +588,55 @@ export const sendLaunchNotifications = functions.https.onRequest(async (req, res
     res.status(500).json({error: "Internal server error"});
   }
 });
+
+/**
+ * HTTP endpoint to get launch notification subscribers
+ * GET /getLaunchNotifications
+ */
+export const getLaunchNotifications = functions.https.onRequest(async (req, res) => {
+  // Enable CORS
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "GET, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  // Handle preflight request
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  // Only accept GET requests
+  if (req.method !== "GET") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const subscribersSnapshot = await admin.firestore()
+      .collection("launchNotifications")
+      .orderBy("createdAt", "desc")
+      .get();
+
+    const subscribers = subscribersSnapshot.docs.map((doc) => ({
+      id: doc.id,
+      ...doc.data(),
+    }));
+
+    // Count notified vs not notified
+    const notified = subscribers.filter((sub: any) => sub.notified === true).length;
+    const pending = subscribers.filter((sub: any) => sub.notified === false).length;
+
+    res.status(200).json({
+      success: true,
+      subscribers: subscribers,
+      stats: {
+        total: subscribers.length,
+        notified: notified,
+        pending: pending,
+      },
+    });
+  } catch (error) {
+    functions.logger.error("Error fetching launch notifications", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});

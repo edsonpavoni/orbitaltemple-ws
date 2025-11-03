@@ -389,6 +389,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
+            margin: !isDesktop ? '0 0 16px 0' : undefined,
           }}>
             {t('nameInput.title')}
           </h1>
@@ -396,6 +397,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
+            margin: !isDesktop ? '0 0 24px 0' : undefined,
           }}>
             {t('nameInput.subtitle')}
           </p>
@@ -425,6 +427,7 @@ export default function SendNameForm() {
               opacity: currentStep === 'name-input' ? 1 : 0,
               transition: 'opacity 0.6s ease-in-out',
               transitionDelay: '0.3s',
+              margin: !isDesktop ? '0 0 24px 0' : undefined,
             }}
           />
 
@@ -480,6 +483,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
+            margin: !isDesktop ? '0 0 16px 0' : undefined,
           }}>
             {t('emailInput.title')}
           </h1>
@@ -487,6 +491,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
+            margin: !isDesktop ? '0 0 24px 0' : undefined,
           }}>
             {t('emailInput.subtitle')}
           </p>
@@ -516,16 +521,18 @@ export default function SendNameForm() {
               opacity: currentStep === 'email-input' ? 1 : 0,
               transition: 'opacity 0.6s ease-in-out',
               transitionDelay: '0.3s',
+              margin: !isDesktop ? '0 0 24px 0' : undefined,
             }}
           />
 
-          {isEmailValid && (
-            <button
-              onMouseDown={(e) => {
-                e.preventDefault();
-                console.log('Email button mousedown');
-              }}
-              onTouchStart={(e) => {
+          <button
+            disabled={!isEmailValid}
+            onMouseDown={(e) => {
+              e.preventDefault();
+              console.log('Email button mousedown');
+            }}
+            onTouchStart={(e) => {
+              if (isEmailValid) {
                 e.preventDefault();
                 console.log('Email button touchstart');
                 handleProceed();
@@ -534,8 +541,10 @@ export default function SendNameForm() {
                     emailInputRef.current.blur();
                   }
                 }, 0);
-              }}
-              onClick={(e) => {
+              }
+            }}
+            onClick={(e) => {
+              if (isEmailValid) {
                 e.preventDefault();
                 console.log('Email button click');
                 handleProceed();
@@ -544,21 +553,22 @@ export default function SendNameForm() {
                     emailInputRef.current.blur();
                   }
                 }, 0);
-              }}
-              className="btn-action"
-              style={{
-                alignSelf: 'flex-end',
-                marginLeft: 'auto',
-                marginRight: 0,
-                opacity: currentStep === 'email-input' ? 1 : 0,
-                transition: 'opacity 0.6s ease-in-out',
-                transitionDelay: '0.4s',
-              }}
-            >
-              {t('emailInput.button')}
-              <img src="/UI/arrow.svg" alt="arrow" />
-            </button>
-          )}
+              }
+            }}
+            className="btn-action"
+            style={{
+              alignSelf: 'flex-end',
+              marginLeft: 'auto',
+              marginRight: 0,
+              opacity: (currentStep === 'email-input' && isEmailValid) ? 1 : 0,
+              transition: 'opacity 0.6s ease-in-out',
+              transitionDelay: '0.4s',
+              pointerEvents: isEmailValid ? 'auto' : 'none',
+            }}
+          >
+            {t('emailInput.button')}
+            <img src="/UI/arrow.svg" alt="arrow" />
+          </button>
         </div>
 
         {/* Step 4: Loading */}
