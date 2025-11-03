@@ -406,6 +406,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
+            marginBottom: !isDesktop ? '16px' : undefined,
           }}>
             {t('nameInput.title')}
           </h1>
@@ -413,6 +414,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
+            marginBottom: !isDesktop ? '24px' : undefined,
           }}>
             {t('nameInput.subtitle')}
           </p>
@@ -493,6 +495,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
+            marginBottom: !isDesktop ? '16px' : undefined,
           }}>
             {t('emailInput.title')}
           </h1>
@@ -500,6 +503,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
+            marginBottom: !isDesktop ? '24px' : undefined,
           }}>
             {t('emailInput.subtitle')}
           </p>
