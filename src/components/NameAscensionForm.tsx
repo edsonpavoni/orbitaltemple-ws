@@ -116,21 +116,6 @@ export default function SendNameForm() {
     prevEmailLengthRef.current = email.length;
   }, [email]);
 
-  // Continuous scroll monitor when keyboard is open
-  useEffect(() => {
-    if (!isKeyboardOpen) return;
-
-    // Aggressive continuous scroll prevention
-    const scrollInterval = setInterval(() => {
-      if (window.scrollY !== 0 || document.body.scrollTop !== 0 || document.documentElement.scrollTop !== 0) {
-        window.scrollTo(0, 0);
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-      }
-    }, 16); // Run every frame (60fps)
-
-    return () => clearInterval(scrollInterval);
-  }, [isKeyboardOpen]);
 
   // Detect keyboard open/close using focusin/focusout events
   useEffect(() => {
@@ -143,89 +128,22 @@ export default function SendNameForm() {
 
     const handleFocusIn = (e: FocusEvent) => {
       if (e.target instanceof HTMLElement && isKeyboardInput(e.target)) {
-        // Prevent default iOS scroll behavior
-        e.preventDefault();
         setIsKeyboardOpen(true);
-        // Prevent iOS from scrolling content up - multiple attempts
-        window.scrollTo(0, 0);
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 0);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 10);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 50);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 100);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 200);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 300);
       }
     };
 
     const handleFocusOut = (e: FocusEvent) => {
       if (e.target instanceof HTMLElement && isKeyboardInput(e.target)) {
         setIsKeyboardOpen(false);
-        // Reset scroll position when keyboard closes
-        window.scrollTo(0, 0);
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 0);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }, 100);
-      }
-    };
-
-    // Blur handler to restore position after keyboard closes
-    const handleBlur = (e: FocusEvent) => {
-      if (e.target instanceof HTMLElement &&
-          (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) {
-        window.scrollTo(0, 0);
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-        requestAnimationFrame(() => {
-          window.scrollTo(0, 0);
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        });
       }
     };
 
     document.addEventListener('focusin', handleFocusIn);
     document.addEventListener('focusout', handleFocusOut);
-    document.addEventListener('blur', handleBlur, true);
 
     return () => {
       document.removeEventListener('focusin', handleFocusIn);
       document.removeEventListener('focusout', handleFocusOut);
-      document.removeEventListener('blur', handleBlur, true);
     };
   }, []);
 
@@ -366,8 +284,7 @@ export default function SendNameForm() {
   // Move up when keyboard is open to keep everything visible (MOBILE ONLY)
   // On desktop, center vertically
   const basePadding = 150; // 72px dome + some spacing for content
-  const keyboardPadding = 20; // Very close to top when keyboard is open to prevent iOS scrolling
-  const topPadding = (isKeyboardOpen && !isDesktop) ? keyboardPadding : (isDesktop ? 0 : basePadding);
+  const topPadding = (isKeyboardOpen && !isDesktop) ? 100 : (isDesktop ? 0 : basePadding); // Move closer to top when keyboard opens on MOBILE only, center on desktop
 
   // Don't render until translations are loaded to prevent flash of untranslated content
   if (!ready) {
@@ -467,7 +384,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
-            marginBottom: !isDesktop ? '16px' : undefined,
           }}>
             {t('nameInput.title')}
           </h1>
@@ -475,7 +391,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
-            marginBottom: !isDesktop ? '24px' : undefined,
           }}>
             {t('nameInput.subtitle')}
           </p>
@@ -494,34 +409,9 @@ export default function SendNameForm() {
                 setTimeout(() => handleProceed(), 100);
               }
             }}
-            onFocus={(e) => {
-              // Prevent iOS default scroll behavior
-              e.target.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'instant' });
-              // Prevent iOS from scrolling
-              window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+            onFocus={() => {
+              window.scrollTo(0, 0);
               document.body.scrollTop = 0;
-              document.documentElement.scrollTop = 0;
-              // Force multiple times to override browser behavior
-              requestAnimationFrame(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              });
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 0);
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 10);
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 100);
             }}
             placeholder="name123"
             className={`input-field ${name.length > 0 ? 'input-field--no-border' : ''}`}
@@ -581,7 +471,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
-            marginBottom: !isDesktop ? '16px' : undefined,
           }}>
             {t('emailInput.title')}
           </h1>
@@ -589,7 +478,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
-            marginBottom: !isDesktop ? '24px' : undefined,
           }}>
             {t('emailInput.subtitle')}
           </p>
@@ -608,45 +496,9 @@ export default function SendNameForm() {
                 setTimeout(() => handleProceed(), 100);
               }
             }}
-            onFocus={(e) => {
-              // Prevent iOS default scroll behavior
-              e.target.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'instant' });
-              // Prevent iOS from scrolling
-              window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+            onFocus={() => {
+              window.scrollTo(0, 0);
               document.body.scrollTop = 0;
-              document.documentElement.scrollTop = 0;
-              // Use requestAnimationFrame for immediate execution
-              requestAnimationFrame(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              });
-              // Force multiple times to override browser behavior
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 0);
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 10);
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 50);
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 100);
-              setTimeout(() => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-              }, 200);
             }}
             placeholder={t('emailInput.placeholder')}
             className={`input-field ${email.length > 0 ? 'input-field--no-border' : ''}`}
