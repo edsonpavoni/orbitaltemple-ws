@@ -130,7 +130,7 @@ export const submitName = functions.https.onRequest(async (req, res) => {
         from: "Orbital Temple <noreply@update.orbitaltemple.art>",
         to: [email.trim().toLowerCase()],
         subject: `${name.trim()} is now queued for ascension`,
-        text: `The name\n${name.trim()}\nis now queued\nfor ascension.\n\nWhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
+        text: `the name\n${name.trim()}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
       });
 
       functions.logger.info("Immediate confirmation email sent", {
@@ -203,8 +203,8 @@ export const sendConfirmationEmail = functions.firestore
         const emailResult = await resend.emails.send({
           from: "Orbital Temple <noreply@update.orbitaltemple.art>", // Change this to your verified domain
           to: [afterData.email],
-          subject: `${afterData.name} ascension to the Orbital Temple in space`,
-          text: `Today, ${formattedDate}, at ${formattedTime} the name ${afterData.name} ascend, and there it remains.`,
+          subject: `${afterData.name} ascension to the orbital temple in space`,
+          text: `today, ${formattedDate}, at ${formattedTime} the name ${afterData.name} ascend, and there it remains.`,
         });
 
         functions.logger.info("Confirmation email sent", {
