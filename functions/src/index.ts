@@ -472,6 +472,36 @@ export const subscribeLaunchNotification = functions.https.onRequest(async (req,
       ip: cleanIp,
     });
 
+    // Also add to Resend audience for easy bulk emailing
+    try {
+      const resend = new Resend(functions.config().resend.api_key);
+
+      // Add contact to Resend audience
+      // Note: You need to create an audience in Resend dashboard first
+      // and set the audience ID in Firebase config: firebase functions:config:set resend.audience_id="YOUR_AUDIENCE_ID"
+      const audienceId = functions.config().resend?.audience_id;
+
+      if (audienceId) {
+        await resend.contacts.create({
+          email: cleanEmail,
+          audienceId: audienceId,
+        });
+
+        functions.logger.info("Contact added to Resend audience", {
+          email: cleanEmail,
+          audienceId: audienceId,
+        });
+      } else {
+        functions.logger.warn("Resend audience ID not configured - skipping Resend contact creation");
+      }
+    } catch (resendError) {
+      // Don't fail the request if Resend fails - we already saved to Firestore
+      functions.logger.error("Error adding contact to Resend audience", {
+        error: resendError,
+        email: cleanEmail,
+      });
+    }
+
     res.status(200).json({
       success: true,
       message: "Successfully subscribed to launch notifications",
