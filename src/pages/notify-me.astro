@@ -85,7 +85,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   </section>
 
   <!-- Media Query for Desktop Video -->
-  <style>
+  <style is:global>
+    /* Hide header on notify page */
+    body header {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }
+
     @media (min-width: 768px) {
       .mobile-video {
         display: none !important;
