@@ -366,7 +366,8 @@ export default function SendNameForm() {
   // Move up when keyboard is open to keep everything visible (MOBILE ONLY)
   // On desktop, center vertically
   const basePadding = 150; // 72px dome + some spacing for content
-  const topPadding = (isKeyboardOpen && !isDesktop) ? 80 : (isDesktop ? 0 : basePadding); // Move moderately closer to top when keyboard opens on MOBILE only, center on desktop
+  const keyboardPadding = 20; // Very close to top when keyboard is open to prevent iOS scrolling
+  const topPadding = (isKeyboardOpen && !isDesktop) ? keyboardPadding : (isDesktop ? 0 : basePadding);
 
   // Don't render until translations are loaded to prevent flash of untranslated content
   if (!ready) {
@@ -494,23 +495,30 @@ export default function SendNameForm() {
               }
             }}
             onFocus={(e) => {
+              // Prevent iOS default scroll behavior
+              e.target.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'instant' });
               // Prevent iOS from scrolling
-              window.scrollTo(0, 0);
+              window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
               document.body.scrollTop = 0;
               document.documentElement.scrollTop = 0;
               // Force multiple times to override browser behavior
+              requestAnimationFrame(() => {
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              });
               setTimeout(() => {
-                window.scrollTo(0, 0);
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                 document.body.scrollTop = 0;
                 document.documentElement.scrollTop = 0;
               }, 0);
               setTimeout(() => {
-                window.scrollTo(0, 0);
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                 document.body.scrollTop = 0;
                 document.documentElement.scrollTop = 0;
               }, 10);
               setTimeout(() => {
-                window.scrollTo(0, 0);
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                 document.body.scrollTop = 0;
                 document.documentElement.scrollTop = 0;
               }, 100);
@@ -601,26 +609,44 @@ export default function SendNameForm() {
               }
             }}
             onFocus={(e) => {
+              // Prevent iOS default scroll behavior
+              e.target.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'instant' });
               // Prevent iOS from scrolling
-              window.scrollTo(0, 0);
+              window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
               document.body.scrollTop = 0;
               document.documentElement.scrollTop = 0;
+              // Use requestAnimationFrame for immediate execution
+              requestAnimationFrame(() => {
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              });
               // Force multiple times to override browser behavior
               setTimeout(() => {
-                window.scrollTo(0, 0);
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                 document.body.scrollTop = 0;
                 document.documentElement.scrollTop = 0;
               }, 0);
               setTimeout(() => {
-                window.scrollTo(0, 0);
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                 document.body.scrollTop = 0;
                 document.documentElement.scrollTop = 0;
               }, 10);
               setTimeout(() => {
-                window.scrollTo(0, 0);
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 50);
+              setTimeout(() => {
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                 document.body.scrollTop = 0;
                 document.documentElement.scrollTop = 0;
               }, 100);
+              setTimeout(() => {
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 200);
             }}
             placeholder={t('emailInput.placeholder')}
             className={`input-field ${email.length > 0 ? 'input-field--no-border' : ''}`}
