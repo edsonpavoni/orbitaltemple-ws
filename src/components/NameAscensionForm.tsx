@@ -128,11 +128,35 @@ export default function SendNameForm() {
     const handleFocusIn = (e: FocusEvent) => {
       if (e.target instanceof HTMLElement && isKeyboardInput(e.target)) {
         setIsKeyboardOpen(true);
-        // Prevent iOS from scrolling content up
+        // Prevent iOS from scrolling content up - multiple attempts
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
         setTimeout(() => {
           window.scrollTo(0, 0);
           document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
         }, 0);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        }, 10);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        }, 50);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        }, 100);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        }, 200);
       }
     };
 
@@ -140,10 +164,19 @@ export default function SendNameForm() {
       if (e.target instanceof HTMLElement && isKeyboardInput(e.target)) {
         setIsKeyboardOpen(false);
         // Reset scroll position when keyboard closes
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
         setTimeout(() => {
           window.scrollTo(0, 0);
           document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
         }, 0);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        }, 100);
       }
     };
 
@@ -151,9 +184,13 @@ export default function SendNameForm() {
     const handleBlur = (e: FocusEvent) => {
       if (e.target instanceof HTMLElement &&
           (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) {
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
         requestAnimationFrame(() => {
           window.scrollTo(0, 0);
           document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
         });
       }
     };
@@ -433,9 +470,27 @@ export default function SendNameForm() {
                 setTimeout(() => handleProceed(), 100);
               }
             }}
-            onFocus={() => {
+            onFocus={(e) => {
+              // Prevent iOS from scrolling
               window.scrollTo(0, 0);
               document.body.scrollTop = 0;
+              document.documentElement.scrollTop = 0;
+              // Force multiple times to override browser behavior
+              setTimeout(() => {
+                window.scrollTo(0, 0);
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 0);
+              setTimeout(() => {
+                window.scrollTo(0, 0);
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 10);
+              setTimeout(() => {
+                window.scrollTo(0, 0);
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 100);
             }}
             placeholder={t('nameInput.placeholder')}
             className={`input-field ${name.length > 0 ? 'input-field--no-border' : ''}`}
@@ -522,9 +577,27 @@ export default function SendNameForm() {
                 setTimeout(() => handleProceed(), 100);
               }
             }}
-            onFocus={() => {
+            onFocus={(e) => {
+              // Prevent iOS from scrolling
               window.scrollTo(0, 0);
               document.body.scrollTop = 0;
+              document.documentElement.scrollTop = 0;
+              // Force multiple times to override browser behavior
+              setTimeout(() => {
+                window.scrollTo(0, 0);
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 0);
+              setTimeout(() => {
+                window.scrollTo(0, 0);
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 10);
+              setTimeout(() => {
+                window.scrollTo(0, 0);
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+              }, 100);
             }}
             placeholder={t('emailInput.placeholder')}
             className={`input-field ${email.length > 0 ? 'input-field--no-border' : ''}`}
