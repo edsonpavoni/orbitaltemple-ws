@@ -420,7 +420,7 @@ export default function SendNameForm() {
               window.scrollTo(0, 0);
               document.body.scrollTop = 0;
             }}
-            placeholder="test123"
+            placeholder={t('nameInput.placeholder')}
             className={`input-field ${name.length > 0 ? 'input-field--no-border' : ''}`}
             style={{
               fontSize: `${nameFontSize}px`,
