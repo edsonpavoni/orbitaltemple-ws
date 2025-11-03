@@ -31,6 +31,16 @@ interface NameDocument {
   countryCode?: string;
 }
 
+interface LaunchNotificationDocument {
+  email: string;
+  createdAt: admin.firestore.Timestamp;
+  ipAddress?: string;
+  country?: string;
+  countryCode?: string;
+  notified?: boolean;
+  notifiedAt?: admin.firestore.Timestamp;
+}
+
 /**
  * HTTP endpoint to submit a new name for ascension
  * POST /submitName
@@ -366,6 +376,108 @@ export const updateNameStatus = functions.https.onRequest(async (req, res) => {
     res.status(200).json({success: true, message: "Status updated successfully"});
   } catch (error) {
     functions.logger.error("Error updating name status", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
+/**
+ * HTTP endpoint to subscribe to launch notifications
+ * POST /subscribeLaunchNotification
+ * Body: { email: string }
+ */
+export const subscribeLaunchNotification = functions.https.onRequest(async (req, res) => {
+  // Enable CORS
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  // Handle preflight request
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  // Only accept POST requests
+  if (req.method !== "POST") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const {email} = req.body;
+
+    // Validate email
+    if (!email || typeof email !== "string" || !isValidEmail(email)) {
+      res.status(400).json({error: "Valid email is required"});
+      return;
+    }
+
+    const cleanEmail = email.trim().toLowerCase();
+
+    // Check if email already exists in launch notifications
+    const existingSnapshot = await admin.firestore()
+      .collection("launchNotifications")
+      .where("email", "==", cleanEmail)
+      .limit(1)
+      .get();
+
+    if (!existingSnapshot.empty) {
+      // Email already subscribed, return success anyway
+      res.status(200).json({
+        success: true,
+        message: "Already subscribed to launch notifications",
+      });
+      return;
+    }
+
+    // Get IP address from request
+    const ipAddress = req.headers["x-forwarded-for"] as string ||
+                     req.headers["x-real-ip"] as string ||
+                     req.connection.remoteAddress ||
+                     "unknown";
+
+    const cleanIp = ipAddress.split(",")[0].trim();
+
+    // Try to get country from IP
+    let country = "Unknown";
+    let countryCode = "XX";
+
+    try {
+      const ipResponse = await fetch(`http://ip-api.com/json/${cleanIp}?fields=country,countryCode`);
+      if (ipResponse.ok) {
+        const ipData = await ipResponse.json();
+        country = ipData.country || "Unknown";
+        countryCode = ipData.countryCode || "XX";
+      }
+    } catch (ipError) {
+      functions.logger.warn("Could not fetch IP location", {ip: cleanIp, error: ipError});
+    }
+
+    // Save to Firestore
+    const notificationDoc: LaunchNotificationDocument = {
+      email: cleanEmail,
+      createdAt: admin.firestore.Timestamp.now(),
+      ipAddress: cleanIp,
+      country: country,
+      countryCode: countryCode,
+      notified: false,
+    };
+
+    const docRef = await admin.firestore().collection("launchNotifications").add(notificationDoc);
+
+    functions.logger.info("Launch notification subscription created", {
+      id: docRef.id,
+      email: cleanEmail,
+      country: country,
+      ip: cleanIp,
+    });
+
+    res.status(200).json({
+      success: true,
+      message: "Successfully subscribed to launch notifications",
+    });
+  } catch (error) {
+    functions.logger.error("Error subscribing to launch notifications", error);
     res.status(500).json({error: "Internal server error"});
   }
 });
