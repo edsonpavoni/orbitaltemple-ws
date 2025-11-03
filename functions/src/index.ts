@@ -472,42 +472,119 @@ export const subscribeLaunchNotification = functions.https.onRequest(async (req,
       ip: cleanIp,
     });
 
-    // Also add to Resend audience for easy bulk emailing
-    try {
-      const resend = new Resend(functions.config().resend.api_key);
-
-      // Add contact to Resend audience
-      // Note: You need to create an audience in Resend dashboard first
-      // and set the audience ID in Firebase config: firebase functions:config:set resend.audience_id="YOUR_AUDIENCE_ID"
-      const audienceId = functions.config().resend?.audience_id;
-
-      if (audienceId) {
-        await resend.contacts.create({
-          email: cleanEmail,
-          audienceId: audienceId,
-        });
-
-        functions.logger.info("Contact added to Resend audience", {
-          email: cleanEmail,
-          audienceId: audienceId,
-        });
-      } else {
-        functions.logger.warn("Resend audience ID not configured - skipping Resend contact creation");
-      }
-    } catch (resendError) {
-      // Don't fail the request if Resend fails - we already saved to Firestore
-      functions.logger.error("Error adding contact to Resend audience", {
-        error: resendError,
-        email: cleanEmail,
-      });
-    }
-
     res.status(200).json({
       success: true,
       message: "Successfully subscribed to launch notifications",
     });
   } catch (error) {
     functions.logger.error("Error subscribing to launch notifications", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
+/**
+ * HTTP endpoint to send launch notification emails to all subscribers
+ * POST /sendLaunchNotifications
+ * Body: { subject: string, message: string }
+ *
+ * This will send emails to all subscribers in launchNotifications collection
+ * where notified === false
+ */
+export const sendLaunchNotifications = functions.https.onRequest(async (req, res) => {
+  // Enable CORS
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  // Handle preflight request
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  // Only accept POST requests
+  if (req.method !== "POST") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const {subject, message} = req.body;
+
+    // Validate input
+    if (!subject || typeof subject !== "string" || subject.trim().length === 0) {
+      res.status(400).json({error: "Subject is required"});
+      return;
+    }
+
+    if (!message || typeof message !== "string" || message.trim().length === 0) {
+      res.status(400).json({error: "Message is required"});
+      return;
+    }
+
+    // Get all subscribers who haven't been notified yet
+    const subscribersSnapshot = await admin.firestore()
+      .collection("launchNotifications")
+      .where("notified", "==", false)
+      .get();
+
+    if (subscribersSnapshot.empty) {
+      res.status(200).json({
+        success: true,
+        message: "No subscribers to notify",
+        sent: 0,
+        failed: 0,
+      });
+      return;
+    }
+
+    const resend = new Resend(functions.config().resend.api_key);
+    let sentCount = 0;
+    let failedCount = 0;
+
+    // Send emails to all subscribers
+    for (const doc of subscribersSnapshot.docs) {
+      const subscriber = doc.data() as LaunchNotificationDocument;
+
+      try {
+        await resend.emails.send({
+          from: "Orbital Temple <noreply@update.orbitaltemple.art>",
+          to: [subscriber.email],
+          subject: subject.trim(),
+          text: message.trim(),
+        });
+
+        // Mark as notified
+        await doc.ref.update({
+          notified: true,
+          notifiedAt: admin.firestore.Timestamp.now(),
+        });
+
+        sentCount++;
+
+        functions.logger.info("Launch notification sent", {
+          email: subscriber.email,
+          docId: doc.id,
+        });
+      } catch (emailError) {
+        failedCount++;
+        functions.logger.error("Failed to send launch notification", {
+          email: subscriber.email,
+          docId: doc.id,
+          error: emailError,
+        });
+      }
+    }
+
+    res.status(200).json({
+      success: true,
+      message: "Launch notifications sent",
+      sent: sentCount,
+      failed: failedCount,
+      total: subscribersSnapshot.size,
+    });
+  } catch (error) {
+    functions.logger.error("Error sending launch notifications", error);
     res.status(500).json({error: "Internal server error"});
   }
 });

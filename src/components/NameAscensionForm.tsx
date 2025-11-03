@@ -337,6 +337,11 @@ export default function SendNameForm() {
         width: '100%',
         maxWidth: '600px',
         minHeight: isDesktop ? '400px' : 'auto',
+        // Override CSS spacing variables for mobile to achieve tight spacing
+        ...((!isDesktop && isKeyboardOpen) ? {
+          ['--spacing-title-to-text' as any]: '16px',
+          ['--spacing-responsive' as any]: '24px',
+        } : {}),
       }}>
 
         {/* Step 1: Breathing */}
@@ -384,7 +389,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
-            marginBottom: !isDesktop ? '16px' : undefined,
           }}>
             {t('nameInput.title')}
           </h1>
@@ -392,7 +396,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
-            marginBottom: !isDesktop ? '24px' : undefined,
           }}>
             {t('nameInput.subtitle')}
           </p>
@@ -422,17 +425,17 @@ export default function SendNameForm() {
               opacity: currentStep === 'name-input' ? 1 : 0,
               transition: 'opacity 0.6s ease-in-out',
               transitionDelay: '0.3s',
-              marginBottom: !isDesktop ? '24px' : undefined,
             }}
           />
 
-          {name.length >= 1 && (
-            <button
-              onMouseDown={(e) => {
-                e.preventDefault();
-                console.log('Button mousedown');
-              }}
-              onTouchStart={(e) => {
+          <button
+            disabled={name.length < 1}
+            onMouseDown={(e) => {
+              e.preventDefault();
+              console.log('Button mousedown');
+            }}
+            onTouchStart={(e) => {
+              if (name.length >= 1) {
                 e.preventDefault();
                 console.log('Button touchstart');
                 handleProceed();
@@ -441,8 +444,10 @@ export default function SendNameForm() {
                     nameInputRef.current.blur();
                   }
                 }, 0);
-              }}
-              onClick={(e) => {
+              }
+            }}
+            onClick={(e) => {
+              if (name.length >= 1) {
                 e.preventDefault();
                 console.log('Button click');
                 handleProceed();
@@ -451,21 +456,22 @@ export default function SendNameForm() {
                     nameInputRef.current.blur();
                   }
                 }, 0);
-              }}
-              className="btn-action"
-              style={{
-                alignSelf: 'flex-end',
-                marginLeft: 'auto',
-                marginRight: 0,
-                opacity: currentStep === 'name-input' ? 1 : 0,
-                transition: 'opacity 0.6s ease-in-out',
-                transitionDelay: '0.4s',
-              }}
-            >
-              {t('nameInput.button')}
-              <img src="/UI/arrow.svg" alt="arrow" />
-            </button>
-          )}
+              }
+            }}
+            className="btn-action"
+            style={{
+              alignSelf: 'flex-end',
+              marginLeft: 'auto',
+              marginRight: 0,
+              opacity: (currentStep === 'name-input' && name.length >= 1) ? 1 : 0,
+              transition: 'opacity 0.6s ease-in-out',
+              transitionDelay: '0.4s',
+              pointerEvents: name.length >= 1 ? 'auto' : 'none',
+            }}
+          >
+            {t('nameInput.button')}
+            <img src="/UI/arrow.svg" alt="arrow" />
+          </button>
         </div>
 
         {/* Step 3: Email Input */}
@@ -474,7 +480,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
-            marginBottom: !isDesktop ? '16px' : undefined,
           }}>
             {t('emailInput.title')}
           </h1>
@@ -482,7 +487,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
-            marginBottom: !isDesktop ? '24px' : undefined,
           }}>
             {t('emailInput.subtitle')}
           </p>
@@ -512,7 +516,6 @@ export default function SendNameForm() {
               opacity: currentStep === 'email-input' ? 1 : 0,
               transition: 'opacity 0.6s ease-in-out',
               transitionDelay: '0.3s',
-              marginBottom: !isDesktop ? '24px' : undefined,
             }}
           />
 
