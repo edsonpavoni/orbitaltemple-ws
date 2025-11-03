@@ -23,7 +23,8 @@ export default function HomeHero() {
         lineHeight: 'var(--text-display-lg-lh)',
         fontWeight: 700,
         letterSpacing: '-0.02em',
-        margin: '0 0 1rem 0'
+        margin: '0 0 1rem 0',
+        color: '#ffffff'
       }}>
         {t('hero.title')}
       </h1>
@@ -32,7 +33,8 @@ export default function HomeHero() {
         fontSize: 'var(--text-body-std)',
         lineHeight: 'var(--text-body-std-lh)',
         opacity: 0.8,
-        margin: 0
+        margin: 0,
+        color: '#ffffff'
       }}>
         {renderTextWithBreaks(t('hero.subtitle'))}
       </p>
