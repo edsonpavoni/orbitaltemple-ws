@@ -391,6 +391,7 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
+            marginTop: !isDesktop ? '16px' : undefined,
           }}>
             {t('nameInput.subtitle')}
           </p>
@@ -420,6 +421,7 @@ export default function SendNameForm() {
               opacity: currentStep === 'name-input' ? 1 : 0,
               transition: 'opacity 0.6s ease-in-out',
               transitionDelay: '0.3s',
+              marginTop: !isDesktop ? '24px' : undefined,
             }}
           />
 
@@ -457,6 +459,7 @@ export default function SendNameForm() {
                 opacity: currentStep === 'name-input' ? 1 : 0,
                 transition: 'opacity 0.6s ease-in-out',
                 transitionDelay: '0.4s',
+                marginTop: !isDesktop ? '24px' : undefined,
               }}
             >
               {t('nameInput.button')}
