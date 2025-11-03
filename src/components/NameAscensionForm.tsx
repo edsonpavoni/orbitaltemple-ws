@@ -284,7 +284,7 @@ export default function SendNameForm() {
   // Move up when keyboard is open to keep everything visible (MOBILE ONLY)
   // On desktop, center vertically
   const basePadding = 150; // 72px dome + some spacing for content
-  const topPadding = (isKeyboardOpen && !isDesktop) ? 100 : (isDesktop ? 0 : basePadding); // Move closer to top when keyboard opens on MOBILE only, center on desktop
+  const topPadding = (isKeyboardOpen && !isDesktop) ? 70 : (isDesktop ? 0 : basePadding); // Move closer to top when keyboard opens on MOBILE only, center on desktop
 
   // Don't render until translations are loaded to prevent flash of untranslated content
   if (!ready) {
