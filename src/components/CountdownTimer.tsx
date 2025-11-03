@@ -1,0 +1,90 @@
+import { useState, useEffect } from 'react';
+
+interface TimeLeft {
+  days: number;
+  hours: number;
+  minutes: number;
+  seconds: number;
+}
+
+export default function CountdownTimer() {
+  const [timeLeft, setTimeLeft] = useState<TimeLeft>({
+    days: 0,
+    hours: 0,
+    minutes: 0,
+    seconds: 0
+  });
+
+  useEffect(() => {
+    // Launch date: November 28, 2025 at 2:00 PM (14:00) - assuming UTC, adjust timezone as needed
+    const launchDate = new Date('2025-11-28T14:00:00Z');
+
+    const calculateTimeLeft = () => {
+      const now = new Date();
+      const difference = launchDate.getTime() - now.getTime();
+
+      if (difference > 0) {
+        const days = Math.floor(difference / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((difference / (1000 * 60 * 60)) % 24);
+        const minutes = Math.floor((difference / 1000 / 60) % 60);
+        const seconds = Math.floor((difference / 1000) % 60);
+
+        setTimeLeft({ days, hours, minutes, seconds });
+      } else {
+        setTimeLeft({ days: 0, hours: 0, minutes: 0, seconds: 0 });
+      }
+    };
+
+    // Calculate immediately
+    calculateTimeLeft();
+
+    // Update every second
+    const timer = setInterval(calculateTimeLeft, 1000);
+
+    return () => clearInterval(timer);
+  }, []);
+
+  return (
+    <div style={{
+      display: 'flex',
+      gap: '2rem',
+      justifyContent: 'center',
+      alignItems: 'center',
+      flexWrap: 'wrap',
+      margin: '2rem 0'
+    }}>
+      <TimeUnit value={timeLeft.days} label="days" />
+      <TimeUnit value={timeLeft.hours} label="hours" />
+      <TimeUnit value={timeLeft.minutes} label="minutes" />
+      <TimeUnit value={timeLeft.seconds} label="seconds" />
+    </div>
+  );
+}
+
+function TimeUnit({ value, label }: { value: number; label: string }) {
+  return (
+    <div style={{
+      textAlign: 'center',
+      minWidth: '80px'
+    }}>
+      <div style={{
+        fontSize: '48px',
+        fontWeight: 700,
+        lineHeight: 1,
+        color: '#ffffff',
+        marginBottom: '0.5rem'
+      }}>
+        {String(value).padStart(2, '0')}
+      </div>
+      <div style={{
+        fontSize: '14px',
+        fontWeight: 400,
+        color: '#ffffff',
+        opacity: 0.6,
+        textTransform: 'lowercase'
+      }}>
+        {label}
+      </div>
+    </div>
+  );
+}
