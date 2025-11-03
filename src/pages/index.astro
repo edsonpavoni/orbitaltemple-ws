@@ -6,7 +6,7 @@ import CountdownTimer from "../components/CountdownTimer";
 <BaseLayout title="Orbital Temple - Launching November 28, 2025">
 
   <!-- Full Screen Countdown Section -->
-  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1.5rem;">
+  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 1.5rem;">
 
     <!-- Satellite Background Video -->
     <div style="position: absolute; inset: 0; z-index: 0;">
@@ -37,7 +37,10 @@ import CountdownTimer from "../components/CountdownTimer";
       </video>
     </div>
 
-    <!-- Content -->
+    <!-- Top spacer -->
+    <div style="flex: 1;"></div>
+
+    <!-- Content (centered) -->
     <div style="position: relative; z-index: 1; text-align: center; max-width: 800px;">
 
       <!-- Countdown Timer -->
@@ -46,21 +49,28 @@ import CountdownTimer from "../components/CountdownTimer";
       </div>
 
       <!-- Launch Text -->
-      <p style="font-size: 16px; line-height: 1.6; color: #ffffff; opacity: 0.9; max-width: 600px; margin: 0 auto 2rem auto;">
+      <p style="font-size: 16px; line-height: 1.6; color: #ffffff; opacity: 0.9; max-width: 600px; margin: 0 auto;">
         to launch of the Orbital Temple, an artwork and a satellite, aiming to be a radical inclusive temple, in a place where no wall can reach.
       </p>
 
-      <!-- Notify Link -->
-      <a href="/notify-me" style="display: inline-block; padding: 0.75rem 2rem; border: 2px solid var(--color-ot-gold200); color: #ffffff; font-weight: 600; font-size: 16px; text-decoration: none; border-radius: 4px; transition: all 0.2s; margin-top: 1rem;">
+    </div>
+
+    <!-- Bottom section with notify link -->
+    <div style="position: relative; z-index: 1; width: 100%; display: flex; justify-content: center; padding-bottom: 2rem;">
+      <a href="/notify-me" style="color: #ffffff; opacity: 0.6; font-size: 14px; text-decoration: none; transition: opacity 0.2s;" class="notify-link">
         Notify me at launch
       </a>
-
     </div>
 
   </section>
 
-  <!-- Media Query for Desktop Video -->
+  <!-- Styles -->
   <style>
+    /* Hide header on countdown page */
+    header {
+      display: none !important;
+    }
+
     @media (min-width: 768px) {
       .mobile-video {
         display: none !important;
@@ -70,11 +80,9 @@ import CountdownTimer from "../components/CountdownTimer";
       }
     }
 
-    /* Button hover effect */
-    a[href="/notify-me"]:hover {
-      background: rgba(250, 212, 58, 0.1);
-      border-color: var(--color-ot-gold100);
-      transform: translateY(-2px);
+    /* Notify link hover effect */
+    .notify-link:hover {
+      opacity: 1 !important;
     }
   </style>
 
