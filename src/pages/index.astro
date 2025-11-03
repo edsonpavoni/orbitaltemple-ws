@@ -1,12 +1,12 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import CountdownTimer from "../components/CountdownTimer";
+import RotatingCountdown, { RotatingNotifyLink } from "../components/RotatingCountdown";
 ---
 
 <BaseLayout title="Orbital Temple - Launching November 28, 2025">
 
   <!-- Full Screen Countdown Section -->
-  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 1.5rem;">
+  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; padding: 1.5rem;">
 
     <!-- Satellite Background Video -->
     <div style="position: absolute; inset: 0; z-index: 0;">
@@ -38,39 +38,48 @@ import CountdownTimer from "../components/CountdownTimer";
     </div>
 
     <!-- Top spacer -->
-    <div style="flex: 1;"></div>
+    <div style="flex: 1; position: relative; z-index: 1;"></div>
 
-    <!-- Content (centered) -->
-    <div style="position: relative; z-index: 1; text-align: center; max-width: 800px;">
-
-      <!-- Countdown Timer -->
-      <div style="margin-bottom: 3rem;">
-        <CountdownTimer client:only="react" />
-      </div>
-
-      <!-- Launch Text -->
-      <p style="font-size: 16px; line-height: 1.6; color: #ffffff; opacity: 0.9; max-width: 600px; margin: 0 auto;">
-        to launch of the Orbital Temple, an artwork and a satellite, aiming to be a radical inclusive temple, in a place where no wall can reach.
-      </p>
-
+    <!-- Content Container (vertically centered) -->
+    <div style="position: relative; z-index: 1; text-align: center; max-width: 800px; width: 100%; margin: 0 auto;">
+      <RotatingCountdown client:only="react" />
     </div>
 
-    <!-- Bottom section with notify link -->
-    <div style="position: relative; z-index: 1; width: 100%; display: flex; justify-content: center; padding-bottom: 2rem;">
-      <a href="/notify-me" style="color: #ffffff; opacity: 0.6; font-size: 14px; text-decoration: none; transition: opacity 0.2s;" class="notify-link">
-        Notify me at launch
-      </a>
+    <!-- Bottom spacer and notify link -->
+    <div style="flex: 1; position: relative; z-index: 1; display: flex; align-items: flex-end; justify-content: center; padding-bottom: 2rem;">
+      <RotatingNotifyLink client:only="react" />
     </div>
 
   </section>
 
   <!-- Styles -->
-  <style>
+  <style is:global>
     /* Hide header on countdown page */
-    header {
+    body header {
       display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
     }
 
+    /* Countdown sizing - smaller on mobile */
+    .countdown-timer {
+      gap: 1rem !important;
+    }
+
+    .time-unit {
+      min-width: 60px !important;
+    }
+
+    .time-value {
+      font-size: 32px !important;
+    }
+
+    .time-label {
+      font-size: 12px !important;
+    }
+
+    /* Larger countdown on desktop */
     @media (min-width: 768px) {
       .mobile-video {
         display: none !important;
@@ -78,10 +87,29 @@ import CountdownTimer from "../components/CountdownTimer";
       .desktop-video {
         display: block !important;
       }
+
+      .countdown-timer {
+        gap: 2rem !important;
+      }
+
+      .time-unit {
+        min-width: 80px !important;
+      }
+
+      .time-value {
+        font-size: 48px !important;
+      }
+
+      .time-label {
+        font-size: 14px !important;
+      }
     }
 
     /* Notify link hover effect */
-    .notify-link:hover {
+    .notify-link:hover,
+    .notify-link-rotating:hover {
+      color: var(--color-ot-gold200) !important;
+      text-decoration: underline !important;
       opacity: 1 !important;
     }
   </style>

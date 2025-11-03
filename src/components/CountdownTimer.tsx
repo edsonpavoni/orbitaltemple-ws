@@ -45,7 +45,7 @@ export default function CountdownTimer() {
   }, []);
 
   return (
-    <div style={{
+    <div className="countdown-timer" style={{
       display: 'flex',
       gap: '2rem',
       justifyContent: 'center',
@@ -63,11 +63,11 @@ export default function CountdownTimer() {
 
 function TimeUnit({ value, label }: { value: number; label: string }) {
   return (
-    <div style={{
+    <div className="time-unit" style={{
       textAlign: 'center',
       minWidth: '80px'
     }}>
-      <div style={{
+      <div className="time-value" style={{
         fontSize: '48px',
         fontWeight: 700,
         lineHeight: 1,
@@ -76,7 +76,7 @@ function TimeUnit({ value, label }: { value: number; label: string }) {
       }}>
         {String(value).padStart(2, '0')}
       </div>
-      <div style={{
+      <div className="time-label" style={{
         fontSize: '14px',
         fontWeight: 400,
         color: '#ffffff',
