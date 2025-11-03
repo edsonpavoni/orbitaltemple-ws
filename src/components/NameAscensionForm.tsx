@@ -306,7 +306,7 @@ export default function SendNameForm() {
   // Move up when keyboard is open to keep everything visible (MOBILE ONLY)
   // On desktop, center vertically
   const basePadding = 150; // 72px dome + some spacing for content
-  const topPadding = (isKeyboardOpen && !isDesktop) ? 20 : (isDesktop ? 0 : basePadding); // Move much closer to top when keyboard opens on MOBILE only, center on desktop
+  const topPadding = (isKeyboardOpen && !isDesktop) ? 80 : (isDesktop ? 0 : basePadding); // Move moderately closer to top when keyboard opens on MOBILE only, center on desktop
 
   // Don't render until translations are loaded to prevent flash of untranslated content
   if (!ready) {
@@ -406,7 +406,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
-            marginBottom: (isKeyboardOpen && !isDesktop) ? '1rem' : undefined,
           }}>
             {t('nameInput.title')}
           </h1>
@@ -414,7 +413,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'name-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
-            marginBottom: (isKeyboardOpen && !isDesktop) ? '1rem' : undefined,
           }}>
             {t('nameInput.subtitle')}
           </p>
@@ -495,7 +493,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.1s',
-            marginBottom: (isKeyboardOpen && !isDesktop) ? '1rem' : undefined,
           }}>
             {t('emailInput.title')}
           </h1>
@@ -503,7 +500,6 @@ export default function SendNameForm() {
             opacity: currentStep === 'email-input' ? 1 : 0,
             transition: 'opacity 0.6s ease-in-out',
             transitionDelay: '0.2s',
-            marginBottom: (isKeyboardOpen && !isDesktop) ? '1rem' : undefined,
           }}>
             {t('emailInput.subtitle')}
           </p>
