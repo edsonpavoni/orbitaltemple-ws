@@ -9,8 +9,8 @@ const {
 import "../styles/global.css";
 import Header from "../components/Header.astro";
 
-// Ensure image URL is absolute
-const imageUrl = new URL(image, Astro.site || Astro.url.origin).href;
+// Ensure image URL is absolute and uses the current domain (not hardcoded site)
+const imageUrl = new URL(image, Astro.url.origin).href;
 ---
 <html lang="en">
   <head>
