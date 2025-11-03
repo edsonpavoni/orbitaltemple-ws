@@ -13,11 +13,35 @@ export default function HomeHero() {
     ));
   };
 
-  // Don't render until translations are loaded
-  if (!ready) return null;
+  // Show loading state instead of null
+  if (!ready) {
+    return (
+      <>
+        <h1 style={{
+          fontSize: 'var(--text-display-lg)',
+          lineHeight: 'var(--text-display-lg-lh)',
+          fontWeight: 700,
+          letterSpacing: '-0.02em',
+          margin: '0 0 1rem 0',
+          color: '#ffffff'
+        }}>
+          Orbital Temple
+        </h1>
+        <p style={{
+          fontSize: 'var(--text-body-std)',
+          lineHeight: 'var(--text-body-std-lh)',
+          opacity: 0.8,
+          margin: 0,
+          color: '#ffffff'
+        }}>
+          The first purely artistic satellite from the Global South
+        </p>
+      </>
+    );
+  }
 
   return (
-    <>
+    <div style={{ color: '#ffffff' }}>
       <h1 style={{
         fontSize: 'var(--text-display-lg)',
         lineHeight: 'var(--text-display-lg-lh)',
@@ -38,6 +62,6 @@ export default function HomeHero() {
       }}>
         {renderTextWithBreaks(t('hero.subtitle'))}
       </p>
-    </>
+    </div>
   );
 }
