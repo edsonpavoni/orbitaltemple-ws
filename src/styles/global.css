@@ -102,6 +102,32 @@ html, body {
 }
 
 /* ----------------------------------
+ * Link Styles
+ * ---------------------------------- */
+a {
+  color: var(--color-ot-gold200);
+  text-decoration: none;
+  transition: text-decoration 0.2s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Exception for button-styled links (preserve existing styles) */
+a[style*="background"],
+a[style*="border"],
+.btn-action {
+  text-decoration: none !important;
+}
+
+a[style*="background"]:hover,
+a[style*="border"]:hover,
+.btn-action:hover {
+  text-decoration: none !important;
+}
+
+/* ----------------------------------
  * Font Weight Utilities
  * ---------------------------------- */
 .font-light {

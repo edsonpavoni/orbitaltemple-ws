@@ -1,0 +1,133 @@
+---
+import Base from "../layouts/BaseLayout.astro";
+import Footer from "../components/Footer.astro";
+
+// Get URL parameters
+const url = new URL(Astro.request.url);
+const donationType = url.searchParams.get("type") || "General Support";
+const amount = url.searchParams.get("amount") || "0";
+const fieldUrl = `https://app.thefield.org/home/donation/general/632877/${amount}`;
+---
+<Base title="Donate to Orbital Temple">
+
+  <main class="artwork-page">
+
+    <!-- Main Title -->
+    <h1 class="artwork-title">
+      Complete Your Donation
+    </h1>
+
+    <!-- Donation Details -->
+    <div style="max-width: 600px; margin: 0 auto 3rem auto; padding: 2rem; background: rgba(250, 212, 58, 0.05); border: 2px solid var(--color-ot-gold200); border-radius: 8px; text-align: center;">
+      <p class="body-text" style="margin-bottom: 0.5rem; opacity: 0.8;">
+        You are donating to:
+      </p>
+      <h2 class="section-subtitle" style="margin-bottom: 1rem;">
+        {donationType}
+      </h2>
+      {amount !== "0" && (
+        <p class="price-standard" style="margin: 0;">
+          ${parseInt(amount).toLocaleString()}
+        </p>
+      )}
+    </div>
+
+    <p class="body-text" style="max-width: 800px; margin: 0 auto 3rem auto; text-align: center;">
+      Choose how you would like to complete your tax-deductible donation:
+    </p>
+
+    <!-- Donation Options -->
+    <div style="display: grid; gap: 2rem; margin-bottom: 4rem; max-width: 900px; margin-left: auto; margin-right: auto;">
+
+      <!-- Option 1: Field Payment -->
+      <div style="background: rgba(250, 212, 58, 0.03); padding: 2.5rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <h3 class="section-subtitle" style="margin-bottom: 1rem;">
+          Option 1: Donate Online Now
+        </h3>
+        <p class="body-text" style="margin-bottom: 1.5rem;">
+          Complete your donation immediately using credit card, debit card, or other online payment methods through our secure fiscal sponsor, <strong>The Field</strong>. You'll receive an instant tax receipt.
+        </p>
+        <div style="text-align: center;">
+          <a
+            href={fieldUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display: inline-block; padding: 1rem 2rem; background: var(--color-ot-gold200); color: var(--color-ot-dark); font-weight: 700; font-size: 1.1rem; text-decoration: none; border-radius: 4px; transition: all 0.2s ease;">
+            Donate via The Field →
+          </a>
+        </div>
+      </div>
+
+      <!-- Option 2: Roy Foundation Deposit -->
+      <div style="background: rgba(250, 212, 58, 0.03); padding: 2.5rem; border-left: 4px solid var(--color-ot-gold200); border-radius: 4px;">
+        <h3 class="section-subtitle" style="margin-bottom: 1rem;">
+          Option 2: Bank Deposit to The Roy Foundation
+        </h3>
+        <p class="body-text" style="margin-bottom: 1.5rem;">
+          Make a direct bank deposit or wire transfer to <strong>The Roy Foundation</strong>, our strategic partner and fiscal sponsor. This option is ideal for larger donations or international transfers.
+        </p>
+
+        <!-- Banking Details -->
+        <div style="background: rgba(0, 0, 0, 0.2); padding: 1.5rem; border-radius: 4px; margin-bottom: 1.5rem;">
+          <p class="body-text" style="margin-bottom: 0.75rem; font-weight: 600; color: var(--color-ot-gold200);">
+            Banking Information
+          </p>
+          <p class="body-text body-text--secondary" style="margin: 0.5rem 0; font-family: monospace;">
+            <strong>Account Name:</strong> The Roy Foundation<br>
+            <strong>Bank Name:</strong> [Bank Name - Mock Data]<br>
+            <strong>Account Number:</strong> XXXX-XXXX-XXXX-1234<br>
+            <strong>Routing Number:</strong> 123456789<br>
+            <strong>SWIFT/BIC:</strong> MOCKBIC123<br>
+            <strong>Reference:</strong> Orbital Temple - {donationType}
+          </p>
+        </div>
+
+        <p class="body-text body-text--secondary" style="margin-bottom: 1.5rem; font-size: 0.9rem;">
+          Please include "<strong>Orbital Temple - {donationType}</strong>" in the reference field. After completing your transfer, email us at <a href="mailto:edson@spacesandcreatures.com">edson@spacesandcreatures.com</a> with your transfer details to receive your tax receipt.
+        </p>
+
+        <div style="text-align: center;">
+          <a
+            href="mailto:edson@spacesandcreatures.com?subject=Bank Deposit for Orbital Temple&body=I've completed a bank deposit for Orbital Temple.%0A%0ADonation Type: {donationType}%0AAmount: ${amount}%0A%0APlease find my transfer details below:"
+            style="display: inline-block; padding: 1rem 2rem; border: 2px solid var(--color-ot-gold200); color: var(--color-ot-light); font-weight: 700; font-size: 1.1rem; text-decoration: none; border-radius: 4px; transition: all 0.2s ease;">
+            Contact Us About Deposit →
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Tax Information -->
+    <div style="max-width: 800px; margin: 0 auto 4rem auto; padding: 2rem; background: rgba(250, 212, 58, 0.02); border-radius: 4px;">
+      <h3 class="section-subtitle" style="margin-bottom: 1rem;">
+        Tax-Deductible Giving
+      </h3>
+      <p class="body-text" style="margin-bottom: 1rem;">
+        Orbital Temple is a fiscally sponsored project of <strong>The Field (Performance Zone Inc.)</strong>, a <strong>501(c)(3)</strong> non-profit organization. All U.S. contributions are tax-deductible to the extent allowed by law.
+      </p>
+      <p class="body-text body-text--secondary" style="margin: 0;">
+        Questions? Contact us at <a href="mailto:edson@spacesandcreatures.com">edson@spacesandcreatures.com</a>
+      </p>
+    </div>
+
+    <!-- Footer -->
+    <footer class="artwork-footer">
+      <Footer />
+    </footer>
+
+  </main>
+
+</Base>
+
+<style>
+  /* Hover effects for buttons */
+  a[style*="background: var(--color-ot-gold200)"]:hover {
+    background: var(--color-ot-gold100) !important;
+    transform: translateY(-2px);
+  }
+
+  a[style*="border: 2px solid"]:hover {
+    background: rgba(250, 212, 58, 0.1) !important;
+    border-color: var(--color-ot-gold100) !important;
+  }
+</style>
