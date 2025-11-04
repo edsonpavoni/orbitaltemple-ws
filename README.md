@@ -159,7 +159,7 @@ This project mirrors the values of the Orbital Temple mission:
 - Educational resources freely available
 - Built to last (10-year mission timeline)
 
-Learn more about our sustainability practices at [orbitaltemple.org/sustainability](https://orbitaltemple.org/sustainability)
+Learn more about our sustainability practices at [orbitaltemple.art/sustainability](https://orbitaltemple.art/sustainability)
 
 ---
 
@@ -175,10 +175,10 @@ Founder of The Roy Foundation. Building the infrastructure to sustain this 10-ye
 
 ## Links
 
-- **Website**: [orbitaltemple.org](https://orbitaltemple.org)
-- **Support**: [orbitaltemple.org/support](https://orbitaltemple.org/support)
-- **Education**: [orbitaltemple.org/education](https://orbitaltemple.org/education)
-- **Press Kit**: [orbitaltemple.org/press](https://orbitaltemple.org/press)
+- **Website**: [orbitaltemple.art](https://orbitaltemple.art)
+- **Support**: [orbitaltemple.art/support](https://orbitaltemple.art/support)
+- **Education**: [orbitaltemple.art/education](https://orbitaltemple.art/education)
+- **Press Kit**: [orbitaltemple.art/press](https://orbitaltemple.art/press)
 
 ---
 
