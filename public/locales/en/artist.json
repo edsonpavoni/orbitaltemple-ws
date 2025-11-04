@@ -1,0 +1,44 @@
+{
+  "title": "From the Artist",
+  "opening": {
+    "question": "Who is this guy to propose a temple in space?",
+    "thanks": "Thanks for the question.",
+    "answer": "The short answer is that I'm an artist. The long one is this:"
+  },
+  "origin": {
+    "sao_paulo": "I was born in the outskirts of São Paulo, in a neighborhood that taught me early what danger means. Many of my school friends are in jail now. My step-father is in jail. Violence wasn't something I read about, it was the world I had to navigate. And I knew I needed to escape.",
+    "technology": "Technology became my way out. I learned to program, learned electronics as a teenager. Code was a language that could take me somewhere else. Working with technology was my escape from poverty.",
+    "christianity": "But I was also searching for belonging, for love, for something to believe in. I found Christianity, or it found me. I was accepted. I was loved. I had a community. I learned to forgive, to believe, to move together for a greater purpose.",
+    "price": "The price, though, was high. I also learned many things I am still unlearning. So I escaped from that too."
+  },
+  "searching": {
+    "walls": "I know what walls do. I've felt them. I've been on both sides: kept out, kept in. What followed were years of searching for something I couldn't name. God died during those years. The god I'd been taught about, anyway, the one with rules and judgment and doors that only opened for some people.",
+    "art": "I started making art to explore these questions: about intimacy and technology, about memory and death, about who deserves heaven. I started to build machines that reimagine our relationship with technology, machines that need your participation, your presence, your name, to transform from metal and code into something alive."
+  },
+  "pandemic": {
+    "intro": "Then the pandemic hit Brazil.",
+    "government": "When COVID vaccines were delayed, my government was negotiating kickbacks of one dollar per dose. They promoted medicine understood to be ineffective, laughing while people died struggling to breathe. We woke up every day to a different number. How many people died in the last 24 hours? Was it more, or less than expected?",
+    "war": "Half of the world was scared, and another half was in denial. We were at war, with the virus and with each other.",
+    "memorial": "I wanted to create space for collective grief, so together with hundreds of people I created the Memorial Inumeráveis. An artwork at the intersection of art and journalism. We interviewed families who had lost someone. We wrote the life story of the person they lost. We transformed numbers into histories. Poems, songs, symphonies were made with those histories. Stars read those stories on national television. The project reached millions.",
+    "meaning": "What mattered wasn't the scale, it was that each story was a name, a life, someone's heaven."
+  },
+  "discovery": {
+    "pattern": "After more than ten thousand conversations with grief, a pattern started to emerge. When we talk about someone who has died, we don't just say good things; we select fragments of their story as if we're writing a letter of recommendation. A recommendation to the gatekeeper of paradise. We do our best to send them to a place of acceptance, rest, honor and memory.",
+    "understanding": "And I understood something that changed everything: We've been wounded by the very temples we built. Our beliefs about who deserves heaven directly shape who we exclude on Earth. The Portuguese colonizers in Brazil believed Black people had no souls; that belief justified slavery. If you were indigenous, if you were born in the wrong place or loved the wrong person, you were told heaven's doors were closed to you.",
+    "birth": "That is how Orbital Temple was born."
+  },
+  "shaman": {
+    "secular": "No artist can be truly secular. We are forever tied to our common ancestor, the shaman. In the beginning, there was a cave. Humans painted animals on walls not to decorate, but to invoke. They danced, and the cave became a temple. The shaman wields the spirit of ritual; the artist wields the aura of art. We paint, we sculpt, we code, we design our desired future not to decorate, but to invoke. All art is spiritual, even when it claims not to be."
+  },
+  "space": {
+    "question": "Where could we build a temple with no walls? Where no nation or religion could claim. Where we could imagine ourselves as one group.",
+    "answer": "Space.",
+    "description": "A participatory art satellite from the Global South. A temple in orbit that invites everyone to send their names to space, regardless of who they are, where they were born, who they love, what they believe. A place where radical inclusion is possible, in orbit, beyond borders.",
+    "mission": "This mission is open source. Every technical document, every line of code will be freely available so other artists, other communities, other nations can build their own satellites. So the Global South doesn't just participate in space exploration, but leads it."
+  },
+  "closing": {
+    "answer": "So who is this guy to build a temple in space? I'm not building it. The temple is built by everyone who decides to send a name, to see it as sacred, to make it real. I'm just the one proposing. You're the one building it if you decide to.",
+    "signature": "Kindly,",
+    "name": "Edson Pavoni"
+  }
+}
