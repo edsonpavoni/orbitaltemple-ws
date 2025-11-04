@@ -124,7 +124,7 @@ export const submitName = functions.https.onRequest(async (req, res) => {
 
     // Send immediate confirmation email
     try {
-      const resend = new Resend(functions.config().resend.api_key);
+      const resend = new Resend(process.env.RESEND_API_KEY);
 
       const emailResult = await resend.emails.send({
         from: "Orbital Temple <noreply@orbitaltemple.art>",
@@ -180,8 +180,8 @@ export const sendConfirmationEmail = functions.firestore
       }
 
       try {
-        // Initialize Resend with API key from Firebase config
-        const resend = new Resend(functions.config().resend.api_key);
+        // Initialize Resend with API key from environment variable
+        const resend = new Resend(process.env.RESEND_API_KEY);
 
         // Format the confirmation timestamp
         const confirmedAt = afterData.confirmedAt || admin.firestore.Timestamp.now();
@@ -538,7 +538,7 @@ export const sendLaunchNotifications = functions.https.onRequest(async (req, res
       return;
     }
 
-    const resend = new Resend(functions.config().resend.api_key);
+    const resend = new Resend(process.env.RESEND_API_KEY);
     let sentCount = 0;
     let failedCount = 0;
 
