@@ -1,0 +1,31 @@
+{
+  "title": "Donate to Orbital Tɛmpl",
+  "heading": "Kɔmplit Yu Doneshɔn",
+  "donatingTo": "Yu de gi mɔni to:",
+  "chooseHow": "Pik aw yu go want fɔ dɔn yu doneshɔn we yu nɔ go pe taks:",
+  "option1": {
+    "heading": "Opshɔn 1: Gi Don na di Intanɛt Naw",
+    "description": "Kɔmplit yu doneshɔn wantɛm wantɛm yuz kredit kad, dɛbit kad, ɔ ɔda we dɛn fɔ pe na di Intanɛt tru wi sikrit fiskal spɔnsɔ, <strong>The Field</strong> . Yu go gɛt wan taks risit wantɛm wantɛm.",
+    "button": "Donate via Di Fild →"
+  },
+  "option2": {
+    "heading": "Opshɔn 2: Bank Dipɔsit to Di Roy Fɔdayshɔn",
+    "description": "Mek dairekt bank dipɔsit ɔ waya transfa to <strong>The Roy Foundation</strong> , wi stratejik patna ɛn fiskal spɔnsɔ. Dis opshɔn fayn fɔ big doneshɔn ɔ intanashɔnal transfa.",
+    "bankingInfo": "Infɔmeshɔn bɔt Bank",
+    "fields": {
+      "accountName": "Di Nem fɔ di Akɔn:",
+      "bankName": "Bank Nem:",
+      "accountNumber": "Akɔn Nɔmba:",
+      "routingNumber": "Di Nɔmba fɔ di Routin:",
+      "swift": "SWIFT/BIC: 1.",
+      "reference": "Tɔk bɔt:"
+    },
+    "instructions": "Duya put &quot; <strong>Orbital Temple - {donationType}</strong> &quot; na di rɛfrɛns fil. Afta yu dɔn dɔn yu transfa, imel wi na <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> wit yu transfa ditil fɔ gɛt yu taks risit.",
+    "button": "Kontakt Wi Bɔt Dipɔsit →"
+  },
+  "taxInfo": {
+    "heading": "Giv we dɛn kin pul pan taks",
+    "description": "Orbital Temple na wan fiskal spɔnsɔ projɛkt fɔ <strong>The Field (Performance Zone Inc.)</strong> , we na <strong>501(c)(3)</strong> ɔganayzeshɔn we nɔ de du biznɛs. Ɔl di kɔntribyushɔn dɛn we di Amɛrika kin gi, dɛn kin pul dɛn taks te to di mak we di lɔ alaw.",
+    "questions": "Kwɛstyɔn dɛn? Kontakt wi na <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

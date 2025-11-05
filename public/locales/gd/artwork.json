@@ -1,0 +1,31 @@
+{
+  "title": "An Obair-ealain - Teampall Orbital",
+  "heading": "An Obair-ealain",
+  "intro": {
+    "paragraph1": "’S e saideal le misean ealanta a th’ ann an Teampall Orbital: carragh-cuimhne ann am fànais a tha fosgailte do gach creutair mothachail a tha no a tha air a bhith beò air an Talamh.",
+    "paragraph2": "Tro dhòighean teicneòlais, faodaidh duine sam bith ainm cuideigin a chuir chun Teampall, cuideigin a chaochail, neach a tha fhathast beò, no creutair sam bith a tha airidh air a bhith air a chuimhneachadh."
+  },
+  "sculpture": {
+    "heading": "An Dealbh-dhealbh",
+    "paragraph1": "Tha trì eileamaidean co-eisimeileach san obair-ealain: saideal a chaidh a dhealbhadh gu sònraichte gus billeanan de dh’ainmean a stòradh; deilbheadh poblach ag iomlaid fiosrachaidh leis an t-saideal; agus làrach-lìn tro am bi com-pàirtichean a’ cur nan ainmean, bho seo a-mach gus an tèid iad à bith, gu neamh.",
+    "paragraph2": "Mar iomairt ioma-chuspaireil, faodar beachdachadh air Teampall Orbital mar dheilbheadh sònraichte don làrach, a’ fuireach ann an àite. Tha e cuideachd na phròiseact Artsat."
+  },
+  "antenna": {
+    "heading": "An Antenna mar Dealbh Phoblach",
+    "paragraph1": "Antenna a tha gar ceangal ris an fhànais a-muigh.",
+    "paragraph2": "Tha antenna ga dhealbhadh a bhios ann an conaltradh dìreach ris an t-saideal orbital.",
+    "paragraph3": "Le uachdar òrail meòrachail, a’ nochdadh na speuran os a chionn, ’s e àite tòiseachaidh a th’ ann airson brosnachadh mòr (no ar dàimh ris na tha ‘shuas an sin’).",
+    "paragraph4": "Ged nach eil na deilbheadh air an stàladh anns a’ mhòr-chuid den t-saoghal, tha na Frames from Earth againn, a tha an-dràsta a’ cumail smachd air an t-saideal, a’ cur nan ainmean aig gach pas-troimhe.",
+    "paragraph5": "Cuidich le bhith a’ toirt an lèirsinn seo don bhaile agad—a’ stàladh snaidhmean antenna a bhrosnaicheas còmhraidhean mu rannsachadh fànais, ealain, agus an àite co-roinnte againn anns a’ chosmos. <a href=\"/support\">Ionnsaich tuilleadh mu bhith a’ toirt taic don phròiseact</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Saideal Teampall Orbital",
+    "riseNy": "Teampall Orbital aig Rise NY",
+    "installation": "Teampall Orbital le Clara Marques",
+    "antenna": "Antenna Teampall Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Teampall Orbital san fhànais. Dealbh 3D le RiseNY&Partners.",
+    "mercosul": "Stàladh Teampall Orbital aig Biennale Mercosul, ann am Porto Alegre, Brasil.<br> Dealbh le Clara Marques."
+  }
+}

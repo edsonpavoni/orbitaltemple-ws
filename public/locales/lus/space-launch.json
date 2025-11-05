@@ -1,0 +1,16 @@
+{
+  "title": "Space Launch - Orbital Temple atanga thlawh chhuah a ni",
+  "heading": "Space atanga thlawh chhuah a ni",
+  "intro": "Orbital Temple hi PSLV (Polar Satellite Launch Vehicle) hmangin November 28th, 2025 hian India ram Sriharikota-a Satish Dhawan Space Centre aṭangin thlawh chhuah tum a ni.",
+  "partnership": "Orbital Temple tlangzarh hi Department of Space, Antrix Corporation hnuaia Government of India Company pakhat, NewSpace India Limited (NSIL) leh he artist te thawhhona a ni. He thawhhona hian space exploration lama art tan thil pawimawh tak a ni a, India ram space program chu radical inclusivity artistic vision nen a inzawm khawm a ni.",
+  "risks": {
+    "heading": "Risk a awm thei",
+    "paragraph1": "Satellite hi vibration condition nasa tak leh thermal cycle tuar thei tura siam a ni a, test nasat tak a tawk tawh bawk. Mahse, space launch-ah hian inherent risk a awm a ni. Satellite hi kahchhuah emaw, deployment emaw laiin a chhiat a nih chuan, emaw, kan ground station-te nena inbiakpawhna a siam thei lo a nih chuan, harsatna awm thei chu chinfel leh chinfel kan tum ang. Satellite hian mission hlawhtlinna chance sang ber tur atana ruahman redundant system leh backup protocol a nei a ni.",
+    "paragraph2": "Tin, boruak dinhmun emaw thil dang emaw avanga orbital decay hmasa zawk a awm chuan satellite hi kum 10 aia rei lo orbit-ah a awm thei bawk. Kum sawm tal daih tura kan duan laiin, a dam chhung tak tak chu kan thunun theih loh dinhmunah a innghat a ni.",
+    "paragraph3": "Launch hmasa ber a hlawhchham a nih chuan, emaw, ruahmanna anga he mission hi kan hlen thei lo a nih chuan, hmalam panna kawng dang kan dap ang a, chu chu budget awmsa hmanga launch tum vawi hnihna te, mission dang nena thawhhona te, emaw, artwork-in duhthusam leh tihkhawtlai chungchanga a sawinaah chuan a tumna documentation te pawh a tel thei ang."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Centre, India ramah a awm a ni",
+    "satellite": "Orbital Temple Satellite hmanga siam a ni"
+  }
+}

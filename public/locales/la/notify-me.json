@@ -1,0 +1,13 @@
+{
+  "title": "Certior fieri - Templum Orbitale",
+  "heading": "Certior fieri cum surgat",
+  "description": "Die XXVIII mensis Novembris, anno MMXV, Templum Orbitale ascendet.<br> Inscriptionem electronicam tuam relinque, et te certiorem faciemus cum ad spatium pervenerit.",
+  "form": {
+    "emailPlaceholder": "tua@inscriptio.com",
+    "sendButton": "Mitte",
+    "sendingButton": "Mittens...",
+    "successMessage": "Te adsequemur cum ascendet.",
+    "errorMessage": "Aliquid erratum est. Quaeso, iterum conare."
+  },
+  "backLink": "← Reditus ad numerationem regressivam"
+}

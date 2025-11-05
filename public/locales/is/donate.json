@@ -1,0 +1,31 @@
+{
+  "title": "Gefðu til Orbital-hofsins",
+  "heading": "Ljúktu við framlag þitt",
+  "donatingTo": "Þú ert að gefa til:",
+  "chooseHow": "Veldu hvernig þú vilt ljúka skattfrjálsu framlagi þínu:",
+  "option1": {
+    "heading": "Valkostur 1: Gefðu framlög á netinu núna",
+    "description": "Ljúktu við framlag þitt strax með kreditkorti, debetkorti eða öðrum greiðslumáta á netinu í gegnum öruggan fjárhagslegan styrktaraðila okkar, <strong>The Field</strong> . Þú munt fá skattkvittun samstundis.",
+    "button": "Gefðu í gegnum The Field →"
+  },
+  "option2": {
+    "heading": "Valkostur 2: Bankainnborgun til Roy-sjóðsins",
+    "description": "Leggið beint inn á bankareikning eða millifærið á <strong>Roy-sjóðinn</strong> , stefnumótandi samstarfsaðila okkar og fjárhagslegan styrktaraðila. Þessi valkostur hentar vel fyrir stærri framlög eða alþjóðlegar millifærslur.",
+    "bankingInfo": "Bankaupplýsingar",
+    "fields": {
+      "accountName": "Nafn reiknings:",
+      "bankName": "Nafn bankans:",
+      "accountNumber": "Reikningsnúmer:",
+      "routingNumber": "Leiðarnúmer:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Tilvísun:"
+    },
+    "instructions": "Vinsamlegast setjið „ <strong>Orbital Temple - {donationType}</strong> “ í tilvísunarreitinn. Eftir að millifærslunni er lokið, sendið okkur tölvupóst á <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> með millifærsluupplýsingum ykkar til að fá skattkvittun.",
+    "button": "Hafðu samband við okkur um innborgun →"
+  },
+  "taxInfo": {
+    "heading": "Skattfrjálsar gjafir",
+    "description": "Orbital Temple er fjárhagslega styrkt verkefni af <strong>The Field (Performance Zone Inc.)</strong> , sem er sjálfseignarstofnun <strong>samkvæmt 501(c)(3)</strong> . Öll framlög til Bandaríkjanna eru frádráttarbær frá skatti að því marki sem lögin leyfa.",
+    "questions": "Spurningar? Hafðu samband við okkur á <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Teml Orbitol",
+    "subtitle": "yn waith celf ac yn loeren,\nsy'n anelu at fod yn deml radical gynhwysol,\nmewn lle na all unrhyw wal gyrraedd."
+  },
+  "ritual": {
+    "label": "defod"
+  },
+  "cta": {
+    "link": "Eto, teml arall?",
+    "arrowAlt": "saeth"
+  },
+  "dome": {
+    "alt": "Dôm"
+  }
+}

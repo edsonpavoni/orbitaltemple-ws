@@ -1,0 +1,61 @@
+{
+  "title": "Timu - Hekalu la Orbital",
+  "heading": "Timu",
+  "artist": "Edson Pavoni, msanii",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Mtayarishaji Mtendaji",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Uhandisi wa Anga na Mifumo",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista na João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Uhandisi wa Kielektroniki",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Programu",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Usanifu na Usanifu",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Uchapishaji wa 3D",
+      "members": "Dhana Imara, chini ya uongozi wa Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Utoaji wa 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Utafiti",
+      "members": "Roberta Savian Rosa na Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Uzalishaji wa Maonyesho, Upigaji Picha na Uundaji wa Maudhui",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Uchunguzi wa Hariri wa Maonyesho",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Mradi wa Elimu",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Timu ya Mawasiliano",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Shukrani za pekee",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidizmelo Put, Andre Pedro Pedro, Andre Pedro. Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satelaiti ya Hekalu la Orbital"
+}

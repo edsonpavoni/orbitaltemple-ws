@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Tempelo ya Orbital",
+    "subtitle": "ezali mosala ya ntɔki mpe satellite, .\nna mokano ya kozala tempelo oyo esangisi bato nyonso, .\nna esika oyo efelo moko te ekoki kokóma."
+  },
+  "ritual": {
+    "label": "molulu ya kosala"
+  },
+  "cta": {
+    "link": "Nzokande, tempelo mosusu?",
+    "arrowAlt": "tolotolo"
+  },
+  "dome": {
+    "alt": "Dome na yango"
+  }
+}

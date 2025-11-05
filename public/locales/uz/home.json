@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital ibodatxonasi",
+    "subtitle": "san'at asari va sun'iy yo'ldosh,\nradikal inklyuziv ma'bad bo'lishni maqsad qilgan,\ndevor yeta olmaydigan joyda."
+  },
+  "ritual": {
+    "label": "marosim"
+  },
+  "cta": {
+    "link": "Boshqa ma'bad?",
+    "arrowAlt": "strelka"
+  },
+  "dome": {
+    "alt": "Gumbaz"
+  }
+}

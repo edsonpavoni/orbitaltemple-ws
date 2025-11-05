@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbitale Tempel",
+    "subtitle": "is in keunstwurk en in satellyt,\nmei as doel in radikale ynklusive timpel te wêzen,\nop in plak dêr't gjin muorre by kin."
+  },
+  "ritual": {
+    "label": "ritueel"
+  },
+  "cta": {
+    "link": "Noch in oare tempel?",
+    "arrowAlt": "pylk"
+  },
+  "dome": {
+    "alt": "Koepel"
+  }
+}

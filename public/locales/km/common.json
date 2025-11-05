@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ស្នាដៃសិល្បៈ",
+    "sendAName": "ផ្ញើឈ្មោះ",
+    "fromTheArtist": "ពីសិល្បករ",
+    "yetAnotherTemple": "ប្រាសាទមួយទៀត?",
+    "howItWorks": "របៀបដែលវាដំណើរការ",
+    "spaceLaunch": "ការបាញ់បង្ហោះយានអវកាស និងហានិភ័យ",
+    "briefHistory": "ប្រវត្តិសង្ខេបនៃសិល្បៈក្នុងលំហ",
+    "education": "ការអប់រំ និងប្រភពបើកចំហ",
+    "sustainability": "និរន្តរភាព និងកម្ទេចកម្ទីអវកាស",
+    "press": "សារព័ត៌មាន & ប្រព័ន្ធផ្សព្វផ្សាយ",
+    "team": "ក្រុម",
+    "partners": "ដៃគូ",
+    "support": "គាំទ្រ",
+    "technicalInfo": "ព័ត៌មានបច្ចេកទេស"
+  },
+  "ritual": {
+    "label": "ពិធីសាសនា",
+    "ariaLabel": "ចូលបុណ្យ - ផ្ញើឈ្មោះទៅប្រាសាទគន្លង"
+  },
+  "footer": {
+    "credits": "ប្រាសាទ Orbital គឺជាស្នាដៃសិល្បៈមួយដោយ Edson Pavoni ដែលបង្កើតដោយសហការជាមួយ Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques ផ្ញើឈ្មោះអ្នកទាំងអស់នោះទៅកាន់ព្រះវិហារបរិសុទ្ធ។"
+  }
+}

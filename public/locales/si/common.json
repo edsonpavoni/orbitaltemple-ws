@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "කලා කෘති",
+    "sendAName": "නමක් එවන්න",
+    "fromTheArtist": "කලාකරුවාගෙන්",
+    "yetAnotherTemple": "තවත් පන්සලක්?",
+    "howItWorks": "එය ක්‍රියා කරන ආකාරය",
+    "spaceLaunch": "අභ්‍යවකාශ දියත් කිරීම සහ අවදානම්",
+    "briefHistory": "අභ්‍යවකාශයේ කලාව පිළිබඳ කෙටි ඉතිහාසයක්",
+    "education": "අධ්‍යාපනය සහ විවෘත මූලාශ්‍රය",
+    "sustainability": "තිරසාරභාවය සහ අභ්‍යවකාශ සුන්බුන්",
+    "press": "මාධ්‍ය සහ මාධ්‍ය",
+    "team": "කණ්ඩායම",
+    "partners": "හවුල්කරුවන්",
+    "support": "සහාය",
+    "technicalInfo": "තාක්ෂණික තොරතුරු"
+  },
+  "ritual": {
+    "label": "චාරිත්රය",
+    "ariaLabel": "චාරිත්‍රයට ඇතුළු වන්න - කක්ෂීය දේවාලය වෙත නමක් යවන්න"
+  },
+  "footer": {
+    "credits": "Orbital Temple යනු Edson Pavoni විසින් නිර්මාණය කරන ලද කලා නිර්මාණයකි, Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savi, Roberta Savi, වැනි අය සමඟ එක්ව නිර්මාණය කරන ලදී. දිගටම මේ පන්සලට නම් එවන්න."
+  }
+}

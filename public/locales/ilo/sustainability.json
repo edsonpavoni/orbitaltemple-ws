@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Dagiti Rugit ti Law-ang - Orbital a Templo",
+  "heading": "Kinabayag a mamentenar",
+  "intro": {
+    "paragraph1": "No ti arte ti mangiturong kadatayo iti masanguanan, dinatay ikankano dagiti krisis a sangsanguentayo —ti pannakarba ti aglawlaw, di panagpapada ti kagimongan, ken ti dumakdakkel a karit dagiti rugit iti law-ang. Nadisenio ti Orbital Temple a sipapanunot kadagitoy a kinapudno, a panggepna ti agbalin a responsable a kaadda agpadpada iti Daga ken iti orbit.",
+    "paragraph2": "Patienmi a ti sustainability ket saan a maysa a lapped no di ket maysa a nasken a paset ti artistiko a sirmatatayo. Tunggal pangngeddeng maipapan kadagiti material, orbit, ken operasion iyanninawna ti panagkumittayo a mangpanaw agpadpada iti Daga ken law-ang a nasaysayaat ngem iti nasarakantayo kadagitoy."
+  },
+  "spaceDebris": {
+    "heading": "Dagiti Rugit ti Law-ang",
+    "paragraph1": "Dagiti rugit iti law-ang ti maysa kadagiti kapatgan a karit a sangsanguen ti panagsukisok iti law-ang. Rinibu a saanen a maus-usar a satellite ken pirsay ti aglikmut iti Daga, a mamagpeggad kadagiti aktibo a mision ken mangpataud iti epekto ti kaskada a mabalin a mamagbalin iti sumagmamano nga orbit a di mausar.",
+    "paragraph2": "Ti Orbital Temple ket mangtaming iti daytoy iti sumagmamano a wagas:",
+    "list": {
+      "orbit": "<strong>Init-synchronous orbit iti 525 km:</strong> Daytoy a kangato ket mangipasigurado a ti natural nga atmospera a panagguyod ket mangpataudto ti satellite a sumrek manen iti atmospera ti Daga iti las-ud ti agarup a 10 a tawen, a sadiay ket naan-anay a mauram. Saantayo nga agkontribusion kadagiti napaut nga orbital debris.",
+      "size": "<strong>Disenyo ti PocketQube:</strong> Iti laeng 50×58×64mm ken 245g, bassit laeng ti satellite tapno naan-anay nga ag-vaporize bayat ti iseserrek manen, nga awan ti mabati a rugit iti rabaw ti Daga.",
+      "responsibility": "<strong>Awan ti naiplano a saanen a maus-usar:</strong> Saan a kas kadagiti komersial a satellite a mabalin a mabaybay-an, ti Orbital Temple ket nadisenio a mang-deorbit iti natural, a mangtungpal kadagiti internasional a pagannurotan para iti responsable nga aktibidad iti law-ang."
+    },
+    "paragraph3": "Babaen ti panagpili iti nababa nga orbit ti Daga ken ti kompakto a disenio, siguraduenmi a ti kaadda ti Orbital Temple iti law-ang ket temporario ken saan a mangmulit."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralidad ti Karbon",
+    "content": "Amin a panagibuyat ti karbon a nainaig iti Orbital Temple—agraman ti panagaramid iti satellite, panangipatayab, panagpataray iti estasion iti daga, panagsangaili iti website, ken panagbiahe ti grupo—ket naan-anay a mabalbaliwan babaen kadagiti naberipikado a programa ti panagutang iti karbon. Nakumikomkami a mamagbalin iti daytoy a mision a climate-neutral."
+  },
+  "openSource": {
+    "heading": "Hardware ti Open Source",
+    "paragraph1": "Kaipapanan met ti kinatalged ti saan a panangsayang iti pannakaammo. Tunggal teknikal nga aspeto ti Orbital Temple—dagiti eskematiko, kodigo, dagiti protokol ti komunikasion, ken dagiti pamay-an ti panagbangon—ket maipablaakto a kas open source a dokumentasion.",
+    "paragraph2": "Daytoy ket mangipalubos kadagiti masakbayan a mision a mangbangon iti trabahotayo imbes a mangrugi manipud iti rugi, a mangkissay iti redundant a panagsirarak ken panagdur-as. Daytoy ket mangdemokratisa ti panagserrek iti teknolohia ti law-ang, a naipangpangruna para kadagiti komunidad idiay Sangalubongan nga Abagatan a naipakasaritaan a nailaksid manipud iti panagsukisok ti law-ang."
+  },
+  "educational": {
+    "heading": "Epekto iti Edukasion",
+    "paragraph1": "Ti libre a multilingual educational program-tayo ket mangisuro kadagiti estudiante iti sangalubongan no kasano ti agaramid ken mangilansa kadagiti satellite, nga addaan iti panangipamaysa iti Global South. Babaen ti panangipaay iti pannakabalin iti sumaruno a henerasion babaen kadagiti paglaingan iti teknolohia iti law-ang, makatulongkami iti panangserra iti \"Space Gap\" ken panangparnuay kadagiti gundaway a no saan ket awan koma.",
+    "paragraph2": "Daytoy a mision ti edukasion ket maysa a mismo a kita ti kinatalged —ti panagpuonan kadagiti tattao ken komunidad tapno mangpataud iti manayon a panagbalbaliw iti labes ti kapaut ti panagbiag ti satellite."
+  },
+  "tenYear": {
+    "heading": "Maysa a 10-Tawen a Mision",
+    "paragraph1": "Nadisenio ti Orbital Temple para iti sangapulo a tawen a mision, saan nga ababa a publicity stunt. Iti las-ud ti sangapulo a tawen, ti satellite ket aglikmut iti Daga iti agarup a 50,000 a daras, nga umawat kadagiti nagan ken agserbi a kas palagip a ti law-ang ket mabalin a maysa a gagangay, a madanon ti amin.",
+    "paragraph2": "Kalpasan a malpas ti misionna, natural nga ag-de-orbit ken mauram ti satellite, nga awan ti maibati a tugot malaksid kadagiti lagip ken dokumentasion dagidiay nakipaset."
+  },
+  "artsResponsibility": {
+    "heading": "Pagrebbengan ti Arte",
+    "paragraph1": "Kanayon a sarming ti arte ti panawenna, a mangipakita kadagiti pagalagadan ken arapaaptayo. Iti panawen ti krisis ti klima ken dumakdakkel a di panagpapada, patienmi nga addaan dagiti artista iti pagrebbengan a mangparnuay iti obra a saan laeng a mangkomento kadagitoy nga isyu no di ket aktibo a mangtaming kadagitoy.",
+    "paragraph2": "Ti Orbital Temple ket ti panangpadasmi a mangparnuay iti obra ti arte a radikal iti pannakairamanna, responsable iti epektona iti aglawlaw, ken naparabur a mangibinglay iti pannakaammona iti lubong. Daytat’ arte a mangawis iti amin a makipaset bayat a raraemenda dagiti nalaka a madadael a sistema—ti aglawlaw ken orbital—a mamagbalin a posible iti biag ken panagsukisok."
+  },
+  "imageAlt": "Satellite ti Templo ti Orbital"
+}

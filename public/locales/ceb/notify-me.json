@@ -1,0 +1,13 @@
+{
+  "title": "Pahibalo - Orbital Temple",
+  "heading": "Pahibalo Kon Kini Mobangon",
+  "description": "Sa Nobyembre 28, 2025, ang Orbital Temple mosaka.<br> Biyai ang imong e-mail, ug kami mosulti kanimo kon kini makaabot sa kawanangan.",
+  "form": {
+    "emailPlaceholder": "imong@email.com",
+    "sendButton": "Ipadala",
+    "sendingButton": "Nagpadala...",
+    "successMessage": "Maabot kami kanimo kung kini mosaka.",
+    "errorMessage": "Naay nahitabo. Palihug sulayi pag-usab."
+  },
+  "backLink": "← Balik sa countdown"
+}

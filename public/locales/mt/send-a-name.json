@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "hekk kif tidħol\nf'ritwal\nbiex tibgħat isem\nfit-\ntempju orbitali\nfl-ispazju\nħu\nnifs",
+    "button": "jien lest"
+  },
+  "nameInput": {
+    "title": "ittajpja isem",
+    "subtitle": "se jitla’ sat-Tempju Orbitali fl-ispazju.",
+    "placeholder": "isem",
+    "button": "ħalliha titla’"
+  },
+  "emailInput": {
+    "title": "ittajpja l-email tiegħek",
+    "subtitle": "għalhekk tirċievi messaġġ meta l-isem jitla'.",
+    "placeholder": "l-email tiegħek",
+    "button": "lest"
+  },
+  "loading": {
+    "alt": "Tagħbija"
+  },
+  "success": {
+    "text": "L-isem\n{{isem}}\nissa jinsab fil-kju\ngħall-axxendenza.\nmeta t-\ntempju fl-ispazju\njallinja ruħu, mal-\nantenna tagħna\nfuq l-Art\nse nibagħtu\nl-isem\nu tirċievi\nmessaġġ."
+  }
+}

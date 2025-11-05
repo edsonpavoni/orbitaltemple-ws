@@ -1,0 +1,44 @@
+{
+  "title": "Održivost i svemirski otpad - Orbitalni hram",
+  "heading": "Održivost",
+  "intro": {
+    "paragraph1": "Ako nas umjetnost treba voditi u budućnost, ne može ignorirati krize s kojima se suočavamo - kolaps okoliša, društvenu nejednakost i rastući izazov svemirskog otpada. Orbitalni hram je dizajniran imajući te stvarnosti na umu, s ciljem da bude odgovorna prisutnost i na Zemlji i u orbiti.",
+    "paragraph2": "Vjerujemo da održivost nije ograničenje, već bitan dio naše umjetničke vizije. Svaka odluka o materijalima, orbitama i operacijama odražava našu predanost da Zemlju i svemir ostavimo boljim nego što smo ih zatekli."
+  },
+  "spaceDebris": {
+    "heading": "Svemirski otpad",
+    "paragraph1": "Svemirski otpad jedan je od najhitnijih izazova s kojima se suočava istraživanje svemira. Tisuće nefunkcionalnih satelita i fragmenata kruže oko Zemlje, ugrožavajući aktivne misije i stvarajući kaskadni efekt koji bi određene orbite mogao učiniti neupotrebljivima.",
+    "paragraph2": "Orbital Temple to rješava na nekoliko načina:",
+    "list": {
+      "orbit": "<strong>Sunčevo-sinkrona orbita na 525 km:</strong> Ova visina osigurava da će prirodno atmosfersko otporno djelovanje uzrokovati ponovni ulazak satelita u Zemljinu atmosferu unutar otprilike 10 godina, gdje će potpuno izgorjeti. Ne doprinosimo dugoročnom orbitalnom otpadu.",
+      "size": "<strong>Dizajn PocketQubea:</strong> Sa samo 50 × 58 × 64 mm i 245 g, satelit je dovoljno malen da potpuno ispari tijekom ponovnog ulaska u atmosferu, ne ostavljajući ostatke na Zemljinoj površini.",
+      "responsibility": "<strong>Nema planiranog zastarjevanja:</strong> Za razliku od komercijalnih satelita koji mogu biti napušteni, Orbital Temple je dizajniran da prirodno deorbira, ispunjavajući međunarodne smjernice za odgovornu svemirsku aktivnost."
+    },
+    "paragraph3": "Odabirom niske Zemljine orbite i kompaktnog dizajna, osiguravamo da je prisutnost Orbitalnog hrama u svemiru privremena i da ne zagađuje okoliš."
+  },
+  "carbonNeutrality": {
+    "heading": "Ugljična neutralnost",
+    "content": "Sve emisije ugljika povezane s Orbitalnim hramom - uključujući proizvodnju satelita, lansiranje, rad zemaljske stanice, hosting web stranice i putovanja tima - bit će u potpunosti nadoknađene putem verificiranih programa ugljičnih kredita. Posvećeni smo tome da ovu misiju učinimo klimatski neutralnom."
+  },
+  "openSource": {
+    "heading": "Hardver otvorenog koda",
+    "paragraph1": "Održivost također znači ne rasipati znanje. Svaki tehnički aspekt Orbitalnog hrama - sheme, kod, komunikacijski protokoli i metode izgradnje - bit će objavljen kao dokumentacija otvorenog koda.",
+    "paragraph2": "To omogućuje budućim misijama da se nadograde na naš rad, umjesto da kreću od nule, smanjujući suvišna istraživanja i razvoj. Demokratizira pristup svemirskoj tehnologiji, posebno za zajednice na globalnom Jugu koje su povijesno bile isključene iz istraživanja svemira."
+  },
+  "educational": {
+    "heading": "Obrazovni utjecaj",
+    "paragraph1": "Naš besplatni višejezični obrazovni program podučava studente diljem svijeta kako graditi i lansirati satelite, s naglaskom na globalni Jug. Osnaživanjem sljedeće generacije vještinama svemirske tehnologije, doprinosimo zatvaranju \"svemirskog jaza\" i stvaranju prilika koje inače ne bi postojale.",
+    "paragraph2": "Ova obrazovna misija sama po sebi je oblik održivosti - ulaganje u ljude i zajednice kako bi se stvorile trajne promjene i nakon životnog vijeka satelita."
+  },
+  "tenYear": {
+    "heading": "Desetogodišnja misija",
+    "paragraph1": "Orbitalni hram je osmišljen za desetljetnu misiju, a ne za kratki promotivni trik. Tijekom deset godina, satelit će kružiti oko Zemlje otprilike 50 000 puta, dobivajući imena i služeći kao podsjetnik da svemir može biti zajedničko dobro, dostupno svima.",
+    "paragraph2": "Nakon završetka misije, satelit će prirodno izaći iz orbite i izgorjeti, ne ostavljajući traga osim u sjećanjima i dokumentaciji onih koji su sudjelovali."
+  },
+  "artsResponsibility": {
+    "heading": "Odgovornost umjetnosti",
+    "paragraph1": "Umjetnost je oduvijek bila ogledalo svog vremena, odražavajući naše vrijednosti i težnje. U eri klimatske krize i rastuće nejednakosti, vjerujemo da umjetnici imaju odgovornost stvarati djela koja ne samo komentiraju ta pitanja, već se njima aktivno bave.",
+    "paragraph2": "Orbitalni hram je naš pokušaj stvaranja umjetničkog djela koje je radikalno u svojoj uključivosti, odgovorno u svom utjecaju na okoliš i velikodušno u dijeljenju svog znanja sa svijetom. To je umjetnost koja poziva sve na sudjelovanje, poštujući pritom krhke sustave - okolišne i orbitalne - koji omogućuju život i istraživanje."
+  },
+  "imageAlt": "Orbitalni hramski satelit"
+}

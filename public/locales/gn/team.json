@@ -1,0 +1,61 @@
+{
+  "title": "Equipo - Tupao Orbital",
+  "heading": "Aty",
+  "artist": "Edson Pavoni, mba’eapohára",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Productor Ejecutivo rehegua",
+      "members": "Sathi Roy rehegua"
+    },
+    "aerospace": {
+      "heading": "Ingeniería Aeroespacial & Sistemas rehegua",
+      "members": "Pedro Kaled, João Pedro Polito, Víctor Baptista & João Víctor Alves"
+    },
+    "electronic": {
+      "heading": "Ingeniería Electrónica rehegua",
+      "members": "André Biagioni, João Pedro Polito ha VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonatán Querubina"
+    },
+    "design": {
+      "heading": "Diseño ha Arquitectura rehegua",
+      "members": "Guilherme Bullejos rehegua"
+    },
+    "printing": {
+      "heading": "Impresión 3D rehegua",
+      "members": "Conceptos Sólidos, oisãmbyhýva Eduardo Días"
+    },
+    "rendering": {
+      "heading": "Renderización 3D rehegua",
+      "members": "Guilherme Bullejos & RiseNy&Socios rehegua"
+    },
+    "research": {
+      "heading": "Tembikuaareka",
+      "members": "Roberta Savian Rosa & Clara Marques rehegua"
+    },
+    "exhibition": {
+      "heading": "Exposición Producción, Fotografía & Contenido Ñemoheñói",
+      "members": "Clara Marques rehegua"
+    },
+    "silkScreen": {
+      "heading": "Exposición-pegua Seda Proyección rehegua",
+      "members": "Daphne Alves rehegua"
+    },
+    "educational": {
+      "heading": "Proyecto Tekombo’e rehegua",
+      "members": "IdeaEspacio rehegua"
+    },
+    "communication": {
+      "heading": "Equipo de Comunicación rehegua",
+      "members": "Flavio Vidigal, Andrés Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna El Cairo"
+    },
+    "specialThanks": {
+      "heading": "Aguyjevete",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington, ha ambue tapichakuéra"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Víctor Baptista, João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Días, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andrés Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna El Cairo, Conceitos Sólidos, RiseNY&Socios, IdeaEspacio rehegua",
+  "imageAlt": "Satélite Templo Orbital rehegua"
+}

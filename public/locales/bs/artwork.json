@@ -1,0 +1,31 @@
+{
+  "title": "Umjetničko djelo - Orbitalni hram",
+  "heading": "Umjetničko djelo",
+  "intro": {
+    "paragraph1": "Orbitalni hram je satelit s umjetničkom misijom: spomenik u svemiru otvoren svakom osjećajnom biću koje živi ili je živjelo na Zemlji.",
+    "paragraph2": "Pomoću tehnoloških sredstava, svako može poslati ime nekoga Hramu, bilo da se radi o nekome ko je preminuo, osobi koja je još uvijek živa ili bilo kojem biću koje zaslužuje da bude zapamćeno."
+  },
+  "sculpture": {
+    "heading": "Skulptura",
+    "paragraph1": "Umjetničko djelo ima tri međusobno zavisna elementa: satelit posebno dizajniran za pohranjivanje milijardi imena; javnu skulpturu koja razmjenjuje informacije sa satelitom; i web stranicu putem koje učesnici šalju imena, od sada pa do svoje smrti, u raj.",
+    "paragraph2": "Kao multidisciplinarni poduhvat, Orbitalni hram se može smatrati skulpturom specifičnom za lokaciju koja nastanjuje prostor. To je ujedno i Artsat projekat."
+  },
+  "antenna": {
+    "heading": "Antena kao javna skulptura",
+    "paragraph1": "Antena koja nas povezuje sa svemirom.",
+    "paragraph2": "U toku je projektovanje antene koja će biti u direktnoj komunikaciji sa orbitalnim satelitom.",
+    "paragraph3": "Sa zlatnom reflektirajućom površinom, koja odražava nebo iznad nje, ona je početna tačka za masovnu stimulaciju (ili naš odnos prema onome što je 'tamo gore').",
+    "paragraph4": "Iako skulpture nisu postavljene u većini dijelova svijeta, naši Frames from Earth (Okviri sa Zemlje), koji trenutno kontroliraju satelit, šalju imena pri svakom prolasku.",
+    "paragraph5": "Pomozite da se ova vizija ostvari u vašem gradu – postavljanjem skulptura antena koje inspirišu razgovore o istraživanju svemira, umjetnosti i našem zajedničkom mjestu u kosmosu. <a href=\"/support\">Saznajte više o podršci projektu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitalni hramski satelit",
+    "riseNy": "Orbitalni hram u Riseu, New York",
+    "installation": "Orbitalni hram, autorica Clara Marques",
+    "antenna": "Orbitalna hramska antena"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitalni hram u svemiru. 3D rendering: RiseNY&Partners.",
+    "mercosul": "Instalacija Orbitalnog hrama na Mercosul bijenalu u Porto Alegreu, Brazil.<br> Fotografija Clare Marques."
+  }
+}

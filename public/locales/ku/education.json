@@ -1,0 +1,43 @@
+{
+  "title": "Perwerde û Çavkaniya Vekirî - Orbital Perestgeh",
+  "heading": "Perwerde û Çavkaniya Vekirî",
+  "intro": {
+    "paragraph1": "Hemû teknolojiya ku ji bo mîsyona Orbital Perestgehê hatiye pêşxistin dê <strong>çavkaniya vekirî</strong> be û bi <strong>zimanên Portekîzî</strong> , <strong>Îngilîzî</strong> , <strong>Spanî</strong> û <strong>Hindî</strong> li ser înternetê peyda bibe, da ku pêşketina keşifkirina fezayê li <strong>Başûrê Cîhanê</strong> pêş bixe. Mîsyon û projeyên nû dikarin Orbital Perestgehê wekî bingehek ji bo ceribandinên xwe yên hunerî an zanistî bikar bînin.",
+    "paragraph2": "Wekî beşek ji mîsyona xwe ya perwerdehîyê, Orbital Temple dê dewreyeke pirzimanî ya belaş li ser çawaniya çêkirin û şandina peykê pêşkêş bike. Ew ê derfeteke pratîkî be ji bo fêrbûna teknolojiya peykê û sepandina wê di pratîkê de. Her kesê/a ku temenê wî/wê ji <strong>16</strong> salî mezintir be dê bikaribe peyka xwe ava bike, dîroka hunerê di fezayê de, têgehên bingehîn ên elektronîk, mekanîk û zanista fezayê, di nav de çawaniya fînansekirina projeyan û çawaniya çêkirina antenekê ji bo ragihandinê bi peykên di rêgehê de, fêr bibe."
+  },
+  "spaceGap": {
+    "heading": "Çima Ev Girîng e: Valahiya Fezayê",
+    "paragraph1": "Peyva <strong>&quot;Valabûna Fezayê&quot;</strong> behsa cudahiya di navbera welatên pêşketî yên ku dikarin bigihîjin derfetên teknolojîk ên ku bi rêya keşfa fezayê têne bidestxistin û welatên pêşketî yên ku nikarin bigihîjin van teknolojiyan dike. Welatên li Başûrê Cîhanê divê ji bo gihîştina bingehîn a agahiyên ku ji hêla teknolojiyên satelîtê ve têne hilberandin, gelek pereyan bidin hikûmet an şîrketên biyanî.",
+    "paragraph2": "Teknolojiya fezayê feydeyên girîng peyda dike: peyk alîkariya şerê li dijî birîna neqanûnî ya daristanan, masîgirtina neqanûnî û bazirganiya neqanûnî ya jiyana kovî dikin, ku <strong>salane zêdetirî 73 mîlyar dolar</strong> temsîl dikin. Ew agahdariya girîng li ser avhewa, hilberîna avê û ewlehiya xwarinê peyda dikin. Peyk avdana rastîn û teknîkên çandiniyê çalak dikin, û alîkariya pêşîgirtina li karesatên xwezayî dikin. Pîşesaziya fezayê dikare heta <strong>sala 2030-an</strong> heta <strong>1 mîlyon kar</strong> biafirîne, lê ev derfet ji bo gelek kesan li Başûrê Cîhanê negihîştî ne.",
+    "paragraph3": "Bi peydakirina teknolojiya çavkaniya vekirî û perwerdehiyê, armanca me ew e ku em gihîştina fezayê demokratîk bikin û nifşekî nû bihêz bikin ku xewnên li wêdetir ji asîman bibînin."
+  },
+  "empowering": {
+    "heading": "Hêzdarkirina Nifşê Pêşerojê",
+    "intro": "Em ê fêrî nifşê pêşerojê yê keşifgerên fezayê bikin ka meriv çawa peykên xwe çêdike û dişîne, û em ê mijarên girîng ên wekî van vebêjin:",
+    "topics": {
+      "history": "<strong>Dîroka hunerê di fezayê de:</strong> Têgihîştina rêzefîlma peykên hunerî û berhemên hunerî yên fezayî.",
+      "concepts": "<strong>Têgehên bingehîn:</strong> <strong>ArtSat</strong> (peykên hunerî), teknolojiya fezayê <strong>ya çavkaniya vekirî</strong> , û <strong>Valahiya fezayê</strong> .",
+      "missions": "<strong>Mîsyonên fezayê:</strong> Meriv çawa mîsyonek konseptuel dike û sêwirîne, û çawa tîmek ji bo pêkanîna wê ava dike.",
+      "electronics": "<strong>Elektronîk di fezayê de:</strong> Têgehên bingehîn ên pêkhateyên elektronîkî ku dikarin di hawîrdora fezayê de bijîn û bixebitin.",
+      "mechanics": "<strong>Mekanîka di fezayê de:</strong> Têgihîştina pêdiviyên avahî û mekanîkî ji bo sêwirana satelîtê.",
+      "orbits": "<strong>Orbît û firîner:</strong> Cureyên cûda yên orbîtan û çawa meriv dabînkerên firînê ji bo mîsyona xwe hilbijêre.",
+      "financing": "<strong>Stratejiyên fînansekirinê:</strong> Meriv çawa fînanse û çavkaniyan ji bo şandina peyka xwe peyda dike. Ev dewre dê çavkaniyan ji bo bidestxistina fînansekirinê ji bo şandina peyka we peyda bike, û alîkariya xwendekaran bike ku bername û alîkariyên ji saziyên navneteweyî bibînin ku piştgirî didin zanyar û xwendekarên ciwan di şandina peykên xwe de bo fezayê.",
+      "groundStation": "<strong>Pêşxistina îstasyona bejayî:</strong> Meriv çawa antenek çêdike da ku bi Perestgeha Orbital û peykên din re têkilî daynin."
+    }
+  },
+  "technology": {
+    "heading": "Teknolojî: Satelaytên PocketQube",
+    "paragraph1": "Xwendekar dê fêr bibin ka çawa bi peykên <strong>PocketQube</strong> re bixebitin, ew jî nanosatelîtek standard e ku tenê <strong>5cm³</strong> pîvana wê heye û heta <strong>250g</strong> giran e. Tevî mezinahiya xwe ya piçûk, PocketQubes amûrên bihêz in ku dikarin çavdêriya Erdê, çavdêrîkirin û ragihandinê bikin.",
+    "paragraph2": "Ev peykên kompakt gelek sepanên cîhana rastîn hene, ji lêkolînên zanistî yên li ser guherîna avhewayê bigire heya ragihandina navbera parzemînan. Ji ber ku ew piçûktir û siviktir in, çêkirin û firandina wan erzantir e, û ev yek fezayê ji bo xwendekar, lêkolîner û hunermendên li çaraliyê cîhanê hêsantir dike."
+  },
+  "globalAccess": {
+    "heading": "Gihîştina Cîhanî, Ji Başûrê Cîhanî dest pê dike",
+    "paragraph1": "Ev dewre dê ji bo her kesê <strong>16 salî û mezintir</strong> , bi tevahî <strong>bêpere</strong> peyda bibe. Em bi naveroka bi <strong>Portekîzî</strong> , <strong>Spanî</strong> , <strong>Îngilîzî</strong> û <strong>Hindî</strong> dest pê dikin, û bi mezinbûna bernameyê re em plan dikin ku zimanên din jî berfireh bikin.",
+    "paragraph2": "Mîsyona me li Başûrê Cîhanê dest pê dike û ber bi cîhanê ve dirêj dibe, û piştrast dike ku nifşê din ê keşifên fezayê ji çar aliyên Erdê tên."
+  },
+  "callToAction": {
+    "heading": "Alîkariya me bikin ku em vê yekê pêk bînin",
+    "content": "Ev bernameya perwerdehiyê niha di pêşveçûnê de ye. Em li hevkar û bexşkeran digerin ku vîzyona me ya demokratîkkirina gihîştina teknolojiya fezayê parve dikin. Ger hûn an rêxistina we dixwazin piştgiriyê bidin vê înîsiyatîfê, ji kerema xwe serdana <a href=\"/support\">rûpela piştgiriyê</a> ya me bikin da ku hûn li ser derfetên hevkariyê fêr bibin."
+  },
+  "imageAlt": "Peyka Perestgeha Orbital"
+}

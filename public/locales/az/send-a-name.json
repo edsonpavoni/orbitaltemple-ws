@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "girdiyiniz zaman\nbir ritual\nad göndərmək\ndaxil\norbital məbədi\nkosmosda\nalmaq\nbir nəfəs",
+    "button": "mən hazıram"
+  },
+  "nameInput": {
+    "title": "ad yazın",
+    "subtitle": "kosmosda Orbital Məbədə yüksələcək.",
+    "placeholder": "ad",
+    "button": "yüksəlsin"
+  },
+  "emailInput": {
+    "title": "e-poçtunuzu yazın",
+    "subtitle": "beləliklə, ad yüksələndə bir mesaj alırsınız.",
+    "placeholder": "e-poçtunuz",
+    "button": "edilir"
+  },
+  "loading": {
+    "alt": "Yüklənir"
+  },
+  "success": {
+    "text": "adı\n{{adı}}\nindi növbədədir\nyüksəliş üçün.\nzaman\nkosmosda məbəd\nilə düzülür\nantenimiz\nyer üzündə\ngöndərəcəyik\nadı\nvə alacaqsınız\nmesaj."
+  }
+}

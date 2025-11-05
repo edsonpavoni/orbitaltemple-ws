@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital Temple",
+    "subtitle": "ndi zojambulajambula ndi satelayiti,\nndicholinga chofuna kukhala kachisi wophatikiza,\npamalo amene palibe khoma lingafike."
+  },
+  "ritual": {
+    "label": "mwambo"
+  },
+  "cta": {
+    "link": "Komabe, kachisi wina?",
+    "arrowAlt": "muvi"
+  },
+  "dome": {
+    "alt": "Nyumba"
+  }
+}

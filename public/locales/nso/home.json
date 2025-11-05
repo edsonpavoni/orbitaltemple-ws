@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Tempele ya Orbital",
+    "subtitle": "ke mošomo wa bokgabo le sathalaete, .\ne ikemišeditše go ba tempele yeo e akaretšago bohle, .\nlefelong leo go se nago lebota leo le ka fihlago go lona."
+  },
+  "ritual": {
+    "label": "moetlo"
+  },
+  "cta": {
+    "link": "Lega go le bjalo, tempele e nngwe?",
+    "arrowAlt": "lerumo"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

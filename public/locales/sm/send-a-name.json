@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "a o e ulufale atu\no se sauniga\ne lafo se igoa\ni totonu o le\nmalumalu fa'ata'amilo\ni le vateatea\nave\nse manava",
+    "button": "ua ou sauni"
+  },
+  "nameInput": {
+    "title": "lolomi se igoa",
+    "subtitle": "o le a tulai mai i le Malumalu Orbital i le vanimonimo.",
+    "placeholder": "igoa",
+    "button": "ia alu ae"
+  },
+  "emailInput": {
+    "title": "lolomi lau imeli",
+    "subtitle": "o lea e maua ai se fe'au pe a alu a'e le igoa.",
+    "placeholder": "lau imeli",
+    "button": "ua faia"
+  },
+  "loading": {
+    "alt": "utaina"
+  },
+  "success": {
+    "text": "le igoa\n{{igoa}}\nua laina nei\nmo le afio a'e.\na o le\nmalumalu i le vanimonimo\nogatasi, ma\ntatou antenna\ni le lalolagi\nmatou te auina atu\nle igoa\nma o le ae mauaina\nse savali."
+  }
+}

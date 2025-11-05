@@ -1,0 +1,138 @@
+{
+  "title": "Y Wasg a'r Cyfryngau - Teml Orbital",
+  "heading": "Y Wasg a'r Cyfryngau",
+  "pressContact": {
+    "heading": "Cyswllt y Wasg",
+    "content": "Ar gyfer ymholiadau gan y wasg, cyfweliadau a cheisiadau gan y cyfryngau:<br /> <strong>E-bost:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Gwefan:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Ynglŷn â'r Prosiect",
+    "paragraph1": "Mae Orbital Temple yn waith celf a lloeren sy'n anelu at fod yn deml gynhwysol iawn, wedi'i hadeiladu lle na all unrhyw waliau gyrraedd. Wedi'i chreu gan yr artist o Frasil Edson Pavoni, yr artist y tu ôl i Gofeb Inumeráveis a gyrhaeddodd 1 o bob 6 Brasilwr yn ystod pandemig COVID, mae'r prosiect yn gwahodd pobl o bob cwr o'r byd i anfon enw rhywun y maent am ei gofio. Caiff yr enwau hyn eu trosglwyddo i loeren mewn orbit, gan greu cofeb ar y cyd.",
+    "paragraph2": "Drwy wefan sydd ar gael mewn 136 o ieithoedd, mae cyfranogwyr yn cymryd rhan mewn math newydd o ddefod. Mae'r Deml Orbital yn archwilio themâu cynhwysiant, cof, a'n dynoliaeth gyffredin, gan gwestiynu pam na all unrhyw deml gorfforol ar y Ddaear groesawu pawb mewn gwirionedd, a chynnig gofod fel yr unig le lle gallai cynhwysiant radical fodoli."
+  },
+  "aboutArtist": {
+    "heading": "Ynglŷn â'r Artist",
+    "paragraph1": "Mae <strong>Edson Pavoni</strong> yn artist o Frasil y dechreuodd ei daith yn strydoedd São Paulo, lle lluniodd cyd-destun o dlodi a thrais ei flynyddoedd cynnar. Mewn gwlad lle&#39;r oedd Cristnogaeth yn cynnig llwybr i ffwrdd o&#39;r strydoedd, cyffuriau a thrais, daeth Pavoni o hyd i loches mewn ffydd, thema a fyddai&#39;n ddiweddarach, pan ddaeth yn feirniad o gam-drin crefyddol, yn llywio ei ymarfer artistig.",
+    "paragraph2": "Yn 2020, yn ystod pandemig COVID-19, creodd Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (anrifedig)</a></strong> , gwaith celf ar groesffordd celf a newyddiaduraeth. Cyfwelodd y prosiect â miloedd o deuluoedd ac ysgrifennodd straeon am y rhai a gollwyd i&#39;r pandemig, gan greu gofod lle&#39;r oedd cof yn rhagori ar rifau ac ystadegau. Gwnaed cerddi, caneuon a symffonïau gyda&#39;r straeon hynny. Creodd papurau newydd gloriau gan ddefnyddio&#39;r enwau a&#39;r hanesion. Darllenodd yr holl sêr Brasil fel Fernanda Torres, a enillodd Oscar, a sêr fel Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo a Lazaro Ramos, a chynifer o rai eraill y straeon hynny ar deledu cenedlaethol. Cyrhaeddodd y prosiect 32 miliwn o bobl, un o bob pedwar oedolyn o Frasil. Daeth yn rwydwaith o iachâd, yn gofeb gyfunol i gof.",
+    "paragraph3": "Ar ôl mwy na deng mil o sgyrsiau gyda galar, daeth patrwm i'r amlwg: pan fyddwn yn siarad am rywun sydd wedi marw, rydym yn dewis darnau o'u stori fel pe baem yn ysgrifennu llythyr argymhelliad at geidwad porth paradwys. Rydym yn gwneud ein gorau i'w hanfon i'r hyn yr ydym yn credu sy'n nefoedd. Sbardunodd y gwaith hwn ddealltwriaeth newydd: Mae ein credoau ynghylch pwy sy'n haeddu nefoedd yn llunio'n uniongyrchol pwy yr ydym yn ei dderbyn neu'n ei eithrio ar y Ddaear. Credai'r gwladychwyr Portiwgalaidd ym Mrasil nad oedd gan bobl Ddu eneidiau; roedd y gred honno'n cyfiawnhau caethwasiaeth. Os oeddech chi'n frodorol, os cawsoch eich geni yn y lle anghywir neu os oeddech chi'n caru'r person anghywir, rydych chi'n dal i gael gwybod hyd heddiw fod drysau'r nefoedd wedi'u cau i chi. A oes gweledigaeth o'r dyfodol nad yw'n cael ei llenwi gan wrthod?",
+    "paragraph4": "Dyna sut y ganwyd Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Ffeithiau Allweddol",
+    "artist": "<strong>Artist:</strong> Edson Pavoni (Brasil)",
+    "projectType": "<strong>Math o Brosiect:</strong> Gwaith celf lloeren, safle-benodol ar y gofod, defod ar y we",
+    "launchDate": "<strong>Dyddiad Lansio:</strong> 28 Tachwedd, 2025",
+    "launchLocation": "<strong>Lleoliad Lansio:</strong> Canolfan Ofod Satish Dhawan, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Lloeren:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> uchder o 525km, cydamserol â&#39;r Haul",
+    "participation": "<strong>Cyfranogiad:</strong> Am ddim, ar agor i bawb yn fyd-eang",
+    "namesSent": {
+      "heading": "<strong>Enwau a Anfonwyd i Orbit:</strong>",
+      "caption": "<em>Cyfrif byw wedi&#39;i ddiweddaru o&#39;r gronfa ddata • Wedi&#39;i adnewyddu ddiwethaf: {dyddiad}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Gwobrau a Chydnabyddiaeth",
+    "mercosul": {
+      "title": "<strong>13eg Biennal Mercosur</strong> (2022)",
+      "location": "Porto Alegre, Brasil",
+      "curator": "Wedi'i guradu gan Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Gwobr Lumen 2022 - Gwobr y Dyfodol</strong>",
+      "status": "Rhestr hir"
+    },
+    "cubeDesign": {
+      "title": "<strong>Cystadleuaeth CubeDesign 2021</strong>",
+      "award": "Enillydd - Categori ArtSat",
+      "org": "Hyrwyddwyd gan Sefydliad Ymchwil Gofod Brasil (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Tîm",
+    "content": "Mae Orbital Temple yn cael ei greu ar y cyd â Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Vidigal R. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, a phawb sy'n parhau i awgrymu enwau ar gyfer y deml hon."
+  },
+  "pressCoverage": {
+    "heading": "Wedi'i gynnwys yn / Sylw yn y Wasg",
+    "paragraph1": "<em>Bydd sylw a nodweddion yn y wasg yn cael eu hychwanegu wrth iddynt ddod ar gael. Am y diweddariadau diweddaraf, cysylltwch â&#39;n tîm wasg.</em>",
+    "paragraph2": "Mae arddangosfeydd a nodweddion blaenorol yn cynnwys cyflwyniadau yn 13eg Bienal Mercosul, cydnabyddiaeth gan Wobr Lumen, a dewis gan Sefydliad Ymchwil Gofod Brasil (INPE)."
+  },
+  "images": {
+    "heading": "Delweddau Cydraniad Uchel i'w Defnyddio gan y Wasg",
+    "intro": "Mae'r holl ddelweddau ar gael i'w defnyddio'n olygyddol. Cliciwch ar unrhyw ddelwedd i lawrlwytho'r ffeil cydraniad uchel.",
+    "installationPhotos": {
+      "heading": "Lluniau o Deml Orbitol",
+      "credit": "Rhowch gredyd i: \"Llun gan Clara Marques / Trwy garedigrwydd Edson Pavoni, Orbital Temple\"",
+      "view01": "Golwg Gosod 01<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (1.4 MB)",
+      "view02": "Golwg Gosod 02<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (2.9 MB)",
+      "view03": "Golwg Gosod 03<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (11 MB)",
+      "view04": "Golwg Gosod 04<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (3.4 MB)",
+      "view05": "Golwg Gosod 05<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (3.3 MB)",
+      "view06": "Golwg Gosod 06<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (3.7 MB)",
+      "view07": "Golwg Gosod 07<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (3.4 MB)",
+      "view08": "Golwg Gosod 08<br /> Llun: Clara Marques<br /> ↓ Lawrlwytho Cydraniad Uchel (2.7 MB)",
+      "satelliteDesign": "Dylunio Lloeren<br /> ↓ Lawrlwytho",
+      "antennaSculpture": "Antena/Cerflun<br /> ↓ Lawrlwytho"
+    },
+    "renders": {
+      "heading": "Rendradau Teml Orbitol",
+      "credit": "Rendradau 3D cysyniadol o Orbital Temple. Rhowch gredyd i: \"Rendra 3D gan RiseNY&Partners / Trwy garedigrwydd Edson Pavoni, Orbital Temple\"",
+      "render01": "Rendro 3D 01<br /> RiseNY&amp;Partneriaid<br /> ↓ Lawrlwytho Cydraniad Uchel (10 MB)",
+      "render02": "Rendro 3D 02<br /> RiseNY&amp;Partneriaid<br /> ↓ Lawrlwytho Cydraniad Uchel (5.9 MB)",
+      "render03": "Rendro 3D 03<br /> RiseNY&amp;Partneriaid<br /> ↓ Lawrlwytho Cydraniad Uchel (5.2 MB)",
+      "render04": "Rendro 3D 04<br /> RiseNY&amp;Partneriaid<br /> ↓ Lawrlwytho Cydraniad Uchel (11 MB)",
+      "render05": "Rendro 3D 05<br /> RiseNY&amp;Partneriaid<br /> ↓ Lawrlwytho Cydraniad Uchel (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Lluniau Artistiaid",
+      "photo1": "Llun 1<br /> ↓ Lawrlwytho Cydraniad Uchel",
+      "photo2": "Llun 2<br /> ↓ Lawrlwytho Cydraniad Uchel"
+    },
+    "sathiPhotos": {
+      "heading": "Lluniau Sathi Roy",
+      "photo1": "Llun 1<br /> ↓ Lawrlwytho Cydraniad Uchel (843 KB)",
+      "photo2": "Llun 2<br /> ↓ Lawrlwytho Cydraniad Uchel (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Manylebau Technegol",
+    "satellite": {
+      "heading": "Lloeren",
+      "dimensions": "Dimensiynau: 50 x 58 x 64 mm",
+      "classification": "Dosbarthiad: 1P PocketQube",
+      "weight": "Pwysau: 245g",
+      "materials": "Deunyddiau: Alwminiwm, aur, gwydr ffibr, cydrannau electronig",
+      "orbit": "Orbit: Uchder 525 ± 25 km; Gogwydd: SSO 97.6 ± 0.1°",
+      "launch": "Lansio: 28 Tachwedd, 2025 trwy ISRO, India"
+    },
+    "antenna": {
+      "heading": "Antena/Cerflun",
+      "dimensions": "Dimensiynau: 6m o ddiamedr x 1.2m o uchder",
+      "weight": "Pwysau: 46 kg",
+      "materials": "Deunyddiau: Alwminiwm, bwrdd drych epocsi, cromen alwminiwm euraidd wedi'i hongian trwy strwythur sgaffaldiau"
+    },
+    "radio": {
+      "heading": "Manylebau Radio",
+      "downlink": "Cyswllt i Lawr: 437 MHz",
+      "status": "Statws Lansio: Wedi'i drefnu ar gyfer Tachwedd 28, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Adnoddau Ychwanegol",
+    "artwork": "→ Gweld Dogfennaeth Celfwaith",
+    "howItWorks": "→ Sut Mae'n Gweithio",
+    "technicalInfo": "→ Gwybodaeth Dechnegol",
+    "spaceLaunch": "→ Gwybodaeth Lansio Gofod",
+    "ritual": "→ Profi’r Ddefod"
+  },
+  "imageAlts": {
+    "installation": "Gosod Teml Orbitol gan Edson Pavoni",
+    "satelliteDesign": "Dyluniad Lloeren Teml Orbitol",
+    "antenna": "Cerflun Antena Teml Orbitol",
+    "render": "Rendro 3D Teml Orbitol gan RiseNY&Partners",
+    "edsonPortrait": "Portread Edson Pavoni",
+    "sathiPortrait": "Portread Sathi Roy",
+    "lumenPrize": "Gwobr Lumen",
+    "mercosulBienal": "Biennal Mercosur"
+  }
+}

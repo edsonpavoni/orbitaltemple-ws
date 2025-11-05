@@ -1,0 +1,43 @@
+{
+  "title": "Education & Open Source - Malumalu Orbital",
+  "heading": "Education & Open Source",
+  "intro": {
+    "paragraph1": "O tekinolosi uma ua atiae mo le misiona o le Malumalu o Orbital o le a <strong>tatala</strong> ma maua i luga o le initaneti i le <strong>gagana Potukale</strong> , <strong>Igilisi</strong> , <strong>Sipaniolo</strong> , ma <strong>le Hindi</strong> , e faʻaleleia ai le alualu i luma o suʻesuʻega o le vanimonimo i le <strong>Global South</strong> . O misiona fou ma galuega faatino e mafai ona faʻaogaina le Orbital Temple e fai ma faʻavae mo a latou lava faʻataʻitaʻiga faʻataʻitaʻiga poʻo faʻasaienisi.",
+    "paragraph2": "I le avea ai o se vaega o lana misiona faaleaoaoga, o le Orbital Temple o le a ofoina atu se aʻoaʻoga gagana eseese i le auala e fausia ma faʻalauiloa ai se satelite. O le a avea ma avanoa lima e aʻoaʻo ai e uiga i tekonolosi satelite ma faʻatino. Soʻo se tasi i luga atu o le <strong>16</strong> tausaga o le a mafai ona fausia a latou lava satelite, aʻoaʻo e uiga i le tala faasolopito o faatufugaga i le vanimonimo, faʻavae autu o mea tau eletise, faʻainisinia ma faʻasaienisi avanoa, e aofia ai le faʻatupeina o poloketi ma le auala e fausia ai se antenna e fesoʻotaʻi ma satelite i le taamilosaga."
+  },
+  "spaceGap": {
+    "heading": "Aisea e Taua ai Lenei: Ole Avanoa Avanoa",
+    "paragraph1": "O le faaupuga <strong>&quot;Space Gap&quot;</strong> o loʻo faʻatatau i le vaeluaga i le va o atunuʻu atiaʻe e mafai ona maua avanoa faʻatekonolosi e maua mai i suʻesuʻega o le vanimonimo, ma atunuʻu atinaʻe e le mafai ona maua nei tekinolosi. Atunu&#39;u i le Global South e tatau ona totogi se aofaiga tele i malo mai fafo poʻo kamupani mo avanoa masani i faʻamatalaga na gaosia e tekinolosi satelite.",
+    "paragraph2": "E maua ai e tekinolosi avanoa taua tele: satelite e fesoasoani e tetee atu i le ta&#39;iina o laau faasolitulafono, faigafaiva faasolitulafono, ma fefaataua&#39;iga o meaola faalafua, lea e sili atu i <strong>le $73 piliona i le tausaga</strong> . Latou te tuʻuina atu faʻamatalaga taua e uiga i le tau, gaosiga o le suavai, ma le saogalemu o meaʻai. Satelite e mafai ai ona fa&#39;asusu sa&#39;o ma faiga fa&#39;ato&#39;aga, ma fesoasoani e puipuia fa&#39;alavelave fa&#39;alenatura. Ole alamanuia avanoa e mafai ona fa&#39;atupuina ile <strong>1 miliona galuega</strong> ile <strong>2030</strong> , ae o nei avanoa e le mafai ona maua e le to&#39;atele i le Global South.",
+    "paragraph3": "E ala i le tuʻuina atu o tekonolosi ma aʻoaʻoga, matou te faʻamoemoe e faʻatemokalasi avanoa i avanoa ma faʻamalosia se tupulaga fou e miti i tua atu o le lagi."
+  },
+  "empowering": {
+    "heading": "Fa'amalosia le Tupulaga e Sosoo ai",
+    "intro": "O le a matou aʻoaʻoina le isi augatupulaga o tagata suʻesuʻe avanoa e fau ma faʻalauiloa a latou lava satelite, e aofia ai autu taua e aofia ai:",
+    "topics": {
+      "history": "<strong>Tala&#39;aga o faatufugaga i le vanimonimo:</strong> Malamalama i le gafa o satelite faʻataʻitaʻi ma galuega faʻavae avanoa.",
+      "concepts": "<strong>Manatu autu:</strong> <strong>ArtSat</strong> (satelite faatufugaga), <strong>Open Source</strong> space technology, ma le <strong>Space Gap</strong> .",
+      "missions": "<strong>Misiona avanoa:</strong> Faʻafefea ona faʻavasega ma mamanuina se misiona, ma faʻafefea ona fausia se &#39;au e faʻatino.",
+      "electronics": "<strong>Fa&#39;aeletonika i le vanimonimo:</strong> Manatu fa&#39;avae o vaega fa&#39;aeletoroni e mafai ona ola ma galue i le si&#39;osi&#39;omaga avanoa.",
+      "mechanics": "<strong>Mechanics i le vanimonimo:</strong> Malamalama i le fausaga ma masini manaʻomia mo le mamanu satelite.",
+      "orbits": "<strong>Ta&#39;amilosaga ma fa&#39;alatalata:</strong> &#39;ese&#39;ese ituaiga o ta&#39;amilosaga ma pe fa&#39;apefea ona filifili tagata fa&#39;alauiloa mo lau misiona.",
+      "financing": "<strong>Fuafuaga faʻatupe:</strong> Faʻafefea ona faʻamautinoa tupe ma punaoa e faʻalauiloa ai lau satelite. O le vasega o le a maua ai punaoa mo le mauaina o tupe mo lau faʻalauiloa, fesoasoani i tamaiti aʻoga e suʻe polokalame ma foaʻi mai faʻalapotopotoga faʻavaomalo e lagolago ai saienitisi talavou ma tamaiti aʻoga i le lafoina o latou satelite i le vanimonimo.",
+      "groundStation": "<strong>Atina&#39;e nofoaga o le eleele:</strong> Fa&#39;afefea ona fau se antenna e feso&#39;ota&#39;i ai ma le Malumalu o Orbital ma isi satelite."
+    }
+  },
+  "technology": {
+    "heading": "Le Tekinolosi: PocketQube Satellites",
+    "paragraph1": "O le a aʻoaʻoina tamaiti aʻoga e galulue faʻatasi ma satelite <strong>PocketQube</strong> , o se faʻataʻitaʻiga nanosatellite e naʻo <strong>le 5cm³</strong> ma le mamafa e oʻo atu i <strong>le 250g</strong> . E ui lava i lo latou laʻititi, PocketQubes o meafaigaluega mamana e mafai ona mataʻituina le lalolagi, mataʻituina, ma fesoʻotaʻiga.",
+    "paragraph2": "O nei satelite fa'apitoa e tele fa'aoga moni i le lalolagi, mai su'esu'ega fa'asaienisi i suiga o le tau e o'o atu i feso'ota'iga va'ava'ai. Ona e laʻititi ma mama, e sili atu le taugofie e fausia ma faʻalauiloa, faʻafaigofie avanoa mo tamaiti aʻoga, tagata suʻesuʻe, ma tusiata i le lalolagi atoa."
+  },
+  "globalAccess": {
+    "heading": "Avanoa i le Lalolagi, Amata mai le Global South",
+    "paragraph1": "O le a avanoa le kosi mo so&#39;o se tasi <strong>e 16 tausaga pe sili atu</strong> , <strong>e leai se totogi</strong> atoa. Ua matou amata i mataupu i <strong>le gagana Potukale</strong> , <strong>Sipaniolo</strong> , <strong>Igilisi</strong> , ma <strong>le Hindi</strong> , faatasi ai ma fuafuaga e faalautele atu i isi gagana a o faatupulaia le polokalame.",
+    "paragraph2": "O la matou misiona e amata i le Global South ma faʻalautele atu i le lalolagi, faʻamautinoa o le isi augatupulaga o tagata suʻesuʻe avanoa e sau mai tulimanu uma o le Lalolagi."
+  },
+  "callToAction": {
+    "heading": "Fesoasoani ia Matou Faia Lenei Mea",
+    "content": "O lenei polokalame a&#39;oa&#39;oga o lo&#39;o atina&#39;e nei. O loʻo matou sailia ni paaga ma tagata foaʻi e tutusa la matou vaʻaiga i le faʻatemokalasi o avanoa i tekinolosi avanoa. Afai e te mana&#39;o po&#39;o lau fa&#39;alapotopotoga e lagolagoina lenei fa&#39;amoemoe, fa&#39;amolemole asiasi i la matou <a href=\"/support\">itulau lagolago</a> e a&#39;oa&#39;o ai avanoa fa&#39;apa&#39;aga."
+  },
+  "imageAlt": "Satelite Malumalu Orbital"
+}

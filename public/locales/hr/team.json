@@ -1,0 +1,61 @@
+{
+  "title": "Tim - Orbitalni hram",
+  "heading": "Momčad",
+  "artist": "Edson Pavoni, umjetnik",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Izvršni producent",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Zrakoplovno i sistemsko inženjerstvo",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista i João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektroničko inženjerstvo",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Softver",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Dizajn i arhitektura",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D ispis",
+      "members": "Solid Concepts, pod vodstvom Eduarda Diasa"
+    },
+    "rendering": {
+      "heading": "3D renderiranje",
+      "members": "Guilherme Bullejos & RiseNy&Partneri"
+    },
+    "research": {
+      "heading": "Istraživanje",
+      "members": "Roberta Savian Rosa i Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produkcija izložbi, fotografija i kreiranje sadržaja",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Svileni sitotisak izložbe",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Obrazovni projekt",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Komunikacijski tim",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Posebna zahvala",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini i Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitalni hramski satelit"
+}

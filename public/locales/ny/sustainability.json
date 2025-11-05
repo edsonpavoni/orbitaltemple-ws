@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Orbital Temple",
+  "heading": "Kukhazikika",
+  "intro": {
+    "paragraph1": "Ngati luso lititsogolere m’tsogolo, silinganyalanyaze mavuto amene timakumana nawo—kugwa kwa chilengedwe, kusagwirizana pakati pa anthu, ndi vuto lomwe likukulirakulira la zinyalala za m’mlengalenga. Orbital Temple idapangidwa ndikuganizira izi, ndicholinga chofuna kukhalapo mwanzeru padziko lapansi komanso mozungulira.",
+    "paragraph2": "Timakhulupirira kuti kukhazikika sizovuta koma gawo lofunikira la masomphenya athu aumisiri. Lingaliro lililonse lokhudza zida, kanjira, ndi magwiridwe antchito likuwonetsa kudzipereka kwathu kusiya dziko lapansi ndi mlengalenga kuposa momwe tidazipezera."
+  },
+  "spaceDebris": {
+    "heading": "Zinyalala Zam'mlengalenga",
+    "paragraph1": "Zinyalala zam'mlengalenga ndi imodzi mwazovuta zomwe zimakumana ndi kufufuza zakuthambo. Zikwi zambiri za ma satellites ndi zidutswa zomwe zidatha zimazungulira Dziko lapansi, kuwopseza ntchito zomwe zikugwira ntchito ndikupanga kutsika komwe kungapangitse njira zina kukhala zosagwiritsidwa ntchito.",
+    "paragraph2": "Orbital Temple imalongosola izi m'njira zingapo:",
+    "list": {
+      "orbit": "<strong>Kuzungulira kwa dzuwa pa 525 km:</strong> Kutalika kumeneku kumapangitsa kuti mlengalenga azikoka kuchititsa kuti satelayiti ilowenso mumlengalenga wa Dziko lapansi mkati mwa zaka 10, komwe idzawotchedwa. Sitikuthandizira ku zinyalala zanthawi yayitali.",
+      "size": "<strong>Mapangidwe a PocketQube:</strong> Pa 50 × 58 × 64mm ndi 245g, satellite ndi yaying&#39;ono mokwanira kuti isungunuke polowanso, osasiya zinyalala padziko lapansi.",
+      "responsibility": "<strong>Palibe kutha ntchito komwe kunalinganizidwa:</strong> Mosiyana ndi ma satelayiti azamalonda omwe atha kusiyidwa, Orbital Temple idapangidwa kuti ikhale yocheperako mwachilengedwe, kukwaniritsa malangizo apadziko lonse lapansi okhudza zochitika zakuthambo."
+    },
+    "paragraph3": "Posankha kanjira kakang'ono ka Earth ndi kamangidwe kakang'ono, timaonetsetsa kuti kupezeka kwa Orbital Temple mumlengalenga ndi kwakanthawi komanso kosadetsa."
+  },
+  "carbonNeutrality": {
+    "heading": "Kusalowerera ndale kwa Carbon",
+    "content": "Mpweya wonse wa kaboni wokhudzana ndi kachisi wa Orbital-kuphatikiza kupanga satellite, kuyambitsa, ntchito zapansi, kuchititsa mawebusayiti, komanso kuyenda kwamagulu - zidzathetsedwa kwathunthu kudzera pamapulogalamu otsimikizika a carbon credit. Tadzipereka kuti ntchitoyi ikhale yosalowerera ndale."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Kukhazikika kumatanthauzanso kusawononga chidziwitso. Chilichonse chaukadaulo cha Orbital Temple — schematics, code, njira zoyankhulirana, ndi njira zomangira — zisindikizidwa ngati zolemba zotseguka.",
+    "paragraph2": "Izi zimathandiza kuti ntchito zamtsogolo zikhazikike pa ntchito yathu m'malo mongoyambira pachimake, kuchepetsa kafukufuku wosafunika ndi chitukuko. Imakhazikitsa demokalase mwayi wopeza umisiri wamlengalenga, makamaka kwa anthu aku Global South omwe kale sanatchulidwepo pakufufuza zakuthambo."
+  },
+  "educational": {
+    "heading": "Zokhudza Maphunziro",
+    "paragraph1": "Pulogalamu yathu yaulere yophunzitsa zinenero zambiri imaphunzitsa ophunzira padziko lonse momwe angapangire ndi kuyambitsa ma satelayiti, molunjika ku Global South. Popatsa mphamvu m'badwo wotsatira ndi luso laukadaulo wamlengalenga, timathandizira kutseka \"Space Gap\" ndikupanga mipata yomwe sikanakhalapo.",
+    "paragraph2": "Ntchito yophunzitsa iyi yokha ndi njira yokhazikika - kuyika ndalama mwa anthu ndi madera kuti apange kusintha kosatha kupitilira moyo wa satellite."
+  },
+  "tenYear": {
+    "heading": "Ntchito Yazaka 10",
+    "paragraph1": "Orbital Temple idapangidwa kuti izigwira ntchito kwazaka khumi, osati kungolengeza mwachidule. Pazaka khumi, satelayiti idzazungulira Dziko lapansi pafupifupi nthawi za 50,000, kulandira mayina ndi chikumbutso kuti danga likhoza kukhala lofanana, lofikiridwa ndi aliyense.",
+    "paragraph2": "Ntchito yake ikatha, satelayitiyo mwachilengedwe idzadumpha ndikuwotcha, osasiya tsatanetsatane kupatula kukumbukira ndi zolemba za omwe adatenga nawo gawo."
+  },
+  "artsResponsibility": {
+    "heading": "Udindo wa Art",
+    "paragraph1": "Zojambulajambula nthawi zonse zakhala galasi la nthawi yake, zomwe zimasonyeza zomwe timakonda komanso zokhumba zathu. Munthawi yamavuto anyengo komanso kusalingana komwe kukukulirakulira, timakhulupirira kuti ojambula ali ndi udindo wopanga ntchito zomwe sizimangopereka ndemanga pazifukwa izi koma kuthana nazo mwachangu.",
+    "paragraph2": "Orbital Temple ndiye kuyesa kwathu kupanga chojambula chomwe chili chokhazikika pakuphatikiza kwake, chomwe chili ndi udindo pazokhudza chilengedwe, komanso mowolowa manja pogawana chidziwitso chake ndi dziko lapansi. Ndi luso lomwe limapempha aliyense kutenga nawo mbali kwinaku akulemekeza machitidwe osalimba - chilengedwe ndi orbital - zomwe zimapangitsa moyo ndi kufufuza kukhala kotheka."
+  },
+  "imageAlt": "Satellite ya Orbital Temple"
+}

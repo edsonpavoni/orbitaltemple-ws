@@ -1,0 +1,61 @@
+{
+  "title": "Sgioba - Teampall Orbital",
+  "heading": "Sgioba",
+  "artist": "Edson Pavoni, neach-ealain",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Riochdaire Gnìomhach",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Innleadaireachd Aerospace & Shiostaman",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Innleadaireachd Dealanach",
+      "members": "André Bigioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Bathar-bog",
+      "members": "Ionatan Cherubina"
+    },
+    "design": {
+      "heading": "Dealbhadh agus Ailtireachd",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Clò-bhualadh 3D",
+      "members": "Bun-bheachdan Soladach, fo stiùireadh Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rendering 3D",
+      "members": "Guilherme Bullejos & RiseNy & Partners"
+    },
+    "research": {
+      "heading": "Rannsachadh",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Riochdachadh Taisbeanaidh, Dealbhan & Cruthachadh Susbaint",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Sgrionadh sìoda an taisbeanaidh",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Pròiseact Foghlaim",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Sgioba Conaltraidh",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Taing shònraichte",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Tavail Vidigal, Andre Holzmeister Cairo, Conceitos Solidos, RiseNY & Partners, IdeaSpace",
+  "imageAlt": "Saideal Teampall Orbital"
+}

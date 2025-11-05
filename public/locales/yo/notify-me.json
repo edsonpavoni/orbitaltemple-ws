@@ -1,0 +1,13 @@
+{
+  "title": "Jẹ iwifunni - Orbital Temple",
+  "heading": "Ṣe iwifunni Nigbati O Dide",
+  "description": "Ni Oṣu kọkanla ọjọ 28, Ọdun 2025, Tẹmpili Orbital yoo goke.<br> Fi imeeli rẹ silẹ, ati pe a yoo sọ fun ọ nigbati o ba de aaye.",
+  "form": {
+    "emailPlaceholder": "rẹ@email.com",
+    "sendButton": "Firanṣẹ",
+    "sendingButton": "Fifiranṣẹ...",
+    "successMessage": "A yoo de ọdọ rẹ nigbati o ba goke.",
+    "errorMessage": "Nkankan ti ko tọ. Jọwọ gbiyanju lẹẹkansi."
+  },
+  "backLink": "← Pada si kika"
+}

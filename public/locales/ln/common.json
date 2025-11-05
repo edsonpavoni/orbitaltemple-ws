@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "mosala ya mayemi",
+    "sendAName": "tinda kombo",
+    "fromTheArtist": "uta na moyemi",
+    "yetAnotherTemple": "nzokande, tempelo mosusu?",
+    "howItWorks": "ndenge esalaka",
+    "spaceLaunch": "lancement spatial mpe ba risques",
+    "briefHistory": "histoire mokuse ya art na espace",
+    "education": "mateya & source ouverte",
+    "sustainability": "durability mpe ba débris ya espace",
+    "press": "presse & ba médias",
+    "team": "ekipe",
+    "partners": "ba partenaires",
+    "support": "lisungi",
+    "technicalInfo": "info technique"
+  },
+  "ritual": {
+    "label": "molulu ya kosala",
+    "ariaLabel": "Kota na molulu - Tinda kombo na Temple Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple ezali mosala ya ntɔki ya Edson Pavoni, oyo esalemi na boyokani na Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, mpe bato nyonso oyo bazali kokoba kotinda bankombo na tempelo oyo."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Be Notified - Orbital Temple",
+  "heading": "Ziviswe Kana Yasimuka",
+  "description": "Musi waMbudzi 28, 2025, Temberi yeOrbital ichakwira.<br> Siya email yako, uye isu tichakuudza kana yasvika munzvimbo.",
+  "form": {
+    "emailPlaceholder": "yako@email.com",
+    "sendButton": "Send",
+    "sendingButton": "Kutumira...",
+    "successMessage": "Tichasvika kwauri kana yakwira.",
+    "errorMessage": "Pane chakaipa. Ndapota edza zvakare."
+  },
+  "backLink": "← Kudzokera kuverengera pasi"
+}

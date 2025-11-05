@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "pandan w ap antre\nnan yon seremoni\n\npou voye yon non\nnan\ntanp orbital la\nnan espas\n\npran\nyon souf",
+    "button": "Mwen pare"
+  },
+  "nameInput": {
+    "title": "tape yon non",
+    "subtitle": "li pral monte nan Tanp Òbital la nan espas.",
+    "placeholder": "non",
+    "button": "kite l monte"
+  },
+  "emailInput": {
+    "title": "tape imèl ou",
+    "subtitle": "konsa ou resevwa yon mesaj lè non an monte.",
+    "placeholder": "imèl ou",
+    "button": "li fini"
+  },
+  "loading": {
+    "alt": "Ap chaje"
+  },
+  "success": {
+    "text": "Non\n{{name}}\nan liy kounye a\npou asansyon.\n\nlè\ntanp lan nan espas\naliyen, ak\nantèn nou an\nsou Latè\n\nnou pral voye\nnon an\nepi ou pral resevwa\nyon mesaj."
+  }
+}

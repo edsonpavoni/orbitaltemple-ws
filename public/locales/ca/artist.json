@@ -1,0 +1,44 @@
+{
+  "title": "De l'artista",
+  "opening": {
+    "question": "Qui és aquest paio per proposar un temple a l'espai?",
+    "thanks": "Gràcies per la pregunta.",
+    "answer": "La resposta curta és que sóc un artista. La resposta llarga és aquesta:"
+  },
+  "origin": {
+    "sao_paulo": "Vaig néixer als afores de São Paulo, en un barri que em va ensenyar de petit què significa el perill. Molts dels meus amics de l'escola són ara a la presó. El meu padrastre és a la presó. La violència no era una cosa sobre la qual llegís, era el món pel qual havia de navegar. I sabia que havia d'escapar.",
+    "technology": "La tecnologia va ser la meva via d'escapament. Vaig aprendre a programar, vaig aprendre electrònica d'adolescent. El codi era un llenguatge que em podia portar a un altre lloc. Treballar amb la tecnologia va ser la meva via d'escapament de la pobresa.",
+    "christianity": "Però també buscava pertinença, amor, alguna cosa en què creure. Vaig trobar el cristianisme, o ell em va trobar a mi. Em van acceptar. Em van estimar. Tenia una comunitat. Vaig aprendre a perdonar, a creure, a avançar junts per un propòsit més gran.",
+    "price": "El preu, però, va ser alt. També vaig aprendre moltes coses que encara estic desaprenent. Així que també vaig escapar d'això."
+  },
+  "searching": {
+    "walls": "Sé què fan els murs. Els he sentit. He estat a tots dos bàndols: exclosa, exclosa. El que va seguir van ser anys de recerca d'alguna cosa que no podia anomenar. Déu va morir durant aquells anys. El déu del qual m'havien parlat, si més no, aquell amb normes, judicis i portes que només s'obrien per a algunes persones.",
+    "art": "Vaig començar a fer art per explorar aquestes preguntes: sobre la intimitat i la tecnologia, sobre la memòria i la mort, sobre qui es mereix el cel. Vaig començar a construir màquines que reimaginen la nostra relació amb la tecnologia, màquines que necessiten la teva participació, la teva presència, el teu nom, per transformar-se de metall i codi en alguna cosa viva."
+  },
+  "pandemic": {
+    "intro": "Aleshores, la pandèmia va afectar el Brasil.",
+    "government": "Quan es van retardar les vacunes contra la COVID, el meu govern negociava suborns d'un dòlar per dosi. Promovien medicaments que es consideraven ineficaços, rient mentre la gent moria amb dificultats per respirar. Ens despertàvem cada dia amb una xifra diferent. Quanta gent va morir en les últimes 24 hores? Va ser més o menys del que s'esperava?",
+    "war": "La meitat del món tenia por, i l'altra meitat estava en negació. Estàvem en guerra, amb el virus i entre nosaltres.",
+    "memorial": "Volia crear un espai per al dol col·lectiu, així que juntament amb centenars de persones vaig crear el Memorial Inumeráveis. Una obra d'art a la intersecció de l'art i el periodisme. Vam entrevistar famílies que havien perdut algú. Vam escriure la història de vida de la persona que havien perdut. Vam transformar números en històries. Es van crear poemes, cançons, simfonies amb aquestes històries. Les estrelles van llegir aquestes històries a la televisió nacional. El projecte va arribar a milions de persones.",
+    "meaning": "El que importava no era l'escala, sinó que cada història era un nom, una vida, el cel d'algú."
+  },
+  "discovery": {
+    "pattern": "Després de més de deu mil converses amb dol, va començar a emergir un patró. Quan parlem d'algú que ha mort, no només diem coses bones; seleccionem fragments de la seva història com si estiguéssim escrivint una carta de recomanació. Una recomanació al guardià del paradís. Fem tot el possible per enviar-los a un lloc d'acceptació, descans, honor i record.",
+    "understanding": "I vaig entendre una cosa que ho va canviar tot: hem estat ferits pels mateixos temples que vam construir. Les nostres creences sobre qui mereix el cel influeixen directament en qui excloem a la Terra. Els colonitzadors portuguesos del Brasil creien que els negres no tenien ànima; aquesta creença justificava l'esclavitud. Si eres indígena, si havies nascut al lloc equivocat o estimaves la persona equivocada, et deien que les portes del cel estaven tancades per a tu.",
+    "birth": "Així va néixer Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Cap artista pot ser veritablement secular. Estem lligats per sempre al nostre avantpassat comú, el xaman. Al principi, hi havia una cova. Els humans pintaven animals a les parets no per decorar, sinó per invocar. Ballaven i la cova es va convertir en un temple. El xaman exerceix l'esperit del ritual; l'artista exerceix l'aura de l'art. Pintem, esculpim, codifiquem, dissenyem el nostre futur desitjat no per decorar, sinó per invocar. Tot art és espiritual, fins i tot quan afirma no ser-ho."
+  },
+  "space": {
+    "question": "On podríem construir un temple sense murs? On cap nació o religió no pogués reclamar-ho. On poguéssim imaginar-nos com un sol grup.",
+    "answer": "Espai.",
+    "description": "Un satèl·lit d'art participatiu del Sud Global. Un temple en òrbita que convida tothom a enviar els seus noms a l'espai, independentment de qui siguin, on hagin nascut, a qui estimin, en què creguin. Un lloc on la inclusió radical sigui possible, en òrbita, més enllà de les fronteres.",
+    "mission": "Aquesta missió és de codi obert. Cada document tècnic, cada línia de codi estarà disponible gratuïtament perquè altres artistes, altres comunitats, altres nacions puguin construir els seus propis satèl·lits. Així, el Sud Global no només participa en l'exploració espacial, sinó que la lidera."
+  },
+  "closing": {
+    "answer": "Així doncs, qui és aquest paio per construir un temple a l'espai? Jo no el construeixo. El temple el construeix tothom que decideix enviar un nom, veure'l com a sagrat, fer-lo real. Jo només sóc qui ho proposa. Tu ets qui el construeix si ho decideixes.",
+    "signature": "Amablement,",
+    "name": "Edson Pavoni"
+  }
+}

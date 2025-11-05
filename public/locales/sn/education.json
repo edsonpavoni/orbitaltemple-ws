@@ -1,0 +1,43 @@
+{
+  "title": "Dzidzo & Yakavhurika Source - Orbital Tembere",
+  "heading": "Dzidzo & Open Source",
+  "intro": {
+    "paragraph1": "Tekinoroji yese yakagadziridzwa kumishini yeOrbital Temple ichave <strong>yakavhurika</strong> uye ichiwanikwa online <strong>muchiPutukezi</strong> , <strong>Chirungu</strong> , <strong>Spanish</strong> <strong>neHindi</strong> , zvichikurudzira kufambiswa mberi kwekuongorora muchadenga muGlobal <strong>South</strong> . Misheni mitsva nemapurojekiti anogona kushandisa Orbital Tembere sehwaro hwezviedzo zvavo zvehunyanzvi kana zvesainzi.",
+    "paragraph2": "Sechikamu chebasa rayo rekudzidzisa, Orbital Tembere ichapa kosi yemahara yemitauro yakawanda yekuvaka nekutanga setiraiti. Ichave iri maoko-pane mukana wekudzidza nezve satellite tekinoroji uye nekuiisa mukuita. Chero ani zvake ari pamusoro pemakore <strong>gumi nematanhatu</strong> achakwanisa kuzvivakira setiraiti yake, kudzidza nezve nhoroondo yehunyanzvi muchadenga, pfungwa dzakakosha dzemagetsi, makanika uye sainzi yemuchadenga, kusanganisira mashandisirwo emari mapurojekiti uye magadzirirwo ekugadzira antenna yekutaurirana nemasatelliti mu orbit."
+  },
+  "spaceGap": {
+    "heading": "Nei Izvi Zvichikosha: Iyo Space Gap",
+    "paragraph1": "Izwi rekuti <strong>&quot;Space Gap&quot;</strong> rinoreva kupatsanurana pakati penyika dzakabudirira dzinokwanisa kuwana mikana yetekinoroji inowanikwa kuburikidza nekuongorora muchadenga, uye nyika dzichiri kusimukira dzisingakwanisi kuwana matekinoroji aya. Nyika dziri muGlobal South dzinofanirwa kubhadhara mari yakawanda kuhurumende dzekunze kana makambani kuti vawane ruzivo rwekutanga neruzivo rwunogadzirwa nesatellite tekinoroji.",
+    "paragraph2": "Tekinoroji yemuchadenga inopa mabhenefiti akakosha: masetiraiti anobatsira kurwisa kutema matanda zvisiri pamutemo, kuredza zvisiri pamutemo, uye kutengeserana kwemhuka dzesango kusiri pamutemo, izvo zvinomiririra <strong>mari inodarika mabhiriyoni makumi manomwe nematatu pagore</strong> . Vanopa ruzivo rwakakosha nezvemamiriro ekunze, kugadzirwa kwemvura, uye kuchengetedza chikafu. Satellite inogonesa kudiridza uye nzira dzekurima, uye anobatsira kudzivirira njodzi dzinongoitika dzoga. Indasitiri yemuchadenga inogona kugadzira <strong>mabasa anosvika miriyoni imwe</strong> panosvika <strong>2030</strong> , asi mikana iyi inoramba isingasvikike kune vakawanda muGlobal South.",
+    "paragraph3": "Nekupa yakavhurika-sosi tekinoroji uye dzidzo, isu tinovavarira kuita demokrasi kuwana nzvimbo uye kupa simba chizvarwa chitsva kurota kupfuura denga."
+  },
+  "empowering": {
+    "heading": "Kupa Simba Chizvarwa Chinotevera",
+    "intro": "Isu tichadzidzisa chizvarwa chinotevera chevaongorori venzvimbo mavakirwo nekutanga masatellite avo, achivhara misoro yakakosha inosanganisira:",
+    "topics": {
+      "history": "<strong>Nhoroondo yehunyanzvi muchadenga:</strong> Kunzwisisa mutsara wemasatelliti ehunyanzvi uye nzvimbo-yakavakirwa mifananidzo.",
+      "concepts": "<strong>Core concepts:</strong> <strong>ArtSat</strong> (artistic satellites), <strong>Open Source</strong> space tekinoroji, uye iyo <strong>Space Gap</strong> .",
+      "missions": "<strong>Space mishoni:</strong> Maitiro ekufunga uye kugadzira mishoni, uye maitiro ekugadzira timu kuti iite.",
+      "electronics": "<strong>Electronics munzvimbo:</strong> Mafungiro akakosha ezvikamu zvemagetsi zvinogona kurarama uye kushanda munzvimbo yenzvimbo.",
+      "mechanics": "<strong>Mechanics ari muchadenga:</strong> Kunzwisisa zvimiro uye zvemichina zvinodiwa zvekugadzira setiraiti.",
+      "orbits": "<strong>Orbits uye vanovhura:</strong> Mhando dzakasiyana dze orbits uye maitiro ekusarudza ekutanga vanopa kumishini yako.",
+      "financing": "<strong>Maitiro ekubhadhara mari:</strong> Maitiro ekuchengetedza mari uye zviwanikwa zvekuvhura satellite yako. Kosi iyi ichapa zviwanikwa zvekuwana mari yekuvhurwa kwako, kubatsira vadzidzi kuwana zvirongwa uye magrants kubva kumasangano epasi rese anotsigira masayendisiti vechidiki uye vadzidzi mukutumira masetelliti avo muchadenga.",
+      "groundStation": "<strong>Ground station development:</strong> Maitiro ekugadzira antenna yekutaurirana neOrbital Tembere uye mamwe masatellite."
+    }
+  },
+  "technology": {
+    "heading": "Iyo Tekinoroji: PocketQube Satellites",
+    "paragraph1": "Vadzidzi vachadzidza kushanda nemasetellite <strong>ePocketQube</strong> , chiyero chenanosatellite chinongoyera <strong>5cm³</strong> uye huremu hunosvika <strong>250g</strong> . Pasinei nehukuru hwavo hudiki, PocketQubes zvishandiso zvine simba zvinokwanisa kuona Earth, kutarisa, uye kutaurirana.",
+    "paragraph2": "Aya ma compact satellite ane akawanda-chaiwo epasirese maapplication, kubva kutsvagurudzo yesainzi nezvekuchinja kwemamiriro ekunze kuenda kuintercontinental communication. Nekuti idiki uye yakareruka, inokwanisika kuvaka nekutanga, zvichiita kuti nzvimbo iwanikwe nyore kuvadzidzi, vaongorori, uye maartist pasi rese."
+  },
+  "globalAccess": {
+    "heading": "Global Access, Kutanga kubva kuGlobal South",
+    "paragraph1": "Kosi yacho ichawanikwa kune chero ane <strong>makore gumi nematanhatu kana kupfuura</strong> , <strong>pasina muripo</strong> . Tiri kutanga nezvirimo <strong>muchiPutukezi</strong> , <strong>Spanish</strong> , <strong>Chirungu</strong> , uye <strong>Hindi</strong> , nehurongwa hwekuwedzera kune mimwe mitauro sezvo purogiramu inokura.",
+    "paragraph2": "Basa redu rinotanga muGlobal South uye rinosvika pasirese, kuve nechokwadi chekuti chizvarwa chinotevera chevaongorori venzvimbo chinobva kumativi ese ePasi."
+  },
+  "callToAction": {
+    "heading": "Tibatsire Kuti Izvi Zviitike",
+    "content": "Chirongwa chedzidzo ichi chiri kugadzirwa parizvino. Tiri kutsvaga vatinoshanda navo uye vanopa vanogovana chiono chedu chekuwana demokrasi kuwana tekinoroji yemuchadenga. Kana iwe kana sangano rako muchida kutsigira chirongwa ichi, ndapota shanyira <a href=\"/support\">peji redu rekutsigira</a> kuti udzidze nezvemikana yekudyidzana."
+  },
+  "imageAlt": "Orbital Temberi Satellite"
+}

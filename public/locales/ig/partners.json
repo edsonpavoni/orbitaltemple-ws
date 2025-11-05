@@ -1,0 +1,50 @@
+{
+  "title": "Ndị mmekọ - Orbital Temple",
+  "heading": "Ndị mmekọ",
+  "intro": "Templelọ nsọ Orbital dị site na mmesapụ aka, nka na ọhụhụ nke ndị mmekọ pụrụ iche. Site na satịlaịtị injinia ruo ịkọ akụkọ, site na imeghe ọnụ ụzọ n'ala ndị dị anya ruo n'itinye nrọ na ọla edo, mmekorita nke ọ bụla na-ebute ụlọ nsọ a nso na kpakpando.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Ndị mmekọ",
+      "description": "Nzikọrịta ozi, ahụmịhe jikọtara ọnụ na ọmarịcha 3D gosipụtara onyonyo nke wetara ọhụụ satịlaịtị na ndụ tupu ọ metụta oghere oghere."
+    },
+    "highestMantra": {
+      "name": "Mantra kachasị anyị",
+      "description": "Sathi Roy duziri, na-ejikọ Temple Orbital na obodo ime mmụọ na nka nke India. Ụzọ imeghe maka ịnakọta ego, mgbanwe omenala, na ihe ngosi Art Basel na-esote mmalite Nọvemba 2025."
+    },
+    "allToSpace": {
+      "name": "Ihe niile na Space",
+      "description": "Ndị ọkachamara n'obere satịlaịtị Brazil. Afọ anọ nke imekọ ihe ọnụ na-ewulite ikpo okwu ngwaike mepere emepe na ịsụ ụzọ usoro iziga nka n'ime orbit si Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Òtù Na-eme Nchọpụta Oghere Ndị India. Mwepụta onye na-eweta maka ọrụ PSLV na-ebu Orbital Temple gaa na mbara igwe-anyanwụ na Nọvemba 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. Marcello Dantas chepụtara ya na onye enyemaka ndị nlekọta Laura Cattani, Munir Klamt, Tarsila Riso na Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Ụlọ ọrụ INPE / ArtSat",
+      "description": "Ndị otu mmepe satịlaịtị hibere n'oge ogbako II ArtSat. Onye nhazi nke Fabiane M. Borges, nke Lázaro Camargo nyere ntụziaka, nke Ítalo Pinto Rodrigues na-arụkọ ọrụ, Walter Abrahão dos Santos na-elekọta."
+    },
+    "solidConcepts": {
+      "name": "Echiche siri ike",
+      "description": "Eduardo Dias duziri. Mbipụta 3D niile na nkedo micro ọla edo na-arụ ọrụ maka dome a kpụrụ akpụ, na-agbanwe nrọ dijitalụ ka ọ bụrụ eziokwu ọla dị oke ọnụ ahịa."
+    },
+    "ideaSpace": {
+      "name": "Oghere echiche",
+      "description": "Mmalite agụmakwụkwọ Brazil na-etolite usoro ọmụmụ nke Quebrada Space Programme, dị njikere itinye n'ọrụ ụmụ akwụkwọ sekọndrị n'ofe Brazil."
+    }
+  },
+  "closing": "Ị nwere mmasị ịmekọrịta na Temple Orbital? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Kpebie</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Akara Ndị Mmekọ",
+    "highestMantra": "Logo Mantra anyị kacha elu",
+    "allToSpace": "Niile na oghere Logo",
+    "isro": "Akara akara ISRO",
+    "mercosul": "13th Mercosur Biennial Logo",
+    "inpe": "INPE ArtSat Akara Logo",
+    "solidConcepts": "Akara echiche siri ike",
+    "ideaSpace": "Akara oghere echiche"
+  }
+}

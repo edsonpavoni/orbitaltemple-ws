@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Enorbita Templo",
+    "subtitle": "estas artaĵo kaj satelito,\ncelanta esti radikale inkluziva templo,\nen loko, kien neniu muro povas atingi."
+  },
+  "ritual": {
+    "label": "rito"
+  },
+  "cta": {
+    "link": "Ĉu ankoraŭ unu templo?",
+    "arrowAlt": "sago"
+  },
+  "dome": {
+    "alt": "Kupolo"
+  }
+}

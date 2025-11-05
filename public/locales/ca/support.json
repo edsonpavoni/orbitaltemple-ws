@@ -1,0 +1,167 @@
+{
+  "title": "Suport al Temple Orbital: uneix-te a la Missió",
+  "heading": "Suport del Temple Orbital",
+  "vision": "El <strong>28 de novembre de 2025</strong> , <strong>el Temple Orbital</strong> es llançarà des de <strong>l&#39;Índia</strong> a bord d&#39;un coet <strong>ISRO</strong> . Un satèl·lit d&#39;art participatiu del Sud Global, és un monument a la inclusió radical, una plataforma per a l&#39;educació i un catalitzador per a una conversa global sobre el futur del sagrat a l&#39;era de la tecnologia, la IA i l&#39;exploració espacial.",
+  "videoCaption": "Vídeo d'introducció al Temple Orbital, 1 min.",
+  "accomplished": {
+    "heading": "El que hem aconseguit",
+    "content": "Després de quatre anys de recerca i desenvolupament, la missió està a punt. Hem completat <strong>el desenvolupament del maquinari i el programari</strong> per al satèl·lit, hem superat <strong>les proves oficials de vibració</strong> necessàries per a la certificació de vol i hem finalitzat el nostre contracte amb l&#39;ISRO. El satèl·lit està construït. La tecnologia funciona. Tenim autorització per al llançament."
+  },
+  "funding": {
+    "heading": "Progrés del finançament",
+    "raised": "plantejat de",
+    "of": "de",
+    "goal": "objectiu",
+    "button": "Dona suport a la Missió"
+  },
+  "needs": {
+    "heading": "Per a què necessitem suport",
+    "intro": "Per completar aquesta missió històrica i maximitzar-ne l'impacte, necessitem suport per a cinc components crítics:",
+    "launch": {
+      "title": "Costos de llançament de l'ISRO:"
+    },
+    "travel": {
+      "title": "Viatge d'artista a l'Índia:"
+    },
+    "carbon": {
+      "title": "Programa de compensació de carboni:"
+    },
+    "education": {
+      "title": "Programa educatiu:"
+    },
+    "docPreProd": {
+      "title": "Preproducció de documentals:"
+    },
+    "docProd": {
+      "title": "Producció de documentals:"
+    }
+  },
+  "decade": {
+    "heading": "La dècada que ve",
+    "intro": "Aquesta missió no acaba el 28 de novembre de 2025. Tot just comença.",
+    "paragraph1": "Durant els propers <strong>10 anys</strong> , aquest satèl·lit orbitarà la Terra, responent als noms enviats des de tots els racons del planeta. El programa educatiu té com a objectiu formar <strong>milers d&#39;adolescents</strong> en tecnologia de satèl·lits, trencant la <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">bretxa espacial</a> per al Sud Global. El documental arribarà a <strong>milions</strong> de persones a tot el món, provocant converses sobre pertinença, memòria i allò sagrat.",
+    "paragraph2": "Orbital Temple s&#39;associa amb <strong>Sathi Roy</strong> i <strong>The Roy Foundation</strong> per fer que aquesta visió de deu anys tingui una significació cultural. La Roy Foundation és una organització sense ànim de lucre dedicada a ampliar l&#39;accés a l&#39;educació espiritual, la curació emocional i les eines de consciència per a comunitats desfavorides de tot el món, unint la saviesa antiga i la tecnologia moderna per crear un món més conscient, connectat i compassiu. Junts, estem construint la infraestructura per garantir que Orbital Temple esdevingui un moviment durador que arribi a comunitats de tot el món.",
+    "paragraph3": "El vostre suport no només finança un llançament; crea un moviment que tindrà ressò durant una dècada i inspirarà la propera generació d'artistes i enginyers espacials."
+  },
+  "waysToSupport": {
+    "heading": "Maneres de donar suport",
+    "individualDonations": {
+      "heading": "Donacions individuals",
+      "intro": "Uneix-te a la missió al nivell que més et convingui. Els donants individuals són la base d'aquest projecte històric.",
+      "orbitalFriend": {
+        "title": "Amic orbital",
+        "benefits": "Rebràs: Nom a la llista d'honor del lloc web · Certificat orbital personalitzat quan es llanci un satèl·lit · Crèdit d'agraïment documental · Rebut deduïble d'impostos",
+        "button": "Fes una donació deduïble d'impostos"
+      },
+      "satelliteSupporter": {
+        "title": "Partidari de satèl·lits",
+        "benefits": "Rebràs: Tots els avantatges d'Orbital Friend · Accés exclusiu a l'aplicació de seguiment per satèl·lit · Vídeomissatge d'agraïment a l'artista · Rebut deduïble d'impostos",
+        "button": "Fes una donació deduïble d'impostos"
+      },
+      "spaceAdvocate": {
+        "title": "Advocat de l'espai",
+        "benefits": "Rebràs: Tots els beneficis de Satellite Supporter · Nom imprès als crèdits documentals · Invitació a la projecció privada de documentals · Actualitzacions trimestrals de l'equip · Rebut deduïble d'impostos",
+        "button": "Fes una donació deduïble d'impostos"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Finançar un component específic",
+    "intro": "La teva contribució finança directament aspectes específics de la missió. Tria el que et convingui o combina'n diversos per crear un impacte més gran.",
+    "launch": {
+      "title": "Finançar el llançament espacial",
+      "description": "El cost real del llançament a bord del coet <strong>ISRO</strong> el <strong>28 de novembre de 2025.</strong> Això envia el Temple Orbital a l&#39;òrbita, on romandrà durant una dècada com a satèl·lit d&#39;art participatiu i temple al cel, accessible a tothom al món.",
+      "benefits": "Rebràs: Títol de \"Patrocinador del llançament\" · Apareixeràs a tots els comunicats de premsa · Reconeixement en pantalla al documental · Accés VIP als esdeveniments de llançament · Uneix-te a videotrucades trimestrals amb Edson i l'equip de la missió · Certificat amb dades orbitals dels satèl·lits · Rebut deduïble d'impostos",
+      "button": "Fes una donació deduïble d'impostos"
+    },
+    "travel": {
+      "title": "Finança el viatge de l'artista a l'Índia",
+      "description": "Despeses de viatge, allotjament i producció per a l&#39;artista Edson Pavoni i el seu equip principal per presenciar el llançament a <strong>l&#39;Índia el 28 de novembre de 2025.</strong> Aquest viatge és essencial per al rodatge de documentals, la cobertura mediàtica i la representació del Sud Global en aquest moment històric.",
+      "benefits": "Rebràs: Agraïment personal de l'artista · Accés al documental entre bastidors · Nom als crèdits documentals · Rebut deduïble d'impostos",
+      "button": "Fes una donació deduïble d'impostos"
+    },
+    "carbon": {
+      "title": "Finançar el Programa de Compensació de Carboni",
+      "description": "Totes les emissions de carboni seran neutralitzades, incloent-hi el llançament del coet i la fabricació del satèl·lit. Estem treballant amb programes de compensació de carboni verificats per garantir que aquesta missió no deixi cap petjada ambiental negativa.",
+      "benefits": "Rebràs: Nom a la llista d'honor del lloc web · Certificat personalitzat · Rebut deduïble d'impostos",
+      "button": "Fes una donació deduïble d'impostos"
+    },
+    "education": {
+      "title": "Finançar el programa educatiu",
+      "description": "Desenvolupa i llança el curs multilingüe complet que ensenya als adolescents del Sud Global com construir satèl·lits. Inclou el desenvolupament del currículum, la producció de vídeos, l'allotjament de plataformes i el primer any de beques per a estudiants desfavorits. Crea una infraestructura duradora per a l'educació espacial.",
+      "benefits": "Rebràs: Reconeixement de \"Patrocinador Fundador de l'Educació\" · Beques al teu nom · Apareixeràs en materials educatius · Coneix el primer grup d'estudiants finançats per la teva beca (virtual o presencial) · Segment de documentals · Oportunitat de parlar en esdeveniments de llançament · Rebut deduïble d'impostos",
+      "button": "Fes una donació deduïble d'impostos"
+    },
+    "docPreProd": {
+      "title": "Finançar la preproducció del documental",
+      "description": "Finançar la fase inicial del documental <strong>&quot;Què fa que un temple sigui?&quot;</strong> . Inclou la realització de 2 entrevistes en profunditat a l&#39; <strong>Índia</strong> amb líders de pensament i professionals espirituals, viatges i producció d&#39;un petit equip i l&#39;edició de metratge de preproducció. Aquesta fase estableix els fonaments del documental i valida la direcció creativa.",
+      "benefits": "Rebràs: Crèdit de productor associat · Nom als crèdits del documental · Projecció privada de metratge de preproducció · Accés entre bastidors · Rebut deduïble d'impostos",
+      "button": "Fes una donació deduïble d'impostos"
+    },
+    "docProd": {
+      "title": "Finançar la producció de documentals",
+      "description": "Producció i postproducció completa de <strong>&quot;What Makes a Temple?&quot;</strong> , el documental que explora la intersecció de l&#39;art, la tecnologia i el sagrat. Inclou el rodatge en diversos països, entrevistes addicionals amb líders de pensament, edició completa, correcció de color, disseny de so i projeccions d&#39;estrena a <strong>l&#39;Índia</strong> i <strong>Nova York</strong> .",
+      "benefits": "Rebràs: Crèdit de productor executiu · Aparició als crèdits inicials · Projecció privada per als teus convidats · Invitacions a la premiere mundial (ambdues ciutats) · Sopar privat amb l'Edson i el director del documental abans de la premiere · Accés entre bastidors · Rebut deduïble d'impostos",
+      "button": "Fes una donació deduïble d'impostos"
+    },
+    "artCollector": {
+      "title": "Converteix-te en l'únic col·leccionista d'art del temple orbital",
+      "imageAlt": "Instal·lació del Temple Orbital a la Biennal del Mercosur",
+      "imageCaption": "Temple orbital a la XIII Biennal del Mercosul, Porto Alegre. Foto de Clara Marques.",
+      "paragraph1": "Es van construir tres satèl·lits idèntics per a aquesta missió. <strong>Un</strong> es llançarà a l&#39;espai el 28 de novembre de 2025. <strong>Un altre</strong> visitarà exposicions de museus d&#39;arreu del món. <strong>Un altre</strong> està reservat per a un col·leccionista generós que vulgui finançar aquesta visió i posseir una peça de la història de l&#39;art espacial.",
+      "paragraph2": "Això no és una rèplica; és un dels tres satèl·lits originals. Una <strong>nau espacial completament funcional</strong> que també és una <strong>escultura</strong> . El satèl·lit mesura <strong>5 cm³</strong> i pesa <strong>245 g</strong> , amb una cúpula feta d&#39; <strong>or</strong> .",
+      "paragraph3": "Aquesta és una <strong>obra d&#39;art a escala 1/1</strong> .",
+      "paragraph4": "Com a col·leccionista, rebrà la mateixa instal·lació creada per a la <strong>13a Biennal del Mercosur</strong> , una mostra museogràfica completa que mostra el satèl·lit com a art i tecnologia alhora. Aquesta instal·lació s&#39;ha exposat en importants llocs internacionals i representa el més alt nivell de presentació d&#39;art espacial.",
+      "paragraph5": "El vostre suport ajuda a finançar tota la visió: el llançament, el programa educatiu i el documental que iniciarà converses globals sobre allò sagrat a l'era de la tecnologia, la IA i l'exploració espacial. El vostre nom queda permanentment entrellaçat amb aquesta missió històrica.",
+      "button": "Informa't sobre aquesta oportunitat"
+    }
+  },
+  "gratitude": {
+    "heading": "Amb agraïment als nostres seguidors",
+    "intro": "Orbital Temple és possible gràcies a institucions, individus i creients en la inclusió radical que entenen que l'art crea els imaginaris del demà.",
+    "pearmill": {
+      "title": "Patrocinador fundador",
+      "description": "Pearmill és una de les agències de màrqueting de rendiment de més ràpid creixement als Estats Units, un grup de dissenyadors, professionals del màrqueting i enginyers que treballen junts per ajudar a fer créixer algunes de les startups més icòniques del món. El seu generós suport va permetre a l'equip d'Orbital Temple comprar components crítics i desenvolupar el maquinari de codi obert que fa possible aquesta missió satèl·lit."
+    },
+    "yourName": "El teu nom podria ser aquí. Uneix-te a nosaltres per fer història."
+  },
+  "people": {
+    "heading": "La gent darrere d'aquesta missió",
+    "intro": "Orbital Temple és un compromís de 10 anys. Està dirigit per dues persones que han passat la seva vida connectant art, tecnologia i connexió humana, i que estan construint la infraestructura per sostenir aquesta visió durant la propera dècada.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Artista i tecnòleg",
+      "paragraph1": "L'Edson és un artista i tecnòleg que explora la intimitat humana a la intersecció de l'art i la tecnologia. La seva pràctica abasta instal·lacions arquitectòniques, poesia, fotografia i tecnologia satel·lital.",
+      "paragraph2": "La seva obra ha estat exposada a la 13a Biennal del Mercosur (Brasil), la IX Biennal Internacional (Uzbekistan) i el Premi Global d'Art Digital NTU (Singapur).",
+      "paragraph3": "Amb més de <strong>20 anys d&#39;experiència en el camp de l&#39;art i la tecnologia</strong> , ha treballat amb equips creatius per als <strong>Jocs Olímpics de Rio 2016</strong> i per <strong>al Banc Interamericà de Desenvolupament</strong> . Nomenat un dels <strong>50 professionals brasilers més innovadors</strong> per la revista Proxxima, va rebre dos <strong>premis IF Design Awards</strong> consecutius (2017-2018) i va ser finalista <strong>del premi Lumen Prize Futures Award</strong> . El seu treball s&#39;ha exposat en dues biennals i s&#39;ha presentat al <strong>Museu d&#39;Art Contemporani Ludwig</strong> (Budapest), <strong>l&#39;Institut Inhotim</strong> (Brasil) i <strong>el Museu del Disseny i la Moda</strong> (Lisboa), amb exposicions a Nova York, Pequín, Singapur, Dubai, Rio de Janeiro i altres ciutats."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Fundador de la Fundació Roy i soci estratègic",
+      "paragraph1": "Sathi és la fundadora de <strong>The Roy Foundation</strong> , una organització sense ànim de lucre dedicada a ampliar l&#39;accés a l&#39;educació espiritual, la curació emocional i les eines de consciència per a comunitats desfavorides de tot el món. La fundació s&#39;associa amb escoles, institucions culturals i organitzacions locals per distribuir eines de benestar basades en intel·ligència artificial, currículums comunitaris i mitjans de comunicació que inspiren la transformació.",
+      "paragraph2": "Amb experiència en neurociència, coaching i lideratge, Sathi ha creat i dirigit equips a Amèrica del Nord i l&#39;Índia, generant <strong>600 milions de dòlars</strong> en vendes anuals en una sola empresa. També és la fundadora d&#39; <strong>OHM</strong> , un moviment espiritual digital, cofundadora de <strong>SUTE</strong> (una plataforma d&#39;oficina digital basada en IA) i és assessora i cap global de creixement de <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Com a dona bengalí-americana que uneix les filosofies orientals i occidentals, Sathi aporta una perspectiva única als moviments espirituals i artístics del segle XXI. Amb una xarxa creixent de més de <strong>65.000 seguidors</strong> i més de <strong>40 milions d&#39;impressions en línia</strong> , està construint comunitats globals que connecten a través de les divisions culturals i espirituals."
+    },
+    "together": "Juntament amb la Fundació Roy, estem construint una missió de 10 anys que uneix l'art, la tecnologia, l'educació i el sagrat, començant amb un llançament de satèl·lit el 28 de novembre de 2025 i continuant amb un moviment que arribarà a les comunitats desfavorides de tot el món i inspirarà la propera generació."
+  },
+  "join": {
+    "heading": "Uneix-te a nosaltres",
+    "content": "El satèl·lit està construït. La tecnologia està a punt. La data de llançament està fixada: <strong>28 de novembre de 2025.</strong> Aquest és el moment d&#39;unir-se a una missió que reimagina què pot fer l&#39;art, on pot anar i a qui pot servir.",
+    "fundSpecific": {
+      "heading": "Finança un component específic o converteix-te en un soci fundador",
+      "description": "Trieu una de les oportunitats de finançament anteriors, pregunteu sobre com convertir-vos en col·leccionista d'art o parleu sobre un patrocini personalitzat que s'alineï amb la vostra visió.",
+      "button": "Contacta amb nosaltres per començar →"
+    },
+    "generalDonation": {
+      "heading": "Feu una contribució deduïble d'impostos",
+      "description": "Totes les contribucions, grans o petites, donen suport a la missió i són deduïbles d'impostos a través del nostre patrocinador fiscal, The Field.",
+      "button": "Dona a través de The Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Donacions deduïbles d'impostos",
+    "paragraph1": "Orbital Temple és un projecte patrocinat fiscalment per <strong>The Field (Performance Zone Inc.)</strong> , una organització sense ànim de lucre <strong>501(c)(3)</strong> amb seu a Nova York. Totes les contribucions dels EUA són deduïbles d&#39;impostos en la mesura que ho permeti la llei.",
+    "paragraph2": "<strong>El camp</strong><br> 75 Maiden Lane, Suite 906<br> Nova York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Quan feu contribucions amb xec, si us plau, feu-ho a nom de <strong>Performance Zone Inc.</strong> amb la nota: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

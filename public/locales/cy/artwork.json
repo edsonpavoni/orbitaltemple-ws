@@ -1,0 +1,31 @@
+{
+  "title": "Y Gwaith Celf - Teml Orbitol",
+  "heading": "Y Gwaith Celf",
+  "intro": {
+    "paragraph1": "Mae Orbital Temple yn lloeren gyda chenhadaeth artistig: cofeb yn y gofod allanol sydd ar agor i bob bod ymwybodol sy'n byw neu sydd wedi byw ar y Ddaear.",
+    "paragraph2": "Drwy ddulliau technolegol, gall unrhyw un anfon enw rhywun i'r Deml, boed rhywun a fu farw, person sy'n fyw iawn, neu unrhyw fod sy'n haeddu cael ei gofio."
+  },
+  "sculpture": {
+    "heading": "Y Cerflun",
+    "paragraph1": "Mae gan y gwaith celf dair elfen gyd-ddibynnol: lloeren a gynlluniwyd yn arbennig i storio biliynau o enwau; cerflun cyhoeddus sy'n cyfnewid gwybodaeth â'r lloeren; a gwefan lle mae cyfranogwyr yn anfon yr enwau, o hyn ymlaen hyd nes y byddant yn marw, i'r nefoedd.",
+    "paragraph2": "Fel ymgais amlddisgyblaethol, gellir ystyried Orbital Temple yn gerflun safle-benodol, sy'n byw mewn gofod. Mae hefyd yn brosiect Artsat."
+  },
+  "antenna": {
+    "heading": "Yr Antena Fel Cerflun Cyhoeddus",
+    "paragraph1": "Antena sy'n ein cysylltu â'r gofod allanol.",
+    "paragraph2": "Mae antena a fydd mewn cyfathrebu uniongyrchol â'r lloeren orbitol yn cael ei ddylunio.",
+    "paragraph3": "Gydag arwyneb adlewyrchol euraidd, yn adlewyrchu'r awyr uwchben, mae'n fan cychwyn ar gyfer ysgogiad màs (neu ein perthynas â'r hyn sydd 'i fyny yno').",
+    "paragraph4": "Er nad yw'r cerfluniau wedi'u gosod yn y rhan fwyaf o rannau o'r byd, mae ein Fframiau o'r Ddaear, sydd ar hyn o bryd yn rheoli'r lloeren, yn anfon yr enwau ym mhob pasiad drwodd.",
+    "paragraph5": "Helpwch i ddod â&#39;r weledigaeth hon i&#39;ch dinas—gosod cerfluniau antena sy&#39;n ysbrydoli sgyrsiau am archwilio&#39;r gofod, celf, a&#39;n lle cyffredin yn y cosmos. <a href=\"/support\">Dysgwch fwy am gefnogi&#39;r prosiect</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Lloeren Orbital Temple",
+    "riseNy": "Teml Orbitol yn Rise NY",
+    "installation": "Teml Orbitol gan Clara Marques",
+    "antenna": "Antena Teml Orbitol"
+  },
+  "imageCaptions": {
+    "riseNy": "Teml Orbitol yn y gofod. Rendro 3D gan RiseNY&Partners.",
+    "mercosul": "Gosod Teml Orbitol yn Biennial Mercosul, yn Porto Alegre, Brasil.<br> Llun gan Clara Marques."
+  }
+}

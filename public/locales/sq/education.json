@@ -1,0 +1,43 @@
+{
+  "title": "Edukimi dhe Burimi i Hapur - Orbital Temple",
+  "heading": "Arsimi dhe Burimi i Hapur",
+  "intro": {
+    "paragraph1": "I gjithë teknologjia e zhvilluar për misionin Orbital Temple do të jetë <strong>me burim të hapur</strong> dhe e disponueshme në internet në <strong>portugalisht</strong> , <strong>anglisht</strong> , <strong>spanjisht</strong> dhe <strong>hindisht</strong> , duke nxitur përparimin e eksplorimit të hapësirës në <strong>Jugun Global</strong> . Misionet dhe projektet e reja mund ta përdorin Orbital Temple si bazë për eksperimentet e tyre artistike ose shkencore.",
+    "paragraph2": "Si pjesë e misionit të saj edukativ, Orbital Temple do të ofrojë një kurs shumëgjuhësh falas se si të ndërtohet dhe të lëshohet një satelit. Do të jetë një mundësi praktike për të mësuar rreth teknologjisë satelitore dhe për ta vënë atë në praktikë. Kushdo mbi moshën <strong>16</strong> vjeç do të jetë në gjendje të ndërtojë satelitin e vet, duke mësuar rreth historisë së artit në hapësirë, koncepteve themelore të elektronikës, mekanikës dhe shkencës hapësinore, duke përfshirë mënyrën e financimit të projekteve dhe si të ndërtohet një antenë për të komunikuar me satelitët në orbitë."
+  },
+  "spaceGap": {
+    "heading": "Pse kjo ka rëndësi: Boshllëku Hapësinor",
+    "paragraph1": "Termi <strong>&quot;Hendeku Hapësinor&quot;</strong> i referohet hendekut midis vendeve të zhvilluara që mund të kenë akses në mundësitë teknologjike të fituara nëpërmjet eksplorimit të hapësirës dhe vendeve në zhvillim që nuk kanë akses në këto teknologji. Vendet në Jugun Global duhet të paguajnë shuma të konsiderueshme qeverive ose kompanive të huaja për akses bazë në informacionin e prodhuar nga teknologjitë satelitore.",
+    "paragraph2": "Teknologjia hapësinore ofron përfitime kritike: satelitët ndihmojnë në luftimin e prerjes së paligjshme të pyjeve, peshkimit të paligjshëm dhe tregtisë së paligjshme të kafshëve të egra, të cilat përfaqësojnë më shumë se <strong>73 miliardë dollarë në vit</strong> . Ato ofrojnë informacion thelbësor në lidhje me klimën, prodhimin e ujit dhe sigurinë ushqimore. Satelitët mundësojnë ujitje precize dhe teknika bujqësore, dhe ndihmojnë në parandalimin e fatkeqësive natyrore. Industria hapësinore mund të krijojë deri në <strong>1 milion vende pune</strong> deri në <strong>vitin 2030</strong> , megjithatë këto mundësi mbeten të paarritshme për shumë njerëz në Jugun Global.",
+    "paragraph3": "Duke ofruar teknologji dhe arsim me burim të hapur, ne synojmë të demokratizojmë aksesin në hapësirë dhe të fuqizojmë një brez të ri për të ëndërruar përtej qiellit."
+  },
+  "empowering": {
+    "heading": "Fuqizimi i Gjeneratës së Ardhshme",
+    "intro": "Ne do t'i mësojmë brezit të ardhshëm të eksploruesve të hapësirës se si të ndërtojnë dhe të lançojnë satelitët e tyre, duke mbuluar tema thelbësore duke përfshirë:",
+    "topics": {
+      "history": "<strong>Historia e artit në hapësirë:</strong> Kuptimi i prejardhjes së satelitëve artistikë dhe veprave të artit në hapësirë.",
+      "concepts": "<strong>Konceptet kryesore:</strong> <strong>ArtSat</strong> (satelitë artistikë), teknologjia hapësinore <strong>me burim të hapur</strong> dhe <strong>boshllëku hapësinor</strong> .",
+      "missions": "<strong>Misionet hapësinore:</strong> Si të konceptualizohet dhe projektohet një mision, dhe si të formohet një ekip për ta ekzekutuar atë.",
+      "electronics": "<strong>Elektronika në hapësirë:</strong> Konceptet themelore të komponentëve elektronikë që mund të mbijetojnë dhe të funksionojnë në mjedisin hapësinor.",
+      "mechanics": "<strong>Mekanika në hapësirë:</strong> Kuptimi i kërkesave strukturore dhe mekanike për projektimin e satelitëve.",
+      "orbits": "<strong>Orbitat dhe lëshuesit:</strong> Lloje të ndryshme orbitash dhe si të zgjidhni ofruesit e lëshimit për misionin tuaj.",
+      "financing": "<strong>Strategjitë e financimit:</strong> Si të siguroni fonde dhe burime për të lançuar satelitin tuaj. Kursi do të ofrojë burime për marrjen e fondeve për lançimin tuaj, duke i ndihmuar studentët të gjejnë programe dhe grante nga institucione ndërkombëtare që mbështesin shkencëtarët dhe studentët e rinj në dërgimin e satelitëve të tyre në hapësirë.",
+      "groundStation": "<strong>Zhvillimi i stacionit tokësor:</strong> Si të ndërtohet një antenë për të komunikuar me Tempullin Orbital dhe satelitët e tjerë."
+    }
+  },
+  "technology": {
+    "heading": "Teknologjia: Satelitët PocketQube",
+    "paragraph1": "Studentët do të mësojnë të punojnë me satelitët <strong>PocketQube</strong> , një standard nanosateliti që mat vetëm <strong>5cm³</strong> dhe peshon deri në <strong>250g</strong> . Pavarësisht madhësisë së tyre të vogël, PocketQubes janë mjete të fuqishme të afta për vëzhgimin, monitorimin dhe komunikimin e Tokës.",
+    "paragraph2": "Këta satelitë kompaktë kanë zbatime të shumta në botën reale, nga kërkimet shkencore mbi ndryshimet klimatike deri te komunikimi ndërkontinental. Meqenëse janë më të vegjël dhe më të lehtë, janë më të përballueshëm për t'u ndërtuar dhe lëshuar, duke e bërë hapësirën më të arritshme për studentët, studiuesit dhe artistët në të gjithë botën."
+  },
+  "globalAccess": {
+    "heading": "Qasje Globale, Duke filluar nga Jugu Global",
+    "paragraph1": "Kursi do të jetë i disponueshëm për këdo <strong>16 vjeç e lart</strong> , plotësisht <strong>falas</strong> . Po fillojmë me përmbajtje në <strong>portugalisht</strong> , <strong>spanjisht</strong> , <strong>anglisht</strong> dhe <strong>hindisht</strong> , me plane për t&#39;u zgjeruar në gjuhë të tjera ndërsa programi rritet.",
+    "paragraph2": "Misioni ynë fillon në Jugun Global dhe shtrihet në të gjithë botën, duke siguruar që brezi i ardhshëm i eksploruesve të hapësirës të vijë nga të gjitha anët e Tokës."
+  },
+  "callToAction": {
+    "heading": "Na ndihmoni ta bëjmë këtë të ndodhë",
+    "content": "Ky program edukativ është aktualisht në zhvillim e sipër. Ne po kërkojmë partnerë dhe donatorë që ndajnë vizionin tonë për demokratizimin e aksesit në teknologjinë hapësinore. Nëse ju ose organizata juaj dëshironi të mbështesni këtë iniciativë, ju lutemi vizitoni <a href=\"/support\">faqen tonë të mbështetjes</a> për të mësuar rreth mundësive të partneritetit."
+  },
+  "imageAlt": "Sateliti Orbital Temple"
+}

@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital Temple",
+    "subtitle": "jẹ iṣẹ-ọnà ati satẹlaiti kan,\nifọkansi lati jẹ tẹmpili ti o ni itara,\nni ibi ti odi ko le de."
+  },
+  "ritual": {
+    "label": "irubo"
+  },
+  "cta": {
+    "link": "Sibẹsibẹ, tẹmpili miiran?",
+    "arrowAlt": "ofa"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

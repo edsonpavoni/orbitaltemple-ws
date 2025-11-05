@@ -1,0 +1,44 @@
+{
+  "title": "Bhon Neach-ealain",
+  "opening": {
+    "question": "Cò an duine seo a tha a’ moladh teampall san fhànais?",
+    "thanks": "Tapadh leibh airson a’ cheist.",
+    "answer": "Is e am freagairt ghoirid gur e neach-ealain a th’ annam. Seo am freagairt fhada:"
+  },
+  "origin": {
+    "sao_paulo": "Rugadh mi ann an iomall São Paulo, ann an nàbachd a theagaisg dhomh tràth dè tha cunnart a’ ciallachadh. Tha mòran de mo charaidean sgoile sa phrìosan a-nis. Tha m’ athair-cèile sa phrìosan. Cha robh fòirneart na rud a leugh mi mu dheidhinn, b’ e an saoghal a dh’fheumadh mi a sheòladh. Agus bha fios agam gum feumadh mi teicheadh.",
+    "technology": "B’ e teicneòlas an dòigh a-mach a bh’ agam. Dh’ionnsaich mi prògramadh, dh’ionnsaich mi eileagtronaig mar dheugaire. B’ e cànan a bh’ ann an còd a b’ urrainn dhomh a thoirt gu àite eile. B’ e obair le teicneòlas an t-slighe a-mach à bochdainn.",
+    "christianity": "Ach bha mi cuideachd a’ sireadh buinteanas, gaol, rudeigin airson creidsinn ann. Lorg mi Crìosdaidheachd, no lorg i mi. Chaidh gabhail rium. Chaidh gaol a thoirt dhomh. Bha coimhearsnachd agam. Dh’ionnsaich mi mathanas a thoirt dhomh, creidsinn, gluasad còmhla airson adhbhar nas motha.",
+    "price": "Bha a’ phrìs àrd, ge-tà. Dh’ionnsaich mi mòran rudan nach eil mi fhathast ag ionnsachadh. Mar sin theich mi bhon sin cuideachd."
+  },
+  "searching": {
+    "walls": "Tha fios agam dè a nì ballachan. Tha mi air am faireachdainn. Tha mi air a bhith air gach taobh: air mo chumail a-mach, air mo chumail a-staigh. Lean na bliadhnaichean a’ sireadh rudeigin nach b’ urrainn dhomh ainmeachadh. Bhàsaich Dia rè na bliadhnaichean sin. An dia air an deach teagasg dhomh, co-dhiù, am fear le riaghailtean agus breitheanas agus dorsan nach robh fosgailte ach do chuid de dhaoine.",
+    "art": "Thòisich mi a’ dèanamh ealain gus na ceistean seo a rannsachadh: mu dhlùth-chàirdeas agus teicneòlas, mu chuimhne agus bàs, mu cò a tha airidh air nèamh. Thòisich mi a’ togail innealan a bhios ag ath-aithris ar dàimh ri teicneòlas, innealan a dh’ fheumas do chom-pàirteachadh, do làthaireachd, d’ ainm, gus cruth-atharrachadh bho mheatailt agus còd gu rudeigin beò."
+  },
+  "pandemic": {
+    "intro": "An uairsin bhuail a’ ghalair-sgaoilte Brasil.",
+    "government": "Nuair a chaidh dàil a chur air banachdachan COVID, bha an riaghaltas agam a’ barganachadh airgead-dìolaidh de aon dolar gach dòs. Bha iad a’ brosnachadh cungaidh-leighis a bha air a thuigsinn mar neo-èifeachdach, a’ gàireachdainn fhad ’s a bha daoine a’ bàsachadh a’ strì ri anail a tharraing. Dhùisg sinn a h-uile latha gu àireamh eadar-dhealaichte. Cia mheud duine a bhàsaich anns na 24 uairean mu dheireadh? An robh e nas motha, no nas lugha na bha dùil?",
+    "war": "Bha leth an t-saoghail fo eagal, agus bha leth eile ann an àicheadh. Bha sinn ann an cogadh, leis a’ bhìoras agus le chèile.",
+    "memorial": "Bha mi airson àite a chruthachadh airson bròn coitcheann, agus mar sin còmhla ri ceudan de dhaoine chruthaich mi an Memorial Inumeráveis. Obair-ealain aig crois-rathad ealain agus naidheachdas. Rinn sinn agallamhan le teaghlaichean a chaill cuideigin. Sgrìobh sinn sgeulachd beatha an neach a chaill iad. Thionndaidh sinn àireamhan gu eachdraidh. Chaidh dàin, òrain, simfonidhean a dhèanamh leis na h-eachdraidh sin. Leugh rionnagan na sgeulachdan sin air telebhisean nàiseanta. Ràinig am pròiseact milleanan.",
+    "meaning": "Cha b’ e an sgèile a bha cudromach, b’ e gu robh gach sgeulachd na ainm, na beatha, na neamh do chuideigin."
+  },
+  "discovery": {
+    "pattern": "Às dèidh còrr is deich mìle còmhradh mu bhròn, thòisich pàtran a’ nochdadh. Nuair a bhios sinn a’ bruidhinn mu chuideigin a chaochail, chan e dìreach rudan math a chanas sinn; bidh sinn a’ taghadh earrannan den sgeulachd aca mar gum biodh sinn a’ sgrìobhadh litir molaidh. Moladh do gheàrd-doras phàrrais. Bidh sinn a’ dèanamh ar dìcheall an cur gu àite gabhail, fois, urram agus cuimhne.",
+    "understanding": "Agus thuig mi rudeigin a dh’atharraich a h-uile càil: Chaidh ar goirteachadh leis na teampaill fhèin a thog sinn. Tha ar creideasan mu cò a tha airidh air nèamh a’ cumadh gu dìreach cò a tha sinn a’ dùnadh a-mach air an Talamh. Bha na coloinich Portagaileach ann am Brasil den bheachd nach robh anaman aig daoine dubha; bha a’ chreideas sin a’ fìreanachadh tràilleachd. Ma bha thu dùthchasach, ma rugadh tu san àite cheàrr no ma bha gaol agad air an neach cheàrr, chaidh innse dhut gu robh dorsan nèimh dùinte dhut.",
+    "birth": "Sin mar a rugadh Teampall Orbital."
+  },
+  "shaman": {
+    "secular": "Chan urrainn do neach-ealain sam bith a bhith dha-rìribh saoghalta. Tha sinn ceangailte gu bràth ris an sinnsear cumanta againn, an t-seamain. Anns an toiseach, bha uaimh ann. Pheant daoine beathaichean air ballachan chan ann airson sgeadachadh, ach airson an gairm. Dhanns iad, agus thàinig an uaimh gu bhith na teampall. Tha spiorad deas-ghnàthach aig an t-seamain; tha aura na h-ealain aig an neach-ealain. Bidh sinn a’ peantadh, a’ snaidheadh, a’ còdachadh, a’ dealbhadh an àm ri teachd a tha sinn ag iarraidh chan ann airson sgeadachadh, ach airson an gairm. Tha a h-uile ealain spioradail, eadhon nuair a tha i ag ràdh nach eil."
+  },
+  "space": {
+    "question": "Càite an gabhadh sinn teampall a thogail gun bhallachan? Far nach b’ urrainn do dhùthaich no creideamh tagradh a dhèanamh. Far an gabhadh sinn smaoineachadh oirnn fhìn mar aon bhuidheann.",
+    "answer": "Àite.",
+    "description": "Saideal ealain com-pàirteach bhon Chruinn-dheas. Teampall ann an orbit a tha a’ toirt cuireadh do gach neach an ainmean a chur gu fànais, ge bith cò iad, càite an do rugadh iad, cò air a bheil gaol aca, dè a tha iad a’ creidsinn. Àite far a bheil in-ghabhail radaigeach comasach, ann an orbit, thar chrìochan.",
+    "mission": "Tha am misean seo fosgailte. Bidh a h-uile sgrìobhainn theicnigeach, a h-uile loidhne de chòd ri fhaighinn an-asgaidh gus am faigh luchd-ealain eile, coimhearsnachdan eile, dùthchannan eile na saidealan aca fhèin a thogail. Mar sin chan e a-mhàin gu bheil an Ceann a Deas Cruinneil a’ gabhail pàirt ann an rannsachadh fànais, ach ga stiùireadh."
+  },
+  "closing": {
+    "answer": "Mar sin cò an duine seo a thogas teampall san fhànais? Chan eil mise ga thogail. Tha an teampall air a thogail le gach neach a cho-dhùnas ainm a chuir, ga fhaicinn mar rud naomh, ga dhèanamh fìor. Is mise an tè a tha ga mholadh. Is tusa an tè a thogas e ma cho-dhùnas tu.",
+    "signature": "Gu coibhneil,",
+    "name": "Edson Pavoni"
+  }
+}

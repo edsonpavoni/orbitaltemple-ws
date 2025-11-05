@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ti obra ti arte",
+    "sendAName": "mangipatulod iti nagan",
+    "fromTheArtist": "manipud iti artista",
+    "yetAnotherTemple": "kaskasdi, sabali manen a templo?",
+    "howItWorks": "no kasano ti panagandar dayta",
+    "spaceLaunch": "pannakaipatayab iti law-ang ken dagiti peggad",
+    "briefHistory": "ababa a pakasaritaan ti arte iti law-ang",
+    "education": "edukasion & open source",
+    "sustainability": "sustainability ken dagiti rugit iti law-ang",
+    "press": "prensa & media",
+    "team": "yasmang",
+    "partners": "dagiti kasosyo",
+    "support": "suporta",
+    "technicalInfo": "teknikal nga info"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Sumalog iti ritual - Mangipatulod iti nagan iti Orbital Temple"
+  },
+  "footer": {
+    "credits": "Ti Orbital Temple ket maysa nga obra ti arte babaen ni Edson Pavoni, a naparsua babaen ti pannakitinnulong da Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ken amin dagitoy nga agtultuloy a mangipatulod kadagiti nagan iti daytoy a templo."
+  }
+}

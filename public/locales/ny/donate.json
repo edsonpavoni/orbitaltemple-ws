@@ -1,0 +1,31 @@
+{
+  "title": "Perekani ku Orbital Temple",
+  "heading": "Malizitsani Zopereka Zanu",
+  "donatingTo": "Mukupereka ku:",
+  "chooseHow": "Sankhani momwe mukufuna kumaliza chopereka chanu chochotsa msonkho:",
+  "option1": {
+    "heading": "Njira 1: Perekani Paintaneti Tsopano",
+    "description": "Malizitsani zopereka zanu nthawi yomweyo pogwiritsa ntchito kirediti kadi, kirediti kirediti kadi, kapena njira zina zolipirira pa intaneti kudzera mwa othandizira athu otetezeka andalama, <strong>The Field</strong> . Mulandira risiti yamisonkho pompopompo.",
+    "button": "Perekani kudzera mu The Field →"
+  },
+  "option2": {
+    "heading": "Njira 2: Bank Deposit to The Roy Foundation",
+    "description": "Pangani ndalama ku banki mwachindunji kapena kusamutsa waya ku <strong>The Roy Foundation</strong> , mnzathu waluso komanso wothandizira ndalama. Njira iyi ndiyabwino pazopereka zazikulu kapena kusamutsidwa kwamayiko ena.",
+    "bankingInfo": "Zambiri Zabanki",
+    "fields": {
+      "accountName": "Dzina laakaunti:",
+      "bankName": "Dzina la Banki:",
+      "accountNumber": "Nambala ya akaunti:",
+      "routingNumber": "Nambala Yolowera:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Zolozera:"
+    },
+    "instructions": "Chonde phatikizani &quot; <strong>Orbital Temple - {donationType}</strong> &quot; m&#39;malo ofotokozera. Mukamaliza kusamutsa, titumizireni imelo <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ndi tsatanetsatane wanu kuti mulandire risiti yanu yamisonkho.",
+    "button": "Lumikizanani Nafe Za Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Kupereka kwa Misonkho",
+    "description": "Orbital Temple ndi ntchito yothandizidwa ndi ndalama ya <strong>The Field (Performance Zone Inc.)</strong> , bungwe la <strong>501(c)(3)</strong> lopanda phindu. Zopereka zonse zaku US zimachotsedwa msonkho malinga ndi zomwe malamulo amaloledwa.",
+    "questions": "Mafunso? Lumikizanani nafe <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

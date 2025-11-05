@@ -1,0 +1,17 @@
+{
+  "title": "Info Teknis - Candi Orbital",
+  "heading": "Info Teknis",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Ukuran: 50 x 58 x 64 mm<br /> 1P PocketQube<br /> Bobot: 245 gr<br /> Bahan: aluminium, emas, fiberglass, lan komponen elektronik.<br /> Orbit: Altitude 525 ± 25 km; inclination: SSO 97,6 ± 0,1 °<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) dilakokno dening ISRO"
+  },
+  "antenna": {
+    "heading": "Antena / Patung",
+    "specs": "Ukuran: 6 m (diameter) e 1,2 m (dhuwur)<br /> Bobot: 46 kg<br /> Bahan: aluminium, papan pangilon epoksi, kubah aluminium emas sing digantung liwat struktur scaffolding."
+  },
+  "radio": {
+    "heading": "Spesifikasi Radio",
+    "specs": "Downlink: 468,5 MHz<br /> Modulasi: CSS<br /> Bandwidth: TBD"
+  },
+  "imageAlt": "Satelit Candi Orbit"
+}

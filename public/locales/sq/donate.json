@@ -1,0 +1,31 @@
+{
+  "title": "Dhuro për Tempullin Orbital",
+  "heading": "Përfundoni Donacionin Tuaj",
+  "donatingTo": "Ju po dhuroni për:",
+  "chooseHow": "Zgjidhni se si dëshironi ta përfundoni donacionin tuaj të zbritshëm nga taksat:",
+  "option1": {
+    "heading": "Opsioni 1: Dhuroni Online Tani",
+    "description": "Përfundoni menjëherë dhurimin tuaj duke përdorur kartën e kreditit, kartën e debitit ose metoda të tjera pagese online përmes sponsorit tonë të sigurt fiskal, <strong>The Field</strong> . Do të merrni menjëherë një faturë tatimore.",
+    "button": "Dhuro nëpërmjet The Field →"
+  },
+  "option2": {
+    "heading": "Opsioni 2: Depozitë bankare në Fondacionin Roy",
+    "description": "Bëni një depozitë bankare ose një transfertë bankare direkte te <strong>Fondacioni Roy</strong> , partneri ynë strategjik dhe sponsori fiskal. Ky opsion është ideal për donacione më të mëdha ose transferta ndërkombëtare.",
+    "bankingInfo": "Informacion Bankar",
+    "fields": {
+      "accountName": "Emri i llogarisë:",
+      "bankName": "Emri i Bankës:",
+      "accountNumber": "Numri i llogarisë:",
+      "routingNumber": "Numri i Rrugës:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referencë:"
+    },
+    "instructions": "Ju lutemi të përfshini &quot; <strong>Tempulli Orbital - {donationType}</strong> &quot; në fushën e referencës. Pasi të keni përfunduar transferimin tuaj, na dërgoni një email në <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> me të dhënat tuaja të transferimit për të marrë faturën tuaj tatimore.",
+    "button": "Na Kontaktoni Rreth Depozitës →"
+  },
+  "taxInfo": {
+    "heading": "Dhurime të Zbritshme nga Tatimi",
+    "description": "Orbital Temple është një projekt i sponsorizuar financiarisht nga <strong>The Field (Performance Zone Inc.)</strong> , një organizatë jofitimprurëse <strong>501(c)(3)</strong> . Të gjitha kontributet e SHBA-së janë të zbritshme nga taksat në masën e lejuar me ligj.",
+    "questions": "Pyetje? Na kontaktoni në <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

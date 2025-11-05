@@ -1,0 +1,43 @@
+{
+  "title": "Addysg a Ffynhonnell Agored - Teml Orbital",
+  "heading": "Addysg a Ffynhonnell Agored",
+  "intro": {
+    "paragraph1": "Bydd yr holl dechnoleg a ddatblygir ar gyfer cenhadaeth Orbital Temple yn <strong>ffynhonnell agored</strong> ac ar gael ar-lein mewn <strong>Portiwgaleg</strong> , <strong>Saesneg</strong> , <strong>Sbaeneg</strong> a <strong>Hindi</strong> , gan feithrin datblygiad archwilio gofod yn y <strong>De Byd-eang</strong> . Gall cenadaethau a phrosiectau newydd ddefnyddio Orbital Temple fel sylfaen ar gyfer eu harbrofion artistig neu wyddonol eu hunain.",
+    "paragraph2": "Fel rhan o&#39;i genhadaeth addysgol, bydd Orbital Temple yn cynnig cwrs amlieithog am ddim ar sut i adeiladu a lansio lloeren. Bydd yn gyfle ymarferol i ddysgu am dechnoleg lloeren a&#39;i rhoi ar waith. Bydd unrhyw un dros <strong>16</strong> oed yn gallu adeiladu eu lloeren eu hunain, gan ddysgu am hanes celf yn y gofod, cysyniadau sylfaenol electroneg, mecaneg a gwyddoniaeth ofod, gan gynnwys sut i ariannu prosiectau a sut i adeiladu antena i gyfathrebu â lloerennau mewn orbit."
+  },
+  "spaceGap": {
+    "heading": "Pam Mae Hyn yn Bwysig: Y Bwlch Gofod",
+    "paragraph1": "Mae&#39;r term <strong>&quot;Bwlch Gofod&quot;</strong> yn cyfeirio at y rhaniad rhwng gwledydd datblygedig sy&#39;n gallu cael mynediad at y cyfleoedd technolegol a geir trwy archwilio&#39;r gofod, a gwledydd sy&#39;n datblygu sydd heb fynediad at y technolegau hyn. Rhaid i wledydd yn y De Byd-eang dalu symiau sylweddol i lywodraethau neu gwmnïau tramor am fynediad sylfaenol at wybodaeth a gynhyrchir gan dechnolegau lloeren.",
+    "paragraph2": "Mae technoleg gofod yn darparu manteision hanfodol: mae lloerennau&#39;n helpu i frwydro yn erbyn torri coed anghyfreithlon, pysgota anghyfreithlon, a masnach anghyfreithlon mewn bywyd gwyllt, sy&#39;n cynrychioli mwy na <strong>$73 biliwn y flwyddyn</strong> . Maent yn darparu gwybodaeth hanfodol am yr hinsawdd, cynhyrchu dŵr, a diogelwch bwyd. Mae lloerennau&#39;n galluogi technegau dyfrhau ac amaethyddol manwl gywir, ac yn helpu i atal trychinebau naturiol. Gallai&#39;r diwydiant gofod greu hyd at <strong>1 filiwn o swyddi</strong> erbyn <strong>2030</strong> , ond mae&#39;r cyfleoedd hyn yn parhau i fod yn anhygyrch i lawer yn y De Byd-eang.",
+    "paragraph3": "Drwy ddarparu technoleg ac addysg ffynhonnell agored, ein nod yw democrateiddio mynediad i ofod a grymuso cenhedlaeth newydd i freuddwydio y tu hwnt i'r awyr."
+  },
+  "empowering": {
+    "heading": "Grymuso'r Genhedlaeth Nesaf",
+    "intro": "Byddwn yn dysgu'r genhedlaeth nesaf o archwilwyr gofod sut i adeiladu a lansio eu lloerennau eu hunain, gan gwmpasu pynciau hanfodol gan gynnwys:",
+    "topics": {
+      "history": "<strong>Hanes celf yn y gofod:</strong> Deall llinach lloerennau artistig a gweithiau celf yn y gofod.",
+      "concepts": "<strong>Cysyniadau craidd:</strong> <strong>ArtSat</strong> (lloerennau artistig), technoleg gofod <strong>Ffynhonnell Agored</strong> , a&#39;r <strong>Bwlch Gofod</strong> .",
+      "missions": "<strong>Teithiau gofod:</strong> Sut i gysyniadoli a dylunio taith, a sut i ffurfio tîm i&#39;w chyflawni.",
+      "electronics": "<strong>Electroneg yn y gofod:</strong> Cysyniadau sylfaenol cydrannau electronig a all oroesi a gweithredu yn yr amgylchedd gofod.",
+      "mechanics": "<strong>Mecaneg yn y gofod:</strong> Deall y gofynion strwythurol a mecanyddol ar gyfer dylunio lloerennau.",
+      "orbits": "<strong>Orbitau a lanswyr:</strong> Gwahanol fathau o orbitau a sut i ddewis darparwyr lansio ar gyfer eich cenhadaeth.",
+      "financing": "<strong>Strategaethau ariannu:</strong> Sut i sicrhau cyllid ac adnoddau i lansio eich lloeren. Bydd y cwrs yn darparu adnoddau ar gyfer cael cyllid ar gyfer eich lansiad, gan helpu myfyrwyr i ddod o hyd i raglenni a grantiau gan sefydliadau rhyngwladol sy&#39;n cefnogi gwyddonwyr ifanc a myfyrwyr i anfon eu lloerennau i&#39;r gofod.",
+      "groundStation": "<strong>Datblygu gorsaf ddaear:</strong> Sut i adeiladu antena i gyfathrebu â&#39;r Deml Orbitol a lloerennau eraill."
+    }
+  },
+  "technology": {
+    "heading": "Y Dechnoleg: Lloerennau PocketQube",
+    "paragraph1": "Bydd myfyrwyr yn dysgu gweithio gyda lloerennau <strong>PocketQube</strong> , safon nano-loeren sy&#39;n mesur dim ond <strong>5cm³</strong> ac yn pwyso hyd at <strong>250g</strong> . Er gwaethaf eu maint bach, mae PocketQubes yn offer pwerus sy&#39;n gallu arsylwi, monitro a chyfathrebu&#39;r Ddaear.",
+    "paragraph2": "Mae gan y lloerennau cryno hyn nifer o gymwysiadau yn y byd go iawn, o ymchwil wyddonol ar newid hinsawdd i gyfathrebu rhyng-gyfandirol. Gan eu bod yn llai ac yn ysgafnach, maent yn fwy fforddiadwy i'w hadeiladu a'u lansio, gan wneud gofod yn fwy hygyrch i fyfyrwyr, ymchwilwyr ac artistiaid ledled y byd."
+  },
+  "globalAccess": {
+    "heading": "Mynediad Byd-eang, Gan ddechrau o'r De Byd-eang",
+    "paragraph1": "Bydd y cwrs ar gael i unrhyw un <strong>16 oed neu hŷn</strong> , yn <strong>rhad ac am ddim</strong> . Rydym yn dechrau gyda chynnwys mewn <strong>Portiwgaleg</strong> , <strong>Sbaeneg</strong> , <strong>Saesneg</strong> a <strong>Hindi</strong> , gyda chynlluniau i ehangu i ieithoedd ychwanegol wrth i&#39;r rhaglen dyfu.",
+    "paragraph2": "Mae ein cenhadaeth yn dechrau yn y De Byd-eang ac yn ymestyn i'r byd, gan sicrhau bod y genhedlaeth nesaf o archwilwyr gofod yn dod o bob cwr o'r Ddaear."
+  },
+  "callToAction": {
+    "heading": "Helpwch Ni i Wneud Hyn yn Ddigwydd",
+    "content": "Mae&#39;r rhaglen addysgol hon yn cael ei datblygu ar hyn o bryd. Rydym yn chwilio am bartneriaid a rhoddwyr sy&#39;n rhannu ein gweledigaeth o ddemocrateiddio mynediad at dechnoleg gofod. Os hoffech chi neu&#39;ch sefydliad gefnogi&#39;r fenter hon, ewch i&#39;n <a href=\"/support\">tudalen gymorth</a> i ddysgu am gyfleoedd partneriaeth."
+  },
+  "imageAlt": "Lloeren Orbital Temple"
+}

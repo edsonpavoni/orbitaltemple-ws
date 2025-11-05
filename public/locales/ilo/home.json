@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital nga Templo",
+    "subtitle": "ket maysa nga obra ti arte ken satellite, .\npanggepna ti agbalin a radikal a mangiraman a templo, .\niti lugar nga awan ti madanon a pader."
+  },
+  "ritual": {
+    "label": "ritual"
+  },
+  "cta": {
+    "link": "Kaskasdi, sabali manen a templo?",
+    "arrowAlt": "gayang"
+  },
+  "dome": {
+    "alt": "Dome ti"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Waxbarashada & Isha Furan - Macbadka Orbital",
+  "heading": "Waxbarashada & Isha Furan",
+  "intro": {
+    "paragraph1": "Dhammaan tignoolajiyada loo sameeyay howlgalka Macbadka Orbital waxa ay noqon doontaa <strong>il furan</strong> oo laga heli karo <strong>Boortaqiis</strong> , <strong>Ingiriisi</strong> , <strong>Isbaanish</strong> , iyo <strong>Hindi</strong> , taas oo kobcinaysa horumarinta sahaminta hawada ee <strong>Koonfurta Caalamiga ah</strong> . Hawlgallada cusub iyo mashaariicda waxay u isticmaali karaan Macbadka Orbital sida aasaaska tijaabooyinkooda farshaxan ama sayniska.",
+    "paragraph2": "Iyada oo qayb ka ah himiladeeda waxbarasho, Orbital Temple waxa ay bixin doontaa koorso luuqado badan ah oo bilaash ah oo ku saabsan sida loo dhiso loona diro dayax-gacmeed. Waxay noqon doontaa fursad gacmeed si aad wax uga barato tignoolajiyada dayax-gacmeedka oo aad ku dhaqangeliso. Qof kasta oo ka weyn da&#39;da <strong>16</strong> wuxuu awoodi doonaa inuu dhiso dayax-gacmeed u gaar ah, barashada taariikhda fanka ee hawada sare, fikradaha aasaasiga ah ee elektiroonigga ah, makaanikada iyo sayniska hawada sare, oo ay ku jiraan sida loo maalgeliyo mashaariicda iyo sida loo dhiso anteeno si ay ula xiriiraan satalaytka ee orbit."
+  },
+  "spaceGap": {
+    "heading": "Sababta Tani Muhiim U Leedahay: Farqiga Hawada",
+    "paragraph1": "Erayga <strong>“Space Gap”</strong> waxa uu tilmaamayaa kala qaybsanaanta u dhaxaysa wadamada horumaray ee heli kara fursadaha teknoolajiyada ee lagu helo sahaminta hawada sare, iyo wadamada soo koraya ee aan heli karin tignoolajiyadaasi. Wadamada ku yaal koonfurta caalamiga ah waa inay bixiyaan lacag aad u badan dawlado shisheeye ama shirkado si ay u helaan macluumaadka aasaasiga ah ee ay soo saaraan tignoolajiyada dayax-gacmeedka.",
+    "paragraph2": "Tiknoolajiyada hawada sare waxay bixisaa faa&#39;iidooyin muhiim ah: dayax gacmeedyadu waxay caawiyaan la dagaalanka jarista sharci darrada ah, kalluumaysiga sharci darrada ah, iyo ka ganacsiga duurjoogta sharci darrada ah, taas oo u dhiganta in ka badan <strong>$73 bilyan sannadkii</strong> . Waxay bixiyaan macluumaadka muhiimka ah ee ku saabsan cimilada, wax soo saarka biyaha, iyo sugnaanta cuntada. Dayax gacmeedyadu waxay awood u siiyaan waraabka saxda ah iyo farsamooyinka beeraha, waxayna caawiyaan ka hortagga masiibooyinka dabiiciga ah. Warshadaha hawada sare waxay abuuri karaan ilaa <strong>1 milyan oo shaqo</strong> marka la gaaro <strong>2030</strong> , haddana fursadahan ayaa ah kuwo aan heli karin qaar badan oo ku nool Koonfurta Caalamka.",
+    "paragraph3": "Anagoo bixinayna tignoolajiyada il furan iyo waxbarasho, waxaan hiigsaneynaa inaan dimuqraadiyeyno helida meel bannaan oo aan awoodno jiilka cusub inay ku riyoodaan meel ka baxsan cirka."
+  },
+  "empowering": {
+    "heading": "Xoojinta Jiilka soo socda",
+    "intro": "Waxaan bari doonaa jiilka soo socda ee sahamiyeyaasha hawada sare sida loo dhiso oo loo diro dayax-gacmeedkooda, iyaga oo ka hadlaya mowduucyada muhiimka ah oo ay ka mid yihiin:",
+    "topics": {
+      "history": "<strong>Taariikhda fanka ee hawada sare:</strong> Fahamka nasabka satalaytka fanka iyo farshaxanimada ku salaysan meel bannaan.",
+      "concepts": "<strong>Fikradaha Muhiimka ah:</strong> <strong>ArtSat</strong> (satellite-yada farshaxanka), tignoolajiyada bannaan <strong>ee isha furan</strong> , iyo <strong>farqiga hawada sare</strong> .",
+      "missions": "<strong>Hawlgallada bannaan:</strong> Sida fikradda loo naqshadeeyo oo loo naqshadeeyo howlgalka, iyo sida loo sameeyo koox si ay u fuliyaan.",
+      "electronics": "<strong>Elektarooniga ee meel bannaan:</strong> Fikradaha aasaasiga ah ee qaybaha elektiroonigga ah ee ku noolaan kara oo ka shaqeyn kara jawiga bannaan.",
+      "mechanics": "<strong>Mechanics in space:</strong> Fahamka shuruudaha qaabdhismeedka iyo farsamada ee naqshadeynta dayax-gacmeedka.",
+      "orbits": "<strong>Orbits iyo launchers:</strong> Noocyada kala duwan ee orbits iyo sida loo doorto bixiyeyaasha bilaabista hadafkaaga.",
+      "financing": "<strong>Xeeladaha Maalgelinta:</strong> Sida loo sugo maalgelinta iyo agabka lagu soo diro dayax-gacmeedkaaga. Koorsadu waxay ku siin doontaa agab aad ku hesho maalgelinta bilaabistaada, ka caawinta ardayda inay helaan barnaamijyo iyo deeqo hay&#39;adaha caalamiga ah ee taageera saynisyahanada da&#39;da yar iyo ardayda u dirida dayax-gacmeedkooda hawada sare.",
+      "groundStation": "<strong>Horumarinta saldhiga dhulka:</strong> Sida loo dhiso anteeno si loola xidhiidho Macbadka Orbital iyo dayax-gacmeedyada kale."
+    }
+  },
+  "technology": {
+    "heading": "Farsamada: PocketQube Satellites",
+    "paragraph1": "Ardaydu waxay baran doonaan inay la shaqeeyaan satalaytka <strong>PocketQube</strong> , heerka nanosatellite oo cabbirkiisu yahay <strong>5cm³</strong> oo keliya culeyskiisuna yahay ilaa <strong>250g</strong> . In kasta oo ay yar yihiin cabbirkooda, PocketQubes waa qalab awood u leh indha-indheynta Dhulka, la socodka, iyo isgaarsiinta.",
+    "paragraph2": "Dayax gacmeedyadan is haysta waxay leeyihiin codsiyo badan oo dunida dhabta ah, laga soo bilaabo cilmi baadhisyo cilmiyaysan oo ku saabsan isbedelka cimilada ilaa xidhiidhka ka dhexeeya qaaradaha. Sababtoo ah way yaryar yihiin oo way fudud yihiin, way ka jaban yihiin in la dhiso oo la bilaabo, taas oo ka dhigaysa meel bannaan oo la heli karo ardayda, cilmi-baarayaasha, iyo fanaaniinta adduunka oo dhan."
+  },
+  "globalAccess": {
+    "heading": "Helitaanka Caalamiga ah, Laga bilaabo Koonfurta Caalamiga ah",
+    "paragraph1": "Koorsadu waxay heli doontaa qof kasta oo <strong>jira 16 sano ama ka weyn</strong> , gabi ahaanba <strong>bilaash</strong> . Waxaan ku bilaabaynaa nuxurka <strong>Bortuqiisku</strong> , <strong>Isbaanish</strong> , <strong>Ingiriisi</strong> , iyo <strong>Hindi</strong> , iyadoo qorshuhu yahay in aanu ku fidinno luqado dheeraad ah marka uu barnaamijku sii kordho.",
+    "paragraph2": "Hadafkayagu wuxuu ka bilaabmayaa Koonfurta Caalamiga ah wuxuuna ku fidaa aduunka, anagoo hubinayna in jiilka soo socda ee sahamiyayaasha hawada sare ay ka yimaadaan dhammaan geesaha Dhulka."
+  },
+  "callToAction": {
+    "heading": "Naga caawi in ay tani dhacdo",
+    "content": "Barnaamijkan waxbarasho ayaa hadda socda. Waxaan raadineynaa la-hawlgalayaal iyo deeq-bixiyeyaal nala wadaaga aragtidayada dimuqraadiyeynta helitaanka tignoolajiyada hawada sare. Haddii adiga ama ururkaagu aad jeclaan lahaydeen inaad taageertaan hindisahan, fadlan booqo <a href=\"/support\">boggayaga taageerada</a> si aad wax uga barataan fursadaha iskaashiga."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbitale Tempel",
+    "subtitle": "is 'n kunswerk en 'n satelliet,\nwat daarop gemik is om 'n radikale inklusiewe tempel te wees,\nop 'n plek waar geen muur kan bykom nie."
+  },
+  "ritual": {
+    "label": "ritueel"
+  },
+  "cta": {
+    "link": "Nog 'n tempel?",
+    "arrowAlt": "pyl"
+  },
+  "dome": {
+    "alt": "Koepel"
+  }
+}

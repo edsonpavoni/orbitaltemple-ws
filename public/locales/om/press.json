@@ -1,0 +1,138 @@
+{
+  "title": "Press & Media - Mana Qulqullummaa Orbital",
+  "heading": "Preesii fi Miidiyaa",
+  "pressContact": {
+    "heading": "Quunnamtii dhiibaa",
+    "content": "Gaaffii preesii, gaaffii fi deebii, fi gaaffii miidiyaaf:<br /> <strong>Imeelii:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Marsariitii:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Waa'ee Pirojektichaa",
+    "paragraph1": "Orbital Temple hojii aartii fi saatalaayitii mana qulqullummaa hundee irraa hunda hammate ta'uuf kan kaayyeffate yoo ta'u, bakka dallaan tokkollee hin dhaqqabne ijaarame. Artistii lammii Biraazil Edson Pavoni, artistii yaadannoo Inumeráveis duuba jiru kan yeroo weerara COVID tokkoon tokkoon lammiilee Biraazil 6 keessaa 1 qaqqabeen kan uumame pirojektiin kun namoota addunyaa irraa dhufan maqaa nama yaadachuu barbaadan akka erganiif affeera. Maqaaleen kun gara saatalaayitii orbiiti keessa jirtutti darbuun yaadannoo waloo uuma.",
+    "paragraph2": "Karaa marsariitii afaanota 136n argamuun hirmaattonni sirna gosa haaraa irratti bobba’u. Manni Qulqullummaa Orbitaalaa mata dureewwan hammatamuu, yaadannoo, fi namummaa keenya waliin qabnu qorata, maaliif manni qulqullummaa fiizikaalaa Lafa irratti argamu kamiyyuu dhuguma nama hunda simachuu akka hin dandeenye gaaffii keessa galcha, akkasumas iddoo akka iddoo tokkicha hammatamuu hundee qabu jiraachuu danda’u yaada dhiheessa."
+  },
+  "aboutArtist": {
+    "heading": "Waa'ee Artistii",
+    "paragraph1": "<strong>Edson Pavoni</strong> artistii lammii Biraazil yoo ta&#39;u imalli isaa daandii Saa&#39;oo Paawuloo irratti kan jalqabe yoo ta&#39;u, haala hiyyummaa fi jeequmsaa waggoota jalqabaa isaa boce. Biyya Kiristaanummaan daandii, qoricha sammuu namaa hadoochuu fi jeequmsa irraa fagaachuuf karaa itti dhiheesse keessatti, Paavoniin amantii keessatti baqannaa argate, mata dureen kun boodarra, yeroo qeeqaa miidhaa amantii ta’u, shaakala aartii isaa beeksisa.",
+    "paragraph2": "Bara 2020, yeroo weerara COVID-19, Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (lakkoofsa hin qabne)</a></strong> , hojii aartii walqunnamtii aartii fi gaazexeessummaa irratti uume. Pirojektiin kun maatii kumaatamaan lakkaa&#39;aman gaafachuun seenaa namoota weerara vaayirasii koronaan dhabaman barreessee, iddoo yaadannoo lakkoofsaa fi istaatiksii irra darbu uumeera. Seenaa sanaan walaloo, sirboonni fi simfooniiwwan hojjetaman turan. Gaazexoonni maqaa fi seenaa fayyadamuun haguuggii uume. Urjiileen Biraazil hundi kanneen akka Oskaar injifatte Fernanda Torres, fi urjiileen akka Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo fi Lazaro Ramos, fi kanneen biroo hedduun seenaa sana televijiinii biyyaalessaa irratti dubbisu. Pirojektiin kun namoota miiliyoona 32 kan qaqqabe yoo ta&#39;u, ga&#39;eessota Biraazil afur keessaa tokko. Toora fayyinaa, siidaa waloo yaadannoo ta&#39;e.",
+    "paragraph3": "Haasawa kuma kudhanii ol gadda waliin erga haasofnee booda, akkaataan tokko mul’ate: waa’ee nama du’ee yeroo dubbannu, akka waan xalayaa gorsaa karra eegduu jannataa barreessinutti ciccitaa seenaa isaanii filanna. Gara samii jennee amannutti isaan erguuf waan dandeenyu hunda goona. Hojiin kun hubannoo haaraa kakaase: Eenyuutu samiin akka malu amanuun keenya kallattiin eenyuun akka fudhannu ykn akka hambifnu lafa irratti boca. Koloneeffattoonni Poorchugaal Biraazil keessa turan namoonni Gurraachonni lubbuu akka hin qabne amanu turan; amantiin sun garbummaaf sababa ta’e. Yoo dhalataa taate, yoo bakka hin taane dhalatte ykn nama dogoggoraa jaallatte, ammallee, hanga har'aatti, balballi samii siif cufame jedhama. Mul'anni gara fuula duraa diduudhaan hin guutamne jiraa?",
+    "paragraph4": "Akkasitti Orbital Temple dhalate."
+  },
+  "keyFacts": {
+    "heading": "Dhugaawwan Ijoo",
+    "artist": "<strong>Artistii:</strong> Edson Pavoni (Biraazil)",
+    "projectType": "<strong>Gosa Pirojektii:</strong> Hojii aartii saatalaayitii, iddoo irratti bakka adda ta’e, sirna weeb irratti hundaa’e",
+    "launchDate": "<strong>Guyyaa Eebbaa:</strong> Adoolessa 28, 2025",
+    "launchLocation": "<strong>Bakki Eebba:</strong> Giddugala Hawaa Satish Dhawan, Sriharikota, Hindii (ISRO)",
+    "satellite": "<strong>Saatalaayitii:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbiiti:</strong> Olka’iinsa 525km, Aduu-walsimsiisaa",
+    "participation": "<strong>Hirmaannaa:</strong> Bilisaa, akka addunyaatti nama hundaaf banaadha",
+    "namesSent": {
+      "heading": "<strong>Maqaawwan Gara Orbiititti Ergaman:</strong>",
+      "caption": "<em>Lakkoofsi kallattiin kuusdeetaa irraa haaromfame • Yeroo dhumaaf haaromfame: {guyyaa}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Badhaasa & Beekkamtii",
+    "mercosul": {
+      "title": "<strong>Waggaa lamaa Mercosur 13ffaa</strong> (2022)",
+      "location": "Poortoo Alegre, Biraazil",
+      "curator": "Kan qopheesse Marcelo Dantas dha"
+    },
+    "lumen": {
+      "title": "<strong>Badhaasa Lumen 2022 - Badhaasa Futures</strong>",
+      "status": "Tarree dheeraa kan qabu"
+    },
+    "cubeDesign": {
+      "title": "<strong>Dorgommii CubeDesign 2021</strong>",
+      "award": "Mo'ataa - ArtSat Category",
+      "org": "Inistiitiyuutii Qorannoo Hawaa Biraazil (INPE) tiin kan guddifame"
+    }
+  },
+  "team": {
+    "heading": "Garee",
+    "content": "Orbital Temple kan uumame Saathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael waliin ta'uun Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, fi warra mana qulqullummaa kanaaf maqaa yaada kennuu itti fufan hunda."
+  },
+  "pressCoverage": {
+    "heading": "Featured In / Uwwisa Pireesii",
+    "paragraph1": "<em>Uwwisni preesii fi amaloonni akkuma argamanitti ni dabalamu. Odeeffannoo haaraa argachuuf garee preesii keenya qunnamaa.</em>",
+    "paragraph2": "Agarsiisni fi wantoota kanaan dura turan Bienaal Mercosul 13ffaa irratti dhiheessi, badhaasa Lumen irraa beekamtii argachuu, fi filannoo Inistiitiyuutii Qorannoo Hawaa Biraazil (INPE) kan dabalatudha."
+  },
+  "images": {
+    "heading": "Fakkiiwwan Qulqullina Ol'aanaa Qaban Fayyadama Pireesiitiif",
+    "intro": "Suuraaleen hundinuu itti fayyadama gulaalaaf ni argamu. Faayila qulqullina olaanaa qabu buufachuuf fakkii kamiyyuu cuqaasaa.",
+    "installationPhotos": {
+      "heading": "Suuraalee Mana Qulqullummaa Orbital",
+      "credit": "Maaloo: \"Suuraan kan Clara Marques / Kabaja Edson Pavoni, Orbital Temple irraa argame\".",
+      "view01": "Mul&#39;ata Dhaabbii 01<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Buufadhu High-Res (1.4 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "view02": "Mul&#39;ata Dhaabbii 02<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Buufadhu High-Res (2.9 MB) .",
+      "view03": "Mul&#39;ata Dhaabbii 03<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Download High-Res (11 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "view04": "Ilaalcha Dhaabbii 04<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Download High-Res (3.4 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "view05": "Ilaalcha Dhaabbii 05<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Download High-Res (3.3 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "view06": "Ilaalcha Dhaabbii 06<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Download High-Res (3.7 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "view07": "Mul&#39;ata Dhaabbii 07<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Download High-Res (3.4 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "view08": "Mul&#39;ata Dhaabbii 08<br /> Suuraa: Kilaaraa Maarkis<br /> ↓ Download High-Res (2.7 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "satelliteDesign": "Dizaayinii Saatalaayitii<br /> ↓ Buufadhu",
+      "antennaSculpture": "Anteenaa/Siidaa<br /> ↓ Buufadhu"
+    },
+    "renders": {
+      "heading": "Mana Qulqullummaa Orbital Renders",
+      "credit": "Yaad-rimee 3D agarsiisa Mana Qulqullummaa Orbital. Maaloo: \"3D Rendering by RiseNY&Partners / Kabaja Edson Pavoni, Orbital Temple irraa argame\"",
+      "render01": "3D Rendering 01<br /> RiseNY&amp;Michoota<br /> ↓ Download High-Res (10 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "render02": "3D Rendering 02<br /> RiseNY&amp;Michoota<br /> ↓ Download High-Res (5.9 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "render03": "3D Rendering 03<br /> RiseNY&amp;Michoota<br /> ↓ Download High-Res (5.2 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo.",
+      "render04": "3D Rendering 04<br /> RiseNY&amp;Michoota<br /> ↓ Download Ol&#39;aanaa-Res (11 MB) .",
+      "render05": "3D Rendering 05<br /> RiseNY&amp;Michoota<br /> ↓ Download High-Res (13 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo."
+    },
+    "artistPhotos": {
+      "heading": "Suuraa Artistootaa",
+      "photo1": "Suuraa 1<br /> ↓ Download Ol&#39;aanaa-Res",
+      "photo2": "Suuraa 2ffaa<br /> ↓ Download Ol&#39;aanaa-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Suuraalee Sathi Roy",
+      "photo1": "Suuraa 1<br /> ↓ Download Ol&#39;aanaa-Res (843 KB) .",
+      "photo2": "Suuraa 2<br /> ↓ Download High-Res (1.8 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo."
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Ispeesifikeeshinii Teeknikaa",
+    "satellite": {
+      "heading": "Saatalaayitii",
+      "dimensions": "Safartuu: 50 x 58 x 64 mm",
+      "classification": "Ramaddii: 1P PocketQube",
+      "weight": "Ulfaatina: 245g",
+      "materials": "Meeshaalee: Aluminium, warqee, faayibargilaasii, qaamolee elektirooniksii",
+      "orbit": "Orbiiti: Olka’iinsa 525 ± 25 km; Inkliineeshinii: SSO 97.6 ± 0.1°",
+      "launch": "Eebba: Adoolessa 28, 2025 karaa ISRO, Hindii"
+    },
+    "antenna": {
+      "heading": "Anteenaa/Siidaa",
+      "dimensions": "Safartuu: 6m daayameetira x 1.2m olka’iinsa",
+      "weight": "Ulfaatina: 46 kg",
+      "materials": "Meeshaalee: Aluminiyeemii, boordii daawwitii epooksii, golee aluminiyeemii warqee caasaa iskaafooldiitiin fannifame"
+    },
+    "radio": {
+      "heading": "Ispeesifikeeshinii Raadiyoo",
+      "downlink": "Daandii gadi bu'aa: 437 MHz",
+      "status": "Haala Eebbaa: Adoolessa 28, 2025tti beellamame"
+    }
+  },
+  "additionalResources": {
+    "heading": "Qabeenya Dabalataa",
+    "artwork": "→ Dokumantarii Hojii Aartii Ilaaluu",
+    "howItWorks": "→ Akkaataa Itti Hojjetu",
+    "technicalInfo": "→ Odeeffannoo Teeknikaa",
+    "spaceLaunch": "→ Odeeffannoo Eebba Hawaa",
+    "ritual": "→ Sirna kana mudachuu"
+  },
+  "imageAlts": {
+    "installation": "Dhaabbii Mana Qulqullummaa Orbitaalaa kan barreesse Edson Pavoni",
+    "satelliteDesign": "Dizaayinii Saatalaayitii Mana Qulqullummaa Orbital",
+    "antenna": "Fakkii Anteenaa Mana Qulqullummaa Orbital",
+    "render": "Mana Qulqullummaa Orbital 3D Rendering kan RiseNY&Partners",
+    "edsonPortrait": "Suuraa Edson Pavoni",
+    "sathiPortrait": "Suuraa Sathi Roy",
+    "lumenPrize": "Badhaasa Lumen",
+    "mercosulBienal": "Mercosur Biennaal jedhamuun beekama"
+  }
+}

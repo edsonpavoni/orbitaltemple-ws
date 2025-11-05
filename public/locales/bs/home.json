@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbitalni hram",
+    "subtitle": "je umjetničko djelo i satelit,\nkoji teži da bude radikalno inkluzivni hram,\nna mjestu do kojeg nijedan zid ne može doći."
+  },
+  "ritual": {
+    "label": "ritual"
+  },
+  "cta": {
+    "link": "Ipak, još jedan hram?",
+    "arrowAlt": "strelica"
+  },
+  "dome": {
+    "alt": "Kupola"
+  }
+}

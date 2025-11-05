@@ -1,0 +1,8 @@
+{
+  "title": "Cách thức hoạt động - Orbital Temple",
+  "heading": "Nó hoạt động như thế nào",
+  "intro": "Dự án Đền quỹ đạo bao gồm ba yếu tố liên kết với nhau, hoạt động cùng nhau để gửi tên đến ngôi đền trong không gian.",
+  "paragraph1": "Vệ tinh quay quanh Trái Đất ở độ cao khoảng 525 km, lưu trữ tên người dùng trong bộ nhớ. Các trạm mặt đất liên lạc với vệ tinh trong quá trình vệ tinh bay qua, truyền tải tên người dùng đã gửi qua trang web.",
+  "paragraph2": "Khi bạn gửi tên, tên đó sẽ được đưa vào hàng đợi và sẽ được truyền đến vệ tinh trong lần truyền tiếp theo. Bạn sẽ nhận được email xác nhận khi tên của bạn đã được tải thành công lên Orbital Temple.",
+  "imageAlt": "Sơ đồ hệ thống đền thờ quỹ đạo"
+}

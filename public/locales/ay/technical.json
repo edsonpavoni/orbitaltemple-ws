@@ -1,0 +1,17 @@
+{
+  "title": "Info Técnica - Templo Orbital ukat juk’ampinaka",
+  "heading": "Info Técnica ukax mä juk’a pachanakanwa",
+  "satellite": {
+    "heading": "Satélite ukan uñt’ayata",
+    "specs": "Ukax akhamawa: 50x58x64 mm<br /> 1P PocketQube ukax mä juk’a pachanakanwa<br /> Ukax akhamawa: 245 gr<br /> Materiales: aluminio, quri, fibra de vidrio ukat componentes electrónicos ukanaka.<br /> Orbita: Altura 525 ± 25 km; inclinación: SSO 97,6 ± 0,1° ukjawa<br /> Lanzador: PSLV (Vehículo de Lanzamiento de Satélite Polar) ukax ISRO ukan apnaqatawa"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura ukat juk’ampinaka",
+    "specs": "Dimensiones: 6 m (diámetro) e 1,2m (altura) .<br /> Ukax akhamawa: 46 kg<br /> Materiales: aluminio, tabla espejo epoxi, cúpula de aluminio quri suspendida mä estructura andamio tuqi."
+  },
+  "radio": {
+    "heading": "Radio Especificaciones ukax mä juk’a pachanakanwa",
+    "specs": "Ukax akhamawa: 468,5 MHz<br /> Modulación: CSS ukat juk’ampinaka<br /> Ancho de banda: TBD ukat juk’ampinaka"
+  },
+  "imageAlt": "Satélite del Templo Orbital ukax mä jach’a uñacht’äwiwa"
+}

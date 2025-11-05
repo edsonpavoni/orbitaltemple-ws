@@ -1,0 +1,31 @@
+{
+  "title": "Okuwaayo eri Orbital Temple",
+  "heading": "Maliriza Okuwaayo Kwo",
+  "donatingTo": "Owaayo eri:",
+  "chooseHow": "Londa engeri gy’oyagala okumalirizaamu okuwaayo kwo okuggyibwako omusolo:",
+  "option1": {
+    "heading": "Eky’okukola 1: Okuwaayo ku mutimbagano Kati",
+    "description": "Maliriza amangu ddala okuwaayo kwo ng’okozesa kaadi y’okuwola, kaadi y’okusasula, oba enkola endala ez’okusasula ku yintaneeti ng’oyita mu muwagizi waffe ow’ebyensimbi ow’obukuumi, <strong>The Field</strong> . Ojja kufuna lisiiti y’omusolo mu bwangu.",
+    "button": "Waayo ng'oyita mu The Field →"
+  },
+  "option2": {
+    "heading": "Eky’okubiri: Okutereka ssente mu bbanka mu The Roy Foundation",
+    "description": "Teeka ssente butereevu mu bbanka oba okukyusa ku waya eri <strong>The Roy Foundation</strong> , omukwanaganya waffe ow’enteekateeka era omuwagizi w’ebyensimbi. Enkola eno nnungi nnyo ku kuwaayo okunene oba okukyusa mu nsi yonna.",
+    "bankingInfo": "Amawulire ga Bbanka",
+    "fields": {
+      "accountName": "Erinnya lya Akawunti:",
+      "bankName": "Erinnya lya Bbanka:",
+      "accountNumber": "Ennamba ya Akawunti:",
+      "routingNumber": "Ennamba y’Ekkubo:",
+      "swift": "SWIFT/BIC: 100,000/-.",
+      "reference": "Okwebuuza ewalala:"
+    },
+    "instructions": "Nsaba oteekemu &quot; <strong>Orbital Temple - {donationType}</strong> &quot; mu kifo eky&#39;okujuliza. Oluvannyuma lw’okumaliriza okukyusa kwo, tuwandiikire ku <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> n’ebikwata ku kukyusa kwo okufuna lisiiti yo ey’omusolo.",
+    "button": "Tukwasaganye Ebikwata ku Kutereka →"
+  },
+  "taxInfo": {
+    "heading": "Okuwaayo Okuggyibwako Omusolo",
+    "description": "Orbital Temple ye pulojekiti eyambibwako eby’ensimbi eya <strong>The Field (Performance Zone Inc.)</strong> , ekitongole ekitali kya magoba <strong>ekya 501(c)(3)</strong> . Ensimbi zonna eza Amerika ziggyibwako omusolo okutuuka ku kigero ekikkirizibwa mu mateeka.",
+    "questions": "Ebibuuzo? Tukwasaganye ku <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

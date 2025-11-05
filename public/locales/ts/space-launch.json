@@ -1,0 +1,16 @@
+{
+  "title": "Ku Sunguriwa ka Xibakabaka - Tempele ya Orbital",
+  "heading": "Ku Sunguriwa ka Xibakabaka",
+  "intro": "Tempele ya Orbital yi lulamisiwile ku rhumeriwa hi PSLV (Polar Satellite Launch Vehicle) hi November 28th, 2025 ku suka eka Satish Dhawan Space Center eSriharikota, India.",
+  "partnership": "Ku simekiwa ka Tempele ya Orbital i ntirhisano exikarhi ka NewSpace India Limited (NSIL), Khamphani ya Mfumo wa India ehansi ka Ndzawulo ya Xibakabaka, Antrix Corporation, na mutshila. Ntirhisano lowu wu yimela xiendlakalo xa nkoka eka vutshila eka ku lavisisa xibakabaka, ku hlanganisa nongonoko wa le xibakabakeni wa India na xivono xa vutshila xa ku katsa hinkwavo hi xihatla.",
+  "risks": {
+    "heading": "Makhombo",
+    "paragraph1": "Sathelayiti leyi yi akiwile leswaku yi tiyisela swiyimo swa ku rhurhumela lokukulu na swirhendzevutani swa ku hisa, naswona yi kamberiwile swinene. Hambiswiritano, ku rhumeriwa exibakabakeni ku ni makhombo lama nga kona. Loko sathelayiti yi onhakile hi nkarhi wa ku rhumeriwa kumbe ku rhumeriwa, kumbe loko yi tsandzeka ku simeka vuhlanganisi na switichi swa hina swa le hansi, hi ta tirha ku lulamisa swiphiqo na ku lulamisa timhaka tihi na tihi. Sathelayiti yi na tisisiteme leti nga pfuniki nchumu na tiphrothokholi ta vuhlayiselo leti endleriweke ku kurisa minkarhi ya ku humelela ka vurhumiwa.",
+    "paragraph2": "Ku engetela kwalaho, sathelayiti yi nga ha tshama yi ri eku rhendzelekeni ku ringana malembe ya le hansi ka khume loko swiyimo swa xibakabaka kumbe swin’wana swi vanga ku bola ka xirhendzevutana ka ha ri emahlweni. Hambileswi hi yi endleke leswaku yi teka kwalomu ka khume ra malembe, vutomi bya yona bya xiviri byi titshege hi swiyimo leswi hi nga swi kotiki ku swi lawula hi ku helela.",
+    "paragraph3": "Loko ku simekiwa ko sungula ku tsandzeka, kumbe loko hi nga swi koti ku hetisisa vurhumiwa lebyi tanihilaha swi kunguhatiweke hakona, hi ta lavisisa tindlela tin’wana to ya emahlweni, leswi nga ha katsaka ku ringeta ka vumbirhi ku simekiwa hi mpimanyeto lowu nga kona, ku tirhisana na vurhumiwa byin’wana, kumbe matsalwa ya ku ringeta tanihi xiphemu xa xitlhokovetselo xa ntirho wa vutshila mayelana na ku navela na ku ringaniseriwa."
+  },
+  "imageAlts": {
+    "india": "Ntsindza wa le Xibakabakeni wa ISRO, eIndiya",
+    "satellite": "Sathelayiti ya Tempele ya Orbital"
+  }
+}

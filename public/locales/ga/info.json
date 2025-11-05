@@ -1,0 +1,17 @@
+{
+  "title": "Eolas Teicniúil - Teampall Fithiseach",
+  "heading": "Eolas Teicniúil",
+  "satellite": {
+    "heading": "Satailít",
+    "specs": "Toisí: 50x58x64 mm<br /> 1P PocketQube<br /> Meáchan: 245 gr<br /> Ábhair: alúmanam, ór, snáithínghloine, agus comhpháirteanna leictreonacha.<br /> Fithis: Airde 525 ± 25 km; claonadh: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Dealbhóireacht",
+    "specs": "Toisí: 6 m (trastomhas) agus 1.2m (airde)<br /> Meáchan: 46 kg<br /> Ábhair: alúmanam, bord scáthánaithe eapocsa, cruinneachán alúmanaim órga ar crochadh trí struchtúr scafall."
+  },
+  "radio": {
+    "heading": "Sonraíochtaí Raidió Catalóg NASA:",
+    "specs": "Nasc Anuas le socrú: 437 MHz<br /> Glao: Stádas: SCEIDEAL DO 2025"
+  },
+  "imageAlt": "Léaráid Faisnéise Teicniúla"
+}

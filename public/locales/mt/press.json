@@ -1,0 +1,138 @@
+{
+  "title": "Stampa u Midja - Orbital Temple",
+  "heading": "Stampa u Midja",
+  "pressContact": {
+    "heading": "Kuntatt għall-Istampa",
+    "content": "Għal mistoqsijiet mill-istampa, intervisti, u talbiet mill-midja:<br /> <strong>Email:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Sit elettroniku:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Dwar il-Proġett",
+    "paragraph1": "It-Tempju Orbitali huwa xogħol artistiku u satellita li għandu l-għan li jkun tempju radikalment inklużiv, mibni fejn l-ebda ħitan ma jistgħu jilħqu. Maħluq mill-artist Brażiljan Edson Pavoni, l-artist wara l-Memorjal Inumeraráveis li laħaq 1 minn kull 6 Brażiljani matul il-pandemija tal-COVID, il-proġett jistieden lin-nies minn madwar id-dinja biex jibagħtu l-isem ta’ xi ħadd li jixtiequ jiftakru. Dawn l-ismijiet jiġu trażmessi lil satellita fl-orbita, u b’hekk jinħoloq monument kollettiv.",
+    "paragraph2": "Permezz ta’ websajt disponibbli f’136 lingwa, il-parteċipanti jieħdu sehem f’tip ġdid ta’ ritwal. It-Tempju Orbitali jesplora temi ta’ inklużjoni, memorja, u l-umanità kondiviża tagħna, billi jistaqsi għaliex l-ebda tempju fiżiku fid-Dinja ma jista’ verament jilqa’ lil kulħadd, u jipproponi l-ispazju bħala l-uniku post fejn tista’ teżisti inklużività radikali."
+  },
+  "aboutArtist": {
+    "heading": "Dwar l-Artista",
+    "paragraph1": "<strong>Edson Pavoni</strong> huwa artist Brażiljan li l-vjaġġ tiegħu beda fit-toroq ta’ São Paulo, fejn kuntest ta’ faqar u vjolenza sawwar l-ewwel snin ta’ ħajjitu. F’pajjiż fejn il-Kristjaneżmu offra triq ’il bogħod mit-toroq, id-drogi, u l-vjolenza, Pavoni sab kenn fil-fidi, tema li aktar tard, meta sar kritiku tal-abbuż reliġjuż, influwenzat il-prattika artistika tiegħu.",
+    "paragraph2": "Fl-2020, matul il-pandemija tal-COVID-19, Pavoni ħoloq <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (innumerabbli)</a></strong> , xogħol artistiku fl-intersezzjoni tal-arti u l-ġurnaliżmu. Il-proġett intervista eluf ta’ familji u kiteb stejjer ta’ dawk li tilfu minħabba l-pandemija, u ħoloq spazju fejn il-memorja qabżet in-numri u l-istatistika. Inħolqu poeżiji, kanzunetti, u sinfoniji b’dawk l-istejjer. Il-gazzetti ħolqu qoxriet bl-użu tal-ismijiet u l-istorji. L-istilel Brażiljani kollha bħal Fernanda Torres rebbieħa tal-Oscar, u stilel bħal Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo u Lazaro Ramos, u ħafna oħrajn qraw dawk l-istejjer fuq it-televiżjoni nazzjonali. Il-proġett laħaq 32 miljun ruħ, wieħed minn kull erba’ adulti Brażiljani. Sar netwerk ta’ fejqan, monument kollettiv għall-memorja.",
+    "paragraph3": "Wara aktar minn għaxart elef konversazzjoni bin-niket, tfaċċa xejra: meta nitkellmu dwar xi ħadd li miet, nagħżlu frammenti mill-istorja tiegħu bħallikieku qed niktbu ittra ta’ rakkomandazzjoni lill-gwardjan tal-ġenna. Nagħmlu l-almu tagħna biex nibagħtuhom f’dak li nemmnu li hu s-sema. Dan ix-xogħol qanqal fehim ġdid: It-twemmin tagħna dwar min jistħoqqlu s-sema jsawwar direttament lil min naċċettaw jew neskludu fid-Dinja. Il-kolonizzaturi Portugiżi fil-Brażil kienu jemmnu li l-Iswed ma kellhomx ruħ; dik it-twemmin iġġustifika l-iskjavitù. Jekk kont indiġenu, jekk twelidt fil-post ħażin jew ħabbejt il-persuna ħażina, xorta, sal-lum, jgħidulek li l-bibien tas-sema kienu magħluqa għalik. Hemm viżjoni tal-futur li mhix mimlija bir-rifjut?",
+    "paragraph4": "Hekk twieled Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Fatti Ewlenin",
+    "artist": "<strong>Artist:</strong> Edson Pavoni (Brażil)",
+    "projectType": "<strong>Tip ta&#39; Proġett:</strong> Xogħol artistiku bis-satellita, speċifiku għas-sit fl-ispazju, ritwal ibbażat fuq il-web",
+    "launchDate": "<strong>Data tat-Tnedija:</strong> 28 ta&#39; Novembru, 2025",
+    "launchLocation": "<strong>Post tat-Tnedija:</strong> Ċentru Spazjali Satish Dhawan, Sriharikota, l-Indja (ISRO)",
+    "satellite": "<strong>Satellita:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbita:</strong> altitudni ta&#39; 525km, sinkronika max-xemx",
+    "participation": "<strong>Parteċipazzjoni:</strong> B&#39;xejn, miftuħa għal kulħadd globalment",
+    "namesSent": {
+      "heading": "<strong>Ismijiet Mibgħuta fl-Orbita:</strong>",
+      "caption": "<em>Għadd dirett aġġornat mid-database • Aġġornat l-aħħar: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Premjijiet u Rikonoxximent",
+    "mercosul": {
+      "title": "<strong>It-13-il Biennali tal-Mercosur</strong> (2022)",
+      "location": "Porto Alegre, il-Brażil",
+      "curator": "Kurat minn Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Premju Lumen 2022 - Premju Futures</strong>",
+      "status": "Lista twila"
+    },
+    "cubeDesign": {
+      "title": "<strong>Kompetizzjoni CubeDesign 2021</strong>",
+      "award": "Rebbieħ - Kategorija ArtSat",
+      "org": "Promoss mill-Istitut Brażiljan għar-Riċerka Spazjali (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Tim",
+    "content": "Orbital Temple huwa maħluq b'kollaborazzjoni ma' Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiane Solid Concept RiseNY&Partners, IdeaSpace, u dawk kollha li jkomplu jissuġġerixxu ismijiet għal dan it-tempju."
+  },
+  "pressCoverage": {
+    "heading": "Dehru Fi / Kopertura tal-Istampa",
+    "paragraph1": "<em>Ir-rappurtaġġ u l-artikli tal-istampa se jiżdiedu hekk kif isiru disponibbli. Għall-aħħar aġġornamenti, jekk jogħġbok ikkuntattja lit-tim tal-istampa tagħna.</em>",
+    "paragraph2": "Fost il-wirjiet u l-karatteristiċi preċedenti nsibu preżentazzjonijiet fit-13-il Bienal tal-Mercosul, rikonoxximent mill-Premju Lumen, u għażla mill-Istitut Brażiljan għar-Riċerka Spazjali (INPE)."
+  },
+  "images": {
+    "heading": "Immaġnijiet b'Riżoluzzjoni Għolja għall-Użu tal-Istampa",
+    "intro": "L-immaġnijiet kollha huma disponibbli għal użu editorjali. Ikklikkja fuq kwalunkwe immaġni biex tniżżel il-fajl b'riżoluzzjoni għolja.",
+    "installationPhotos": {
+      "heading": "Ritratti tat-Tempju Orbitali",
+      "credit": "Jekk jogħġbok agħti l-kreditu lil: \"Ritratt minn Clara Marques / Kortesija ta' Edson Pavoni, Orbital Temple\"",
+      "view01": "Veduta tal-Installazzjoni 01<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (1.4 MB)",
+      "view02": "Veduta tal-Installazzjoni 02<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (2.9 MB)",
+      "view03": "Veduta tal-Installazzjoni 03<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (11 MB)",
+      "view04": "Veduta tal-Installazzjoni 04<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (3.4 MB)",
+      "view05": "Veduta tal-Installazzjoni 05<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (3.3 MB)",
+      "view06": "Veduta tal-Installazzjoni 06<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (3.7 MB)",
+      "view07": "Veduta tal-Installazzjoni 07<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (3.4 MB)",
+      "view08": "Veduta tal-Installazzjoni 08<br /> Ritratt: Clara Marques<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (2.7 MB)",
+      "satelliteDesign": "Disinn tas-Satellita<br /> ↓ Niżżel",
+      "antennaSculpture": "Antenna/Skultura<br /> ↓ Niżżel"
+    },
+    "renders": {
+      "heading": "Renders tat-Tempju Orbitali",
+      "credit": "Renderings kunċettwali 3D tat-Tempju Orbitali. Jekk jogħġbok agħti l-kreditu lil: \"Rendering 3D minn RiseNY&Partners / Kortesija ta' Edson Pavoni, Orbital Temple\"",
+      "render01": "Rendering 3D 01<br /> RiseNY&amp;Imsieħba<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (10 MB)",
+      "render02": "Rendering 3D 02<br /> RiseNY&amp;Imsieħba<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (5.9 MB)",
+      "render03": "Rendering 3D 03<br /> RiseNY&amp;Imsieħba<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (5.2 MB)",
+      "render04": "Rendering 3D 04<br /> RiseNY&amp;Imsieħba<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (11 MB)",
+      "render05": "Rendering 3D 05<br /> RiseNY&amp;Imsieħba<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Ritratti tal-Artisti",
+      "photo1": "Ritratt 1<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja",
+      "photo2": "Ritratt 2<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja"
+    },
+    "sathiPhotos": {
+      "heading": "Ritratti ta' Sathi Roy",
+      "photo1": "Ritratt 1<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (843 KB)",
+      "photo2": "Ritratt 2<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Speċifikazzjonijiet Tekniċi",
+    "satellite": {
+      "heading": "Satellita",
+      "dimensions": "Dimensjonijiet: 50 x 58 x 64 mm",
+      "classification": "Klassifikazzjoni: 1P PocketQube",
+      "weight": "Piż: 245g",
+      "materials": "Materjali: Aluminju, deheb, fibra tal-ħġieġ, komponenti elettroniċi",
+      "orbit": "Orbita: Altitudni 525 ± 25 km; Inklinazzjoni: SSO 97.6 ± 0.1°",
+      "launch": "Tnedija: 28 ta' Novembru 2025 permezz tal-ISRO, l-Indja"
+    },
+    "antenna": {
+      "heading": "Antenna/Skultura",
+      "dimensions": "Dimensjonijiet: dijametru ta' 6m x għoli ta' 1.2m",
+      "weight": "Piż: 46 kg",
+      "materials": "Materjali: Aluminju, bord b'mera epossidika, koppla tal-aluminju tad-deheb sospiża minn ġo struttura tal-armar"
+    },
+    "radio": {
+      "heading": "Speċifikazzjonijiet tar-Radju",
+      "downlink": "Konnessjoni 'l isfel: 437 MHz",
+      "status": "Status tat-Tnedija: Skedat għat-28 ta' Novembru 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Riżorsi Addizzjonali",
+    "artwork": "→ Ara d-Dokumentazzjoni tal-Arti",
+    "howItWorks": "→ Kif Jaħdem",
+    "technicalInfo": "→ Informazzjoni Teknika",
+    "spaceLaunch": "→ Informazzjoni dwar it-Tnedija fl-Ispazju",
+    "ritual": "→ Esperjenza r-Ritwali"
+  },
+  "imageAlts": {
+    "installation": "Installazzjoni tat-Tempju Orbitali minn Edson Pavoni",
+    "satelliteDesign": "Disinn tas-Satellita tat-Tempju Orbitali",
+    "antenna": "Skultura tal-Antenna tat-Tempju Orbitali",
+    "render": "Rendering 3D tat-Tempju Orbitali minn RiseNY&Partners",
+    "edsonPortrait": "Ritratt ta' Edson Pavoni",
+    "sathiPortrait": "Ritratt ta' Sathi Roy",
+    "lumenPrize": "Premju Lumen",
+    "mercosulBienal": "Il-Biennali tal-Mercosur"
+  }
+}

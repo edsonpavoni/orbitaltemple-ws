@@ -1,0 +1,50 @@
+{
+  "title": "Balekane - Tempele ya Orbital",
+  "heading": "Balekane",
+  "intro": "Orbital Temple e gona ka seatla se bulegilego, bokgoni, le pono ya balekane ba sa tlwaelegago. Go tloga go disathalaete tša boentšenere go ya go dikanegelo tša go hlama, go tloga go go bula mejako dinageng tša kgole go ya go go lahlela ditoro ka gauta, tirišano ye nngwe le ye nngwe e batametša tempele ye kgauswi le dinaledi.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY& Balekane",
+      "description": "Kgokagano, maitemogelo a kopantšwego le diswantšho tše di makatšago tša 3D di tšweletša tšeo di phedišitšego pono ya sathalaete pele ga ge e ka kgoma lefeela la sebaka."
+    },
+    "highestMantra": {
+      "name": "Mantra ya Rena e Phahameng ka ho fetisisa",
+      "description": "E eteletšwe pele ke Sathi Roy, e kgokaganya Tempele ya Orbital le ditšhaba tša semoya le tša bokgabo tša India. Go bula ditsela tša go kgoboketša tšhelete, phapantšho ya setšo, le pontšho ya Art Basel ka morago ga go tsebagatšwa ga Ngwatobošego 2025."
+    },
+    "allToSpace": {
+      "name": "Ka moka go ya Sebakeng",
+      "description": "Ditsebi tše nnyane tša sathalaete tša Brazil. Mengwaga ye mene ya tirišano ya go aga sefala sa didirišwa tša mohlodi wo o bulegilego le go bula madibogo tshepedišong ya go romela bokgabo modikologong go tšwa Borwa bja Lefase ka Bophara."
+    },
+    "isro": {
+      "name": "ISRO ya ISRO",
+      "description": "Mokgatlo wa Dinyakišišo tša Sebakabaka wa India. Thakgola moabi wa thomo ya PSLV ya go rwala Tempele ya Orbital go ya modikologong wa go sepelelana le letšatši ka Ngwatobošego 2025."
+    },
+    "mercosul": {
+      "name": "Biennial ya bo-13 ya Mercosur",
+      "description": "Porto Alegre, Brazil, e lego Brazil. E hlokometšwe ke Marcello Dantas le bathuši ba bahlokomedi Laura Cattani, Munir Klamt, Tarsila Riso le Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Thuto ya ArtSat",
+      "description": "Sehlopha sa tlhabollo ya sathalaete se hlomilwe nakong ya II ArtSat Workshop. E rulagantšwe ke Fabiane M. Borges, e laetšwe ke Lázaro Camargo, e dirišana ke Ítalo Pinto Rodrigues, yeo e hlokometšwego ke Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Dikgopolo tše di Tiilego",
+      "description": "E eteletšwe pele ke Eduardo Dias. Go gatiša ka moka ga 3D le go lahlela micro gauta go šoma bakeng sa dome ya go betlwa, go fetoša ditoro tša dijithale go ba nnete ya tšhipi ya bohlokwa."
+    },
+    "ideaSpace": {
+      "name": "Sebaka sa Kgopolo",
+      "description": "Setho sa thuto sa Brazil se hlabolla kharikhulamo ya Lenaneo la Sebaka sa Quebrada, yeo e loketšego go dirišwa go baithuti ba sekolo se se phagamego go ralala le Brazil."
+    }
+  },
+  "closing": "Na o na le kgahlego ya go dirišana le Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Otlolla seatla</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY & Logo ya Balekane",
+    "highestMantra": "Logo ya rena ya Mantra ya Godimodimo",
+    "allToSpace": "All go Sebaka Logo",
+    "isro": "Letshwao la ISRO",
+    "mercosul": "Logo ya bo-13 ya Mercosur ya Mengwaga ye Mebedi",
+    "inpe": "Letshwao la Thuto ya INPE ArtSat",
+    "solidConcepts": "Dikgopolo tše di Tiilego Logo",
+    "ideaSpace": "Kgopolo ya Sebaka Logo"
+  }
+}

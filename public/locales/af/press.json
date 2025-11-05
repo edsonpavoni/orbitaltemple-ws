@@ -1,0 +1,138 @@
+{
+  "title": "Pers en Media - Orbitale Tempel",
+  "heading": "Pers en Media",
+  "pressContact": {
+    "heading": "Perskontak",
+    "content": "Vir persnavrae, onderhoude en mediaversoeke:<br /> <strong>E-pos:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Webwerf:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Oor die Projek",
+    "paragraph1": "Die Orbitale Tempel is 'n kunswerk en 'n satelliet wat daarop gemik is om 'n radikaal inklusiewe tempel te wees, gebou waar geen mure kan bereik nie. Die projek, geskep deur die Brasiliaanse kunstenaar Edson Pavoni, die kunstenaar agter die Inumeráveis-gedenkteken wat 1 uit elke 6 Brasiliane tydens die COVID-pandemie bereik het, nooi mense van regoor die wêreld uit om die naam van iemand wat hulle wil onthou, te stuur. Hierdie name word na 'n satelliet in 'n wentelbaan oorgedra, wat 'n kollektiewe gedenkteken skep.",
+    "paragraph2": "Deur middel van 'n webwerf wat in 136 tale beskikbaar is, neem deelnemers deel aan 'n nuwe soort ritueel. Die Orbitale Tempel ondersoek temas van insluiting, herinnering en ons gedeelde menslikheid, en bevraagteken waarom geen fisiese tempel op Aarde werklik almal kan verwelkom nie, en stel ruimte voor as die enigste plek waar radikale inklusiwiteit kan bestaan."
+  },
+  "aboutArtist": {
+    "heading": "Oor die Kunstenaar",
+    "paragraph1": "<strong>Edson Pavoni</strong> is &#39;n Brasiliaanse kunstenaar wie se reis in die strate van São Paulo begin het, waar &#39;n konteks van armoede en geweld sy vroeë jare gevorm het. In &#39;n land waar die Christendom &#39;n pad weg van die strate, dwelms en geweld gebied het, het Pavoni skuiling in geloof gevind, &#39;n tema wat later, toe hy &#39;n kritikus van godsdiensmisbruik geword het, sy artistieke praktyk sou beïnvloed.",
+    "paragraph2": "In 2020, tydens die COVID-19-pandemie, het Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">*Inumeráveis* (ontelbaar)</a></strong> geskep, &#39;n kunswerk op die kruispunt van kuns en joernalistiek. Die projek het duisende gesinne ondervra en stories geskryf van diegene wat aan die pandemie verlore gegaan het, wat &#39;n ruimte geskep het waar geheue getalle en statistieke oortref het. Gedigte, liedjies en simfonieë is met daardie stories gemaak. Koerante het voorblaaie geskep met die name en geskiedenisse. Al die Brasiliaanse sterre soos die Oscar-bekroonde Fernanda Torres, en sterre soos Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo en Lazaro Ramos, en soveel ander, het daardie stories op nasionale televisie gelees. Die projek het 32 miljoen mense bereik, een uit elke vier Brasiliaanse volwassenes. Dit het &#39;n netwerk van genesing geword, &#39;n kollektiewe monument vir herinnering.",
+    "paragraph3": "Na meer as tienduisend gesprekke oor rou het 'n patroon ontstaan: wanneer ons praat oor iemand wat gesterf het, kies ons fragmente van hul storie asof ons 'n aanbevelingsbrief aan die poortwagter van die paradys skryf. Ons doen ons bes om hulle te stuur na wat ons glo die hemel is. Hierdie werk het 'n nuwe begrip ontketen: Ons oortuigings oor wie die hemel verdien, vorm direk wie ons op Aarde aanvaar of uitsluit. Die Portugese koloniseerders in Brasilië het geglo dat swart mense geen siele het nie; daardie oortuiging het slawerny geregverdig. As jy inheems was, as jy op die verkeerde plek gebore is of die verkeerde persoon liefgehad het, word jy tot vandag toe nog vertel dat die hemel se deure vir jou gesluit is. Is daar 'n visie van die toekoms wat nie deur verwerping vervul word nie?",
+    "paragraph4": "Só is Orbital Temple gebore."
+  },
+  "keyFacts": {
+    "heading": "Belangrike feite",
+    "artist": "<strong>Kunstenaar:</strong> Edson Pavoni (Brasilië)",
+    "projectType": "<strong>Projektipe:</strong> Satellietkunswerk, terreinspesifiek oor die ruimte, webgebaseerde ritueel",
+    "launchDate": "<strong>Bekendstellingsdatum:</strong> 28 November 2025",
+    "launchLocation": "<strong>Lanseringsplek:</strong> Satish Dhawan Ruimtesentrum, Sriharikota, Indië (ISRO)",
+    "satellite": "<strong>Satelliet:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Wentelbaan:</strong> 525 km hoogte, Sonsinchronies",
+    "participation": "<strong>Deelname:</strong> Gratis, oop vir almal wêreldwyd",
+    "namesSent": {
+      "heading": "<strong>Name wat na die wentelbaan gestuur is:</strong>",
+      "caption": "<em>Lewendige telling opgedateer vanaf databasis • Laas verfris: {datum}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Toekennings en Erkenning",
+    "mercosul": {
+      "title": "<strong>13de Mercosur Biënnale</strong> (2022)",
+      "location": "Porto Alegre, Brasilië",
+      "curator": "Gekurateer deur Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen-prys 2022 - Futures-toekenning</strong>",
+      "status": "Langlys"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Kompetisie</strong>",
+      "award": "Wenner - ArtSat Kategorie",
+      "org": "Bevorder deur die Brasiliaanse Instituut vir Ruimtenavorsing (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Span",
+    "content": "Orbital Temple is geskep in samewerking met Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedro, Rafael Holzme Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, en almal wat aanhou om name vir hierdie tempel voor te stel."
+  },
+  "pressCoverage": {
+    "heading": "Uitgelig in / Persdekking",
+    "paragraph1": "<em>Persdekking en -artikels sal bygevoeg word soos dit beskikbaar word. Vir die nuutste opdaterings, kontak asseblief ons persspan.</em>",
+    "paragraph2": "Vorige uitstallings en artikels sluit in aanbiedings by die 13de Mercosul Biënnale, erkenning van die Lumen-prys en seleksie deur die Brasiliaanse Instituut vir Ruimtenavorsing (INPE)."
+  },
+  "images": {
+    "heading": "Hoë-resolusie beelde vir persgebruik",
+    "intro": "Alle beelde is beskikbaar vir redaksionele gebruik. Klik op enige beeld om die hoë-resolusie lêer af te laai.",
+    "installationPhotos": {
+      "heading": "Orbitale Tempel Fotos",
+      "credit": "Gee asseblief krediet aan: \"Foto deur Clara Marques / Met vergunning van Edson Pavoni, Orbital Temple\"",
+      "view01": "Installasie-aansig 01<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (1.4 MB)",
+      "view02": "Installasie-aansig 02<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (2.9 MB)",
+      "view03": "Installasie-aansig 03<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (11 MB)",
+      "view04": "Installasie-aansig 04<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (3.4 MB)",
+      "view05": "Installasie-aansig 05<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (3.3 MB)",
+      "view06": "Installasie-aansig 06<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (3.7 MB)",
+      "view07": "Installasie-aansig 07<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (3.4 MB)",
+      "view08": "Installasie-aansig 08<br /> Foto: Clara Marques<br /> ↓ Laai hoë resolusie af (2.7 MB)",
+      "satelliteDesign": "Satellietontwerp<br /> ↓ Laai af",
+      "antennaSculpture": "Antenne/Beeldhouwerk<br /> ↓ Laai af"
+    },
+    "renders": {
+      "heading": "Orbitale Tempel-weergawes",
+      "credit": "Konseptuele 3D-weergawes van Orbital Temple. Gee asseblief krediet aan: \"3D-weergawes deur RiseNY&Partners / Met vergunning van Edson Pavoni, Orbital Temple\"",
+      "render01": "3D-weergawe 01<br /> RiseNY&amp;Vennote<br /> ↓ Laai hoë resolusie af (10 MB)",
+      "render02": "3D-weergawe 02<br /> RiseNY&amp;Vennote<br /> ↓ Laai hoë resolusie af (5.9 MB)",
+      "render03": "3D-weergawe 03<br /> RiseNY&amp;Vennote<br /> ↓ Laai hoë resolusie af (5.2 MB)",
+      "render04": "3D-weergawe 04<br /> RiseNY&amp;Vennote<br /> ↓ Laai hoë resolusie af (11 MB)",
+      "render05": "3D-weergawe 05<br /> RiseNY&amp;Vennote<br /> ↓ Laai hoë resolusie af (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Kunstenaar Fotos",
+      "photo1": "Foto 1<br /> ↓ Laai hoë resolusie af",
+      "photo2": "Foto 2<br /> ↓ Laai hoë resolusie af"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy Fotos",
+      "photo1": "Foto 1<br /> ↓ Laai hoë resolusie af (843 KB)",
+      "photo2": "Foto 2<br /> ↓ Laai hoë resolusie af (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tegniese Spesifikasies",
+    "satellite": {
+      "heading": "Satelliet",
+      "dimensions": "Afmetings: 50 x 58 x 64 mm",
+      "classification": "Klassifikasie: 1P PocketQube",
+      "weight": "Gewig: 245g",
+      "materials": "Materiaal: Aluminium, goud, veselglas, elektroniese komponente",
+      "orbit": "Wentelbaan: Hoogte 525 ± 25 km; Helling: SSO 97.6 ± 0.1°",
+      "launch": "Bekendstelling: 28 November 2025 via ISRO, Indië"
+    },
+    "antenna": {
+      "heading": "Antenne/Beeldhouwerk",
+      "dimensions": "Afmetings: 6m deursnee x 1.2m hoogte",
+      "weight": "Gewig: 46 kg",
+      "materials": "Materiaal: Aluminium, epoksie-spieëlbord, goue aluminiumkoepel wat deur steierstruktuur hang"
+    },
+    "radio": {
+      "heading": "Radiospesifikasies",
+      "downlink": "Afskakel: 437 MHz",
+      "status": "Lanseringsstatus: Geskeduleer 28 November 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Bykomende hulpbronne",
+    "artwork": "→ Bekyk kunswerkdokumentasie",
+    "howItWorks": "→ Hoe dit werk",
+    "technicalInfo": "→ Tegniese inligting",
+    "spaceLaunch": "→ Ruimtelanseringsinligting",
+    "ritual": "→ Ervaar die Ritueel"
+  },
+  "imageAlts": {
+    "installation": "Orbitale Tempelinstallasie deur Edson Pavoni",
+    "satelliteDesign": "Orbitale Tempel Satellietontwerp",
+    "antenna": "Orbitale Tempel Antenne Beeldhouwerk",
+    "render": "Orbitale Tempel 3D-weergawe deur RiseNY&Partners",
+    "edsonPortrait": "Edson Pavoni Portret",
+    "sathiPortrait": "Sathi Roy Portret",
+    "lumenPrize": "Lumen-prys",
+    "mercosulBienal": "Mercosur Biënnale"
+  }
+}

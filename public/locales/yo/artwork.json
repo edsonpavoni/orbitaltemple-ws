@@ -1,0 +1,31 @@
+{
+  "title": "The Artwork - Orbital Temple",
+  "heading": "Iṣẹ ọna",
+  "intro": {
+    "paragraph1": "Tẹmpili Orbital jẹ satẹlaiti pẹlu iṣẹ apinfunni: iranti kan ni aaye ita gbangba ti o ṣii si gbogbo ẹda ti o wa laaye tabi ti ngbe lori Aye.",
+    "paragraph2": "Nipasẹ awọn ọna imọ-ẹrọ, ẹnikẹni le fi orukọ ẹnikan ranṣẹ si Tẹmpili, boya ẹnikan ti o ku, eniyan ti o wa laaye pupọ, tabi eyikeyi ẹda ti o yẹ lati ranti."
+  },
+  "sculpture": {
+    "heading": "The Sculpture",
+    "paragraph1": "Iṣẹ ọna naa ni awọn eroja ti o gbẹkẹle mẹta: satẹlaiti kan paapaa ti a ṣe apẹrẹ lati tọju awọn ọkẹ àìmọye awọn orukọ; ere ti gbogbo eniyan ti n paarọ alaye pẹlu satẹlaiti; ati oju opo wẹẹbu nipasẹ eyiti awọn olukopa fi awọn orukọ ranṣẹ, lati isisiyi titi wọn o fi kọja lọ, si ọrun.",
+    "paragraph2": "Gẹgẹbi igbiyanju pupọ, Tẹmpili Orbital ni a le kà si aworan ere kan pato ti aaye, aaye gbigbe. O tun jẹ iṣẹ akanṣe Artsat."
+  },
+  "antenna": {
+    "heading": "Eriali Bi A gbangba ere",
+    "paragraph1": "Eriali sisopo wa pẹlu lode aaye.",
+    "paragraph2": "Eriali ti yoo wa ni ibaraẹnisọrọ taara pẹlu satẹlaiti orbital ti wa ni apẹrẹ.",
+    "paragraph3": "Pẹlu oju didan goolu kan, ti n ṣe afihan ọrun loke rẹ, o jẹ aaye ibẹrẹ fun imunibinu pupọ (tabi ibatan wa si kini ‘oke wa nibẹ’).",
+    "paragraph4": "Lakoko ti a ko fi sori ẹrọ awọn ere ni ọpọlọpọ awọn ẹya agbaye, Awọn fireemu wa lati Earth, eyiti o n ṣakoso satẹlaiti lọwọlọwọ, nfi awọn orukọ ranṣẹ ni ọna irekọja kọọkan.",
+    "paragraph5": "Ṣe iranlọwọ lati mu iran yii wa si ilu rẹ — fifi sori awọn ere aworan eriali ti o ṣe iwuri awọn ibaraẹnisọrọ nipa iwakiri aaye, aworan, ati aaye pinpin wa ni agbaye. <a href=\"/support\">Kọ ẹkọ diẹ sii nipa atilẹyin iṣẹ akanṣe</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite",
+    "riseNy": "Orbital Temple ni Rise NY",
+    "installation": "Orbital Temple nipasẹ Clara Marques",
+    "antenna": "Orbital Temple Eriali"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Temple ni aaye. Iṣe 3D nipasẹ RiseNY&Awọn alabaṣiṣẹpọ.",
+    "mercosul": "Fifi sori tẹmpili Orbital ni Mercosul Biennial, ni Porto Alegre, Brazil.<br> Fọto nipasẹ Clara Marques."
+  }
+}

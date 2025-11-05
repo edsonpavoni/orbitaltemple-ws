@@ -1,0 +1,13 @@
+{
+  "title": "Dimaklumkan - Kuil Orbital",
+  "heading": "Dimaklumkan Apabila Ia Meningkat",
+  "description": "Pada 28 November 2025, Kuil Orbital akan naik.<br> Tinggalkan e-mel anda, dan kami akan memberitahu anda apabila ia sampai ke ruang angkasa.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Hantar",
+    "sendingButton": "Menghantar...",
+    "successMessage": "Kami akan menghubungi anda apabila ia naik.",
+    "errorMessage": "Sesuatu telah berlaku. Sila cuba lagi."
+  },
+  "backLink": "← Kembali ke kira detik"
+}

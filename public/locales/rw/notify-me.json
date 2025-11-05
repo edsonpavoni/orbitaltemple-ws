@@ -1,0 +1,13 @@
+{
+  "title": "Menyeshwa - Urusengero rwa Orbital",
+  "heading": "Menyeshwa Iyo Rizamutse",
+  "description": "Ku ya 28 Ugushyingo 2025, Urusengero rwa Orbital ruzazamuka.<br> Kureka e-imeri yawe, tuzakubwira iyo igeze mumwanya.",
+  "form": {
+    "emailPlaceholder": "Urubuga rwawe",
+    "sendButton": "Ohereza",
+    "sendingButton": "Kohereza ...",
+    "successMessage": "Tuzakugeraho iyo izamutse.",
+    "errorMessage": "Ikintu kitagenze neza. Nyamuneka gerageza."
+  },
+  "backLink": "← Subira kubara"
+}

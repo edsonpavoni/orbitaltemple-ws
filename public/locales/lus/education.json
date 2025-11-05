@@ -1,0 +1,43 @@
+{
+  "title": "Zirna & Open Source - Orbital Temple-ah hian a awm a",
+  "heading": "Zirna & Open Source te a ni",
+  "intro": {
+    "paragraph1": "Orbital Temple mission atana technology siam zawng zawng chu <strong>open source</strong> a ni ang a , <strong>Portuguese</strong> , <strong>English</strong> , <strong>Spanish</strong> , leh <strong>Hindi</strong> tawngin online ah hman theih a ni ang a , hei hian <strong>Global South</strong> a space exploration hmasawnna a tichak ang Mission leh project tharte chuan Orbital Temple hi anmahni artistic emaw scientific experiment atan lungphum atan an hmang thei a ni.",
+    "paragraph2": "Educational mission kalpui mek zingah Orbital Temple hian satellite siam dan leh kahchhuah dan tur multilingual course a thlawna a buatsaih dawn a ni. Satellite technology chungchang zir leh a taka hman theihna hun remchang tak a ni ang. Kum <strong>16</strong> chunglam tu pawhin anmahni satellite an siam thei dawn a, space-a art chanchin te, electronics, mechanics leh space science-a concept bulpui te, project-te sum hman dan tur leh orbit-a satellite-te nena inbiakpawhna tur antenna siam dan te an zir thei dawn a ni."
+  },
+  "spaceGap": {
+    "heading": "Hei Hi A Pawimawh Chhan: The Space Gap",
+    "paragraph1": "<strong>&quot;Space Gap&quot;</strong> tih hian space exploration hmanga technology lama chanvo an hmuh theihna tur ram changkang zawkte leh heng technology hmang thei lo hnam changkang zawkte inkara inthenna a kawk a ni. Global South-a ramte chuan satellite technology hmanga information siam chhuah basic access an neih theih nan ramdang sorkar emaw company emaw hnenah sum tam tak an pe tur a ni.",
+    "paragraph2": "Space technology hian hlawkna pawimawh tak a pe a: satellite hian dan loa thing phun, dan loa sangha man, leh dan loa ramsa sumdawnna dona kawngah a pui a, hei hian <strong>kum khatah dollar tluklehdingawn 73</strong> chuang a tling a ni Khaw lum leh khaw vawt, tui siam chhuah, leh ei leh in lama harsatna chungchangah thu pawimawh tak tak an pe a ni. Satellite hian precision irrigation leh agriculture technique a siam thei a, natural disaster venna kawngah pawh a pui bawk. Space industry hian <strong>kum 2030</strong> -ah chuan <strong>hna maktaduai khat</strong> thleng a siam thei a, chutih rualin heng hun remchangte hi Global South-a mi tam tak tan chuan a la thleng thei lo.",
+    "paragraph3": "Open-source technology leh zirna pein, space-a hman theihna chu democratize-a siam a, thlah tharte chu van piah lama mumang nei thei tura chakna pek kan tum a ni."
+  },
+  "empowering": {
+    "heading": "Next Generation te chakna pek",
+    "intro": "Space explorer thlah tharte chu anmahni satellite siam leh thlawh chhuah dan tur kan zirtir ang a, thupui pawimawh tak tak kan huam ang a, chung zingah chuan:",
+    "topics": {
+      "history": "<strong>Space-a art chanchin:</strong> Artistic satellite leh space-based artwork-te thlah kal zel hriatthiamna.",
+      "concepts": "<strong>Thupui ber:</strong> <strong>ArtSat</strong> (artistic satellite), <strong>Open Source</strong> space technology, leh <strong>Space Gap te hi</strong> a ni.",
+      "missions": "<strong>Space missions:</strong> Mission conceptualize leh design dan te, a execute tur team din dan te.",
+      "electronics": "<strong>Space-a electronics:</strong> Space environment-a nung thei leh thawk thei electronic components chungchanga ngaihdan bulpui.",
+      "mechanics": "<strong>Mechanics in space:</strong> Satellite design atana structural leh mechanical mamawh hriatthiamna.",
+      "orbits": "<strong>Orbit leh launcher:</strong> Orbit chi hrang hrang leh i mission atana launch provider thlan dan tur.",
+      "financing": "<strong>Financing strategy:</strong> I satellite thlawhchhuahna tur sum leh pai leh resources i hmuh theih dan tur. He course hian i thlawhna thlawh chhuahna tur sum hmuhna tur resources a pe ang a, zirlai te chu international institution atanga program leh grant zawng turin a pui ang a, chu chuan scientist naupang leh zirlai te chu an satellite te space-a thawn chhuahna kawngah a pui ang.",
+      "groundStation": "<strong>Ground station siam dan:</strong> Orbital Temple leh satellite dangte nena inbiakpawhna tur antenna siam dan."
+    }
+  },
+  "technology": {
+    "heading": "The Technology: PocketQube Satellite hmanga siam a ni",
+    "paragraph1": "Zirlaite hian <strong>PocketQube</strong> satellite hmanga hnathawh an zir dawn a, hei hi nanosatellite standard a ni a, <strong>5cm3</strong> chauh a ni a, <strong>250g</strong> thleng a rit a ni. An lian lo hle nachungin PocketQubes hi hmanraw chak tak, Leilung enfiah, enkawl leh inbiakpawhna nei thei an ni.",
+    "paragraph2": "Heng compact satellite te hian khawvel tak takah hmanna tam tak an nei a, climate change chungchanga scientific research atanga intercontinental communication thlengin an hmang thei a ni. An te zawk a, an rit zawk avangin an siam leh tlangzarh pawh a man tlawm zawk a, khawvel puma zirlai, zirchiangtute leh artist-te tan hmun a awlsam zawk a ni."
+  },
+  "globalAccess": {
+    "heading": "Global Access, Global South atanga tan a ni",
+    "paragraph1": "Course hi <strong>kum 16 aia upa</strong> tan a awm dawn a , a thlawna <strong>hman theih a ni ang</strong> . <strong>Portuguese</strong> , <strong>Spanish</strong> , <strong>English</strong> , leh <strong>Hindi</strong> -a content hmangin kan tan a, program a lo thang zel angin tawng dang pawha tihpun tum a ni.",
+    "paragraph2": "Kan mission hi Global South atanga tan niin khawvel pum huap a ni a, space explorer thlah tharte chu khawvel kil tin atanga lo kal an nih theih nan kan enkawl a ni."
+  },
+  "callToAction": {
+    "heading": "Hei Hi Tih Tih Tih Turin Min Tanpui Rawh",
+    "content": "He zirna programme hi tunah hian siam mek a ni. Space technology hman theihna democratize tura kan vision ang tho partner leh donor kan zawng mek a ni. Nangmah emaw, i pawl emaw hian he hmalakna hi i thlawp duh a nih chuan kan <a href=\"/support\">support page hi</a> tlawh la, partnership opportunity chungchang zir rawh."
+  },
+  "imageAlt": "Orbital Temple Satellite hmanga siam a ni"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ikipe - Urusengero rwa Orbital",
+  "heading": "Ikipe",
+  "artist": "Edson Pavoni, umuhanzi",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Umuyobozi mukuru",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Ikirere & Sisitemu Ubwubatsi",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ubwubatsi bwa elegitoroniki",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Porogaramu",
+      "members": "Yonatani Cherubina"
+    },
+    "design": {
+      "heading": "Igishushanyo nubwubatsi",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Icapiro rya 3D",
+      "members": "Ibitekerezo bikomeye, iyobowe na Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Kwerekana 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Ubushakashatsi",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Imurikagurisha, Amafoto & Kurema Ibirimo",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Imurikagurisha rya Silk",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Umushinga w'uburezi",
+      "members": "Umwanya"
+    },
+    "communication": {
+      "heading": "Itsinda ry'itumanaho",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Murakoze bidasanzwe",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Dlaphne Alves, Flavio Vidid Putti, Rafael Fernandes, Bruna Cairo, Ibitekerezo bikomeye, RiseNY & Abafatanyabikorwa, IdeaSpace",
+  "imageAlt": "Orbital Urusengero Satelite"
+}

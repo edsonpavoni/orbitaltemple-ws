@@ -1,0 +1,61 @@
+{
+  "title": "Au - Malumalu Orbital",
+  "heading": "Au",
+  "artist": "Edson Pavoni, tusiata",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Fa'atonu Fa'atonu",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Inisinia faaeletonika",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Polokalama",
+      "members": "Jonathan Kerubina"
+    },
+    "design": {
+      "heading": "Fuafuaga ma Fa'ata",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Lomitusi 3D",
+      "members": "Solid Concepts, i lalo o le taitaiga a Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Fa'atusa 3D",
+      "members": "Guilherme Bullejos & RiseNy&Paaga"
+    },
+    "research": {
+      "heading": "Suesuega",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Fa'aaliga Fa'aaliga, Ata Ata & Fa'aano'oga",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Su'ega Silika a le Fa'aaliga",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Poloketi a'oa'oga",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Vaega Fesootaiga",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Fa'afetai Fa'apitoa",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Rafael Ferrodes Pudigal, Rafael Ferrodes Vidigal Conceitos Sólidos, RiseNY & Paaga, IdeaSpace",
+  "imageAlt": "Satelite Malumalu Orbital"
+}

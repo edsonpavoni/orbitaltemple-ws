@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "gireniňizde\ndessur\nat ibermek\nthe\norbital ybadathana\nkosmosda\nal\nbir dem",
+    "button": "Men taýýar"
+  },
+  "nameInput": {
+    "title": "at ýazyň",
+    "subtitle": "kosmosda Orbital ybadathanasyna çykar.",
+    "placeholder": "ady",
+    "button": "beýgelsin"
+  },
+  "emailInput": {
+    "title": "e-poçtaňyzy ýazyň",
+    "subtitle": "şonuň üçin at ýokarlananda habar alarsyňyz.",
+    "placeholder": "e-poçtaňyz",
+    "button": "edildi"
+  },
+  "loading": {
+    "alt": "Adingüklemek"
+  },
+  "success": {
+    "text": "ady\n{{name}}\nindi nobata dur\nýokary galmak üçin.\nhaçan\nkosmosdaky ybadathana\nbilen deňleşdirýär\nantennamyz\nEarther ýüzünde\nibereris\nady\nalarsyňyz\nhabar."
+  }
+}

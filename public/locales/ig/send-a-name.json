@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "ka ị na-abanye\nememe\nizipu aha\nbanye na\norbital temple\nna oghere\nwere\nume",
+    "button": "Adịla m njikere"
+  },
+  "nameInput": {
+    "title": "pịnye aha",
+    "subtitle": "ọ ga-ebili na Temple Orbital na mbara.",
+    "placeholder": "aha",
+    "button": "ka ọ rigo"
+  },
+  "emailInput": {
+    "title": "pịnye email gị",
+    "subtitle": "yabụ ị nweta ozi mgbe aha ahụ rịgoro.",
+    "placeholder": "email gị",
+    "button": "emee ya"
+  },
+  "loading": {
+    "alt": "Na-ebugo"
+  },
+  "success": {
+    "text": "aha\n{{aha}}\nugbu a kwụ n'ahịrị\nmaka nrịgo.\nmgbe\ntemple na mbara\naligns, ya na\nantenna anyị\nn'ụwa\nanyị ga-ezipụ\naha\nna ị ga-enweta\nozi."
+  }
+}

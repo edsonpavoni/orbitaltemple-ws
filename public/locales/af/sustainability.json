@@ -1,0 +1,44 @@
+{
+  "title": "Volhoubaarheid en Ruimtepuin - Orbitale Tempel",
+  "heading": "Volhoubaarheid",
+  "intro": {
+    "paragraph1": "As kuns ons na die toekoms moet lei, kan dit nie die krisisse wat ons in die gesig staar ignoreer nie – omgewingsinstoorname, sosiale ongelykheid en die groeiende uitdaging van ruimterommel. Orbital Temple is ontwerp met hierdie realiteite in gedagte, met die doel om 'n verantwoordelike teenwoordigheid op beide Aarde en in 'n wentelbaan te wees.",
+    "paragraph2": "Ons glo dat volhoubaarheid nie 'n beperking is nie, maar 'n noodsaaklike deel van ons artistieke visie. Elke besluit oor materiale, wentelbane en bedrywighede weerspieël ons verbintenis om beide die Aarde en die ruimte beter te laat as wat ons hulle gevind het."
+  },
+  "spaceDebris": {
+    "heading": "Ruimtepuin",
+    "paragraph1": "Ruimteafval is een van die dringendste uitdagings waarmee ruimteverkenning te kampe het. Duisende onbruikbare satelliete en fragmente wentel om die Aarde, wat aktiewe missies bedreig en 'n kaskade-effek skep wat sekere wentelbane onbruikbaar kan maak.",
+    "paragraph2": "Orbital Temple spreek dit op verskeie maniere aan:",
+    "list": {
+      "orbit": "<strong>Sonsinchrone wentelbaan op 525 km:</strong> Hierdie hoogte verseker dat natuurlike atmosferiese weerstand sal veroorsaak dat die satelliet binne ongeveer 10 jaar weer die Aarde se atmosfeer binnedring, waar dit heeltemal sal uitbrand. Ons dra nie by tot langtermyn-orbitale puin nie.",
+      "size": "<strong>PocketQube-ontwerp:</strong> Met slegs 50 × 58 × 64 mm en 245 g is die satelliet klein genoeg om heeltemal te verdamp tydens herbetreding, wat geen puin op die aarde se oppervlak laat nie.",
+      "responsibility": "<strong>Geen beplande veroudering nie:</strong> Anders as kommersiële satelliete wat dalk laat vaar word, is Orbital Temple ontwerp om natuurlik te deorbiteer, wat voldoen aan internasionale riglyne vir verantwoordelike ruimteaktiwiteit."
+    },
+    "paragraph3": "Deur 'n lae Aarde-wentelbaan en 'n kompakte ontwerp te kies, verseker ons dat Orbital Temple se teenwoordigheid in die ruimte tydelik en nie-besoedelend is."
+  },
+  "carbonNeutrality": {
+    "heading": "Koolstofneutraliteit",
+    "content": "Alle koolstofvrystellings wat met Orbital Temple verband hou – insluitend satellietvervaardiging, lansering, grondstasiebedrywighede, webwerf-hosting en spanreise – sal ten volle verreken word deur geverifieerde koolstofkredietprogramme. Ons is daartoe verbind om hierdie missie klimaatsneutraal te maak."
+  },
+  "openSource": {
+    "heading": "Oopbron-hardeware",
+    "paragraph1": "Volhoubaarheid beteken ook om nie kennis te mors nie. Elke tegniese aspek van Orbital Temple—skematiese skemas, kode, kommunikasieprotokolle en konstruksiemetodes—sal as oopbrondokumentasie gepubliseer word.",
+    "paragraph2": "Dit laat toekomstige missies toe om op ons werk voort te bou eerder as om van nuuts af te begin, wat oorbodige navorsing en ontwikkeling verminder. Dit demokratiseer toegang tot ruimtetegnologie, veral vir gemeenskappe in die Globale Suide wat histories van ruimteverkenning uitgesluit is."
+  },
+  "educational": {
+    "heading": "Opvoedkundige Impak",
+    "paragraph1": "Ons gratis veeltalige opvoedkundige program leer studente wêreldwyd hoe om satelliete te bou en te lanseer, met 'n fokus op die Globale Suide. Deur die volgende generasie met ruimtetegnologievaardighede te bemagtig, dra ons by tot die sluiting van die \"Ruimtegaping\" en die skep van geleenthede wat andersins nie sou bestaan nie.",
+    "paragraph2": "Hierdie opvoedkundige missie is self 'n vorm van volhoubaarheid—belegging in mense en gemeenskappe om blywende verandering te skep wat verder as die satelliet se lewensduur strek."
+  },
+  "tenYear": {
+    "heading": "'n 10-jaar lange sending",
+    "paragraph1": "Orbital Temple is ontwerp vir 'n dekade lange sending, nie 'n kort publisiteitsfoefie nie. Oor tien jaar sal die satelliet ongeveer 50 000 keer om die Aarde wentel, name ontvang en dien as 'n herinnering dat die ruimte 'n gemeenskaplike ruimte kan wees, toeganklik vir almal.",
+    "paragraph2": "Nadat sy sending voltooi is, sal die satelliet natuurlik uit sy wentelbaan deïnspireer en uitbrand, en geen spoor agterlaat nie, behalwe in die herinneringe en dokumentasie van diegene wat deelgeneem het."
+  },
+  "artsResponsibility": {
+    "heading": "Kuns se Verantwoordelikheid",
+    "paragraph1": "Kuns was nog altyd 'n spieël van sy tyd, wat ons waardes en aspirasies weerspieël. In 'n era van klimaatskrisis en groeiende ongelykheid, glo ons dat kunstenaars 'n verantwoordelikheid het om werk te skep wat nie net kommentaar lewer op hierdie kwessies nie, maar dit aktief aanspreek.",
+    "paragraph2": "Orbital Temple is ons poging om 'n kunswerk te skep wat radikaal is in sy inklusiwiteit, verantwoordelik is in sy omgewingsimpak, en vrygewig is in die deel van sy kennis met die wêreld. Dit is kuns wat almal nooi om deel te neem terwyl die brose stelsels – omgewings- en orbitaal – wat lewe en verkenning moontlik maak, gerespekteer word."
+  },
+  "imageAlt": "Orbitale Tempel Satelliet"
+}

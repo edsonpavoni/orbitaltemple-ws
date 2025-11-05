@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "the artwork",
+    "sendAName": "tumira zita",
+    "fromTheArtist": "kubva kumuenzi",
+    "yetAnotherTemple": "asi, imwe temberi?",
+    "howItWorks": "kuti inoshanda sei",
+    "spaceLaunch": "kutanga nzvimbo uye njodzi",
+    "briefHistory": "nhoroondo pfupi yeunyanzvi muchadenga",
+    "education": "dzidzo & open source",
+    "sustainability": "kugadzikana uye nzvimbo yakasvibiswa",
+    "press": "press & media",
+    "team": "team",
+    "partners": "shamwari",
+    "support": "rutsigiro",
+    "technicalInfo": "technical info"
+  },
+  "ritual": {
+    "label": "tsika",
+    "ariaLabel": "Pinda tsika - Tumira zita kuTemberi yeOrbital"
+  },
+  "footer": {
+    "credits": "Orbital Tembere ibasa rakaitwa naEdson Pavoni, rakagadzirwa pamwe chete naPedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy vanoramba vachitumira mazita kune avo temberi."
+  }
+}

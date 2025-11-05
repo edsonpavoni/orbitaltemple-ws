@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "mošomo wa bokgabo",
+    "sendAName": "romela leina",
+    "fromTheArtist": "go tšwa go motaki",
+    "yetAnotherTemple": "le ge go le bjalo, tempele ye nngwe?",
+    "howItWorks": "kamoo e šomago ka gona",
+    "spaceLaunch": "sebaka thakgolwa le dikotsi",
+    "briefHistory": "histori e kopana ya bokgabo sebakabakeng",
+    "education": "thuto & mohlodi o bulehileng",
+    "sustainability": "go tšwela pele le ditlakala tša sebaka",
+    "press": "tobetsa & boraditaba",
+    "team": "sehlopha",
+    "partners": "balekane",
+    "support": "thekga",
+    "technicalInfo": "info ya botekgeniki"
+  },
+  "ritual": {
+    "label": "moetlo",
+    "ariaLabel": "Kena moetlo - Romela lebitso Tempeleng ya Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple ke mošomo wa bokgabo ka Edson Pavoni, wo o hlotšwego ka tirišano le Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, le bohle bao ba tšwelago pele go romela maina tempeleng ye."
+  }
+}

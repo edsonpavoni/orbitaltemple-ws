@@ -1,0 +1,43 @@
+{
+  "title": "Mmụta & Ebe mepere emepe - Temple Orbital",
+  "heading": "Agụmakwụkwọ & Ebe mepere emepe",
+  "intro": {
+    "paragraph1": "Teknụzụ niile emepụtara maka ozi ụlọ nsọ Orbital ga-abụ <strong>ebe mepere emepe</strong> yana dị n&#39;ịntanetị na <strong>Portuguese</strong> , <strong>Bekee</strong> , <strong>Spanish</strong> na <strong>Hindi</strong> , na-akwalite ọganihu nke nyocha oghere na <strong>South South</strong> . Ọhụụ na ọrụ ọhụrụ nwere ike iji Temple Orbital dịka ntọala maka nyocha nka ma ọ bụ sayensị nke ha.",
+    "paragraph2": "Dịka akụkụ nke ozi nkuzi ya, Temple Orbital ga-enye nkuzi asụsụ ọtụtụ n&#39;efu maka otu esi arụ na igbanye satịlaịtị. Ọ ga-abụ ohere aka iji mụta banyere teknụzụ satịlaịtị ma tinye ya n&#39;ọrụ. Onye ọ bụla karịa afọ <strong>16</strong> ga-enwe ike ịmepụta satịlaịtị nke ya, na-amụta banyere akụkọ ihe mere eme nke nkà na mbara igwe, echiche ndị bụ isi nke ngwá electronic, ọrụ na nkà mmụta sayensị mbara igwe, gụnyere otu esi enweta ego na otu esi arụ ọrụ antenna iji kparịta ụka na satellites na orbit."
+  },
+  "spaceGap": {
+    "heading": "Ihe kpatara nke a ji dị mkpa: oghere oghere",
+    "paragraph1": "Okwu ahụ bụ <strong>&quot;Space Gap&quot;</strong> na-ezo aka na nkewa dị n&#39;etiti mba ndị mepere emepe nwere ike ịnweta ohere nkà na ụzụ enwetara site na nyocha mbara igwe, na mba ndị na-emepe emepe na-enweghị ohere ịnweta teknụzụ ndị a. Mba ndị dị na South South ga-akwụrịrị gọọmentị ma ọ bụ ụlọ ọrụ mba ofesi nnukwu ego maka ịnweta ozi nke teknụzụ satịlaịtị mepụtara.",
+    "paragraph2": "Teknụzụ mbara igwe na-enye abamuru dị oke egwu: Satellites na-enyere aka ịlụso igbu osisi na-ezighi ezi, ịkụ azụ n&#39;ụzọ iwu na-akwadoghị, na ịzụ ahịa anụ ọhịa na-akwadoghị, nke na-anọchite anya ihe karịrị <strong>ijeri $73 kwa afọ</strong> . Ha na-enye ozi dị mkpa gbasara ihu igwe, mmepụta mmiri, na nchekwa nri. Satellites na-enyere aka ịgba mmiri na usoro ugbo nke ọma, ma na-enyere aka igbochi ọdachi ndị na-emere onwe ha. Ụlọ ọrụ mbara igwe nwere ike ịmepụta <strong>ọrụ ruru nde 1</strong> site na <strong>2030</strong> , ma ohere ndị a ka na-enwetaghị ọtụtụ ndị nọ na South South.",
+    "paragraph3": "Site n'inye teknụzụ na agụmakwụkwọ mepere emepe, anyị bu n'obi ime ka ọchịchị onye kwuo uche nweta ohere ohere ma nye ọgbọ ọhụrụ ike nrọ gafere mbara igwe."
+  },
+  "empowering": {
+    "heading": "Ịkwanye Ọgbọ Na-abịa",
+    "intro": "Anyị ga-akụziri ọgbọ na-esote ndị na-enyocha mbara igwe ka ha ga-esi wuo na igbapụta satịlaịtị nke ha, na-ekpuchi isiokwu ndị dị mkpa gụnyere:",
+    "topics": {
+      "history": "<strong>Akụkọ ihe nka na mbara mbara:</strong> Ịghọta usoro ọmụmụ nke satịlaịtị nka na ọrụ nka dabere na mbara.",
+      "concepts": "<strong>Isi echiche:</strong> <strong>ArtSat</strong> (satịlaịtị nka), teknụzụ oghere <strong>mepere emepe</strong> , na <strong>oghere oghere</strong> .",
+      "missions": "<strong>Ọrụ oghere:</strong> Otu esi echepụta na chepụta ozi, yana otu esi etolite otu ga-eme ya.",
+      "electronics": "<strong>Eletrọnịkị dị na mbara igwe:</strong> echiche ndị bụ isi nke ihe elektrọnịk nwere ike ịdị ndụ ma rụọ ọrụ na gburugburu oghere.",
+      "mechanics": "<strong>Mechanics na oghere:</strong> Ịghọta ihe nhazi na n&#39;ibu chọrọ maka imewe satịlaịtị.",
+      "orbits": "<strong>Orbits na launchers:</strong> Ụdị orbits dị iche iche yana otu esi ahọrọ ndị na-eweta mmalite maka ozi gị.",
+      "financing": "<strong>Atụmatụ ego:</strong> Otu esi echekwa ego na akụrụngwa iji malite satịlaịtị gị. Usoro a ga-enye akụrụngwa maka inweta ego maka mmalite gị, na-enyere ụmụ akwụkwọ aka ịchọta mmemme na onyinye sitere na ụlọ ọrụ mba ụwa na-akwado ndị ọkà mmụta sayensị na-eto eto na ụmụ akwụkwọ na-eziga satịlaịtị ha na mbara igwe.",
+      "groundStation": "<strong>Mmepe ọdụ ọdụ ala:</strong> Otu esi ewuo antenna iji kparịta ụka na Temple Orbital na satịlaịtị ndị ọzọ."
+    }
+  },
+  "technology": {
+    "heading": "Teknụzụ: PocketQube Satellites",
+    "paragraph1": "Ụmụ akwụkwọ ga-amụta iji satịlaịtị <strong>PocketQube</strong> na-arụ ọrụ, ọkọlọtọ nanosatellite na-atụ naanị <strong>5cm³</strong> ma na-erukwa <strong>250g</strong> . N&#39;agbanyeghị obere nha ha, PocketQubes bụ ngwa ọrụ siri ike nwere ike ịhụ ụwa, nleba anya na nzikọrịta ozi.",
+    "paragraph2": "Satellites kọmpat ndị a nwere ọtụtụ ngwa ụwa n'ezie, site na nyocha sayensị gbasara mgbanwe ihu igwe ruo na nkwurịta okwu intercontinental. N'ihi na ha dị obere ma dị ọkụ karị, ha na-akwụ ụgwọ iji wuo na ịmalite, na-eme ka ohere dịkwuo mfe maka ụmụ akwụkwọ, ndị nchọpụta na ndị na-ese ihe n'ụwa nile."
+  },
+  "globalAccess": {
+    "heading": "Nweta zuru ụwa ọnụ, malite na South South",
+    "paragraph1": "Usoro a ga-adị maka onye ọ bụla <strong>gbara afọ 16 ma ọ bụ karịa</strong> , <strong>n&#39;efu</strong> kpamkpam. Anyị na-amalite site na ọdịnaya n&#39;asụsụ <strong>Portuguese</strong> , <strong>Spanish</strong> , <strong>Bekee</strong> , na <strong>Hindi</strong> , na atụmatụ ịgbasawanye na asụsụ ndị ọzọ ka mmemme ahụ na-eto.",
+    "paragraph2": "Ọrụ anyị na-amalite na Global South ma gbasaa n'ụwa, na-ahụ na ọgbọ na-esote ndị na-enyocha mbara igwe si n'akụkụ nile nke ụwa."
+  },
+  "callToAction": {
+    "heading": "Nyere anyị aka mee ka nke a mee",
+    "content": "Usoro nkuzi a na-emepe ugbu a. Anyị na-achọ ndị mmekọ na ndị na-enye onyinye bụ ndị na-ekerịta ọhụụ anyị nke ime ka ọchịchị onye kwuo uche ya nweta teknụzụ oghere. Ọ bụrụ na gị ma ọ bụ òtù gị ga-achọ ịkwado atụmatụ a, biko gaa na <a href=\"/support\">ibe nkwado</a> anyị ka ị mụta maka ohere mmekọrịta."
+  },
+  "imageAlt": "Satellite Temple Orbital"
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Obrazovanje i otvoreni kod - Orbital Temple",
+  "heading": "Obrazovanje i otvoreni kod",
+  "intro": {
+    "paragraph1": "Sva tehnologija razvijena za misiju Orbital Temple bit će <strong>otvorenog koda</strong> i dostupna online na <strong>portugalskom</strong> , <strong>engleskom</strong> , <strong>španskom</strong> i <strong>hindskom jeziku</strong> , podstičući napredak istraživanja svemira na <strong>globalnom jugu</strong> . Nove misije i projekti mogu koristiti Orbital Temple kao osnovu za vlastite umjetničke ili naučne eksperimente.",
+    "paragraph2": "Kao dio svoje obrazovne misije, Orbital Temple će ponuditi besplatan višejezični kurs o tome kako izgraditi i lansirati satelit. To će biti praktična prilika za učenje o satelitskoj tehnologiji i njenoj primjeni u praksi. Svi stariji od <strong>16</strong> godina moći će izgraditi vlastiti satelit, učeći o historiji umjetnosti u svemiru, osnovnim konceptima elektronike, mehanike i svemirske nauke, uključujući kako finansirati projekte i kako izgraditi antenu za komunikaciju sa satelitima u orbiti."
+  },
+  "spaceGap": {
+    "heading": "Zašto je ovo važno: Svemirski jaz",
+    "paragraph1": "Termin <strong>&quot;svemirski jaz&quot;</strong> odnosi se na jaz između razvijenih zemalja koje mogu pristupiti tehnološkim mogućnostima stečenim istraživanjem svemira i zemalja u razvoju koje nemaju pristup tim tehnologijama. Zemlje globalnog juga moraju plaćati značajne iznose stranim vladama ili kompanijama za osnovni pristup informacijama koje proizvode satelitske tehnologije.",
+    "paragraph2": "Svemirska tehnologija pruža ključne prednosti: sateliti pomažu u borbi protiv ilegalne sječe šuma, ilegalnog ribolova i ilegalne trgovine divljim životinjama, što predstavlja više od <strong>73 milijarde dolara godišnje</strong> . Oni pružaju bitne informacije o klimi, proizvodnji vode i sigurnosti hrane. Sateliti omogućavaju precizno navodnjavanje i poljoprivredne tehnike, te pomažu u sprječavanju prirodnih katastrofa. Svemirska industrija mogla bi stvoriti do <strong>milion radnih mjesta</strong> do <strong>2030. godine</strong> , ali ove mogućnosti ostaju nedostupne mnogima na globalnom jugu.",
+    "paragraph3": "Pružanjem tehnologije otvorenog koda i obrazovanja, cilj nam je demokratizirati pristup svemiru i osnažiti novu generaciju da sanja izvan okvira neba."
+  },
+  "empowering": {
+    "heading": "Osnaživanje sljedeće generacije",
+    "intro": "Naučit ćemo sljedeću generaciju istraživača svemira kako da izgrade i lansiraju vlastite satelite, pokrivajući ključne teme, uključujući:",
+    "topics": {
+      "history": "<strong>Historija umjetnosti u svemiru:</strong> Razumijevanje porijekla umjetničkih satelita i umjetničkih djela baziranih u svemiru.",
+      "concepts": "<strong>Osnovni koncepti:</strong> <strong>ArtSat</strong> (umjetnički sateliti), svemirska tehnologija <strong>otvorenog koda</strong> i <strong>Svemirski jaz</strong> .",
+      "missions": "<strong>Svemirske misije:</strong> Kako osmisliti i dizajnirati misiju i kako formirati tim za njeno izvršenje.",
+      "electronics": "<strong>Elektronika u svemiru:</strong> Osnovni koncepti elektronskih komponenti koje mogu opstati i funkcionirati u svemirskom okruženju.",
+      "mechanics": "<strong>Mehanika u svemiru:</strong> Razumijevanje strukturnih i mehaničkih zahtjeva za dizajn satelita.",
+      "orbits": "<strong>Orbite i lansirne rakete:</strong> Različite vrste orbita i kako odabrati lansirne sisteme za vašu misiju.",
+      "financing": "<strong>Strategije finansiranja:</strong> Kako osigurati finansiranje i resurse za lansiranje vašeg satelita. Kurs će pružiti resurse za dobijanje finansiranja za vaše lansiranje, pomažući studentima da pronađu programe i grantove od međunarodnih institucija koje podržavaju mlade naučnike i studente u slanju njihovih satelita u svemir.",
+      "groundStation": "<strong>Razvoj zemaljske stanice:</strong> Kako izgraditi antenu za komunikaciju s Orbitalnim hramom i drugim satelitima."
+    }
+  },
+  "technology": {
+    "heading": "Tehnologija: PocketQube sateliti",
+    "paragraph1": "Studenti će naučiti kako raditi sa <strong>PocketQube</strong> satelitima, nanosatelitskim standardom veličine samo <strong>5 cm³</strong> i težine do <strong>250 g</strong> . Uprkos svojoj maloj veličini, PocketQube sateliti su moćni alati sposobni za posmatranje Zemlje, praćenje i komunikaciju.",
+    "paragraph2": "Ovi kompaktni sateliti imaju brojne primjene u stvarnom svijetu, od naučnih istraživanja klimatskih promjena do interkontinentalne komunikacije. Budući da su manji i lakši, pristupačniji su za izgradnju i lansiranje, čineći svemir dostupnijim studentima, istraživačima i umjetnicima širom svijeta."
+  },
+  "globalAccess": {
+    "heading": "Globalni pristup, počevši od globalnog juga",
+    "paragraph1": "Kurs će biti dostupan svima <strong>starijima od 16 godina</strong> , potpuno <strong>besplatno</strong> . Počinjemo sa sadržajem na <strong>portugalskom</strong> , <strong>španskom</strong> , <strong>engleskom</strong> i <strong>hindskom jeziku</strong> , s planovima proširenja na dodatne jezike kako program bude rasao.",
+    "paragraph2": "Naša misija počinje na globalnom jugu i proteže se na cijeli svijet, osiguravajući da sljedeća generacija istraživača svemira dođe iz svih krajeva Zemlje."
+  },
+  "callToAction": {
+    "heading": "Pomozite nam da ovo ostvarimo",
+    "content": "Ovaj obrazovni program je trenutno u razvoju. Tražimo partnere i donatore koji dijele našu viziju demokratizacije pristupa svemirskoj tehnologiji. Ako vi ili vaša organizacija želite podržati ovu inicijativu, posjetite našu <a href=\"/support\">stranicu za podršku</a> kako biste saznali više o mogućnostima partnerstva."
+  },
+  "imageAlt": "Orbitalni hramski satelit"
+}

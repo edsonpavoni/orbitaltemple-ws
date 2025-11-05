@@ -1,0 +1,50 @@
+{
+  "title": "Wada-hawlgalayaasha - Macbadka Orbital",
+  "heading": "Shuraakada",
+  "intro": "Macbadka Orbital wuxuu ku jiraa deeqsinimada, khibradda, iyo aragtida la-hawlgalayaasha aan caadiga ahayn. Laga soo bilaabo dayax-gacmeedyada injineernimada ilaa sheeko-samaynta, laga bilaabo albaabbada laga furayo dhulalka fog ilaa riyooyinka dahabka lagu tuuro, wada-shaqeyn kastaa waxay keentaa macbadkan u dhow xiddigaha.",
+  "partners": {
+    "riseNy": {
+      "name": "Kaca NY&La-hawlgalayaasha",
+      "description": "Isgaadhsiinta, khibradaha isku dhafan iyo 3D cajiib ah ayaa soo bandhigay sawiro keenay aragtida dayax-gacmeedka ka hor inta uusan waligeed taaban meel bannaan."
+    },
+    "highestMantra": {
+      "name": "Qiimaha ugu sarreeya ee Mantra",
+      "description": "Waxaa hogaaminaya Sathi Roy, isku xidhka macbadka Orbital iyo bulshooyinka fanka ee Hindiya. Dariiqooyinka loo furayo lacag ururinta, isdhaafsiga dhaqanka, iyo bandhiga Art Basel ka dib bilawga Noofambar 2025."
+    },
+    "allToSpace": {
+      "name": "Dhammaan ilaa Space",
+      "description": "Khabiirada dayax-gacmeedka yaryar ee Brazil. Afar sano oo iskaashi ah oo la dhisayay meel furan oo qalab qalabaysan iyo hormoodka habka loogu diro fanka wareega wareega ee Koonfurta Caalamiga ah."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Ururka Cilmi-baarista Hawada Hindiya. Bilaabida bixiyaha howlgalka PSLV ee sidda Orbital Temple una socda orbit-qorraxeedka bisha Noofambar 2025."
+    },
+    "mercosul": {
+      "name": "13-aad ee Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. Waxaa soo saaray Marcello Dantas oo ay weheliyaan kaaliyaha kormeerayaasha Laura Cattani, Munir Klamt, Tarsila Riso, iyo Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Kooxda horumarinta dayax-gacmeedka ayaa la sameeyay intii lagu jiray II ArtSat Workshop. Isku duwaha Fabiane M. Borges, oo uu baray Lázaro Camargo, oo ay iska kaashadeen Ítalo Pinto Rodrigues, oo uu kormeerayo Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Fikrado Adag",
+      "description": "Waxaa hogaaminaya Eduardo Dias. Dhammaan daabacaadda 3D iyo tuurista micro-da dahabka ah waxay u shaqeeyaan qubbada farshaxanimada, iyagoo u beddelaya riyooyin dhijitaal ah xaqiiqda birta qaaliga ah."
+    },
+    "ideaSpace": {
+      "name": "Meel Fikirka",
+      "description": "Bilowga waxbarashada Brazil horumarinta manhajka Quebrada Space Program, oo diyaar u ah in lagu dabaqo ardayda dugsiyada sare ee Brazil oo dhan."
+    }
+  },
+  "closing": "Ma xiisaynaysaa la shaqaynta Macbadka Orbital? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Gaadhi</a> .",
+  "imageAlts": {
+    "riseNy": "Kaca NY&Astaanta Wada-hawlgalayaasha",
+    "highestMantra": "Astaanteena Mantra ee ugu sareysa",
+    "allToSpace": "Dhammaan ilaa Logo Space",
+    "isro": "ISRO Logo",
+    "mercosul": "13-aad Mercosur Logo Biennial",
+    "inpe": "INPE ArtSat Logo Workshop",
+    "solidConcepts": "Logo Fikradaha Adag",
+    "ideaSpace": "Fikradda Space Logo"
+  }
+}

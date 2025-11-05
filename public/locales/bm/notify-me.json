@@ -1,0 +1,13 @@
+{
+  "title": "Ka Ladɔnniyali - Orbital Temple",
+  "heading": "Aw ka ladɔnniya ni a wulila",
+  "description": "Nowanburukalo tile 28, san 2025, Orbital Temple bɛna wuli.<br> I ka e-mail bila, an bɛna a fɔ i ye ni a sera yɔrɔ la.",
+  "form": {
+    "emailPlaceholder": "aw ka@email.com kan",
+    "sendButton": "Ka ci",
+    "sendingButton": "A bɛ ci...",
+    "successMessage": "An bɛna se aw ma ni a wulila.",
+    "errorMessage": "Fɛn dɔ ma ɲɛ. Aw ye aw jija ka segin a kan."
+  },
+  "backLink": "← Segin ka segin jatebɔ kan"
+}

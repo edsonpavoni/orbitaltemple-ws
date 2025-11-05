@@ -1,0 +1,31 @@
+{
+  "title": "Karya Seni - Kuil Orbital",
+  "heading": "Karya Seni",
+  "intro": {
+    "paragraph1": "Kuil Orbital ialah satelit dengan misi artistik: tugu peringatan di angkasa lepas terbuka kepada setiap makhluk hidup yang hidup atau pernah hidup di Bumi.",
+    "paragraph2": "Melalui cara teknologi, sesiapa sahaja boleh menghantar nama seseorang ke Kaabah, sama ada seseorang yang telah meninggal dunia, seseorang yang masih hidup, atau mana-mana makhluk yang patut diingati."
+  },
+  "sculpture": {
+    "heading": "Arca",
+    "paragraph1": "Karya seni itu mempunyai tiga elemen yang bergantung bersama: satelit yang direka khas untuk menyimpan berbilion-bilion nama; arca awam bertukar maklumat dengan satelit; dan laman web di mana peserta menghantar nama, dari sekarang hingga mereka meninggal dunia, ke syurga.",
+    "paragraph2": "Sebagai usaha pelbagai disiplin, Kuil Orbital boleh dianggap sebagai arca khusus tapak, yang mendiami ruang. Ia juga merupakan projek Artsat."
+  },
+  "antenna": {
+    "heading": "Antena Sebagai Arca Awam",
+    "paragraph1": "Antena yang menghubungkan kita dengan angkasa lepas.",
+    "paragraph2": "Antena yang akan berhubung terus dengan satelit orbit sedang direka bentuk.",
+    "paragraph3": "Dengan permukaan reflektif keemasan, mencerminkan langit di atasnya, ia adalah titik permulaan untuk rangsangan jisim (atau hubungan kita dengan apa yang 'di atas sana').",
+    "paragraph4": "Walaupun arca tidak dipasang di kebanyakan bahagian dunia, Bingkai dari Bumi kami, yang kini mengawal satelit, menghantar nama pada setiap laluan.",
+    "paragraph5": "Bantu membawa visi ini ke bandar anda—memasang arca antena yang memberi inspirasi kepada perbualan tentang penerokaan angkasa lepas, seni dan tempat kongsi kami di kosmos. <a href=\"/support\">Ketahui lebih lanjut tentang menyokong projek</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satelit Kuil Orbital",
+    "riseNy": "Kuil Orbit di Rise NY",
+    "installation": "Kuil Orbit oleh Clara Marques",
+    "antenna": "Antena Kuil Orbit"
+  },
+  "imageCaptions": {
+    "riseNy": "Kuil Orbit di angkasa. Paparan 3D oleh RiseNY&Partners.",
+    "mercosul": "Pemasangan Kuil Orbital di Mercosul Dwitahunan, di Porto Alegre, Brazil.<br> Foto oleh Clara Marques."
+  }
+}

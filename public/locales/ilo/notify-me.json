@@ -1,0 +1,13 @@
+{
+  "title": "Mapakaammuan - Orbital a Templo",
+  "heading": "Mapakaammuan No Agpangato",
+  "description": "Inton Nobiembre 28, 2025, agpangato ti Orbital Temple.<br> Bay-am ti e-mail-mo, ket ibagami kenka no makadanon dayta iti espasio.",
+  "form": {
+    "emailPlaceholder": "ti@email.com",
+    "sendButton": "Ipaw-it",
+    "sendingButton": "Ipatulod ti...",
+    "successMessage": "Dumanonkami kadakayo inton agpangato dayta.",
+    "errorMessage": "Adda nagbiddut. Pangngaasiyo ta padasenyo manen."
+  },
+  "backLink": "← Agsubli iti panagbilang"
+}

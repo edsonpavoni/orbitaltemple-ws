@@ -1,0 +1,61 @@
+{
+  "title": "Kooxda - Orbital Temple",
+  "heading": "Kooxda",
+  "artist": "Edson Pavoni, farshaxan",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Soo saaraha fulinta",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Injineerinka Elektarooniga ah",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Naqshadeynta iyo Dhismaha",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Daabacaadda 3D",
+      "members": "Fikrado adag, oo uu hoggaamiyo Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Bandhigga 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Cilmi baaris",
+      "members": "Roberta Savian Rosa iyo Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Soo saarista Bandhiga, Sawir-qaadista & Abuuritaanka Mawduuca",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Baadhitaanka Xariirta ee Bandhiga",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Mashruuca Waxbarashada",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Kooxda Isgaarsiinta",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Mahad gaar ah",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, iyo Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Holzmeister. Bruna Cairo, Conceitos Sólidos, RiseNY & Wada-hawlgalayaasha, IdeaSpace",
+  "imageAlt": "Orbital Temple Satellite"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Farshaxanka - Macbadka Orbital",
+  "heading": "Farshaxanka",
+  "intro": {
+    "paragraph1": "Macbadka Orbital waa dayax-gacmeed leh hawl faneed: xasuus bannaanka bannaanka ah oo u furan qof kasta oo ku nool ama ku noolaa Dunida.",
+    "paragraph2": "Iyada oo loo marayo habka tignoolajiyada, qof kastaa wuxuu u diri karaa magaca qof macbadka, ama mid dhintay, qof aad u nool, ama qof kasta oo mudan in la xasuusto."
+  },
+  "sculpture": {
+    "heading": "Farshaxanka",
+    "paragraph1": "Farshaxanku waxa uu leeyahay saddex walxood oo isku xidhan: dayax-gacmeed gaar ahaan loogu talagalay in lagu kaydiyo balaayiin magacyo ah; sawir caam ah oo xogta la isku weydaarsanayo dayax-gacmeedka; iyo mareegaha ay ka qaybgalayaashu magacyadooda ku soo diraan hadda ilaa ay ka baxayaan jannada.",
+    "paragraph2": "Dadaal badan oo kala duwan, Macbadka Orbital waxa loo tixgalin karaa farshaxan goob gaar ah, meel bannaan ah. Sidoo kale waa mashruuc Artsat ah."
+  },
+  "antenna": {
+    "heading": "Anteenada Sida Farshaxanka Dadweynaha",
+    "paragraph1": "Anteeno nagu xidhaysa meel bannaan.",
+    "paragraph2": "Anteeno si toos ah ula xiriiri doonta dayax-gacmeedka orbital ayaa la naqshadeeyay.",
+    "paragraph3": "Iyada oo leh dusha sare ee muraayadda dahabka ah, muraayadda cirka ka sarreeya, waa bar bilawga kicinta ballaaran (ama xiriirkayaga waxa 'halkaas ku yaal').",
+    "paragraph4": "In kasta oo farshaxannada aan lagu rakibin inta badan adduunka, Frames-ka Dunida, oo hadda gacanta ku haya dayax-gacmeedka, ayaa soo diraya magacyada meel kasta oo marin ah.",
+    "paragraph5": "Ka caawi in aragtidan la keeno magaaladaada-ku rakib farshaxannada anteenada kuwaas oo dhiirigelinaya wada sheekaysiga ku saabsan sahaminta meel bannaan, farshaxanka, iyo meesha aan wadaagno ee cosmos. <a href=\"/support\">Wax badan ka baro taageerada mashruuca</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite",
+    "riseNy": "Orbital Temple ee Rise NY",
+    "installation": "Macbadka Orbital ee Clara Marques",
+    "antenna": "Anteenada Macbadka Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Macbadka Orbital ee meel bannaan. Samaynta 3D ee RiseNY&Partners.",
+    "mercosul": "Ku rakibida Macbadka Orbital ee Mercosul Biennial, ee Porto Alegre, Brazil.<br> Sawirka waxaa qaaday Clara Marques."
+  }
+}

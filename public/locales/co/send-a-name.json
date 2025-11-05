@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "mentre entre\nun rituale\nper mandà un nome\nin u\ntempiu orbitale\nin u spaziu\npigliate\nun fiatu",
+    "button": "sò prontu"
+  },
+  "nameInput": {
+    "title": "scrivite un nome",
+    "subtitle": "si alzerà finu à u Tempiu Orbitale in u spaziu.",
+    "placeholder": "nome",
+    "button": "lasciallu ascende"
+  },
+  "emailInput": {
+    "title": "scrivite u vostru email",
+    "subtitle": "cusì ricevete un missaghju quandu u nome ascende.",
+    "placeholder": "u vostru email",
+    "button": "hè fattu"
+  },
+  "loading": {
+    "alt": "Caricamentu"
+  },
+  "success": {
+    "text": "U nome\n{{name}}\nhè avà in coda\nper l'ascensione.\nquandu u\ntempiu in u spaziu\ns'allinea, cù\na nostra antenna\nin Terra\nmanderemu\nu nome\nè riceverete\nun missaghju."
+  }
+}

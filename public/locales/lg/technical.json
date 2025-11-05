@@ -1,0 +1,17 @@
+{
+  "title": "Ebikwata ku by'ekikugu - Orbital Temple",
+  "heading": "Ebikwata ku by'ekikugu",
+  "satellite": {
+    "heading": "Setilayiti",
+    "specs": "Ebipimo: mm 50x58x64<br /> 1P EnsawoQube<br /> Obuzito: 245 gr<br /> Ebikozesebwa: aluminiyamu, zaabu, fiberglass, n’ebitundu by’ebyuma.<br /> Enkulungo: Obugulumivu bwa kiromita 525 ± 25; okuserengeta: SSO 97.6 ± 0.1°<br /> Ekyuma ekisimbula: PSLV (Polar Satellite Launch Vehicle) eddukanyizibwa kkampuni ya ISRO"
+  },
+  "antenna": {
+    "heading": "Antenna/Ekibumbe",
+    "specs": "Ebipimo: 6 m (obuwanvu) e 1.2m (obugulumivu)<br /> Obuzito: Kkiro 46<br /> Ebikozesebwa: aluminiyamu, epoxy mirrored board, zaabu aluminiyamu dome ewaniriddwa okuyita mu kizimbe kya scaffolding."
+  },
+  "radio": {
+    "heading": "Ebikwata ku leediyo",
+    "specs": "Enkola y’okukka wansi: 468.5 MHz<br /> Okukyusakyusa: CSS<br /> Bandwidth: TBD nga bwe kiri"
+  },
+  "imageAlt": "Satellite ya Yeekaalu ey’enkulungo"
+}

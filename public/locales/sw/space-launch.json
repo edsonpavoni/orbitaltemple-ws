@@ -1,0 +1,16 @@
+{
+  "title": "Uzinduzi wa Nafasi - Hekalu la Orbital",
+  "heading": "Uzinduzi wa Nafasi",
+  "intro": "Hekalu la Orbital limeratibiwa kuzinduliwa ndani ya PSLV (Polar Satellite Launch Vehicle) tarehe 28 Novemba 2025 kutoka Satish Dhawan Space Center huko Sriharikota, India.",
+  "partnership": "Uzinduzi wa Hekalu la Orbital ni ushirikiano kati ya NewSpace India Limited (NSIL), Kampuni ya Serikali ya India iliyo chini ya Idara ya Anga, Shirika la Antrix, na msanii huyo. Ushirikiano huu unawakilisha hatua muhimu ya sanaa katika uchunguzi wa anga, inayoleta pamoja mpango wa anga wa India na maono ya kisanii ya ushirikishwaji mkali.",
+  "risks": {
+    "heading": "Hatari",
+    "paragraph1": "Satelaiti iliundwa ili kustahimili hali mbaya ya mtetemo na mizunguko ya joto, na imefanyiwa majaribio makali. Walakini, kurusha anga hubeba hatari za asili. Iwapo setilaiti itaharibika wakati wa kuzinduliwa au kupelekwa, au ikiwa itashindwa kuanzisha mawasiliano na vituo vyetu vya ardhini, tutafanya kazi kutatua na kutatua masuala yoyote. Setilaiti ina mifumo isiyohitajika na itifaki mbadala iliyoundwa ili kuongeza nafasi za mafanikio ya misheni.",
+    "paragraph2": "Zaidi ya hayo, setilaiti inaweza kukaa katika obiti kwa chini ya miaka 10 ikiwa hali ya anga au mambo mengine husababisha kuoza mapema kwa obiti. Ingawa tumeiunda ili idumu angalau muongo mmoja, muda halisi wa maisha unategemea hali ambazo hatuwezi kudhibiti kikamilifu.",
+    "paragraph3": "Iwapo uzinduzi wa kwanza hautafaulu, au ikiwa hatuwezi kukamilisha dhamira hii kama ilivyopangwa, tutachunguza njia mbadala za kusonga mbele, ikiwezekana kujumuisha jaribio la pili la uzinduzi na bajeti inayopatikana, ushirikiano na misheni nyingine, au uwekaji kumbukumbu wa jaribio kama sehemu ya masimulizi ya kazi ya sanaa kuhusu matarajio na vikwazo."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Satelaiti ya Hekalu la Orbital"
+  }
+}

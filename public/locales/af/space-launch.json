@@ -1,0 +1,16 @@
+{
+  "title": "Ruimtelansering - Orbitale Tempel",
+  "heading": "Ruimtelansering",
+  "intro": "Die Orbital Temple is geskeduleer om op 28 November 2025 vanaf die Satish Dhawan-ruimtesentrum in Sriharikota, Indië, aan boord van 'n PSLV (Polar Satellite Launch Vehicle) gelanseer te word.",
+  "partnership": "Die bekendstelling van die Orbital Temple is 'n vennootskap tussen NewSpace India Limited (NSIL), 'n regeringsmaatskappy van Indië onder die Departement van Ruimte, Antrix Corporation, en die kunstenaar. Hierdie samewerking verteenwoordig 'n belangrike mylpaal vir kuns in ruimteverkenning, wat Indië se ruimteprogram saambring met 'n artistieke visie van radikale inklusiwiteit.",
+  "risks": {
+    "heading": "Risiko's",
+    "paragraph1": "Die satelliet is gebou om uiterste vibrasietoestande en termiese siklusse te weerstaan, en het streng toetse ondergaan. Ruimtelanserings hou egter inherente risiko's in. Indien die satelliet tydens lansering of ontplooiing beskadig word, of indien dit nie daarin slaag om kommunikasie met ons grondstasies te bewerkstellig nie, sal ons werk om enige probleme op te los en te probeer oplos. Die satelliet het oorbodige stelsels en rugsteunprotokolle wat ontwerp is om die kanse op sendingsukses te maksimeer.",
+    "paragraph2": "Daarbenewens kan die satelliet minder as 10 jaar in 'n wentelbaan bly indien atmosferiese toestande of ander faktore vroeër wentelbaanverval veroorsaak. Hoewel ons dit ontwerp het om ten minste 'n dekade te hou, hang die werklike lewensduur af van toestande wat ons nie ten volle kan beheer nie.",
+    "paragraph3": "Indien die eerste lansering misluk, of indien ons nie hierdie missie soos beplan kan voltooi nie, sal ons alternatiewe paaie vorentoe ondersoek, moontlik insluitend 'n tweede lanseringspoging met beskikbare begroting, vennootskap met ander missies, of dokumentasie van die poging as deel van die kunswerk se narratief oor aspirasie en beperking."
+  },
+  "imageAlts": {
+    "india": "ISRO Ruimtesentrum, Indië",
+    "satellite": "Orbitale Tempel Satelliet"
+  }
+}

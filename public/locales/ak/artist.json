@@ -1,0 +1,44 @@
+{
+  "title": "Efi Mfoniniyɛfo no hɔ",
+  "opening": {
+    "question": "Hena ne saa ɔbarima yi sɛ ɔbɛhyɛ nyansa sɛ wɔnyɛ asɔredan wɔ ahunmu?",
+    "thanks": "Yɛda wo ase wɔ asɛmmisa no ho.",
+    "answer": "Mmuae tiawa no ne sɛ meyɛ mfoniniyɛfo. Nea ɛware no ne sɛ:"
+  },
+  "origin": {
+    "sao_paulo": "Wɔwoo me wɔ São Paulo kurotia, wɔ mpɔtam bi a wɔkyerɛɛ me ntɛm nea asiane kyerɛ. Me sukuu nnamfo pii da afiase mprempren. Me mpena papa da afiase. Na basabasayɛ nyɛ biribi a mekenkan ho asɛm, na ɛyɛ wiase a ɛsɛ sɛ mefa mu. Na na minim sɛ ɛsɛ sɛ miguan.",
+    "technology": "Mfiridwuma bɛyɛɛ ɔkwan a mɛfa so afi mu. Misuaa nhyehyɛe a wɔyɛ, misuaa ɛlɛtrɔnik mfiri bere a na meyɛ ɔbabun no. Ná mmara yɛ kasa a ebetumi de me akɔ baabi foforo. Mfiridwuma a mede bɛyɛ adwuma no ne ohia a miguan fii mu.",
+    "christianity": "Nanso na merehwehwɛ me dea nso, ɔdɔ, biribi a megye adi, mihuu Kristosom, anaasɛ ehuu me. Wogyee me toom. Ná wɔdɔ me. Ná mewɔ mpɔtam bi. Misuaa sɛ mede bɔne bɛkyɛ, sɛ mɛgye adi, mɛbom atu akɔtena baabiara de ayɛ atirimpɔw kɛse bi.",
+    "price": "Nanso, na ne bo yɛ kɛse. Misuaa nneɛma pii nso a meda so ara nsuae. Enti miguan fii ɛno nso ho."
+  },
+  "searching": {
+    "walls": "Minim nea afasu yɛ. Mate wɔn nka. I’ve been on both sides: kept out, kept in. Nea edii akyi bae ne mfe pii a mede hwehwɛɛ biribi a mintumi mmɔ din. Onyankopɔn wui wɔ saa mfe no mu. Onyame a na wɔakyerɛkyerɛ me ho asɛm, sɛnea ɛte biara, nea ɔwɔ mmara ne atemmu ne apon a wobue ma nnipa binom nkutoo.",
+    "art": "Mifii ase yɛɛ adwinni de hwehwɛɛ nsɛmmisa yi mu: ɛfa abusuabɔ a emu yɛ den ne mfiridwuma ho, ɛfa nkae ne owu ho, ɛfa nea ɔfata ɔsoro ho. Mifii ase yɛɛ mfiri a ɛsan yɛ yɛne mfiridwuma ntam abusuabɔ ho mfonini, mfiri a ehia sɛ wode wo ho hyɛ mu, wo ba a wowɔ, wo din, na ama woadan afi dade ne mmara mu akɔ biribi a ɛte ase mu."
+  },
+  "pandemic": {
+    "intro": "Afei ɔyaredɔm no kaa Brazil.",
+    "government": "Bere a wɔtwee COVID vaccines no akyi no, na m’aban no reyɛ nkitahodi a ɛbɛma wɔagye sika dɔla biako wɔ dodow biara mu. Wɔhyɛɛ nnuruyɛ a wɔte ase sɛ entumi nyɛ adwuma ho nkuran, na wɔserewee bere a nkurɔfo wuwui a na wɔrepere sɛ wɔbɛhome no. Yɛsɔree da biara da wɔ dodow soronko bi mu. Nnipa baahe na wowuwui wɔ nnɔnhwerew 24 a atwam no mu? So na ɛboro so, anaasɛ ennu nea wɔhwɛɛ kwan?",
+    "war": "Ehu aka wiase no fã, na na fã foforo nso wɔ pow mu. Ná yɛwɔ ɔko mu, na yɛne mmoawa no ne yɛn ho yɛn ho.",
+    "memorial": "Ná mepɛ sɛ mema awerɛhow a wɔbom bedi ho kwan, enti me ne nnipa ɔhaha pii boom yɛɛ Nkaedi Inumeráveis no. Adwinni bi a ɛwɔ adwinni ne nsɛm ho amanneɛbɔ ntam. Yebisabisaa mmusua a wɔahwere obi nsɛm. Yɛkyerɛw onipa a wɔhweree no no asetra ho asɛm. Yɛdanee akontaahyɛde yɛɛ no abakɔsɛm. Wɔde saa abakɔsɛm ahorow no yɛɛ anwensɛm, nnwom, nnwom a wɔde bɔ nnwom. Nsoromma kenkan saa nsɛm no wɔ ɔman television so. Adwuma no duu nnipa ɔpepem pii nkyɛn.",
+    "meaning": "Nea na ɛho hia na ɛnyɛ nsenia no, na mmom na asɛm biara yɛ din, asetra, obi soro."
+  },
+  "discovery": {
+    "pattern": "Bere a wɔde awerɛhow bɔɔ nkɔmmɔ bɛboro mpem du akyi no, nhwɛso bi fii ase daa adi. Sɛ yɛka obi a wawu ho asɛm a, yɛnka nsɛm pa kɛkɛ; yɛpaw wɔn asɛm no asinasin te sɛ nea yɛrekyerɛw krataa a wɔde kamfo kyerɛ. Nyansahyɛ bi a wɔde ma paradise pon ano hwɛfo. Yɛyɛ nea yebetumi biara de wɔn kɔ beae a wogye tom, home, nidi ne nkae.",
+    "understanding": "Na metee biribi a ɛsesaa biribiara ase: Yɛapirapira wɔ asɔredan no ara a yɛkyekyeree no ho. Yɛn gyidi ahorow a ɛfa nea ɔfata ɔsoro ho no na ɛkyerɛ wɔn a yeyi wɔn fi mu wɔ Asase so no tẽẽ. Ná Portugalfo atubrafo a wɔwɔ Brazil no gye di sɛ Abibifo nni akra; saa gyidi no maa nkoasom yɛɛ nea ɛfata. Sɛ woyɛ kuromni, sɛ wɔwoo wo wɔ baabi a ɛnteɛ anaasɛ wodɔ onipa a ɛnteɛ a, wɔka kyerɛɛ wo sɛ wɔato ɔsoro apon mu ama wo.",
+    "birth": "Saa na wɔwoo Orbital Asɔredan no."
+  },
+  "shaman": {
+    "secular": "Mfoniniyɛfo biara ntumi nyɛ wiaseni ankasa. Yɛakyekyere yɛn nana a yɛbom yɛ, ɔkraman no ho daa. Mfiase no, na ɔbodan bi wɔ hɔ. Nnipa yɛɛ mmoa ho mfonini wɔ afasu so ɛnyɛ sɛ wɔde besiesie wɔn ho, na mmom wɔde frɛɛ wɔn. Wɔsaw, na ɔbodan no bɛyɛɛ asɔredan. Ɔkraman no de amanne honhom di dwuma; mfoniniyɛfo no de adwinni aura no di dwuma. Yɛyɛ mfonini, yɛyɛ adwini, yɛyɛ code, yɛyɛ yɛn daakye a yɛpɛ no ho nhyehyɛe ɛnyɛ sɛ yɛde besiesie, na mmom sɛ yɛbɛfrɛ. Adwinni nyinaa yɛ honhom mu de, bere mpo a ɛkyerɛ sɛ ɛnte saa no."
+  },
+  "space": {
+    "question": "Ɛhe na yebetumi asi asɔrefie a afasu biara nni ho? Baabi a ɔman anaa ɔsom biara ntumi nka sɛ. Baabi a yebetumi asusuw yɛn ho sɛ kuw biako.",
+    "answer": "Kwan.",
+    "description": "Adwinni satellite a wɔde wɔn ho hyɛ mu a efi Wiase Nyinaa Kesee Fam. Asɔredan a ɛkyinkyin a ɛto nsa frɛ obiara sɛ ɔmfa ne din nkɔ ahunmu, ɛmfa ho onii ko a wɔyɛ, baabi a wɔwoo wɔn, onii ko a ɔdɔ, nea ogye di. Beae a wobetumi de wɔn ho ahyɛ mu denneennen, wɔ kyinhyia mu, wɔ ahye akyi.",
+    "mission": "Saa asɛmpatrɛw yi yɛ nea wɔabue ano. Mfiridwuma ho krataa biara, line of code biara bɛba a wobetumi anya bi kwa sɛnea ɛbɛyɛ a adwumfo afoforo, mpɔtam afoforo, aman afoforo betumi ayɛ wɔn ankasa satellites. Enti ɛnyɛ sɛ Wiase Nyinaa Kesee Fam de ne ho hyɛ ahunmu nhwehwɛmu mu kɛkɛ, na mmom edi anim."
+  },
+  "closing": {
+    "answer": "Enti hena ne saa ɔbarima yi a obesi asɔredan wɔ ahunmu? Ɛnyɛ sɛ merekyekye. Obiara a ɔsi gyinae sɛ ɔbɛsoma din, ahunu sɛ ɛyɛ kronkron, ama ayɛ nokorɛ na ɔsi asɔredan no. Me ne nea ɔrehyɛ nyansa no ara kwa. Wo na worekyekye no sɛ wusi gyinae sɛ wobɛyɛ saa a.",
+    "signature": "Ayamye,",
+    "name": "Edson Pavoni na ɔkyerɛwee"
+  }
+}

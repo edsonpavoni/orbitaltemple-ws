@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Alabatoso Orbital",
+  "heading": "Mɛli",
+  "intro": {
+    "paragraph1": "Ni seko ni dɔnko b’a fɛ k’an bila siniko la, a tɛ se k’an ɲɛmajɔ gɛlɛyaw la, an bɛ minnu sɔrɔ, n’o ye sigida binkanni, sigidamɔgɔw ka bɛnbaliya, ani yɔrɔ nɔgɔw ka gɛlɛya min bɛ ka bonya. Orbital Temple dabɔra ni o tiɲɛkow ye a hakili la, k’a laɲini ka kɛ kunkanbaaraba ye Dugukolo kan ani orbit kɔnɔ.",
+    "paragraph2": "An dalen b’a la ko sabatili tɛ dankarili ye nka a ye an ka seko ni dɔnko yeli yɔrɔ koloma ye. Desizɔn bɛɛ min bɛ Kɛ fɛnw, jiribolo-yɔrɔw ani baarakɛcogo kan, o b’an ka cɛsiri Jira ka Dugukolo ni sankolo bɛɛ Bɔ ka ɲɛ ka Tɛmɛ an y’u Sɔrɔ cogo min na."
+  },
+  "spaceDebris": {
+    "heading": "Sanfɛla Debris (yɔrɔ Nɔgɔw).",
+    "paragraph1": "Sankolola nɔgɔw ye gɛlɛya gɛlɛnw dɔ ye minnu bɛ sankolola ɲininiw kan. Satelitiw ni fɛnɲɛnɛmaw ba caman minnu tɛ yen tuguni, olu bɛ Dugukolo lamini, ka cidenyabaara kɛtaw bagabaga ani ka kaskade nɔ dɔ Dabɔ min bɛ Se ka taamaʃyɛn dɔw Kɛ u tɛ Se ka baara Kɛ n’u ye.",
+    "paragraph2": "Orbital Temple bɛ o ko ɲɛnabɔ cogo caman na:",
+    "list": {
+      "orbit": "<strong>Tle ni ɲɔgɔn cɛ taamaʃyɛn bɛ kilomɛtɛrɛ 525 la:</strong> O sanfɛla in b’a Jira ko fiɲɛ-yɔrɔ-yɔrɔ-yɔrɔ-yɔrɔ-yɔrɔ-ko bɛna Kɛ sababu ye ka sateliti in Dòn kokura dugukolo fiɲɛbɔ la sàn 10 ɲɔgɔn kɔnɔ, a bɛna Jeni yɔrɔ min na pewu. An tɛ dɛmɛ don orbital nɔgɔw la minnu bɛ mɛn senna.",
+      "size": "<strong>PocketQube dilanni :</strong> A janya ye 50×58×64mm ni 245g dɔrɔn ye, sateliti in ka dɔgɔ fo a bɛ se ka lafiɲɛbɔ pewu a dontɔ kokura, ka nɔgɔ si to dugukolo kan.",
+      "responsibility": "<strong>Kɔrɔlenko bolodalen tɛ:</strong> A tɛ i n’a fɔ jagokɛla sateliti minnu bɛ se ka bila, Orbital Temple dabɔra ka deorbit kɛ cogo la min bɛ kɛ a yɛrɛ la, ka diɲɛ jamanaw ka laadilikanw dafa sankolola baara kunkankow kan."
+    },
+    "paragraph3": "Ni an ye Dugukolo-yɔrɔ-yɔrɔ dɔgɔmannin sugandi ani a dilanni min ka surun, an b’a Jira ko Orbital Temple ka kɛli sankolo la, o ye waati dɔɔnin dɔrɔn ye, wa a tɛ nɔgɔ."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralité à carbone (Karɔbɔni).",
+    "content": "Kabɔn bɔli bɛɛ minnu bɛ tali kɛ Orbital Temple la — sateliti dilanni, laseli, dugukolo kan garasi baara, sitiw ladonni, ani jɛkulu ka taama — o bɛna ban pewu kabon jurudon porogaramuw fɛ minnu sɛgɛsɛgɛra. An b’an jija ka nin cidenyabaara in kɛ waati cogoya tɛ min na."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware (Dɔgɔtɔrɔso da wulilen).",
+    "paragraph1": "Sigida sabatili fana kɔrɔ ye ko i kana dɔnniya tiɲɛ. Orbital Temple ka fɛɛrɛ bɛɛ—schematics, code, communication protocols, ani jɔli fɛɛrɛw — bɛna bɔ kɛnɛ kan i n’a fɔ sɛbɛn dafalenw.",
+    "paragraph2": "O b’a to cidenyabaara nataw bɛ se ka dɔ fara an ka baara kan sanni u ka daminɛ fɔlɔ, ka ɲininiw ni yiriwaliw dɔgɔya minnu tɛ kɛ. A bɛ demokarasi kɛ ka se ka sankolola fɛɛrɛbɔ sɔrɔ, kɛrɛnkɛrɛnnenya la, sigida minnu bɛ diɲɛ Saheli kɔnɔ, tariku kɔnɔ, minnu bɔra sankolola ɲinini na."
+  },
+  "educational": {
+    "heading": "Kalan nɔfɛkow",
+    "paragraph1": "An ka kan caman kalan bolodalen fu bɛ kalandenw kalan diɲɛ fan bɛɛ la satelitiw dilanni n’u lasecogo la, k’a sinsin Duniya Saheli kan. Ni an ye fanga di bɔnsɔn nataw ma ni sankolola fɛɛrɛko seko ye, an bɛ dɛmɛ don ka \"Sanko danfara\" datugu ani ka sababuw dabɔ, n'o tɛ, u tun tɛna kɛ yen.",
+    "paragraph2": "Nin kalanko cidenyabaara in yɛrɛ ye sabatili sugu dɔ ye — ka wari bila mɔgɔw ni sigidamɔgɔw la walasa ka fɛn caman Changement banbali lase sateliti ka ɲɛnamaya kɔnɔ."
+  },
+  "tenYear": {
+    "heading": "San 10 Misiyɔn dɔ",
+    "paragraph1": "Orbital Temple dabɔra san tan cidenyabaara kama, a ma dabɔ forobaciyɛn surun dɔ kama. San tan kɔnɔ, sateliti bɛna dugukolo lamini siɲɛ 50.000 ɲɔgɔn, ka tɔgɔw sɔrɔ ani ka kɛ hakilijigin ye ko sankolo bɛ se ka kɛ fɛn ye min bɛ kɛ ɲɔgɔn fɛ, bɛɛ bɛ se ka don min na.",
+    "paragraph2": "A ka cidenyabaara bannen kɔfɛ, sateliti bɛna a yɛrɛ bɔ a lamini na ka jeni, ka taamasiyɛn si to yen fo mɔgɔ minnu y’a sen don a la, olu hakili ni sɛbɛnw kɔnɔ."
+  },
+  "artsResponsibility": {
+    "heading": "Art ka Kunkanbaaraw",
+    "paragraph1": "Seko ni dɔnko kɛra a waati filɛlikɛlan ye tuma bɛɛ, min b’an ka nafaw n’an ka laɲiniw jira. Waati min na, waati gɛlɛya ani bɛnbaliya min bɛ ka bonya, an dalen b’a la ko dɔnkotigiw ka baara ye ka baara dɔw da minnu tɛ kuma dɔrɔn nin ko ninnu kan, nka a bɛ u ɲɛnabɔ ni timinandiya ye.",
+    "paragraph2": "Orbital Temple ye an ka cɛsiri ye ka seko ni dɔnko baara dɔ da min bɛ kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye min bɛ se ka kɛ fɛn ye. O ye seko ni dɔnko ye min bɛ bɛɛ wele k’u sen don a la k’a sɔrɔ u bɛ bonya da sigida nɔgɔlenw kan — sigida ni jiribolo — minnu bɛ ɲɛnamaya ni ɲinini kɛ."
+  },
+  "imageAlt": "Sateliti min bɛ wele ko Orbital Temple"
+}

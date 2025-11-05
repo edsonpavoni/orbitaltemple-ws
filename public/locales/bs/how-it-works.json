@@ -1,0 +1,8 @@
+{
+  "title": "Kako funkcioniše - Orbitalni hram",
+  "heading": "Kako funkcioniše",
+  "intro": "Projekt Orbitalnog hrama sastoji se od tri međusobno povezana elementa koji zajedno rade na slanju imena hramu u svemiru.",
+  "paragraph1": "Satelit kruži oko Zemlje na visini od približno 525 km, pohranjujući imena u svoju memoriju. Zemaljske stanice komuniciraju sa satelitom tokom njegovih proleta, prenoseći imena koja su ljudi poslali putem web stranice.",
+  "paragraph2": "Kada pošaljete ime, ono se pridružuje redu čekanja i bit će preneseno satelitu tokom sljedećeg dostupnog prolaska. Dobit ćete potvrdu e-poštom kada vaše ime bude uspješno preneseno u Orbitalni hram.",
+  "imageAlt": "Dijagram orbitalnog hramskog sistema"
+}

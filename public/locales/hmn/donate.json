@@ -1,0 +1,31 @@
+{
+  "title": "Pub rau lub Tuam Tsev Orbital",
+  "heading": "Ua kom tiav koj qhov nyiaj pub dawb",
+  "donatingTo": "Koj pub dawb rau:",
+  "chooseHow": "Xaiv qhov koj xav ua kom tiav koj cov nyiaj pub dawb uas tau txiav se tawm:",
+  "option1": {
+    "heading": "Option 1: Pub dawb online tam sim no",
+    "description": "Ua kom tiav koj cov nyiaj pub dawb tam sim ntawd siv daim npav rho nyiaj, daim npav rho nyiaj, lossis lwm txoj hauv kev them nyiaj online los ntawm peb tus neeg txhawb nqa nyiaj txiag ruaj ntseg, <strong>The Field</strong> . Koj yuav tau txais daim ntawv them se tam sim.",
+    "button": "Pub dawb ntawm The Field →"
+  },
+  "option2": {
+    "heading": "Kev xaiv 2: Lub txhab nyiaj tso nyiaj rau Roy Foundation",
+    "description": "Ua ib lub txhab nyiaj ncaj qha los yog xaim xa mus rau <strong>The Roy Foundation</strong> , peb tus khub zoo thiab tus neeg txhawb nqa nyiaj txiag. Qhov kev xaiv no zoo tagnrho rau kev pub dawb loj dua lossis kev hloov pauv thoob ntiaj teb.",
+    "bankingInfo": "Cov ntaub ntawv banking",
+    "fields": {
+      "accountName": "Lub Npe Account:",
+      "bankName": "Lub Npe Lub Npe:",
+      "accountNumber": "Tus lej account:",
+      "routingNumber": "Routing Number:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Siv:"
+    },
+    "instructions": "Thov suav nrog &quot; <strong>Lub Tuam Tsev Orbital - {donationType}</strong> &quot; hauv cov ntaub ntawv siv. Tom qab ua tiav koj qhov kev hloov pauv, xa email rau peb ntawm <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> nrog koj cov ntaub ntawv hloov mus kom tau txais koj daim ntawv them se.",
+    "button": "Tiv tauj peb Txog Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Tax-Deductible Muab",
+    "description": "Lub Tuam Tsev Orbital yog ib txoj haujlwm txhawb nqa nyiaj txiag ntawm <strong>The Field (Performance Zone Inc.)</strong> , ib lub koom haum <strong>501(c)(3)</strong> non-profit organization. Tag nrho cov nyiaj pab hauv Teb Chaws Asmeskas yog txiav se tawm raws li txoj cai tau tso cai.",
+    "questions": "Cov lus nug? Hu rau peb ntawm <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

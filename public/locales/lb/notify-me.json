@@ -1,0 +1,13 @@
+{
+  "title": "Beschreift Iech - Orbital Tempel",
+  "heading": "Beschreift Iech wann et eropgeet",
+  "description": "Den 28. November 2025 wäert den Orbitaltempel opsteigen.<br> Loosst Är E-Mail-Adress, a mir soen Iech Bescheed, wann et am Raum ukommt.",
+  "form": {
+    "emailPlaceholder": "Är@E-Mail.com",
+    "sendButton": "Schécken",
+    "sendingButton": "Schécken...",
+    "successMessage": "Mir kommen bei Iech erreeche wann et eropgeet.",
+    "errorMessage": "Eppes ass falsch gelaf. Probéiert et nach eng Kéier."
+  },
+  "backLink": "← Zréck zum Countdown"
+}

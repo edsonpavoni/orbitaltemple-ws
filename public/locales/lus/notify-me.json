@@ -1,0 +1,13 @@
+{
+  "title": "Hriattir rawh - Orbital Temple",
+  "heading": "A Lo chhuah Hun Hriattir Rawh",
+  "description": "November 28, 2025 hian Orbital Temple a chho dawn a ni.<br> I e-mail kha dah la, space a thlen hunah kan hrilh ang che.",
+  "form": {
+    "emailPlaceholder": "i@email.com ah i thawn thei ang",
+    "sendButton": "Thawn",
+    "sendingButton": "A thawn chhuak...",
+    "successMessage": "A chhoh hunah kan thleng ang che.",
+    "errorMessage": "Thil engemaw a kal sual a. Khawngaihin han lo try leh teh."
+  },
+  "backLink": "← Countdown-ah kir leh rawh"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Nye onyinye nye Temple Orbital",
+  "heading": "Mezue onyinye gị",
+  "donatingTo": "Ị na-enye onyinye maka:",
+  "chooseHow": "Họrọ otu ị ga-achọ isi mezuo onyinye gị na-ewepụ ụtụ isi:",
+  "option1": {
+    "heading": "Nhọrọ 1: Nye onyinye n'ịntanetị Ugbu a",
+    "description": "Mezue onyinye gị ozugbo site na iji kaadị kredit, kaadị debit, ma ọ bụ ụzọ ịkwụ ụgwọ n&#39;ịntanetị ndị ọzọ site na onye nkwado mmefu ego anyị nwere nchekwa, <strong>Ubi</strong> . Ị ga-enweta akwụkwọ nnata ụtụ ozugbo.",
+    "button": "Nye onyinye site na Ubi →"
+  },
+  "option2": {
+    "heading": "Nhọrọ 2: Nkwụnye ego ụlọ akụ na Roy Foundation",
+    "description": "Nyefee nkwụnye ego ụlọ akụ ozugbo ma ọ bụ nyefe waya na <strong>Roy Foundation</strong> , onye mmekọ anyị na onye na-akwado mmefu ego. Nhọrọ a dị mma maka nnukwu onyinye ma ọ bụ mbufe mba ụwa.",
+    "bankingInfo": "Ozi gbasara ụlọ akụ",
+    "fields": {
+      "accountName": "Aha akaụntụ:",
+      "bankName": "Aha ụlọ akụ:",
+      "accountNumber": "Nọmba akaụntụ:",
+      "routingNumber": "Nọmba Ntugharị:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Ntụaka:"
+    },
+    "instructions": "Biko tinye &quot; <strong>Orbital Temple - {donationType}</strong> &quot; na mpaghara ntụaka. Mgbe ịmechara mbufe gị, zitere anyị ozi na <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> na nkọwa mbufe gị iji nweta akwụkwọ nnata ụtụ gị.",
+    "button": "Kpọtụrụ anyị gbasara nkwụnye ego →"
+  },
+  "taxInfo": {
+    "heading": "Inye ihe n'ụtụ isi",
+    "description": "Templelọ nsọ Orbital bụ ọrụ nkwado ego nke <strong>The Field (Performance Zone Inc.)</strong> , otu <strong>501(c)(3)</strong> ọgbakọ anaghị akwụ ụgwọ. A na-ewepụ ụtụ isi nke US niile ruo n&#39;ókè iwu kwere.",
+    "questions": "Ajụjụ? Kpọtụrụ anyị na <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

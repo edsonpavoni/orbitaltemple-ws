@@ -1,0 +1,43 @@
+{
+  "title": "Edukado kaj Malferma Fonto - Orbita Templo",
+  "heading": "Edukado kaj Malferma Fonto",
+  "intro": {
+    "paragraph1": "Ĉiu teknologio evoluigita por la misio Orbital Temple estos <strong>malfermfonteca</strong> kaj havebla interrete en la <strong>portugala</strong> , <strong>angla</strong> , <strong>hispana</strong> kaj <strong>hinda lingvoj</strong> , antaŭenigante la progreson de kosmoesplorado en la <strong>Tutmonda Sudo</strong> . Novaj misioj kaj projektoj povas uzi Orbital Temple kiel fundamenton por siaj propraj artaj aŭ sciencaj eksperimentoj.",
+    "paragraph2": "Kiel parto de sia eduka misio, Orbital Temple ofertos senpagan plurlingvan kurson pri kiel konstrui kaj lanĉi sateliton. Ĝi estos praktika ŝanco lerni pri satelitteknologio kaj praktiki ĝin. Ĉiu pli ol <strong>16</strong> -jaraĝa povos konstrui sian propran sateliton, lernante pri la historio de arto en la kosmo, fundamentaj konceptoj de elektroniko, mekaniko kaj spacscienco, inkluzive de kiel financi projektojn kaj kiel konstrui antenon por komuniki kun satelitoj en orbito."
+  },
+  "spaceGap": {
+    "heading": "Kial Ĉi Tio Gravas: La Spaca Interspaco",
+    "paragraph1": "La termino <strong>&quot;Spaca Breĉo&quot;</strong> rilatas al la disiĝo inter evoluintaj nacioj, kiuj povas aliri la teknologiajn ŝancojn akiritajn per kosma esplorado, kaj evoluantaj nacioj, kiuj ne havas aliron al ĉi tiuj teknologioj. Landoj en la Tutmonda Sudo devas pagi grandajn sumojn al eksterlandaj registaroj aŭ kompanioj por baza aliro al informoj produktitaj per satelitaj teknologioj.",
+    "paragraph2": "Spaca teknologio provizas kritikajn avantaĝojn: satelitoj helpas kontraŭbatali kontraŭleĝan arbohakadon, kontraŭleĝan fiŝkaptadon kaj kontraŭleĝan komercon de bestoj, kiuj reprezentas pli ol <strong>73 miliardojn da dolaroj jare</strong> . Ili provizas esencajn informojn pri klimato, akvoproduktado kaj nutraĵsekureco. Satelitoj ebligas precizan irigacion kaj agrikulturajn teknikojn, kaj helpas malhelpi naturajn katastrofojn. La spaca industrio povus krei ĝis <strong>1 milionon da laborpostenoj</strong> antaŭ <strong>2030</strong> , tamen ĉi tiuj ŝancoj restas neatingeblaj por multaj en la Tutmonda Sudo.",
+    "paragraph3": "Per provizado de malfermfonta teknologio kaj edukado, ni celas demokratiigi aliron al la kosmo kaj povigi novan generacion por revi preter la ĉielo."
+  },
+  "empowering": {
+    "heading": "Povigante la Sekvan Generacion",
+    "intro": "Ni instruos al la sekva generacio de kosmesploristoj kiel konstrui kaj lanĉi siajn proprajn satelitojn, kovrante esencajn temojn inkluzive de:",
+    "topics": {
+      "history": "<strong>Historio de arto en la kosmo:</strong> Komprenante la genlinion de artaj satelitoj kaj spacbazitaj artaĵoj.",
+      "concepts": "<strong>Kernaj konceptoj:</strong> <strong>ArtSat</strong> (artaj satelitoj), <strong>malfermfonteca</strong> spacteknologio, kaj la <strong>Kosmobreĉo</strong> .",
+      "missions": "<strong>Kosmaj misioj:</strong> Kiel koncepti kaj desegni mision, kaj kiel formi teamon por efektivigi ĝin.",
+      "electronics": "<strong>Elektroniko en la kosmo:</strong> Fundamentaj konceptoj pri elektronikaj komponantoj, kiuj povas pluvivi kaj funkcii en la kosma medio.",
+      "mechanics": "<strong>Mekaniko en la kosmo:</strong> Kompreno de la strukturaj kaj mekanikaj postuloj por satelita dezajno.",
+      "orbits": "<strong>Orbitoj kaj lanĉiloj:</strong> Malsamaj specoj de orbitoj kaj kiel elekti lanĉoprovizantojn por via misio.",
+      "financing": "<strong>Financaj strategioj:</strong> Kiel certigi financadon kaj rimedojn por lanĉi vian sateliton. La kurso provizos rimedojn por akiri financadon por via lanĉo, helpante studentojn trovi programojn kaj stipendiojn de internaciaj institucioj, kiuj subtenas junajn sciencistojn kaj studentojn en la sendado de siaj satelitoj en la spacon.",
+      "groundStation": "<strong>Evoluigo de terstacio:</strong> Kiel konstrui antenon por komuniki kun la Orbita Templo kaj aliaj satelitoj."
+    }
+  },
+  "technology": {
+    "heading": "La Teknologio: PocketQube-Satelitoj",
+    "paragraph1": "Studentoj lernos labori kun <strong>PocketQube-</strong> satelitoj, nanosatelita normo mezuranta nur <strong>5 cm³</strong> kaj pezanta ĝis <strong>250 g</strong> . Malgraŭ sia eta grandeco, PocketQube-oj estas potencaj iloj kapablaj je observado, monitorado kaj komunikado de la Tero.",
+    "paragraph2": "Ĉi tiuj kompaktaj satelitoj havas multajn realmondajn aplikojn, de scienca esplorado pri klimata ŝanĝo ĝis interkontinenta komunikado. Ĉar ili estas pli malgrandaj kaj pli malpezaj, ili estas pli pageblaj por konstrui kaj lanĉi, igante la spacon pli alirebla por studentoj, esploristoj kaj artistoj tutmonde."
+  },
+  "globalAccess": {
+    "heading": "Tutmonda Aliro, Komencante de la Tutmonda Sudo",
+    "paragraph1": "La kurso estos havebla al ĉiu <strong>16-jaraĝa aŭ pli aĝa</strong> , tute <strong>senpage</strong> . Ni komencas kun enhavo en <strong>la portugala</strong> , <strong>hispana</strong> , <strong>angla</strong> kaj <strong>hinda lingvoj</strong> , kun planoj vastigi al pliaj lingvoj dum la programo kreskas.",
+    "paragraph2": "Nia misio komenciĝas en la Tutmonda Sudo kaj etendiĝas al la mondo, certigante ke la sekva generacio de kosmesploristoj venu el ĉiuj anguloj de la Tero."
+  },
+  "callToAction": {
+    "heading": "Helpu nin realigi ĉi tion",
+    "content": "Ĉi tiu eduka programo estas nuntempe en disvolviĝo. Ni serĉas partnerojn kaj donacantojn, kiuj dividas nian vizion pri demokratiigo de aliro al spacteknologio. Se vi aŭ via organizo ŝatus subteni ĉi tiun iniciaton, bonvolu viziti nian <a href=\"/support\">subtenpaĝon</a> por lerni pri partnerecaj ŝancoj."
+  },
+  "imageAlt": "Enorbita Templa Satelito"
+}

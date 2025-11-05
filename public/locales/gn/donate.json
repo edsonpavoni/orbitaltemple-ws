@@ -1,0 +1,31 @@
+{
+  "title": "Peme’ẽ donación Templo Orbital-pe",
+  "heading": "Emohu’ã Nde Donación",
+  "donatingTo": "Nde reme’ẽ hína donación ko’ã mba’épe:",
+  "chooseHow": "Eiporavo mba’éichapa remohu’ãse nde donación deducible impuesto-gui:",
+  "option1": {
+    "heading": "Opción 1: Eme’ẽ donación en línea ko’áĝa",
+    "description": "Emohu’ã pya’e nde donación reiporúvo tarjeta de crédito, tarjeta de débito térã ambue método de pago en línea ore patrocinador fiscal seguro rupive, <strong>The Field</strong> . Rehupytýta peteĩ recibo tributario instantáneo.",
+    "button": "Eme’ẽ donación The Field rupive →"
+  },
+  "option2": {
+    "heading": "Opción 2: Depósito bancario The Roy Foundation-pe",
+    "description": "Ejapo depósito bancario directo térã transferencia alambre <strong>The Roy Foundation</strong> -pe , ore socio estratégico ha patrocinador fiscal. Ko opción iporãiterei umi donación tuichavéva térã transferencia internacional-pe guarã.",
+    "bankingInfo": "Marandu Bancario rehegua",
+    "fields": {
+      "accountName": "Kuatia Réra:",
+      "bankName": "Banco réra: 1.1.",
+      "accountNumber": "Cuenta Número: 1.1.",
+      "routingNumber": "Enrutamiento Número: 1.1.",
+      "swift": "SWIFT/BIC: 1.1.",
+      "reference": "Kuaukarã:"
+    },
+    "instructions": "Emoinge &quot; <strong>Orbital Temple - {donationType}</strong> &quot; pe ñe&#39;ẽmondo rendaguépe. Oñemohu’ã rire ne transferencia, oréve correo electrónico <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art-pe</a> ne detalle transferencia reheve rehupyty haĝua nde recibo tributario.",
+    "button": "Eñe'ẽ orendive Depósito rehegua →"
+  },
+  "taxInfo": {
+    "heading": "Ñeme’ẽ Deducible Impuesto rehegua",
+    "description": "Orbital Temple ha’e peteĩ proyecto oipytyvõva fiscalmente <strong>The Field (Performance Zone Inc.)</strong> , peteĩ organización <strong>501(c)(3)</strong> sin fines de lucro. Opaite aporte Estados Unidos-pegua ojededuci impuesto-gui pe léi opermitíva peve.",
+    "questions": "Porandukuéra? Eñe’ẽ orendive ko dirección-pe: <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

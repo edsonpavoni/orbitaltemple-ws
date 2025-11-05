@@ -1,0 +1,13 @@
+{
+  "title": "Ia Fa'ailoa - Malumalu Orbital",
+  "heading": "Ia logoina pe a tula'i mai",
+  "description": "I le aso 28 o Novema, 2025, o le a alu aʻe ai le Malumalu Orbital.<br> Tuu lau imeli, ma o le a matou taʻu atu ia te oe pe a oʻo i avanoa.",
+  "form": {
+    "emailPlaceholder": "lau@imeli.com",
+    "sendButton": "Auina atu",
+    "sendingButton": "Tuuina atu...",
+    "successMessage": "Matou te aapa atu ia te oe pe a oo i luga.",
+    "errorMessage": "Sa i ai se mea na faaletonu. Fa'amolemole toe taumafai."
+  },
+  "backLink": "← Toe foʻi i le faitau i lalo"
+}

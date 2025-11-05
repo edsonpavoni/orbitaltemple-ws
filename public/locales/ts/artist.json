@@ -1,0 +1,44 @@
+{
+  "title": "Ku suka eka Mutshila",
+  "opening": {
+    "question": "I mani jaha leri ro proposer temple exibakabakeni?",
+    "thanks": "Ndza khensa xivutiso.",
+    "answer": "Nhlamulo yo koma hileswaku ndzi mutshila. Leyo leha hi leyi:"
+  },
+  "origin": {
+    "sao_paulo": "Ndzi velekiwe ehandle ka doroba ra São Paulo, endhawini leyi ndzi dyondziseke ka ha ri emahlweni leswaku khombo ri vula yini. Vanghana va mina vo tala va xikolo va le khotsweni sweswi. Tatana wa mina wa vumbirhi u le khotsweni. Madzolonga a ku nga ri nchumu lowu ndzi hlayeke ha wona, a ku ri misava leyi a ndzi fanele ndzi yi fambisa. Naswona a ndzi swi tiva leswaku ndzi fanele ndzi baleka.",
+    "technology": "Thekinoloji yi ve ndlela ya mina yo huma. Ndzi dyondze ku endla tiprogreme, ndzi dyondze swilo swa elektroniki loko ndza ha ri muntshwa. Khodi a ku ri ririmi leri a ri ta ndzi yisa kun’wana. Ku tirha hi thekinoloji a ku ri ku baleka ka mina evuswetini.",
+    "christianity": "Kambe a ndzi tlhela ndzi lava ku va xiphemu xa tiko, rirhandzu, nchumu wo pfumela eka wona.Ndzi kume Vukriste, kutani byi ndzi kumile. Ndzi amukeriwile. A ndzi rhandziwa. A ndzi ri ni muganga. Ndzi dyondze ku rivalela, ku pfumela, ku famba swin’we hi xikongomelo lexikulu.",
+    "price": "Hambiswiritano, nxavo wa kona a wu ri ehenhla. Ndzi tlhele ndzi dyondza swilo swo tala leswi ndza ha nga swi dyondzangiki. Kutani na mina ndzi balekile eka sweswo."
+  },
+  "searching": {
+    "walls": "Ndza swi tiva leswi marhangu ma swi endlaka. Ndzi va twile. Ndzi vile eka matlhelo hamambirhi: ndzi pfaleriwile ehandle, ndzi tshama ndzi ri endzeni Leswi landzeleke a ku ri malembe yo lava nchumu lowu a ndzi nga swi koti ku boxa vito. Xikwembu xi file emalembeni wolawo. Xikwembu lexi ndzi dyondzisiweke hi xona, hambi swi ri tano, lexi nga na milawu na ku avanyisa na tinyangwa leti pfulekeleke vanhu van’wana ntsena.",
+    "art": "Ndzi sungule ku endla vutshila ku lavisisa swivutiso leswi: mayelana na vuxaka bya le kusuhi na thekinoloji, mayelana na ku tsundzuka na rifu, mayelana na leswaku i mani loyi a faneriwaka hi tilo. Ndzi sungurile ku aka michini leyi ehleketaka hi vuntshwa vuxaka bya hina na thekinoloji, michini leyi lavaka ku nghenelela ka wena, vukona bya wena, vito ra wena, ku hundzuka ku suka eka nsimbi na khodi ku va nchumu lowu hanyaka."
+  },
+  "pandemic": {
+    "intro": "Kutani ntungu lowu wu hlasele tiko ra Brazil.",
+    "government": "Loko switlhavelo swa COVID swi hlwela, mfumo wa mina a wu ri eku burisaneni hi mali yo tlherisela mali ya dolara yin’we hi mpimo. Va hlohlotele vutshunguri lebyi twisisiwaka byi nga tirhi, va hleka kasi vanhu va fa va ri karhi va lwela ku hefemula. Siku na siku a hi pfuka hi nhlayo leyi hambaneke. I vanhu vangani lava feke eka tiawara ta 24 leti hundzeke? Xana a swi tlula, kumbe swi nga ri switsongo ku tlula leswi a swi languteriwile?",
+    "war": "Hafu ya misava a yi chava, naswona hafu yin’wana a yi ri eku kaneteni. A hi ri enyimpini, na xitsongwatsongwana na un’wana na un’wana.",
+    "memorial": "A ndzi lava ku tumbuluxa ndhawu ya gome ra nhlengeletano, kutani swin’we ni madzana ya vanhu ndzi tumbuluxe Memorial Inumeráveis. Ntirho wa vutshila eka ku hlangana ka vutshila na vujornalisti. Hi burisane ni mindyangu leyi lahlekeriweke hi munhu. Hi tsale xitori xa vutomi bya munhu loyi va lahlekeriweke hi yena. Hi hundzule tinhlayo ti va matimu. Switlhokovetselo, tinsimu, ti- symphony a swi endliwa hi matimu wolawo. Tinyeleti ti hlaye switori sweswo eka thelevhixini ya tiko. Ntirho lowu wu fikelele timiliyoni.",
+    "meaning": "Lexi a xi ri xa nkoka a ku nga ri xikalo, a ku ri leswaku xitori xin’wana na xin’wana a ku ri vito, vutomi, tilo ra munhu."
+  },
+  "discovery": {
+    "pattern": "Endzhaku ka mabulo yo tlula khume ya magidi lama nga ni gome, xivumbeko xi sungule ku humelela. Loko hi vulavula hi munhu loyi a feke, a hi vuli swilo leswinene ntsena; hi hlawula swiphemu swa xitori xa vona onge hi loko hi tsala papila ra xitsundzuxo. Xitsundzuxo eka murindzi wa nyangwa wa paradeyisi. Hi endla hinkwaswo leswi hi nga swi kotaka ku va rhumela eka ndhawu yo amukeriwa, ku wisa, ku xiximiwa na ku tsundzuka.",
+    "understanding": "Nakona ndzi twisisile nchumu lowu cinceke hinkwaswo: Hi vavisekile hi tona titempele leti hi ti akeke. Tidyondzo ta hina malunghana ni leswaku i mani loyi a faneriwaka hi tilo ti vumba hi ku kongoma leswaku i mani loyi hi n’wi hlongolaka eMisaveni. Vakoloni va Maputukezi eBrazil a va tshemba leswaku Vantima a va na mimoya-xiviri; ripfumelo rero a ri lulamile vuhlonga. Loko u ri wa ndzhavuko, loko u velekiwe endhawini leyi hoxeke kumbe u rhandza munhu wo biha, u byeriwe leswaku tinyangwa ta tilo ti ku pfariwile.",
+    "birth": "Hi yona ndlela leyi Tempele ya Orbital yi velekiweke ha yona."
+  },
+  "shaman": {
+    "secular": "Ku hava mutshila loyi a nga vaka wa misava hakunene. Hi boheleriwile hilaha ku nga heriki eka kokwa wa hina la tolovelekeke, shaman. Eku sunguleni, a ku ri ni bako. Vanhu a va penda swiharhi emakhumbini ku nga ri ku khavisa, kambe ku vitana. Va cina, kutani bako ri hundzuka tempele. Mungoma u tirhisa moya wa nkhuvo; mutshila u tirhisa aura ya vutshila. Hi penda, hi vatla, hi khoda, hi dizayina vumundzuku bya hina lebyi hi byi lavaka ku nga ri ku khavisa, kambe ku vitana. Vutshila hinkwabyo i bya moya, hambiloko byi vula leswaku a byi tano."
+  },
+  "space": {
+    "question": "Xana a hi ta aka kwihi tempele leyi nga riki na marhangu? Laha ku nga riki na tiko kumbe vukhongeri lebyi a byi ta tivula. Laha a hi nga tivona hi mahlo ya mianakanyo tanihi ntlawa wun’we.",
+    "answer": "Xivandla.",
+    "description": "Sathelayiti ya vutshila leyi nghenelaka ku suka eDzongeni wa Misava Hinkwayo. Tempele leyi rhendzelekaka leyi rhambaka un’wana ni un’wana ku rhumela mavito yakwe exibakabakeni, ku nga khathariseki leswaku i vamani, va velekeriwe kwihi, va rhandza mani, va pfumela yini. Ndhawu leyi ku katsa lokukulu ku kotekaka eka yona, eka orbit, ku tlula mindzilakano.",
+    "mission": "Rhurho lowu i wa xihlovo lexi pfulekeke. Tsalwa rin’wana na rin’wana ra xithekiniki, layini yin’wana na yin’wana ya khodi yi ta kumeka hi ku ntshunxeka leswaku vatshila van’wana, miganga yin’wana, matiko man’wana va ta kota ku aka tisathelayiti ta vona. Kutani Global South a yi ngheneleli ntsena eka ku lavisisa exibakabakeni, kambe yi yi rhangela."
+  },
+  "closing": {
+    "answer": "Se i mani jaha leri ro aka tempele exibakabakeni? A ndzi yi aki. Tempele yi akiwe hi un’wana ni un’wana loyi a endlaka xiboho xo rhumela vito, ku ri vona tanihi leri kwetsimaka, ku ri endla ra xiviri. Hi mina ntsena loyi a proposaka. Hi wena u yi akaka loko u endla xiboho.",
+    "signature": "Malwandla,",
+    "name": "Edson Pavoni"
+  }
+}

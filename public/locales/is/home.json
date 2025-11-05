@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital-hofið",
+    "subtitle": "er listaverk og fylgihlutur,\nsem stefnir að því að vera róttækt og aðgengilegt musteri,\ná stað þar sem enginn veggur nær til."
+  },
+  "ritual": {
+    "label": "helgisiður"
+  },
+  "cta": {
+    "link": "Enn eitt musteri?",
+    "arrowAlt": "ör"
+  },
+  "dome": {
+    "alt": "Hvelfing"
+  }
+}

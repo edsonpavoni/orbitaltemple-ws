@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "umsebenzi wobuciko",
+    "sendAName": "thumela igama",
+    "fromTheArtist": "kusukela kumculi",
+    "yetAnotherTemple": "kanti, elinye ithempeli?",
+    "howItWorks": "isebenza kanjani",
+    "spaceLaunch": "ukwethulwa kwesikhala kanye nezingozi",
+    "briefHistory": "umlando omfushane wobuciko emkhathini",
+    "education": "imfundo nomthombo ovulekile",
+    "sustainability": "ukusimama kanye nemfucumfucu yesikhala",
+    "press": "cindezela & nemidiya",
+    "team": "iqembu",
+    "partners": "abalingani",
+    "support": "ukusekela",
+    "technicalInfo": "ulwazi lobuchwepheshe"
+  },
+  "ritual": {
+    "label": "isiko",
+    "ariaLabel": "Faka isiko - Thumela igama ethempelini le-Orbital"
+  },
+  "footer": {
+    "credits": "I-Orbital Temple iwumsebenzi wobuciko ka-Edson Pavoni, owenziwe ngokubambisana noPedro Kaled, uJoão Pedro Polito, uVictor Baptista noJoão Victor Alves, u-André Biagioni, u-VK, u-Jonathan Querubina, u-Guilherme Bullejos, u-Eduardo Dias, u-Roberta Savian Rosa, uClara Marques, uSathi Roy abaqhubeka nokuthumela amagama ethempelini labo."
+  }
+}

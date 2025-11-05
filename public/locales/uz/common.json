@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "san'at asari",
+    "sendAName": "ism yuboring",
+    "fromTheArtist": "rassomdan",
+    "yetAnotherTemple": "yana bir ma'bad?",
+    "howItWorks": "qanday ishlaydi",
+    "spaceLaunch": "kosmik ishga tushirish va xavflar",
+    "briefHistory": "Kosmosdagi san'atning qisqacha tarixi",
+    "education": "ta'lim va ochiq manba",
+    "sustainability": "barqarorlik va kosmik chiqindilar",
+    "press": "matbuot va ommaviy axborot vositalari",
+    "team": "jamoa",
+    "partners": "hamkorlar",
+    "support": "qo'llab-quvvatlash",
+    "technicalInfo": "texnik ma'lumotlar"
+  },
+  "ritual": {
+    "label": "marosim",
+    "ariaLabel": "Ritualni kiriting - Orbital ma'badga nom yuboring"
+  },
+  "footer": {
+    "credits": "Orbital Temple - bu Edson Pavoni tomonidan yaratilgan san'at asari, Pedro Kaled, João Pedro Polito, Viktor Baptista va João Viktor Alves, André Biagioni, VK, Jonatan Kerubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clarai, Rosa, Savian Rosa va Klarai nomi bilan hamkorlikda yaratilgan. ma'bad."
+  }
+}

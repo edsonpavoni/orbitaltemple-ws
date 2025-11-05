@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "tác phẩm nghệ thuật",
+    "sendAName": "gửi tên",
+    "fromTheArtist": "từ nghệ sĩ",
+    "yetAnotherTemple": "vậy còn ngôi đền nào nữa không?",
+    "howItWorks": "nó hoạt động như thế nào",
+    "spaceLaunch": "phóng không gian và rủi ro",
+    "briefHistory": "lịch sử tóm tắt của nghệ thuật trong không gian",
+    "education": "giáo dục & nguồn mở",
+    "sustainability": "tính bền vững và rác thải vũ trụ",
+    "press": "báo chí và truyền thông",
+    "team": "đội",
+    "partners": "đối tác",
+    "support": "ủng hộ",
+    "technicalInfo": "thông tin kỹ thuật"
+  },
+  "ritual": {
+    "label": "nghi thức",
+    "ariaLabel": "Tham gia nghi lễ - Gửi tên đến Đền Orbital"
+  },
+  "footer": {
+    "credits": "Đền quỹ đạo là một tác phẩm nghệ thuật của Edson Pavoni, được tạo ra với sự cộng tác của Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy và tất cả những người tiếp tục ghi tên cho ngôi đền này."
+  }
+}

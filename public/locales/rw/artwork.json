@@ -1,0 +1,31 @@
+{
+  "title": "Igishushanyo - Urusengero rwa Orbital",
+  "heading": "Ubuhanzi",
+  "intro": {
+    "paragraph1": "Urusengero rwa Orbital ni satelite ifite ubutumwa bwubuhanzi: urwibutso mumwanya wo hanze rwugururiwe buri kiremwa muntu cyose cyabayeho cyangwa cyabayeho kwisi.",
+    "paragraph2": "Binyuze muburyo bwa tekinoloji, umuntu wese arashobora kohereza izina ryumuntu murusengero, yaba umuntu wapfuye, umuntu muzima cyane, cyangwa ikiremwa cyose gikwiye kwibukwa."
+  },
+  "sculpture": {
+    "heading": "Igishusho",
+    "paragraph1": "Ibihangano bifite ibintu bitatu bifitanye isano: icyogajuru cyagenewe cyane cyane kubika amazina ya miliyari; igishusho rusange gihana amakuru na satelite; n'urubuga abitabiriye bohereza amazina, guhera ubu kugeza bapfuye, mwijuru.",
+    "paragraph2": "Nkibikorwa byinshi, Urusengero rwa Orbital rushobora gufatwa nkigishushanyo cyihariye, kibera ahantu. Numushinga wa Artsat."
+  },
+  "antenna": {
+    "heading": "Antenna nkigishushanyo rusange",
+    "paragraph1": "Antenna iduhuza n'umwanya wo hanze.",
+    "paragraph2": "Hateguwe antenne izaba iri mu itumanaho ritaziguye na satelite ya orbital.",
+    "paragraph3": "Hamwe nubuso bwa zahabu bwerekana, bwerekana ikirere hejuru yacyo, ni intangiriro yo gukangurira abantu benshi (cyangwa isano yacu nibiri hejuru).",
+    "paragraph4": "Mugihe ibishusho bidashyizwe mubice byinshi byisi, Frames yacu kuva kwisi, kuri ubu igenzura icyogajuru, yohereza amazina kuri buri nzira.",
+    "paragraph5": "Fasha kuzana iyerekwa mumujyi wawe - gushiraho ibishusho bya antenne bitera ibiganiro kubyerekeranye nubushakashatsi bwikirere, ubuhanzi, nu mwanya dusangiye mwisi. <a href=\"/support\">Wige byinshi kubyerekeye gushyigikira umushinga</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Urusengero Satelite",
+    "riseNy": "Urusengero rwa Orbital kuri Rise NY",
+    "installation": "Urusengero rwa Orbital by Clara Marques",
+    "antenna": "Orbital Urusengero Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Urusengero rwa Orbital mu kirere. 3D yerekana na RiseNY & Abafatanyabikorwa.",
+    "mercosul": "Gushyira urusengero rwa Orbital muri Biennial ya Mercosul, muri Porto Alegre, Berezile.<br> Ifoto ya Clara Marques."
+  }
+}

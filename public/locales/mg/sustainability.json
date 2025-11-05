@@ -1,0 +1,44 @@
+{
+  "title": "Faharetana & fako habakabaka - Tempoly Orbital",
+  "heading": "maharitra",
+  "intro": {
+    "paragraph1": "Raha ny zava-kanto no hitarika antsika amin'ny ho avy, dia tsy azo odian-tsy hita ny krizy atrehintsika — ny firodanan'ny tontolo iainana, ny tsy fitoviana ara-tsosialy, ary ny fitomboan'ny fanamby ateraky ny fako habakabaka. Ny Tempoly Orbital dia novolavolaina miaraka amin'ireo zava-misy ireo ao an-tsaina, mikendry ny ho tompon'andraikitra eo amin'ny tany na amin'ny orbit.",
+    "paragraph2": "Mino izahay fa tsy teritery ny faharetana fa ampahany manan-danja amin'ny vina ara-javakanto. Ny fanapahan-kevitra rehetra momba ny fitaovana, ny fihodinana ary ny asa dia maneho ny fanoloran-tenantsika handao ny Tany sy ny habakabaka tsara kokoa noho ny hitanay azy ireo."
+  },
+  "spaceDebris": {
+    "heading": "Space Debris",
+    "paragraph1": "Ny fako habakabaka dia iray amin'ireo fanamby sarotra indrindra atrehin'ny fikarohana habakabaka. An'arivony ny zanabolana sy ny sombintsombiny miodina amin'ny tany, mandrahona ny iraka mavitrika ary mamorona fiantraikany cascade izay mety hahatonga ny orbit sasany tsy azo ampiasaina.",
+    "paragraph2": "Ny Tempoly Orbital dia miresaka izany amin'ny fomba maro:",
+    "list": {
+      "orbit": "<strong>Ny orbitra mifanandrify amin&#39;ny masoandro amin&#39;ny 525 km:</strong> Ity haavo ity dia miantoka ny fisintonana voajanahary voajanahary hahatonga ny zanabolana hiditra indray amin&#39;ny atmosfera eto an-tany ao anatin&#39;ny 10 taona eo ho eo, izay handoro tanteraka azy. Tsy mandray anjara amin&#39;ny fako orbitra maharitra maharitra isika.",
+      "size": "<strong>Famolavolana PocketQube:</strong> Amin&#39;ny 50 × 58 × 64mm sy 245g fotsiny, ny zanabolana dia kely dia kely mba hivezivezy tanteraka mandritra ny fidirana indray, tsy mamela potipoti-javatra eny ambonin&#39;ny tany.",
+      "responsibility": "<strong>Tsy</strong> toy ny zanabolana ara-barotra mety ariana, ny Tempoly Orbital dia natao handrodanana ara-boajanahary, manatanteraka ny toromarika iraisam-pirenena momba ny asa an-habakabaka."
+    },
+    "paragraph3": "Amin'ny alàlan'ny fisafidianana ny orbite tany ambany sy ny endrika mirindra, dia miantoka izahay fa vonjimaika sy tsy mandoto ny fisian'ny Tempoly Orbital eny amin'ny habakabaka."
+  },
+  "carbonNeutrality": {
+    "heading": "Carbon Neutrality",
+    "content": "Ny famoahana karbaona rehetra mifandraika amin'ny Tempolin'i Orbital—anisan'izany ny famokarana zanabolana, ny fandefasana, ny fampandehanana ny tobim-piantsonan'ny tany, ny fampiantranoana tranonkala, ary ny dia ataon'ny ekipa—dia hosoloina tanteraka amin'ny alàlan'ny programa fampindramam-bola karbônina voamarina. Nanolo-tena izahay hanao ity iraka ity ho tsy miandany amin'ny toetr'andro."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Ny faharetana dia midika koa fa tsy mandany fahalalana. Ny lafiny ara-teknika rehetra ao amin'ny Tempolin'ny Orbital—skema, kaody, protocole momba ny fifandraisana, ary fomba fanamboarana—dia havoaka ho antontan-taratasy misokatra.",
+    "paragraph2": "Izany dia mamela ny iraka ho avy hanorina ny asantsika fa tsy manomboka amin'ny voalohany, mampihena ny fikarohana sy ny fampandrosoana mihoa-pampana. Mandemakratika ny fidirana amin'ny teknolojian'ny habakabaka izy io, indrindra ho an'ireo vondrom-piarahamonina ao amin'ny Global South izay voahilika ara-tantara tamin'ny fikarohana habakabaka."
+  },
+  "educational": {
+    "heading": "Ny fiantraikan'ny fanabeazana",
+    "paragraph1": "Ny fandaharam-pampianarana maimaim-poana amin'ny fiteny maro samihafa dia mampianatra ireo mpianatra maneran-tany ny fomba fananganana sy fandefasana zanabolana, izay mifantoka amin'ny Global South. Amin'ny fanomezana hery ny taranaka manaraka amin'ny fahaiza-manao teknolojia habakabaka, dia mandray anjara amin'ny fanakatonana ny \"Space Gap\" izahay ary mamorona fahafahana izay tsy hisy.",
+    "paragraph2": "Ity iraka fanabeazana ity dia endriky ny faharetana — fampiasam-bola amin'ny olona sy vondrom-piarahamonina mba hamoronana fiovana maharitra mihoatra ny androm-piainan'ny zanabolana."
+  },
+  "tenYear": {
+    "heading": "Iraka 10 taona",
+    "paragraph1": "Ny Tempolin'i Orbital dia natao ho an'ny iraka naharitra folo taona, fa tsy fanaovana dokambarotra fohy. Nandritra ny folo taona, ny zanabolana dia hihodidina ny Tany eo amin'ny in-50.000 eo ho eo, handray anarana ary ho fampahatsiahivana fa ny habakabaka dia mety ho iombonana, azon'ny rehetra idirana.",
+    "paragraph2": "Aorian'ny fiafaran'ny iraka ataony, dia hodorana ho azy ny zanabolana ary hodorana, tsy hamela soritra afa-tsy ny fahatsiarovana sy ny antontan-taratasin'ireo nandray anjara."
+  },
+  "artsResponsibility": {
+    "heading": "Andraikitry ny Art",
+    "paragraph1": "Ny zava-kanto dia fitaratry ny vanim-potoanany hatramin'izay, maneho ny soatoavina sy hetahetantsika. Ao anatin'ny vanim-potoanan'ny krizy amin'ny toetr'andro sy ny tsy fitoviana mitombo, mino izahay fa manana andraikitra ny mpanakanto amin'ny famoronana asa izay tsy maneho hevitra fotsiny momba ireo olana ireo fa mamaly azy ireo amim-pahavitrihana.",
+    "paragraph2": "Ny Tempoly Orbital dia ny fiezahanay hamorona sangan-kanto izay misongadina amin'ny fidirany, tompon'andraikitra amin'ny fiantraikany amin'ny tontolo iainana, ary malala-tanana amin'ny fizarana ny fahalalany amin'izao tontolo izao. Zavakanto manasa ny rehetra handray anjara sady manaja ireo rafitra marefo — ny tontolo iainana sy ny orbitra — izay mahatonga ny fiainana sy ny fikarohana ho azo atao."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "kunjamtï mantapkta ukhama\nmä ritual satawa\nmä suti apayaniñataki\nukatsti\ntemplo orbital ukax mä jach’a utaw\nespacio ukanxa\numaña\nmä samaña",
+    "button": "nayax wakicht'atätwa"
+  },
+  "nameInput": {
+    "title": "mä suti qillqt’aña",
+    "subtitle": "ukax Templo Orbital ukaruw espacio ukan jilxatani.",
+    "placeholder": "chacha",
+    "button": "ukax makhatañapawa"
+  },
+  "emailInput": {
+    "title": "correo electrónico ukar qillqt’aña",
+    "subtitle": "ukhamatwa sutix jilxattaski ukhax mä yatiyaw katuqarakta.",
+    "placeholder": "ukax correo electrónico ukaruw uñt’ayasi",
+    "button": "ukax lurasiwayi"
+  },
+  "loading": {
+    "alt": "Ukax mä juk’a pachanakanwa"
+  },
+  "success": {
+    "text": "sutipa\n{{chacha}}\njichhax filaruw uñt’ayasi\nalaxpachar sarañataki.\nkunapachatixa\ntemplo ukax espacio ukankiwa\nalinea, ukampi\njiwasan antenasa\nAka Uraqinxa\njiwasax khithañäni\nsutipa\nukat jumax katuqarakïtawa\nmä yatiyawi."
+  }
+}

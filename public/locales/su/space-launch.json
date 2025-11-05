@@ -1,0 +1,16 @@
+{
+  "title": "Peluncuran Spasi - Kuil Orbital",
+  "heading": "Angkasa peluncuran",
+  "intro": "Kuil Orbital dijadwalkeun diluncurkeun dina kapal PSLV (Polar Satellite Launch Vehicle) dina 28 Nopémber 2025 ti Satish Dhawan Space Center di Sriharikota, India.",
+  "partnership": "Peluncuran Kuil Orbital nyaéta gawé bareng antara NewSpace India Limited (NSIL), Perusahaan Pamaréntah India di handapeun Departemen Luar Angkasa, Antrix Corporation, sareng seniman. Kolaborasi ieu ngagambarkeun tonggak penting pikeun seni dina eksplorasi ruang angkasa, ngahijikeun program luar angkasa India kalayan visi artistik ngeunaan inklusivitas radikal.",
+  "risks": {
+    "heading": "Resiko",
+    "paragraph1": "Satelit ieu diwangun pikeun tahan kaayaan geter ekstrim sareng siklus termal, sareng parantos ngalaman uji anu ketat. Sanajan kitu, peluncuran spasi mawa resiko alamiah. Upami satelit ruksak nalika peluncuran atanapi panyebaran, atanapi upami gagal netepkeun komunikasi sareng stasiun bumi urang, kami bakal ngusahakeun pikeun ngungkulan sareng ngabéréskeun masalah naon waé. Satelit ngabogaan sistem kaleuleuwihan sarta protokol cadangan dirancang pikeun maksimalkeun pungsi kasempetan sukses misi.",
+    "paragraph2": "Sajaba ti, satelit bisa cicing di orbit salila kurang ti 10 taun lamun kaayaan atmosfir atawa faktor séjén ngabalukarkeun buruk orbital saméméhna. Sanaos kami parantos ngararancang éta sahenteuna sahenteuna dasawarsa, umur saleresna gumantung kana kaayaan anu teu tiasa urang kendalikeun sapinuhna.",
+    "paragraph3": "Upami peluncuran kahiji gagal, atanapi upami urang henteu tiasa ngalaksanakeun misi ieu sakumaha anu direncanakeun, urang bakal ngajalajah jalan alternatif ka hareup, berpotensi kalebet usaha peluncuran kadua kalayan anggaran anu sayogi, gawé bareng sareng misi sanés, atanapi dokuméntasi usaha salaku bagian tina narasi karya seni ngeunaan aspirasi sareng watesan."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Satelit Temple Orbital"
+  }
+}

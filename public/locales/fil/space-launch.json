@@ -1,0 +1,16 @@
+{
+  "title": "Space Launch - Orbital Temple",
+  "heading": "Paglulunsad sa Kalawakan",
+  "intro": "Ang Orbital Temple ay nakatakdang ilunsad sakay ng isang PSLV (Polar Satellite Launch Vehicle) sa ika-28 ng Nobyembre, 2025 mula sa Satish Dhawan Space Center sa Sriharikota, India.",
+  "partnership": "Ang paglulunsad ng Orbital Temple ay isang partnership sa pagitan ng NewSpace India Limited (NSIL), isang Government of India Company sa ilalim ng Department of Space, Antrix Corporation, at ng artist. Ang pakikipagtulungang ito ay kumakatawan sa isang makabuluhang milestone para sa sining sa paggalugad sa kalawakan, na pinagsasama-sama ang programa sa kalawakan ng India na may masining na pananaw ng radikal na pagkakaisa.",
+  "risks": {
+    "heading": "Mga panganib",
+    "paragraph1": "Ang satellite ay binuo upang matiis ang matinding kondisyon ng vibration at thermal cycle, at sumailalim sa mahigpit na pagsubok. Gayunpaman, ang mga paglulunsad sa espasyo ay nagdadala ng mga likas na panganib. Kung nasira ang satellite sa panahon ng paglulunsad o pag-deploy, o kung nabigo itong magtatag ng komunikasyon sa aming mga ground station, magsusumikap kaming mag-troubleshoot at malutas ang anumang mga isyu. Ang satellite ay may mga redundant system at backup na mga protocol na idinisenyo upang mapakinabangan ang mga pagkakataon ng tagumpay ng misyon.",
+    "paragraph2": "Bilang karagdagan, ang satellite ay maaaring manatili sa orbit nang wala pang 10 taon kung ang mga kondisyon ng atmospera o iba pang mga kadahilanan ay nagdudulot ng mas maagang pagkabulok ng orbit. Bagama't idinisenyo namin ito na tumagal ng hindi bababa sa isang dekada, ang aktwal na habang-buhay ay nakasalalay sa mga kundisyong hindi namin ganap na makontrol.",
+    "paragraph3": "Kung mabigo ang unang paglulunsad, o kung hindi namin magawa ang misyon na ito gaya ng binalak, tutuklasin namin ang mga alternatibong landas pasulong, na posibleng kabilang ang pangalawang pagtatangka sa paglulunsad na may available na badyet, pakikipagsosyo sa iba pang mga misyon, o dokumentasyon ng pagtatangka bilang bahagi ng salaysay ng likhang sining tungkol sa adhikain at limitasyon."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Orbital Temple Satellite"
+  }
+}

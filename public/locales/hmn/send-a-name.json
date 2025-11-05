@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "raws li koj nkag\nib ritual\nxa ib lub npe\nmus rau hauv\nlub tuam tsev orbital\nhauv qhov chaw\ncoj\nua pa",
+    "button": "kuv npaj txhij"
+  },
+  "nameInput": {
+    "title": "ntaus lub npe",
+    "subtitle": "nws yuav nce mus rau lub Tuam Tsev Orbital hauv qhov chaw.",
+    "placeholder": "npe",
+    "button": "cia nws nce mus"
+  },
+  "emailInput": {
+    "title": "ntaus koj email",
+    "subtitle": "yog li koj tau txais lus thaum lub npe nce.",
+    "placeholder": "koj email",
+    "button": "nws ua tiav"
+  },
+  "loading": {
+    "alt": "Chaw thau khoom"
+  },
+  "success": {
+    "text": "lub npe\n{{npe}}\nyog tam sim no queued\nrau ascendion.\nthaum lub\ntuam tsev hauv qhov chaw\naligns, nrog\npeb kav hlau txais xov\nnyob ntiaj teb\npeb yuav xa\nlub npe\nthiab koj yuav tau txais\nlus."
+  }
+}

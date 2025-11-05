@@ -1,0 +1,44 @@
+{
+  "title": "Kuva kumuhanzi",
+  "opening": {
+    "question": "Ninde musore gusaba urusengero mumwanya?",
+    "thanks": "Urakoze kubibazo.",
+    "answer": "Igisubizo kigufi nuko ndi umuhanzi. Ikirebire ni iki:"
+  },
+  "origin": {
+    "sao_paulo": "Navukiye mu nkengero za São Paulo, mu baturanyi banyigishije hakiri kare icyo akaga gasobanura. Benshi mu nshuti zanjye z'ishuri bari muri gereza ubu. Data wa mama ari muri gereza. Ihohoterwa ntabwo arikintu nasomye, ni isi nagombaga kugenderaho. Kandi nari nzi ko nkeneye guhunga.",
+    "technology": "Ikoranabuhanga ryabaye inzira yanjye. Nize gahunda, niga electronics nkiri ingimbi. Kode yari ururimi rushobora kunjyana ahandi. Gukorana n'ikoranabuhanga byari guhunga ubukene.",
+    "christianity": "Ariko nanone nashakishaga abanjye, urukundo, ikintu nizera. Nabonye ubukristo, cyangwa bwaransanze. Nakiriwe. Nakundwaga. Nari mfite umuganda. Nize kubabarira, kwizera, kugendana hamwe kubwintego ikomeye.",
+    "price": "Igiciro, nubwo cyari kinini. Nize kandi ibintu byinshi ndacyasobanura. Nanjye narahunze."
+  },
+  "searching": {
+    "walls": "Nzi icyo inkuta zikora. Nabyumvise. Nabaye kumpande zombi: kubikwa, kubikwa. Icyakurikiyeho ni imyaka yo gushakisha ikintu ntashobora kuvuga. Imana yapfuye muri iyo myaka. Imana nigishijwe kubyerekeye, uko byagenda kose, imwe ifite amategeko, urubanza nimiryango yakinguye abantu bamwe gusa.",
+    "art": "Natangiye gukora ibihangano byo gucukumbura ibi bibazo: kubyerekeye ubucuti n'ikoranabuhanga, kubyerekeye kwibuka n'urupfu, kubyerekeye uwakwiriye ijuru. Natangiye kubaka imashini zerekana umubano wacu nikoranabuhanga, imashini zikeneye uruhare rwawe, kuboneka kwawe, izina ryawe, kugirango uhindure mubyuma na code mubintu bizima."
+  },
+  "pandemic": {
+    "intro": "Hanyuma icyorezo cyibasiye Burezili.",
+    "government": "Igihe inkingo za COVID zatinze, guverinoma yanjye yaganiraga ku kugaruka kw'idolari rimwe kuri dose. Bateje imbere ubuvuzi bwumvikane ko ntacyo bukora, baseka mugihe abantu bapfuye bahanganye no guhumeka. Twabyutse buri munsi kumubare utandukanye. Abantu bangahe bapfuye mumasaha 24 ashize? Byari byinshi, cyangwa bitarenze ibyateganijwe?",
+    "war": "Kimwe cya kabiri cyisi cyagize ubwoba, ikindi gice cyaranze. Twari kurugamba, hamwe na virusi hamwe na hamwe.",
+    "memorial": "Nashakaga kurema umwanya wintimba rusange, nuko hamwe nabantu babarirwa mu magana nashizeho Urwibutso Inumeráveis. Igicapo ku masangano yubuhanzi nubunyamakuru. Twabajije imiryango yabuze umuntu. Twanditse amateka yubuzima bwumuntu babuze. Twahinduye imibare mumateka. Ibisigo, indirimbo, simfoniya byakozwe naya mateka. Inyenyeri zisoma izo nkuru kuri tereviziyo y'igihugu. Umushinga wageze kuri miliyoni.",
+    "meaning": "Icyangombwa ntabwo cyari igipimo, ni uko buri nkuru yari izina, ubuzima, ijuru ryumuntu."
+  },
+  "discovery": {
+    "pattern": "Nyuma y'ibiganiro birenga ibihumbi icumi hamwe nintimba, icyitegererezo cyatangiye kugaragara. Iyo tuvuze umuntu wapfuye, ntabwo tuvuga ibintu byiza gusa; duhitamo ibice byinkuru zabo nkaho twandika ibaruwa isaba. Icyifuzo kumurinzi wa paradizo. Turakora ibishoboka byose kugirango tubohereze ahantu ho kwakirwa, kuruhukira, kubahwa no kwibuka.",
+    "understanding": "Kandi numvise ikintu cyahinduye byose: Twakomerekejwe ninsengero nyine twubatse. Imyizerere yacu kubyerekeye uwakwiriye ijuru ishusho itaziguye uwo twirengagije kwisi. Abakoloni b'Abanyaportigale muri Berezile bizeraga ko Abirabura nta bugingo bafite; ibyo bizera byari bifite ishingiro uburetwa. Niba wari umusangwabutaka, niba waravukiye ahantu hadakwiye cyangwa ukunda umuntu mubi, bakubwiye ko imiryango yo mwijuru ikinze.",
+    "birth": "Nuburyo Orbital Temple yavutse."
+  },
+  "shaman": {
+    "secular": "Nta muhanzi ushobora kuba uw'isi. Twahambiriwe iteka na basekuruza bacu basanzwe, shaman. Mu ntangiriro, hari ubuvumo. Abantu bashushanyije inyamaswa kurukuta ntabwo ari ugushushanya, ahubwo ni ugutabaza. Barabyinnye, ubuvumo buhinduka urusengero. Shaman akoresha umwuka wimihango; umuhanzi akoresha aura yubuhanzi. Dushushanya, turashushanya, kode, dushushanya ejo hazaza twifuza ntabwo ari ugushushanya, ahubwo twiyambaze. Ubuhanzi bwose ni ubwumwuka, nubwo buvuga ko butari."
+  },
+  "space": {
+    "question": "Ni he dushobora kubaka urusengero rudafite inkuta? Aho nta gihugu cyangwa idini byashoboraga gusaba. Aho dushobora kwiyumvisha nk'itsinda rimwe.",
+    "answer": "Umwanya.",
+    "description": "Satelite yubuhanzi yitabiriye kuva mu majyepfo yisi. Urusengero ruzenguruka ruhamagarira abantu bose kohereza amazina yabo mu kirere, batitaye ku bo ari bo, aho bavukiye, abo bakunda, ibyo bizera. Ahantu hashyizwemo radical birashoboka, muri orbit, kurenga imipaka.",
+    "mission": "Ubu butumwa ni isoko ifunguye. Buri nyandiko ya tekiniki, umurongo wa code uzaboneka kubuntu kuburyo abandi bahanzi, abandi baturage, ibindi bihugu bashobora kwiyubakira satelite zabo. Isi yepfo rero ntabwo yitabira ubushakashatsi bwikirere gusa, ahubwo irayobora."
+  },
+  "closing": {
+    "answer": "None uyu musore ninde wubaka urusengero mumwanya? Ntabwo nubaka. Urusengero rwubatswe nabantu bose bahisemo kohereza izina, bakabona ko ari ryera, kugirango babe impamo. Ninjye usaba. Niwowe wubaka niba uhisemo.",
+    "signature": "Mugwaneza,",
+    "name": "Edson Pavoni"
+  }
+}

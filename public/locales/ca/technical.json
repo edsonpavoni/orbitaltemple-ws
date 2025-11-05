@@ -1,0 +1,17 @@
+{
+  "title": "Informació tècnica - Temple orbital",
+  "heading": "Informació tècnica",
+  "satellite": {
+    "heading": "Satèl·lit",
+    "specs": "Dimensions: 50x58x64 mm<br /> 1P PocketQube<br /> Pes: 245 grams<br /> Materials: alumini, or, fibra de vidre i components electrònics.<br /> Òrbita: Altitud 525 ± 25 km; inclinació: SSO 97,6 ± 0,1°<br /> Llançador: PSLV (Vehicle de Llançament de Satèl·lits Polars) operat per l&#39;ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura",
+    "specs": "Dimensions: 6 m (diàmetre) i 1,2 m (alçada)<br /> Pes: 46 kg<br /> Materials: alumini, tauler amb mirall epoxi, cúpula d&#39;alumini daurat suspesa a través d&#39;una estructura de bastida."
+  },
+  "radio": {
+    "heading": "Especificacions de la ràdio",
+    "specs": "Enllaç descendent: 468,5 MHz<br /> Modulació: CSS<br /> Amplada de banda: Per determinar"
+  },
+  "imageAlt": "Satèl·lit orbital del Temple"
+}

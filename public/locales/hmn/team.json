@@ -1,0 +1,61 @@
+{
+  "title": "Pab pawg - Orbital Tuam Tsev",
+  "heading": "Pab neeg",
+  "artist": "Edson Pavoni, tus kws kos duab",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Tus tsim tawm",
+      "members": "Sathi Rau"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Electronic Engineering",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Tsim thiab Architecture",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D luam ntawv",
+      "members": "Cov Ntsiab Lus Tseem Ceeb, nyob rau hauv kev coj noj coj ua ntawm Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D Rendering",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Kev tshawb fawb",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Exhibition Production, Photography & Content Creation",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Exhibition's Silk Screening",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Kev Kawm Txuj Ci",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Pab neeg sib txuas lus",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Ua tsaug tshwj xeeb",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, André Vidigalister, Flaretiaz Vidime Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY & Cov koom tes, IdeaSpace",
+  "imageAlt": "Orbital Tuam Tsev Satellite"
+}

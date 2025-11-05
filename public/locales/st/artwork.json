@@ -1,0 +1,31 @@
+{
+  "title": "The Artwork - Tempele ea Orbital",
+  "heading": "Mosebetsi oa Litšoantšo",
+  "intro": {
+    "paragraph1": "Orbital Temple ke sathelaete e nang le mosebetsi oa bonono: sehopotso se sebakeng se kantle se bulehileng ho motho e mong le e mong ea nang le maikutlo a phelang kapa a kileng a phela Lefatšeng.",
+    "paragraph2": "Ka mekhoa ea theknoloji, mang kapa mang a ka romela lebitso la motho tempeleng, ebang ke motho ea shoeleng, motho ea phelang haholo, kapa sebōpuoa sefe kapa sefe se lokelang ho hopoloa."
+  },
+  "sculpture": {
+    "heading": "Setsoantso",
+    "paragraph1": "Setšoantšo sena se na le likarolo tse tharo tse itšetlehileng ka 'moho: satellite e etselitsoeng ho boloka mabitso a limilione tse likete; seemahale sa sechaba se fapanyetsanang tlhahisoleseding le sathelaete; le sebaka sa marang-rang seo barupeluoa ba romelang mabitso ka sona, ho tloha joale ho fihlela ba fetile, leholimong.",
+    "paragraph2": "E le mosebetsi oa mekhoa e mengata, Tempele ea Orbital e ka nkoa e le setšoantšo se khethehileng sa sebaka, sebaka sa bolulo. Hape ke morero oa Artsat."
+  },
+  "antenna": {
+    "heading": "Antenna Joalo ka Sets'oants'o sa Sechaba",
+    "paragraph1": "Lenakana le re kopanyang le sepakapaka.",
+    "paragraph2": "Lenakana le tla ba le puisano e tobileng le sathelaete ea orbital e ntse e etsoa.",
+    "paragraph3": "E na le bokaholimo bo phatsimang ba khauta, e bonahatsang leholimo ka holim'a eona, ke sebaka sa ho qala ho susumetsa batho ba bangata (kapa kamano ea rona le se 'holimo moo').",
+    "paragraph4": "Leha liemahale li sa kengoa likarolong tse ngata tsa lefats'e, Liforeimi tsa rona tse tsoang Lefats'eng, tseo hajoale li laolang sathelaete, li romella mabitso nako le nako.",
+    "paragraph5": "Thusa ho tlisa pono ena motseng oa heno-ho kenya litšoantšo tse betliloeng tsa antenna tse susumetsang lipuisano mabapi le ho hlahloba sebaka, bonono, le sebaka sa rona se arolelanoang bokahohleng. <a href=\"/support\">Ithute haholoanyane ka ho tšehetsa morero</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite ea Tempele ea Orbital",
+    "riseNy": "Tempele ea Orbital e Rise NY",
+    "installation": "Tempele ea Orbital e ngotsoeng ke Clara Marques",
+    "antenna": "Antenna ea Tempele ea Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempele ea Orbital sebakeng. 3D e hlahisoa ke RiseNY&Partners.",
+    "mercosul": "Ho kengoa tempele ea Orbital ho Mercosul Biennial, Porto Alegre, Brazil.<br> Senepe ke Clara Marques."
+  }
+}

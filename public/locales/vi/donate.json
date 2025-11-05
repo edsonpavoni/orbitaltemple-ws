@@ -1,0 +1,31 @@
+{
+  "title": "Quyên góp cho Đền Orbital",
+  "heading": "Hoàn thành khoản quyên góp của bạn",
+  "donatingTo": "Bạn đang quyên góp cho:",
+  "chooseHow": "Chọn cách bạn muốn hoàn thành khoản quyên góp được khấu trừ thuế của mình:",
+  "option1": {
+    "heading": "Lựa chọn 1: Quyên góp trực tuyến ngay bây giờ",
+    "description": "Hãy hoàn tất khoản quyên góp của bạn ngay lập tức bằng thẻ tín dụng, thẻ ghi nợ hoặc các phương thức thanh toán trực tuyến khác thông qua nhà tài trợ tài chính an toàn của chúng tôi, <strong>The Field</strong> . Bạn sẽ nhận được biên lai thuế ngay lập tức.",
+    "button": "Quyên góp qua The Field →"
+  },
+  "option2": {
+    "heading": "Lựa chọn 2: Gửi tiền vào Quỹ Roy",
+    "description": "Gửi tiền trực tiếp hoặc chuyển khoản ngân hàng cho <strong>Quỹ Roy</strong> , đối tác chiến lược và nhà tài trợ tài chính của chúng tôi. Phương thức này phù hợp cho các khoản quyên góp lớn hoặc chuyển khoản quốc tế.",
+    "bankingInfo": "Thông tin ngân hàng",
+    "fields": {
+      "accountName": "Tên tài khoản:",
+      "bankName": "Tên ngân hàng:",
+      "accountNumber": "Số tài khoản:",
+      "routingNumber": "Số định tuyến:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Thẩm quyền giải quyết:"
+    },
+    "instructions": "Vui lòng ghi rõ &quot; <strong>Orbital Temple - {donationType}</strong> &quot; vào ô tham chiếu. Sau khi hoàn tất chuyển khoản, vui lòng gửi email cho chúng tôi theo địa chỉ <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> kèm theo thông tin chuyển khoản để nhận biên lai thuế.",
+    "button": "Liên hệ với chúng tôi về tiền gửi →"
+  },
+  "taxInfo": {
+    "heading": "Quyên góp được khấu trừ thuế",
+    "description": "Orbital Temple là một dự án được tài trợ bởi <strong>The Field (Performance Zone Inc.)</strong> , một tổ chức phi lợi nhuận <strong>501(c)(3)</strong> . Mọi đóng góp của Hoa Kỳ đều được khấu trừ thuế trong phạm vi pháp luật cho phép.",
+    "questions": "Có thắc mắc? Liên hệ với chúng tôi qua địa <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">chỉ gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

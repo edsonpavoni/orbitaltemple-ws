@@ -1,0 +1,50 @@
+{
+  "title": "Socios - Templo Orbital rehegua",
+  "heading": "Umi socio-kuéra",
+  "intro": "Templo Orbital oexisti umi socio extraordinario generosidad, katupyry ha visión rupive. Umi satélite de ingeniería guive umi narrativa artesanal peve, oipe’a guive okẽ umi yvy mombyrýpe ojeity peve sueño óro-pe, káda colaboración omoaguĩ ko templo umi mbyjakuéragui.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Socios rehegua",
+      "description": "Comunicación, experiencia integrada ha impresionante 3D render imagen omoingovéva satélite visión araka'eve opoko mboyve vacío espacio rehe."
+    },
+    "highestMantra": {
+      "name": "Ñande Mantra Ijyvatevéva",
+      "description": "Omyakãva Sathi Roy, ombojoajúva Templo Orbital umi comunidad espiritual ha artística India-gua ndive. Oipe'ávo tape recaudación de fondos, intercambio cultural, ha peteî exposición Arte Basilea omoñepyrû rire noviembre 2025."
+    },
+    "allToSpace": {
+      "name": "Opa mba’e Espacio-pe",
+      "description": "Especialista satélite michĩva brasileño-kuéra. Irundy ary colaboración omopu'ãvo plataforma hardware código abierto ha pionero proceso omondo haguã arte órbita Sur Global guive."
+    },
+    "isro": {
+      "name": "ISRO rehegua",
+      "description": "Organización de Investigación Espacial India-pegua. Proveedor de lanzamiento misión PSLV ogueraháva Templo Orbital órbita síncrona kuarahy noviembre 2025 jave."
+    },
+    "mercosul": {
+      "name": "13ha Bienal Mercosur rehegua",
+      "description": "Porto Alegre, Brasil retãme. Omotenonde Marcello Dantas umi comisario auxiliar Laura Cattani, Munir Klamt, Tarsila Riso ha Carollina Lauriano ndive."
+    },
+    "inpe": {
+      "name": "INPE / Taller ArtSat rehegua",
+      "description": "Ko equipo desarrollo satélite oñeforma II Taller ArtSat jave. Ombosako'i Fabiane M. Borges, ombo'éva Lázaro Camargo, oipytyvõva Ítalo Pinto Rodrigues, oisãmbyhýva Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Conceptos Sólidos rehegua",
+      "description": "Omyakã Eduardo Dias. Opavave impresión 3D ha micro fundición de oro omba'apo cúpula escultórica-pe guarã, omoambuéva sueño digital realidad metal precioso-pe."
+    },
+    "ideaSpace": {
+      "name": "Espacio de Idea rehegua",
+      "description": "Startup educación brasileña omoheñóiva currículo Programa Espacial Quebrada, oîva dispuesto ojeporu haguã umi temimbo'e secundaria Brasil pukukue."
+    }
+  },
+  "closing": "¿Reime interesado reñomoirũvo Orbital Temple ndive? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Eñemboja</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Socios Logotipo rehegua",
+    "highestMantra": "Ñande Logotipo Mantra Ijyvatevéva",
+    "allToSpace": "Opa mba'e Espacio-pe Logotipo",
+    "isro": "ISRO Logotipo rehegua",
+    "mercosul": "13ha Logotipo Bienal Mercosur rehegua",
+    "inpe": "INPE ArtSat Taller Logotipo rehegua",
+    "solidConcepts": "Logotipo Conceptos Sólidos rehegua",
+    "ideaSpace": "Idea Espacio Logotipo rehegua"
+  }
+}

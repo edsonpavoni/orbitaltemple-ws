@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Tempoly orbital",
+    "subtitle": "dia zavakanto sy zanabolana,\nmikendry ny ho lasa tempoly iraisan'ny rehetra,\namin'ny toerana tsy azon'ny rindrina hidirana."
+  },
+  "ritual": {
+    "label": "fombafomba"
+  },
+  "cta": {
+    "link": "Kanefa, tempoly hafa?",
+    "arrowAlt": "zana-tsipìka"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

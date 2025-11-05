@@ -1,0 +1,44 @@
+{
+  "title": "Seasmhachd & Sprùilleach Fànais - Teampall Orbital",
+  "heading": "Seasmhachd",
+  "intro": {
+    "paragraph1": "Ma tha ealain gu bhith gar stiùireadh a-steach don àm ri teachd, chan urrainn dhi dearmad a dhèanamh air na h-èiginn a tha romhainn - tuiteam àrainneachdail, neo-ionannachd shòisealta, agus dùbhlan a tha a’ sìor fhàs a thaobh sprùilleach fànais. Chaidh Teampall Orbital a dhealbhadh leis na fìrinnean sin san amharc, ag amas air a bhith an làthair gu ciallach an dà chuid air an Talamh agus ann an orbit.",
+    "paragraph2": "Tha sinn a’ creidsinn nach e bacadh a th’ ann an seasmhachd ach pàirt riatanach den lèirsinn ealanta againn. Tha a h-uile co-dhùnadh mu stuthan, orbitan, agus obrachaidhean a’ nochdadh ar dealas a thaobh an Talamh agus an fhànais fhàgail nas fheàrr na fhuair sinn iad."
+  },
+  "spaceDebris": {
+    "heading": "Sprùilleach Fànais",
+    "paragraph1": "’S e sprùilleach fànais aon de na dùbhlain as cudromaiche a tha mu choinneamh rannsachadh fànais. Tha mìltean de shaidealan is mìrean nach eil ag obair a’ cuairteachadh na Talmhainn, a’ bagairt miseanan gnìomhach agus a’ cruthachadh buaidh eas-chruthach a dh’ fhaodadh cuid de orbitan a dhèanamh do-dhèanta a chleachdadh.",
+    "paragraph2": "Tha Orbital Temple a’ dèiligeadh ris an seo ann an grunn dhòighean:",
+    "list": {
+      "orbit": "<strong>Orbit sioncronaich na grèine aig 525 km:</strong> Tha an àirde seo a’ dèanamh cinnteach gum bi an saideal a’ tilleadh a-steach do àile na Talmhainn taobh a-staigh timcheall air 10 bliadhna, far an loisg e suas gu tur. Chan eil sinn a’ cur ri sprùilleach orbital fad-ùine.",
+      "size": "<strong>Dealbhadh PocketQube:</strong> Aig dìreach 50 × 58 × 64mm agus 245g, tha an saideal beag gu leòr airson a dhol à sealladh gu tur nuair a thèid e air ais a-steach don Talamh, gun sprùilleach fhàgail air uachdar na Talmhainn.",
+      "responsibility": "<strong>Gun phlanadh airson seann-fhasanta:</strong> Eu-coltach ri saidealan malairteach a dh’ fhaodadh a bhith air an trèigsinn, tha Orbital Temple air a dhealbhadh gus dì-orbit a dhèanamh gu nàdarrach, a’ coinneachadh ri stiùiridhean eadar-nàiseanta airson gnìomhachd fànais cunntachail."
+    },
+    "paragraph3": "Le bhith a’ taghadh orbit ìosal timcheall na Talmhainn agus dealbhadh teann, bidh sinn a’ dèanamh cinnteach gu bheil làthaireachd Teampall Orbital san fhànais sealach agus gun truailleadh."
+  },
+  "carbonNeutrality": {
+    "heading": "Neodrachd Charboin",
+    "content": "Thèid a h-uile sgaoilidhean gualain co-cheangailte ri Orbital Temple—a’ gabhail a-steach saothrachadh saidealan, cur air bhog, obrachadh stèiseanan talmhainn, aoigheachd làrach-lìn, agus siubhal sgioba—a chothromachadh gu h-iomlan tro phrògraman creideas gualain dearbhte. Tha sinn dealasach a thaobh an rùin seo a dhèanamh neodrach a thaobh na gnàth-shìde."
+  },
+  "openSource": {
+    "heading": "Bathar-cruaidh stòr fosgailte",
+    "paragraph1": "Tha seasmhachd cuideachd a’ ciallachadh gun a bhith a’ cur eòlais am mugha. Thèid a h-uile taobh teicnigeach de Orbital Temple—sgeamaig, còd, protocolaidhean conaltraidh, agus dòighean togail—fhoillseachadh mar sgrìobhainnean stòr fosgailte.",
+    "paragraph2": "Leigidh seo le miseanan san àm ri teachd togail air an obair againn seach tòiseachadh bhon fhìor thoiseach, a’ lughdachadh rannsachadh is leasachadh gun fheum. Bidh e a’ deamocratachadh ruigsinneachd gu teicneòlas fànais, gu h-àraidh do choimhearsnachdan ann an Ceann a Deas na Cruinne a chaidh a thoirmeasg gu h-eachdraidheil bho rannsachadh fànais."
+  },
+  "educational": {
+    "heading": "Buaidh Foghlaim",
+    "paragraph1": "Bidh am prògram foghlaim ioma-chànanach an-asgaidh againn a’ teagasg oileanaich air feadh an t-saoghail mar a thogas agus a chuireas iad saidealan air bhog, le fòcas air a’ Cheann a Deas. Le bhith a’ toirt cumhachd don ath ghinealach le sgilean teicneòlais fànais, bidh sinn a’ cur ri dùnadh a’ “Bheàirn Fànais” agus a’ cruthachadh chothroman nach biodh ann air dhòigh eile.",
+    "paragraph2": "Tha an rùn foghlaim seo fhèin na sheòrsa de sheasmhachd—a’ tasgadh ann an daoine agus coimhearsnachdan gus atharrachadh maireannach a chruthachadh nas fhaide na fad-beatha an t-saideal."
+  },
+  "tenYear": {
+    "heading": "Misean 10-Bliadhna",
+    "paragraph1": "Tha Orbital Temple air a dhealbhadh airson misean deich bliadhna a dh'fhaid, chan e cleas sanasachd goirid. Thar deich bliadhna, bidh an saideal a’ cuairteachadh na Talmhainn timcheall air 50,000 uair, a’ faighinn ainmean agus a’ frithealadh mar chuimhneachan gum faod fànais a bhith na rud cumanta, ruigsinneach dha na h-uile.",
+    "paragraph2": "Às dèidh dha a mhisean a chrìochnachadh, thèid an saideal a dh’fhalamhachadh gu nàdarrach agus loisgidh e suas, gun lorg fhàgail ach a-mhàin ann an cuimhneachain agus sgrìobhainnean an fheadhainn a ghabh pàirt."
+  },
+  "artsResponsibility": {
+    "heading": "Uallach na h-Ealain",
+    "paragraph1": "Tha ealain air a bhith na sgàthan air an àm aice a-riamh, a’ nochdadh ar luachan agus ar miannan. Ann an linn èiginn na gnàth-shìde agus neo-ionannachd a tha a’ sìor fhàs, tha sinn a’ creidsinn gu bheil dleastanas air luchd-ealain obair a chruthachadh nach eil dìreach a’ toirt beachd air na cùisean sin ach a bhios gan dèiligeadh gu gnìomhach.",
+    "paragraph2": "’S e Orbital Temple an oidhirp againn obair-ealain a chruthachadh a tha radaigeach na h-in-ghabhalachd, cunntachail na bhuaidh àrainneachdail, agus fialaidh ann a bhith a’ roinn a eòlais leis an t-saoghal. ’S e ealain a th’ ann a tha a’ toirt cuireadh do gach neach pàirt a ghabhail agus aig an aon àm a’ toirt urram do na siostaman cugallach—àrainneachdail agus orbital—a tha a’ dèanamh beatha agus rannsachadh comasach."
+  },
+  "imageAlt": "Saideal Teampall Orbital"
+}

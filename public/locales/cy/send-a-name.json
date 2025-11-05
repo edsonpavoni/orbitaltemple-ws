@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "wrth i chi fynd i mewn i\nddefod\ni anfon enw\ni'r\ndeml orbitol\nyn y gofod\ncymryd\nanadl",
+    "button": "rydw i'n barod"
+  },
+  "nameInput": {
+    "title": "teipiwch enw",
+    "subtitle": "bydd yn codi i'r Deml Orbitol yn y gofod.",
+    "placeholder": "enw",
+    "button": "gadewch iddo esgyn"
+  },
+  "emailInput": {
+    "title": "teipiwch eich e-bost",
+    "subtitle": "felly rydych chi'n cael neges pan fydd yr enw'n esgyn.",
+    "placeholder": "eich e-bost",
+    "button": "mae wedi'i wneud"
+  },
+  "loading": {
+    "alt": "Yn llwytho"
+  },
+  "success": {
+    "text": "mae'r enw\n{{name}}\nbellach wedi'i roi mewn ciw\nar gyfer esgyniad.\npan fydd y\ndemwl yn y gofod\nyn cyd-fynd, gyda'n\nantena\nar y Ddaear\nbyddwn yn anfon\nyr enw\na byddwch yn derbyn\nneges."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "o ye seko ni dɔnko baara ye",
+    "sendAName": "tɔgɔ dɔ ci",
+    "fromTheArtist": "ka bɔ dɔnkilidala in na",
+    "yetAnotherTemple": "o bɛɛ n'a ta, batoso wɛrɛ?",
+    "howItWorks": "a bɛ baara kɛ cogo min na",
+    "spaceLaunch": "sanfɛla labɔli ni faratiw",
+    "briefHistory": "tariku surun min bɛ seko ni dɔnko kan sankolo la",
+    "education": "kalan & da wulilen",
+    "sustainability": "sabatili ni yɔrɔ nɔgɔw",
+    "press": "presse & media",
+    "team": "ekipu",
+    "partners": "jɛɲɔgɔnw",
+    "support": "sɛmɛjiri",
+    "technicalInfo": "tekniki kunnafoni"
+  },
+  "ritual": {
+    "label": "laadalakow",
+    "ariaLabel": "Don laadalakow la - Tɔgɔ dɔ ci Orbital Temple ma"
+  },
+  "footer": {
+    "credits": "Orbital Temple ye Edson Pavoni ka seko ni dɔnko baara ye, min dabɔra ni Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ani mɔgɔ bɛɛ ye minnu bɛ taa a fɛ ka tɔgɔw ci nin batoso in ma."
+  }
+}

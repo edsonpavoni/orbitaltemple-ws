@@ -1,0 +1,50 @@
+{
+  "title": "Samstarfsaðilar - Orbital Temple",
+  "heading": "Samstarfsaðilar",
+  "intro": "Orbital Temple er til vegna örlætis, sérfræðiþekkingar og framtíðarsýnar einstakra samstarfsaðila. Frá því að hanna gervihnetti til að skapa frásagnir, frá því að opna dyr í fjarlægum löndum til að varpa draumum í gull, færir hvert samstarf þetta musteri nær stjörnunum.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Samstarfsaðilar",
+      "description": "Samskipti, samþættar upplifanir og stórkostleg þrívíddarmyndir sem vöktu sýn gervihnöttsins til lífs áður en hann snerti tómarúmið."
+    },
+    "highestMantra": {
+      "name": "Okkar hæsta mantra",
+      "description": "Undir forystu Sathi Roy tengir Orbital-hofið við andleg og listasamfélög Indlands. Opnar leiðir til fjáröflunar, menningarlegra skipta og Art Basel-sýningar eftir að hún var sett á laggirnar í nóvember 2025."
+    },
+    "allToSpace": {
+      "name": "Allt út í geiminn",
+      "description": "Sérfræðingar í litlum gervihnöttum í Brasilíu. Fjögurra ára samstarf við að byggja upp opinn vélbúnaðarvettvang og vera brautryðjandi í ferlinu við að senda list á braut um jörðu frá Suðurhveli jarðar."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indverska geimrannsóknarstofnunin. Geimferðafyrirtæki fyrir PSLV-leiðangurinn sem flytur Orbital Temple á sólarsamstillta braut í nóvember 2025."
+    },
+    "mercosul": {
+      "name": "13. Mercosur tvíæringurinn",
+      "description": "Porto Alegre, Brasilía Sýningarstjóri er Marcello Dantas ásamt aðstoðarsýningarstjórunum Laura Cattani, Munir Klamt, Tarsila Riso og Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat vinnustofa",
+      "description": "Gervihnattaþróunarteymið var stofnað á II ArtSat vinnustofunni. Umsjón með Fabiane M. Borges, leiðbeinandi af Lázaro Camargo, í samstarfi við Ítalo Pinto Rodrigues, umsjón Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Traust hugtök",
+      "description": "Undir forystu Eduardo Dias. Öll þrívíddarprentun og örsteypa gull fyrir skúlptúrhvelfinguna, sem umbreytir stafrænum draumum í veruleika eðalmálma."
+    },
+    "ideaSpace": {
+      "name": "Hugmyndarými",
+      "description": "Brasilískt sprotafyrirtæki í menntamálum þróar námskrá fyrir geimáætlunina Quebrada, tilbúin til notkunar fyrir framhaldsskólanema um alla Brasilíu."
+    }
+  },
+  "closing": "Hefurðu áhuga á samstarfi við Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Hafðu samband</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners merki",
+    "highestMantra": "Okkar hæsta mantra-lógó",
+    "allToSpace": "Allt til geimsins merki",
+    "isro": "ISRO merki",
+    "mercosul": "Merki 13. Mercosur tvíæringsins",
+    "inpe": "Merki INPE ArtSat verkstæðisins",
+    "solidConcepts": "Solid Concepts lógó",
+    "ideaSpace": "Hugmyndarýmismerki"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Info Técnico - Templo Orbital",
+  "heading": "Info Técnica nisqamanta",
+  "satellite": {
+    "heading": "Satélite nisqawan",
+    "specs": "Dimensiones: 50x58x64 mm<br /> 1P BolsilloQube<br /> Llasaq: 245 gr<br /> Materiales: aluminio, quri, fibra de vidrio, componentes electrónicos nisqakuna.<br /> Muyuriq: 525 ± 25 km hanaq; inclinación: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura",
+    "specs": "Dimensiones: 6 m (diámetro) e 1,2m (altura) .<br /> Llasaq: 46 kg<br /> Materiales: aluminio, epoxi espejo tabla, quri aluminio cúpula andamio estructurawan warkusqa."
+  },
+  "radio": {
+    "heading": "Radiomanta willakuykuna NASA-Catálogo:",
+    "specs": "TBD Urayman: 437 MHz<br /> Llamada: Estado: 2025 WATAPAQ HORARIO"
+  },
+  "imageAlt": "Diagrama de Info Técnica nisqa"
+}

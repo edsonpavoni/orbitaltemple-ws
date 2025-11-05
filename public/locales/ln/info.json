@@ -1,0 +1,17 @@
+{
+  "title": "Info technique - Temple ya orbital",
+  "heading": "Info ya Technique",
+  "satellite": {
+    "heading": "Satellite oyo esalemi",
+    "specs": "Bolai na yango: 50x58x64 mm<br /> 1P PocketQube ya poche<br /> Kilo: 245 gr<br /> Biloko oyo basalelaka: aluminium, wolo, fibre de verre, mpe biloko ya elektroniki.<br /> Orbite: Bolai 525 ± 25 km; inclinaison: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenne/Ekeko ya mayemi",
+    "specs": "Bolai: 6 m (diamètre) e 1,2m (bosanda)<br /> Kilo: 46 kg<br /> Biloko oyo basalelaka: aluminium, etanda oyo ezali na talatala na epoxy, dôme ya aluminium ya wolo oyo ekangami na nzela ya structure ya échafaudage."
+  },
+  "radio": {
+    "heading": "Makambo ya radio NASA-Catalog:",
+    "specs": "TBD Lien ya nse: 437 MHz<br /> Benga: Ezalela: MANANA YA MOBU 2025"
+  },
+  "imageAlt": "Diagramme ya Infos Techniques"
+}

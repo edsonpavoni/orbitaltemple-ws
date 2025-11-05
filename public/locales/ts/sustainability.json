@@ -1,0 +1,44 @@
+{
+  "title": "Ku tshamiseka & Swilo leswi nga sala swa le xibakabakeni - Orbital Temple",
+  "heading": "Tiyiseleka",
+  "intro": {
+    "paragraph1": "Loko vutshila byi ta hi yisa enkarhini lowu taka, a byi nge swi honisi swiphiqo leswi hi langutanaka na swona—ku wa ka mbango, ku nga ringani ka ntshamisano ni ntlhontlho lowu kulaka wa thyaka ra le xibakabakeni. Orbital Temple yi endliwile hi ku tekela enhlokweni swilo leswi swa xiviri, hi xikongomelo xo va vukona bya vutihlamuleri eMisaveni na le ku rhendzelekeni.",
+    "paragraph2": "Hi tshemba leswaku ku kondletela a hi xihinga kambe i xiphemu xa nkoka xa xivono xa hina xa vutshila. Xiboho xin’wana na xin’wana mayelana na switirhisiwa, ku rhendzeleka na matirhelo xi kombisa ku tinyiketela ka hina ku siya Misava na le xibakabakeni ku antswa ku tlula leswi hi swi kumeke."
+  },
+  "spaceDebris": {
+    "heading": "Swilo leswi nga sala swa le Xibakabakeni",
+    "paragraph1": "Swilo leswi nga sala exibakabakeni i yin’wana ya mintlhontlho leyikulu swinene leyi langutaneke ni ku lavisisa exibakabakeni. Magidi ya tisathelayiti leti nga ha tirhiki ni swiphemu-phemu swi rhendzeleka eMisaveni, swi xungeta mintirho leyi tirhaka naswona swi endla leswaku ku va ni vuyelo bya cascade lebyi nga endlaka leswaku ku rhendzeleka ko karhi ku nga tirhisiwi.",
+    "paragraph2": "Orbital Temple yi langutana na leswi hi tindlela to hlayanyana:",
+    "list": {
+      "orbit": "<strong>Sun-synchronous orbit eka 525 km:</strong> Ku tlakuka loku ku tiyisisa leswaku ku koka ka ntumbuluko ka xibakabaka ku ta endla leswaku sathelayiti yi tlhela yi nghena eka xibakabaka xa Misava ku nga si hela kwalomu ka khume ra malembe, laha yi nga ta hisa hi ku helela. A hi hoxi xandla eka swilo leswi nga ni nkarhi wo leha leswi nga ni swilo leswi rhendzelekaka.",
+      "size": "<strong>Dizayini ya PocketQube:</strong> Eka 50×58×64mm ntsena na 245g, satellite yitsongo swinene kuva yiva vaporize hiku hetiseka loko yitlhela yi nghena, yinga siyi swilo leswinga sala ehenhla ka misava.",
+      "responsibility": "<strong>Ku hava ku hundzeriwa ka nkarhi loku kunguhatiweke:</strong> Ku hambana ni tisathelayiti ta mabindzu leti nga ha tshikiwaka, Tempele ya Orbital yi endleriwe ku hambuka hi ntumbuluko, yi hetisisa swiletelo swa matiko hinkwawo swa ntirho wa le xibakabakeni lowu nga ni vutihlamuleri."
+    },
+    "paragraph3": "Hi ku hlawula ku rhendzeleka ka Misava ka le hansi na dizayini yo koma, hi tiyisisa leswaku vukona bya Orbital Temple exibakabakeni i swa xinkarhana naswona a byi thyakisi."
+  },
+  "carbonNeutrality": {
+    "heading": "Ku nga hlanganyeli eka Khaboni",
+    "content": "Ku humesiwa hinkwako ka khaboni loku fambelanaka na Orbital Temple—ku katsa na vumaki bya sathelayiti, ku rhumeriwa ka yona, matirhelo ya xitichi xa le hansi, ku rhurhela tiwebsite, na ku famba hi ntlawa—ku ta hungutiwa hi ku helela hi minongonoko ya xikweleti xa khaboni leyi tiyisisiweke. Hi tiyimiserile ku endla leswaku vurhumiwa lebyi byi nga vi na maxelo."
+  },
+  "openSource": {
+    "heading": "Hardware ya Xihlovo lexi Pfulekeke",
+    "paragraph1": "Ku kondletela swi tlhela swi vula ku nga tlangi hi vutivi. Xiphemu xin’wana na xin’wana xa xithekiniki xa Orbital Temple—swikimi, khodi, tiphrothokholi ta vuhlanganisi, na tindlela to aka—xi ta kandziyisiwa tanihi matsalwa ya xihlovo lexi pfulekeke.",
+    "paragraph2": "Leswi swi pfumelela vurhumiwa bya nkarhi lowu taka ku aka eka ntirho wa hina ku tlula ku sungula ku suka eka xiyimo xa le hansi, ku hunguta ndzavisiso na nhluvukiso lowu nga lavekiki. Yi endla xidemokirasi xa mfikelelo eka thekinoloji ya le xibakabakeni, ngopfungopfu eka miganga ya le Dzongeni wa Misava hinkwayo leyi hi matimu yi nga hlongoriwa eka ku lavisisa xibakabaka."
+  },
+  "educational": {
+    "heading": "Vuyelo bya Dyondzo",
+    "paragraph1": "Nongonoko wa hina wa dyondzo ya tindzimi to tala wa mahala wu dyondzisa swichudeni emisaveni hinkwayo ndlela yo aka na ku rhumela tisathelayiti, hi ku kongomisa eka Dzonga wa Misava Hinkwayo. Hi ku nyika matimba eka xitukulwana lexi landzelaka hi vuswikoti bya thekinoloji ya le xibakabakeni, hi hoxa xandla eku pfala \"Xivandla xa le Xibakabakeni\" na ku tumbuluxa swivandlanene leswi handle ka swona a swi nga ta va kona.",
+    "paragraph2": "Ntirho lowu wa dyondzo hi woxe i xivumbeko xa ku kondletela—ku vekisa eka vanhu na miganga ku tumbuluxa ku cinca loku nga heriki ku tlula nkarhi wa vutomi bya sathelayiti."
+  },
+  "tenYear": {
+    "heading": "Rhurho wa Malembe ya 10",
+    "paragraph1": "Orbital Temple yi endleriwe vurhumiwa bya khume ra malembe, ku nga ri ku endla swilo swo koma swo hangalasa. Eka malembe ya khume, sathelayiti yi ta rhendzeleka na Misava kwalomu ka 50,000 wa minkarhi, yi amukela mavito naswona yi tirha tanihi xitsundzuxo xa leswaku xibakabaka xi nga va nchumu lowu tolovelekeke, lowu fikelelaka hinkwavo.",
+    "paragraph2": "Endzhaku ka loko vurhumiwa bya yona byi herile, hi ntumbuluko sathelayiti yi ta susa ku rhendzeleka na ku hisa, yi nga siyi nchumu handle ka miehleketo na matsalwa ya lava va hlanganyeleke."
+  },
+  "artsResponsibility": {
+    "heading": "Vutihlamuleri bya Vutshila",
+    "paragraph1": "Vutshila byi tshama byi ri xivoni xa nkarhi wa byona, byi kombisa mimpimanyeto na ku navela ka hina. Eka nguva ya xiphiqo xa maxelo na ku nga ringani loku kulaka, hi tshemba leswaku vatshila va na vutihlamuleri byo tumbuluxa ntirho lowu nga vuliki ntsena hi timhaka leti kambe wu ti lulamisa hi ku gingiriteka.",
+    "paragraph2": "Orbital Temple i matshalatshala ya hina yo tumbuluxa ntirho wa vutshila lowu nga wa xiyimo xa le henhla eka ku katsa ka wona hinkwavo, lowu nga na vutihlamuleri eka ku khumbeka ka wona eka mbango, na ku hanana eku avelaneni ka vutivi bya wona na misava. I vutshila lebyi rhambaka un’wana ni un’wana leswaku a hlanganyela loko a ri karhi a xixima maendlelo lama nga tiyangiki—ya mbango ni wa ku rhendzeleka—leswi endlaka leswaku vutomi ni ku lavisisa swi koteka."
+  },
+  "imageAlt": "Sathelayiti ya Tempele ya Orbital"
+}

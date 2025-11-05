@@ -1,0 +1,31 @@
+{
+  "title": "Fate una donazione à u Tempiu Orbitale",
+  "heading": "Cumplete a vostra donazione",
+  "donatingTo": "Fate una donazione à:",
+  "chooseHow": "Sceglite cumu vulete compie a vostra donazione deducibile da l'impositu:",
+  "option1": {
+    "heading": "Opzione 1: Fate una donazione in linea avà",
+    "description": "Fate a vostra donazione subitu cù carta di creditu, carta di debitu, o altri metudi di pagamentu in linea per mezu di u nostru sponsor fiscale sicuru, <strong>The Field</strong> . Riceverete una ricevuta fiscale istantanea.",
+    "button": "Fate una donazione via The Field →"
+  },
+  "option2": {
+    "heading": "Opzione 2: Depositu bancariu à a Fundazione Roy",
+    "description": "Fate un accontu bancariu direttu o un trasferimentu bancariu à <strong>The Roy Foundation</strong> , u nostru partenariu strategicu è sponsor fiscale. Questa opzione hè ideale per donazioni più grande o trasferimenti internaziunali.",
+    "bankingInfo": "Infurmazioni bancarie",
+    "fields": {
+      "accountName": "Nome di u contu:",
+      "bankName": "Nome di a Banca:",
+      "accountNumber": "Numeru di contu:",
+      "routingNumber": "Numeru di routing:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Riferimentu:"
+    },
+    "instructions": "Per piacè include &quot; <strong>Orbital Temple - {donationType}</strong> &quot; in u campu di riferimentu. Dopu avè cumpletatu u vostru trasferimentu, mandate un email à <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> cù i vostri dettagli di trasferimentu per riceve a vostra ricevuta fiscale.",
+    "button": "Cuntattateci À propositu di u depositu →"
+  },
+  "taxInfo": {
+    "heading": "Donazioni deducibili da l'imposte",
+    "description": "Orbital Temple hè un prughjettu sponsorizatu fiscalmente da <strong>The Field (Performance Zone Inc.)</strong> , una urganizazione senza scopu di lucro <strong>501(c)(3)</strong> . Tutti i cuntributi americani sò deducibili da l&#39;impositu in a misura permessa da a lege.",
+    "questions": "Dumande? Cuntattateci à <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

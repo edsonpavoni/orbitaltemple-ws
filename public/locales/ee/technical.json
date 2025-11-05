@@ -1,0 +1,17 @@
+{
+  "title": "Mɔ̃ɖaŋu Ŋuti Nyatakaka - Orbital Gbedoxɔ",
+  "heading": "Mɔ̃ɖaŋu Ŋuti Nyatakakawo",
+  "satellite": {
+    "heading": "Satellite-mɔ̃ dzi",
+    "specs": "Eƒe didime: 50x58x64 mm<br /> 1P PocketQube ƒe ƒuƒoƒo<br /> Kpekpeme: 245 gr<br /> Nusiwo wotsɔ wɔe: aluminum, sika, fiberglass, kple elektrɔnikmɔ̃wo ƒe akpa aɖewo.<br /> Tsitretsitsi: Kɔkɔme 525 ± 25 km; eƒe ŋgɔgbedede: SSO 97.6 ± 0.1°<br /> Afɔdzidela: PSLV (Polar Satellite Launch Vehicle) si ISRO zãna"
+  },
+  "antenna": {
+    "heading": "Antenna/Kpememe",
+    "specs": "Dzidzeme: 6 m (kekeme) e 1.2m (kɔkɔme)<br /> Kpekpeme: kilogram 46<br /> Nusiwo wotsɔ wɔe: aluminum, epoxy ahuhɔ̃e board, sika aluminum dome si wotsɔ ƒo ɖe xɔtunu si wotsɔa xɔtunu wɔe me."
+  },
+  "radio": {
+    "heading": "Radio dzi Nyatakakawo",
+    "specs": "Dzesidede: 468.5 MHz<br /> Trɔ asi le eŋu: CSS<br /> Bandwidth: TBD ƒe didime"
+  },
+  "imageAlt": "Orbital Gbedoxɔ ƒe Satellite"
+}

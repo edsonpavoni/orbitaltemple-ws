@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Urusengero rwa Orbital",
+    "subtitle": "ni ibihangano hamwe na satelite,\nugamije kuba urusengero rukabije,\nahantu nta rukuta rushobora kugera."
+  },
+  "ritual": {
+    "label": "umuhango"
+  },
+  "cta": {
+    "link": "Urundi rusengero?",
+    "arrowAlt": "umwambi"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

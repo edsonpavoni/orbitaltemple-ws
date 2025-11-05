@@ -1,0 +1,61 @@
+{
+  "title": "Tim - Tempju Orbitali",
+  "heading": "Tim",
+  "artist": "Edson Pavoni, artist",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Produttur Eżekuttiv",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Inġinerija Aerospazjali u tas-Sistemi",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Inġinerija Elettronika",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Softwer",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Disinn u Arkitettura",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Stampar 3D",
+      "members": "Kunċetti Solidi, taħt it-tmexxija ta' Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rendering 3D",
+      "members": "Guilherme Bullejos & RiseNy & Imsieħba"
+    },
+    "research": {
+      "heading": "Riċerka",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produzzjoni ta' Wirjiet, Fotografija u Ħolqien ta' Kontenut",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "L-Iskrinjar tal-Ħarir tal-Wirja",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Proġett Edukattiv",
+      "members": "Spazju tal-Idea"
+    },
+    "communication": {
+      "heading": "Tim tal-Komunikazzjoni",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Ringrazzjament Speċjali",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Ca Fertiane, Rafael Brun, Rafael Solida RiseNY&Imsieħba, IdeaSpace",
+  "imageAlt": "Satellita tat-Tempju Orbitali"
+}

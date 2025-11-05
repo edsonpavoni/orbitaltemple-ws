@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "l'opera d'arte",
+    "sendAName": "mandà un nome",
+    "fromTheArtist": "da l'artista",
+    "yetAnotherTemple": "eppuru, un altru tempiu ?",
+    "howItWorks": "cumu funziona",
+    "spaceLaunch": "lanciu spaziale è risichi",
+    "briefHistory": "Breve storia di l'arte in u spaziu",
+    "education": "educazione è fonte aperta",
+    "sustainability": "sustenibilità è detriti spaziali",
+    "press": "stampa è media",
+    "team": "squadra",
+    "partners": "partenarii",
+    "support": "sustegnu",
+    "technicalInfo": "infurmazioni tecniche"
+  },
+  "ritual": {
+    "label": "rituale",
+    "ariaLabel": "Entre in u rituale - Mandate un nome à u Tempiu Orbitale"
+  },
+  "footer": {
+    "credits": "Orbital Temple hè un'opera d'arte di Edson Pavoni, creata in cullaburazione cù Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, è tutti quelli chì cuntinueghjanu à mandà nomi à stu tempiu."
+  }
+}

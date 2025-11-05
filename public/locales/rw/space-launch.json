@@ -1,0 +1,16 @@
+{
+  "title": "Gutangiza Umwanya - Urusengero rwa Orbital",
+  "heading": "Ikirere",
+  "intro": "Biteganijwe ko Urusengero rwa Orbital ruzashyirwa ahagaragara mu bwato bwa PSLV (Polar Satellite Launch Vehicle) ku ya 28 Ugushyingo 2025 bivuye mu kigo cy’ikirere cya Satish Dhawan kiri muri Sriharikota, mu Buhinde.",
+  "partnership": "Itangizwa rya Orbital Temple ni ubufatanye hagati ya NewSpace India Limited (NSIL), Isosiyete ya Guverinoma y'Ubuhinde munsi y’ishami ry’ikirere, Antrix Corporation, n’umuhanzi. Ubu bufatanye bugaragaza intambwe ikomeye y’ubuhanzi mu bushakashatsi bw’ikirere, ihuza gahunda y’ikirere cy’Ubuhinde hamwe n’icyerekezo cy’ubuhanzi cyo kwibumbira hamwe.",
+  "risks": {
+    "heading": "Ingaruka",
+    "paragraph1": "Icyogajuru cyubatswe kugirango bihangane n’imiterere ihindagurika ikabije n’izuba ry’ubushyuhe, kandi cyarageragejwe cyane. Ariko, icyogajuru cyoherejwe gitwara ingaruka zishobora kubaho. Niba icyogajuru cyangiritse mugihe cyo kohereza cyangwa koherezwa, cyangwa niba binaniwe gushiraho itumanaho hamwe na sitasiyo zacu, tuzakora kugirango dukemure ibibazo kandi dukemure ibibazo byose. Icyogajuru gifite sisitemu zirenze urugero hamwe no gusubiza inyuma protocole yagenewe amahirwe menshi yo gutsinda ubutumwa.",
+    "paragraph2": "Byongeye kandi, icyogajuru gishobora kuguma muri orbit mugihe kitarenze imyaka 10 niba ikirere cyangwa ibindi bintu bitera kwangirika kwa orbital. Mugihe twabiteguye kumara byibura imyaka icumi, igihe nyacyo cyo kubaho giterwa nibintu tudashobora kugenzura byuzuye.",
+    "paragraph3": "Niba itangizwa ryambere ryananiranye, cyangwa niba tudashoboye gusohoza ubu butumwa nkuko byateganijwe, tuzashakisha inzira zindi zitera imbere, birashoboka harimo kugerageza kugerageza bwa kabiri hamwe ningengo yimari ihari, ubufatanye nubundi butumwa, cyangwa inyandiko zerekana kugerageza nkibice bigize ibihangano byerekana ibyifuzo no kugarukira."
+  },
+  "imageAlts": {
+    "india": "Ikirere cya ISRO, Ubuhinde",
+    "satellite": "Orbital Urusengero Satelite"
+  }
+}

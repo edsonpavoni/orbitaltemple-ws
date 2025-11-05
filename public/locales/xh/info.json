@@ -1,0 +1,17 @@
+{
+  "title": "Ulwazi lobuGcisa-iTempile ye-Orbital",
+  "heading": "Ulwazi lobuGcisa",
+  "satellite": {
+    "heading": "Isathelayithi",
+    "specs": "Imilinganiselo: 50x58x64 mm<br /> 1P PocketQube<br /> Ubunzima: 245 gr<br /> Izixhobo: i-aluminium, igolide, i-fiberglass, kunye nezinto ze-elektroniki.<br /> I-Orbit: Ubude be-525 ± 25 km; utyekelo: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "I-Antenna / Umfanekiso oqingqiweyo",
+    "specs": "Imilinganiselo: 6 m (ububanzi) e 1.2m (ubude)<br /> Ubunzima: 46 kg<br /> Izinto eziphathekayo: i-aluminiyam, ibhodi ye-epoxy mirrored, idome ye-aluminium yegolide exhonywe kwi-scaffolding structure."
+  },
+  "radio": {
+    "heading": "IiNgcaciso zikanomathotholo NASA-Ikhathalogu:",
+    "specs": "TBD Downlink: 437 MHz<br /> Fowuna: Imeko: ISHEDYULI YOwama-2025"
+  },
+  "imageAlt": "Umzobo woLwazi lobuGcisa"
+}

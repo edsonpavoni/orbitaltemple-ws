@@ -1,0 +1,50 @@
+{
+  "title": "Partnerët - Tempulli Orbital",
+  "heading": "Partnerët",
+  "intro": "Tempulli Orbital ekziston falë bujarisë, ekspertizës dhe vizionit të partnerëve të jashtëzakonshëm. Nga inxhinieria e satelitëve deri te krijimi i narrativave, nga hapja e dyerve në toka të largëta deri te derdhja e ëndrrave në ar, çdo bashkëpunim e sjell këtë tempull më afër yjeve.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikim, përvoja të integruara dhe imazhe mahnitëse 3D që i dhanë jetë vizionit të satelitit përpara se ai të prekte boshllëkun e hapësirës."
+    },
+    "highestMantra": {
+      "name": "Mantra jonë më e lartë",
+      "description": "Udhëhequr nga Sathi Roy, duke lidhur Tempullin Orbital me komunitetet shpirtërore dhe artistike të Indisë. Duke hapur rrugë për mbledhje fondesh, shkëmbim kulturor dhe një ekspozitë Art Basel pas lançimit të nëntorit 2025."
+    },
+    "allToSpace": {
+      "name": "Gjithçka në Hapësirë",
+      "description": "Specialistë brazilianë për satelitë të vegjël. Katër vjet bashkëpunim për të ndërtuar një platformë hardueri me burim të hapur dhe për të qenë pionierë në procesin e dërgimit të artit në orbitë nga Jugu Global."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organizata Indiane e Kërkimeve Hapësinore. Ofruesi i lëshimit për misionin PSLV që do të transportojë Orbital Temple në orbitën sinkrone me diellin në nëntor 2025."
+    },
+    "mercosul": {
+      "name": "Bienalja e 13-të e Merkozurit",
+      "description": "Porto Alegre, Brazil. Kuruar nga Marcello Dantas me ndihmës kuratorë Laura Cattani, Munir Klamt, Tarsila Riso dhe Carolina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Ekipi i zhvillimit të satelitit u formua gjatë Workshop-it II ArtSat. Koordinuar nga Fabiane M. Borges, udhëzuar nga Lázaro Camargo, bashkëpunuar nga Ítalo Pinto Rodrigues, mbikëqyrur nga Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Koncepte të ngurta",
+      "description": "Udhëhequr nga Eduardo Dias. Të gjitha punimet e printimit 3D dhe mikroderdhjes së arit për kupolën skulpturale, duke transformuar ëndrrat dixhitale në realitet të metaleve të çmuara."
+    },
+    "ideaSpace": {
+      "name": "Hapësira e Ideve",
+      "description": "Startup-i brazilian i arsimit që po zhvillon kurrikulën e Programit Hapësinor Quebrada, gati për t'u aplikuar te nxënësit e shkollave të mesme në të gjithë Brazilin."
+    }
+  },
+  "closing": "Të interesuar të bashkëpunoni me Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Na kontaktoni</a> .",
+  "imageAlts": {
+    "riseNy": "Logoja e RiseNY&Partners",
+    "highestMantra": "Logoja jonë më e lartë e mantrës",
+    "allToSpace": "Logoja \"Gjithçka në Hapësirë\"",
+    "isro": "Logoja e ISRO-së",
+    "mercosul": "Logoja e Bienales së 13-të të Mercosur",
+    "inpe": "Logoja e Punëtorisë INPE ArtSat",
+    "solidConcepts": "Logoja e Solid Concepts",
+    "ideaSpace": "Logoja e Hapësirës së Idesë"
+  }
+}

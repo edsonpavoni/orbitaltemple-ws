@@ -1,0 +1,31 @@
+{
+  "title": "Mangidonar iti Orbital Temple",
+  "heading": "Kompletuem ti Donasionmo",
+  "donatingTo": "Agdonarkayo kadagiti:",
+  "chooseHow": "Piliem no kasano ti kayatmo a panangileppas iti donasionmo a maibabawi iti buis:",
+  "option1": {
+    "heading": "Pagpilian 1: Agdonar iti Online Ita",
+    "description": "Kompletuem a dagus ti donasionmo babaen ti credit card, debit card, wenno dadduma pay a pamay-an ti panagbayad iti online babaen ti natalged a fiscal sponsor-mi, <strong>ti The Field</strong> . Makaawatka iti instant tax receipt.",
+    "button": "Agdonar babaen ti The Field →"
+  },
+  "option2": {
+    "heading": "Pagpilian 2: Deposito iti Banko iti The Roy Foundation",
+    "description": "Mangaramid iti direkta a deposito iti banko wenno wire transfer iti <strong>The Roy Foundation</strong> , ti estratehiko a kasosyo ken piskal nga isponsortayo. Daytoy a pagpilian ket nasayaat para kadagiti dadakkel a donasion wenno internasional a panagyakar.",
+    "bankingInfo": "Impormasion iti Banko",
+    "fields": {
+      "accountName": "Nagan ti Kuenta:",
+      "bankName": "Nagan ti Banko:",
+      "accountNumber": "Numero ti Kuenta:",
+      "routingNumber": "Numero ti Panagruta:",
+      "swift": "SWIFT/BIC: 1.1.",
+      "reference": "Reperensia:"
+    },
+    "instructions": "Pangngaasi nga iraman ti &quot; <strong>Orbital Temple - {donationType}</strong> &quot; iti tay-ak ti reperensia. Kalpasan a makompletom ti panagyakarmo, ag-email kadakami iti <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> nga addaan kadagiti detalye ti panagyakarmo tapno maawatmo ti resibo ti buismo.",
+    "button": "Kontakenkami Maipapan iti Deposito →"
+  },
+  "taxInfo": {
+    "heading": "Panangted a Maibabawi iti Buis",
+    "description": "Ti Orbital Temple ket maysa a piskal nga inisponsoran a proyekto ti <strong>The Field (Performance Zone Inc.)</strong> , maysa a <strong>501(c)(3)</strong> a saan a makaganansia nga organisasion. Amin a kontribusion ti E.U. ket maibabawi iti buis agingga nga ipalubos ti linteg.",
+    "questions": "Saludsod kadi? Kontakenmi iti <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

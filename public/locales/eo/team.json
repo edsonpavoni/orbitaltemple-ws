@@ -1,0 +1,61 @@
+{
+  "title": "Teamo - Orbita Templo",
+  "heading": "Teamo",
+  "artist": "Edson Pavoni, artisto",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Administra produktanto",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospaca kaj Sisteminĝenierado",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronika Inĝenierarto",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Programaro",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Dezajno kaj Arkitekturo",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-presado",
+      "members": "Solidaj Konceptoj, sub la gvidado de Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D-Renderado",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Esplorado",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Ekspozicia Produktado, Fotografado kaj Enhavo-Kreado",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Silka Ekranumado de la Ekspozicio",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Eduka Projekto",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Komunikada Teamo",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Kairo"
+    },
+    "specialThanks": {
+      "heading": "Speciala Danko",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Solid, Rafael, Bruno, Rafael, Bruno RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Enorbita Templa Satelito"
+}

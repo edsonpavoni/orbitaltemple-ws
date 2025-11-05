@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Kuil Orbital",
+    "subtitle": "ialah karya seni dan satelit,\nbertujuan untuk menjadi kuil inklusif radikal,\ndi tempat yang tidak boleh dicapai oleh dinding."
+  },
+  "ritual": {
+    "label": "ritual"
+  },
+  "cta": {
+    "link": "Namun, kuil lain?",
+    "arrowAlt": "anak panah"
+  },
+  "dome": {
+    "alt": "Kubah"
+  }
+}

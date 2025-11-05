@@ -1,0 +1,13 @@
+{
+  "title": "收到通知 - 軌道神廟",
+  "heading": "當它升起時收到通知",
+  "description": "2025年11月28日，軌道神廟將升空。<br>留下您的電子郵件地址，我們會在飛船進入太空時通知您。",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "傳送",
+    "sendingButton": "正在發送...",
+    "successMessage": "等它上升到某個高度後，我們會聯絡你。",
+    "errorMessage": "出錯了，請重試。"
+  },
+  "backLink": "← 返回倒數計時"
+}

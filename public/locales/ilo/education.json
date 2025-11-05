@@ -1,0 +1,43 @@
+{
+  "title": "Edukasion & Open Source - Orbital nga Templo",
+  "heading": "Edukasion & Open Source",
+  "intro": {
+    "paragraph1": "Amin a teknolohia a napataud para iti mision ti Orbital Temple ket agbalinto nga <strong>open source</strong> ken magun-od iti online iti <strong>Portuges</strong> , <strong>Ingles</strong> , <strong>Espaniol</strong> , ken <strong>Hindi</strong> , a mangpataud iti panagrang-ay ti panagsukisok iti law-ang iti <strong>Sangalubongan nga Abagatan</strong> . Mabalin nga usaren dagiti baro a mision ken proyekto ti Orbital Temple kas pundasion para kadagiti bukodda nga artistiko wenno sientipiko nga eksperimento.",
+    "paragraph2": "Kas paset ti misionna iti edukasion, mangitukon ti Orbital Temple iti libre a multilingual a kurso no kasano ti agaramid ken mangilansa iti satellite. Maysa dayta a gundaway a maaramid ti ima tapno maammuan ti maipapan iti teknolohia ti satellite ken maipakat dayta. Asinoman a nasurok a <strong>16</strong> ti tawenna ket makaaramid iti bukodna a satellite, a makasursuro maipapan iti pakasaritaan ti arte iti law-ang, dagiti kangrunaan a konsepto ti elektroniko, mekanika ken siensia iti law-ang, agraman no kasano ti agpinansia kadagiti proyekto ken no kasano ti agaramid iti antena a makikomunikar kadagiti satellite iti orbit."
+  },
+  "spaceGap": {
+    "heading": "Apay a Napateg Daytoy: Ti Space Gap",
+    "paragraph1": "Ti termino <strong>a &quot;Space Gap&quot;</strong> ket mangibagbaga ti pannakabingbingay ti nagbaetan dagiti narang-ay a pagilian a makastrek kadagiti teknolohiko a gundaway a nagun-od babaen ti panagsukisok iti law-ang, ken dagiti agparparang-ay a pagilian nga awanan iti pannakagun-od kadagitoy a teknolohia. Dagiti pagilian iti Sangalubongan nga Abagatan ket masapul nga agbayadda kadagiti dakkel a gatad kadagiti ganggannaet a gobierno wenno kompania para iti kangrunaan a pannakagun-od iti impormasion a pinataud babaen dagiti teknolohia ti satellite.",
+    "paragraph2": "Mangipaay ti teknolohia iti law-ang kadagiti kritikal a pagimbagan: tumulong dagiti satellite a manglaban iti ilegal a panagtroso, ilegal a panagkalap, ken ilegal a panaglako kadagiti atap nga animal, a mangirepresentar iti nasurok a <strong>$73 bilion iti kada tawen</strong> . Mangipaayda kadagiti nasken nga impormasion maipapan iti klima, panagpataud iti danum, ken kinatalged ti taraon. Dagiti satellite ti mangpabalin iti eksakto nga irigasion ken teknik ti agrikultura, ken makatulong a manglapped kadagiti natural a didigra. Ti industria ti law-ang ket mabalin a mangpataud aginggana ti <strong>1 a riwriw a panggedan</strong> inton <strong>tawen 2030</strong> , kaskasdi dagitoy a gundaway ket agtalinaed a saan a madanon ti adu idiay Sangalubongan nga Abagatan.",
+    "paragraph3": "Babaen ti panangipaay iti open-source a teknolohia ken edukasion, panggepmi a demokratisaen ti pannakagun-od iti law-ang ken mangpabileg iti baro a kaputotan nga agarapaap iti labes ti langit."
+  },
+  "empowering": {
+    "heading": "Panangpabileg iti Sumaruno a Kaputotan",
+    "intro": "Isurotayo ti sumaruno a henerasion dagiti managsukisok iti law-ang no kasano ti mangaramid ken mangilansa kadagiti bukodda a satellite, a mangsaklaw kadagiti nasken a topiko a pakairamanan ti:",
+    "topics": {
+      "history": "<strong>Pakasaritaan ti arte iti law-ang:</strong> Pannakaawat ti linia dagiti artistiko a satellite ken dagiti obra ti arte a naibatay iti law-ang.",
+      "concepts": "<strong>Dagiti kangrunaan a konsepto:</strong> <strong>ArtSat</strong> (dagiti artistiko a satellite), <strong>Open Source</strong> a teknolohia ti law-ang, ken ti <strong>Space Gap</strong> .",
+      "missions": "<strong>Dagiti mision iti law-ang:</strong> Kasano ti agkonsepto ken agdisenio iti mision, ken no kasano ti mangbukel iti maysa a grupo a mangipatungpal iti dayta.",
+      "electronics": "<strong>Elektronika iti law-ang:</strong> Dagiti batayan a konsepto dagiti elektroniko a paset a mabalin nga agbiag ken agtignay iti aglawlaw ti law-ang.",
+      "mechanics": "<strong>Mekanika iti law-ang:</strong> Pannakaawat kadagiti estruktural ken mekanikal a kasapulan para iti disenio ti satellite.",
+      "orbits": "<strong>Orbit ken launcher:</strong> Nadumaduma a kita ti orbit ken no kasano ti agpili kadagiti mangipapaay iti panangipatayab para iti misionmo.",
+      "financing": "<strong>Dagiti estratehia ti panagpinansia:</strong> Kasano a masigurado ti pondo ken rekurso tapno mailansa ti satellite-yo. Ti kurso ket mangipaay kadagiti rekurso para iti pananggun-od iti pondo para iti panangiruarmo, a tumulong kadagiti estudiante a mangbirok kadagiti programa ken grant manipud kadagiti internasional nga institusion a mangsuporta kadagiti agtutubo a sientista ken estudiante iti panangipatulod kadagiti satelliteda iti law-ang.",
+      "groundStation": "<strong>Panagrang-ay ti estasion iti daga:</strong> Kasano ti mangaramid iti antena a makikomunikar iti Orbital Temple ken dadduma pay a satellite."
+    }
+  },
+  "technology": {
+    "heading": "Ti Teknolohia: Dagiti Satellite ti PocketQube",
+    "paragraph1": "Masursuro dagiti estudiante ti agtrabaho kadagiti satellite <strong>ti PocketQube</strong> , maysa a nanosatellite standard nga agrukod laeng <strong>iti 5cm3</strong> ken agdagsen agingga iti <strong>250g</strong> . Iti laksid ti bassit a kadakkelda, dagiti PocketQubes ket nabileg nga alikamen a makabael iti panagpaliiw, panangmonitor, ken komunikasion iti Daga.",
+    "paragraph2": "Dagitoy a kompakto a satellite ket addaan kadagiti adu a pudno a lubong nga aplikasion, manipud iti sientipiko a panagsukisok iti panagbalbaliw ti klima aginggana iti interkontinental a komunikasion. Gapu ta babbabassit ken nalaglag-an dagitoy, ad-adda a makabael a maibangon ken mailansa, isu nga ad-adda a madanon dagiti estudiante, managsirarak, ken artista ti espasio iti intero a lubong."
+  },
+  "globalAccess": {
+    "heading": "Sangalubongan a Panagserrek, Mangrugi manipud iti Sangalubongan nga Abagatan",
+    "paragraph1": "Mabalin a magun-od ti kurso ti asinoman <strong>nga agtawen iti 16 wenno natataengan pay</strong> , naan-anay <strong>a libre</strong> . Mangrugikami iti linaon iti <strong>Portuges</strong> , <strong>Espaniol</strong> , <strong>Ingles</strong> , ken <strong>Hindi</strong> , nga addaan kadagiti plano a mangpalawa kadagiti kanayonan a pagsasao bayat a dumakdakkel ti programa.",
+    "paragraph2": "Mangrugi ti misiontayo iti Global South ken dumanon iti lubong, a mangsigurado a ti sumaruno a henerasion dagiti managsukisok iti law-ang ket aggapu iti amin a suli ti Daga."
+  },
+  "callToAction": {
+    "heading": "Tulongandakami a Mapasamak Daytoy",
+    "content": "Daytoy a programa ti edukasion ket agdama a mapatpataud. Agsapsapulkami kadagiti kasosyo ken donasion a makibingbingay iti sirmatami a mangdemokratisa iti pannakagun-od iti teknolohia iti law-ang. No kayatyo wenno ti organisasionyo a suportaran daytoy nga aramid, pangngaasiyo ta bisitaenyo <a href=\"/support\">ti panid ti suportami</a> tapno maammuanyo dagiti gundaway ti panagkadua."
+  },
+  "imageAlt": "Satellite ti Templo ti Orbital"
+}

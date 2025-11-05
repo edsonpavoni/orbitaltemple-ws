@@ -1,0 +1,31 @@
+{
+  "title": "Donearje oan Orbital Temple",
+  "heading": "Foltôgje jo donaasje",
+  "donatingTo": "Jo donearje oan:",
+  "chooseHow": "Kies hoe't jo jo belestingôftrekbere donaasje foltôgje wolle:",
+  "option1": {
+    "heading": "Opsje 1: Donearje no online",
+    "description": "Folje jo donaasje direkt yn mei in kredytkaart, pinpas of oare online betelmethoden fia ús feilige finansjele sponsor, <strong>The Field</strong> . Jo krije direkt in belestingbewiis.",
+    "button": "Donearje fia The Field →"
+  },
+  "option2": {
+    "heading": "Opsje 2: Bankdeposito oan The Roy Foundation",
+    "description": "Doch in direkte bankstorting of oerdracht nei <strong>The Roy Foundation</strong> , ús strategyske partner en finansjele sponsor. Dizze opsje is ideaal foar gruttere donaasjes of ynternasjonale oerdrachten.",
+    "bankingInfo": "Bankynformaasje",
+    "fields": {
+      "accountName": "Akkountnamme:",
+      "bankName": "Banknamme:",
+      "accountNumber": "Akkountnûmer:",
+      "routingNumber": "Routingnûmer:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referinsje:"
+    },
+    "instructions": "Nim asjebleaft &quot; <strong>Orbital Temple - {donationType}</strong> &quot; op yn it referinsjefjild. Nei it foltôgjen fan jo oerdracht, stjoer ús in e-post nei <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> mei jo oerdrachtgegevens om jo belestingbewiis te ûntfangen.",
+    "button": "Kontakt mei ús opnimme Oer boarchsom →"
+  },
+  "taxInfo": {
+    "heading": "Belestingôftrekbere jeften",
+    "description": "Orbital Temple is in fiskaal sponsore projekt fan <strong>The Field (Performance Zone Inc.)</strong> , in non-profit organisaasje <strong>501(c)(3)</strong> . Alle bydragen oan &#39;e FS binne belestingôftrekber foar safier&#39;t de wet dat talit.",
+    "questions": "Fragen? Nim kontakt mei ús op fia <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

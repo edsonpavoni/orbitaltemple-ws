@@ -1,0 +1,13 @@
+{
+  "title": "Jakinaraziak izan - Orbital Temple",
+  "heading": "Jaso jakinarazpena igotzen denean",
+  "description": "2025eko azaroaren 28an, Orbital Tenplua igoko da.<br> Utzi zure e-posta, eta espaziora iristen denean esango dizugu.",
+  "form": {
+    "emailPlaceholder": "zure@posta.com",
+    "sendButton": "Bidali",
+    "sendingButton": "Bidaltzen...",
+    "successMessage": "Igotzen denean iritsiko gara zuregana.",
+    "errorMessage": "Zerbait gaizki joan da. Saiatu berriro."
+  },
+  "backLink": "← Atzerako kontaketaren atalera itzuli"
+}

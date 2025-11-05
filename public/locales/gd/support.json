@@ -1,0 +1,167 @@
+{
+  "title": "Cuir taic ri Teampall Orbital - Thig còmhla ris a’ Mhisean",
+  "heading": "Taic Teampall Orbital",
+  "vision": "Air <strong>28 Samhain, 2025</strong> , thèid <strong>Orbital Temple</strong> a chur air bhog à <strong>na h-Innseachan</strong> air bòrd rocaid <strong>ISRO</strong> . ’S e saideal ealain com-pàirteach bhon taobh a deas den Chruinneil a th’ ann, ’s e carragh-cuimhne a th’ ann airson in-ghabhail radaigeach, àrd-ùrlar airson foghlaim, agus brosnachair airson còmhradh cruinneil mu àm ri teachd nan naomh ann an aois teicneòlais, AI agus rannsachadh fànais.",
+  "videoCaption": "Ro-ràdh bhidio Teampall Orbital, 1 mionaid.",
+  "accomplished": {
+    "heading": "Na tha sinn air a choileanadh",
+    "content": "Às dèidh ceithir bliadhna de rannsachadh is leasachadh, tha am misean deiseil. Tha sinn air <strong>leasachadh bathar-cruaidh is bathar-bog</strong> a chrìochnachadh airson an t-saideal, air <strong>deuchainnean crithidh oifigeil</strong> a tha a dhìth airson teisteanas itealaich a thoirt seachad, agus air ar cùmhnant le ISRO a chrìochnachadh. Tha an saideal air a thogail. Tha an teicneòlas ag obair. Tha sinn air ar ceadachadh airson a chur air bhog."
+  },
+  "funding": {
+    "heading": "Adhartas Maoineachaidh",
+    "raised": "air a thogail de",
+    "of": "de",
+    "goal": "amas",
+    "button": "Cuir taic ris a’ Mhisean"
+  },
+  "needs": {
+    "heading": "Na tha a dhìth oirnn taic airson",
+    "intro": "Gus an rùn eachdraidheil seo a choileanadh agus a bhuaidh a mheudachadh, feumaidh sinn taic airson còig pàirtean deatamach:",
+    "launch": {
+      "title": "Cosgaisean cur air bhog ISRO:"
+    },
+    "travel": {
+      "title": "Turas Neach-ealain dhan Innseachan:"
+    },
+    "carbon": {
+      "title": "Prògram Co-dhìolaidh Carbon:"
+    },
+    "education": {
+      "title": "Prògram Foghlaim:"
+    },
+    "docPreProd": {
+      "title": "Ro-riochdachadh Prògram Aithriseach:"
+    },
+    "docProd": {
+      "title": "Riochdachadh Prògram Aithriseach:"
+    }
+  },
+  "decade": {
+    "heading": "An Deichead Ri Teachd",
+    "intro": "Chan eil an misean seo a’ tighinn gu crìch air 28 Samhain, 2025. Tha e dìreach a’ tòiseachadh.",
+    "paragraph1": "Airson nan <strong>10 bliadhna</strong> a tha romhainn, bidh an saideal seo a’ cuairteachadh na Talmhainn, a’ freagairt ainmean a thèid a chur bho gach ceàrnaidh den phlanaid. Tha am prògram foghlaim ag amas air <strong>mìltean de dheugairean</strong> a thrèanadh ann an teicneòlas saideal, a’ briseadh <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Beàrn Fànais</a> airson a’ Chruinneil a Deas. Ruigidh am prògram aithriseach <strong>milleanan</strong> air feadh an t-saoghail, a’ brosnachadh chòmhraidhean mu bhuinteanas, cuimhne, agus an naomhachd.",
+    "paragraph2": "Tha Orbital Temple ag obair còmhla ri <strong>Sathi Roy</strong> agus <strong>The Roy Foundation</strong> gus an lèirsinn deich bliadhna seo a dhèanamh cudromach gu cultarail. Tha The Roy Foundation na bhuidheann neo-phrothaideach a tha coisrigte ri ruigsinneachd gu foghlam spioradail, slànachadh tòcail, agus innealan mothachaidh a leudachadh airson coimhearsnachdan fo-sheirbheisichte air feadh an t-saoghail, a’ ceangal seann ghliocas agus teicneòlas ùr-nodha gus saoghal nas mothachaile, nas ceangailte agus nas truacanta a chruthachadh. Còmhla, tha sinn a’ togail a’ bhun-structair gus dèanamh cinnteach gum bi Orbital Temple na ghluasad maireannach a ruigeas coimhearsnachdan air feadh na cruinne.",
+    "paragraph3": "Chan e a-mhàin gu bheil do thaic a’ maoineachadh cur air bhog; bidh e a’ cruthachadh gluasad a mhaireas airson deich bliadhna agus a bhrosnaicheas an ath ghinealach de luchd-ealain agus innleadairean fànais."
+  },
+  "waysToSupport": {
+    "heading": "Dòighean air Taic a thoirt",
+    "individualDonations": {
+      "heading": "Tabhartasan fa leth",
+      "intro": "Thig còmhla ris a’ mhisean aig ìre a tha ag obair dhutsa. ’S e luchd-taic fa leth bunait a’ phròiseict eachdraidheil seo.",
+      "orbitalFriend": {
+        "title": "Caraid Orbital",
+        "benefits": "Gheibh thu: Ainm air rolla urraim na làraich-lìn · Teisteanas pearsantaichte airson an orbit nuair a thèid saideal a chur air bhog · Creideas taing aithriseach · Cuidhteas a ghabhas a thoirt far chìsean",
+        "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+      },
+      "satelliteSupporter": {
+        "title": "Neach-taic Saideal",
+        "benefits": "Gheibh thu: A h-uile buannachd bho Orbital Friend · Cothrom sònraichte air aplacaid tracadh saideal · Teachdaireachd bhidio taing do luchd-ealain · Cuidhteas a ghabhas lasachadh bho chìsean",
+        "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+      },
+      "spaceAdvocate": {
+        "title": "Tagraiche Fànais",
+        "benefits": "Gheibh thu: A h-uile buannachd bho Thaic-taic Saideal · Ainm clò-bhuailte ann an creideasan aithriseach · Cuireadh gu sgrìonadh aithriseach prìobhaideach · Ùrachaidhean ràitheil bhon sgioba · Cuidhteas a ghabhas lasachadh bho chìsean",
+        "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Maoinich Pàirt Shònraichte",
+    "intro": "Bidh do thabhartas a’ maoineachadh taobhan sònraichte den mhisean gu dìreach. Tagh na tha a’ buntainn riut, no cuir grunn ri chèile gus buaidh nas motha a chruthachadh.",
+    "launch": {
+      "title": "Maoinich an Cur air bhog fànais",
+      "description": "Cosgais an fhìor chur air bhog air bòrd rocaid <strong>ISRO</strong> air <strong>28 Samhain, 2025.</strong> Cuiridh seo Orbital Temple a-steach do orbit, far am fuirich e airson deich bliadhna mar shaideal ealain com-pàirteach agus teampall anns na speuran, ruigsinneach do dhuine sam bith san t-saoghal.",
+      "benefits": "Gheibh thu: Tiotal \"Urrasair Cur air bhog\" · Air a nochdadh anns a h-uile fios naidheachd · Aithneachadh air prògram aithriseach air an sgrion · Cothrom VIP gu tachartasan cur air bhog · Thig còmhla ri gairmean bhidio ràitheil le Edson agus sgioba a’ mhisean · Teisteanas le dàta orbital saideal · Cuidhteas a ghabhas lasachadh bho chìsean",
+      "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+    },
+    "travel": {
+      "title": "Maoinich Turas an Neach-ealain dhan Innseachan",
+      "description": "Cosgaisean siubhail, àite-fuirich, agus riochdachaidh airson an neach-ealain Edson Pavoni agus an sgioba bunaiteach gus fianais a thoirt don chur air bhog anns <strong>na h-Innseachan air 28 Samhain, 2025.</strong> Tha an turas seo riatanach airson filmeadh aithriseach, craoladh nam meadhanan, agus riochdachadh Deas na Cruinne aig an àm eachdraidheil seo.",
+      "benefits": "Gheibh thu: Taing phearsanta bhon neach-ealain · Cothrom air prògraman aithriseach air cùl na seallaidhean · Ainm anns na creideasan prògraman aithriseach · Cuidhteas a ghabhas lasachadh bho chìsean",
+      "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+    },
+    "carbon": {
+      "title": "Maoinich am Prògram Co-dhìolaidh Carbon",
+      "description": "Thèid a h-uile sgaoilidhean gualain a neodachadh, a’ gabhail a-steach cur air bhog an rocaid agus togail an t-saideal. Tha sinn ag obair le prògraman dearbhte airson cothromachadh gualain gus dèanamh cinnteach nach fhàg am misean seo lorg-coise àicheil àrainneachdail.",
+      "benefits": "Gheibh thu: Ainm air rolla onair na làraich-lìn · Teisteanas pearsanaichte · Cuidhteas a ghabhas toirt air falbh bho chìsean",
+      "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+    },
+    "education": {
+      "title": "Maoineachadh a’ Phrògraim Foghlaim",
+      "description": "Leasaich agus cuir air bhog a’ chùrsa ioma-chànanach iomlan a bhios a’ teagasg do dheugairean Deas na Cruinne mar a thogas iad saidealan. A’ gabhail a-steach leasachadh churaicealaim, riochdachadh bhidio, aoigheachd àrd-ùrlair, agus a’ chiad bhliadhna de sgoilearachdan do dh’ oileanaich fo-sheirbheisichte. Cruthaich bun-structar maireannach airson foghlam fànais.",
+      "benefits": "Gheibh thu: Aithneachadh mar “Urrasair Stèidheachaidh Foghlaim” · Sgoilearachdan nad ainm · Air a nochdadh ann an stuthan foghlaim · Coinnich ris a’ chiad cho-chruinneachadh de dh’ oileanaich a fhuair maoineachadh bhon sgoilearachd agad (brìgheil no gu pearsanta) · Earrann feart den phrògram aithriseach · Cothrom labhairt aig tachartasan cur air bhog · Cuidhteas a ghabhas lasachadh bho chìsean",
+      "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+    },
+    "docPreProd": {
+      "title": "Maoinich ro-riochdachadh an aithriseachd",
+      "description": "Maoinich a’ chiad ìre den phrògram aithriseach <strong>“Dè a nì Teampall?”</strong> . A’ gabhail a-steach dà agallamh dhomhainn a dhèanamh anns <strong>na h</strong> -Innseachan le stiùirichean smaoineachaidh agus luchd-dreuchd spioradail, siubhal is riochdachadh sgioba bhig, agus deasachadh fhilmichean ro-riochdachaidh. Tha an ìre seo a’ stèidheachadh bunait an phrògram aithriseach agus a’ dearbhadh an stiùiridh chruthachail.",
+      "benefits": "Gheibh thu: Creideas Riochdaire Co-cheangailte · Ainm ann an creideasan aithriseach · Sgrùdadh prìobhaideach de dhealbhan ro-riochdachaidh · Cothrom air cùl na seallaidhean · Cuidhteas lasachaidh cìse",
+      "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+    },
+    "docProd": {
+      "title": "Maoinich an Riochdachadh Aithriseach",
+      "description": "Riochdachadh is iar-riochdachadh coileanta de <strong>&quot;What Makes a Temple?&quot;</strong> , am prògram aithriseach a tha a’ sgrùdadh eadar-ghearradh ealain, teicneòlais, agus an naomhachd. A’ gabhail a-steach filmeadh ann an iomadh dùthaich, agallamhan a bharrachd le stiùirichean smaoineachaidh, deasachadh coileanta, ìrean dath, dealbhadh fuaim, agus taisbeanaidhean tùsail anns <strong>na h-Innseachan</strong> agus <strong>Cathair New York</strong> .",
+      "benefits": "Gheibh thu: Creideas Riochdaire Gnìomhach · Air a nochdadh ann an creideasan fosglaidh · Taisbeanadh prìobhaideach airson d’ aoighean · Cuiridhean airson a’ chiad phrògram den chiad shealladh (an dà bhaile) · Dìnnear prìobhaideach le Edson agus stiùiriche an aithriseachd ron chiad shealladh · Cothrom air cùl na seallaidhean · Cuidhteas a ghabhas lasachadh bho chìsean",
+      "button": "Dèan Tabhartas a ghabhas Lasachadh bho Chìsean"
+    },
+    "artCollector": {
+      "title": "Bi mar an aon neach-cruinneachaidh ealain teampall orbital",
+      "imageAlt": "Stàladh Teampall Orbital aig Biennal Mercosul",
+      "imageCaption": "Teampall Orbital aig an 13mh Mercosul Biennial, Porto Alegre. Dealbh le Clara Marques.",
+      "paragraph1": "Chaidh trì saidealan co-ionann a thogail airson a’ mhisean seo. Thèid <strong>aon</strong> a chur air bhog dhan fhànais air 28 Samhain, 2025. Bidh <strong>aon</strong> a’ siubhal gu taisbeanaidhean taigh-tasgaidh air feadh an t-saoghail. Tha <strong>aon</strong> glèidhte airson neach-cruinneachaidh fialaidh a tha airson an lèirsinn seo a mhaoineachadh agus pìos eachdraidh ealain fànais a bhith aige fhèin.",
+      "paragraph2": "Chan e leth-bhreac a tha seo; &#39;s e aon de na trì saidealan tùsail a th&#39; ann. <strong>Soitheach-fànais làn-ghnìomhach</strong> a tha cuideachd na <strong>dheilbh</strong> . Tha an saideal <strong>5cm³</strong> a dh&#39;fhaid agus tha e <strong>245g</strong> a chuideam, le cruinneach air a dhèanamh le <strong>òr</strong> .",
+      "paragraph3": "Is e seo <strong>obair-ealain 1/1</strong> .",
+      "paragraph4": "Mar neach-cruinneachaidh, gheibh thu an aon stàladh a chaidh a chruthachadh airson <strong>13mh Biennale Mercosul</strong> , taisbeanadh taigh-tasgaidh iomlan a tha a’ taisbeanadh an t-saideal mar ealain agus mar theicneòlas. Chaidh an stàladh seo a thaisbeanadh aig prìomh ionadan eadar-nàiseanta agus tha e a’ riochdachadh an ìre as àirde de thaisbeanadh ealain fànais.",
+      "paragraph5": "Bidh an taic agad a’ cuideachadh le bhith a’ maoineachadh na lèirsinn gu lèir: an cur air bhog, am prògram foghlaim, agus am prògram aithriseach a bhrosnaicheas còmhraidhean cruinneil mu na naomhachd ann an aois teicneòlais, AI agus rannsachadh fànais. Bidh d’ ainm ceangailte gu buan ris a’ mhisean eachdraidheil seo.",
+      "button": "Faighnich mun chothrom seo"
+    }
+  },
+  "gratitude": {
+    "heading": "Le taing dha na luchd-taic againn",
+    "intro": "Tha Orbital Temple air a dhèanamh comasach le institiudan, daoine fa leth, agus luchd-creideimh ann an in-ghabhail radaigeach a tha a’ tuigsinn gur e ealain a chruthaicheas mac-meanmna an ama ri teachd.",
+    "pearmill": {
+      "title": "Neach-taic Stèidheachaidh",
+      "description": "’S e Pearmill aon de na buidhnean margaidheachd coileanaidh as luaithe a tha a’ fàs anns na SA, buidheann de dhealbhadairean, luchd-margaidheachd agus innleadairean ag obair còmhla gus cuid de na gnìomhachasan ùra as suaicheanta san t-saoghal a leasachadh. Leis an taic fhialaidh aca, b’ urrainn don sgioba Orbital Temple co-phàirtean deatamach a cheannach agus am bathar-cruaidh stòr fosgailte a leasachadh a tha a’ dèanamh a’ mhisean saideal seo comasach."
+    },
+    "yourName": "Dh’fhaodadh d’ ainm a bhith an seo. Thig còmhla rinn ann a bhith a’ cruthachadh eachdraidh."
+  },
+  "people": {
+    "heading": "Na Daoine air Cùl a’ Mhisean seo",
+    "intro": "’S e gealladh 10 bliadhna a th’ ann an Teampall Orbital. Tha e air a stiùireadh le dithis a chuir seachad am beatha a’ ceangal ealain, teicneòlais, agus ceanglaichean daonna, agus a tha a’ togail a’ bhun-structair gus an lèirsinn seo a chumail suas airson na deich bliadhna a tha romhainn.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Neach-ealain & Teicneòlaiche",
+      "paragraph1": "’S e neach-ealain agus teicneòlaiche a th’ ann an Edson a bhios a’ sgrùdadh dlùth-cheangal daonna aig crois-rathad ealain is teicneòlais. Tha a chleachdadh a’ gabhail a-steach stàlaidhean ailtireil, bàrdachd, togail dhealbhan, agus teicneòlas saideal.",
+      "paragraph2": "Chaidh an obair aige a thaisbeanadh aig an 13mh Biennale Mercosul (Brazil), an IX Biennale Eadar-nàiseanta (Usbekistan), agus Duais Ealain Didseatach Cruinneil NTU (Singapore).",
+      "paragraph3": "Le còrr is <strong>20 bliadhna de dh&#39;eòlas ann an raon na h-ealain is na teicneòlais</strong> , tha e air a bhith ag obair le sgiobaidhean cruthachail airson <strong>Oiliompaics Rio 2016</strong> agus <strong>Banca Leasachaidh Eadar-Ameireaganach</strong> . Air ainmeachadh mar aon de na <strong>50 proifeiseantaich as ùr-ghnàthach à Brasil</strong> le Iris Proxxima, fhuair e dà <strong>Dhuais Dealbhaidh IF</strong> às dèidh a chèile (2017-2018) agus bha e na thagraiche airson <strong>Duais Lumen Prize Futures</strong> . Chaidh an obair aige a thaisbeanadh ann an dà thaisbeanadh dà-bhliadhnail agus aig <strong>Taigh-tasgaidh Ealain Co-aimsireil Ludwig</strong> (Budapest), <strong>Institiud Inhotim</strong> (Brazil), agus <strong>Taigh-tasgaidh Dealbhaidh is Fasan</strong> (Lisbon), le taisbeanaidhean ann an New York, Beijing, Singapore, Dubai, Rio de Janeiro, agus bailtean eile."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Bunaitsear, Bunait Roy & Com-pàirtiche Ro-innleachdail",
+      "paragraph1": "’S e Sathi a stèidhich <strong>Bunait Roy</strong> , buidheann neo-phrothaideach a tha coisrigte ri ruigsinneachd a leudachadh gu foghlam spioradail, slànachadh tòcail, agus innealan mothachaidh airson coimhearsnachdan fo-sheirbheisichte air feadh an t-saoghail. Bidh am bunait a’ com-pàirteachadh le sgoiltean, ionadan cultarail, agus buidhnean ionadail gus innealan sunnd cumhachdach AI, curraicealam coimhearsnachd, agus meadhanan a bhrosnaicheas cruth-atharrachadh a sgaoileadh.",
+      "paragraph2": "Le cùl-fhiosrachadh ann an saidheans-eanchainn, coidsidh, agus ceannardas, tha Sathi air sgiobaidhean a thogail agus a stiùireadh air feadh Ameireaga a Tuath agus na h-Innseachan, a’ gineadh <strong>$600 millean</strong> ann an reic bhliadhnail aig aon iomairt. ’S i cuideachd a stèidhich <strong>OHM</strong> , gluasad spioradail didseatach an-toiseach, Co-stèidheadair <strong>SUTE</strong> (àrd-ùrlar oifis didseatach air a stiùireadh le AI), agus tha i na Comhairliche agus Ceannard Fàs Cruinneil airson <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Mar bhoireannach Bengali-Ameireaganach a tha a’ ceangal feallsanachdan an Ear agus an Iar, tha Sathi a’ toirt sealladh sònraichte do ghluasadan spioradail is ealanta san 21mh linn. Le lìonra a tha a’ sìor fhàs de <strong>65,000+ neach-leantainn</strong> agus còrr is <strong>40 millean beachd air-loidhne</strong> , tha i a’ togail choimhearsnachdan cruinneil a tha a’ ceangal thar beàrnan cultarail is spioradail."
+    },
+    "together": "Còmhla ri Bunait Roy, tha sinn a’ togail misean 10-bliadhna a bhios a’ ceangal ealain, teicneòlas, foghlam, agus an naomh, a’ tòiseachadh le cur air bhog saideal air 28 Samhain, 2025, agus a’ leantainn air adhart le gluasad a ruigeas coimhearsnachdan fo-sheirbheisichte air feadh an t-saoghail agus a bhrosnaicheas an ath ghinealach."
+  },
+  "join": {
+    "heading": "Thig còmhla rinn",
+    "content": "Tha an saideal air a thogail. Tha an teicneòlas deiseil. Tha ceann-latha an cur air bhog air a shuidheachadh: <strong>28 Samhain, 2025.</strong> Is e seo an t-àm airson a dhol a-steach do mhisean a tha ag ath-aithris dè as urrainn do ealain a dhèanamh, càit an urrainn dhi a dhol, agus cò as urrainn dhi seirbheis a thoirt dha.",
+    "fundSpecific": {
+      "heading": "Maoinich Pàirt Shònraichte no Bi nad Chom-pàirtiche Stèidheachaidh",
+      "description": "Tagh aon de na cothroman maoineachaidh gu h-àrd, faighnich mu bhith nad neach-cruinneachaidh ealain, no bruidhinn mu urrasachd gnàthaichte a tha a rèir do lèirsinn.",
+      "button": "Cuir fios thugainn gus tòiseachadh →"
+    },
+    "generalDonation": {
+      "heading": "Dèan tabhartas a ghabhas toirt air falbh bho chìsean",
+      "description": "Bidh a h-uile tabhartas, mòr no beag, a’ toirt taic don mhisean agus faodar an toirt far chìsean tron urrasair ionmhais againn, The Field.",
+      "button": "Thoir seachad tro The Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Tabhartasan a ghabhas toirt dheth bho chìsean",
+    "paragraph1": "’S e pròiseact a th’ ann an Orbital Temple a tha air a mhaoineachadh gu h-ionmhasail le <strong>The Field (Performance Zone Inc.)</strong> , buidheann neo-phrothaideach <strong>501(c)(3)</strong> stèidhichte ann an New York. Tha a h-uile tabhartas sna SA ceadaichte airson lasachadh cìse cho fad ’s a tha an lagh a’ ceadachadh.",
+    "paragraph2": "<strong>An Achadh</strong><br> 75 Maiden Lane, Seòmar 906<br> Eabhraig Nuadh, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">an raon.org</a>",
+    "paragraph3": "Nuair a bhios tu a’ dèanamh tabhartasan le seic, dèan pàighteach gu <strong>Performance Zone Inc.</strong> leis a’ mheòrachan: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

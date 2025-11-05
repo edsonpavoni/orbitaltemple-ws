@@ -1,0 +1,17 @@
+{
+  "title": "Tehniki maglumatlar - Orbital ybadathana",
+  "heading": "Tehniki maglumatlar",
+  "satellite": {
+    "heading": "Sputnik",
+    "specs": "Ölçegleri: 50x58x64 mm<br /> 1P PocketQube<br /> Agramy: 245 gr<br /> Materiallar: alýumin, altyn, süýümli aýna we elektron bölekleri.<br /> Orbitasy: 525 ± 25 km belentlik; meýilli: SSO 97,6 ± 0,1 °<br /> Işlediji: ISRO tarapyndan dolandyrylýan PSLV (Polýar hemra uçuryjy ulag)"
+  },
+  "antenna": {
+    "heading": "Antenna / heýkeltaraşlyk",
+    "specs": "Ölçegleri: 6 m (diametri) e 1,2 m (beýiklik)<br /> Agramy: 46 kg<br /> Materiallar: alýumin, epoksi aýnaly tagta, kükürt gurluşy arkaly asylan altyn alýumin gümmez."
+  },
+  "radio": {
+    "heading": "Radio aýratynlyklary",
+    "specs": "Aşakdaky baglanyşyk: 468.5 MGs<br /> Modulýasiýa: CSS<br /> Zolak giňligi: TBD"
+  },
+  "imageAlt": "Orbital ybadathana hemrasy"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Ozi nka - Orbital Temple",
+  "heading": "Ozi nka",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Akụkụ: 50x58x64 mm<br /> 1P PocketQube<br /> Arọ: 245 gr<br /> Akụrụngwa: aluminum, gold, fiberglass, na electronic components.<br /> Orbit: Elu 525 ± 25 km; ọchịchọ: SSO 97.6 ± 0.1°<br /> Ihe mmalite: PSLV (Ụgbọ Mwepụta Satellite Polar) nke ISRO na-arụ"
+  },
+  "antenna": {
+    "heading": "Antenna/ihe ọkpụkpụ",
+    "specs": "Akụkụ: 6m (dayameta) na 1.2m (ịdị elu)<br /> Arọ: 46kg<br /> Akụrụngwa: aluminom, osisi epoxy mirrored, dome aluminom ọla edo kwụsịtụrụ site na nhazi ihe nrụnye."
+  },
+  "radio": {
+    "heading": "Nkọwapụta redio",
+    "specs": "Ọdịda ala: 468.5 MHz<br /> Mgbanwe: CSS<br /> Bandwit: TBD"
+  },
+  "imageAlt": "Satellite Temple Orbital"
+}

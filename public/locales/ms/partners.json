@@ -1,0 +1,50 @@
+{
+  "title": "Rakan kongsi - Kuil Orbital",
+  "heading": "rakan kongsi",
+  "intro": "Kuil Orbit wujud melalui kemurahan hati, kepakaran dan visi rakan kongsi yang luar biasa. Daripada satelit kejuruteraan hingga mencipta naratif, daripada membuka pintu di negara yang jauh hingga melakar impian dalam emas, setiap kerjasama membawa kuil ini lebih dekat dengan bintang.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikasi, pengalaman bersepadu dan imejan 3D yang menakjubkan yang menghidupkan penglihatan satelit sebelum ia menyentuh ruang kosong."
+    },
+    "highestMantra": {
+      "name": "Mantra Tertinggi Kami",
+      "description": "Diketuai oleh Sathi Roy, menghubungkan Kuil Orbital dengan komuniti rohani dan seni India. Membuka laluan kepada pengumpulan dana, pertukaran budaya dan pameran Art Basel selepas pelancaran November 2025."
+    },
+    "allToSpace": {
+      "name": "Semua ke Angkasa",
+      "description": "Pakar satelit kecil Brazil. Empat tahun kerjasama membina platform perkakasan sumber terbuka dan merintis proses untuk menghantar seni ke orbit dari Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organisasi Penyelidikan Angkasa India. Pelancaran penyedia untuk misi PSLV yang membawa Kuil Orbital ke orbit segerak matahari pada November 2025."
+    },
+    "mercosul": {
+      "name": "Dwitahunan Mercosur ke-13",
+      "description": "Porto Alegre, Brazil. Diurus oleh Marcello Dantas dengan penolong kurator Laura Cattani, Munir Klamt, Tarsila Riso dan Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Bengkel INPE / ArtSat",
+      "description": "Pasukan pembangunan satelit dibentuk semasa Bengkel ArtSat II. Diselaraskan oleh Fabiane M. Borges, diarahkan oleh Lázaro Camargo, dengan kerjasama Ítalo Pinto Rodrigues, diselia oleh Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Konsep Pepejal",
+      "description": "Diketuai oleh Eduardo Dias. Semua cetakan 3D dan tuangan mikro emas berfungsi untuk kubah arca, mengubah impian digital menjadi realiti logam berharga."
+    },
+    "ideaSpace": {
+      "name": "Ruang Idea",
+      "description": "Permulaan pendidikan Brazil membangunkan kurikulum Program Angkasa Quebrada, sedia untuk digunakan kepada pelajar sekolah menengah di seluruh Brazil."
+    }
+  },
+  "closing": "Berminat untuk bekerjasama dengan Kuil Orbital? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Jangkau</a> .",
+  "imageAlts": {
+    "riseNy": "Logo RiseNY&Partners",
+    "highestMantra": "Logo Mantra Tertinggi Kami",
+    "allToSpace": "Semua kepada Logo Angkasa",
+    "isro": "Logo ISRO",
+    "mercosul": "Logo Dwitahunan Mercosur ke-13",
+    "inpe": "Logo Bengkel INPE ArtSat",
+    "solidConcepts": "Logo Konsep Pepejal",
+    "ideaSpace": "Logo Ruang Idea"
+  }
+}

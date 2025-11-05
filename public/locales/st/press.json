@@ -1,0 +1,138 @@
+{
+  "title": "Tobetsa & Media - Orbital Temple",
+  "heading": "Tobetsa & Media",
+  "pressContact": {
+    "heading": "Tobetsa Contact",
+    "content": "Bakeng sa lipotso tsa boralitaba, lipuisano, le likopo tsa media:<br /> <strong>Lengolo-tsoibila:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Webosaete:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Mabapi le Morero",
+    "paragraph1": "Orbital Temple ke mosebetsi oa bonono le sathelaete e ikemiselitseng ho ba tempele e kenyeletsang batho bohle, e hahiloeng moo ho se nang marako a ka fihlang. E entsoe ke sebini sa Brazil Edson Pavoni, setaki ka mor'a Sehopotso sa Inumeráveis se fihlileng ho motho a le mong ho batho ba 6 ba Brazil nakong ea seoa sa COVID, morero ona o memela batho ho tsoa lefats'eng ka bophara ho romella lebitso la motho eo ba lakatsang ho mo hopola. Mabitso ana a fetisetsoa ho sathelaete ka orbit, ho theha sehopotso se kopaneng.",
+    "paragraph2": "Ka websaete e fumanehang ka lipuo tse 136, barupeluoa ba kopanela moetlong o mocha. Tempele ea Orbital e hlahloba lihlooho tsa ho kenyeletsa, mohopolo, le botho ba rona bo arolelanoang, ho botsa hore na ke hobane'ng ha ho se na tempele ea sebele Lefatšeng e ka amohelang motho e mong le e mong, 'me e fana ka maikutlo a sebaka e le sebaka se le seng feela moo ho ka bang teng kakaretso e feteletseng."
+  },
+  "aboutArtist": {
+    "heading": "Mabapi le Moetsi oa",
+    "paragraph1": "<strong>Edson Pavoni</strong> ke sebini sa Brazil seo leeto la hae le qalileng literateng tsa São Paulo, moo maemo a bofutsana le pefo a ileng a theha lilemo tsa hae tsa pele. Naheng eo ho eona Bokreste bo faneng ka tsela ea ho tloha literateng, lithethefatsi le pefo, Pavoni o ile a fumana setšabelo tumelong, e leng sehlooho seo hamorao, ha e se e le mohlahlobisisi oa tlhekefetso ea bolumeli, se neng se tla tsebisa tšebetso ea hae ea bonono.",
+    "paragraph2": "Ka 2020, nakong ea seoa sa COVID-19, Pavoni o ile a theha <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (e se nang palo)</a></strong> , e leng mosebetsi oa bonono mateanong a bonono le boralitaba. Morero o ile oa buisana le malapa a likete le ho ngola lipale tsa ba lahlehetsoeng ke seoa sena, ho theha sebaka moo mohopolo o fetang lipalo le lipalo. Lithothokiso, lipina le lisymphony li entsoe ka lipale tseo. Likoranta li ile tsa etsa likoahelo li sebelisa mabitso le nalane. Linaleli tsohle tsa Brazil tse kang Oscar ea hapang Fernanda Torres, le linaleli tse kang Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo le Lazaro Ramos, le ba bang ba bangata ba bala lipale tseo thelevisheneng ea naha. Morero o fihlile ho batho ba limilione tse 32, motho a le mong ho batho ba baholo ba bane ba Brazil. E ile ea fetoha marang-rang a pholiso, sefika se kopanetsoeng mohopolong.",
+    "paragraph3": "Ka mor’a lipuisano tse fetang likete tse leshome tse nang le mesarelo, ho ile ha hlaha mohlala: ha re bua ka motho ea shoeleng, re khetha likaroloana tsa pale ea bona joalokaha eka re ngolla molebeli oa heke oa paradeise lengolo la khothatso. Re etsa sohle seo re ka se khonang ho ba romela moo re lumelang hore ke leholimo. Mosebetsi ona o ile oa etsa hore ho be le kutloisiso e ncha: Litumelo tsa rona mabapi le hore na ke mang ea tšoaneloang ke leholimo li bopa ka ho toba hore na re amohela kapa re sa ba khetholle mang lefatšeng. Bo-ralikolone ba Mapotoketsi ba Brazil ba ne ba lumela hore Batho ba Batšo ha ba na meea; tumelo eo e ne e lokafatsa bokhoba. Haeba u le letsoalloa, haeba u tsoaletsoe sebakeng se fosahetseng kapa u rata motho ea fosahetseng, u ntse u bolelloa hore menyako ea leholimo e ne e koetsoe ho uena ho fihlela kajeno. Na ho na le pono ea bokamoso e sa tlalang ke ho hana?",
+    "paragraph4": "Ke kamoo Orbital Temple e ileng ea tsoaloa kateng."
+  },
+  "keyFacts": {
+    "heading": "Lintlha tsa Bohlokoa",
+    "artist": "<strong>Sebini:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Mofuta oa Morero:</strong> Mesebetsi ea bonono ea satellite, sebaka se ikhethileng sebakeng, moetlo o thehiloeng marang-rang",
+    "launchDate": "<strong>Letsatsi la ho qala:</strong> November 28, 2025",
+    "launchLocation": "<strong>Sebaka sa ho qala:</strong> Satish Dhawan Space Center, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> bophahamo ba 525km, Sun-synchronous",
+    "participation": "<strong>Ho nka karolo:</strong> E lokolohile, e bulehetse motho e mong le e mong lefatšeng ka bophara",
+    "namesSent": {
+      "heading": "<strong>Mabitso a Rometsoe ho Orbit:</strong>",
+      "caption": "<em>Palo e nchafalitsoeng ho tsoa ho database • E nchafalitsoe qetellong: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Likhau le ho ananeloa",
+    "mercosul": {
+      "title": "<strong>13th Mercosur Biennial</strong> (2022)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "E hlophisitsoeng ke Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Moputso oa Lumen oa 2022 - Khau ea Bokamoso</strong>",
+      "status": "E thathamisitsoe ka nako e telele"
+    },
+    "cubeDesign": {
+      "title": "<strong>Tlholisano ea CubeDesign 2021</strong>",
+      "award": "Mohlodi - Sehlopha sa ArtSat",
+      "org": "E khothalelitsoe ke Brazilian Institute of Space Research (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Sehlopha",
+    "content": "Orbital Temple e bōpiloe ka kopanelo le Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, le bohle ba tsoelang pele ho hlahisa mabitso bakeng sa tempele ena."
+  },
+  "pressCoverage": {
+    "heading": "E kenyelelitsoe ho / Tobetsa Ts'ebetso",
+    "paragraph1": "<em>Litaba le likarolo li tla eketsoa ha li ntse li fumaneha. Bakeng sa lintlha tse ncha, ka kopo ikopanye le sehlopha sa rona sa boralitaba.</em>",
+    "paragraph2": "Lipontšo le likarolo tse fetileng li kenyelletsa lipuo ho 13th Mercosul Bienal, kananelo e tsoang ho Moputso oa Lumen, le khetho ea Brazilian Institute of Space Research (INPE)."
+  },
+  "images": {
+    "heading": "Litšoantšo tse Phahameng ka ho Fetisisa bakeng sa Tšebeliso ea Khatiso",
+    "intro": "Litšoantšo tsohle li teng bakeng sa tšebeliso ea bohlophisi. Tobetsa setšoantšo leha e le sefe ho khoasolla faele e nang le qeto e phahameng.",
+    "installationPhotos": {
+      "heading": "Litšoantšo tsa Tempele ea Orbital",
+      "credit": "Ka kopo, mokitlane: \"Senepe sa Clara Marques / Tumelo ea Edson Pavoni, Orbital Temple\"",
+      "view01": "Kenyelletso View 01<br /> Senepe: Clara Marques<br /> ↓ Khoasolla li-High-Res (1.4 MB)",
+      "view02": "Kenyelletso View 02<br /> Senepe: Clara Marques<br /> ↓ Khoasolla li-High-Res (2.9 MB)",
+      "view03": "Kenyelletso View 03<br /> Senepe: Clara Marques<br /> ↓ Khoasolla Lintlha tse Phahameng (11 MB)",
+      "view04": "Kenyelletso View 04<br /> Senepe: Clara Marques<br /> ↓ Khoasolla li-High-Res (3.4 MB)",
+      "view05": "Pono ea ho Kena 05<br /> Senepe: Clara Marques<br /> ↓ Khoasolla li-High-Res (3.3 MB)",
+      "view06": "Kenyelletso View 06<br /> Senepe: Clara Marques<br /> ↓ Khoasolla li-High-Res (3.7 MB)",
+      "view07": "Kenyelletso View 07<br /> Senepe: Clara Marques<br /> ↓ Khoasolla li-High-Res (3.4 MB)",
+      "view08": "Kenyelletso View 08<br /> Senepe: Clara Marques<br /> ↓ Khoasolla li-High-Res (2.7 MB)",
+      "satelliteDesign": "Moqapi oa Satellite<br /> ↓ Khoasolla",
+      "antennaSculpture": "Lenakana/ Setsoantso<br /> ↓ Khoasolla"
+    },
+    "renders": {
+      "heading": "Liphetolelo tsa Tempele ea Orbital",
+      "credit": "Litlhaloso tsa 3D tsa Conceptual tsa Tempele ea Orbital. Ka kopo mokitlane: \"3D Rendering ka RiseNY&Partners / Tumelo ea Edson Pavoni, Orbital Temple\"",
+      "render01": "Tlhaloso ea 3D 01<br /> RiseNY &amp; Balekane<br /> ↓ Khoasolla Lintlha tse Phahameng (10 MB)",
+      "render02": "Tlhaloso ea 3D 02<br /> RiseNY &amp; Balekane<br /> ↓ Khoasolla li-High-Res (5.9 MB)",
+      "render03": "Setšoantšo sa 3D 03<br /> RiseNY &amp; Balekane<br /> ↓ Khoasolla li-High-Res (5.2 MB)",
+      "render04": "Setšoantšo sa 3D 04<br /> RiseNY &amp; Balekane<br /> ↓ Khoasolla li-High-Res (11 MB)",
+      "render05": "Setšoantšo sa 3D 05<br /> RiseNY &amp; Balekane<br /> ↓ Khoasolla Lintlha tse Phahameng (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Lifoto tsa Moetsi",
+      "photo1": "Senepe 1<br /> ↓ Khoasolla li-High-Res",
+      "photo2": "Senepe 2<br /> ↓ Khoasolla li-High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy Photos",
+      "photo1": "Senepe 1<br /> ↓ Khoasolla High-Res (843 KB)",
+      "photo2": "Senepe 2<br /> ↓ Khoasolla li-High-Res (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Litlhaloso tsa Tekheniki",
+    "satellite": {
+      "heading": "Sathelaete",
+      "dimensions": "Litekanyo: 50 x 58 x 64 mm",
+      "classification": "Sehlopha: 1P PocketQube",
+      "weight": "Boima ba 'mele: 245g",
+      "materials": "Lisebelisoa: Aluminium, khauta, fiberglass, lisebelisoa tsa elektroniki",
+      "orbit": "Orbit: Bophahamo ba 525 ± 25 km; Tšekamelo: SSO 97.6 ± 0.1°",
+      "launch": "Ho qala: La 28 Pulungoana 2025 ka ISRO, India"
+    },
+    "antenna": {
+      "heading": "Lenakana/ Setsoantso",
+      "dimensions": "Litekanyo: 6m bophara x 1.2m bophahamo",
+      "weight": "Boima ba 'mele: 46 lik'hilograma",
+      "materials": "Lisebelisoa: Aluminium, boto ea seipone ea epoxy, dome ea khauta ea aluminium e emisitsoeng ka sebopeho sa scaffolding"
+    },
+    "radio": {
+      "heading": "Litlhaloso tsa Radio",
+      "downlink": "Khokahano e tlase: 437 MHz",
+      "status": "Boemo ba ho Qala: Re reretsoe la 28 Pulungoana 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Lisebelisoa tse Eketsehileng",
+    "artwork": "→ Sheba Litokomane tsa Artwork",
+    "howItWorks": "→ Kamoo E Sebetsang Kateng",
+    "technicalInfo": "→ Boitsebiso ba Theknoloji",
+    "spaceLaunch": "→ Tlhahisoleseding ea ho Qala Sebaka",
+    "ritual": "→ Eba le Tloaelo"
+  },
+  "imageAlts": {
+    "installation": "Ho kenngoa ha Tempele ea Orbital ka Edson Pavoni",
+    "satelliteDesign": "Moralo oa Satellite oa Orbital Temple",
+    "antenna": "Setšoantšo sa Antenna sa Orbital Temple",
+    "render": "Orbital Temple 3D Rendering ka RiseNY&Partners",
+    "edsonPortrait": "Setšoantšo sa Edson Pavoni",
+    "sathiPortrait": "Setšoantšo sa Sathi Roy",
+    "lumenPrize": "Moputso oa Lumen",
+    "mercosulBienal": "Mercosur Biennial"
+  }
+}

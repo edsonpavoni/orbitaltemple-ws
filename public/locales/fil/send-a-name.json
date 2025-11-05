@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "pagpasok mo\nisang ritwal\npara magpadala ng pangalan\nsa\norbital na templo\nsa kalawakan\nkunin\nisang hininga",
+    "button": "handa na ako"
+  },
+  "nameInput": {
+    "title": "mag-type ng pangalan",
+    "subtitle": "ito ay babangon sa Orbital Temple sa kalawakan.",
+    "placeholder": "pangalan",
+    "button": "hayaan mo itong umakyat"
+  },
+  "emailInput": {
+    "title": "i-type ang iyong email",
+    "subtitle": "kaya nakakakuha ka ng mensahe kapag tumaas ang pangalan.",
+    "placeholder": "ang iyong email",
+    "button": "tapos na ito"
+  },
+  "loading": {
+    "alt": "Naglo-load"
+  },
+  "success": {
+    "text": "ang pangalan\n{{pangalan}}\nnakapila na ngayon\npara sa pag-akyat.\nkapag ang\ntemplo sa kalawakan\nnakahanay, sa\nang aming antenna\nsa Earth\nmagpapadala kami\nang pangalan\nat matatanggap mo\nisang mensahe."
+  }
+}

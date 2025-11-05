@@ -1,0 +1,31 @@
+{
+  "title": "La Artwork - Alabatoso Orbital",
+  "heading": "Seko ni dɔnko baara",
+  "intro": {
+    "paragraph1": "Orbital Temple ye sateliti ye min ka cidenyabaara ye seko ni dɔnko ye : hakilijigin ye sankolo la min dabɔra hakilitigi bɛɛ ye min sigilen bɛ Dugukolo kan walima min ye ɲɛnamaya kɛ Dugukolo kan.",
+    "paragraph2": "Fɛnɲɛnɛmako fɛɛrɛw sababu fɛ, mɔgɔ o mɔgɔ bɛ se ka mɔgɔ tɔgɔ ci Alabatosoba la, mɔgɔ min tɛmɛna, mɔgɔ min ɲɛnama don kosɛbɛ, walima danfɛn o danfɛn min ka kan ka to mɔgɔw hakili la."
+  },
+  "sculpture": {
+    "heading": "Sculpture (Jɛkulu min bɛ wele ko Sculpture).",
+    "paragraph1": "O seko ni dɔnko baara in bɛ ni fɛn saba ye minnu bɛ tali kɛ ɲɔgɔn na: sateliti min dabɔra kɛrɛnkɛrɛnnenya la walasa ka tɔgɔ miliyari caman mara; foroba ja dɔ min bɛ kunnafoniw falenfalen ni sateliti ye; ani siti dɔ min sababu fɛ lajɛdenw bɛ tɔgɔw ci, k’a ta sisan fo ka se u tɛmɛnen ma, sankolo la.",
+    "paragraph2": "I n’a fɔ baara caman kɛli, Orbital Temple bɛ se ka jate yɔrɔ kɛrɛnkɛrɛnnen ja ye, yɔrɔ min sigilen bɛ yɔrɔ la. O fana ye Artsat ka porozɛ ye."
+  },
+  "antenna": {
+    "heading": "Antenna I n'a fɔ Foroba Ja",
+    "paragraph1": "Antɛni min b’an ni kɛnɛyako cɛsiri.",
+    "paragraph2": "Antɛni dɔ bɛ ka labɛn min bɛna kɛ kumaɲɔgɔnya tilennen na ni sateliti orbital ye.",
+    "paragraph3": "Ni sanu ye min bɛ yeelen bɔ, min bɛ sankolo jira a san fɛ, o ye daminɛyɔrɔ ye jamanadenw lawulili la (walima an ni min bɛ ‘sanfɛ yen’ cɛsira).",
+    "paragraph4": "Hali n’a y’a sɔrɔ ja ninnu ma sigi diɲɛ yɔrɔ fanba la, an ka Frames from Earth, n’olu bɛ sateliti kɔlɔsi sisan, olu bɛ ka tɔgɔw ci tɛmɛsira kelen-kelen bɛɛ la.",
+    "paragraph5": "Aw ye dɛmɛ don ka na ni nin yelifɛn in ye aw ka dugu kɔnɔ — ka antɛni ja dɔw sigi sen kan minnu bɛ barow bila senkan sanfɛla ɲinini, seko ni dɔnko, ani an ka yɔrɔ jɛlen kan diɲɛ kɔnɔ. <a href=\"/support\">Aw ye kunnafoni wɛrɛw sɔrɔ poroze dɛmɛni kan</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Sateliti min bɛ wele ko Orbital Temple",
+    "riseNy": "Orbital batoso min bɛ Rise NY",
+    "installation": "Alabatoso orbital min dilanna Clara Marques fɛ",
+    "antenna": "Antena Alabatoso Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Temple min bɛ sankolo la. 3D jirali kɛra RiseNY&Partners fɛ.",
+    "mercosul": "Orbital Temple sigili Mercosul Biennial la, Porto Alegre, Berezil jamana na.<br> Ja min bɔra Clara Marques fɛ."
+  }
+}

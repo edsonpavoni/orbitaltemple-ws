@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Đền Orbital",
+    "subtitle": "là một tác phẩm nghệ thuật và một vệ tinh,\nvới mục tiêu trở thành một ngôi đền toàn diện,\nở một nơi mà không bức tường nào có thể chạm tới."
+  },
+  "ritual": {
+    "label": "nghi thức"
+  },
+  "cta": {
+    "link": "Còn ngôi đền nào nữa không?",
+    "arrowAlt": "mũi tên"
+  },
+  "dome": {
+    "alt": "Mái vòm"
+  }
+}

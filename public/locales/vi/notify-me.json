@@ -1,0 +1,13 @@
+{
+  "title": "Được thông báo - Đền Orbital",
+  "heading": "Được thông báo khi nó tăng",
+  "description": "Vào ngày 28 tháng 11 năm 2025, Đền Quỹ đạo sẽ mọc lên.<br> Hãy để lại email của bạn và chúng tôi sẽ thông báo cho bạn khi nó được đưa lên vũ trụ.",
+  "form": {
+    "emailPlaceholder": "email@của bạn.com",
+    "sendButton": "Gửi",
+    "sendingButton": "Đang gửi...",
+    "successMessage": "Chúng tôi sẽ liên lạc với bạn khi trời sáng.",
+    "errorMessage": "Có lỗi xảy ra. Vui lòng thử lại."
+  },
+  "backLink": "← Quay lại đếm ngược"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Ahokafoɔ - Orbital Asɔredan",
+  "heading": "Ahokafo",
+  "intro": "Orbital Temple nam ahokafoɔ soronko ayamyeɛ, nimdeɛ, ne anisoadehunu so na ɛwɔ hɔ. Efi mfiridwuma satellite ahorow so kosi asɛm a wɔde nsa yɛ so, efi apon a wobue wɔ nsase a ɛwɔ akyirikyiri so kosi adaeso a wɔde sika kɔkɔɔ tow so no, biakoyɛ biara ma asɔredan yi bɛn nsoromma.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Ayɔnkofo",
+      "description": "Nkitahodi, osuahu ahorow a wɔaka abom ne 3D render mfonini ahorow a ɛyɛ nwonwa a ɛmaa satellite no anisoadehu baa nkwa mu ansa na ɛreka ahunmu a ɛda hɔ kwa no da."
+    },
+    "highestMantra": {
+      "name": "Yɛn Mantra a Ɛkorɔn Sen Biara",
+      "description": "Sathi Roy na odii anim, na ɔde Orbital Asɔredan no ne India honhom ne adwinni mpɔtam ahorow bom. Akwan a wɔbɛbue ama sika a wɔbɛboaboa ano, amammerɛ mu nsakraeɛ, ne Art Basel ɔyɛkyerɛ wɔ November 2025 a wɔde sii hɔ no akyi."
+    },
+    "allToSpace": {
+      "name": "Ne nyinaa kɔ Ahunmu",
+      "description": "Brazilfo a wɔyɛ satellite nketewa ho abenfo. Mfeɛ nnan a wɔde yɛɛ adwuma bom de sii open source hardware platform na wɔyɛɛ akwampaefoɔ wɔ ɔkwan a wɔfa so de adwini kɔ kyinhyia so firi Wiase Nyinaa Kesee Fam."
+    },
+    "isro": {
+      "name": "ISRO na ɛwɔ hɔ",
+      "description": "India Ahunmu Nhwehwɛmu Ahyehyɛde. Launch provider ma PSLV asɛmpatrɛw a ɛde Orbital Temple kɔ owia-synchronous orbit wɔ November 2025 mu."
+    },
+    "mercosul": {
+      "name": "Mercosur Mfirihyia Abien Afahyɛ a Ɛto so 13",
+      "description": "Porto Alegre, Brazil, na ɛwɔ hɔ. Marcello Dantas na ɔhwɛɛ so a ɔne ahwɛfo aboafo Laura Cattani, Munir Klamt, Tarsila Riso, ne Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Adwumayɛbea",
+      "description": "Satellite nkɔso kuw no hyehyɛɛ wɔ II ArtSat Adwumayɛbea no mu. Fabiane M. Borges na ɔhwɛɛ so, na Lázaro Camargo na ɔkyerɛɛ no, Ítalo Pinto Rodrigues na ɔyɛɛ adwuma bom, na Walter Abrahão dos Santos na ɔhwɛ so."
+    },
+    "solidConcepts": {
+      "name": "Nsusuwii a Ɛyɛ Den",
+      "description": "Eduardo Dias na odii wɔn anim. 3D tintim ne sika kɔkɔɔ micro casting nyinaa yɛ adwuma ma sculptural dome no, dannan dijitaal adaeso ahorow ma ɛbɛyɛ dade a ɛsom bo nokwasɛm."
+    },
+    "ideaSpace": {
+      "name": "Adwene Ahunmu",
+      "description": "Brazil nhomasua mfiase a ɛreyɛ Quebrada Space Program adesua nhyehyɛe, a wɔasiesie sɛ wɔde bedi dwuma ama ntoaso sukuufo wɔ Brazil nyinaa."
+    }
+  },
+  "closing": "Wopɛ sɛ wo ne Orbital Temple bɛyɛ biako? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Twe wo nsa</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Ahokafo Logo",
+    "highestMantra": "Yɛn Mantra Logo a Ɛkorɔn Sen Biara",
+    "allToSpace": "Ne nyinaa kɔ Ahunmu Logo",
+    "isro": "ISRO Ahyɛnsode",
+    "mercosul": "Mercosur Mfirihyia Abien Agyiraehyɛde a Ɛto so 13",
+    "inpe": "INPE ArtSat Adwumayɛbea no Ahyɛnsode",
+    "solidConcepts": "Nsusuwii a Ɛyɛ Den Logo",
+    "ideaSpace": "Adwene Ahunmu Logo"
+  }
+}

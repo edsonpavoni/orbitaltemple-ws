@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "vepra arti",
+    "sendAName": "dërgo një emër",
+    "fromTheArtist": "nga artisti",
+    "yetAnotherTemple": "akoma, një tempull tjetër?",
+    "howItWorks": "si funksionon",
+    "spaceLaunch": "nisja në hapësirë dhe rreziqet",
+    "briefHistory": "histori e shkurtër e artit në hapësirë",
+    "education": "arsim dhe burim i hapur",
+    "sustainability": "qëndrueshmëria dhe mbeturinat hapësinore",
+    "press": "shtypi dhe media",
+    "team": "ekip",
+    "partners": "partnerë",
+    "support": "mbështetje",
+    "technicalInfo": "informacion teknik"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Hyr në ritual - Dërgo një emër në Tempullin Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple është një vepër arti nga Edson Pavoni, e krijuar në bashkëpunim me Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, të gjithë ata që i dërgojnë emrat Marthi, Claray. tempullit."
+  }
+}

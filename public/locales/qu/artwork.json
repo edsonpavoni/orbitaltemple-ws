@@ -1,0 +1,31 @@
+{
+  "title": "La Arte - Templo Orbital",
+  "heading": "El Obra de Arte",
+  "intro": {
+    "paragraph1": "Orbital Templo nisqaqa huk satélite nisqa misión artística nisqayuqmi: hawa pachapi yuyarinapaqmi, sapa sienteq kawsaqkunapaq kichasqa, kay Pachapi kawsaq icha kawsaq.",
+    "paragraph2": "Tecnológico nisqawanmi pipas Yupaychana Wasiman piqpa sutinta apachinman, wañukuq runa, ancha kawsaq runa, otaq mayqen runapas yuyarinapaq hina."
+  },
+  "sculpture": {
+    "heading": "La Escultura",
+    "paragraph1": "Chay arte ruwayqa kimsa elemento co-dependiente nisqayuqmi: huk satélite nisqa aswanta ruwasqa waranqa waranqa waranqa sutikunata waqaychananpaq; huk escultura pública nisqa, satélite nisqawan willakuykunata t’inkinakuq; hinallataq huk web nisqa, chaywanmi chaypi kaqkuna sutikunata apachinku, kunanmanta pacha wañukunankama, hanaq pachaman.",
+    "paragraph2": "Tawa yachayniyuq ruway hina, Orbital Yupaychana Wasiqa huk sitio-específico escultura hina qhawarisqa kanman, espaciopi tiyaq. Hinallataqmi Artsatpa llamk'ayninpas."
+  },
+  "antenna": {
+    "heading": "La Antena Como Escultura Pública",
+    "paragraph1": "Hawa pachawan tinkuchiwaqninchik antena.",
+    "paragraph2": "Huk antena nisqatam ruwachkanku, chaymi satélite orbital nisqawan chiqan rimanakuypi kanqa.",
+    "paragraph3": "Qurimanta qhawarichiq hawayuq, hanaq pachata espejo hina, hatun kallpachaypaq (utaq ‘chaypi’ kaqwan tupayninchikpaq) qallariynin.",
+    "paragraph4": "Chay esculturakuna mana yaqa llapan pachakunapi churasqa kachkaptinpas, Marcos de Pachamamanchikkuna, kunan satélite nisqa kamachikuq, sapa pasajepi sutikunata apachichkanku.",
+    "paragraph5": "Yanapakuy kay rikuy llaqtaykiman apamunanpaq —antena esculturakunata churay, chaykunam rimanakuykunata kallpanchan espacio maskaymanta, artemanta, chaynallataq cosmospi kuskachasqanchik sitiomanta. <a href=\"/support\">Astawan yachay chay proyecto yanapaymanta</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Yupaychana Wasi Satélite",
+    "riseNy": "Templo Orbital en Rise NY",
+    "installation": "Yupaychana Wasi Orbital Clara Marquespa rurasqan",
+    "antenna": "Antena del Templo Orbital nisqa"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Templo espaciopi. RiseNY&Partners nisqap 3D nisqap rurasqan.",
+    "mercosul": "Orbital Yupaychana Wasi churay Mercosul Bienalpi, Porto Alegre llaqtapi, Brasilpi.<br> Clara Marquespa foton."
+  }
+}

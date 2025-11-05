@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Teampall Orbital",
+    "subtitle": "'S e obair-ealain agus saideal a th' ann,\nag amas a bhith na theampall radaigeach a tha a' gabhail a-steach a h-uile duine,\nann an àite far nach ruig balla sam bith."
+  },
+  "ritual": {
+    "label": "deas-ghnàth"
+  },
+  "cta": {
+    "link": "Ach, teampall eile?",
+    "arrowAlt": "saighead"
+  },
+  "dome": {
+    "alt": "Cruinneach"
+  }
+}

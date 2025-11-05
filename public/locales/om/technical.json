@@ -1,0 +1,17 @@
+{
+  "title": "Odeeffannoo Teeknikaa - Mana Qulqullummaa Orbital",
+  "heading": "Odeeffannoo Teeknikaa",
+  "satellite": {
+    "heading": "Saatalaayitii",
+    "specs": "Safartuu: 50x58x64 mm<br /> 1P KiishaaQube<br /> Ulfaatina: 245 gr<br /> Meeshaalee: aluminiyeemii, warqee, faayibargilaasii fi qaamolee elektirooniksii.<br /> Orbiiti: Olka’iinsa 525 ± 25 km; garagalchuu: SSO 97.6 ± 0.1°<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) kan ISROn hojjetamu"
+  },
+  "antenna": {
+    "heading": "Anteenaa/Siidaa",
+    "specs": "Safartuu: 6 m (daayameetira) e 1.2m (olka&#39;iinsa) .<br /> Ulfaatina: 46 kg<br /> Meeshaalee: aluminiyeemii, boordii daawwitii epooksii, golee aluminiyeemii warqee caasaa iskaafooldii keessaa fannifame."
+  },
+  "radio": {
+    "heading": "Raadiyoo Ispeeksii",
+    "specs": "Daandii gadi bu&#39;aa: 468.5 MHz<br /> Moojuuleeshinii: CSS<br /> Baandii: TBD"
+  },
+  "imageAlt": "Saatalaayitii Mana Qulqullummaa Orbital"
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Maphunziro & Gwero Lotseguka - Orbital Temple",
+  "heading": "Maphunziro & Open Source",
+  "intro": {
+    "paragraph1": "Tekinoloje yonse yopangidwa ku ntchito ya Orbital Temple idzakhala <strong>yotseguka</strong> komanso yopezeka pa intaneti mu <strong>Chipwitikizi</strong> , <strong>Chingerezi</strong> , <strong>Chisipanishi</strong> ndi <strong>Chihindi</strong> , kulimbikitsa kupita patsogolo kwa kufufuza malo ku <strong>Global South</strong> . Mishoni zatsopano ndi mapulojekiti amatha kugwiritsa ntchito Orbital Temple ngati maziko azoyeserera zawo zaluso kapena zasayansi.",
+    "paragraph2": "Monga gawo la ntchito yake yophunzitsa, Orbital Temple ipereka maphunziro aulere azilankhulo zambiri momwe angapangire ndi kukhazikitsa satana. Udzakhala mwayi wodziwa zambiri zaukadaulo wa satellite ndikuugwiritsa ntchito. Aliyense amene ali ndi zaka zoposa <strong>16</strong> adzatha kupanga satellite yake, kuphunzira za mbiri yakale ya luso mumlengalenga, mfundo zazikulu za zamagetsi, makina ndi sayansi ya mlengalenga, kuphatikizapo momwe angagwiritsire ntchito ndalama zogwirira ntchito komanso momwe angapangire mlongoti kuti azilankhulana ndi ma satellites mu orbit."
+  },
+  "spaceGap": {
+    "heading": "Chifukwa Chake Izi Zikufunika: The Space Gap",
+    "paragraph1": "Mawu akuti <strong>&quot;Space Gap&quot;</strong> amatanthauza kugawikana pakati pa mayiko otukuka omwe angathe kupeza mwayi waumisiri wopezedwa mwa kufufuza zakuthambo, ndi mayiko omwe akutukuka kumene omwe alibe mwayi wopeza matekinolojewa. Maiko a ku Global South akuyenera kulipira ndalama zambiri ku maboma kapena makampani akunja kuti apeze zidziwitso zotulutsidwa ndi matekinoloje a satellite.",
+    "paragraph2": "Ukatswiri wa za m’mlengalenga umapindulitsa kwambiri: masetilaiti amathandiza kuthana ndi kudula mitengo mosaloledwa, usodzi wosaloledwa ndi boma, ndi malonda oletsedwa a nyama zakuthengo, zomwe zimaposa <strong>$73 biliyoni pachaka</strong> . Amapereka chidziwitso chofunikira chokhudza nyengo, kupanga madzi, ndi chitetezo cha chakudya. Ma satellites amathandizira njira za ulimi wothirira bwino komanso zaulimi, komanso zimathandiza kupewa masoka achilengedwe. Makampani opanga zakuthambo atha kupanga <strong>ntchito zofikira 1 miliyoni</strong> pofika <strong>chaka cha 2030</strong> , komabe mwayiwu sungapezeke kwa ambiri ku Global South.",
+    "paragraph3": "Popereka umisiri wotseguka ndi maphunziro, tikufuna kuyika demokalase mwayi wopita kumalo ndikupatsa mphamvu m'badwo watsopano kulota kupitilira mlengalenga."
+  },
+  "empowering": {
+    "heading": "Kupatsa Mphamvu M'badwo Wotsatira",
+    "intro": "Tiphunzitsa m'badwo wotsatira wa ofufuza za mlengalenga momwe angapangire ndikukhazikitsa ma satelayiti awo, zomwe zimakhudza mitu yofunika kuphatikiza:",
+    "topics": {
+      "history": "<strong>Mbiri ya zojambulajambula mumlengalenga:</strong> Kumvetsetsa mzere wa ma satelayiti aluso ndi zojambulajambula zotengera malo.",
+      "concepts": "<strong>Malingaliro apakati:</strong> <strong>ArtSat</strong> (masateliti aluso), ukadaulo wa <strong>Open Source</strong> space, ndi <strong>Space Gap</strong> .",
+      "missions": "<strong>Mishoni zapamlengalenga:</strong> Momwe mungaganizire ndi kupanga ntchito, komanso kupanga gulu kuti likwaniritse.",
+      "electronics": "<strong>Zamagetsi mumlengalenga:</strong> Mfundo zazikuluzikulu za zida zamagetsi zomwe zitha kukhalapo ndikugwira ntchito mumlengalenga.",
+      "mechanics": "<strong>Zimango mumlengalenga:</strong> Kumvetsetsa zofunikira zamakina ndi makina pamapangidwe a satellite.",
+      "orbits": "<strong>Ma orbit ndi oyambitsa:</strong> Mitundu yosiyanasiyana yamayendedwe ndi momwe mungasankhire oyambitsa oyambitsa ntchito yanu.",
+      "financing": "<strong>Njira zopezera ndalama:</strong> Momwe mungatetezere ndalama ndi zothandizira kukhazikitsa satellite yanu. Maphunzirowa apereka zothandizira kupeza ndalama zoyambira kwanu, kuthandiza ophunzira kupeza mapulogalamu ndi ndalama kuchokera ku mabungwe apadziko lonse lapansi omwe amathandizira asayansi achichepere ndi ophunzira potumiza ma satellite awo mumlengalenga.",
+      "groundStation": "<strong>Kukula kwa siteshoni yapansi:</strong> Momwe mungapangire mlongoti kuti mulankhule ndi Orbital Temple ndi ma satellite ena."
+    }
+  },
+  "technology": {
+    "heading": "Ukadaulo: PocketQube Satellites",
+    "paragraph1": "Ophunzira aphunzira kugwira ntchito ndi ma satellites <strong>a PocketQube</strong> , muyezo wa nanosatellite wotalika <strong>5cm³</strong> komanso wolemera mpaka <strong>250g</strong> . Ngakhale kuti ndi yaying&#39;ono, PocketQubes ndi zida zamphamvu zomwe zimatha kuyang&#39;anira, kuyang&#39;anira, ndi kulankhulana.",
+    "paragraph2": "Ma satellite compact awa ali ndi ntchito zambiri zenizeni padziko lapansi, kuyambira kafukufuku wasayansi pakusintha kwanyengo mpaka kulumikizana kwapakati pamayiko. Chifukwa ndizochepa komanso zopepuka, zimakhala zotsika mtengo kuzimanga ndikukhazikitsa, zomwe zimapangitsa kuti malo azikhala ofikira kwa ophunzira, ofufuza, ndi akatswiri ojambula padziko lonse lapansi."
+  },
+  "globalAccess": {
+    "heading": "Global Access, Kuyambira ku Global South",
+    "paragraph1": "Maphunzirowa azipezeka kwa aliyense <strong>wazaka 16 kapena kuposerapo</strong> , <strong>kwaulere</strong> . Tikuyamba ndi zomwe zili mu <strong>Chipwitikizi</strong> , <strong>Chisipanishi</strong> , <strong>Chingerezi</strong> , ndi <strong>Chihindi</strong> , ndi ndondomeko zowonjezera zinenero zowonjezera pamene pulogalamuyo ikukula.",
+    "paragraph2": "Ntchito yathu imayambira ku Global South ndikufikira padziko lonse lapansi, kuwonetsetsa kuti m'badwo wotsatira wa ofufuza zakuthambo amachokera kumakona onse a Dziko Lapansi."
+  },
+  "callToAction": {
+    "heading": "Tithandizeni Kuti Izi Zichitike",
+    "content": "Pulogalamu yamaphunziroyi ikukula pano. Tikufunafuna othandizana nawo komanso opereka ndalama omwe amagawana nawo masomphenya athu a demokalase yofikira kuukadaulo wamlengalenga. Ngati inu kapena bungwe lanu mukufuna kuthandizira izi, chonde pitani <a href=\"/support\">patsamba lathu lothandizira</a> kuti mudziwe za mwayi wogwirizana."
+  },
+  "imageAlt": "Satellite ya Orbital Temple"
+}

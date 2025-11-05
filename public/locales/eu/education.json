@@ -1,0 +1,43 @@
+{
+  "title": "Hezkuntza eta Kode Irekia - Orbital Temple",
+  "heading": "Hezkuntza eta Kode Irekia",
+  "intro": {
+    "paragraph1": "Orbital Temple misiorako garatutako teknologia guztia <strong>kode irekikoa</strong> izango da eta sarean eskuragarri egongo da <strong>portugesez</strong> , <strong>ingelesez</strong> , <strong>gaztelaniaz</strong> eta <strong>hindieraz</strong> , <strong>Hegoalde Globalean</strong> espazioaren esplorazioaren aurrerapena sustatuz. Misio eta proiektu berriek Orbital Temple erabil dezakete beren esperimentu artistiko edo zientifikoetarako oinarri gisa.",
+    "paragraph2": "Bere hezkuntza-misioaren barruan, Orbital Temple-k doako ikastaro eleaniztun bat eskainiko du satelite bat nola eraiki eta jaurti azaltzen duena. Sateliteen teknologiari buruz ikasteko eta praktikan jartzeko aukera praktikoa izango da. <strong>16</strong> urtetik gorako edonork bere satelitea eraiki ahal izango du, espazioko artearen historia, elektronika, mekanika eta espazio-zientziaren oinarrizko kontzeptuak ikasiz, besteak beste, proiektuak nola finantzatu eta orbitan dauden sateliteekin komunikatzeko antena bat nola eraiki."
+  },
+  "spaceGap": {
+    "heading": "Zergatik den garrantzitsua hau: Espazio-hutsuneak",
+    "paragraph1": "<strong>&quot;Espazio-hutsune&quot;</strong> terminoak espazio-esplorazioaren bidez lortutako aukera teknologikoetara sarbidea duten garatutako nazioen eta teknologia horietarako sarbiderik ez duten garapen bidean dauden nazioen arteko banaketa adierazten du. Hegoalde Globaleko herrialdeek kopuru handiak ordaindu behar dizkiete atzerriko gobernuei edo enpresei satelite-teknologiek sortutako informaziorako oinarrizko sarbidea izateagatik.",
+    "paragraph2": "Espazio-teknologiak onura kritikoak eskaintzen ditu: sateliteek legez kanpoko baso-mozketaren, legez kanpoko arrantzaren eta legez kanpoko faunaren salerosketaren aurka borrokatzen laguntzen dute, eta horrek <strong>urtean 73.000 milioi dolar</strong> baino gehiago balio du. Klimari, uraren ekoizpenari eta elikagaien segurtasunari buruzko informazio garrantzitsua ematen dute. Sateliteek ureztatze eta nekazaritza-teknika zehatzak ahalbidetzen dituzte, eta hondamendi naturalak saihesteko balio dute. Espazio-industriak <strong>milioi bat lanpostu</strong> sor ditzake <strong>2030erako</strong> , baina aukera horiek oraindik ere eskuraezinak dira Hegoalde Globaleko askorentzat.",
+    "paragraph3": "Kode irekiko teknologia eta hezkuntza eskainiz, espaziorako sarbidea demokratizatzea eta belaunaldi berri bati zeruaz harago amets egiteko ahalmena ematea dugu helburu."
+  },
+  "empowering": {
+    "heading": "Hurrengo Belaunaldia Ahalduntzea",
+    "intro": "Hurrengo espazio-esploratzaile belaunaldiari beren sateliteak nola eraiki eta jaurti irakatsiko diegu, funtsezko gaiak landuz, besteak beste:",
+    "topics": {
+      "history": "<strong>Espazioko artearen historia:</strong> satelite artistikoen eta espazioan oinarritutako artelanen leinua ulertzea.",
+      "concepts": "<strong>Oinarrizko kontzeptuak:</strong> <strong>ArtSat</strong> (satelite artistikoak), <strong>kode irekiko</strong> espazio-teknologia eta <strong>Space Gap</strong> .",
+      "missions": "<strong>Espazio-misioak:</strong> Nola kontzeptualizatu eta diseinatu misio bat, eta nola osatu talde bat hura gauzatzeko.",
+      "electronics": "<strong>Elektronika espazioan:</strong> espazio-ingurunean iraun eta funtziona dezaketen osagai elektronikoen oinarrizko kontzeptuak.",
+      "mechanics": "<strong>Espazioko mekanika:</strong> sateliteen diseinurako egitura- eta mekanika-eskakizunak ulertzea.",
+      "orbits": "<strong>Orbitak eta jaurtigailuak:</strong> Orbita mota desberdinak eta nola aukeratu jaurtigailu hornitzaileak zure misiorako.",
+      "financing": "<strong>Finantzaketa estrategiak:</strong> Nola lortu finantzaketa eta baliabideak zure satelitea jaurtitzeko. Ikastaroak zure jaurtiketarako finantzaketa lortzeko baliabideak emango ditu, ikasleei zientzialari gazteei eta ikasleei beren sateliteak espaziora bidaltzen laguntzen dieten nazioarteko erakundeetako programak eta diru-laguntzak aurkitzen lagunduz.",
+      "groundStation": "<strong>Lurreko estazio baten garapena:</strong> Nola eraiki antena bat Orbital Temple-rekin eta beste sateliteekin komunikatzeko."
+    }
+  },
+  "technology": {
+    "heading": "Teknologia: PocketQube sateliteak",
+    "paragraph1": "Ikasleek <strong>PocketQube</strong> sateliteekin lan egiten ikasiko dute, <strong>5 cm³-ko</strong> tamaina eta <strong>250 g</strong> -ko pisua duen nanosatelite estandar batekin. Tamaina txikia izan arren, PocketQubeak Lurra behatzeko, monitorizatzeko eta komunikatzeko gai diren tresna indartsuak dira.",
+    "paragraph2": "Satelite trinko hauek aplikazio ugari dituzte mundu errealean, klima-aldaketari buruzko ikerketa zientifikotik hasi eta kontinente arteko komunikazioraino. Txikiagoak eta arinagoak direnez, merkeagoak dira eraikitzeko eta jaurtitzeko, eta horrek espazioa eskuragarriagoa egiten du mundu osoko ikasle, ikertzaile eta artistei."
+  },
+  "globalAccess": {
+    "heading": "Sarbide Globala, Hegoalde Globaletik Hasita",
+    "paragraph1": "Ikastaroa <strong>16 urte edo gehiagoko</strong> edonorentzat eskuragarri egongo da, guztiz <strong>doan</strong> . <strong>Portugesez</strong> , <strong>gaztelaniaz</strong> , <strong>ingelesez</strong> eta <strong>hindierazko</strong> edukiarekin hasiko gara, eta programa hazten den heinean beste hizkuntza batzuetara zabaltzeko asmoa dugu.",
+    "paragraph2": "Gure misioa Hegoalde Globalean hasten da eta mundu osora hedatzen da, hurrengo espazio-esploratzaile belaunaldia Lurreko txoko guztietatik etortzea bermatuz."
+  },
+  "callToAction": {
+    "heading": "Lagundu iezaguzu hau lortzen",
+    "content": "Hezkuntza programa hau garatzen ari da. Espazio-teknologiarako sarbidea demokratizatzeko gure ikuspegia partekatzen duten bazkide eta emaileen bila gabiltza. Zuk edo zure erakundeak ekimen hau babestu nahi baduzue, bisitatu gure <a href=\"/support\">laguntza orria</a> lankidetza-aukeren berri izateko."
+  },
+  "imageAlt": "Orbital Temple satelitea"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Artwork - Lub Tuam Tsev Orbital",
+  "heading": "Lub Artwork",
+  "intro": {
+    "paragraph1": "Lub Tuam Tsev Orbital yog lub satellite nrog lub luag haujlwm ua yeeb yam: lub cim nco txog nyob rau hauv qhov chaw sab nrauv qhib rau txhua tus neeg uas nyob los yog tau nyob hauv lub ntiaj teb.",
+    "paragraph2": "Los ntawm kev siv thev naus laus zis, leej twg tuaj yeem xa lub npe ntawm ib tus neeg mus rau lub Tuam Tsev, txawm tias tus neeg uas tau tas sim neej, tus neeg muaj sia nyob, lossis ib yam dab tsi uas tsim nyog yuav tsum nco ntsoov."
+  },
+  "sculpture": {
+    "heading": "Duab puab",
+    "paragraph1": "Cov duab kos duab muaj peb qhov sib koom ua ke: lub satellite tshwj xeeb tsim los khaws ntau lab lub npe; pej xeem duab puab sib pauv cov ntaub ntawv nrog lub satellite; thiab ib lub vev xaib los ntawm cov neeg koom nrog xa cov npe, txij li tam sim no mus txog thaum lawv tuag, mus rau saum ntuj ceeb tsheej.",
+    "paragraph2": "Raws li kev ua haujlwm ntau yam kev qhuab qhia, Orbital Tuam Tsev tuaj yeem suav hais tias yog qhov chaw tshwj xeeb duab puab, nyob hauv qhov chaw. Nws tseem yog qhov project Artsat."
+  },
+  "antenna": {
+    "heading": "Tus kav hlau txais xov Raws li Pej Xeem Sculpture",
+    "paragraph1": "Ib lub kav hlau txais xov txuas peb nrog qhov chaw sab nraud.",
+    "paragraph2": "Lub kav hlau txais xov uas yuav nyob rau hauv kev sib txuas lus ncaj qha nrog lub orbital satellite yog tsim los.",
+    "paragraph3": "Nrog lub ntsej muag zoo nkauj golden, tsom iav saum ntuj, nws yog qhov pib rau kev txhawb nqa huab hwm coj (lossis peb txoj kev sib raug zoo rau dab tsi 'nyob ntawd').",
+    "paragraph4": "Thaum cov sculptures tsis tau ntsia nyob rau hauv feem ntau ntawm lub ntiaj teb no, peb Ncej los ntawm lub ntiaj teb, uas tam sim no tswj lub satellite, yog xa cov npe ntawm txhua passthrough.",
+    "paragraph5": "Pab coj lub zeem muag no rau koj lub nroog - txhim kho tus kav hlau txais xov sculptures uas txhawb kev sib tham txog qhov chaw tshawb nrhiav, kos duab, thiab peb qhov chaw sib koom hauv lub cosmos. <a href=\"/support\">Kawm paub ntxiv txog kev txhawb nqa qhov project</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Lub Tuam Tsev Orbital Satellite",
+    "riseNy": "Lub Tuam Tsev Orbital ntawm Rise NY",
+    "installation": "Lub Tuam Tsev Orbital los ntawm Clara Marques",
+    "antenna": "Orbital Tuam Tsev Kav hlau txais xov"
+  },
+  "imageCaptions": {
+    "riseNy": "Lub Tuam Tsev Orbital hauv qhov chaw. 3D rendering los ntawm RiseNY&Partners.",
+    "mercosul": "Lub Tuam Tsev Orbital installation ntawm Mercosul Biennial, hauv Porto Alegre, Brazil.<br> Duab los ntawm Clara Marques."
+  }
+}

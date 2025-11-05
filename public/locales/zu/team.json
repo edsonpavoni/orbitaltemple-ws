@@ -1,0 +1,61 @@
+{
+  "title": "Ithimba - Ithempeli le-Orbital",
+  "heading": "Ithimba",
+  "artist": "Edson Pavoni, umculi",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Umkhiqizi Omkhulu",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "I-Aerospace & Systems Engineering",
+      "members": "U-Pedro Kaled, u-João Pedro Polito, u-Victor Baptista no-João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ubunjiniyela be-Electronic",
+      "members": "U-André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Isoftware",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Ukuklama kanye ne-Architecture",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Ukuphrinta kwe-3D",
+      "members": "I-Solid Concepts, ngaphansi kobuholi buka-Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Ukunikezwa kwe-3D",
+      "members": "U-Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Ucwaningo",
+      "members": "URoberta Savian Rosa noClara Marques"
+    },
+    "exhibition": {
+      "heading": "Ukukhiqizwa Kombukiso, Izithombe Nokwakhiwa Kokuqukethwe",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Ukuhlola Usilika Kombukiso",
+      "members": "UDaphne Alves"
+    },
+    "educational": {
+      "heading": "Iphrojekthi Yezemfundo",
+      "members": "I-IdeaSpace"
+    },
+    "communication": {
+      "heading": "Ithimba Lezokuxhumana",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Siyabonga ngokukhethekile",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidizmelo Put, Andre Vidigal, Andre Pedro Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "I-Orbital Temple Satellite"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Inbhuanaitheacht & Smionagar Spáis - Teampall Fithiseach",
+  "heading": "Inbhuanaitheacht",
+  "intro": {
+    "paragraph1": "Más mian linn an ealaín a threorú isteach sa todhchaí, ní féidir léi neamhaird a dhéanamh de na géarchéimeanna atá romhainn - tubaiste comhshaoil, éagothroime shóisialta, agus dúshlán méadaitheach smionagar spáis. Tá Orbital Temple deartha leis na réaltachtaí seo san áireamh, agus é mar aidhm aige a bheith i láthair go freagrach ar an Domhan agus i bhfithis araon.",
+    "paragraph2": "Creidimid nach srian atá san inbhuanaitheacht ach gur cuid riachtanach dár bhfís ealaíonta í. Léiríonn gach cinneadh faoi ábhair, fithisí agus oibríochtaí ár dtiomantas an Domhan agus an spás a fhágáil i riocht níos fearr ná mar a fuair muid iad."
+  },
+  "spaceDebris": {
+    "heading": "Smionagar Spáis",
+    "paragraph1": "Tá smionagar spáis ar cheann de na dúshláin is práinní atá roimh thaiscéalaíocht spáis. Tá na mílte satailít agus blúirí nach maireann ag fithisiú timpeall an Domhain, rud a chuireann bac ar mhisin ghníomhacha agus a chruthaíonn éifeacht easghluaiseachta a d’fhéadfadh fithisí áirithe a dhéanamh neamh-inúsáidte.",
+    "paragraph2": "Tugann Orbital Temple aghaidh ar seo ar roinnt bealaí:",
+    "list": {
+      "orbit": "<strong>Fithis shioncrónach na gréine ag 525 km:</strong> Cinntíonn an airde seo go gcuirfidh tarraingt nádúrtha an atmaisféir faoi deara go rachaidh an satailít isteach in atmaisféar an Domhain arís laistigh de thart ar 10 mbliana, áit a ndófaidh sé go hiomlán. Nílimid ag cur le smionagar fithiseach fadtéarmach.",
+      "size": "<strong>Dearadh PocketQube:</strong> Ag ach 50 × 58 × 64mm agus 245g, tá an satailít beag go leor le galú go hiomlán le linn athiontrála, gan aon smionagar a fhágáil ar dhromchla an Domhain.",
+      "responsibility": "<strong>Gan aon dul as feidhm pleanáilte:</strong> Murab ionann agus satailítí tráchtála a d&#39;fhéadfaí a thréigean, tá Orbital Temple deartha chun dífhithis a dhéanamh go nádúrtha, ag comhlíonadh treoirlínte idirnáisiúnta maidir le gníomhaíocht spáis fhreagrach."
+    },
+    "paragraph3": "Trí fhithis íseal den Domhan agus dearadh dlúth a roghnú, cinntímid go mbeidh láithreacht Theampall Orbital sa spás sealadach agus neamhthruaillitheach."
+  },
+  "carbonNeutrality": {
+    "heading": "Neodracht Charbóin",
+    "content": "Déanfar na hastaíochtaí carbóin go léir a bhaineann le Orbital Temple—lena n-áirítear monarú satailíte, lainseáil, oibríochtaí stáisiúin talún, óstáil láithreáin ghréasáin, agus taisteal foirne—a fhritháireamh go hiomlán trí chláir chreidmheasa carbóin fíoraithe. Táimid tiomanta don mhisean seo a dhéanamh neodrach ó thaobh na haeráide de."
+  },
+  "openSource": {
+    "heading": "Crua-earraí Foinse Oscailte",
+    "paragraph1": "Ciallaíonn inbhuanaitheacht freisin gan eolas a chur amú. Foilseofar gach gné theicniúil de Orbital Temple—scéimeanna, cód, prótacail chumarsáide, agus modhanna tógála—mar dhoiciméadacht foinse oscailte.",
+    "paragraph2": "Fágann sé seo gur féidir le misin amach anseo tógáil ar ár gcuid oibre seachas tosú ón tús, rud a laghdaíonn taighde agus forbairt iomarcach. Daonlathaíonn sé rochtain ar theicneolaíocht spáis, go háirithe do phobail i nDeisceart an Domhain a bhí eisiata go stairiúil ó thaiscéalaíocht spáis."
+  },
+  "educational": {
+    "heading": "Tionchar Oideachais",
+    "paragraph1": "Múineann ár gclár oideachais ilteangach saor in aisce do mhic léinn ar fud an domhain conas satailítí a thógáil agus a sheoladh, agus béim ar an Deisceart Domhanda. Trí chumhachtú a thabhairt don chéad ghlúin eile le scileanna teicneolaíochta spáis, rannchuidímid le \"Bearna Spáis\" a dhúnadh agus deiseanna a chruthú nach mbeadh ann murach sin.",
+    "paragraph2": "Is cineál inbhuanaitheachta é an misean oideachais seo ann féin—infheistiú i ndaoine agus i bpobail chun athrú buan a chruthú thar shaolré an tsatailít."
+  },
+  "tenYear": {
+    "heading": "Misean 10 mBliana",
+    "paragraph1": "Tá Orbital Temple deartha le haghaidh misean deich mbliana, ní cleas poiblíochta gearr. Thar deich mbliana, beidh an satailít ag timpeallú an Domhain thart ar 50,000 uair, ag fáil ainmneacha agus ag feidhmiú mar mheabhrúchán gur féidir leis an spás a bheith ina choiteann, inrochtana ag cách.",
+    "paragraph2": "Tar éis a mhisin a bheith críochnaithe, dífhithiseoidh an satailít go nádúrtha agus dófaidh sí suas, gan aon rian a fhágáil ach amháin i gcuimhní cinn agus i ndoiciméid na ndaoine a ghlac páirt."
+  },
+  "artsResponsibility": {
+    "heading": "Freagracht na hEalaíne",
+    "paragraph1": "Is scáthán dá linne í an ealaín i gcónaí, ag léiriú ár luachanna agus ár n-uaillmhianta. I ré na géarchéime aeráide agus an éagothroime atá ag dul i méid, creidimid go bhfuil freagracht ar ealaíontóirí saothar a chruthú nach ndéanann trácht ar na saincheisteanna seo amháin ach a thugann aghaidh orthu go gníomhach.",
+    "paragraph2": "Is é Teampall Fithiseach ár n-iarracht saothar ealaíne a chruthú atá radacach ina chuimsiú, freagrach ina thionchar comhshaoil, agus flaithiúil ina chuid eolais a roinnt leis an domhan. Is ealaín í a thugann cuireadh do gach duine páirt a ghlacadh agus meas á léiriú ag an am céanna ar na córais leochaileacha - comhshaoil agus fithiseacha - a fhágann go bhfuil an saol agus an taiscéalaíocht indéanta."
+  },
+  "imageAlt": "Satailít Teampaill Fhithiseach"
+}

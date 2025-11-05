@@ -1,0 +1,44 @@
+{
+  "title": "Ịdịgide & Mpekere Oghere - Ụlọ nsọ Orbital",
+  "heading": "Ndogide",
+  "intro": {
+    "paragraph1": "Ọ bụrụ na nkà na-eduga anyị n'ọdịnihu, ọ pụghị ileghara nsogbu ndị anyị na-eche ihu anya - ndakpọ gburugburu ebe obibi, enweghị oke mmekọrịta ọha na eze, na ihe ịma aka na-arịwanye elu nke mkpọmkpọ ebe. Emebere Templelọ nsọ Orbital jiri ihe ndị a n'uche, na-achọ ịbụ ọnụnọ dị mkpa ma n'ụwa ma na orbit.",
+    "paragraph2": "Anyị kwenyere na nkwado abụghị ihe mgbochi kama ọ bụ akụkụ dị mkpa nke ọhụụ nka anyị. Mkpebi ọ bụla gbasara akụrụngwa, orbits, na arụmọrụ na-egosipụta mkpebi anyị ịhapụ ma Ụwa na oghere karịa ka anyị chọtara ha."
+  },
+  "spaceDebris": {
+    "heading": "Mpekere oghere",
+    "paragraph1": "Mpekere oghere bụ otu n'ime ihe ịma aka kacha na-eche ihu nyocha oghere. Ọtụtụ puku satịlaịtị arụrụ arụ na iberibe na-agba gburugburu ụwa, na-eyi ọrụ ndị na-arụ ọrụ egwu na-emepụta mmetụta cascade nke nwere ike ime ka ụfọdụ orbits ghara ịdị irè.",
+    "paragraph2": "Templelọ nsọ Orbital na-akọwa nke a n'ọtụtụ ụzọ:",
+    "list": {
+      "orbit": "<strong>Sun-synchronous orbit na 525 km:</strong> Ugwu a na-eme ka ikuku ikuku na-adọkpụrụ ga-eme ka satịlaịtị banyeghachi ikuku ụwa n&#39;ime ihe dị ka afọ 10, ebe ọ ga-ere ọkụ kpamkpam. Anyị anaghị etinye aka na irighiri orbital ogologo oge.",
+      "size": "<strong>Nhazi PocketQube:</strong> Na naanị 50 × 58 × 64mm na 245g, satịlaịtị ahụ pere mpe iji kpochapu kpamkpam n&#39;oge ntinyeghachi, na-ahapụ enweghị irighiri ihe n&#39;elu ụwa.",
+      "responsibility": "<strong>Ọnweghị ohere ịla ezumike nka:</strong> N&#39;adịghị ka satịlaịtị azụmahịa nke enwere ike gbahapụ, Orbital Temple ka emebere ka ọ mebie n&#39;onwe ya, na-emezu ụkpụrụ mba ụwa maka ọrụ oghere."
+    },
+    "paragraph3": "Site n'ịhọrọ orbit ụwa dị ala na nhazi kọmpat, anyị na-ahụ na ọnụnọ Orbital Temple na mbara igwe bụ nwa oge na anaghị emetọ ya."
+  },
+  "carbonNeutrality": {
+    "heading": "Anọpụ iche Carbon",
+    "content": "Mgbapụta carbon niile metụtara Temple Orbital—gụnyere nrụpụta satịlaịtị, igba egbe, ọrụ ọdụ ọdụ ala, nnabata webụsaịtị, na njem otu—ga-akwụsị kpamkpam site na mmemme kredit carbon enwetara. Anyị kpebisiri ike ime ka ozi a ghara ịnọpụ iche na ihu igwe."
+  },
+  "openSource": {
+    "heading": "Mepee ngwaike Isi mmalite",
+    "paragraph1": "Ịdịgide ndụ pụtakwara ịghara imebi ihe ọmụma. A ga-ebipụta akụkụ teknụzụ ọ bụla nke Temple Orbital - schematics, code, protocol nzikọrịta ozi, na usoro ihe owuwu - dị ka akwụkwọ mepere emepe.",
+    "paragraph2": "Nke a na-enye ohere ka ndị ọrụ ga-eme n'ọdịnihu wulite n'ọrụ anyị kama ịmalite site na ncha, na-ebelata nyocha na mmepe na-abaghị uru. Ọ na-akwalite ohere ịnweta teknụzụ mbara igwe, ọkachasị maka obodo ndị dị na South South bụ ndị ewepụrụ n'akụkọ ihe mere eme na nyocha mbara igwe."
+  },
+  "educational": {
+    "heading": "Mmetụta agụmakwụkwọ",
+    "paragraph1": "Mmemme mmụta asụsụ ọtụtụ asụsụ n'efu na-akụziri ụmụ akwụkwọ n'ụwa niile ka esi arụ na igba egbe satịlaịtị, na-elekwasị anya na Global South. Site n'inye ọgbọ na-abịa n'ihu na nkà teknụzụ oghere, anyị na-atụnye aka na imechi \"Space Gap\" na ịmepụta ohere ndị na-agaghị adị.",
+    "paragraph2": "Ọrụ nkuzi a bụ n'onwe ya ụdị nkwado - itinye ego na ndị mmadụ na obodo iji mepụta mgbanwe na-adịgide adịgide karịa ndụ satịlaịtị."
+  },
+  "tenYear": {
+    "heading": "Ozi afọ iri",
+    "paragraph1": "Emebere Templelọ nsọ Orbital maka ozi ga-ewe afọ iri, ọ bụghị nkwuputa mgbasa ozi dị nkenke. N'ime afọ iri, satịlaịtị ga-agba gburugburu ụwa ihe dịka ugboro 50,000, na-anata aha na-eje ozi dị ka ihe ncheta na oghere nwere ike ịbụ ihe nkịtị, nke mmadụ niile nwere ike ịnweta.",
+    "paragraph2": "Mgbe ozi ya kwusịrị, satịlaịtị ga-emerịrị de-orbit wee gbaa ọkụ, na-ahapụ enweghị akara ọ bụla ma ewezuga na ncheta na akwụkwọ nke ndị sonyere."
+  },
+  "artsResponsibility": {
+    "heading": "Ọrụ nka",
+    "paragraph1": "Art bụ mgbe niile enyo nke oge ya, na-egosipụta ụkpụrụ na ọchịchọ anyị. N'oge ọgba aghara ihu igwe na enweghị aha na-eto eto, anyị kwenyere na ndị na-ese ihe nwere ibu ọrụ nke ịmepụta ọrụ na-abụghị naanị ikwu okwu banyere okwu ndị a kama na-arụsi ọrụ ike na ha.",
+    "paragraph2": "Templelọ nsọ Orbital bụ mbọ anyị imepụta ihe osise dị egwu na nsonye ya, na-ahụ maka mmetụta gburugburu ebe obibi ya, yana mmesapụ aka n'ịkọrọ ụwa ihe ọmụma ya. Ọ bụ nka na-akpọ onye ọ bụla òkù isonye ma na-asọpụrụ usoro ndị na-esighị ike - gburugburu ebe obibi na orbital - na-eme ka ndụ na nyocha nwee ike."
+  },
+  "imageAlt": "Satellite Temple Orbital"
+}

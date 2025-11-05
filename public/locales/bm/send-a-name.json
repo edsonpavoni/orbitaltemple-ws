@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "i n'a fɔ i bɛ don cogo min na\nlaadalakow dɔ\nka tɔgɔ dɔ ci\nka don a kɔnɔ\norbital batoso\nsankolo la\nka ta\nninakili dɔ",
+    "button": "n labɛnnen don"
+  },
+  "nameInput": {
+    "title": "tɔgɔ dɔ sɛbɛn",
+    "subtitle": "a bɛna wuli ka taa Orbital Temple la sankolo la.",
+    "placeholder": "tɔ̀gɔ",
+    "button": "a ka wuli"
+  },
+  "emailInput": {
+    "title": "i ka email sɛbɛn",
+    "subtitle": "o la i bɛ cikan sɔrɔ ni tɔgɔ in wulila .",
+    "placeholder": "i ka email",
+    "button": "a bɛ kɛ"
+  },
+  "loading": {
+    "alt": "Loading (dadon) bɛ kɛ"
+  },
+  "success": {
+    "text": "tɔgɔ in ye\n{{tɔ̀gɔ}}\nbɛ layidu ta sisan\nka ɲɛsin jiginni ma.\ntuma min na\nbatoso min bɛ sankolo la\naligns, ni\nan ka antɛni\nDugukolo kan\nan bɛna ci bila\ntɔgɔ in ye\nani i na sɔrɔ\ncikan dɔ."
+  }
+}

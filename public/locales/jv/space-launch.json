@@ -1,0 +1,16 @@
+{
+  "title": "Space Bukak - Orbital Temple",
+  "heading": "Space Bukak",
+  "intro": "Kuil Orbital dijadwalake bakal diluncurake ing PSLV (Polar Satellite Launch Vehicle) tanggal 28 November 2025 saka Pusat Angkasa Satish Dhawan ing Sriharikota, India.",
+  "partnership": "Peluncuran Kuil Orbital minangka kemitraan antarane NewSpace India Limited (NSIL), Perusahaan Pemerintah India ing Departemen Luar Angkasa, Antrix Corporation, lan artis. Kolaborasi iki minangka tonggak penting kanggo seni ing eksplorasi ruang angkasa, nggabungake program antariksa India kanthi visi seni babagan inklusivitas radikal.",
+  "risks": {
+    "heading": "Resiko",
+    "paragraph1": "Satelit kasebut dibangun kanggo nahan kahanan geter lan siklus termal sing ekstrem, lan wis ngalami uji coba sing ketat. Nanging, peluncuran ruang angkasa nggawa risiko bawaan. Yen satelit rusak nalika diluncurake utawa nyebarake, utawa yen gagal nggawe komunikasi karo stasiun lemah, kita bakal bisa ngatasi masalah lan ngrampungake masalah apa wae. Satelit kasebut nduweni sistem sing berlebihan lan protokol serep sing dirancang kanggo nggedhekake kemungkinan sukses misi.",
+    "paragraph2": "Kajaba iku, satelit bisa tetep ing orbit kurang saka 10 taun yen kahanan atmosfer utawa faktor liyane nyebabake bosok orbit sadurungé. Nalika kita wis ngrancang kanggo paling sethithik sepuluh taun, umur nyata gumantung ing kahanan sing ora bisa dikontrol kanthi lengkap.",
+    "paragraph3": "Yen peluncuran pisanan gagal, utawa yen kita ora bisa ngrampungake misi iki kaya sing wis direncanakake, kita bakal njelajah dalan alternatif sing maju, bisa uga kalebu upaya peluncuran kaping pindho kanthi anggaran sing kasedhiya, kemitraan karo misi liyane, utawa dokumentasi upaya minangka bagean saka narasi karya seni babagan aspirasi lan watesan."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Satelit Candi Orbit"
+  }
+}

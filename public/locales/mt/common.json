@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "l-arti",
+    "sendAName": "ibgħat isem",
+    "fromTheArtist": "mill-artist",
+    "yetAnotherTemple": "madankollu, tempju ieħor?",
+    "howItWorks": "kif jaħdem",
+    "spaceLaunch": "tnedija fl-ispazju u r-riskji",
+    "briefHistory": "storja qasira tal-arti fl-ispazju",
+    "education": "edukazzjoni u sors miftuħ",
+    "sustainability": "sostenibbiltà u debris spazjali",
+    "press": "l-istampa u l-midja",
+    "team": "tim",
+    "partners": "imsieħba",
+    "support": "appoġġ",
+    "technicalInfo": "informazzjoni teknika"
+  },
+  "ritual": {
+    "label": "ritwali",
+    "ariaLabel": "Daħħal ir-ritwali - Ibgħat isem lit-Tempju Orbitali"
+  },
+  "footer": {
+    "credits": "Orbital Temple hija xogħol artistiku ta’ Edson Pavoni, maħluqa b’kollaborazzjoni ma’ Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, u dawk kollha li jkomplu jibagħtu ismijiet lil dan it-tempju."
+  }
+}

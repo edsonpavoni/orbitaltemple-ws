@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Templo sa Orbital",
+    "subtitle": "usa ka artwork ug satellite,\nnagtumong nga mahimong usa ka radikal nga inklusibo nga templo,\nsa dapit nga walay paril nga maabot."
+  },
+  "ritual": {
+    "label": "ritwal"
+  },
+  "cta": {
+    "link": "Apan, laing templo?",
+    "arrowAlt": "pana"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

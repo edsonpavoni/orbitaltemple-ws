@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Lub Tuam Tsev Orbital",
+  "heading": "Sustainability",
+  "intro": {
+    "paragraph1": "Yog tias kev kos duab yuav coj peb mus rau yav tom ntej, nws tsis tuaj yeem tsis quav ntsej txog qhov teeb meem uas peb ntsib—kev puas tsuaj ntawm ib puag ncig, kev tsis sib haum xeeb, thiab kev sib tw loj hlob ntawm qhov chaw khib nyiab. Lub Tuam Tsev Orbital yog tsim los nrog cov kev muaj tiag hauv siab, aiming kom muaj lub luag haujlwm nyob rau hauv lub ntiaj teb thiab hauv orbit.",
+    "paragraph2": "Peb ntseeg tias kev ruaj khov tsis yog qhov txwv tab sis yog ib feem tseem ceeb ntawm peb lub zeem muag zoo nkauj. Txhua qhov kev txiav txim siab txog cov khoom siv, lub voj voog, thiab kev ua haujlwm qhia peb txoj kev cog lus kom tawm hauv lub ntiaj teb thiab qhov chaw zoo dua li peb pom lawv."
+  },
+  "spaceDebris": {
+    "heading": "Chaw Debris",
+    "paragraph1": "Cov khib nyiab hauv qhov chaw yog ib qho nyuaj tshaj plaws uas ntsib kev tshawb nrhiav qhov chaw. Ntau txhiab lub satellites tsis ua haujlwm thiab cov khoom tawg thoob ntiaj teb, hem lub luag haujlwm tseem ceeb thiab tsim cov txiaj ntsig cascade uas tuaj yeem ua rau qee lub orbits siv tsis tau.",
+    "paragraph2": "Lub Tuam Tsev Orbital hais txog qhov no hauv ntau txoj hauv kev:",
+    "list": {
+      "orbit": "<strong>Lub hnub-synchronous orbit ntawm 525 km:</strong> qhov chaw siab no ua kom cov huab cua hauv huab cua yuav ua rau lub satellite rov nkag mus rau lub ntiaj teb huab cua nyob rau hauv kwv yees li 10 xyoo, qhov twg nws yuav hlawv tag nrho. Peb tsis yog pab txhawb rau cov khib nyiab mus ntev orbital.",
+      "size": "<strong>PocketQube tsim:</strong> Tsuas yog 50 × 58 × 64mm thiab 245g, lub satellite me me txaus kom vaporize tag nrho thaum rov nkag, tsis muaj cov khib nyiab ntawm lub ntiaj teb nto.",
+      "responsibility": "<strong>Tsis muaj kev npaj ua tsis tiav:</strong> Tsis zoo li kev lag luam satellites uas yuav raug tso tseg, Lub Tuam Tsev Orbital yog tsim los rau deorbit ib txwm muaj, ua tiav cov lus qhia thoob ntiaj teb rau lub luag haujlwm ntawm chaw ua haujlwm."
+    },
+    "paragraph3": "Los ntawm kev xaiv lub ntiaj teb qis qis thiab tsim qauv tsim, peb xyuas kom meej tias lub Tuam Tsev Orbital nyob hauv qhov chaw yog ib ntus thiab tsis muaj kuab lom."
+  },
+  "carbonNeutrality": {
+    "heading": "Carbon Neutrality",
+    "content": "Tag nrho cov pa roj carbon emissions cuam tshuam nrog lub Tuam Tsev Orbital - suav nrog kev tsim khoom siv hluav taws xob, kev tsim tawm, kev ua haujlwm hauv chaw nres tsheb, lub vev xaib hosting, thiab pab pawg mus ncig - yuav raug them tag nrho los ntawm cov ntawv pov thawj carbon credit. Peb tau cog lus tias yuav ua rau lub hom phiaj no kev nyab xeeb-nruab nrab."
+  },
+  "openSource": {
+    "heading": "Qhib Source Hardware",
+    "paragraph1": "Sustainability kuj txhais tau tias tsis nkim kev paub. Txhua yam txuj ci ntawm lub Tuam Tsev Orbital—schematics, code, kev sib txuas lus raws tu qauv, thiab kev tsim kho—yuav tsum luam tawm raws li cov ntaub ntawv qhib.",
+    "paragraph2": "Qhov no tso cai rau cov haujlwm yav tom ntej los txhim kho peb txoj haujlwm es tsis yog pib los ntawm kos, txo qis kev tshawb fawb thiab kev txhim kho. Nws democratizes nkag mus rau qhov chaw technology, tshwj xeeb tshaj yog rau cov zej zog nyob rau hauv lub ntiaj teb no sab qab teb uas tau raug tshem tawm keeb kwm los ntawm qhov chaw tshawb nrhiav."
+  },
+  "educational": {
+    "heading": "Kev cuam tshuam kev kawm",
+    "paragraph1": "Peb qhov kev qhia paub ntau hom lus pub dawb qhia cov tub ntxhais kawm thoob ntiaj teb yuav ua li cas tsim thiab xa cov satellites, nrog rau kev tsom mus rau Ntiaj Teb Sab Qab Teb. Los ntawm kev txhawb nqa cov tiam tom ntej nrog kev txawj ntse hauv qhov chaw, peb pab txhawb kom kaw \"Space Gap\" thiab tsim cov hauv kev uas yuav tsis muaj nyob.",
+    "paragraph2": "Lub hom phiaj kev kawm no yog nws tus kheej ib hom kev ruaj ntseg-kev nqis peev hauv tib neeg thiab cov zej zog los tsim kev hloov pauv mus ntev dhau lub satellite lub neej."
+  },
+  "tenYear": {
+    "heading": "Lub Hom Phiaj 10 Xyoo",
+    "paragraph1": "Lub Tuam Tsev Orbital yog tsim los rau lub hom phiaj ntev kaum xyoo, tsis yog kev tshaj tawm luv luv. Tshaj li kaum xyoo, lub satellite yuav orbit lub ntiaj teb kwv yees li 50,000 lub sij hawm, tau txais cov npe thiab ua ib qho kev ceeb toom tias qhov chaw tuaj yeem ua tau zoo, siv tau rau txhua tus.",
+    "paragraph2": "Tom qab nws lub hom phiaj xaus, lub satellite yuav ib txwm de-orbit thiab kub hnyiab, tsis muaj ib txoj lw tsuas yog nyob rau hauv nco thiab cov ntaub ntawv ntawm cov neeg koom."
+  },
+  "artsResponsibility": {
+    "heading": "Art lub luag hauj lwm",
+    "paragraph1": "Kev kos duab yeej ib txwm yog daim iav ntawm nws lub sijhawm, xav txog peb cov txiaj ntsig thiab kev cia siab. Nyob rau lub sijhawm muaj kev kub ntxhov ntawm huab cua thiab kev tsis sib xws, peb ntseeg tias cov kws ua yeeb yam muaj lub luag haujlwm los tsim cov haujlwm uas tsis yog tawm tswv yim rau cov teeb meem no xwb tab sis nquag hais txog lawv.",
+    "paragraph2": "Lub Tuam Tsev Orbital yog peb qhov kev sim los tsim cov duab kos duab uas yog qhov tseem ceeb hauv nws txoj kev koom nrog, lub luag haujlwm ntawm nws qhov kev cuam tshuam ib puag ncig, thiab muaj siab dav hauv kev sib qhia nws cov kev paub nrog lub ntiaj teb. Nws yog kev kos duab uas caw txhua leej txhua tus los koom nrog thaum saib xyuas cov txheej txheem tsis yooj yim - ib puag ncig thiab orbital - uas ua rau lub neej thiab kev tshawb nrhiav tau."
+  },
+  "imageAlt": "Orbital Tuam Tsev Satellite"
+}

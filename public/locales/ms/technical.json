@@ -1,0 +1,17 @@
+{
+  "title": "Maklumat Teknikal - Kuil Orbital",
+  "heading": "Maklumat Teknikal",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Dimensi: 50x58x64 mm<br /> 1P PocketQube<br /> Berat: 245 gr<br /> Bahan: aluminium, emas, gentian kaca, dan komponen elektronik.<br /> Orbit: Ketinggian 525 ± 25 km; kecenderungan: SSO 97.6 ± 0.1°<br /> Pelancar: PSLV (Kenderaan Pelancar Satelit Kutub) dikendalikan oleh ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Arca",
+    "specs": "Dimensi: 6 m (diameter) e 1.2m (tinggi)<br /> Berat: 46 kg<br /> Bahan: aluminium, papan cermin epoksi, kubah aluminium emas yang digantung melalui struktur perancah."
+  },
+  "radio": {
+    "heading": "Spesifikasi Radio",
+    "specs": "Pautan bawah: 468.5 MHz<br /> Modulasi: CSS<br /> Lebar jalur: TBD"
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Technesch Informatiounen - Orbitaltempel",
+  "heading": "Technesch Informatiounen",
+  "satellite": {
+    "heading": "Satellit",
+    "specs": "Dimensiounen: 50x58x64 mm<br /> 1P PocketQube<br /> Gewiicht: 245 g<br /> Materialien: Aluminium, Gold, Glasfaser an elektronesch Komponenten.<br /> Ëmlafbunn: Héicht 525 ± 25 km; Inklinatioun: SSO 97,6 ± 0,1°<br /> Startrakett: PSLV (Polar Satellite Launch Vehicle) bedriwwe vun ISRO"
+  },
+  "antenna": {
+    "heading": "Antenn/Skulptur",
+    "specs": "Dimensiounen: 6 m (Duerchmiesser) an 1,2 m (Héicht)<br /> Gewiicht: 46 kg<br /> Materialien: Aluminium, Epoxy-Spigelplat, gëllen Aluminiumkuppel, déi un enger Gerüststruktur hänkt."
+  },
+  "radio": {
+    "heading": "Radio Spezifikatiounen",
+    "specs": "Downlink: 468,5 MHz<br /> Modulatioun: CSS<br /> Bandbreet: nach net bestëmmt"
+  },
+  "imageAlt": "Orbital Temple Satellit"
+}

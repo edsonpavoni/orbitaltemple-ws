@@ -1,0 +1,167 @@
+{
+  "title": "Cefnogwch Orbital Temple - Ymunwch â'r Genhadaeth",
+  "heading": "Cefnogwch Deml Orbital",
+  "vision": "Ar <strong>Dachwedd 28, 2025</strong> , bydd <strong>Orbital Temple</strong> yn lansio o <strong>India</strong> ar fwrdd roced <strong>ISRO</strong> . Lloeren gelf gyfranogol o&#39;r De Byd-eang yw hi, ac mae&#39;n gofeb i gynhwysiant radical, yn llwyfan ar gyfer addysg, ac yn gatalydd ar gyfer sgwrs fyd-eang am ddyfodol y cysegredig yn oes technoleg, deallusrwydd artiffisial ac archwilio&#39;r gofod.",
+  "videoCaption": "Cyflwyniad fideo i Deml Orbital, 1 munud.",
+  "accomplished": {
+    "heading": "Yr Hyn Rydym Wedi'i Gyflawni",
+    "content": "Ar ôl pedair blynedd o ymchwil a datblygu, mae&#39;r genhadaeth yn barod. Rydym wedi cwblhau <strong>datblygu caledwedd a meddalwedd</strong> ar gyfer y lloeren, wedi pasio <strong>profion ysgwyd swyddogol</strong> sy&#39;n ofynnol ar gyfer ardystio hedfan, ac wedi cwblhau ein contract gydag ISRO. Mae&#39;r lloeren wedi&#39;i hadeiladu. Mae&#39;r dechnoleg yn gweithio. Rydym wedi cael caniatâd i lansio."
+  },
+  "funding": {
+    "heading": "Cynnydd Cyllido",
+    "raised": "wedi'i godi o",
+    "of": "o",
+    "goal": "gôl",
+    "button": "Cefnogwch y Genhadaeth"
+  },
+  "needs": {
+    "heading": "Yr Hyn sydd ei Angen Arnom ar ei Gyfer",
+    "intro": "Er mwyn cwblhau'r genhadaeth hanesyddol hon a chynyddu ei heffaith, mae angen cefnogaeth arnom ar gyfer pum cydran hanfodol:",
+    "launch": {
+      "title": "Costau Lansio ISRO:"
+    },
+    "travel": {
+      "title": "Taith yr Artist i India:"
+    },
+    "carbon": {
+      "title": "Rhaglen Gwrthbwyso Carbon:"
+    },
+    "education": {
+      "title": "Rhaglen Addysgol:"
+    },
+    "docPreProd": {
+      "title": "Cyn-gynhyrchu Rhaglen Ddogfen:"
+    },
+    "docProd": {
+      "title": "Cynhyrchu Rhaglenni Dogfen:"
+    }
+  },
+  "decade": {
+    "heading": "Y Ddegawd i Ddod",
+    "intro": "Nid yw'r genhadaeth hon yn dod i ben ar Dachwedd 28, 2025. Mae newydd ddechrau.",
+    "paragraph1": "Am y <strong>10 mlynedd</strong> nesaf, bydd y lloeren hon yn cylchdroi&#39;r Ddaear, gan ymateb i enwau a anfonir o bob cwr o&#39;r blaned. Nod y rhaglen addysgol yw hyfforddi <strong>miloedd o bobl ifanc</strong> mewn technoleg lloeren, gan dorri&#39;r <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Bwlch Gofod</a> ar gyfer y De Byd-eang. Bydd y rhaglen ddogfen yn cyrraedd <strong>miliynau</strong> ledled y byd, gan sbarduno sgyrsiau am berthyn, cof, a&#39;r cysegredig.",
+    "paragraph2": "Mae Orbital Temple yn partneru â <strong>Sathi Roy</strong> a <strong>Sefydliad Roy</strong> i wneud y weledigaeth ddegawd o hyd hon yn arwyddocaol yn ddiwylliannol. Mae Sefydliad Roy yn sefydliad dielw sy&#39;n ymroddedig i ehangu mynediad at addysg ysbrydol, iachâd emosiynol, ac offer ymwybyddiaeth ar gyfer cymunedau dan anfantais ledled y byd, gan bontio doethineb hynafol a thechnoleg fodern i greu byd mwy ymwybodol, cysylltiedig a thosturiol. Gyda&#39;n gilydd, rydym yn adeiladu&#39;r seilwaith i sicrhau bod Orbital Temple yn dod yn fudiad parhaol sy&#39;n cyrraedd cymunedau ledled y byd.",
+    "paragraph3": "Nid yw eich cefnogaeth yn ariannu lansiad yn unig; mae'n creu mudiad a fydd yn atseinio am ddegawd ac yn ysbrydoli'r genhedlaeth nesaf o artistiaid a pheirianwyr gofod."
+  },
+  "waysToSupport": {
+    "heading": "Ffyrdd o Gefnogi",
+    "individualDonations": {
+      "heading": "Rhoddion Unigol",
+      "intro": "Ymunwch â'r genhadaeth ar lefel sy'n gweithio i chi. Cefnogwyr unigol yw sylfaen y prosiect hanesyddol hwn.",
+      "orbitalFriend": {
+        "title": "Ffrind Orbitol",
+        "benefits": "Rydych chi'n derbyn: Enw ar restr anrhydedd y wefan · Tystysgrif orbitol bersonol pan fydd lloeren yn cael ei lansio · Credyd diolch dogfennol · Derbynneb y gellir ei ddidynnu o dreth",
+        "button": "Gwneud Rhodd Treth-Didyniadadwy"
+      },
+      "satelliteSupporter": {
+        "title": "Cefnogwr Lloeren",
+        "benefits": "Rydych chi'n derbyn: Pob budd Orbital Friend · Mynediad unigryw i ap olrhain lloeren · Neges fideo diolch i artist · Derbynneb y gellir ei ddidynnu o dreth",
+        "button": "Gwneud Rhodd Treth-Didyniadadwy"
+      },
+      "spaceAdvocate": {
+        "title": "Eiriolwr Gofod",
+        "benefits": "Rydych chi'n derbyn: Pob budd Cefnogwr Lloeren · Enw wedi'i argraffu mewn credydau dogfennol · Gwahoddiad i ddangosiad dogfennol preifat · Diweddariadau chwarterol gan y tîm · Derbynneb y gellir ei ddidynnu o dreth",
+        "button": "Gwneud Rhodd Treth-Didyniadadwy"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Ariannu Cydran Benodol",
+    "intro": "Mae eich cyfraniad yn ariannu agweddau penodol ar y genhadaeth yn uniongyrchol. Dewiswch beth sy'n apelio atoch chi, neu gyfunwch sawl un i greu effaith fwy.",
+    "launch": {
+      "title": "Ariannu'r Lansiad Gofod",
+      "description": "Cost y lansiad gwirioneddol ar fwrdd roced <strong>ISRO</strong> ar <strong>Dachwedd 28, 2025.</strong> Mae hyn yn anfon Orbital Temple i orbit, lle bydd yn aros am ddegawd fel lloeren gelf gyfranogol a theml yn yr awyr, yn hygyrch i unrhyw un yn y byd.",
+      "benefits": "Rydych chi'n derbyn: Teitl \"Noddwr Lansio\" · Wedi'i gynnwys ym mhob datganiad i'r wasg · Cydnabyddiaeth dogfen ar y sgrin · Mynediad VIP i ddigwyddiadau lansio · Ymunwch â galwadau fideo chwarterol gydag Edson a thîm y genhadaeth · Tystysgrif gyda data orbitol lloeren · Derbynneb y gellir ei ddidynnu o dreth",
+      "button": "Gwneud Rhodd Treth-Didyniadadwy"
+    },
+    "travel": {
+      "title": "Ariannu Taith yr Artist i India",
+      "description": "Costau teithio, llety a chynhyrchu i&#39;r artist Edson Pavoni a&#39;r tîm craidd i weld y lansiad yn <strong>India ar Dachwedd 28, 2025.</strong> Mae&#39;r daith hon yn hanfodol ar gyfer ffilmio rhaglenni dogfen, sylw yn y cyfryngau, a chynrychioli&#39;r De Byd-eang ar yr adeg hanesyddol hon.",
+      "benefits": "Rydych chi'n derbyn: Diolch personol gan yr artist · Mynediad at ddogfennau y tu ôl i'r llenni · Enw mewn credydau dogfen · Derbynneb y gellir ei ddidynnu o dreth",
+      "button": "Gwneud Rhodd Treth-Didyniadadwy"
+    },
+    "carbon": {
+      "title": "Ariannu'r Rhaglen Gwrthbwyso Carbon",
+      "description": "Bydd yr holl allyriadau carbon yn cael eu niwtraleiddio, gan gynnwys lansio'r roced a chreu'r lloeren. Rydym yn gweithio gyda rhaglenni gwrthbwyso carbon wedi'u gwirio i sicrhau nad yw'r genhadaeth hon yn gadael unrhyw ôl troed amgylcheddol negyddol.",
+      "benefits": "Rydych chi'n derbyn: Enw ar restr anrhydedd y wefan · Tystysgrif bersonol · Derbynneb y gellir ei ddidynnu o dreth",
+      "button": "Gwneud Rhodd Treth-Didyniadadwy"
+    },
+    "education": {
+      "title": "Ariannu'r Rhaglen Addysgol",
+      "description": "Datblygu a lansio'r cwrs amlieithog cyflawn sy'n dysgu pobl ifanc yn Ne'r Byd sut i adeiladu lloerennau. Yn cynnwys datblygu cwricwlwm, cynhyrchu fideo, cynnal platfform, a'r flwyddyn gyntaf o ysgoloriaethau i fyfyrwyr dan anfantais. Yn creu seilwaith parhaol ar gyfer addysg gofod.",
+      "benefits": "Rydych chi'n derbyn: cydnabyddiaeth \"Noddwr Sefydlu Addysg\" · Ysgoloriaethau yn eich enw · Wedi'i gynnwys mewn deunyddiau addysgol · Cwrdd â'r garfan gyntaf o fyfyrwyr a ariannwyd gan eich ysgoloriaeth (rhithwir neu wyneb yn wyneb) · Rhan nodwedd o raglen ddogfen · Cyfle i siarad mewn digwyddiadau lansio · Derbynneb y gellir ei ddidynnu o dreth",
+      "button": "Gwneud Rhodd Treth-Didyniadadwy"
+    },
+    "docPreProd": {
+      "title": "Ariannu Cyn-gynhyrchiad y Rhaglen Ddogfen",
+      "description": "Ariannu cam cychwynnol y rhaglen ddogfen <strong>&quot;Beth sy&#39;n Gwneud Teml?&quot;</strong> . Yn cynnwys cynnal 2 gyfweliad manwl yn <strong>India</strong> gydag arweinwyr meddwl ac ymarferwyr ysbrydol, teithio a chynhyrchu criw bach, a golygu lluniau cyn-gynhyrchu. Mae&#39;r cam hwn yn sefydlu sylfaen y rhaglen ddogfen ac yn dilysu&#39;r cyfeiriad creadigol.",
+      "benefits": "Rydych chi'n derbyn: Credyd Cynhyrchydd Cyswllt · Credydau enw mewn rhaglenni dogfen · Dangosiad preifat o luniau cyn-gynhyrchu · Mynediad y tu ôl i'r llenni · Derbynneb y gellir ei ddidynnu o dreth",
+      "button": "Gwneud Rhodd Treth-Didyniadadwy"
+    },
+    "docProd": {
+      "title": "Ariannu'r Cynhyrchiad Rhaglen Ddogfen",
+      "description": "Cynhyrchiad ac ôl-gynhyrchiad cyflawn o <strong>&quot;What Makes a Temple?&quot;</strong> , y rhaglen ddogfen sy&#39;n archwilio croestoriad celf, technoleg a&#39;r cysegredig. Yn cynnwys ffilmio mewn sawl gwlad, cyfweliadau ychwanegol gydag arweinwyr meddwl, golygu cynhwysfawr, graddio lliw, dylunio sain, a dangosiadau cyntaf yn <strong>India</strong> a <strong>Dinas Efrog Newydd</strong> .",
+      "benefits": "Rydych chi'n derbyn: Credyd Cynhyrchydd Gweithredol · Wedi'i gynnwys yn y credydau agoriadol · Dangosiad preifat i'ch gwesteion · Gwahoddiadau i'r première byd (y ddwy ddinas) · Cinio preifat gydag Edson a chyfarwyddwr y ffilm ddogfen cyn y première · Mynediad y tu ôl i'r llenni · Derbynneb y gellir ei ddidynnu o dreth",
+      "button": "Gwneud Rhodd Treth-Didyniadadwy"
+    },
+    "artCollector": {
+      "title": "Dewch yn Unig Gasglwr Celf Teml Orbitol",
+      "imageAlt": "Gosod Teml Orbitol yn Biennial Mercosul",
+      "imageCaption": "Teml Orbital yn y 13eg Mercosul Biennial, Porto Alegre. Llun gan Clara Marques.",
+      "paragraph1": "Adeiladwyd tair lloeren union yr un fath ar gyfer y genhadaeth hon. Bydd <strong>un</strong> yn lansio i&#39;r gofod ar Dachwedd 28, 2025. Mae <strong>un</strong> yn teithio i arddangosfeydd amgueddfeydd ledled y byd. Mae <strong>un</strong> wedi&#39;i gadw ar gyfer casglwr hael sydd eisiau ariannu&#39;r weledigaeth hon a bod yn berchen ar ddarn o hanes celf gofod.",
+      "paragraph2": "Nid replica yw hwn; mae&#39;n un o&#39;r tri lloeren wreiddiol. <strong>Llong ofod gwbl weithredol</strong> sydd hefyd yn <strong>gerflun</strong> . Mae&#39;r lloeren yn mesur <strong>5cm³</strong> ac yn pwyso <strong>245g</strong> , gyda chromen wedi&#39;i gwneud o <strong>aur</strong> .",
+      "paragraph3": "Mae hwn yn <strong>waith celf 1/1</strong> .",
+      "paragraph4": "Fel y casglwr, byddwch yn derbyn yr un gosodiad a grëwyd ar gyfer <strong>13eg Biennale Mercosul</strong> , arddangosfa amgueddfaol gyflawn sy&#39;n arddangos y lloeren fel celf a thechnoleg. Mae&#39;r gosodiad hwn wedi&#39;i arddangos mewn lleoliadau rhyngwladol mawr ac mae&#39;n cynrychioli&#39;r safon uchaf o gyflwyno celfyddyd gofod.",
+      "paragraph5": "Mae eich cefnogaeth yn helpu i ariannu'r weledigaeth gyfan: y lansiad, y rhaglen addysgol, a'r rhaglen ddogfen a fydd yn sbarduno sgyrsiau byd-eang am y cysegredig yn oes technoleg, deallusrwydd artiffisial ac archwilio'r gofod. Mae eich enw'n cael ei blethu'n barhaol â'r genhadaeth hanesyddol hon.",
+      "button": "Ymholi am y cyfle hwn"
+    }
+  },
+  "gratitude": {
+    "heading": "Gyda Diolchgarwch i'n Cefnogwyr",
+    "intro": "Mae Orbital Temple wedi'i wneud yn bosibl gan sefydliadau, unigolion, a chredinwyr mewn cynhwysiant radical sy'n deall bod celf yn creu dychymygion yfory.",
+    "pearmill": {
+      "title": "Cefnogwr Sefydlu",
+      "description": "Mae Pearmill yn un o'r asiantaethau marchnata perfformiad sy'n tyfu gyflymaf yn yr Unol Daleithiau, grŵp o ddylunwyr, marchnatwyr a pheirianwyr sy'n gweithio gyda'i gilydd i helpu i dyfu rhai o'r cwmnïau newydd mwyaf eiconig yn y byd. Galluogodd eu cefnogaeth hael dîm Orbital Temple i brynu cydrannau hanfodol a datblygu'r caledwedd ffynhonnell agored sy'n gwneud y genhadaeth lloeren hon yn bosibl."
+    },
+    "yourName": "Gallai eich enw fod yma. Ymunwch â ni i greu hanes."
+  },
+  "people": {
+    "heading": "Y Bobl Y Tu Ôl i'r Genhadaeth Hon",
+    "intro": "Mae Orbital Temple yn ymrwymiad 10 mlynedd. Mae'n cael ei arwain gan ddau berson sydd wedi treulio eu bywydau yn pontio celf, technoleg a chysylltiad dynol, ac sy'n adeiladu'r seilwaith i gynnal y weledigaeth hon ar gyfer y degawd nesaf.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Artist a Thechnolegydd",
+      "paragraph1": "Mae Edson yn artist a thechnolegydd sy'n archwilio agosatrwydd dynol ar groesffordd celf a thechnoleg. Mae ei waith yn cwmpasu gosodiadau pensaernïol, barddoniaeth, ffotograffiaeth a thechnoleg lloeren.",
+      "paragraph2": "Mae ei waith wedi cael ei arddangos yn 13eg Biennale Mercosul (Brasil), IX Biennale Rhyngwladol (Wsbecistan), a Gwobr Celf Ddigidol Fyd-eang NTU (Singapôr).",
+      "paragraph3": "Gyda dros <strong>20 mlynedd ym maes celf a thechnoleg</strong> , mae wedi gweithio gyda thimau creadigol ar gyfer <strong>Gemau Olympaidd Rio 2016</strong> a <strong>Banc Datblygu Rhyng-Americanaidd</strong> . Wedi&#39;i enwi&#39;n un o&#39;r <strong>50 o weithwyr proffesiynol mwyaf arloesol o Frasil</strong> gan Gylchgrawn Proxxima, derbyniodd ddwy <strong>Wobr Dylunio IF</strong> yn olynol (2017-2018) ac roedd yn rownd derfynol <strong>Gwobr Lumen Prize Futures</strong> . Mae ei waith wedi&#39;i arddangos mewn dwy ddwyflynyddol a&#39;i gyflwyno yn <strong>Amgueddfa Gelf Gyfoes Ludwig</strong> (Bwdapest), <strong>Sefydliad Inhotim</strong> (Brasil), ac <strong>Amgueddfa Dylunio a Ffasiwn</strong> (Lisbon), gydag arddangosfeydd yn Efrog Newydd, Beijing, Singapore, Dubai, Rio de Janeiro, a dinasoedd eraill."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Sylfaenydd, Sefydliad Roy a Phartner Strategol",
+      "paragraph1": "Sathi yw sylfaenydd <strong>Sefydliad Roy</strong> , sefydliad dielw sy&#39;n ymroddedig i ehangu mynediad at addysg ysbrydol, iachâd emosiynol, ac offer ymwybyddiaeth ar gyfer cymunedau dan anfantais ledled y byd. Mae&#39;r sefydliad yn partneru ag ysgolion, sefydliadau diwylliannol, a sefydliadau lleol i ddosbarthu offer lles sy&#39;n cael eu pweru gan AI, cwricwlwm cymunedol, a chyfryngau sy&#39;n ysbrydoli trawsnewid.",
+      "paragraph2": "Gyda chefndir mewn niwrowyddoniaeth, hyfforddi ac arweinyddiaeth, mae Sathi wedi adeiladu ac arwain timau ledled Gogledd America ac India, gan gynhyrchu <strong>$600 miliwn</strong> mewn gwerthiannau blynyddol mewn un fenter. Hi hefyd yw sylfaenydd <strong>OHM</strong> , mudiad ysbrydol sy&#39;n canolbwyntio ar ddigidol yn gyntaf, Cyd-sylfaenydd <strong>SUTE</strong> (platfform swyddfa digidol sy&#39;n cael ei yrru gan AI), ac mae&#39;n gwasanaethu fel Ymgynghorydd a Phennaeth Twf Byd-eang ar gyfer <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Fel menyw Bengali-Americanaidd sy&#39;n pontio athroniaethau Dwyreiniol a Gorllewinol, mae Sathi yn dod â phersbectif unigryw i symudiadau ysbrydol ac artistig yn yr 21ain ganrif. Gyda rhwydwaith cynyddol o <strong>65,000+ o ddilynwyr</strong> a dros <strong>40 miliwn o argraffiadau ar-lein</strong> , mae hi&#39;n adeiladu cymunedau byd-eang sy&#39;n cysylltu ar draws rhaniadau diwylliannol ac ysbrydol."
+    },
+    "together": "Ynghyd â Sefydliad Roy, rydym yn adeiladu cenhadaeth 10 mlynedd sy'n pontio celf, technoleg, addysg a'r cysegredig, gan ddechrau gyda lansiad lloeren ar Dachwedd 28, 2025, a pharhau â mudiad a fydd yn cyrraedd cymunedau dan anfantais ledled y byd ac yn ysbrydoli'r genhedlaeth nesaf."
+  },
+  "join": {
+    "heading": "Ymunwch â Ni",
+    "content": "Mae&#39;r lloeren wedi&#39;i hadeiladu. Mae&#39;r dechnoleg yn barod. Mae&#39;r dyddiad lansio wedi&#39;i osod: <strong>Tachwedd 28, 2025.</strong> Dyma&#39;r foment i ymuno â chenhadaeth sy&#39;n ailddychmygu beth all celf ei wneud, ble gall fynd, a phwy all ei wasanaethu.",
+    "fundSpecific": {
+      "heading": "Ariannu Cydran Benodol neu Ddod yn Bartner Sefydlu",
+      "description": "Dewiswch un o'r cyfleoedd ariannu uchod, ymholi am ddod yn gasglwr celf, neu drafodwch nawdd personol sy'n cyd-fynd â'ch gweledigaeth.",
+      "button": "Cysylltwch â Ni i Ddechrau →"
+    },
+    "generalDonation": {
+      "heading": "Gwneud Cyfraniad Treth-Didyniadadwy",
+      "description": "Mae pob cyfraniad, mawr neu fach, yn cefnogi'r genhadaeth ac yn ddidynadwy o dreth trwy ein noddwr ariannol, The Field.",
+      "button": "Rhoddwch drwy The Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Rhoi Treth-Didyniadadwy",
+    "paragraph1": "Mae Orbital Temple yn brosiect a noddir yn ariannol gan <strong>The Field (Performance Zone Inc.)</strong> , sefydliad di-elw <strong>501(c)(3)</strong> sydd wedi&#39;i leoli yn Efrog Newydd. Mae pob cyfraniad o&#39;r Unol Daleithiau yn dreth-ddidynadwy i&#39;r graddau y caniateir gan y gyfraith.",
+    "paragraph2": "<strong>Y Maes</strong><br> 75 Lôn y Forwyn, Ystafell 906<br> Efrog Newydd, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Wrth wneud cyfraniadau drwy siec, gwnewch yn daladwy i <strong>Performance Zone Inc.</strong> gyda&#39;r nodyn: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

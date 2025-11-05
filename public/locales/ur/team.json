@@ -1,0 +1,61 @@
+{
+  "title": "ٹیم - مداری مندر",
+  "heading": "ٹیم",
+  "artist": "ایڈسن پاوونی، آرٹسٹ",
+  "roles": {
+    "executiveProducer": {
+      "heading": "ایگزیکٹو پروڈیوسر",
+      "members": "ساتھی رائے"
+    },
+    "aerospace": {
+      "heading": "ایرو اسپیس اینڈ سسٹم انجینئرنگ",
+      "members": "Pedro Kaled، João Pedro Polito، Victor Baptista اور João Victor Alves"
+    },
+    "electronic": {
+      "heading": "الیکٹرانک انجینئرنگ",
+      "members": "آندرے بیاگیونی، جواؤ پیڈرو پولیٹو اور وی کے"
+    },
+    "software": {
+      "heading": "سافٹ ویئر",
+      "members": "جوناتھن کروبینا"
+    },
+    "design": {
+      "heading": "ڈیزائن اور فن تعمیر",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D پرنٹنگ",
+      "members": "ایڈورڈو ڈیاس کی قیادت میں ٹھوس تصورات"
+    },
+    "rendering": {
+      "heading": "3D رینڈرنگ",
+      "members": "Guilherme Bullejos & RiseNy & Partners"
+    },
+    "research": {
+      "heading": "تحقیق",
+      "members": "روبرٹا سیوین روزا اور کلارا مارکیز"
+    },
+    "exhibition": {
+      "heading": "نمائش کی تیاری، فوٹوگرافی اور مواد کی تخلیق",
+      "members": "کلارا مارکیز"
+    },
+    "silkScreen": {
+      "heading": "نمائش کی سلک اسکریننگ",
+      "members": "ڈیفنی ایلوس"
+    },
+    "educational": {
+      "heading": "تعلیمی پروجیکٹ",
+      "members": "آئیڈیا اسپیس"
+    },
+    "communication": {
+      "heading": "کمیونیکیشن ٹیم",
+      "members": "Flavio Vidigal، Andre Holzmeister، Pedro Vidigal، Tatiane Putti، Rafael Fernandes، Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "خصوصی شکریہ",
+      "members": "گیبریلا ویگا، مارسیلو ڈینٹس، این والس، میٹیاس کیمپوس آباد، سیموئیل لیوی، بیلا نارڈینی، اور لی پیننگٹن"
+    }
+  },
+  "credits": "Edson Pavoni، Sathi Roy، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، Daphne Alves، Flavio Pedro Videistane، آندرے پیوڈیگل، آندرے الویس رافیل فرنینڈس، برونا قاہرہ، Conceitos Sólidos، RiseNY&Partners، IdeaSpace",
+  "imageAlt": "آربیٹل ٹیمپل سیٹلائٹ"
+}

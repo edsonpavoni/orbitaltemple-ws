@@ -1,0 +1,13 @@
+{
+  "title": "Woana Nyatakaka - Orbital Gbedoxɔ",
+  "heading": "Woana Nyanya Ne Efɔ",
+  "description": "Le November 28, 2025 dzi la, Orbital Gbedoxɔa alia.<br> Gblẽ wò e-mail ɖi, eye míagblɔe na wò ne eɖo yamenutome.",
+  "form": {
+    "emailPlaceholder": "wò@email.com dzi",
+    "sendButton": "Dᴐ",
+    "sendingButton": "Wole dɔa ɖom ɖa...",
+    "successMessage": "Míaɖo gbɔwò ne elia.",
+    "errorMessage": "Nane gblẽ. Taflatse gadze agbagba ake."
+  },
+  "backLink": "← Trɔ yi ɣeyiɣi xlẽxlẽ dzi"
+}

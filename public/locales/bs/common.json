@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "umjetničko djelo",
+    "sendAName": "pošalji ime",
+    "fromTheArtist": "od umjetnika",
+    "yetAnotherTemple": "ipak, još jedan hram?",
+    "howItWorks": "kako to funkcioniše",
+    "spaceLaunch": "svemirska lansiranja i rizici",
+    "briefHistory": "kratka historija umjetnosti u svemiru",
+    "education": "obrazovanje i otvoreni kod",
+    "sustainability": "održivost i svemirski otpad",
+    "press": "štampa i mediji",
+    "team": "tim",
+    "partners": "partneri",
+    "support": "podrška",
+    "technicalInfo": "tehničke informacije"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Uđite u ritual - pošaljite ime Orbitalnom hramu"
+  },
+  "footer": {
+    "credits": "Orbital Temple je umjetničko djelo Edsona Pavonija, nastalo u suradnji s Pedrom Kaledom, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathanom Querubinom, Guilhermeom Bullejosom, Eduardom Diasom, Robertom Savian Rosa, Robertom Savian Rosa, Sa Clarthom Marquesom, pošaljite sve one kojima je ovo ime, i Sa Clara Marquess, i Sa Clara Marques."
+  }
+}

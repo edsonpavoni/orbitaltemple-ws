@@ -1,0 +1,50 @@
+{
+  "title": "Comhpháirtithe - Teampall Fithiseach",
+  "heading": "Comhpháirtithe",
+  "intro": "Tá Orbital Temple ann trí fhlaithiúlacht, saineolas agus fís chomhpháirtithe neamhghnácha. Ó shatailítí innealtóireachta go scéalta a chruthú, ó dhoirse a oscailt i dtíortha i bhfad i gcéin go brionglóidí a chaitheamh in ór, tugann gach comhoibriú an teampall seo níos gaire do na réaltaí.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Cumarsáid, eispéiris chomhtháite agus íomhánna rindreála 3T iontacha a thug fís an tsatailít chun beochta sula ndeachaigh sé i dteagmháil le folús an spáis riamh."
+    },
+    "highestMantra": {
+      "name": "Ár Mantra is Airde",
+      "description": "Faoi stiúir Sathi Roy, ag ceangal Teampall Orbital le pobail spioradálta agus ealaíonta na hIndia. Ag oscailt bealaí chun bailiú airgid, malartú cultúrtha, agus taispeántas Art Basel i ndiaidh an tseolta i mí na Samhna 2025."
+    },
+    "allToSpace": {
+      "name": "Gach Rud go Spás",
+      "description": "Speisialtóirí satailíte beaga Brasaíleacha. Ceithre bliana de chomhoibriú ag tógáil ardán crua-earraí foinse oscailte agus ag ceannródaíocht sa phróiseas chun ealaín a sheoladh isteach i bhfithis ón Deisceart Domhanda."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Eagraíocht Taighde Spáis na hIndia. Soláthraí lainseála don mhisean PSLV a iompraíonn Orbital Temple go fithis sioncrónach na gréine i mí na Samhna 2025."
+    },
+    "mercosul": {
+      "name": "13ú Biennial Mercosur",
+      "description": "Porto Alegre, an Bhrasaíl. Coimeádta ag Marcello Dantas leis na coimeádaithe cúnta Laura Cattani, Munir Klamt, Tarsila Riso, agus Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Ceardlann INPE / ArtSat",
+      "description": "Bunaíodh an fhoireann forbartha satailíte le linn Cheardlann II ArtSat. Comhordaithe ag Fabiane M. Borges, treoir ag Lázaro Camargo, i gcomhar le Ítalo Pinto Rodrigues, faoi mhaoirseacht Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Coincheapa Soladacha",
+      "description": "Faoi stiúir Eduardo Dias. Déantar an obair phriontála 3T agus an obair micrea-réitigh óir go léir don chruinneachán dealbhóireachta, ag athrú aislingí digiteacha ina réaltacht miotail lómhara."
+    },
+    "ideaSpace": {
+      "name": "Spás Smaointe",
+      "description": "Gnólacht nuathionscanta oideachais sa Bhrasaíl ag forbairt churaclam Chlár Spáis Quebrada, atá réidh le cur i bhfeidhm ar dhaltaí ardscoile ar fud na Brasaíle."
+    }
+  },
+  "closing": "Suim agat i gcomhpháirtíocht le Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Déan teagmháil linn</a> .",
+  "imageAlts": {
+    "riseNy": "Lógó RiseNY&Partners",
+    "highestMantra": "Lógó Ár Mantra is Airde",
+    "allToSpace": "Lógó All to Space",
+    "isro": "Lógó ISRO",
+    "mercosul": "Lógó 13ú Débhliantúil Mercosur",
+    "inpe": "Lógó Cheardlann INPE ArtSat",
+    "solidConcepts": "Lógó Coincheapa Soladacha",
+    "ideaSpace": "Lógó Spáis Idea"
+  }
+}

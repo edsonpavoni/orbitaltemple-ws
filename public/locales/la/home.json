@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Templum Orbitale",
+    "subtitle": "est ars et satelles,\ntemplum radicaliter inclusivum esse propensum,\nin loco quo nullus murus attingere potest."
+  },
+  "ritual": {
+    "label": "ritus"
+  },
+  "cta": {
+    "link": "Sed aliud templum?",
+    "arrowAlt": "sagitta"
+  },
+  "dome": {
+    "alt": "Cupola"
+  }
+}

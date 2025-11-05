@@ -1,0 +1,61 @@
+{
+  "title": "Garee - Mana Qulqullummaa Orbital",
+  "heading": "Garee",
+  "artist": "Edson Pavoni, aartiistii",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Oomishaa Hojii Raawwachiiftuu",
+      "members": "Saatii Rooy"
+    },
+    "aerospace": {
+      "heading": "Injinariingii Aerospace & Systems",
+      "members": "Peedroo Kaaleed, Joo'oo Peedroo Poolitoo, Viiktoor Baaptistaa & Joo'aa Viiktoor Alvees"
+    },
+    "electronic": {
+      "heading": "Injinariingii Elektirooniksii",
+      "members": "André Biagioni, João Peedroo Poolitoo fi VK"
+    },
+    "software": {
+      "heading": "Mosaajii",
+      "members": "Yonaataan Keruubinaan"
+    },
+    "design": {
+      "heading": "Dizaayinii fi Arkiteekcharii",
+      "members": "Guilherme Bullejos jedhamuun beekama"
+    },
+    "printing": {
+      "heading": "Maxxansa 3D",
+      "members": "Yaad-rimee Jajjaboo, hoggansa Eduardo Dias jalatti"
+    },
+    "rendering": {
+      "heading": "3D Rendering",
+      "members": "Guilherme Bullejos & RiseNy&Michoota"
+    },
+    "research": {
+      "heading": "Qo'annoo",
+      "members": "Roobartaa Saaviyaan Roozaa & Kilaaraa Maarkis"
+    },
+    "exhibition": {
+      "heading": "Omisha Agarsiisaa, Suuraa fi Qabiyyee Uumuu",
+      "members": "Kilaaraa Maarkis"
+    },
+    "silkScreen": {
+      "heading": "Agarsiisa's Silk Screening",
+      "members": "Daafnee Alves jedhamti"
+    },
+    "educational": {
+      "heading": "Pirojektii Barnootaa",
+      "members": "IdeaSpace jedhu"
+    },
+    "communication": {
+      "heading": "Garee Komunikeeshinii",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Raafaa'eel Fernaandees, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Galata Addaa",
+      "members": "Gabri’eelaa Veegaa, Maarseeloo Daantaas, Aan Vaals, Maatiyaas Kaampos Abaad, Saamu’eel Leevii, Beelaa Naardini, & Lii Peeningtoon"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Raafael Fernandes, Bruna Kaayiroo, Conceitos Sólidos, RiseNY&Michoota, IdeaSpace",
+  "imageAlt": "Saatalaayitii Mana Qulqullummaa Orbital"
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "agus tú ag dul isteach i\nndeasghnáth\nchun ainm a sheoladh\nisteach sa\nteampall fithiseach\nsa spás\nanáil a thógáil",
+    "button": "táim réidh"
+  },
+  "nameInput": {
+    "title": "clóscríobh ainm",
+    "subtitle": "ardóidh sé go dtí an Teampall Fithiseach sa spás.",
+    "placeholder": "ainm",
+    "button": "lig dó dul suas"
+  },
+  "emailInput": {
+    "title": "clóscríobh do ríomhphost",
+    "subtitle": "mar sin gheobhaidh tú teachtaireacht nuair a ardaíonn an t-ainm.",
+    "placeholder": "do ríomhphost",
+    "button": "tá sé déanta"
+  },
+  "loading": {
+    "alt": "Ag luchtú"
+  },
+  "success": {
+    "text": "Tá an t-ainm\n{{ainm}}\ni scuaine anois\nle haghaidh ardaithe.\nNuair a bheidh an\nteampall sa spás\nailínithe,\nlenár n-antenna\nar an Domhan\nseolfaimid\nan t-ainm\nagus gheobhaidh tú\nteachtaireacht."
+  }
+}

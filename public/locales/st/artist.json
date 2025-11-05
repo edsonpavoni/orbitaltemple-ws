@@ -1,0 +1,44 @@
+{
+  "title": "Ho tsoa ho Moetsi",
+  "opening": {
+    "question": "Mohlankana enoa ke mang ea ka rerang tempele sebakeng?",
+    "thanks": "Kea leboha ka potso.",
+    "answer": "Karabo e khutšoanyane ke hore ke setsebi. E telele ke ena:"
+  },
+  "origin": {
+    "sao_paulo": "Ke hlahetse mathōkong a São Paulo, sebakeng se ileng sa nthuta ke sa le monyenyane hore na kotsi e bolela’ng. Metsoalle ea ka e mengata ea sekolo e teronkong hona joale. Ntate oa ka e mocha o teronkong. Pefo e ne e se ntho eo ke neng ke bala ka eona, e ne e le lefatše leo ke neng ke tlameha ho le tsamaisa. Mme ke ne ke tseba hore ke hloka ho baleha.",
+    "technology": "Theknoloji e ile ea fetoha tsela ea ka ea ho tsoa. Ke ithutile ho etsa lenaneo, ka ithuta lisebelisoa tsa elektroniki ha ke sa le mocha. Khoutu e ne e le puo e ka nkisang sebakeng se seng. Ho sebetsa ka theknoloji e ne e le ho baleha ha ka bofutsaneng.",
+    "christianity": "Empa hape ke ne ke batla ho ba oa setho, lerato, le ntho eo nka lumelang ho eona. Ke fumane Bokreste, kapa bo mphumane. Ke ile ka amoheloa. Ke ne ke ratwa. Ke ne ke e-na le sechaba. Ke ithutile ho tšoarela, ho lumela, ho tsamaea hammoho bakeng sa morero o moholoanyane.",
+    "price": "Leha ho le joalo, theko e ne e phahame. Hape ke ithutile lintho tse ngata tseo ke ntseng ke sa li tsebe. Kahoo le ’na ke ile ka phonyoha ho seo."
+  },
+  "searching": {
+    "walls": "Ke tseba seo marako a se etsang. Ke li utloile. Ke bile ka mahlakoreng a mabeli: ke bolokoa, ke bolokoa. Se ileng sa latela e bile lilemo tsa ho batla ntho eo ke sa kang ka e bolela ka lebitso. Molimo o ile a shoa lilemong tseo. Leha ho le joalo, molimo eo ke neng ke rutiloe ka eena, ea nang le melao le kahlolo le menyako e neng e bulehetse batho ba bang feela.",
+    "art": "Ke ile ka qala ho etsa bonono ho hlahloba lipotso tsena: mabapi le kamano e haufi-ufi le theknoloji, ka mohopolo le lefu, mabapi le hore na ke mang ea lokeloang ke leholimo. Ke ile ka qala ho haha mechini e nahanang bocha kamano ea rona le thekenoloji, mechine e hlokang ho kenya letsoho ha hao, boteng ba hau, lebitso la hau, ho fetola ho tloha tšepe le khoutu ho ntho e phelang."
+  },
+  "pandemic": {
+    "intro": "Eaba seoa se otla Brazil.",
+    "government": "Ha liente tsa COVID li lieha, mmuso oa ka o ne o ntse o buisana ka lidolara tse le 'ngoe ka tekanyetso. Ba khothalelitse meriana eo ho utloisisoang hore ha e sebetse, e tšeha ha batho ba shoa ba sokola ho hema. Re ne re tsoha letsatsi le leng le le leng ka palo e fapaneng. Ke batho ba bakae ba shoeleng lihoreng tse 24 tse fetileng? Na e ne e le ngata, kapa e le tlase ho feta kamoo ho neng ho lebelletsoe?",
+    "war": "Halofo ea lefatše e ne e tšohile, ’me halofo e ’ngoe e ne e hana. Re ne re le ntoeng, ka kokoana-hloko le ho e mong.",
+    "memorial": "Ke ne ke batla ho theha sebaka bakeng sa mesarelo e kopaneng, ka hona, 'moho le batho ba makholo ke ile ka theha Sehopotso sa Inumeráveis. Mosebetsi oa bonono mateanong a litsela tsa bonono le boralitaba. Re ile ra buisana le malapa a lahlehetsoeng ke motho. Re ngotse pale ea bophelo ba motho eo ba lahlehetsoeng ke bona. Re ile ra fetola lipalo ho ba nalane. Lithothokiso, lipina, lisymphony li entsoe ka nalane eo. Linaleli li ile tsa bala lipale tseo thelevisheneng ea sechaba. Morero o ile oa fihla ho limilione.",
+    "meaning": "Ntho ea bohlokoa e ne e se tekanyo, e ne e le hore pale ka 'ngoe e ne e le lebitso, bophelo, leholimo la motho e mong."
+  },
+  "discovery": {
+    "pattern": "Ka mor'a lipuisano tse fetang likete tse leshome tse nang le mesarelo, mokhoa o ile oa qala ho hlaha. Ha re bua ka motho ea hlokahetseng, ha re bue lintho tse molemo feela; re khetha likaroloana tsa pale ea bona joalokaha eka re ngola lengolo la khothatso. Keletso ho molebedi wa heke ya paradeise. Re etsa sohle seo re ka se khonang ho ba romela sebakeng sa kamohelo, phomolo, tlhompho le mohopolo.",
+    "understanding": "Mme ke ile ka utlwisisa ho hong ho fetotseng ntho e nngwe le e nngwe: Re lemaditswe ke tsona ditempele tseo re di hahileng. Litumelo tsa rona mabapi le hore na ke mang ea lokeloang ke leholimo ka ho toba li theha bao re ba qhelelang ka thoko Lefatšeng. Bo-ralikolone ba Mapotoketsi ba Brazil ba ne ba lumela hore Batho ba Batšo ha ba na meea; tumelo eo e ne e lokafatsa bokhoba. Haeba u le letsoalloa, haeba u tsoaletsoe sebakeng se fosahetseng kapa u rata motho ea fosahetseng, u ne u bolelloa hore menyako ea leholimo e koetsoe ho uena.",
+    "birth": "Ke kamoo Orbital Temple e ileng ea tsoaloa kateng."
+  },
+  "shaman": {
+    "secular": "Ha ho moetsi oa litšoantšo eo e hlileng e leng oa lefatše. Re tlameletsoe ka ho sa feleng ho moholo-holo oa rona, shaman. Qalong, ho ne ho e-na le lehaha. Batho ba ile ba penta liphoofolo maboteng eseng ho khabisa, empa ho li kopa. Ba tantsha, mme lehaha la fetoha tempele. Shaman o sebelisa moea oa moetlo; moetsi oa litšoantšo o sebelisa aura ea bonono. Re penta, re betla, re kenya khoutu, re rala bokamoso ba rona bo lakatsehang eseng ho khabisa, empa ho kopa. Bonono bohle ke ba moea, leha bo bolela hore ha bo joalo."
+  },
+  "space": {
+    "question": "Re ne re ka haha tempele hokae e se nang marako? Moo ho neng ho se sechaba kapa bolumeli bo neng bo ka ipolela. Moo re neng re ka inahanela re le sehlopha se le seng.",
+    "answer": "Sebaka.",
+    "description": "Sathelaete ea kopanelo ea bonono e tsoang Global South. Tempele e potolohang e memelang bohle ho romela mabitso a bona sebakeng, ho sa tsotelehe hore na ke bo-mang, ba tsoaletsoe hokae, ba rata mang, ba lumela eng. Sebaka seo ho kenyeletsoang ka matla ho ka khonehang, ho potoloha, ho feta meeli.",
+    "mission": "Morero ona ke mohloli o bulehileng. Tokomane e 'ngoe le e' ngoe ea tekheniki, mohala o mong le o mong oa khoutu o tla fumaneha ka bolokolohi e le hore baetsi ba bang, lichaba tse ling, lichaba tse ling li ka iketsetsa li-satellite. Kahoo Global South ha e nke karolo ho hlahlobisisa sepakapaka feela, empa e e etella pele."
+  },
+  "closing": {
+    "answer": "Joale monna enoa ke mang ea ka ahang tempele sebakeng? Ha ke e hahe. Tempele e hahuoa ke e mong le e mong ea etsang qeto ea ho romela lebitso, ho le bona le halalela, ho le etsa ea sebele. Ke 'na feela ea sisinyang. Ke uena ea e hahang haeba u etsa qeto ea ho.",
+    "signature": "Ka mosa,",
+    "name": "Edson Pavoni"
+  }
+}

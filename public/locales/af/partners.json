@@ -1,0 +1,50 @@
+{
+  "title": "Vennote - Orbitale Tempel",
+  "heading": "Vennote",
+  "intro": "Orbital Temple bestaan deur die vrygewigheid, kundigheid en visie van buitengewone vennote. Van die ingenieurswese van satelliete tot die skep van narratiewe, van die oopmaak van deure in verre lande tot die giet van drome in goud, elke samewerking bring hierdie tempel nader aan die sterre.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Vennote",
+      "description": "Kommunikasie, geïntegreerde ervarings en asemrowende 3D-beelde wat die satelliet se visie tot lewe gebring het voordat dit ooit die leegte van die ruimte geraak het."
+    },
+    "highestMantra": {
+      "name": "Ons Hoogste Mantra",
+      "description": "Onder leiding van Sathi Roy, verbind Orbital Temple met Indië se spirituele en artistieke gemeenskappe. Maak paaie oop vir fondsinsameling, kulturele uitruiling en 'n Art Basel-uitstalling na die bekendstelling in November 2025."
+    },
+    "allToSpace": {
+      "name": "Alles na die ruimte",
+      "description": "Brasiliaanse klein satellietspesialiste. Vier jaar van samewerking met die bou van 'n oopbron-hardewareplatform en die baanbrekerswerk in die proses om kuns vanuit die Globale Suide in 'n wentelbaan te stuur."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indiese Ruimtenavorsingsorganisasie. Lanseringsverskaffer vir die PSLV-sending wat Orbital Temple in November 2025 na 'n sonsinchrone wentelbaan dra."
+    },
+    "mercosul": {
+      "name": "13de Mercosur Biënnale",
+      "description": "Porto Alegre, Brasilië. Samegestel deur Marcello Dantas met assistent-kurators Laura Cattani, Munir Klamt, Tarsila Riso en Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Werkswinkel",
+      "description": "Die satellietontwikkelingspan het tydens die II ArtSat-werkswinkel gevorm. Gekoördineer deur Fabiane M. Borges, in opdrag van Lázaro Camargo, saamgewerk deur Ítalo Pinto Rodrigues, onder toesig van Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Vaste Konsepte",
+      "description": "Onder leiding van Eduardo Dias. Alle 3D-drukwerk en goudmikrogietwerk vir die beeldhoukoepel, wat digitale drome in edelmetaalwerklikheid omskep."
+    },
+    "ideaSpace": {
+      "name": "Idee Ruimte",
+      "description": "Brasiliaanse onderwysstartup ontwikkel die Quebrada-ruimteprogram-kurrikulum, gereed om op hoërskoolleerlinge regoor Brasilië toegepas te word."
+    }
+  },
+  "closing": "Belanggestel in &#39;n vennootskap met Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Kontak ons</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Vennote-logo",
+    "highestMantra": "Ons Hoogste Mantra-logo",
+    "allToSpace": "Alles na die Ruimte-logo",
+    "isro": "ISRO-logo",
+    "mercosul": "13de Mercosur Biënnale Logo",
+    "inpe": "INPE ArtSat Werkswinkel Logo",
+    "solidConcepts": "Solid Concepts-logo",
+    "ideaSpace": "Idee Ruimte Logo"
+  }
+}

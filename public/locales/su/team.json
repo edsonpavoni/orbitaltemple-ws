@@ -1,0 +1,61 @@
+{
+  "title": "Tim - Kuil Orbital",
+  "heading": "Tim",
+  "artist": "Edson Pavoni, artis",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Produser Eksekutif",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Téknik Systems",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Téknik éléktronik",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Parangkat lunak",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Desain jeung Arsitéktur",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Percetakan 3D",
+      "members": "Solid Concepts, dina kapamimpinan Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rendering 3D",
+      "members": "Guilherme Bullejos & RiseNy & Mitra"
+    },
+    "research": {
+      "heading": "Panalungtikan",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produksi Pameran, Fotografi & Nyiptakeun Kandungan",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Screening Sutra Pameran",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Proyék atikan",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Tim Komunikasi",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Hatur nuhun husus",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Fertia Pedro Vidittigal, Rafael Cairo Vidigal, Ta. Conceitos Sólidos, RiseNY & Mitra, IdeaSpace",
+  "imageAlt": "Satelit Kuil Orbital"
+}

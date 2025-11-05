@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "d'Konschtwierk",
+    "sendAName": "en Numm schécken",
+    "fromTheArtist": "vum Kënschtler",
+    "yetAnotherTemple": "nach en aneren Tempel?",
+    "howItWorks": "wéi et funktionéiert",
+    "spaceLaunch": "Weltraumstart a Risiken",
+    "briefHistory": "kuerz Geschicht vun der Konscht am Weltraum",
+    "education": "Ausbildung & Open Source",
+    "sustainability": "Nohaltegkeet a Weltraumschrott",
+    "press": "Press & Medien",
+    "team": "Equipe",
+    "partners": "Partner",
+    "support": "Ënnerstëtzung",
+    "technicalInfo": "technesch Informatiounen"
+  },
+  "ritual": {
+    "label": "Ritual",
+    "ariaLabel": "Gitt an de Ritual eran - Schéckt en Numm un den Orbitaltempel"
+  },
+  "footer": {
+    "credits": "Orbital Temple ass e Konschtwierk vum Edson Pavoni, erstallt an Zesummenaarbecht mam Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, an all déi, déi weiderhin dësen Tempel schécken."
+  }
+}

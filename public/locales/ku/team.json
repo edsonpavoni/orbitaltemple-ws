@@ -1,0 +1,61 @@
+{
+  "title": "Tîm - Perestgeha Orbital",
+  "heading": "Kom",
+  "artist": "Edson Pavoni, hunermend",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Hilberînerê Rêveber",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Endezyariya Hewayî û Sîstemê",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Endezyariya Elektronîkî",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Nermalav",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Dizayn û Mîmarî",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Çapkirina 3D",
+      "members": "Solid Concepts, di bin serokatiya Eduardo Dias de"
+    },
+    "rendering": {
+      "heading": "Renderkirina 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Lêkolîn",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Berhemhênana Pêşangehê, Wênekêşî û Afirandina Naverokê",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Sernivîsa Hevrîşimê ya Pêşangehê",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Projeya Perwerdehiyê",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Tîma Ragihandinê",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Spasên Taybet",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Tampigal, André Biagioni, Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Peyka Perestgeha Orbital"
+}

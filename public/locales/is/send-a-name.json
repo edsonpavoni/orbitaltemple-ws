@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "þegar þú gengur inn í\nathöfn\ntil að senda nafn\ninn í\nhofið á brautinni\ní geimnum\ntaktu\nandan",
+    "button": "ég er tilbúinn"
+  },
+  "nameInput": {
+    "title": "sláðu inn nafn",
+    "subtitle": "það mun rísa upp í Orbital-musterið í geimnum.",
+    "placeholder": "nafn",
+    "button": "láttu það stíga upp"
+  },
+  "emailInput": {
+    "title": "sláðu inn netfangið þitt",
+    "subtitle": "svo þú færð skilaboð þegar nafnið hækkar.",
+    "placeholder": "netfangið þitt",
+    "button": "það er búið"
+  },
+  "loading": {
+    "alt": "Hleður"
+  },
+  "success": {
+    "text": "Nafnið\n{{name}}\ner nú í biðröð\ntil uppstigningar.\nÞegar\nhofið í geimnum\nstillir sig upp,\nvið\nloftnetið\nokkar\ná jörðinni\nsendum við\nnafnið\nog þú munt fá\nskilaboð."
+  }
+}

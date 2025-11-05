@@ -1,0 +1,17 @@
+{
+  "title": "Tehniki maglumatlar - Orbital ybadathana",
+  "heading": "Tehniki maglumatlar",
+  "satellite": {
+    "heading": "Sputnik",
+    "specs": "Ölçegleri: 50x58x64 mm<br /> 1P PocketQube<br /> Agramy: 245 gr<br /> Materiallar: alýumin, altyn, süýümli aýna we elektron bölekleri.<br /> Orbitasy: 525 ± 25 km belentlik; meýilli: SSO 97,6 ± 0,1 °"
+  },
+  "antenna": {
+    "heading": "Antenna / heýkeltaraşlyk",
+    "specs": "Ölçegleri: 6 m (diametri) e 1,2 m (beýiklik)<br /> Agramy: 46 kg<br /> Materiallar: alýumin, epoksi aýnaly tagta, kükürt gurluşy arkaly asylan altyn alýumin gümmez."
+  },
+  "radio": {
+    "heading": "Radio aýratynlyklary NASA-katalog:",
+    "specs": "TBD baglanyşygy: 437 MGs<br /> Jaň:: agdaýy: 2025-nji ýyl üçin meýilnama"
+  },
+  "imageAlt": "Tehniki maglumatlar diagrammasy"
+}

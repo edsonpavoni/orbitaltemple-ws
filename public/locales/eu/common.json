@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "artelana",
+    "sendAName": "bidali izena.",
+    "fromTheArtist": "artistarengandik.",
+    "yetAnotherTemple": "hala ere, beste tenplu bat?",
+    "howItWorks": "nola funtzionatzen duen",
+    "spaceLaunch": "espazioko jaurtiketak eta arriskuak",
+    "briefHistory": "espazioko artearen historia laburra",
+    "education": "hezkuntza eta kode irekia",
+    "sustainability": "iraunkortasuna eta espazioko hondakinak",
+    "press": "prentsa eta komunikabideak",
+    "team": "taldea",
+    "partners": "bazkideak",
+    "support": "laguntza",
+    "technicalInfo": "informazio teknikoa"
+  },
+  "ritual": {
+    "label": "erritual",
+    "ariaLabel": "Sartu errituala - Bidali izen bat Orbital Tenplura"
+  },
+  "footer": {
+    "credits": "Orbital Temple Edson Pavoniren artelana da, Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy eta tenplu honetara izenak bidaltzen jarraitzen duten guztiek elkarlanean sortua."
+  }
+}

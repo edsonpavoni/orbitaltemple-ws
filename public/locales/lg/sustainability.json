@@ -1,0 +1,44 @@
+{
+  "title": "Obuwangaazi & Ebisasiro by'omu bwengula - Orbital Temple",
+  "heading": "Okwebeezawo",
+  "intro": {
+    "paragraph1": "Bwe kiba nti ebifaananyi bigenda kututwala mu biseera eby’omu maaso, tebiyinza kubuusa maaso bizibu bye twolekagana nabyo —okugwa kw’obutonde, obutali bwenkanya mu bantu, n’okusoomoozebwa okweyongera okw’ebifunfugu by’omu bwengula. Orbital Temple ekoleddwa nga etunuulidde ebintu bino ebituufu, ng’egenderera okuba okubeerawo okw’obuvunaanyizibwa ku Nsi ne mu nkulungo.",
+    "paragraph2": "Tukkiriza nti okuyimirizaawo si kiziyiza wabula kitundu kikulu nnyo mu kwolesebwa kwaffe okw’ekikugu. Buli kusalawo ku bintu, enzirukanya, n’emirimu kwoleka okwewaayo kwaffe okuva ku nsi n’obwengula byombi nga bisinga bwe twabisanga."
+  },
+  "spaceDebris": {
+    "heading": "Ebifunfugu by’omu bwengula",
+    "paragraph1": "Ebifunfugu by’omu bwengula kye kimu ku bisinga okusoomoozebwa okunoonyereza mu bwengula. Enkumi n’enkumi za setilayiti n’obutundutundu obutakyaliwo byetooloola Ensi, ne bitiisa emisomo egy’amaanyi era ne bikola ekifaananyi kya cascade ekiyinza okufuula enzirukanya ezimu obutakozesebwa.",
+    "paragraph2": "Orbital Temple kino ekikola mu ngeri eziwerako:",
+    "list": {
+      "orbit": "<strong>Enzirukanya y’enjuba ekwatagana ku kiromita 525:</strong> Obugulumivu buno bukakasa nti okusika kw’empewo okw’obutonde kujja kuleetera setilayiti okuddamu okuyingira mu bbanga ly’ensi mu myaka nga 10, gy’ejja okwokya ddala. Tetulina kye tukola ku bifunfugu by’enkulungo ebiwangaala.",
+      "size": "<strong>Enteekateeka ya PocketQube:</strong> Ku mm 50×58×64 zokka ne 245g, setilayiti eno ntono nnyo okusobola okufuumuuka ddala ng’eddamu okuyingira, nga tewali bifunfugu ku nsi.",
+      "responsibility": "<strong>Tewali kukaddiwa kutegekeddwa:</strong> Obutafaananako setilayiti ez’ettunzi eziyinza okusuulibwa, Orbital Temple ekoleddwa okuva ku nkulungo mu butonde, ng’etuukiriza ebiragiro by’ensi yonna ebikwata ku mirimu egy’obuvunaanyizibwa mu bwengula."
+    },
+    "paragraph3": "Nga tulonda enzirukanya y’Ensi eya wansi n’enteekateeka entono, tukakasa nti okubeerawo kwa Orbital Temple mu bwengula kwa kaseera buseera era tekucaafuwaza."
+  },
+  "carbonNeutrality": {
+    "heading": "Obutabeera na buzibu bwa kaboni",
+    "content": "Ebifulumizibwa byonna ebya kaboni ebikwatagana ne Orbital Temple —nga mw’otwalidde n’okukola setilayiti, okusimbula, okukola siteegi ku ttaka, okukyaza emikutu gya yintaneeti, n’okutambula nga ttiimu —bijja kusasulwa mu bujjuvu okuyita mu nteekateeka z’okuwola kaboni ezikakasibwa. Tuli beetegefu okufuula omulimu guno ogutaliimu mbeera y’obudde."
+  },
+  "openSource": {
+    "heading": "Ebikozesebwa mu Open Source",
+    "paragraph1": "Obuwangaazi era kitegeeza obutayonoona kumanya. Buli kitundu kya tekinologiya ekya Orbital Temple —schematics, code, communication protocols, n’enkola z’okuzimba —kijja kufulumizibwa nga open source documentation.",
+    "paragraph2": "Kino kisobozesa emisomo egy’omu maaso okuzimba ku mulimu gwaffe okusinga okutandika okuva ku ntobo, okukendeeza ku kunoonyereza n’okukulaakulanya ebitaliimu. Efuula demokulasiya okufuna tekinologiya w’omu bwengula naddala eri ebitundu mu Global South mu byafaayo ebibadde bigobeddwa mu kunoonyereza mu bwengula."
+  },
+  "educational": {
+    "heading": "Enkosa mu by’enjigiriza",
+    "paragraph1": "Enteekateeka yaffe ey’okusomesa ennimi nnyingi ey’obwereere esomesa abayizi mu nsi yonna engeri y’okuzimba n’okusimbula setilayiti, ng’essira liteekeddwa ku Global South. Nga tuwa omulembe oguddako amaanyi n'obukugu mu tekinologiya w'omu bwengula, tuyambako mu kuggalawo \"Ekitundu ky'Obwengula\" n'okutondawo emikisa egyandibaddewo.",
+    "paragraph2": "Omulimu guno ogw’okusomesa gwennyini ngeri ya kuyimirizaawo —okussa ssente mu bantu n’ebitundu okuleeta enkyukakyuka ey’olubeerera okusukka obulamu bwa setilayiti."
+  },
+  "tenYear": {
+    "heading": "Obubaka bwa Emyaka 10",
+    "paragraph1": "Orbital Temple ekoleddwa okukola omulimu ogw’emyaka kkumi, so si kukola kaseera katono ak’okumanyisa abantu. Mu myaka kkumi, setilayiti eno ejja kwetooloola Ensi emirundi nga 50,000, efune amannya era ekola ng’ekijjukizo nti obwengula buyinza okuba obw’awamu, obutuukirirwa bonna.",
+    "paragraph2": "Oluvannyuma lw’omulimu gwayo okuggwa, mu butonde sseetilayiti eno ejja kuva ku nkulungo n’eyokebwa, terekewo kalonda yenna okuggyako mu bijjukizo n’ebiwandiiko by’abo abeetabye mu mpaka zino."
+  },
+  "artsResponsibility": {
+    "heading": "Obuvunaanyizibwa bwa Art",
+    "paragraph1": "Bulijjo art ebadde ndabirwamu ya mulembe gwayo, nga eraga empisa zaffe n’ebiruubirirwa byaffe. Mu mulembe guno ogw’obuzibu bw’embeera y’obudde n’obutali bwenkanya obweyongera, tukkiriza nti abayimbi balina obuvunaanyizibwa okutondawo emirimu egitakoma ku kwogera ku nsonga zino wabula okuzikolako n’obunyiikivu.",
+    "paragraph2": "Orbital Temple ye kaweefube waffe okutondawo omulimu gw’ekikugu ogukwata ku bantu bonna, ogw’obuvunaanyizibwa mu kukosa obutonde bw’ensi, era omugabi mu kugabana okumanya kwakyo n’ensi yonna. Buno bwe buyiiya obuyita buli muntu okwetabamu ng’essa ekitiibwa mu nkola ezitali nnywevu —ez’obutonde n’ez’enkulungo —ezisobozesa obulamu n’okunoonyereza."
+  },
+  "imageAlt": "Satellite ya Yeekaalu ey’enkulungo"
+}

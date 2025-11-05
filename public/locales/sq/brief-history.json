@@ -1,0 +1,77 @@
+{
+  "title": "Histori e Shkurtër e Artit në Hapësirë - Tempulli Orbital",
+  "heading": "Histori e shkurtër e artit në hapësirë",
+  "intro": "Që nga lançimi i parë i suksesshëm i një sateliti artificial në <strong>vitin 1957</strong> , mbi dhjetë mijë satelitë kanë ardhur në orbitën e Tokës. Në këtë epokë të re, artistët kanë gjetur një mënyrë për të zgjeruar praktikën e tyre dhe hapësira është bërë një lloj i ri kanavacë. Me këtë, kanë lindur pyetje themelore rreth politikës së eksplorimit të hapësirës - megjithëse ende nuk është trajtuar shumë më tepër.",
+  "sections": {
+    "leonov": {
+      "text": "Vepra e parë artistike e krijuar në hapësirë ishte një vizatim i një lindjeje dielli mbi Tokë, i bërë nga astronauti rus <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexei Leonov</a></strong> ndërsa ishte në bordin e Voskhod 2 në <strong>vitin 1965</strong> .",
+      "caption": "Vepra e parë e artit e krijuar në hapësirë dhe lapsat që Alexei Leonov përdori për ta vizatuar atë. Foto: Muzeu i Qendrës së Trajnimit të Kozmonautëve Yuri Gagarin"
+    },
+    "moonMuseum": {
+      "paragraph1": "Tre vjet më vonë, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">në Muzeun e Hënës</a></strong> , një pllakë qeramike shumë e vogël që supozohet se u ul në Hënë me mbishkrime nga gjashtë prej artistëve më të shquar në SHBA në atë kohë: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> dhe <strong>Andy Warhol</strong> .",
+      "caption1": "Imazh i Muzeut të Hënës nga artikulli origjinal i New York Times. Gishti i madh errëson vizatimin e Warholit.",
+      "paragraph2": "Kontributi provokues i Warhol-it - sipër majtas - e bëri këtë projekt një sfidë për mediat e komunikimit në atë kohë.",
+      "caption2": "Imazhi që New York Times zgjodhi të publikojë, me veprën artistike të dukshme më poshtë dhe vizatimin e Andy Warhol në këndin e sipërm të majtë."
+    },
+    "fallenAstronaut": {
+      "text": "Në <strong>vitin 1971</strong> , një skulpturë alumini humanoide në shkallë të vogël e quajtur <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Astronaut i Rënë&quot;</a></strong> u vendos në Hënë nga astronauti i Apollo 15, <strong>David Scott</strong> . Artisti belg <strong>Paul Van Hoeydonck</strong> kishte për qëllim, me këtë vepër, të përkujtonte astronautët dhe kozmonautët që kanë vdekur në përparimin e eksplorimit të hapësirës.",
+      "caption": "Pamje e pllakës përkujtimore të lënë në hënë në vendin e uljes Hadley-Apenine."
+    },
+    "pioneerVoyager": {
+      "text": "Në <strong>vitet 1970</strong> , si <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pllakat Pioneer</a></strong> ashtu edhe <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sondat Voyager</a></strong> vendosën horizonte të reja për artin në hapësirë. Duke mbajtur pllaka alumini të anodizuara me ar me mesazhe vizuale nga Toka për çdo udhëtar tjetër hapësinor që mund ta gjente atë në të ardhmen e largët, ato përshkruan jetën njerëzore në elementët e saj më themelorë.",
+      "caption": "Pllaka të Pioneer 10 dhe 11, të transportuara në hapësirën e thellë në vitet 1970."
+    },
+    "dove": {
+      "text": "Në <strong>vitin 1990</strong> , Brazili la gjurmën e tij në këtë territor me <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , një satelit amator gjenial me fuqi të madhe poetike. Edhe pse krijuesi i tij nuk e konsideronte veten artist, ishte një përpjekje thellësisht poetike: ai regjistroi zërat e fëmijëve që kërkonin paqe dhe i transmetoi ato te më shumë se dy mijë radioamatorë në të gjithë botën, duke transformuar një CubeSat pionier në një vepër kolektive zanore.",
+      "caption": "DOVE/OSCAR-17, sateliti poetik i Brazilit që transmeton zërat e fëmijëve për paqe, 1990."
+    },
+    "lastPictures": {
+      "text": "Në <strong>vitin 2012</strong> , artisti <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> lançoi <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;The Last Pictures&quot;</a></strong> , një disk të mikro-gdhendur që përmbante 100 fotografi të bashkangjitura në satelitin e komunikimit Echostar XVI në orbitën gjeostacionare. I projektuar të zgjasë miliarda vjet, ai është menduar të mbijetojë qytetërimin njerëzor si një artefakt arkeologjik për të ardhmen e largët.",
+      "caption": "“The Last Pictures”, një disk i mikro-gdhendur i projektuar për të mbijetuar më shumë se njerëzimi, u lançua në vitin 2012."
+    },
+    "ulises": {
+      "text": "Në <strong>vitin 2015</strong> , <strong>Colectivo Espacial Mexicano</strong> (Kolektivi Hapësinor Meksikan) lançoi <strong>Ulises I</strong> , një nanosatelit të konceptuar si një operë konceptuale nën drejtimin e artistit <strong>Juan José Díaz Infante Casasús</strong> . Sateliti u transportua në stratosferë me një tullumbace gjatë Feria del Libro de Guadalajara. I projektuar për të shpërthyer në afërsisht katër orë dhe për t&#39;u ulur me parashutë.",
+      "caption": "Ulises I, një opera konceptuale satelitore nga Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Vetëm në <strong>vitin 2014</strong> u lançua sateliti i parë thjesht artistik. Projekti <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> i Universitetit të Tokios dërgoi të dhëna hapësinore në Tokë që u përdorën në instalime arti dhe krijim muzikor.",
+      "caption1": "Korniza dhe pjesët rezervë të ARTSAT-1 Invader që mbetën në Tokë.",
+      "caption2": "misioni [SPACE x ART] − ekspozita Beyond Cosmologies e mbajtur në Muzeun e Artit Bashkëkohor në Tokio"
+    },
+    "kac": {
+      "text": "Artisti bashkëkohor brazilian dhe amerikan <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> ka kontribuar në artin hapësinor përmes bashkëpunimeve me <strong>NASA-n</strong> dhe <strong>SpaceX</strong> . <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Teleskopi i brendshëm&quot;</a></strong> i tij ( <strong>2017</strong> ), krijuar me astronautin francez <strong>Thomas Pesquet</strong> , rezultoi në një skulpturë të bërë në <strong>Stacionin Ndërkombëtar Hapësinor</strong> .",
+      "caption": "Teleskopi i brendshëm në Stacionin Ndërkombëtar Hapësinor, krijuar me astronautin francez Thomas Pesquet, 2017."
+    },
+    "enoch": {
+      "text": "Në <strong>vitin 2018</strong> , një CubeSat pasiv i ndërtuar si një projekt arti u lëshua në orbitë. I zhvilluar nga artisti konceptual bahamian <strong>Tavares Strachan</strong> , <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> përmban një kavanoz kanopik prej ari 24 karatësh me një bust të astronautit të parë afrikano-amerikan, <strong>Robert Henry Lawrence Jr.</strong>",
+      "caption": "ENOCH (njësi ekspozimi), 2015-2017. ⓒ Tavares Strachan, foto ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Në të njëjtin vit, <strong>Reflektori Orbital</strong> <strong>i Trevor Paglen</strong> u lançua gjithashtu si një skulpturë e vendosur në një CubeSat jofunksional. Vepra ishte një gjest artistik që synonte të ndryshonte mënyrën se si e shohim vendin tonë në botë. Nuk u vendos siç duhet. Edhe pse nuk u hap kurrë siç ishte projektuar, ajo nxiti biseda jetësore dhe tërhoqi reagime pasionante nga astronomë, shkencëtarë, media, edukatorë, studentë dhe publiku i gjerë në mbarë botën, duke demonstruar se arti i suksesshëm nuk ka nevojë të jetë teknikisht i suksesshëm.",
+      "caption": "Renderim Dixhital i Reflektorit Orbital, 2018"
+    },
+    "others": {
+      "text": "Shumë artistë të tjerë kanë kontribuar në fushën e artit hapësinor, secili duke sjellë perspektiva unike në kërkimin e tij. Projektet e shquara përfshijnë kërkimin artistik astronaut <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">të Sarah Jane Pell</a></strong> që eksploron performancën njerëzore në mjedise ekstreme; projektin <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">të Agnes Meyer-Brandis</a></strong> që shqyrton rrëfimet historike dhe bashkëkohore të eksplorimit të hapësirës; programin <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">të Nahum</a></strong> që lehtëson eksperimentet artistike të mikrogravitetit; dhe skulpturën <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">të Arthur Woods</a></strong> , skulptura e parë e ekspozuar në hapësirë në stacionin Mir në vitin 1993."
+    },
+    "orbitalTemple": {
+      "text": "Në <strong>vitin 2025</strong> , pas 4 vitesh kërkimi dhe zhvillimi, artisti brazilian <strong>Edson Pavoni</strong> dhe një grup bashkëpunëtorësh multidisiplinarë do të lançojnë <strong>Orbital Temple</strong> , një satelit arti pjesëmarrës që fton këdo në botë të dërgojë emra në orbitë, duke krijuar një memorial rrënjësisht gjithëpërfshirës përtej kufijve.",
+      "caption": "Tempulli Orbital në Bienalen Mercosul. Foto: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Vizatimi dhe lapsat e Alexei Leonov",
+    "moonMuseum": "Napolitane qeramike e Muzeut të Hënës",
+    "moonMuseumWarhol": "Napolitane qeramike e Muzeut të Hënës që tregon të gjitha veprat e artit",
+    "fallenAstronaut": "Memoriali i Astronautëve të Rënë në Hënë",
+    "pioneerPlaques": "Pllaka Pionierësh",
+    "dove": "Sateliti WHERE/OSCAR-17",
+    "lastPictures": "Disku \"Fotografitë e Fundit\"",
+    "ulises": "Sateliti Ulises I",
+    "artsatInvader": "Struktura e satelitit ARTSAT-1 Invade",
+    "artsatArt": "Vepër arti e krijuar nga të dhënat e ARTSAT-1",
+    "innerTelescope": "Teleskopi i Brendshëm i Eduardo Kac",
+    "enoch": "Njësia e ekspozimit ENOCH e Tavares Strachan",
+    "orbitalReflector": "Reflektori Orbital i Trevor Paglen",
+    "orbitalTemple": "Sateliti Orbital Temple"
+  }
+}

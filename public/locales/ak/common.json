@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "adwinni no",
+    "sendAName": "fa din bi mena",
+    "fromTheArtist": "efi mfoniniyɛfo no hɔ",
+    "yetAnotherTemple": "nanso, asɔredan foforo?",
+    "howItWorks": "sɛnea ɛyɛ adwuma",
+    "spaceLaunch": "ahunmu a wɔde tow hyɛn mu ne asiane ahorow",
+    "briefHistory": "adwinni ho abakɔsɛm tiawa a ɛwɔ ahunmu",
+    "education": "nhomasua & open source",
+    "sustainability": "nneɛma a ɛbɛkɔ so atra hɔ daa ne ahunmu nneɛma a asɛe",
+    "press": "press & nsɛm ho amanneɛbɔfo",
+    "team": "ekuo",
+    "partners": "ahokafo",
+    "support": "mmoa",
+    "technicalInfo": "mfiridwuma ho nsɛm"
+  },
+  "ritual": {
+    "label": "amanne kwan so",
+    "ariaLabel": "Hyɛ amanne no mu - Fa din kɔ Orbital Asɔredan no mu"
+  },
+  "footer": {
+    "credits": "Orbital Asɔredan yɛ adwini a Edson Pavoni yɛe, a ɔne Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ne wɔn a wɔkɔ so de din kɔ saa asɔredan yi nyinaa abom ayɛ."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "bi o ti nwọle\na irubo\nlati fi orukọ ranṣẹ\nsinu\norbital tẹmpili\nni aaye\ngba\na ìmí",
+    "button": "Mo setan"
+  },
+  "nameInput": {
+    "title": "tẹ orukọ kan",
+    "subtitle": "yoo dide si tẹmpili Orbital ni aaye.",
+    "placeholder": "oruko",
+    "button": "jẹ ki o goke"
+  },
+  "emailInput": {
+    "title": "tẹ imeeli rẹ",
+    "subtitle": "nitorinaa o gba ifiranṣẹ nigbati orukọ ba goke.",
+    "placeholder": "imeeli rẹ",
+    "button": "o ti ṣe"
+  },
+  "loading": {
+    "alt": "Ikojọpọ"
+  },
+  "success": {
+    "text": "orukọ\n{{oruko}}\nti wa ni bayi ti isinyi\nfun igoke.\nnigbati awọn\ntẹmpili ni aaye\naligns, pẹlu\neriali wa\nlori Earth\nao firanṣẹ\norukọ\nati pe iwọ yoo gba\nifiranṣẹ kan."
+  }
+}

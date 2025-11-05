@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Tempulli Orbital",
+    "subtitle": "është një vepër arti dhe një satelit,\nqë synon të jetë një tempull radikal gjithëpërfshirës,\nnë një vend ku asnjë mur nuk mund të arrijë."
+  },
+  "ritual": {
+    "label": "ritual"
+  },
+  "cta": {
+    "link": "Megjithatë, një tempull tjetër?",
+    "arrowAlt": "shigjetë"
+  },
+  "dome": {
+    "alt": "Kupolë"
+  }
+}

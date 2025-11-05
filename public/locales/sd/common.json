@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "فن جو ڪم",
+    "sendAName": "نالو موڪليو",
+    "fromTheArtist": "فنڪار کان",
+    "yetAnotherTemple": "اڃا، ٻيو مندر؟",
+    "howItWorks": "اهو ڪيئن ڪم ڪري ٿو",
+    "spaceLaunch": "خلائي لانچ ۽ خطرا",
+    "briefHistory": "خلا ۾ فن جي مختصر تاريخ",
+    "education": "تعليم ۽ اوپن سورس",
+    "sustainability": "استحڪام ۽ خلائي ملبہ",
+    "press": "پريس ۽ ميڊيا",
+    "team": "ٽيم",
+    "partners": "ڀائيوار",
+    "support": "سپورٽ",
+    "technicalInfo": "ٽيڪنيڪل ڄاڻ"
+  },
+  "ritual": {
+    "label": "رسم",
+    "ariaLabel": "رسم ۾ داخل ٿيو - مداري مندر ڏانهن نالو موڪليو"
+  },
+  "footer": {
+    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+  }
+}

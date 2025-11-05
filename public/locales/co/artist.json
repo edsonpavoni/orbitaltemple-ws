@@ -1,0 +1,44 @@
+{
+  "title": "Da l'Artista",
+  "opening": {
+    "question": "Quale hè questu omu per prupostà un tempiu in u spaziu ?",
+    "thanks": "Grazie per a dumanda.",
+    "answer": "A risposta corta hè chì sò un artista. A longa hè questa:"
+  },
+  "origin": {
+    "sao_paulo": "Sò natu in a periferia di São Paulo, in un quartieru chì m'hà amparatu prestu ciò chì significa u periculu. Parechji di i mo amichi di scola sò in prigiò avà. U mo patrigno hè in prigiò. A viulenza ùn era micca qualcosa chì aghju lettu, era u mondu chì aghju avutu à navigà. È sapia chì avia bisognu di scappà.",
+    "technology": "A tecnulugia hè diventata a mo via d'uscita. Aghju amparatu à programà, aghju amparatu l'elettronica da adolescente. U codice era un linguaghju chì mi pudia purtà in altrò. U travagliu cù a tecnulugia hè stata a mo via di fuga da a miseria.",
+    "christianity": "Ma cercava ancu l'appartenenza, l'amore, qualcosa in cui crede. Aghju trovu u Cristianesimu, o ellu m'hà trovu. Sò statu accettatu. Sò statu amatu. Aghju avutu una cumunità. Aghju amparatu à perdonà, à crede, à avanzà inseme per un scopu più grande.",
+    "price": "U prezzu, però, era altu. Aghju amparatu ancu parechje cose chì sto sempre disimparnendu. Cusì sò scappatu ancu da què."
+  },
+  "searching": {
+    "walls": "So ciò chì facenu i muri. Li aghju sentiti. Sò statu da e duie parti: tenutu fora, tenutu dentru. Ciò chì hè seguitu sò stati anni di ricerca di qualcosa chì ùn pudia micca chjamà. Diu hè mortu durante quelli anni. U diu chì m'era statu insignatu, in ogni modu, quellu cù e regule è u ghjudiziu è e porte chì s'aprianu solu per certe persone.",
+    "art": "Aghju cuminciatu à fà arte per esplorà ste dumande: nantu à l'intimità è a tecnulugia, nantu à a memoria è a morte, nantu à quale merita u celu. Aghju cuminciatu à custruisce macchine chì reimaginanu a nostra rilazione cù a tecnulugia, macchine chì anu bisognu di a vostra participazione, di a vostra presenza, di u vostru nome, per trasfurmà si da u metallu è u codice in qualcosa di vivu."
+  },
+  "pandemic": {
+    "intro": "Dopu a pandemia hà colpitu u Brasile.",
+    "government": "Quandu i vaccini COVID sò stati ritardati, u mo guvernu negoziava tangenti di un dollaru per dosa. Prumovevanu medicine capite per esse inefficace, ridendu mentre a ghjente moria luttendu per respirà. Ci svegliavamu ogni ghjornu cù un numeru diversu. Quante persone sò morte in l'ultime 24 ore ? Era di più, o menu di ciò chì era previstu ?",
+    "war": "A mità di u mondu avia paura, è un'altra mità era in negazione. Eramu in guerra, cù u virus è trà di noi.",
+    "memorial": "Vulìa creà un spaziu per u dolu cullettivu, cusì inseme cù centinaie di persone aghju creatu u Memorial Inumeráveis. Un'opera d'arte à l'intersezione di l'arte è di u ghjurnalismu. Avemu intervistatu famiglie chì avianu persu qualchissia. Avemu scrittu a storia di a vita di a persona chì anu persu. Avemu trasfurmatu i numeri in storie. Puesie, canzoni, sinfonie sò state fatte cù quelle storie. E stelle anu lettu quelle storie in televisione naziunale. U prugettu hà righjuntu milioni di persone.",
+    "meaning": "Ciò chì impurtava ùn era micca a scala, era chì ogni storia era un nome, una vita, u celu di qualchissia."
+  },
+  "discovery": {
+    "pattern": "Dopu à più di dece mila cunversazioni cù u dolu, un mudellu hà cuminciatu à emerge. Quandu parlemu di qualchissia chì hè mortu, ùn dicemu micca solu cose bone; selezziunemu frammenti di a so storia cum'è s'è no scrivessimu una lettera di raccomandazione. Una raccomandazione à u guardianu di u paradisu. Facemu u nostru megliu per mandalli in un locu d'accettazione, di riposu, d'onore è di memoria.",
+    "understanding": "È aghju capitu qualcosa chì hà cambiatu tuttu: simu stati feriti da i tempii chì avemu custruitu. E nostre credenze nantu à quale merita u celu formanu direttamente quale escludimu nantu à a Terra. I culunizatori portughesi in Brasile credevanu chì i neri ùn avianu micca anima; sta credenza ghjustificava a schiavitù. Sè eri indigenu, sè eri natu in u locu sbagliatu o amavi a persona sbagliata, ti era dettu chì e porte di u celu eranu chjuse per tè.",
+    "birth": "Cusì hè natu Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Nisun artista pò esse veramente seculare. Semu per sempre ligati à u nostru antenatu cumunu, u sciamanu. À u principiu, ci era una grotta. L'umani dipingevanu animali nantu à i muri micca per decorà, ma per invucà. Ballavanu, è a grotta hè diventata un tempiu. U sciamanu hà u spiritu di u rituale; l'artista hà l'aura di l'arte. Dipingemu, sculpimu, codificemu, cuncepimu u nostru avvene desideratu micca per decorà, ma per invucà. Tutta l'arte hè spirituale, ancu quandu pretende di ùn esse micca."
+  },
+  "space": {
+    "question": "Induve pudemu custruisce un tempiu senza muri ? Induve nisuna nazione o religione puderia rivendicà. Induve pudemu imaginà ci cum'è un solu gruppu.",
+    "answer": "Spaziu.",
+    "description": "Un satellitu d'arte participativa da u Sud Globale. Un tempiu in orbita chì invita tutti à mandà i so nomi in u spaziu, indipendentemente da quale sò, induve sò nati, quale amanu, ciò chì credenu. Un locu induve l'inclusione radicale hè pussibule, in orbita, oltre e fruntiere.",
+    "mission": "Sta missione hè open source. Ogni documentu tecnicu, ogni linea di codice serà dispunibule gratuitamente per chì altri artisti, altre cumunità, altre nazioni possinu custruisce i so propri satelliti. Cusì u Sud Globale ùn participa micca solu à l'esplorazione spaziale, ma a guida."
+  },
+  "closing": {
+    "answer": "Dunque, quale hè questu tippu per custruisce un tempiu in u spaziu ? Ùn u custruiscu micca eiu. U tempiu hè custruitu da tutti quelli chì decidenu di mandà un nome, di vedelu cum'è sacru, di rende lu reale. Sò solu eiu quellu chì prupone. Sì tù quellu chì u custruisce s'è tù decidi di fà lu.",
+    "signature": "Gentilmente,",
+    "name": "Edson Pavoni"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Texnik ma'lumot - Orbital Temple",
+  "heading": "Texnik ma'lumot",
+  "satellite": {
+    "heading": "Sun'iy yo'ldosh",
+    "specs": "Olchamlari: 50x58x64 mm<br /> 1P PocketQube<br /> Og&#39;irligi: 245 gr<br /> Materiallar: alyuminiy, oltin, shisha tolali va elektron komponentlar.<br /> Orbita: Balandligi 525 ± 25 km; moyillik: SSO 97,6 ± 0,1 °<br /> Launcher: ISRO tomonidan boshqariladigan PSLV (Polar Satellite Launch Vehicle)."
+  },
+  "antenna": {
+    "heading": "Antenna/Haykal",
+    "specs": "Olchamlari: 6 m (diametri) va 1,2 m (balandligi)<br /> Og&#39;irligi: 46 kg<br /> Materiallar: alyuminiy, epoksi oynali taxta, iskala tuzilishi orqali osilgan oltin alyuminiy gumbaz."
+  },
+  "radio": {
+    "heading": "Radio xususiyatlari",
+    "specs": "Pastki ulanish: 468,5 MGts<br /> Modulyatsiya: CSS<br /> O&#39;tkazish qobiliyati: TBD"
+  },
+  "imageAlt": "Orbital Temple sun'iy yo'ldoshi"
+}

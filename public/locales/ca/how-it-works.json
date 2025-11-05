@@ -1,0 +1,8 @@
+{
+  "title": "Com funciona - Temple Orbital",
+  "heading": "Com funciona",
+  "intro": "El projecte del Temple Orbital consta de tres elements interconnectats que treballen conjuntament per enviar noms al temple a l'espai.",
+  "paragraph1": "El satèl·lit orbita la Terra a una altitud d'aproximadament 525 km, i emmagatzema els noms a la seva memòria. Les estacions terrestres es comuniquen amb el satèl·lit durant els seus passos, transmetent els noms que la gent ha enviat a través del lloc web.",
+  "paragraph2": "Quan envieu un nom, aquest s'afegeix a una cua i es transmet al satèl·lit durant la següent passada disponible. Rebreu un correu electrònic de confirmació quan el vostre nom s'hagi pujat correctament al Temple Orbital.",
+  "imageAlt": "Diagrama del sistema del temple orbitari"
+}

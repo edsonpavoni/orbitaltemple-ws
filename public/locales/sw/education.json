@@ -1,0 +1,43 @@
+{
+  "title": "Elimu & Chanzo Huria - Orbital Temple",
+  "heading": "Elimu & Chanzo Huria",
+  "intro": {
+    "paragraph1": "Teknolojia zote zilizotengenezwa kwa ajili ya misheni ya Hekalu la Orbital zitakuwa <strong>chanzo wazi</strong> na zinapatikana mtandaoni kwa <strong>Kireno</strong> , <strong>Kiingereza</strong> , <strong>Kihispania</strong> , na <strong>Kihindi</strong> , na hivyo kukuza maendeleo ya uchunguzi wa anga katika <strong>Ulimwengu wa Kusini</strong> . Misheni na miradi mipya inaweza kutumia Orbital Temple kama msingi wa majaribio yao ya kisanii au kisayansi.",
+    "paragraph2": "Kama sehemu ya dhamira yake ya elimu, Orbital Temple itatoa kozi ya bila malipo ya lugha nyingi kuhusu jinsi ya kujenga na kurusha setilaiti. Itakuwa fursa ya kujifunza kuhusu teknolojia ya satelaiti na kuiweka katika vitendo. Mtu yeyote aliye na umri wa zaidi ya miaka <strong>16</strong> ataweza kujitengenezea satelaiti yake, akijifunza kuhusu historia ya sanaa katika anga za juu, dhana za kimsingi za kielektroniki, ufundi mechanics na sayansi ya anga, ikiwa ni pamoja na jinsi ya kufadhili miradi na jinsi ya kutengeneza antena ili kuwasiliana na satelaiti kwenye obiti."
+  },
+  "spaceGap": {
+    "heading": "Kwa Nini Hili Ni Muhimu: Pengo la Nafasi",
+    "paragraph1": "Neno <strong>&quot;Pengo la Nafasi&quot;</strong> linamaanisha mgawanyiko kati ya mataifa yaliyoendelea ambayo yanaweza kupata fursa za kiteknolojia zinazopatikana kupitia uchunguzi wa anga, na mataifa yanayoendelea ambayo hayana ufikiaji wa teknolojia hizi. Nchi za Kusini mwa Ulimwengu lazima zilipe kiasi kikubwa kwa serikali au makampuni ya kigeni kwa ufikiaji wa kimsingi wa habari zinazozalishwa na teknolojia ya satelaiti.",
+    "paragraph2": "Teknolojia ya anga hutoa manufaa muhimu: setilaiti husaidia kupambana na ukataji miti haramu, uvuvi haramu na biashara haramu ya wanyamapori, ambayo inawakilisha zaidi ya <strong>dola bilioni 73 kwa mwaka</strong> . Wanatoa taarifa muhimu kuhusu hali ya hewa, uzalishaji wa maji, na usalama wa chakula. Satelaiti huwezesha mbinu sahihi za umwagiliaji na kilimo, na kusaidia kuzuia majanga ya asili. Sekta ya anga inaweza kuunda hadi <strong>nafasi za kazi milioni 1</strong> ifikapo <strong>mwaka wa 2030</strong> , lakini fursa hizi bado hazijafikiwa na wengi katika Ukanda wa Kusini.",
+    "paragraph3": "Kwa kutoa teknolojia ya chanzo huria na elimu, tunalenga kuweka kidemokrasia ufikiaji wa nafasi na kuwezesha kizazi kipya kuota zaidi ya anga."
+  },
+  "empowering": {
+    "heading": "Kuwezesha Kizazi Kijacho",
+    "intro": "Tutafundisha kizazi kijacho cha wagunduzi wa anga jinsi ya kuunda na kuzindua setilaiti zao wenyewe, zinazoshughulikia mada muhimu ikiwa ni pamoja na:",
+    "topics": {
+      "history": "<strong>Historia ya sanaa angani:</strong> Kuelewa ukoo wa satelaiti za kisanii na kazi za sanaa zinazotegemea nafasi.",
+      "concepts": "<strong>Dhana kuu:</strong> <strong>ArtSat</strong> (satelaiti za kisanii), teknolojia ya anga <strong>ya Open Source</strong> , na <strong>Nafasi ya Anga</strong> .",
+      "missions": "<strong>Misheni za anga:</strong> Jinsi ya kufikiria na kubuni dhamira, na jinsi ya kuunda timu ya kuitekeleza.",
+      "electronics": "<strong>Elektroniki angani:</strong> Dhana za kimsingi za vijenzi vya kielektroniki vinavyoweza kuishi na kufanya kazi katika mazingira ya anga.",
+      "mechanics": "<strong>Mechanics angani:</strong> Kuelewa mahitaji ya kimuundo na mitambo kwa muundo wa satelaiti.",
+      "orbits": "<strong>Mizunguko na vizindua:</strong> Aina tofauti za mizunguko na jinsi ya kuchagua watoa huduma wa uzinduzi kwa dhamira yako.",
+      "financing": "<strong>Mikakati ya ufadhili:</strong> Jinsi ya kupata ufadhili na rasilimali za kuzindua setilaiti yako. Kozi hii itatoa nyenzo za kupata ufadhili wa uzinduzi wako, kusaidia wanafunzi kupata programu na ruzuku kutoka kwa taasisi za kimataifa zinazosaidia wanasayansi wachanga na wanafunzi kutuma satelaiti zao angani.",
+      "groundStation": "<strong>Ukuzaji wa kituo cha chini:</strong> Jinsi ya kutengeneza antena ili kuwasiliana na Hekalu la Orbital na satelaiti zingine."
+    }
+  },
+  "technology": {
+    "heading": "Teknolojia: Satelaiti za PocketQube",
+    "paragraph1": "Wanafunzi watajifunza kufanya kazi na setilaiti <strong>za PocketQube</strong> , kiwango cha nanosatellite chenye kipimo cha <strong>5cm³</strong> tu na uzani wa hadi <strong>250g</strong> . Licha ya udogo wao, PocketQubes ni zana zenye nguvu zinazoweza kutazama, ufuatiliaji na mawasiliano ya Dunia.",
+    "paragraph2": "Satelaiti hizi fupi zina matumizi mengi ya ulimwengu halisi, kutoka kwa utafiti wa kisayansi juu ya mabadiliko ya hali ya hewa hadi mawasiliano ya mabara. Kwa sababu ni ndogo na nyepesi, zinaweza kujengwa na kuzinduliwa kwa bei nafuu, hivyo kufanya nafasi kufikiwa zaidi na wanafunzi, watafiti na wasanii kote ulimwenguni."
+  },
+  "globalAccess": {
+    "heading": "Ufikiaji Ulimwenguni, Kuanzia Ulimwenguni Kusini",
+    "paragraph1": "Kozi hii itapatikana kwa mtu yeyote <strong>aliye na umri wa miaka 16 au zaidi</strong> , <strong>bila malipo</strong> kabisa. Tunaanza na maudhui katika <strong>Kireno</strong> , <strong>Kihispania</strong> , <strong>Kiingereza</strong> na <strong>Kihindi</strong> , tukiwa na mipango ya kupanua hadi lugha za ziada kadri programu inavyokua.",
+    "paragraph2": "Misheni yetu inaanzia Ulimwenguni Kusini na kuenea ulimwenguni kote, kuhakikisha kwamba kizazi kijacho cha wagunduzi wa anga kinatoka kila pembe ya Dunia."
+  },
+  "callToAction": {
+    "heading": "Tusaidie Kufanya Hili Kutokea",
+    "content": "Mpango huu wa elimu unaendelezwa kwa sasa. Tunatafuta washirika na wafadhili ambao wanashiriki maono yetu ya kufikia kidemokrasia kwa teknolojia ya anga. Ikiwa wewe au shirika lako lingependa kuunga mkono mpango huu, tafadhali tembelea <a href=\"/support\">ukurasa wetu wa usaidizi</a> ili kujifunza kuhusu fursa za ushirikiano."
+  },
+  "imageAlt": "Satelaiti ya Hekalu la Orbital"
+}

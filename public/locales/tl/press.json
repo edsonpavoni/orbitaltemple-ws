@@ -1,0 +1,138 @@
+{
+  "title": "Press & Media - Orbital Temple",
+  "heading": "Press & Media",
+  "pressContact": {
+    "heading": "Pindutin ang Contact",
+    "content": "Para sa mga katanungan sa press, panayam, at kahilingan sa media:<br /> <strong>Email:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Website:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Tungkol sa Proyekto",
+    "paragraph1": "Ang Orbital Temple ay isang likhang sining at isang satellite na naglalayong maging isang radically inclusive na templo, na itinayo kung saan walang maabot na pader. Ginawa ng Brazilian artist na si Edson Pavoni, ang artist sa likod ng Inumeráveis Memorial na umabot sa 1 sa bawat 6 na Brazilian noong panahon ng COVID pandemic, iniimbitahan ng proyekto ang mga tao mula sa buong mundo na ipadala ang pangalan ng isang taong gusto nilang maalala. Ang mga pangalang ito ay ipinadala sa isang satellite sa orbit, na lumilikha ng isang kolektibong pang-alaala.",
+    "paragraph2": "Sa pamamagitan ng isang website na magagamit sa 136 na wika, ang mga kalahok ay nakikibahagi sa isang bagong uri ng ritwal. Sinasaliksik ng Orbital Temple ang mga tema ng pagsasama, memorya, at ang ating ibinahaging sangkatauhan, na nagtatanong kung bakit walang pisikal na templo sa Earth ang tunay na makakatanggap ng lahat, at nagmumungkahi ng espasyo bilang ang tanging lugar kung saan maaaring umiral ang radikal na inclusivity."
+  },
+  "aboutArtist": {
+    "heading": "Tungkol sa Artist",
+    "paragraph1": "<strong>Si Edson Pavoni</strong> ay isang Brazilian na artista na nagsimula ang paglalakbay sa mga lansangan ng São Paulo, kung saan ang konteksto ng kahirapan at karahasan ang humubog sa kanyang mga unang taon. Sa isang bansa kung saan ang Kristiyanismo ay nag-aalok ng isang landas na malayo sa mga lansangan, droga, at karahasan, si Pavoni ay nakahanap ng kanlungan sa pananampalataya, isang tema na sa kalaunan, kapag siya ay naging isang kritiko ng pang-aabuso sa relihiyon, ay ipaalam sa kanyang artistikong kasanayan.",
+    "paragraph2": "Noong 2020, sa panahon ng pandemya ng COVID-19, nilikha ni Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ang Inumeráveis (hindi mabilang)</a></strong> , isang likhang sining sa intersection ng sining at pamamahayag. Ang proyekto ay nakapanayam ng libu-libong pamilya at nagsulat ng mga kwento ng mga nawala sa pandemya, na lumilikha ng isang puwang kung saan ang memorya ay lumampas sa mga numero at istatistika. Ang mga tula, kanta, at simponya ay ginawa gamit ang mga kuwentong iyon. Ang mga pahayagan ay gumawa ng mga pabalat gamit ang mga pangalan at kasaysayan. Lahat ng Brazilian stars tulad ng Oscar winning Fernanda Torres, at mga bituin tulad ni Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo at Lazaro Ramos, at marami pang iba ay nagbasa ng mga kuwentong iyon sa pambansang telebisyon. Ang proyekto ay umabot sa 32 milyong tao, isa sa apat na Brazilian adults. Ito ay naging isang network ng pagpapagaling, isang kolektibong monumento sa memorya.",
+    "paragraph3": "Pagkatapos ng higit sa sampung libong pag-uusap na may kalungkutan, lumitaw ang isang pattern: kapag pinag-uusapan natin ang tungkol sa isang taong namatay, pinipili natin ang mga fragment ng kanilang kuwento na parang sumusulat ng isang liham ng rekomendasyon sa bantay-pinto ng paraiso. Ginagawa namin ang aming makakaya para ipadala sila sa aming pinaniniwalaan na langit. Ang gawaing ito ay nagdulot ng bagong pag-unawa: Ang aming mga paniniwala tungkol sa kung sino ang karapat-dapat sa langit ay direktang humuhubog sa kung sino ang aming tinatanggap o ibinubukod sa Earth. Naniniwala ang mga mananakop na Portuges sa Brazil na walang kaluluwa ang mga Itim; ang paniniwalang iyon ay nagbigay-katwiran sa pagkaalipin. Kung ikaw ay katutubo, kung ikaw ay ipinanganak sa maling lugar o nagmahal sa maling tao, ikaw pa rin, hanggang ngayon, ay sinabihan na ang mga pintuan ng langit ay sarado sa iyo. Mayroon bang pananaw sa hinaharap na hindi napupuno ng pagtanggi?",
+    "paragraph4": "Iyan ay kung paano ipinanganak ang Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Pangunahing Katotohanan",
+    "artist": "<strong>Artist:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Uri ng Proyekto:</strong> Satellite na likhang sining, partikular sa site sa espasyo, ritwal na nakabatay sa web",
+    "launchDate": "<strong>Petsa ng Paglunsad:</strong> Nobyembre 28, 2025",
+    "launchLocation": "<strong>Lokasyon ng Paglunsad:</strong> Satish Dhawan Space Center, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km altitude, Sun-synchronous",
+    "participation": "<strong>Paglahok:</strong> Libre, bukas sa lahat sa buong mundo",
+    "namesSent": {
+      "heading": "<strong>Mga Pangalan na Ipinadala sa Orbit:</strong>",
+      "caption": "<em>Live count na-update mula sa database • Huling na-refresh: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Mga parangal at Pagkilala",
+    "mercosul": {
+      "title": "<strong>Ika-13 Mercosur Biennial</strong> (2022)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "Na-curate ni Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Prize 2022 - Futures Award</strong>",
+      "status": "Longlisted"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Competition</strong>",
+      "award": "Nagwagi - ArtSat Category",
+      "org": "Na-promote ng Brazilian Institute of Space Research (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Koponan",
+    "content": "Ang Orbital Temple ay nilikha sa pakikipagtulungan kasama sina Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andres Fernandes, Rafael Vidigal, Andres Fernandes Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, at lahat ng patuloy na nagmumungkahi ng mga pangalan para sa templong ito."
+  },
+  "pressCoverage": {
+    "heading": "Itinatampok Sa / Press Coverage",
+    "paragraph1": "<em>Ang saklaw ng pindutin at mga feature ay idaragdag kapag available na ang mga ito. Para sa mga pinakabagong update, mangyaring makipag-ugnayan sa aming press team.</em>",
+    "paragraph2": "Kasama sa mga nakaraang eksibisyon at feature ang mga presentasyon sa ika-13 Mercosul Bienal, pagkilala mula sa Lumen Prize, at pagpili ng Brazilian Institute of Space Research (INPE)."
+  },
+  "images": {
+    "heading": "High-Resolution na Mga Larawan para sa Press Use",
+    "intro": "Ang lahat ng mga larawan ay magagamit para sa paggamit ng editoryal. I-click ang anumang larawan upang i-download ang file na may mataas na resolution.",
+    "installationPhotos": {
+      "heading": "Mga Larawan ng Orbital Temple",
+      "credit": "Mangyaring credit: \"Larawan ni Clara Marques / Courtesy of Edson Pavoni, Orbital Temple\"",
+      "view01": "View ng Pag-install 01<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (1.4 MB)",
+      "view02": "View ng Pag-install 02<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (2.9 MB)",
+      "view03": "View ng Pag-install 03<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (11 MB)",
+      "view04": "View ng Pag-install 04<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (3.4 MB)",
+      "view05": "View ng Pag-install 05<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (3.3 MB)",
+      "view06": "View ng Pag-install 06<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (3.7 MB)",
+      "view07": "View ng Pag-install 07<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (3.4 MB)",
+      "view08": "View ng Pag-install 08<br /> Larawan: Clara Marques<br /> ↓ I-download ang High-Res (2.7 MB)",
+      "satelliteDesign": "Disenyo ng Satellite<br /> ↓ I-download",
+      "antennaSculpture": "Antenna/Eskultura<br /> ↓ I-download"
+    },
+    "renders": {
+      "heading": "Orbital Temple Renders",
+      "credit": "Conceptual 3D renderings ng Orbital Temple. Paki-credit: \"3D Rendering ng RiseNY&Partners / Courtesy of Edson Pavoni, Orbital Temple\"",
+      "render01": "3D Rendering 01<br /> RiseNY&amp;Partners<br /> ↓ I-download ang High-Res (10 MB)",
+      "render02": "3D Rendering 02<br /> RiseNY&amp;Partners<br /> ↓ I-download ang High-Res (5.9 MB)",
+      "render03": "3D Rendering 03<br /> RiseNY&amp;Partners<br /> ↓ I-download ang High-Res (5.2 MB)",
+      "render04": "3D Rendering 04<br /> RiseNY&amp;Partners<br /> ↓ I-download ang High-Res (11 MB)",
+      "render05": "3D Rendering 05<br /> RiseNY&amp;Partners<br /> ↓ I-download ang High-Res (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Mga Larawan ng Artist",
+      "photo1": "Larawan 1<br /> ↓ I-download ang High-Res",
+      "photo2": "Larawan 2<br /> ↓ I-download ang High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Mga Larawan ni Sathi Roy",
+      "photo1": "Larawan 1<br /> ↓ I-download ang High-Res (843 KB)",
+      "photo2": "Larawan 2<br /> ↓ I-download ang High-Res (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Teknikal na Pagtutukoy",
+    "satellite": {
+      "heading": "Satellite",
+      "dimensions": "Mga sukat: 50 x 58 x 64 mm",
+      "classification": "Pag-uuri: 1P PocketQube",
+      "weight": "Timbang: 245g",
+      "materials": "Mga Materyales: Aluminyo, ginto, payberglas, mga elektronikong sangkap",
+      "orbit": "Orbit: Altitude 525 ± 25 km; Pagkahilig: SSO 97.6 ± 0.1°",
+      "launch": "Paglunsad: Nobyembre 28, 2025 sa pamamagitan ng ISRO, India"
+    },
+    "antenna": {
+      "heading": "Antenna/Eskultura",
+      "dimensions": "Mga sukat: 6m diameter x 1.2m taas",
+      "weight": "Timbang: 46 kg",
+      "materials": "Mga Materyales: Aluminum, epoxy mirrored board, golden aluminum dome na sinuspinde sa pamamagitan ng scaffolding structure"
+    },
+    "radio": {
+      "heading": "Mga Detalye ng Radyo",
+      "downlink": "Downlink: 437 MHz",
+      "status": "Katayuan ng Paglunsad: Naka-iskedyul sa Nobyembre 28, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Karagdagang Mga Mapagkukunan",
+    "artwork": "→ Tingnan ang Artwork Documentation",
+    "howItWorks": "→ Paano Ito Gumagana",
+    "technicalInfo": "→ Teknikal na Impormasyon",
+    "spaceLaunch": "→ Impormasyon sa Paglunsad ng Space",
+    "ritual": "→ Damhin ang Ritual"
+  },
+  "imageAlts": {
+    "installation": "Orbital Temple Installation ni Edson Pavoni",
+    "satelliteDesign": "Orbital Temple Satellite Design",
+    "antenna": "Orbital Temple Antenna Sculpture",
+    "render": "Orbital Temple 3D Rendering ng RiseNY&Partners",
+    "edsonPortrait": "Edson Pavoni Portrait",
+    "sathiPortrait": "Larawan ni Sathi Roy",
+    "lumenPrize": "Lumen Prize",
+    "mercosulBienal": "Mercosur Biennial"
+  }
+}

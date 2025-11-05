@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "這件藝術品",
+    "sendAName": "發送姓名",
+    "fromTheArtist": "來自這位藝術家",
+    "yetAnotherTemple": "又一座寺廟？",
+    "howItWorks": "工作原理",
+    "spaceLaunch": "太空發射及風險",
+    "briefHistory": "太空藝術簡史",
+    "education": "教育與開源",
+    "sustainability": "永續性和太空碎片",
+    "press": "新聞媒體",
+    "team": "團隊",
+    "partners": "合作夥伴",
+    "support": "支援",
+    "technicalInfo": "科技資訊"
+  },
+  "ritual": {
+    "label": "儀式",
+    "ariaLabel": "進入儀式－向軌道神殿發送一個名字"
+  },
+  "footer": {
+    "credits": "軌道神廟是埃德森·帕沃尼 (Edson Pavoni) 的一件藝術品，與 Pedro Kaled、João Pedro Polito、Victor Baptista & João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Cla Savian Rosa、Clara 以及這座城市提供的名字。"
+  }
+}

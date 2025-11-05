@@ -1,0 +1,61 @@
+{
+  "title": "מאַנשאַפֿט - אָרביטאַל טעמפּל",
+  "heading": "מאַנשאַפֿט",
+  "artist": "עדסאָן פּאַוואָני, קינסטלער",
+  "roles": {
+    "executiveProducer": {
+      "heading": "עקסעקוטיוו פּראָדוצירער",
+      "members": "סאַטי רוי"
+    },
+    "aerospace": {
+      "heading": "לופטפארט און סיסטעמען אינזשעניריע",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "עלעקטראָנישע אינזשעניריע",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "ווייכווארג",
+      "members": "דזשאַנאַטאַן טשערובינאַ"
+    },
+    "design": {
+      "heading": "דיזיין און אַרכיטעקטור",
+      "members": "גילערמע בוליעכאָס"
+    },
+    "printing": {
+      "heading": "3D דרוקן",
+      "members": "סאָליד קאָנצעפּטן, אונטער דער פירערשאַפט פון עדואַרדאָ דיאַס"
+    },
+    "rendering": {
+      "heading": "3D רענדערינג",
+      "members": "Guilherme Bullejos & RiseNy & פּאַרטנערס"
+    },
+    "research": {
+      "heading": "פאָרשונג",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "אויסשטעלונג פּראָדוקציע, פאָטאָגראַפֿיע און אינהאַלט שאַפֿונג",
+      "members": "קלאַראַ מאַרקעס"
+    },
+    "silkScreen": {
+      "heading": "אויסשטעלונג'ס זייד סקרינינג",
+      "members": "דאַפֿנע אַלוועס"
+    },
+    "educational": {
+      "heading": "בילדונגס־פּראָיעקט",
+      "members": "אידעעספּייס"
+    },
+    "communication": {
+      "heading": "קאָמוניקאַציע מאַנשאַפֿט",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "ספּעציעלע דאַנק",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidigalister, Pedro Put קאַיראָ, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "אָרביטאַל טעמפּל סאַטעליט"
+}

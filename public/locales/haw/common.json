@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "home": "Home",
+    "sendName": "Hoʻouna inoa",
+    "about": "E pili ana"
+  },
+  "ritual": {
+    "label": "hoʻomana",
+    "ariaLabel": "E komo i ka hoʻomana - E hoʻouna i kahi inoa i ka Orbital Temple"
+  },
+  "footer": {
+    "credits": "He hana kiʻi ʻo Orbital Temple na Edson Pavoni, i hana pū ʻia me Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, a me nā mea a pau e hoʻomau nei i ka hoʻouna ʻana i nā inoa."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "esi nèle gegem ɖe eme\nkɔnu aɖe si wowɔna\nbe woaɖo ŋkɔ aɖe ɖa\nyi ɖe eme\norbital gbedoxɔ\nle yamenutome\ntsɔ\ngbɔgbɔ aɖe",
+    "button": "me le klalo"
+  },
+  "nameInput": {
+    "title": "ŋlɔ ŋkɔ aɖe",
+    "subtitle": "akɔ ɖe Orbital Gbedoxɔa me le yamenutome.",
+    "placeholder": "ŋkɔ",
+    "button": "na wòanɔ dzi yim"
+  },
+  "emailInput": {
+    "title": "ŋlɔ wò e-mail",
+    "subtitle": "eyata gbedasi aɖe va nɔa asiwò ne ŋkɔa yi dzi.",
+    "placeholder": "wò e-mail la",
+    "button": "wowɔe"
+  },
+  "loading": {
+    "alt": "Wole agba tsɔm"
+  },
+  "success": {
+    "text": "ŋkɔa\n{{ŋkɔ}}\nle fli me fifia\nhena dziƒoyiyi.\nesime\ngbedoxɔ si le yamenutome\naligns, kple\nmíaƒe antenna\nle Anyigba dzi\nmíaɖoe ɖa\nŋkɔa\neye àxɔe\ngbedasi aɖe."
+  }
+}

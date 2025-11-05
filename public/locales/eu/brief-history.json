@@ -1,0 +1,77 @@
+{
+  "title": "Espazioko artearen historia laburra - Orbital Temple",
+  "heading": "Espazioko artearen historia laburra",
+  "intro": "<strong>1957an</strong> satelite artifizial bat arrakastaz jaurti zenetik, hamar mila satelite baino gehiago jarri dira Lurraren inguruan orbitan. Aro berri honetan, artistek beren praktika zabaltzeko modua aurkitu dute eta kanpo-espazioa mihise mota berri bihurtu da. Horrekin batera, espazioaren esplorazioaren politikari buruzko oinarrizko galderak sortu dira, nahiz eta oraindik asko dagoen jorratu gabe.",
+  "sections": {
+    "leonov": {
+      "text": "Espazioan sortutako lehen artelana Lurraren gaineko egunsenti baten marrazkia izan zen, <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexei Leonov</a></strong> astronauta errusiarrak <strong>1965ean</strong> Voskhod 2 ontzian zegoela egina.",
+      "caption": "Espazioan sortutako lehen artelana, eta Alexei Leonovek hura marrazteko erabili zituen arkatzak. Argazkia: Yuri Gagarin Kosmonauta Prestakuntza Zentroaren Museoa"
+    },
+    "moonMuseum": {
+      "paragraph1": "Hiru urte geroago, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Museum-en</a></strong> , zeramikazko plaka txiki bat ilargian lurreratu omen zen, garai hartan AEBetako sei artista ospetsuenen inskripzioekin: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> eta <strong>Andy Warhol</strong> .",
+      "caption1": "Ilargi Museoaren irudia New York Times egunkariko jatorrizko artikulutik. Erpuruak Warholen marrazkia estaltzen du.",
+      "paragraph2": "Warholen ekarpen probokatzaileak -goian ezkerrean- erronka bihurtu zuen proiektu hau garai hartako komunikazio-bideentzat.",
+      "caption2": "New York Times egunkariak argitaratzeko aukeratu zuen irudia, behean artelana ikusgai eta Andy Warholen marrazkia goiko ezkerreko izkinan."
+    },
+    "fallenAstronaut": {
+      "text": "<strong>1971n</strong> , Apollo 15eko <strong>David Scott</strong> astronautak <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">, Astronauta Eroria</a></strong> izeneko aluminiozko eskultura humanoide txiki bat jarri zuen Ilargian. <strong>Paul Van Hoeydonck</strong> artista belgikarrak, pieza honekin, espazioaren esplorazioaren aurrerapenean hil diren astronautak eta kosmonautak oroitu nahi zituen.",
+      "caption": "Hadley-Apennine lurreratze gunean ilargian utzitako plaka oroigarriaren ikuspegia."
+    },
+    "pioneerVoyager": {
+      "text": "<strong>1970eko hamarkadan</strong> , bai <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer plakek</a></strong> bai <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager zundek</a></strong> espazioko artearen ikuspegi berriak ezarri zituzten. Lurretik datozen mezu bisualak zituzten aluminiozko plaka urre-anodizatuak eramanez etorkizun urrunean aurki zezaketen beste edozein espazio-bidaiarik, gizakiaren bizitza bere elementu oinarrizkoenetan irudikatu zuten.",
+      "caption": "Pioneer 10 eta 11 plakak, 1970eko hamarkadan espazio sakonera eramanak."
+    },
+    "dove": {
+      "text": "<strong>1990ean</strong> , Brasilek bere arrastoa utzi zuen lurralde honetan <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> satelite amateur burutsuarekin, botere poetiko handikoa. Sortzaileak ez zuen bere burua artistatzat hartzen, baina ahalegin sakonki poetikoa izan zen: bakea eskatzen zuten haurren ahotsak grabatu eta mundu osoko bi mila irrati-afizionatu baino gehiagori transmititu zizkien, CubeSat aitzindari bat soinu-lan kolektibo bihurtuz.",
+      "caption": "DOVE/OSCAR-17, Brasilgo satelite poetikoa, bakearen aldeko haurren ahotsak transmititzen dituena, 1990."
+    },
+    "lastPictures": {
+      "text": "<strong>2012an</strong> , <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> artistak <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;The Last Pictures&quot;</a></strong> kaleratu zuen, Echostar XVI komunikazio sateliteari lotutako 100 argazki dituen mikrograbatutako disko bat, orbita geoegonkorrean. Milaka milioi urte irauteko diseinatua, giza zibilizazioa baino gehiago iraungo du etorkizun urruneko artefaktu arkeologiko gisa.",
+      "caption": "The Last Pictures, gizateria baino gehiago irauteko diseinatutako mikrograbatutako diskoa, 2012an kaleratu zen."
+    },
+    "ulises": {
+      "text": "<strong>2015ean</strong> , <strong>Colectivo Espacial Mexicano-k</strong> (Mexikoko Espazio Kolektiboa) <strong>Ulises I</strong> jaurti zuen, <strong>Juan José Díaz Infante Casasús</strong> artistaren zuzendaritzapean opera kontzeptual gisa sortutako nanosatelite bat. Satelitea estratosferara eraman zuten globo batean Guadalajarako Liburu Azokan. Gutxi gorabehera lau ordutan lehertzeko eta paraxutaz jaisteko diseinatua.",
+      "caption": "Ulises I, Colectivo Espacial Mexicanoren satelite opera kontzeptuala."
+    },
+    "artsat": {
+      "text": "<strong>2014ra</strong> arte ez zen jaurti lehenengo satelite artistiko hutsa. Tokioko Unibertsitatearen <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> proiektuak datu espazialak bidali zituen Lurrera, eta horiek arte instalazioetan eta musika sorkuntzan erabili ziren.",
+      "caption1": "ARTSAT-1 Invader espazio-ontziaren egitura eta Lurrean geratu ziren ordezko piezak.",
+      "caption2": "misioa [SPACE x ART] − Tokioko Arte Garaikidearen Museoan egindako Kosmologien haratagoko erakusketa"
+    },
+    "kac": {
+      "text": "<strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> artista garaikide brasildar eta estatubatuarrak espazio-arteari ekarpenak egin dizkio <strong>NASA</strong> eta <strong>SpaceX-ekin</strong> egindako lankidetzaren bidez. <strong>Thomas Pesquet</strong> astronauta frantziarrarekin batera sortutako <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Barne Teleskopioa&quot;</a></strong> ( <strong>2017</strong> ) lanari esker, <strong>Nazioarteko Espazio Estazioan</strong> egindako eskultura bat sortu zen.",
+      "caption": "Nazioarteko Espazio Estazioko Barne Teleskopioa, Thomas Pesquet astronauta frantziarrarekin sortua, 2017an."
+    },
+    "enoch": {
+      "text": "<strong>2018an</strong> , arte proiektu gisa eraikitako CubeSat pasibo bat orbitan jarri zen. <strong>Tavares Strachan</strong> artista kontzeptual bahamarrak garatua, <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch-ek</a></strong> 24 kilateko urrezko ontzi kanopiko bat dauka, lehen astronauta afroamerikarraren, <strong>Robert Henry Lawrence Jr.-</strong> en, busto batekin.",
+      "caption": "ENOCH (erakusketa unitatea), 2015-2017. ⓒ Tavares Strachan, argazkia ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Urte berean, <strong>Trevor Paglenen</strong> <strong>Orbital Reflector</strong> ere aurkeztu zen CubeSat ez-funtzional batean kokatutako eskultura gisa. Lana munduan dugun lekua ikusteko modua aldatzeko asmoa zuen keinu artistikoa izan zen. Ez zen behar bezala zabaldu. Diseinatu bezala ireki ez bazen ere, elkarrizketa garrantzitsuak piztu zituen eta erantzun sutsuak jaso zituen astronomoen, zientzialarien, komunikabideen, hezitzaileen, ikasleen eta mundu osoko publikoaren aldetik, arte arrakastatsuak ez duela zertan teknikoki arrakastatsua izan erakutsiz.",
+      "caption": "Orbita-islatzailearen errendatze digitala, 2018"
+    },
+    "others": {
+      "text": "Beste artista askok lagundu dute espazio-artearen arloan, bakoitzak bere ikuspegi bereziak emanez bere ikerketan. Proiektu aipagarrien artean daude <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pell-en</a></strong> astronauta artistaren ikerketa, muturreko inguruneetan giza errendimendua aztertzen duena; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandis-en</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> proiektua, espazio-esplorazio historiko eta garaikideko narrazioak aztertzen dituena; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahum-en</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> programa, mikrograbitatearen esperimentu artistikoak errazten dituena; eta <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthur Woods-en</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> eskultura, 1993an Mir estazioan espazioan erakutsi zen lehen eskultura."
+    },
+    "orbitalTemple": {
+      "text": "<strong>2025ean</strong> , 4 urteko ikerketa eta garapenaren ondoren, <strong>Edson Pavoni</strong> artista brasildarrak eta kolaboratzaile diziplina anitzeko talde batek <strong>Orbital Temple</strong> jaurtiko dute, munduko edonor izenak orbitara bidaltzera gonbidatzen duen arte satelite parte-hartzaile bat, mugak gainditzen dituen oroigarri erradikalki inklusiboa sortuz.",
+      "caption": "Orbital Tenplua Mercosul Bienalean. Argazkia: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Alexei Leonoven marrazkia eta arkatzak",
+    "moonMuseum": "Ilargi Museoko zeramikazko oblea",
+    "moonMuseumWarhol": "Moon Museoko zeramikazko obleak artelan guztiak erakusten ditu",
+    "fallenAstronaut": "Ilargian eroritako astronautaren oroigarria",
+    "pioneerPlaques": "Aitzindari plakak",
+    "dove": "WHERE/OSCAR-17 satelitea",
+    "lastPictures": "Azken Argazkiak diskoa",
+    "ulises": "Ulises I.a satelitea",
+    "artsatInvader": "ARTSAT-1 Invader satelitearen egitura",
+    "artsatArt": "ARTSAT-1 datuetatik sortutako artelana",
+    "innerTelescope": "Eduardo Kacen barne teleskopioa",
+    "enoch": "Tavares Strachanen ENOCH erakusleiho unitatea",
+    "orbitalReflector": "Trevor Paglenen Orbita-Islatzailea",
+    "orbitalTemple": "Orbital Temple satelitea"
+  }
+}

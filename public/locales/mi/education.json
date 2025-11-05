@@ -1,0 +1,43 @@
+{
+  "title": "Mātauranga me te Puna Tuwhera - Orbital Temple",
+  "heading": "Matauranga me te Puna Tuwhera",
+  "intro": {
+    "paragraph1": "Ko nga hangarau katoa i whakawhanakehia mo te miihana Orbital Temple ka <strong>tuwhera</strong> ma te ipurangi i te <strong>reo Potiti</strong> , <strong>Ingarihi</strong> , <strong>Paniora</strong> me <strong>te Hindi</strong> , hei whakatairanga i te ahu whakamua o te torotoro mokowhiti i te <strong>Ao Tonga</strong> . Ka taea e nga misioni me nga kaupapa hou te whakamahi i te Orbital Temple hei turanga mo o raatau ake mahi toi, rangahauiao ranei.",
+    "paragraph2": "Hei wahanga o tana kaupapa ako, ka tukuna e Orbital Temple he akoranga reo-kore kore utu mo te hanga me te whakarewa i te amiorangi. Ka whai waahi-a-ringa ki te ako mo te hangarau amiorangi me te whakatinana. Ko nga tangata kei runga ake i te <strong>16</strong> tau te pakeke ka kaha ki te hanga i tana ake amiorangi, te ako mo te hitori o nga mahi toi i te waahi, nga ariā taketake o te hikohiko, te miihini me te putaiao mokowhiti, tae atu ki te pehea ki te putea kaupapa me te hanga i te antenna hei whakawhitiwhiti korero me nga amiorangi i roto i te orbit."
+  },
+  "spaceGap": {
+    "heading": "He aha te take o tenei: ko te mokowhiti",
+    "paragraph1": "Ko te kupu <strong>&quot;Space Gap&quot;</strong> e pa ana ki te wehewehenga i waenga i nga iwi kua whanakehia ka taea te uru atu ki nga huarahi hangarau ka puta mai i te torotoro mokowhiti, me nga iwi whakawhanake karekau he uru ki enei hangarau. Me utu nui nga whenua o te Ao ki te Tonga ki nga kawanatanga kee, ki nga kamupene ranei mo te urunga taketake ki nga korero i hangaia e nga hangarau amiorangi.",
+    "paragraph2": "Ko te hangarau mokowhiti he painga nui: ka awhina nga peerangi ki te whawhai ki te tarai i te rakau, te hī ika kore ture, me te hokohoko kararehe mohoao kore ture, neke atu i te <strong>$73 piriona ia tau</strong> . Ka whakaratohia e ratou nga korero tino nui mo te ahuarangi, te hanga wai, me te haumaru kai. Ka taea e nga Satellites te whakamakuku tika me nga tikanga ahuwhenua, me te awhina i nga aitua taiao. Ka taea e te ahumahi mokowhiti te hanga ake ki te <strong>1 miriona mahi</strong> i mua i <strong>te 2030</strong> , engari ka noho tonu enei waahi ki te kore e taea e te nuinga o te Ao ki te Tonga.",
+    "paragraph3": "Na roto i te whakarato i te hangarau me te matauranga puna tuwhera, e whai ana matou ki te whakakore i te uru ki te waahi me te whakamana i te reanga hou ki te moemoea i tua atu o te rangi."
+  },
+  "empowering": {
+    "heading": "Te Whakamana i te Whakatupuranga",
+    "intro": "Ka akohia e matou te reanga o nga kaihōpara mokowhiti e whai ake nei me pehea te hanga me te whakarewa i o raatau ake amiorangi, e pa ana ki nga kaupapa matua tae atu ki:",
+    "topics": {
+      "history": "<strong>Te hitori o te toi i te waahi:</strong> Te maarama ki te whakapapa o nga peerangi toi me nga mahi toi mokowhiti.",
+      "concepts": "<strong>Nga ariā matua:</strong> <strong>ArtSat</strong> (nga amiorangi toi), te hangarau mokowhiti <strong>Open Source</strong> , me te <strong>Mokowhiti</strong> .",
+      "missions": "<strong>Nga Miihana Mokowhiti:</strong> Me pehea te whakaaro me te hoahoa i tetahi misioni, me pehea te hanga roopu hei whakatutuki.",
+      "electronics": "<strong>Hikohiko i roto i te mokowhiti:</strong> Ko nga kaupapa matua o nga waahanga hiko ka ora me te mahi i roto i te taiao mokowhiti.",
+      "mechanics": "<strong>Nga miihini i roto i te waahi:</strong> Te mohio ki nga hanganga me nga whakaritenga miihini mo te hoahoa amiorangi.",
+      "orbits": "<strong>Orbits me te whakarewa:</strong> Nga momo orbit me te pehea ki te kowhiri i nga kaiwhakarato whakarewa mo to misioni.",
+      "financing": "<strong>Nga rautaki putea:</strong> Me pehea te pupuri putea me nga rauemi hei whakarewa i to peerangi. Ma te akoranga e whakarato rauemi mo te whiwhi moni mo to whakarewatanga, hei awhina i nga akonga ki te rapu kaupapa me nga tahua mai i nga umanga o te ao e tautoko ana i nga kaiputaiao taiohi me nga akonga ki te tuku i a raatau amiorangi ki te waahi.",
+      "groundStation": "<strong>Te whanaketanga teihana whenua:</strong> Me pehea te hanga antenna hei korero ki te Temepara Orbital me etahi atu amiorangi."
+    }
+  },
+  "technology": {
+    "heading": "Te Hangarau: PocketQube Satellites",
+    "paragraph1": "Ka ako nga akonga ki te mahi me nga peerangi <strong>PocketQube</strong> , he paerewa nanosatellite e <strong>5cm³</strong> noa te ine me te taumaha ki te <strong>250g</strong> . Ahakoa te iti o te rahi, he taputapu kaha a PocketQubes e kaha ana ki te tirotiro i te whenua, te aro turuki, me te whakawhitiwhiti korero.",
+    "paragraph2": "He maha nga tono a enei amiorangi kiato, mai i te rangahau putaiao mo te huringa o te rangi ki te whakawhitiwhitinga whenua. Na te mea he iti ake, he mama ake, he pai ake te utu mo te hanga me te whakarewatanga, kia waatea ake te waahi ki nga akonga, ki nga kairangahau me nga kaitoi o te ao."
+  },
+  "globalAccess": {
+    "heading": "Te Uru ki te Ao, Ka timata mai i te Ao Tonga",
+    "paragraph1": "Ka watea te akoranga ki nga tangata <strong>16 tau neke atu ranei</strong> , <strong>karekau he utu</strong> . Kei te timata matou ki nga korero i roto i <strong>te reo Potiti</strong> , <strong>Paniora</strong> , <strong>Ingarihi</strong> , me <strong>te Hindi</strong> , me nga mahere ki te whakawhānui atu ki etahi atu reo ka tipu te kaupapa.",
+    "paragraph2": "Ka timata ta matou kaupapa ki te Tonga o te Ao, ka toro atu ki te ao, me te whakarite kia ahu mai te reanga o nga kaitoro mokowhiti mai i nga kokonga katoa o te Ao."
+  },
+  "callToAction": {
+    "heading": "Awhina mai ki a matou kia tutuki tenei",
+    "content": "I tenei wa kei te whanakehia tenei kaupapa ako. Kei te rapu tatou i nga hoa mahi me nga kaihaoha e rite ana ki ta tatou tirohanga mo te manapori uru ki te hangarau mokowhiti. Mena kei te pirangi koe me to whakahaere ki te tautoko i tenei kaupapa, tirohia to maatau <a href=\"/support\">wharangi tautoko</a> ki te ako mo nga huarahi whakahoahoa."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

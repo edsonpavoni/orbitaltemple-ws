@@ -1,0 +1,44 @@
+{
+  "title": "Ukusimama Nemfucumfucu Yesikhala - Ithempeli Le-Orbital",
+  "heading": "Ukusimama",
+  "intro": {
+    "paragraph1": "Uma ubuciko buzosiholela esikhathini esizayo, ngeke buzishaye indiva izinkinga esibhekene nazo—ukuwohloka kwemvelo, ukungalingani kwezenhlalo, nenselele ekhulayo yemfucumfucu yasemkhathini. I-Orbital Temple idizayinelwe inala maqiniso engqondweni, okuhloswe ngayo ukuba khona okunesibopho eMhlabeni nasemzileni.",
+    "paragraph2": "Sikholelwa ukuthi ukusimama akusona isithiyo kodwa kuyingxenye ebalulekile yombono wethu wobuciko. Zonke izinqumo mayelana nezinto zokwakha, ama-orbit, kanye nokusebenza kubonisa ukuzibophezela kwethu ekushiyeni kokubili Umhlaba nesikhala kangcono kunokuba sikuthole."
+  },
+  "spaceDebris": {
+    "heading": "Imfucumfucu Yesikhala",
+    "paragraph1": "Imfucumfucu yasemkhathini ingenye yezinselelo ezicindezela kakhulu ezibhekene nokuhlola indawo. Izinkulungwane zamasathelayithi nezingcezu ezingasasebenzi zizungeza Umhlaba, zisongela ohambweni olusebenzayo futhi zidale umphumela we-cascade ongenza imizila ethile ingasebenziseki.",
+    "paragraph2": "I-Orbital Temple ikhuluma ngalokhu ngezindlela eziningana:",
+    "list": {
+      "orbit": "<strong>I-orbit ye-Sun-synchronous ku-525 km:</strong> Lokhu kuphakama kuqinisekisa ukudonsa komkhathi okungokwemvelo kuzobangela isathelayithi ukuthi iphinde ingene emkhathini woMhlaba phakathi neminyaka eyi-10, lapho izosha khona ngokuphelele. Asifaki isandla emfucumfucwini yesikhathi eside.",
+      "size": "<strong>Idizayini ye-PocketQube:</strong> Ku-50×58×64mm kanye no-245g kuphela, isathelayithi incane ngokwanele ukuthi ingahwamuka ngokuphelele ngesikhathi iphinda ingena, ingashiyi mfucumfucu emhlabeni.",
+      "responsibility": "<strong>Akukho ukuphelelwa yisikhathi okuhleliwe:</strong> Ngokungafani namasathelayithi ezentengiselwano angase ashiywe, i-Orbital Temple iklanyelwe ukuhlehla ngokwemvelo, igcwalise imihlahlandlela yamazwe ngamazwe yomsebenzi ofanele wasemkhathini."
+    },
+    "paragraph3": "Ngokukhetha umjikelezo woMhlaba ophansi kanye nomklamo ohlangene, siqinisekisa ukuthi ukuba khona kwe-Orbital Temple emkhathini kungokwesikhashana futhi akungcolisi."
+  },
+  "carbonNeutrality": {
+    "heading": "Ukungathathi hlangothi kweCarbon",
+    "content": "Konke ukukhishwa kwekhabhoni okuhlotshaniswa ne-Orbital Temple—okuhlanganisa ukukhiqizwa kwesathelayithi, ukwethulwa, ukusebenza kwesiteshi esiphansi, ukusingathwa kwewebhusayithi, kanye nohambo lweqembu—kuzoxazululwa ngokugcwele ngezinhlelo zekhredithi zekhabhoni eziqinisekisiwe. Sizibophezele ekwenzeni lo mgomo ungathathi hlangothi."
+  },
+  "openSource": {
+    "heading": "I-Open Source Hardware",
+    "paragraph1": "Ukusimama kusho ukungamoshi ulwazi. Zonke izici zobuchwepheshe ze-Orbital Temple—izikimu, ikhodi, izivumelwano zokuxhumana, nezindlela zokwakha—zizoshicilelwa njengomthombo ovulekile wamadokhumenti.",
+    "paragraph2": "Lokhu kuvumela izinjongo zesikhathi esizayo ukuthi zakhele phezu komsebenzi wethu kunokuthi ziqale phansi, zinciphise ucwaningo nokuthuthukiswa okungadingekile. Ivumela ukufinyelela kubuchwepheshe basemkhathini, ikakhulukazi emiphakathini yaseNingizimu Yomhlaba ebikade ingabandakanywanga ekuhloleni indawo."
+  },
+  "educational": {
+    "heading": "Umthelela Wezemfundo",
+    "paragraph1": "Uhlelo lwethu lwamahhala lwemfundo ngezilimi eziningi lufundisa abafundi emhlabeni wonke ukuthi bangakha futhi baqalise kanjani amasathelayithi, ngokugxila eGlobal South. Ngokunika isizukulwane esilandelayo amandla ngamakhono obuchwepheshe basemkhathini, sibamba iqhaza ekuvaleni \"I-Space Gap\" nokudala amathuba abengeke abe khona.",
+    "paragraph2": "Lo mgomo wezemfundo ngokwawo uwuhlobo lokusimama—ukutshala imali kubantu nasemiphakathini ukuze udale ushintsho oluhlala njalo ngalé kwesikhathi sokuphila sesathelayithi."
+  },
+  "tenYear": {
+    "heading": "Umgomo Weminyaka Eyishumi",
+    "paragraph1": "I-Orbital Temple idizayinelwe umkhankaso weminyaka eyishumi, hhayi ukukhangisa okufushane. Eminyakeni eyishumi, isathelayithi izozungeza Umhlaba izikhathi ezingaba ngu-50,000, ithole amagama futhi isebenze njengesikhumbuzo sokuthi indawo ingaba yinto evamile, efinyeleleka kubo bonke.",
+    "paragraph2": "Ngemuva kokuthi umsebenzi wayo usuphothuliwe, isathelayithi izosuka ngokwemvelo futhi ishe, ingashiyi lutho ngaphandle kwezinkumbulo namadokhumenti alabo ababambe iqhaza."
+  },
+  "artsResponsibility": {
+    "heading": "Isibopho Sobuciko",
+    "paragraph1": "Ubuciko bebulokhu buyisibuko sesikhathi sabo, bubonisa izindinganiso zethu kanye nezifiso zethu. Enkathini yezinkinga zesimo sezulu kanye nokungalingani okukhulayo, sikholelwa ukuthi amaciko anesibopho sokwenza umsebenzi ongagcini nje ngokuphawula ngalezi zinkinga kodwa obhekana nazo.",
+    "paragraph2": "I-Orbital Temple iwumzamo wethu wokwenza umsebenzi wobuciko oqinile ekuhlanganiseni kwawo, onesibopho kumthelela wawo kwezemvelo, futhi onesandla esivulekile ekwabelaneni ngolwazi lwawo nomhlaba. Ubuciko obumema wonke umuntu ukuthi abambe iqhaza kuyilapho ehlonipha izinhlelo ezintekenteke—ezemvelo kanye ne-orbital—ezenza ukuphila nokuhlola kwenzeke."
+  },
+  "imageAlt": "I-Orbital Temple Satellite"
+}

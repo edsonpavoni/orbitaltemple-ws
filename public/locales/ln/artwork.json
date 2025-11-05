@@ -1,0 +1,31 @@
+{
+  "title": "Oeuvre d'art - Temple orbital",
+  "heading": "Mosala ya Ntɔki",
+  "intro": {
+    "paragraph1": "Orbital Temple ezali satellite oyo ezali na mission artistique : souvenir na espace extérieur oyo ezali polele mpo na ekelamu nionso oyo azali na sentiment oyo azali kofanda to oyo afandaki na Mabele.",
+    "paragraph2": "Na nzela ya mayele ya tekiniki, moto nyonso akoki kotinda nkombo ya moto na Tempelo, ezala moto oyo akufaki, moto oyo azali mpenza na bomoi, to ekelamu nyonso oyo ebongi kokanisama."
+  },
+  "sculpture": {
+    "heading": "Likemi ya Mayemi",
+    "paragraph1": "Mosala yango ya mayemi ezali na makambo misato oyo etali yango: satellite oyo ebongisami mingimingi mpo na kobomba bamiliare ya bankombo; ekeko ya bato nyonso oyo ezali kopesana nsango na satellite; mpe site internet oyo na nzela na yango ba participants batindaka ba kombo, kobanda sikoyo tii bakoleka, na lola.",
+    "paragraph2": "Lokola mosala ya mayele mingi, Tempelo ya Orbital ekoki kotalelama lokola ekeko ya esika moko boye, oyo efandaka na esika. Ezali mpe projet ya Artsat."
+  },
+  "antenna": {
+    "heading": "Antenne Lokola Sculpture Public",
+    "paragraph1": "Antenne oyo ezali ko relier biso na espace extérieur.",
+    "paragraph2": "Bazali kosala antenne oyo ekozala na communication directe na satellite orbite.",
+    "paragraph3": "Na surface reflectante ya or, oyo ezali ko mirrorer lola likolo na yango, ezali point de départ ya stimulation ya masse (to relation na biso na oyo ezali ‘likolo kuna’).",
+    "paragraph4": "Atako mayemi yango etyami te na bisika mingi ya mokili, ba Cadres na biso oyo euti na Mabele, oyo ezali sikawa kotambwisa satellite, ezali kotinda bankombo yango na nzela mokomoko ya koleka.",
+    "paragraph5": "Salisa komema emonaneli oyo na engumba na bino —kotia mayemi ya antenne oyo efulaka masolo na ntina ya bolukiluki ya etando, mayemi, mpe esika na biso ya kokabola na cosmos. <a href=\"/support\">Yekola makambo mingi na ntina ya kosunga mosala yango</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite ya Tempelo ya Orbital",
+    "riseNy": "Tempelo ya Orbital na Rise NY",
+    "installation": "Temple orbital ya Clara Marques",
+    "antenna": "Antena ya Tempelo ya Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Temple Orbital na espace. Rendu 3D na RiseNY&Partners.",
+    "mercosul": "Installation ya Temple orbital na Biennale ya Mercosul, na Porto Alegre, na Brésil.<br> Fɔtɔ́ ya Clara Marques."
+  }
+}

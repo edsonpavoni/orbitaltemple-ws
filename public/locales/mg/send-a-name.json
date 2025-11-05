@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "rehefa miditra ianao\nfombafomba\nmandefa anarana\nao amin'ny\ntempoly orbital\neny amin’ny habakabaka\nRaiso\nfofonaina",
+    "button": "vonona aho"
+  },
+  "nameInput": {
+    "title": "soraty anarana",
+    "subtitle": "hiakatra any amin'ny Tempoly Orbital eny amin'ny habakabaka izany.",
+    "placeholder": "anarana",
+    "button": "aoka hiakatra"
+  },
+  "emailInput": {
+    "title": "soraty ny mailakao",
+    "subtitle": "ka mahazo hafatra ianao rehefa miakatra ny anarana.",
+    "placeholder": "ny mailakao",
+    "button": "vita izany"
+  },
+  "loading": {
+    "alt": "Loading"
+  },
+  "success": {
+    "text": "ny anarana\n{{anarana}}\nmilahatra izao\nho fisondrotana.\nrehefa ny\ntempoly eny amin’ny habakabaka\nmifanaraka, miaraka amin'ny\nny antenne\neto an-tany\nhandefasanay\nny anarana\ndia hahazo ianao\nhafatra."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "I-Artwork - Ithempeli le-Orbital",
+  "heading": "Umsebenzi Wobuciko",
+  "intro": {
+    "paragraph1": "I-Orbital Temple iyisathelayithi enomsebenzi wobuciko: isikhumbuzo esisemkhathini esivulekele wonke umuntu onomuzwa wokuthi ophila noma owake waphila eMhlabeni.",
+    "paragraph2": "Ngezindlela zobuchwepheshe, noma ubani angathumela igama lomuntu eThempelini, umuntu owashona, umuntu ophila kakhulu, nanoma yisiphi isidalwa esifanele ukukhunjulwa."
+  },
+  "sculpture": {
+    "heading": "UMfanekiso",
+    "paragraph1": "Umsebenzi wobuciko unezici ezintathu ezincike ngokubambisana: isathelayithi eklanyelwe ukugcina izigidigidi zamagama; isithombe esiqoshiwe somphakathi esishintshanisa ulwazi ngesathelayithi; kanye nesizindalwazi ababambiqhaza abathumela ngayo amagama, kusukela manje kuze kube yilapho sebedlulile emhlabeni, ezulwini.",
+    "paragraph2": "Njengomzamo wemikhakha eminingi, iThempeli le-Orbital lingabhekwa njengesifanekiso esiqondene nesayithi, indawo yokuhlala. Kuphinde kube yiphrojekthi ye-Artsat."
+  },
+  "antenna": {
+    "heading": "I-Antenna Njengesithombe Esiqoshiwe Somphakathi",
+    "paragraph1": "I-antenna esixhuma nesikhala esingaphandle.",
+    "paragraph2": "I-antenna ezoba ukuxhumana okuqondile nesathelayithi ye-orbital iyaklanywa.",
+    "paragraph3": "Ngobuso obukhazimulayo obusagolide, obubonisa isibhakabhaka ngaphezu kwayo, kuyisiqalo sokushukunyiswa okukhulu (noma ubudlelwano bethu nalokho 'okuphezulu lapho').",
+    "paragraph4": "Nakuba izithombe ezibaziweyo zingafakiwe ezingxenyeni eziningi zomhlaba, amaFramu ethu avela eMhlabeni, okuyimanje alawula isathelayithi, athumela amagama endaweni ngayinye yokudlula.",
+    "paragraph5": "Siza ukuletha lo mbono edolobheni lakho—ukufaka izithombe eziqoshiwe ze-antenna ezikhuthaza izingxoxo mayelana nokuhlola indawo, ubuciko, kanye nendawo yethu esabelene ngayo endaweni yonke. <a href=\"/support\">Funda kabanzi mayelana nokusekela iphrojekthi</a> ."
+  },
+  "imageAlts": {
+    "satellite": "I-Orbital Temple Satellite",
+    "riseNy": "Ithempeli le-Orbital e-Rise NY",
+    "installation": "Ithempeli le-Orbital nguClara Marques",
+    "antenna": "I-Antenna yethempeli le-Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Ithempeli le-Orbital emkhathini. Ukunikezwa kwe-3D yi-RiseNY&Partners.",
+    "mercosul": "Ukufakwa kweThempeli le-Orbital eMercosul Biennial, ePorto Alegre, eBrazil.<br> Isithombe nguClara Marques."
+  }
+}

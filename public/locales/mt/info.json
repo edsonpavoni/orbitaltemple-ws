@@ -1,0 +1,17 @@
+{
+  "title": "Informazzjoni Teknika - Orbital Temple",
+  "heading": "Informazzjoni Teknika",
+  "satellite": {
+    "heading": "Satellita",
+    "specs": "Dimensjonijiet: 50x58x64 mm<br /> 1P PocketQube<br /> Piż: 245 gramma<br /> Materjali: aluminju, deheb, fibra tal-ħġieġ, u komponenti elettroniċi.<br /> Orbita: Altitudni 525 ± 25 km; inklinazzjoni: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Skultura",
+    "specs": "Dimensjonijiet: 6 m (dijametru) u 1.2m (għoli)<br /> Piż: 46 kg<br /> Materjali: aluminju, bord b&#39;mera epossidika, koppla tal-aluminju dehbi sospiża minn ġo struttura ta&#39; scaffolding."
+  },
+  "radio": {
+    "heading": "Speċifikazzjonijiet tar-Radju Katalogu tan-NASA:",
+    "specs": "Downlink TBD: 437 MHz<br /> Sejħa: Status: SKEDA GĦALL-2025"
+  },
+  "imageAlt": "Dijagramma ta' Informazzjoni Teknika"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Mchoro - Hekalu la Orbital",
+  "heading": "Kazi ya Sanaa",
+  "intro": {
+    "paragraph1": "Hekalu la Orbital ni satelaiti yenye misheni ya kisanii: ukumbusho katika anga ya juu iliyo wazi kwa kila kiumbe mwenye hisia anayeishi au aliyewahi kuishi duniani.",
+    "paragraph2": "Kupitia njia za kiteknolojia, mtu yeyote anaweza kutuma jina la mtu Hekaluni, ama mtu aliyeaga dunia, mtu aliye hai sana, au kiumbe chochote kinachostahili kukumbukwa."
+  },
+  "sculpture": {
+    "heading": "Mchongo",
+    "paragraph1": "Mchoro una vipengele vitatu tegemezi: satelaiti iliyoundwa mahsusi kuhifadhi mabilioni ya majina; sanamu ya umma inayobadilishana habari na satelaiti; na tovuti ambayo washiriki hutuma majina hayo, kuanzia sasa hadi watakapokuwa wamepita, mbinguni.",
+    "paragraph2": "Kama jitihada za fani nyingi, Hekalu la Orbital linaweza kuchukuliwa kuwa mchongo wa tovuti mahususi, nafasi ya kukaa. Pia ni mradi wa Artsat."
+  },
+  "antenna": {
+    "heading": "Antena Kama Mchoro wa Umma",
+    "paragraph1": "Antena inayotuunganisha na anga ya juu.",
+    "paragraph2": "Antena ambayo itakuwa katika mawasiliano ya moja kwa moja na satelaiti ya orbital inaundwa.",
+    "paragraph3": "Kwa uso wa dhahabu unaoakisi, unaoakisi anga juu yake, ni mahali pa kuanzia kwa kusisimua kwa wingi (au uhusiano wetu na kile kilicho 'juu').",
+    "paragraph4": "Ingawa sanamu hazijasakinishwa katika sehemu nyingi za dunia, Fremu zetu kutoka Duniani, ambazo kwa sasa zinadhibiti setilaiti, zinatuma majina katika kila njia.",
+    "paragraph5": "Saidia kuleta maono haya katika jiji lako—kusakinisha sanamu za antena zinazohamasisha mazungumzo kuhusu uchunguzi wa anga, sanaa, na sehemu yetu ya pamoja katika ulimwengu. <a href=\"/support\">Pata maelezo zaidi kuhusu kusaidia mradi</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satelaiti ya Hekalu la Orbital",
+    "riseNy": "Hekalu la Orbital huko Rise NY",
+    "installation": "Hekalu la Orbital na Clara Marques",
+    "antenna": "Antena ya Hekalu la Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Hekalu la Orbital katika nafasi. Utoaji wa 3D na RiseNY&Partners.",
+    "mercosul": "Ufungaji wa Hekalu la Orbital kwenye sherehe ya miaka miwili ya Mercosul, huko Porto Alegre, Brazili.<br> Picha na Clara Marques."
+  }
+}

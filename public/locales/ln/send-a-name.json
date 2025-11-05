@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "lokola ozali kokɔta\nmolulu moko\nmpo na kotinda nkombo\nna kati ya\ntempelo ya orbite\nna espace\nzwa\nmpema moko",
+    "button": "nazali prêt"
+  },
+  "nameInput": {
+    "title": "komá nkombo",
+    "subtitle": "ekomata na Tempelo Orbital na espace.",
+    "placeholder": "nkombo",
+    "button": "tika yango emata"
+  },
+  "emailInput": {
+    "title": "koma email na yo",
+    "subtitle": "yango wana ozuaka message tango kombo emati.",
+    "placeholder": "email na yo",
+    "button": "esalemi"
+  },
+  "loading": {
+    "alt": "Ezali ko charger"
+  },
+  "success": {
+    "text": "nkombo yango\n{{nkombo}}\nezali sikoyo na molɔngɔ\nmpo na komata na likoló.\nntango ba\ntempelo na etando\naligns, na\nantenne na biso\nna Mabelé\ntokotinda\nnkombo yango\nmpe okozwa\nnsango moko."
+  }
+}

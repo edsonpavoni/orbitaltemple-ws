@@ -1,0 +1,44 @@
+{
+  "title": "Rassomdan",
+  "opening": {
+    "question": "Kosmosda ma'bad qurishni taklif qiladigan bu odam kim?",
+    "thanks": "Savol uchun rahmat.",
+    "answer": "Qisqa javob: men rassomman. Uzunligi bu:"
+  },
+  "origin": {
+    "sao_paulo": "Men San-Pauluning chekkasida, menga xavf nima ekanligini erta o'rgatgan mahallada tug'ilganman. Maktabdagi ko'plab do'stlarim hozir qamoqda. Mening o'gay otam qamoqda. Zo'ravonlik men o'qigan narsa emas edi, bu men kezishim kerak bo'lgan dunyo edi. Va men qochishim kerakligini bilardim.",
+    "technology": "Texnologiya mening chiqish yo'limga aylandi. Men o'smirligimda dasturlashni o'rgandim, elektronikani o'rgandim. Kod meni boshqa joyga olib boradigan til edi. Texnologiya bilan ishlash mening qashshoqlikdan qochishim edi.",
+    "christianity": "Lekin men ham tegishlilikni, sevgini, ishonish uchun nimanidir qidirardim. Men xristianlikni topdim yoki u meni topdi. qabul qilindim. Men sevardim. Mening jamoam bor edi. Men kechirishni, ishonishni, kattaroq maqsad sari birgalikda harakat qilishni o'rgandim.",
+    "price": "Biroq, narx yuqori edi. Men hali o'rganmagan ko'p narsalarni o'rgandim. Shunday qilib, men ham bundan qutulib qoldim."
+  },
+  "searching": {
+    "walls": "Men devorlar nima qilishini bilaman. Men ularni his qildim. Men har ikki tomonda ham bo'ldim: tashqarida qoldim, ichkariga tushdim. Keyinchalik men nom ayta olmaydigan narsalarni qidirib topdim. Xudo o'sha yillarda vafot etdi. Qanday bo'lmasin, menga o'rgatilgan xudo, qoidalar, hukm va eshiklari faqat ba'zi odamlar uchun ochilgan.",
+    "art": "Men ushbu savollarni o'rganish uchun san'at yaratishni boshladim: yaqinlik va texnologiya haqida, xotira va o'lim haqida, kim jannatga loyiqligi haqida. Men texnologiya bilan munosabatlarimizni qayta ko'rib chiqadigan mashinalarni, metall va koddan tirik narsaga aylantirish uchun sizning ishtirokingiz, sizning ishtirokingiz, ismingiz kerak bo'lgan mashinalarni qurishni boshladim."
+  },
+  "pandemic": {
+    "intro": "Keyin pandemiya Braziliyani qamrab oldi.",
+    "government": "COVID vaktsinalari kechiktirilganda, mening hukumatim har bir doza uchun bir dollarni qaytarish haqida muzokaralar olib bordi. Ular tibbiyotni samarasiz deb bilgan holda targ'ib qildilar, odamlar nafas olishga qiynalib o'lib ketishdi. Biz har kuni boshqa raqamga uyg'ondik. Oxirgi 24 soat ichida qancha odam vafot etdi? Bu kutilganidan ko'pmi yoki kamroqmi?",
+    "war": "Dunyoning yarmi qo'rqib ketdi, yarmi esa inkor etdi. Biz urushda edik, virus bilan va bir-birimiz bilan.",
+    "memorial": "Men jamoaviy qayg'u uchun joy yaratmoqchi edim, shuning uchun yuzlab odamlar bilan birga Inumeráveis Memorialini yaratdim. San'at va jurnalistika chorrahasida joylashgan san'at asari. Biz kimnidir yo'qotgan oilalar bilan suhbatlashdik. Biz ular yo'qotgan odamning hayotiy hikoyasini yozdik. Biz raqamlarni tarixga aylantirdik. O‘sha tarixlardan she’rlar, qo‘shiqlar, simfoniyalar yaratildi. Yulduzlar o'sha hikoyalarni milliy televideniyeda o'qidilar. Loyiha millionlarga yetdi.",
+    "meaning": "Muhimi miqyosda emas, har bir hikoya kimningdir nomi, hayoti, jannati edi."
+  },
+  "discovery": {
+    "pattern": "G'am bilan o'n mingdan ortiq suhbatdan so'ng, bir naqsh paydo bo'la boshladi. O'lgan odam haqida gapirganda, biz shunchaki yaxshi narsalarni aytmaymiz; biz ularning hikoyasidan parchalarni tanlaymiz, xuddi biz tavsiya xat yozayotgandek. Jannat darvozaboni uchun tavsiya. Ularni qabul, dam olish, e’zoz va xotira maskaniga jo‘natish uchun qo‘limizdan kelganini qilamiz.",
+    "understanding": "Va men hamma narsani o'zgartirgan narsani tushundim: biz qurgan ibodatxonalardan yarador bo'ldik. Bizning jannatga kim loyiq ekanligi haqidagi e'tiqodimiz Yerda kimni istisno qilishimizni bevosita shakllantiradi. Braziliyadagi portugal mustamlakachilari qora tanlilarning ruhi yo'q deb hisoblashgan; bu ishonch qullikni oqladi. Agar siz tubjoy bo'lsangiz, noto'g'ri joyda tug'ilgan bo'lsangiz yoki noto'g'ri odamni sevgan bo'lsangiz, sizga jannat eshiklari yopiqligi aytilgan.",
+    "birth": "Orbital ibodatxonasi shunday tug'ilgan."
+  },
+  "shaman": {
+    "secular": "Hech bir san’atkor chinakam dunyoviy bo‘la olmaydi. Biz umumiy ajdodimiz shaman bilan abadiy bog'langanmiz. Boshida g‘or bor edi. Odamlar hayvonlarni devorlarga bezash uchun emas, balki chaqirish uchun bo'yashdi. Ular raqsga tushishdi va g'or ma'badga aylandi. Shaman marosim ruhini qo'llaydi; rassom san'at aurasidan foydalanadi. Biz rasm chizamiz, haykaltaramiz, kodlaymiz, xohlagan kelajagimizni bezash uchun emas, balki chaqirish uchun loyihalashtiramiz. Barcha san'at ruhiydir, hatto o'zini yo'q deb da'vo qilsa ham."
+  },
+  "space": {
+    "question": "Devorsiz ma'badni qayerda qurishimiz mumkin? Hech bir millat yoki din da'vo qila olmaydigan joyda. Biz o'zimizni bitta guruh sifatida tasavvur qila oladigan joy.",
+    "answer": "Kosmos.",
+    "description": "Global janubdagi ishtirokchi badiiy sun'iy yo'ldosh. Kimligidan, qaerda tug'ilganidan, kimni sevishidan, nimaga ishonishidan qat'i nazar, har kimni kosmosga o'z ismlarini yuborishga taklif qiluvchi orbitadagi ma'bad. Radikal inklyuziya mumkin bo'lgan joy, orbitada, chegaradan tashqarida.",
+    "mission": "Bu missiya ochiq manba hisoblanadi. Har bir texnik hujjat, har bir kod qatori boshqa rassomlar, boshqa jamoalar, boshqa xalqlar o'zlarining sun'iy yo'ldoshlarini qurishlari uchun bepul mavjud bo'ladi. Shunday qilib, Global Janub nafaqat kosmik tadqiqotlarda qatnashadi, balki uni boshqaradi."
+  },
+  "closing": {
+    "answer": "Xo'sh, kosmosda ma'bad quradigan bu odam kim? Men uni qurmayapman. Ma'bad ismni yuborishga qaror qilgan har bir kishi tomonidan qurilgan, uni muqaddas deb bilish, uni haqiqiy qilish. Men taklif qilayotgan odamman. Agar qaror qilsangiz, siz uni qurasiz.",
+    "signature": "Marhamat,",
+    "name": "Edson Pavoni"
+  }
+}

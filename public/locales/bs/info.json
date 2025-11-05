@@ -1,0 +1,17 @@
+{
+  "title": "Tehničke informacije - Orbitalni hram",
+  "heading": "Tehničke informacije",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Dimenzije: 50x58x64 mm<br /> 1P PocketQube<br /> Težina: 245 grama<br /> Materijali: aluminij, zlato, fiberglas i elektronske komponente.<br /> Orbita: Visina 525 ± 25 km; nagib: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena/Skulptura",
+    "specs": "Dimenzije: 6 m (prečnik) e 1,2 m (visina)<br /> Težina: 46 kg<br /> Materijali: aluminij, epoksidna zrcalna ploča, zlatna aluminijska kupola obješena kroz skelu."
+  },
+  "radio": {
+    "heading": "Specifikacije radija NASA-katalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Poziv: Status: RASPORED ZA 2025."
+  },
+  "imageAlt": "Dijagram tehničkih informacija"
+}

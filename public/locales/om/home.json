@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Mana Qulqullummaa Orbital",
+    "subtitle": "hojii aartii fi saatalaayitii dha, .\nmana qulqullummaa hundee hunda hammate ta’uuf kan kaayyeffate, .\nbakka dallaan tokkollee dhaqqabuu hin dandeenyetti."
+  },
+  "ritual": {
+    "label": "sirna"
+  },
+  "cta": {
+    "link": "Taʼus, mana qulqullummaa kan biraa?",
+    "arrowAlt": "hiddaa"
+  },
+  "dome": {
+    "alt": "Dome jedhamuun beekama"
+  }
+}

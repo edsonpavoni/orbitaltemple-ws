@@ -1,0 +1,16 @@
+{
+  "title": "I-Space Launch - Ithempeli le-Orbital",
+  "heading": "I-Space Launch",
+  "intro": "Ithempeli le-Orbital lihlelelwe ukwethulwa emkhunjini we-PSLV (Polar Satellite Launch Vehicle) ngoNovemba 28, 2025 kusukela e-Satish Dhawan Space Center eSriharikota, India.",
+  "partnership": "Ukwethulwa kweThempeli le-Orbital wubambiswano phakathi kwe-NewSpace India Limited (NSIL), Inkampani kahulumeni wase-India engaphansi koMnyango Wezendawo, i-Antrix Corporation, kanye nomdwebi. Lokhu kuhlanganyela kumelela ingqopha-mlando yobuciko ekuhloleni umkhathi, okuhlanganisa uhlelo lwase-India lwasemkhathini nombono wobuciko wokuhlanganisa okuqinile.",
+  "risks": {
+    "heading": "Izingozi",
+    "paragraph1": "Isathelayithi yakhelwe ukubekezelela izimo zokudlidliza okwedlulele kanye nemijikelezo yokushisa, futhi iye yahlolwa kanzima. Nokho, ukwethulwa emkhathini kunezingozi ezingokwemvelo. Uma isathelayithi ilimele ngesikhathi sokwethulwa noma ukusetshenziswa, noma uma yehluleka ukusungula ukuxhumana neziteshi zethu ezingaphansi, sizosebenzela ukuxazulula izinkinga nokuxazulula noma yiziphi izinkinga. Isathelayithi inamasistimu angasasebenzi kanye namaphrothokholi ayisipele aklanyelwe ukukhulisa amathuba okuphumelela kwemishini.",
+    "paragraph2": "Ukwengeza, isathelayithi ingase ihlale ku-orbit iminyaka engaphansi kwe-10 uma izimo zomkhathi noma ezinye izici zibangela ukubola kwe-orbital ngaphambili. Nakuba siyiklamele ukuthi ihlale okungenani iminyaka eyishumi, ukuphila kwangempela kuncike ezimweni esingakwazi ukuzilawula ngokugcwele.",
+    "paragraph3": "Uma ukwethulwa kokuqala kwehluleka, noma uma singakwazi ukufeza lo msebenzi njengoba kuhleliwe, sizohlola ezinye izindlela eziya phambili, okungenzeka kubandakanye umzamo wesibili wokwethula ngesabelomali esitholakalayo, ukubambisana nezinye izinjongo, noma imibhalo yomzamo njengengxenye yokulandisa komsebenzi wobuciko mayelana nokulangazelela kanye nomkhawulo."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, eNdiya",
+    "satellite": "I-Orbital Temple Satellite"
+  }
+}

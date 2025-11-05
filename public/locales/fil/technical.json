@@ -1,0 +1,17 @@
+{
+  "title": "Teknikal na Impormasyon - Orbital Temple",
+  "heading": "Teknikal na Impormasyon",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Mga sukat: 50x58x64 mm<br /> 1P PocketQube<br /> Timbang: 245 gr<br /> Mga Materyales: aluminyo, ginto, fiberglass, at mga elektronikong bahagi.<br /> Orbit: Altitude 525 ± 25 km; pagkahilig: SSO 97.6 ± 0.1°<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) na pinapatakbo ng ISRO"
+  },
+  "antenna": {
+    "heading": "Antenna/Eskultura",
+    "specs": "Mga Dimensyon: 6 m (diameter) at 1.2m (taas)<br /> Timbang: 46 kg<br /> Mga Materyales: aluminum, epoxy mirrored board, golden aluminum dome na sinuspinde sa pamamagitan ng scaffolding structure."
+  },
+  "radio": {
+    "heading": "Mga Detalye ng Radyo",
+    "specs": "Downlink: 468.5 MHz<br /> Modulasyon: CSS<br /> Bandwidth: TBD"
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

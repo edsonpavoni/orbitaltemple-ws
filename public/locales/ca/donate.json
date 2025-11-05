@@ -1,0 +1,31 @@
+{
+  "title": "Dona al Temple Orbital",
+  "heading": "Completa la teva donació",
+  "donatingTo": "Estàs fent una donació a:",
+  "chooseHow": "Trieu com voleu completar la vostra donació deduïble d'impostos:",
+  "option1": {
+    "heading": "Opció 1: Dona en línia ara",
+    "description": "Completa la teva donació immediatament amb targeta de crèdit, targeta de dèbit o altres mètodes de pagament en línia a través del nostre patrocinador fiscal segur, <strong>The Field</strong> . Rebràs un rebut fiscal instantani.",
+    "button": "Dona a través de The Field →"
+  },
+  "option2": {
+    "heading": "Opció 2: Dipòsit bancari a la Fundació Roy",
+    "description": "Feu un ingrés bancari directe o una transferència bancària a <strong>The Roy Foundation</strong> , el nostre soci estratègic i patrocinador fiscal. Aquesta opció és ideal per a donacions més grans o transferències internacionals.",
+    "bankingInfo": "Informació bancària",
+    "fields": {
+      "accountName": "Nom del compte:",
+      "bankName": "Nom del banc:",
+      "accountNumber": "Número de compte:",
+      "routingNumber": "Número d'encaminament:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referència:"
+    },
+    "instructions": "Si us plau, incloeu &quot; <strong>Orbital Temple - {donationType}</strong> &quot; al camp de referència. Després de completar la transferència, envieu-nos un correu electrònic a <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> amb les dades de la transferència per rebre el rebut fiscal.",
+    "button": "Contacteu-nos Sobre el dipòsit →"
+  },
+  "taxInfo": {
+    "heading": "Donacions deduïbles d'impostos",
+    "description": "Orbital Temple és un projecte patrocinat fiscalment per <strong>The Field (Performance Zone Inc.)</strong> , una organització sense ànim de lucre <strong>501(c)(3)</strong> . Totes les contribucions dels EUA són deduïbles d&#39;impostos en la mesura que ho permeti la llei.",
+    "questions": "Preguntes? Poseu-vos en contacte amb nosaltres a <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

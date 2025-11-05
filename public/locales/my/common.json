@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "အနုပညာလက်ရာ",
+    "sendAName": "နာမည်တစ်ခုပို့ပါ။",
+    "fromTheArtist": "အနုပညာရှင်ထံမှ",
+    "yetAnotherTemple": "တခြားဘုရားကျောင်းလား။",
+    "howItWorks": "ဘယ်လိုအလုပ်လုပ်လဲ။",
+    "spaceLaunch": "အာကာသလွှတ်တင်ခြင်းနှင့် အန္တရာယ်များ",
+    "briefHistory": "အာကာသအတွင်း အနုပညာသမိုင်းအကျဉ်း",
+    "education": "ပညာရေးနှင့် open source",
+    "sustainability": "ရေရှည်တည်တံ့မှုနှင့် အာကာသအမှိုက်များ",
+    "press": "စာနယ်ဇင်း & မီဒီယာ",
+    "team": "အဖွဲ့",
+    "partners": "မိတ်ဖက်များ",
+    "support": "ထောက်ခံမှု",
+    "technicalInfo": "နည်းပညာဆိုင်ရာအချက်အလက်များ"
+  },
+  "ritual": {
+    "label": "ထုံးတမ်းစဉ်လာ",
+    "ariaLabel": "ထုံးတမ်းစဉ်လာကို ထည့်သွင်းပါ - Orbital Temple သို့ အမည်တစ်ခု ပေးပို့ပါ။"
+  },
+  "footer": {
+    "credits": "Orbital Temple သည် Pedro Kaled၊ João Pedro Polito၊ Victor Baptista & João Victor Alves၊ André Biagioni၊ VK၊ Jonathan Querubina၊ Guilherme Bullejos၊ Eduardo Dias၊ Roberta Savian Rosa၊ Clara Marques နှင့် Sathi အားလုံးကို ဤဘုရားကျောင်းသို့ ဆက်လက်ပေးပို့ရန် Edson Pavoni နှင့် ပူးပေါင်းဖန်တီးထားသော Edson Pavoni ၏ အနုပညာလက်ရာတစ်ခုဖြစ်သည်။"
+  }
+}

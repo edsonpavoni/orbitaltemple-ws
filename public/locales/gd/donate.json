@@ -1,0 +1,31 @@
+{
+  "title": "Thoir seachad tabhartas do Theampall Orbital",
+  "heading": "Crìochnaich do Thabhartas",
+  "donatingTo": "Tha thu a’ toirt tabhartas do:",
+  "chooseHow": "Tagh mar a bu mhath leat do thabhartas lasachaidh chìsean a chrìochnachadh:",
+  "option1": {
+    "heading": "Roghainn 1: Thoir seachad air-loidhne a-nis",
+    "description": "Crìochnaich do thabhartas sa bhad le bhith a’ cleachdadh cairt creideis, cairt cunntais, no dòighean pàighidh air-loidhne eile tron urrasair ionmhais tèarainte againn, <strong>The Field</strong> . Gheibh thu cuidhteas cìse sa bhad.",
+    "button": "Thoir seachad tro The Field →"
+  },
+  "option2": {
+    "heading": "Roghainn 2: Tasgadh banca gu Bunait Roy",
+    "description": "Dèan tasgadh banca dìreach no gluasad uèir gu <strong>Bunait Roy</strong> , ar com-pàirtiche ro-innleachdail agus urrasair ionmhais. Tha an roghainn seo freagarrach airson tabhartasan nas motha no gluasadan eadar-nàiseanta.",
+    "bankingInfo": "Fiosrachadh Bancaidh",
+    "fields": {
+      "accountName": "Ainm a' Chunntais:",
+      "bankName": "Ainm a' Bhanca:",
+      "accountNumber": "Àireamh a' Chunntais:",
+      "routingNumber": "Àireamh Slighe:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Tùs-iomraidh:"
+    },
+    "instructions": "Cuir a-steach “ <strong>Teampall Orbital - {donationType}</strong> ” anns an raon fiosrachaidh. Às dèidh dhut do ghluasad a chrìochnachadh, cuir post-d thugainn aig <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> le fiosrachadh do ghluasaid gus do chuidhteas cìse fhaighinn.",
+    "button": "Cuir fios thugainn mu thasgadh →"
+  },
+  "taxInfo": {
+    "heading": "Tabhartasan a ghabhas toirt air falbh bho chìsean",
+    "description": "’S e pròiseact a th’ ann an Orbital Temple a tha air a mhaoineachadh gu h-ionmhasail le <strong>The Field (Performance Zone Inc.)</strong> , buidheann neo-phrothaideach <strong>501(c)(3)</strong> . Tha a h-uile tabhartas sna SA ceadaichte airson lasachadh cìse cho fad ’s a tha e ceadaichte fon lagh.",
+    "questions": "Ceistean? Cuir fios thugainn aig <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

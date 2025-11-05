@@ -1,0 +1,61 @@
+{
+  "title": "Team - Orbital Gbedoxɔ",
+  "heading": "Dɔwɔha",
+  "artist": "Edson Pavoni, si nye nutala",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Nuwɔlawo ƒe Dɔdzikpɔlagã",
+      "members": "Sathi Roy ƒe ŋkɔ"
+    },
+    "aerospace": {
+      "heading": "Yamenutome & Dɔwɔɖoɖowo Ŋuti Mɔ̃ɖaŋu",
+      "members": "Pedro Kaled, João Pedro Polito, Aʋadziɖuɖu Baptista & João Aʋadziɖuɖu Alves"
+    },
+    "electronic": {
+      "heading": "Elektrɔnikmɔ̃ɖaŋuŋutinunya",
+      "members": "André Biagioni, João Pedro Polito kple V. K., kple ame bubuwo"
+    },
+    "software": {
+      "heading": "Sɔƒtwɛ",
+      "members": "Yonatan Kerubina"
+    },
+    "design": {
+      "heading": "Aɖaŋuwɔwɔ Kple Xɔtuɖaŋu",
+      "members": "Guilherme Bullejos ƒe agbalẽa"
+    },
+    "printing": {
+      "heading": "3D Tata",
+      "members": "Solid Concepts, le Eduardo Dias ƒe kpɔkplɔ te"
+    },
+    "rendering": {
+      "heading": "3D Gɔmeɖeɖe",
+      "members": "Guilherme Bullejos & RiseNy & Dɔwɔhatiwo"
+    },
+    "research": {
+      "heading": "Numekuku",
+      "members": "Roberta Savian Rosa & Clara Marques ƒe ŋkɔwo"
+    },
+    "exhibition": {
+      "heading": "Adzɔnuɖefia ƒe Nuwɔwɔ, Fotoɖeɖefia & Emenyawo wɔwɔ",
+      "members": "Clara Marques ƒe agbalẽa"
+    },
+    "silkScreen": {
+      "heading": "Adzɔnuɖefia ƒe Seda ƒe Nɔnɔmetata",
+      "members": "Daphne Alves, si nye agbalẽ si nye Daphne Alves"
+    },
+    "educational": {
+      "heading": "Sukudede Dɔwɔɖoɖo",
+      "members": "Susuwo ƒe Teƒe"
+    },
+    "communication": {
+      "heading": "Kadododzikpɔha",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, kple ame bubuwo"
+    },
+    "specialThanks": {
+      "heading": "Akpedada Tɔxɛwo",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington, kple ame bubuwo"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Dɔwɔhatiwo, Susu ƒe Teƒe",
+  "imageAlt": "Orbital Gbedoxɔ ƒe Satellite"
+}

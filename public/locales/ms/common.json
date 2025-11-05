@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "karya seni itu",
+    "sendAName": "hantar nama",
+    "fromTheArtist": "daripada artis",
+    "yetAnotherTemple": "lagi, kuil lain?",
+    "howItWorks": "bagaimana ia berfungsi",
+    "spaceLaunch": "pelancaran angkasa lepas dan risiko",
+    "briefHistory": "sejarah ringkas seni di angkasa",
+    "education": "pendidikan & sumber terbuka",
+    "sustainability": "kelestarian dan serpihan angkasa",
+    "press": "akhbar & media",
+    "team": "pasukan",
+    "partners": "rakan kongsi",
+    "support": "sokongan",
+    "technicalInfo": "maklumat teknikal"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Masukkan ritual - Hantar nama ke Kuil Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple ialah karya seni oleh Edson Pavoni, dicipta dengan kerjasama Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, dan semua mereka yang terus menghantar nama kuil ini."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Esse avvisatu - Tempiu Orbitale",
+  "heading": "Esse avvisatu quandu si alza",
+  "description": "U 28 di nuvembre di u 2025, u Tempiu Orbitale ascenderà.<br> Lasciate u vostru email, è vi diceremu quandu ghjunghjerà in u spaziu.",
+  "form": {
+    "emailPlaceholder": "u vostru@email.com",
+    "sendButton": "Mandà",
+    "sendingButton": "Inviendu...",
+    "successMessage": "Vi ghjungeremu quandu ascenderà.",
+    "errorMessage": "Qualcosa hè andatu male. Per piacè pruvate torna."
+  },
+  "backLink": "← Torna à u contu à rebours"
+}

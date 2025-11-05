@@ -1,0 +1,16 @@
+{
+  "title": "Llançament espacial - Temple orbital",
+  "heading": "Llançament espacial",
+  "intro": "El Temple Orbital està previst que es llanci a bord d'un PSLV (Vehicle de Llançament de Satèl·lits Polars) el 28 de novembre de 2025 des del Centre Espacial Satish Dhawan a Sriharikota, Índia.",
+  "partnership": "El llançament del Temple Orbital és una col·laboració entre NewSpace India Limited (NSIL), una empresa del Govern de l'Índia que depèn del Departament d'Espai, Antrix Corporation i l'artista. Aquesta col·laboració representa una fita important per a l'art en l'exploració espacial, ja que uneix el programa espacial de l'Índia amb una visió artística d'inclusió radical.",
+  "risks": {
+    "heading": "Riscos",
+    "paragraph1": "El satèl·lit va ser construït per suportar condicions de vibració extremes i cicles tèrmics, i ha estat sotmès a proves rigoroses. Tanmateix, els llançaments espacials comporten riscos inherents. Si el satèl·lit pateix danys durant el llançament o el desplegament, o si no aconsegueix establir comunicació amb les nostres estacions terrestres, treballarem per solucionar qualsevol problema. El satèl·lit té sistemes redundants i protocols de còpia de seguretat dissenyats per maximitzar les possibilitats d'èxit de la missió.",
+    "paragraph2": "A més, el satèl·lit pot romandre en òrbita durant menys de 10 anys si les condicions atmosfèriques o altres factors provoquen un decaïment orbital més primerenc. Tot i que l'hem dissenyat per durar almenys una dècada, la seva vida útil real depèn de condicions que no podem controlar completament.",
+    "paragraph3": "Si el primer llançament falla, o si no podem dur a terme aquesta missió segons el previst, explorarem vies alternatives a seguir, incloent-hi possiblement un segon intent de llançament amb pressupost disponible, la col·laboració amb altres missions o la documentació de l'intent com a part de la narrativa de l'obra d'art sobre l'aspiració i les limitacions."
+  },
+  "imageAlts": {
+    "india": "Centre Espacial ISRO, Índia",
+    "satellite": "Satèl·lit orbital del Temple"
+  }
+}

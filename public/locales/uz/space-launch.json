@@ -1,0 +1,16 @@
+{
+  "title": "Kosmik parvoz - Orbital ibodatxonasi",
+  "heading": "Kosmik ishga tushirish",
+  "intro": "Orbital ibodatxonasi 2025-yil 28-noyabr kuni Hindistonning Shrixarikota shahridagi Satish Dhawan kosmik markazidan PSLV (Polar Satellite Launch Vehicle) bortida uchirilishi rejalashtirilgan.",
+  "partnership": "Orbital Temple ishga tushirilishi NyuSpace India Limited (NSIL), Antrix korporatsiyasining Koinot departamenti qoshidagi Hindiston hukumati kompaniyasi va rassom o'rtasidagi hamkorlikdir. Ushbu hamkorlik koinotni tadqiq qilishda san'at uchun muhim bosqich bo'lib, Hindistonning kosmik dasturini radikal inklyuzivlikning badiiy qarashlari bilan birlashtiradi.",
+  "risks": {
+    "heading": "Xatarlar",
+    "paragraph1": "Sun'iy yo'ldosh ekstremal tebranish sharoitlari va termal davrlarga bardosh berish uchun qurilgan va qattiq sinovdan o'tgan. Biroq, kosmik parvozlar o'ziga xos xavflarni o'z ichiga oladi. Agar sun'iy yo'ldosh ishga tushirish yoki joylashtirish paytida shikastlangan bo'lsa yoki u bizning yerosti stansiyalarimiz bilan aloqa o'rnatolmasa, biz muammolarni bartaraf etish va hal qilish ustida ishlaymiz. Sun'iy yo'ldoshda missiya muvaffaqiyatini maksimal darajada oshirish uchun mo'ljallangan ortiqcha tizimlar va zaxira protokollari mavjud.",
+    "paragraph2": "Bundan tashqari, agar atmosfera sharoiti yoki boshqa omillar orbitaning erta parchalanishiga sabab bo'lsa, sun'iy yo'ldosh orbitada 10 yildan kamroq vaqt davomida qolishi mumkin. Biz uni kamida o'n yil davom etishi uchun ishlab chiqqan bo'lsak-da, haqiqiy ishlash muddati biz to'liq nazorat qila olmaydigan sharoitlarga bog'liq.",
+    "paragraph3": "Agar birinchi ishga tushirish muvaffaqiyatsiz tugasa yoki biz ushbu missiyani rejalashtirilgan tarzda bajara olmasak, biz oldinga muqobil yo'llarni o'rganamiz, jumladan, mavjud byudjet bilan ikkinchi ishga tushirish urinishi, boshqa missiyalar bilan hamkorlik yoki san'at asarining intilish va cheklash haqidagi hikoyasining bir qismi sifatida urinish hujjatlari."
+  },
+  "imageAlts": {
+    "india": "ISRO kosmik markazi, Hindiston",
+    "satellite": "Orbital Temple sun'iy yo'ldoshi"
+  }
+}

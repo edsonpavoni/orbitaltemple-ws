@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital Temple",
+    "subtitle": "zane-zane ne kuma tauraron dan adam,\nda nufin zama babban haikali mai haɗaka,\na wurin da babu bango ba ya isa."
+  },
+  "ritual": {
+    "label": "al'ada"
+  },
+  "cta": {
+    "link": "Duk da haka, wani haikali?",
+    "arrowAlt": "kibiya"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

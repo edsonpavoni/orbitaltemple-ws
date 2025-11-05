@@ -1,0 +1,50 @@
+{
+  "title": "Đối tác - Orbital Temple",
+  "heading": "Đối tác",
+  "intro": "Orbital Temple tồn tại nhờ lòng hảo tâm, chuyên môn và tầm nhìn của những đối tác phi thường. Từ chế tạo vệ tinh đến xây dựng cốt truyện, từ mở ra những cánh cửa đến những vùng đất xa xôi đến gieo mầm ước mơ bằng vàng, mỗi sự hợp tác đều đưa ngôi đền này đến gần hơn với các vì sao.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Giao tiếp, trải nghiệm tích hợp và hình ảnh 3D tuyệt đẹp đã hiện thực hóa tầm nhìn của vệ tinh trước khi nó chạm đến khoảng không vũ trụ."
+    },
+    "highestMantra": {
+      "name": "Chân ngôn cao nhất của chúng ta",
+      "description": "Dưới sự dẫn dắt của Sathi Roy, Orbital Temple kết nối với các cộng đồng tâm linh và nghệ thuật của Ấn Độ. Mở ra con đường gây quỹ, giao lưu văn hóa và triển lãm Art Basel sau lễ ra mắt vào tháng 11 năm 2025."
+    },
+    "allToSpace": {
+      "name": "Tất cả vào không gian",
+      "description": "Chuyên gia vệ tinh nhỏ người Brazil. Bốn năm hợp tác xây dựng nền tảng phần cứng nguồn mở và tiên phong trong quá trình đưa nghệ thuật vào quỹ đạo từ Nam Bán cầu."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Tổ chức Nghiên cứu Không gian Ấn Độ. Nhà cung cấp dịch vụ phóng cho sứ mệnh PSLV đưa Orbital Temple lên quỹ đạo đồng bộ mặt trời vào tháng 11 năm 2025."
+    },
+    "mercosul": {
+      "name": "Triển lãm Mercosur lần thứ 13",
+      "description": "Porto Alegre, Brazil. Được giám tuyển bởi Marcello Dantas cùng với các trợ lý giám tuyển Laura Cattani, Munir Klamt, Tarsila Riso và Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Hội thảo INPE / ArtSat",
+      "description": "Nhóm phát triển vệ tinh được thành lập trong Hội thảo ArtSat II. Điều phối bởi Fabiane M. Borges, Lázaro Camargo hướng dẫn, Ítalo Pinto Rodrigues cộng tác, Walter Abrahão dos Santos giám sát."
+    },
+    "solidConcepts": {
+      "name": "Khái niệm vững chắc",
+      "description": "Được dẫn dắt bởi Eduardo Dias. Toàn bộ công trình được thực hiện bằng công nghệ in 3D và đúc vàng siêu nhỏ cho mái vòm điêu khắc, biến giấc mơ kỹ thuật số thành hiện thực bằng kim loại quý."
+    },
+    "ideaSpace": {
+      "name": "Không gian ý tưởng",
+      "description": "Công ty khởi nghiệp giáo dục Brazil đang phát triển chương trình giảng dạy Quebrada Space Program, sẵn sàng áp dụng cho học sinh trung học trên khắp Brazil."
+    }
+  },
+  "closing": "Bạn có muốn hợp tác với Orbital Temple không? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Hãy liên hệ với chúng tôi</a> .",
+  "imageAlts": {
+    "riseNy": "Biểu trưng RiseNY&Partners",
+    "highestMantra": "Logo Thần chú cao nhất của chúng tôi",
+    "allToSpace": "Logo Tất cả vào Không gian",
+    "isro": "Biểu trưng ISRO",
+    "mercosul": "Logo Triển lãm Mercosur lần thứ 13",
+    "inpe": "Logo Hội thảo INPE ArtSat",
+    "solidConcepts": "Logo Solid Concepts",
+    "ideaSpace": "Logo Không gian Ý tưởng"
+  }
+}

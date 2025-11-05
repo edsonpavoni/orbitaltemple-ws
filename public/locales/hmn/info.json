@@ -1,0 +1,17 @@
+{
+  "title": "Technical Info - Lub Tuam Tsev Orbital",
+  "heading": "Technical Info",
+  "satellite": {
+    "heading": "satellite",
+    "specs": "Medidas: 50 x 58 x 64 mm<br /> 1P PocketQube<br /> Qhov hnyav: 245 g<br /> Khoom siv: aluminium, kub, fiberglass, thiab cov khoom siv hluav taws xob.<br /> Orbit: Qhov siab 525 ± 25 km; inclination: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Kav hlau txais xov/Sculpture",
+    "specs": "Qhov Loj: 6 m (inch) e 1.2m (qhov siab)<br /> Qhov hnyav: 46 kg<br /> Khoom siv: aluminium, epoxy mirrored board, golden aluminium dome raug tshem tawm los ntawm cov qauv scaffolding."
+  },
+  "radio": {
+    "heading": "Xov tooj cua Specs NASA-Catalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Hu rau: Status: Teem sijhawm rau 2025"
+  },
+  "imageAlt": "Technical Info Diagram"
+}

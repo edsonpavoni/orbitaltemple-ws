@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "umjetničko djelo",
+    "sendAName": "pošalji ime",
+    "fromTheArtist": "od umjetnika",
+    "yetAnotherTemple": "ipak, još jedan hram?",
+    "howItWorks": "kako to funkcionira",
+    "spaceLaunch": "svemirska lansiranja i rizici",
+    "briefHistory": "kratka povijest umjetnosti u svemiru",
+    "education": "obrazovanje i otvoreni kod",
+    "sustainability": "održivost i svemirski otpad",
+    "press": "tisak i mediji",
+    "team": "momčad",
+    "partners": "partneri",
+    "support": "podrška",
+    "technicalInfo": "tehničke informacije"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Uđite u ritual - pošaljite ime u Orbitalni hram"
+  },
+  "footer": {
+    "credits": "Orbitalni hram umjetničko je djelo Edsona Pavonija, stvoreno u suradnji s Pedrom Kaledom, João Pedrom Politom, Victorom Baptistom i João Victorom Alvesom, Andréom Biagionijem, VK, Jonathanom Querubinom, Guilhermeom Bullejosom, Eduardom Diasom, Robertom Savian Rosa, Clarom Marques, Sathi Roy i svima onima koji nastavljaju slati imena ovom hramu."
+  }
+}

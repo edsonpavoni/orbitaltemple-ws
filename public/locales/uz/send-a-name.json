@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "kirganingizda\nmarosim\nism yuborish uchun\nichiga\norbital ibodatxona\nkosmosda\nolish\nnafas",
+    "button": "Men tayyorman"
+  },
+  "nameInput": {
+    "title": "nom yozing",
+    "subtitle": "u kosmosda Orbital ibodatxonasiga ko'tariladi.",
+    "placeholder": "nomi",
+    "button": "ko'tarilsin"
+  },
+  "emailInput": {
+    "title": "elektron pochtangizni kiriting",
+    "subtitle": "shuning uchun siz ism ko'tarilganda xabar olasiz.",
+    "placeholder": "elektron pochtangiz",
+    "button": "amalga oshiriladi"
+  },
+  "loading": {
+    "alt": "Yuklanmoqda"
+  },
+  "success": {
+    "text": "ism\n{{name}}\nhozir navbatda turibdi\nyuksalish uchun.\nqachon\nkosmosdagi ma'bad\nbilan tekislanadi\nbizning antennamiz\ner yuzida\nyuboramiz\nism\nva siz olasiz\nxabar."
+  }
+}

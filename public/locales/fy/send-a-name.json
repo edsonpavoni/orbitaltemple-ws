@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "as jo in ritueel yngeane\nom in namme te stjoeren\nyn 'e\norbitale timpel\nyn 'e romte\nnim in\nsykheljen",
+    "button": "ik bin klear"
+  },
+  "nameInput": {
+    "title": "typ in namme",
+    "subtitle": "it sil opstean nei de Orbital Temple yn 'e romte.",
+    "placeholder": "namme",
+    "button": "lit it opstean"
+  },
+  "emailInput": {
+    "title": "typ dyn e-postadres yn",
+    "subtitle": "sadat jo in berjocht krije as de namme omheech giet.",
+    "placeholder": "dyn e-postadres",
+    "button": "it is klear"
+  },
+  "loading": {
+    "alt": "Ynladen"
+  },
+  "success": {
+    "text": "de namme\n{{namme}}\nstiet no yn 'e wachtrige\nfoar opstiging.\nas de\ntimpel yn 'e romte\nop ien line sit,\nmei ús antenne\nop Ierde\nsille wy\nde namme\nstjoere\nen jo krije\nin berjocht."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Historia fupi ya Sanaa katika Nafasi - Hekalu la Orbital",
+  "heading": "Historia fupi ya Sanaa katika Nafasi",
+  "intro": "Tangu uzinduzi wa kwanza wa satelaiti bandia kwa mafanikio mnamo <strong>1957</strong> , zaidi ya satelaiti elfu kumi zimekuja kuzunguka Dunia. Katika enzi hii mpya, wasanii wamepata njia ya kupanua mazoezi yao na anga ya juu imekuwa aina mpya ya turubai. Pamoja na hayo, maswali ya kimsingi kuhusu siasa za uchunguzi wa anga yameibuka - ingawa mambo mengi zaidi bado hayajashughulikiwa.",
+  "sections": {
+    "leonov": {
+      "text": "Mchoro wa kwanza ulioundwa angani ulikuwa mchoro wa mawio ya jua juu ya Dunia, uliotengenezwa na mwanaanga wa Urusi <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexei Leonov</a></strong> akiwa kwenye bodi ya Voskhod 2 mnamo <strong>1965</strong> .",
+      "caption": "Kipande cha kwanza cha sanaa kilichoundwa katika nafasi, na penseli Alexei Leonov alitumia kuchora. Picha: Makumbusho ya Kituo cha Mafunzo cha Yuri Gagarin Cosmonaut"
+    },
+    "moonMuseum": {
+      "paragraph1": "Miaka mitatu baadaye, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Makumbusho ya Mwezi</a></strong> , sahani ndogo ya kauri inayodaiwa ilitua Mwezini ikiwa na maandishi na wasanii sita mashuhuri nchini Marekani wakati huo: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> na <strong>Andy Warhol</strong> .",
+      "caption1": "Picha ya Makumbusho ya Mwezi kutoka kwa nakala asili ya New York Times. Kidole gumba kinaficha mchoro wa Warhol.",
+      "paragraph2": "Mchango wa uchochezi wa Warhol - juu kushoto - ulifanya mradi huu kuwa changamoto kwa vyombo vya habari vya mawasiliano wakati huo.",
+      "caption2": "Picha ambayo New York Times ilichagua kuchapisha, huku mchoro ukionekana hapa chini na mchoro wa Andy Warhol kwenye kona ya juu kushoto."
+    },
+    "fallenAstronaut": {
+      "text": "Mnamo <strong>1971</strong> , sanamu ndogo ya alumini ya humanoid iitwayo <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Fallen Astronaut</a></strong> iliwekwa kwenye Mwezi na mwanaanga wa Apollo 15 <strong>David Scott</strong> . Msanii wa Ubelgiji <strong>Paul Van Hoeydonck</strong> alikusudia, kwa kipande hiki, kuwakumbuka wanaanga na wanaanga ambao wamekufa katika maendeleo ya uchunguzi wa anga.",
+      "caption": "Mwonekano wa bamba la ukumbusho lililoachwa mwezini kwenye tovuti ya kutua ya Hadley-Apennine."
+    },
+    "pioneerVoyager": {
+      "text": "Katika <strong>miaka ya 1970</strong> , <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> na <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> ziliweka upeo mpya wa sanaa angani. Wakiwa wamebeba vibao vya alumini iliyojazwa na dhahabu na ujumbe unaoonekana kutoka Duniani hadi kwa wasafiri wengine wowote ambao wanaweza kuupata katika siku za usoni, walionyesha maisha ya binadamu katika vipengele vyake vya kimsingi.",
+      "caption": "Pioneer 10 na 11 plaques, kubebwa katika nafasi ya kina katika miaka ya 1970."
+    },
+    "dove": {
+      "text": "Mnamo <strong>1990</strong> , Brazili iliacha alama yake kwenye eneo hili na <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , setilaiti mahiri ya amateur yenye nguvu kubwa ya ushairi. Ijapokuwa muundaji wake hakujiona kuwa msanii, ilikuwa jitihada ya kishairi sana: ilirekodi sauti za watoto wakiomba amani na kuzisambaza kwa zaidi ya mastaa elfu mbili wa redio duniani kote, na kubadilisha CubeSat ya upainia kuwa kazi ya sauti ya pamoja.",
+      "caption": "DOVE/OSCAR-17, setilaiti ya kishairi ya Brazili inayosambaza sauti za watoto kwa ajili ya amani, 1990."
+    },
+    "lastPictures": {
+      "text": "Mnamo <strong>mwaka wa 2012</strong> , msanii <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> alizindua <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Picha za Mwisho&quot;</a></strong> , diski iliyochorwa kidogo iliyo na picha 100 zilizounganishwa kwenye satelaiti ya mawasiliano ya Echostar XVI katika obiti ya geostationary. Imeundwa kudumu mabilioni ya miaka, inakusudiwa kuushinda ustaarabu wa binadamu kama kisanii cha kiakiolojia kwa siku zijazo za mbali.",
+      "caption": "Picha za Mwisho, diski iliyochorwa kidogo iliyoundwa ili kushinda ubinadamu, iliyozinduliwa mnamo 2012."
+    },
+    "ulises": {
+      "text": "Mnamo <strong>mwaka wa 2015</strong> , <strong>Colectivo Espacial Mexicano</strong> (Mkusanyiko wa Nafasi ya Mexican) ilizindua <strong>Ulises I</strong> , nanosatellite iliyobuniwa kama opera ya dhana chini ya uongozi wa msanii <strong>Juan José Díaz Infante Casasús</strong> . Setilaiti hiyo ilibebwa hadi kwenye anga ya anga kwenye puto wakati wa Feria del Libro de Guadalajara. Imeundwa kulipuka kwa takriban saa nne na kushuka kwa parachuti.",
+      "caption": "Ulises I, opera ya dhana ya setilaiti na Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Haikuwa hadi <strong>2014</strong> ambapo satelaiti ya kwanza ya kisanii ilizinduliwa. Mradi <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">wa Wavamizi wa ARTSAT-1</a></strong> wa Chuo Kikuu cha Tokyo ulituma data ya anga kwenye Dunia ambayo ilitumika katika usanifu wa sanaa na uundaji wa muziki.",
+      "caption1": "Mfumo wa Wavamizi wa ARTSAT-1 na vipuri vilivyosalia Duniani.",
+      "caption2": "misheni [SPACE x ART] - zaidi ya maonyesho ya Cosmologies yaliyofanyika katika Jumba la Makumbusho la Sanaa ya Kisasa Tokyo"
+    },
+    "kac": {
+      "text": "Msanii wa kisasa wa Brazili na Marekani <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> amechangia sanaa ya anga kupitia ushirikiano na <strong>NASA</strong> na <strong>SpaceX</strong> . <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Darubini ya Ndani&quot;</a></strong> yake ( <strong>2017</strong> ), iliyoundwa na mwanaanga wa Ufaransa <strong>Thomas Pesquet</strong> , ilisababisha sanamu iliyofanywa ndani ya <strong>Kituo cha Kimataifa cha Anga</strong> .",
+      "caption": "Darubini ya Ndani kwenye Kituo cha Kimataifa cha Anga cha Juu, iliyoundwa na mwanaanga wa Ufaransa Thomas Pesquet, 2017."
+    },
+    "enoch": {
+      "text": "Mnamo <strong>2018</strong> , CubeSat tulivu iliyojengwa kama mradi wa sanaa ilizinduliwa kwenye obiti. Imetengenezwa na msanii wa dhana wa kibahama <strong>Tavares Strachan</strong> , <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> ana mtungi wa dhahabu wa karati 24 wenye mlipuko wa mwanaanga wa kwanza wa Kiafrika-Amerika, <strong>Robert Henry Lawrence Jr.</strong>",
+      "caption": "ENOCH (kitengo cha kuonyesha), 2015-2017. ⓒ Tavares Strachan, picha ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Katika mwaka huo huo, <strong>Orbital Reflector</strong> <strong>ya Trevor Paglen</strong> pia ilizinduliwa kama sanamu iliyohifadhiwa katika CubeSat isiyofanya kazi. Kazi hiyo ilikuwa ishara ya kisanii iliyokusudiwa kubadilisha jinsi tunavyoona mahali petu ulimwenguni. Haikutumwa kwa usahihi. Ingawa haikufunguliwa kama ilivyosanifiwa, ilizua mazungumzo muhimu na kupata majibu ya shauku kutoka kwa wanaastronomia, wanasayansi, vyombo vya habari, waelimishaji, wanafunzi, na umma kwa ujumla duniani kote, kuonyesha kwamba sanaa yenye mafanikio haifai kufanikiwa kiufundi.",
+      "caption": "Utoaji wa Kidijitali wa Orbital Reflector, 2018"
+    },
+    "others": {
+      "text": "Wasanii wengine wengi wamechangia katika uwanja wa sanaa ya anga, kila mmoja akileta mitazamo ya kipekee katika utafiti wao. Miradi mashuhuri ni pamoja na utafiti wa msanii wa mwanaanga <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">wa Sarah Jane Pell</a></strong> unaochunguza utendaji wa binadamu katika mazingira yaliyokithiri; Mradi wa Analojia <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">wa Agnes Meyer-Brandis wa</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Mwezi Goose</a></strong> unaochunguza masimulizi ya uchunguzi wa anga ya kihistoria na ya kisasa; Programu ya <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ya Nahumu</a></strong> inayowezesha majaribio ya kisanii ya uwezo mdogo wa uvutanoaji; na sanamu <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ya Arthur Woods&#39;s</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> , sanamu ya kwanza iliyoonyeshwa angani ndani ya kituo cha Mir mnamo 1993."
+    },
+    "orbitalTemple": {
+      "text": "Mnamo <strong>2025</strong> , baada ya miaka 4 ya utafiti na maendeleo, msanii wa Brazil <strong>Edson Pavoni</strong> na kikundi cha washiriki wa taaluma nyingi watazindua <strong>Orbital Temple</strong> , satelaiti shirikishi ya sanaa ambayo inaalika mtu yeyote ulimwenguni kutuma majina kuzunguka, na kuunda kumbukumbu inayojumuisha kwa kiasi kikubwa nje ya mipaka.",
+      "caption": "Hekalu la Orbital kwenye Mercosul Bienal. Picha: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Mchoro wa Alexei Leonov na penseli",
+    "moonMuseum": "kauri ya kauri ya Makumbusho ya Mwezi",
+    "moonMuseumWarhol": "Kaki ya kauri ya Makumbusho ya Mwezi inayoonyesha kazi zote za sanaa",
+    "fallenAstronaut": "Ukumbusho wa Mwanaanga Aliyeanguka Mwezini",
+    "pioneerPlaques": "Vibao vya waanzilishi",
+    "dove": "WAPI/OSCAR-17 satelaiti",
+    "lastPictures": "Diski ya Picha za Mwisho",
+    "ulises": "Ulises I satellite",
+    "artsatInvader": "Muundo wa satelaiti ya ARTSAT-1 Invader",
+    "artsatArt": "Mchoro ulioundwa kutoka kwa data ya ARTSAT-1",
+    "innerTelescope": "Darubini ya Ndani ya Eduardo Kac",
+    "enoch": "Kitengo cha kuonyesha cha ENOCH cha Tavares Strachan",
+    "orbitalReflector": "Trevor Paglen's Orbital Reflector",
+    "orbitalTemple": "Satelaiti ya Hekalu la Orbital"
+  }
+}

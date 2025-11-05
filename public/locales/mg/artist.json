@@ -1,0 +1,44 @@
+{
+  "title": "Avy amin'ny Artist",
+  "opening": {
+    "question": "Iza io lehilahy io hanolotra tempoly eny amin'ny habakabaka?",
+    "thanks": "Misaotra amin'ny fanontaniana.",
+    "answer": "Ny valiny fohy dia hoe mpanakanto aho. Ny lava dia ity:"
+  },
+  "origin": {
+    "sao_paulo": "Teraka tany ivelan’i São Paulo aho, tao amin’ny faritra iray izay nampianatra ahy aloha ny dikan’ny loza. Maro amin'ireo namako any am-pianarana no any am-ponja ankehitriny. Any am-ponja ny raikeliko. Tsy zavatra novakiako ny herisetra, fa izao tontolo izao tsy maintsy nodiaviko. Ary fantatro fa nila nandositra aho.",
+    "technology": "Nanjary lalana hivoahanako ny teknolojia. Nianatra nanao fandaharana aho, nianatra elektronika fony aho zatovo. Fiteny mety hitondra ahy any an-kafa ny code. Ny niasako tamin'ny teknolojia no nandosirako tamin'ny fahantrana.",
+    "christianity": "Nitady fiombonana, fitiavana, zavatra inoana koa anefa aho. Nahita ny Kristianisma aho, na nahita ahy. Voaray aho. tiana aho. Nanana fiaraha-monina aho. Nianatra nifamela aho, nino, niara-nifindra ho amin’ny tanjona lehibe kokoa.",
+    "price": "Lafo anefa ny vidiny. Nianatra zavatra maro mbola tsy nianarako koa aho. Ka nandositra tamin’izany koa aho."
+  },
+  "searching": {
+    "walls": "Fantatro izay ataon'ny rindrina. Efa nahatsapa azy ireo aho. Efa teo amin'ny andaniny sy ny ankilany aho: voaroaka, voatazona ao anatiny. Taona maro taorian'izay dia nitady zavatra tsy haiko nambarako. Maty Andriamanitra nandritra ireo taona ireo. Ilay andriamanitra nampianarina ahy, na izany aza, dia ilay manana fitsipika sy fitsarana ary varavarana izay misokatra ho an'ny olona sasany ihany.",
+    "art": "Nanomboka nanao zavakanto aho mba hijery ireto fanontaniana ireto: momba ny firaisana ara-nofo sy ny teknolojia, momba ny fahatsiarovana sy ny fahafatesana, momba ny hoe iza no mendrika ny lanitra. Nanomboka nanamboatra milina aho izay mamerina indray ny fifandraisantsika amin'ny teknolojia, milina mila ny fandraisanao anjara, ny fisianao, ny anaranao, mba hanovana ny metaly sy ny code ho zavatra velona."
+  },
+  "pandemic": {
+    "intro": "Avy eo dia namely an'i Brezila ny areti-mifindra.",
+    "government": "Rehefa nahemotra ny vaksiny COVID dia nifampiraharaha ny fandoavana vola iray dolara isaky ny fatra ny governemantako. Nampiroborobo ny fanafody fantatra fa tsy mandaitra izy ireo, nihomehy raha ny olona maty sahirana mafy miaina. Nifoha isan'andro izahay tamin'ny isa hafa. Firy ny olona maty tao anatin'ny 24 ora farany? Nihoatra ve izany sa latsaka noho ny nantenaina?",
+    "war": "Natahotra ny atsasaky ny tany, ary ny antsasany kosa no nanda. Niady izahay, niaraka tamin'ny viriosy ary nifampiresaka.",
+    "memorial": "Te hamorona toerana ho an'ny alahelo iombonana aho, ka niaraka tamin'ny olona an-jatony dia namorona ny Memorial Inumeraveis aho. Zavakanto eo amin'ny fihaonan'ny zavakanto sy ny asa fanaovan-gazety. Nanadinadina fianakaviana namoy olona izahay. Nanoratra ny tantaram-piainan’ilay olona nafoin’izy ireo izahay. Nanova ny isa ho tantara izahay. Tononkalo, hira, symphonie no natao niaraka tamin'ireo tantara ireo. Ireo kintana dia namaky ireo tantara ireo tamin'ny fahitalavitra nasionaly. Nahatratra an-tapitrisany ny tetikasa.",
+    "meaning": "Ny zava-dehibe dia tsy ny mizana, fa ny tantara tsirairay dia anarana, fiainana, lanitry ny olona iray."
+  },
+  "discovery": {
+    "pattern": "Taorian'ny resadresaka maherin'ny iray alina niaraka tamin'ny alahelo, dia nanomboka nipoitra ny lamina iray. Rehefa miresaka momba ny olona iray efa maty isika, dia tsy milaza zavatra tsara fotsiny; mifidy sombiny amin'ny tantaran'izy ireo toy ny hoe manoratra taratasy fanolorana izahay. Tolo-kevitra ho an'ny mpiandry vavahadin'ny paradisa. Manao izay tratry ny herinay izahay mba handefasana azy ireo any amin'ny toerana misy ny fanekena, ny fialan-tsasatra, ny voninahitra ary ny fahatsiarovana.",
+    "understanding": "Ary azoko ny zavatra iray izay nanova ny zava-drehetra: Naratra izahay noho ireo tempoly naorinay. Ny finoantsika momba ny hoe iza no mendrika ny lanitra dia mamolavola mivantana an'izay avoakantsika eto an-tany. Nino ny mpanjanaka Portiogey tany Brezila fa tsy nanana fanahy ny mainty hoditra; izany finoana izany dia nanamarina ny fanandevozana. Raha vazimba ianao, raha teraka tany amin'ny toerana tsy mety ianao na tia olon-tsy fantatra, dia nolazaina taminao fa mihidy aminao ny varavaran'ny lanitra.",
+    "birth": "Toy izany no nahaterahan'ny Tempoly Orbital."
+  },
+  "shaman": {
+    "secular": "Tsy misy mpanakanto afaka ny ho tena laika. Mifamatotra mandrakizay amin'ny razambentsika, ilay shaman. Tany am-boalohany dia nisy lava-bato. Nandoko biby teo amin'ny rindrina ny olona, tsy mba haingo, fa mba hiantsoana. Nandihy izy ireo, ary lasa tempoly ilay lava-bato. Ny shaman dia mampiasa ny fanahin'ny fombafomba; ny mpanakanto dia mampiasa ny aura ny zavakanto. Mandoko, manao sary sokitra, manao kaody, mamolavola ny hoavintsika irinay tsy haingo, fa hiantso. Ny zava-kanto rehetra dia ara-panahy, na dia lazaina fa tsy izy aza."
+  },
+  "space": {
+    "question": "Aiza no ahafahantsika manorina tempoly tsy misy rindrina? Izay tsy nisy firenena na fivavahana afaka nitaky. Aiza no ahafahantsika maka sary an-tsaina ny tenantsika ho vondrona iray.",
+    "answer": "Space.",
+    "description": "zanabolana kanto mandray anjara avy amin'ny Global South. Tempoly miodina izay manasa ny olona rehetra handefa ny anarany eny amin'ny habakabaka, na iza izy na iza, aiza no nahaterahany, iza no tiany, inona no inoany. Toerana iray ahafahan'ny fampidirana radikaly, ao anaty orbit, any an-dafin'ny sisintany.",
+    "mission": "Open source ity iraka ity. Ny antontan-taratasy ara-teknika rehetra, ny andalana tsirairay amin'ny kaody dia ho azo maimaim-poana mba hahafahan'ireo mpanakanto hafa, vondrom-piarahamonina hafa, firenena hafa manangana zanabolana azy manokana. Noho izany ny Global South dia tsy mandray anjara amin'ny fitrandrahana habakabaka fotsiny, fa mitarika izany."
+  },
+  "closing": {
+    "answer": "Dia iza io lehilahy io hanorina tempoly eny amin'ny habakabaka? Tsy manangana azy aho. Ny tempoly dia naorin'ny olona rehetra izay manapa-kevitra ny handefa anarana, mba hijerena azy ho masina, mba hahatonga azy io ho tena izy. Izaho ihany no manolotra. Ianao no manangana azy raha manapa-kevitra ny hanao izany ianao.",
+    "signature": "azafady,",
+    "name": "Edson Pavoni"
+  }
+}

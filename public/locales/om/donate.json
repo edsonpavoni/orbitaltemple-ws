@@ -1,0 +1,31 @@
+{
+  "title": "Mana Qulqullummaa Orbitaaliif arjooma",
+  "heading": "Arjooma Keessan Guutuu",
+  "donatingTo": "Arjooma gochaa jirtu:",
+  "chooseHow": "Buusiin gibirri irraa hir’ifamuu qabu akkamitti akka xumuruu barbaaddu filadhu:",
+  "option1": {
+    "heading": "Filannoo 1: Amma Toora Interneetii Arjooma",
+    "description": "Kaardii liqii, kaardii deebii, ykn mala kaffaltii toora interneetii biroo fayyadamuun karaa ispoonsara faayinaansii keenya eegumsa qabu, <strong>The Field</strong> , fayyadamuun arjooma keessan hatattamaan xumuraa. Nagahee gibiraa battalaa ni argatta.",
+    "button": "Karaa Dirree → arjooma"
+  },
+  "option2": {
+    "heading": "Filannoo 2: Kuufama Baankii The Roy Foundation",
+    "description": "Kallattiin maallaqa baankii ykn jijjiirraa wayaa <strong>The Roy Foundation</strong> , michuu tarsiimoo fi ispoonsara faayinaansii keenyaaf godhaa. Filannoon kun arjooma guddaa ykn jijjiirraa idil-addunyaatiif mijataa dha.",
+    "bankingInfo": "Odeeffannoo Baankii",
+    "fields": {
+      "accountName": "Maqaa Herregaa:",
+      "bankName": "Maqaa Baankii:",
+      "accountNumber": "Lakkoofsa Herregaa:",
+      "routingNumber": "Lakkoofsa Daandii:",
+      "swift": "SWIFT/BIC: 1.1.",
+      "reference": "Wabeeffannaa:"
+    },
+    "instructions": "Maaloo dirree wabii keessatti &quot; <strong>Orbital Temple - {donationType}</strong> &quot; dabali. Jijjiirraa keessan erga xumurtanii booda nagahee gibiraa keessan argachuuf ibsa jijjiirraa keessanii <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> irratti nuuf ergaa.",
+    "button": "Waa'ee Kuufama Nu Qunnamaa →"
+  },
+  "taxInfo": {
+    "heading": "Kenniinsa Gibirri Hir’ifamu",
+    "description": "Orbital Temple pirojektii maallaqaan deeggaramee kan <strong>The Field (Performance Zone Inc.)</strong> , dhaabbata bu’aa hin arganne <strong>501(c)(3)</strong> dha. Buusiin US hundi hanga seeraan hayyamameetti gibirri irraa hir’ifama.",
+    "questions": "Gaaffii? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> irratti nu qunnamaa"
+  }
+}

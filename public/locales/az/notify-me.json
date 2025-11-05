@@ -1,0 +1,13 @@
+{
+  "title": "Xəbərdar olun - Orbital Məbədi",
+  "heading": "Yüksələndə Xəbərdar Olun",
+  "description": "28 noyabr 2025-ci ildə Orbital Məbədi yüksələcək.<br> E-poçtunuzu buraxın, boş yerə çatdıqda sizə xəbər verəcəyik.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Göndər",
+    "sendingButton": "Göndərilir...",
+    "successMessage": "O, yüksələndə sizə çatacağıq.",
+    "errorMessage": "Nəsə xəta baş verdi. Yenidən cəhd edin."
+  },
+  "backLink": "← Geri sayıma qayıt"
+}

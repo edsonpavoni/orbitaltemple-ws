@@ -1,0 +1,13 @@
+{
+  "title": "Rebre notificacions - Temple Orbital",
+  "heading": "Rebre notificacions quan pugi",
+  "description": "El 28 de novembre de 2025, el Temple Orbital ascendirà.<br> Deixa el teu correu electrònic i t&#39;avisarem quan arribi a l&#39;espai.",
+  "form": {
+    "emailPlaceholder": "el vostre@correu.com",
+    "sendButton": "Enviar",
+    "sendingButton": "Enviant...",
+    "successMessage": "T'arribarem quan ascendeixi.",
+    "errorMessage": "S'ha produït un error. Torna-ho a intentar."
+  },
+  "backLink": "← Torna al compte enrere"
+}

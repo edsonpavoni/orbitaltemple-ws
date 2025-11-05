@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "當你進入\n一個儀式\n將一個名字\n送入\n軌道神殿\n太空\n深呼吸",
+    "button": "我準備好了"
+  },
+  "nameInput": {
+    "title": "輸入名稱",
+    "subtitle": "它將升至太空中的軌道神殿。",
+    "placeholder": "姓名",
+    "button": "讓它上升"
+  },
+  "emailInput": {
+    "title": "輸入您的電子郵件",
+    "subtitle": "這樣，當名字被選中時，你就會收到一條訊息。",
+    "placeholder": "您的電子郵件",
+    "button": "完成了"
+  },
+  "loading": {
+    "alt": "載入中"
+  },
+  "success": {
+    "text": "名字\n{{name}}\n現已排隊等候\n昇華。\n當\n太空中的\n神殿\n與\n我們在地球上的\n天線\n對齊時\n我們將發送\n這個名字\n您將收到\n一條信。"
+  }
+}

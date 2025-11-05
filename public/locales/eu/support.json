@@ -1,0 +1,167 @@
+{
+  "title": "Lagundu Orbital Temple-ri - Batu zaitez misioari",
+  "heading": "Orbita-tenpluaren euskarria",
+  "vision": "<strong>2025eko azaroaren 28an</strong> , <strong>Orbital Temple</strong> <strong>Indiatik</strong> jaurtiko da <strong>ISRO</strong> suziri batean. Hegoalde Globaleko arte parte-hartzaileko satelite bat da, inklusio erradikalari monumentua, hezkuntzarako plataforma eta teknologiaren, adimen artifizialaren eta espazioaren esplorazioaren aroan sakratuaren etorkizunari buruzko elkarrizketa globalaren katalizatzailea.",
+  "videoCaption": "Orbital Temple-ren bideo-sarrera, 1 min.",
+  "accomplished": {
+    "heading": "Lortu duguna",
+    "content": "Lau urteko ikerketa eta garapenaren ondoren, misioa prest dago. Satelitearen <strong>hardware eta software garapena</strong> amaitu dugu, hegaldiaren ziurtagirirako beharrezkoak diren <strong>astingailu proba ofizialak</strong> gainditu ditugu eta ISROrekin dugun kontratua amaitu dugu. Satelitea eraikita dago. Teknologiak funtzionatzen du. Jaurtiketa egiteko baimena dugu."
+  },
+  "funding": {
+    "heading": "Finantzaketaren Aurrerapena",
+    "raised": "altxatuta",
+    "of": "-ren",
+    "goal": "helburua",
+    "button": "Lagundu Misioari"
+  },
+  "needs": {
+    "heading": "Zertarako behar dugun laguntza",
+    "intro": "Misio historiko hau burutzeko eta bere eragina maximizatzeko, bost osagai kritikoren laguntza behar dugu:",
+    "launch": {
+      "title": "ISROren abiarazteko kostuak:"
+    },
+    "travel": {
+      "title": "Artistaren bidaia Indiara:"
+    },
+    "carbon": {
+      "title": "Karbono Konpentsazio Programa:"
+    },
+    "education": {
+      "title": "Hezkuntza Programa:"
+    },
+    "docPreProd": {
+      "title": "Dokumentalaren aurre-ekoizpena:"
+    },
+    "docProd": {
+      "title": "Dokumentalaren Ekoizpena:"
+    }
+  },
+  "decade": {
+    "heading": "Hamarkada Aurreratua",
+    "intro": "Misio hau ez da 2025eko azaroaren 28an amaitzen. Hasi besterik ez da egin.",
+    "paragraph1": "Hurrengo <strong>10 urteetan</strong> , satelite hau Lurraren inguruan orbitatuko da, planetako txoko guztietatik bidalitako izenei erantzunez. Hezkuntza programaren helburua <strong>milaka nerabe</strong> sateliteen teknologian trebatzea da, Hegoalde Globalerako <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Espazio Hutsunea</a> hautsiz. Dokumentalak mundu osoko <strong>milioika pertsonarengana</strong> iritsiko da, pertenentziari, memoriari eta sakratuari buruzko elkarrizketak piztuz.",
+    "paragraph2": "Orbital Temple <strong>Sathi Royrekin</strong> eta <strong>The Roy Foundation-ekin</strong> lankidetzan ari da hamarkada bateko ikuspegi hau kulturalki esanguratsua izan dadin. Roy Foundation irabazi-asmorik gabeko erakundea da, mundu osoko komunitate behartsuenentzako hezkuntza espiritualerako, sendatze emozionalerako eta kontzientzia tresnetarako sarbidea zabaltzeko dedikatua, antzinako jakinduria eta teknologia modernoa uztartuz mundu kontzienteagoa, konektatuagoa eta errukitsuago bat sortzeko. Elkarrekin, azpiegitura eraikitzen ari gara Orbital Temple mundu osoko komunitateetara iristen den mugimendu iraunkor bihurtzeko.",
+    "paragraph3": "Zure laguntzak ez du jaurtiketa bat finantzatzen bakarrik; hamarkada batez oihartzuna izango duen eta hurrengo espazio-artista eta ingeniarien belaunaldia inspiratuko duen mugimendu bat sortzen du."
+  },
+  "waysToSupport": {
+    "heading": "Laguntzeko moduak",
+    "individualDonations": {
+      "heading": "Banakako dohaintzak",
+      "intro": "Batu zaitez misioari zuretzako egokia den mailan. Banakako laguntzaileak dira proiektu historiko honen oinarria.",
+      "orbitalFriend": {
+        "title": "Lagun Orbitala",
+        "benefits": "Honako hauek jasoko dituzu: Izena webguneko ohorezko zerrendan · Satelitea jaurtitzean orbita-ziurtagiri pertsonalizatua · Esker oneko kreditu dokumentala · Zergak kentzeko ordainagiria",
+        "button": "Egin zerga kenkari gisa dohaintza bat"
+      },
+      "satelliteSupporter": {
+        "title": "Satelitearen aldekoa",
+        "benefits": "Honako hauek jasoko dituzu: Orbital Friend-en abantaila guztiak · Satelite bidezko jarraipen aplikaziorako sarbide esklusiboa · Artistari eskerrak emateko bideo-mezua · Zergak kentzeko ordainagiria",
+        "button": "Egin zerga kenkari gisa dohaintza bat"
+      },
+      "spaceAdvocate": {
+        "title": "Espazioko defendatzailea",
+        "benefits": "Honako hauek jasoko dituzu: Satellite Supporter-en abantaila guztiak · Dokumentalaren kredituetan izena idatzita · Dokumental pribatuen emanaldirako gonbidapena · Taldearen hiruhileko eguneraketak · Zergak kentzeko ordainagiria",
+        "button": "Egin zerga kenkari gisa dohaintza bat"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Osagai espezifiko bat finantzatu",
+    "intro": "Zure ekarpenak misioaren alderdi zehatzak zuzenean finantzatzen ditu. Aukeratu zuretzako egokia dena, edo konbinatu hainbat eragin handiagoa sortzeko.",
+    "launch": {
+      "title": "Finantzatu espazio-jaurtiketa",
+      "description": "<strong>ISRO</strong> suzirian jaurtiketaren benetako kostua <strong>, 2025eko azaroaren 28an</strong> . Horrek Orbital Temple orbitan bidaliko du, eta hamarkada batez egongo da zeruko arte satelite eta tenplu parte-hartzaile gisa, munduko edonorentzat eskuragarri.",
+      "benefits": "Honako hauek jasoko dituzu: \"Jaurtiketa Babeslea\" titulua · Prentsa-ohar guztietan agertuko da · Pantailan dokumentalaren aitorpena · Jaurtiketa ekitaldietarako VIP sarbidea · Edson eta misioko taldearekin hiruhileko bideo-deietan parte hartu · Satelitearen orbita-datuekin ziurtagiria · Zergak kentzeko ordainagiria",
+      "button": "Egin zerga kenkari gisa dohaintza bat"
+    },
+    "travel": {
+      "title": "Finantza ezazu artistaren Indiarako bidaia",
+      "description": "Edson Pavoni artistaren eta bere talde nagusiaren bidaia, ostatua eta ekoizpen kostuak <strong>, 2025eko azaroaren 28an Indian</strong> estreinaldia ikusteko. Bidaia hau ezinbestekoa da dokumentala filmatzeko, hedabideen estaldura egiteko eta une historiko honetan Hegoalde Globala ordezkatzeko.",
+      "benefits": "Honako hauek jasoko dituzu: Artistarengandik eskerrak emanez · Eszena atzean dokumentalerako sarbidea · Izena dokumentaleko kredituetan · Zerga kenkarietarako ordainagiria",
+      "button": "Egin zerga kenkari gisa dohaintza bat"
+    },
+    "carbon": {
+      "title": "Finantzatu Karbono Konpentsazio Programa",
+      "description": "Karbono isuri guztiak neutralizatuko dira, suziriaren jaurtiketa eta satelitearen fabrikazioa barne. Karbono konpentsazio programekin ari gara lanean, misio honek ingurumen-aztarna negatiborik utzi ez dezan ziurtatzeko.",
+      "benefits": "Honako hauek jasoko dituzu: Webguneko ohorezko zerrendan izena · Ziurtagiri pertsonalizatua · Zerga kenkarirako ordainagiria",
+      "button": "Egin zerga kenkari gisa dohaintza bat"
+    },
+    "education": {
+      "title": "Finantzatu Hezkuntza Programa",
+      "description": "Hegoaldeko nerabeei sateliteak nola eraiki irakasten dien eleaniztun ikastaro osoa garatu eta abiarazi. Curriculumaren garapena, bideoen ekoizpena, plataformaren ostatua eta ikasle behartsuentzako bekak lehen urtez barne hartzen ditu. Espazio hezkuntzarako azpiegitura iraunkorra sortzen du.",
+      "benefits": "Honako hauek jasoko dituzu: \"Hezkuntza Fundatzailearen Babeslea\" aitorpena · Zure izenean bekak · Hezkuntza-materialetan agertuko zara · Bekak finantzatutako lehen ikasle-taldearekin elkartuko zara (birtuala edo aurrez aurrekoa) · Dokumental-filmen segmentua · Aurkezpen-ekitaldietan hitz egiteko aukera · Zergak kentzeko ordainagiria",
+      "button": "Egin zerga kenkari gisa dohaintza bat"
+    },
+    "docPreProd": {
+      "title": "Dokumentalaren aurre-ekoizpena finantzatu",
+      "description": "<strong>&quot;Zerk egiten du tenplu bat?&quot;</strong> dokumentalaren hasierako fasea finantzatu. Honako hauek barne hartzen ditu: <strong>Indian</strong> bi elkarrizketa sakon egitea lider pentsalari eta praktikatzaile espiritualekin, talde txiki baten bidaiak eta ekoizpena, eta aurre-ekoizpeneko irudien edizioa. Fase honek dokumentalaren oinarriak ezartzen ditu eta norabide sortzailea balioztatzen du.",
+      "benefits": "Honako hauek jasoko dituzu: Ekoizle elkartuaren kreditua · Izena dokumentalaren kredituetan · Aurre-ekoizpeneko irudien emanaldi pribatua · Eszena atzean ikusteko sarbidea · Zergak kentzeko ordainagiria",
+      "button": "Egin zerga kenkari gisa dohaintza bat"
+    },
+    "docProd": {
+      "title": "Dokumentalaren ekoizpena finantzatu",
+      "description": "<strong>&quot;Zerk egiten du tenplu bat?&quot;</strong> dokumentalaren ekoizpen eta postprodukzio osoa, artearen, teknologiaren eta gauza sakratuaren arteko elkargunea aztertzen duena. Hainbat herrialdetan filmatzea, pentsamendu-liderrekin egindako elkarrizketa gehigarriak, edizio osoa, koloreen kalifikazioa, soinu-diseinua eta <strong>Indian</strong> eta <strong>New Yorken</strong> estreinaldiko emanaldiak barne hartzen ditu.",
+      "benefits": "Honako hauek jasoko dituzu: Ekoizle exekutiboaren kreditua · Hasierako kredituetan agertuko zara · Zure gonbidatuentzako emanaldi pribatua · Mundu mailako estreinaldiko gonbidapenak (bi hirietan) · Edson eta dokumental zuzendariarekin afari pribatua estreinaldiaren aurretik · Eszena atzean ikusteko sarbidea · Zergak kentzeko ordainagiria",
+      "button": "Egin zerga kenkari gisa dohaintza bat"
+    },
+    "artCollector": {
+      "title": "Bihurtu Orbital Temple Arte Bildumagile Bakarra",
+      "imageAlt": "Orbital Temple instalazioa Mercosul Bienalean",
+      "imageCaption": "Orbital Tenplua Mercosuleko XIII. Bienalean, Porto Alegre. Clara Marquesen argazkia.",
+      "paragraph1": "Misio honetarako hiru satelite berdin eraiki ziren. <strong>Bat</strong> espaziora jaurtiko da 2025eko azaroaren 28an. <strong>Bestea</strong> mundu osoko museoetako erakusketetara bidaiatzen du. <strong>Bat</strong> bildumagile eskuzabal batentzat gordeta dago, ikuspegi hau finantzatu eta espazioko artearen historiaren pieza bat izan nahi duena.",
+      "paragraph2": "Hau ez da erreplika bat; hiru satelite originaletako bat da. <strong>Espazio-ontzi guztiz funtzionala,</strong> <strong>eskultura</strong> ere badena. Sateliteak <strong>5 cm³</strong> neurtzen du eta <strong>245 g</strong> pisatzen du, <strong>urrezko</strong> kupula batekin.",
+      "paragraph3": "Hau <strong>1/1 eskalako artelan bat</strong> da.",
+      "paragraph4": "Bildumagile gisa, <strong>Mercosuleko 13. Biurtekorako</strong> sortutako instalazio bera jasoko duzu, satelitea arte eta teknologia gisa erakusten duen museologia-erakusketa osoa. Instalazio hau nazioarteko toki garrantzitsuetan erakutsi da eta espazio-artearen aurkezpen-maila gorena da.",
+      "paragraph5": "Zure laguntzak ikuspegi osoa finantzatzen laguntzen du: jaurtiketa, hezkuntza programa eta teknologiaren, adimen artifizialaren eta espazioaren esplorazioaren aroan sakratuari buruzko elkarrizketa globalak piztuko dituen dokumentala. Zure izena betiko lotuta geratuko da misio historiko honekin.",
+      "button": "Galdetu aukera honi buruz"
+    }
+  },
+  "gratitude": {
+    "heading": "Esker onez gure jarraitzaileei",
+    "intro": "Orbital Temple erakundeei, norbanakoei eta inklusio erradikalean sinesten dutenei esker da posible, arteak biharko irudimenak sortzen dituela ulertzen baitute.",
+    "pearmill": {
+      "title": "Sortzaile Laguntzailea",
+      "description": "Pearmill AEBetako errendimendu-marketin agentzia hazten ari den azkarrenetako bat da, munduko startup ikonikoenetako batzuk hazten laguntzeko elkarrekin lan egiten duten diseinatzaile, marketin-arduradun eta ingeniari talde bat. Haien laguntza eskuzabalari esker, Orbital Temple taldeak osagai kritikoak erosi eta satelite-misio hau posible egiten duen kode irekiko hardwarea garatu ahal izan zuen."
+    },
+    "yourName": "Zure izena hemen egon liteke. Batu zaitez gurekin historia sortzeko."
+  },
+  "people": {
+    "heading": "Misio honen atzean dauden pertsonak",
+    "intro": "Orbital Temple 10 urteko konpromisoa da. Artea, teknologia eta giza loturak lotzen bizitza osoa eman duten bi pertsonek zuzentzen dute, eta ikuspegi hau datozen hamarkadarako mantentzeko azpiegitura eraikitzen ari dira.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Artista eta Teknologoa",
+      "paragraph1": "Edson artista eta teknologoa da, eta giza intimitatea aztertzen du artearen eta teknologiaren arteko bidegurutzean. Bere praktikak arkitektura-instalazioak, poesia, argazkilaritza eta satelite-teknologia hartzen ditu barne.",
+      "paragraph2": "Bere lana 13. Mercosul Bienalean (Brasil), IX. Nazioarteko Bienalean (Uzbekistan) eta NTU Global Digital Art Prize-n (Singapur) erakutsi da.",
+      "paragraph3": "<strong>20 urte baino gehiagoko esperientziarekin arte eta teknologiaren arloan</strong> , <strong>2016ko Rioko Olinpiar Jokoetarako</strong> eta <strong>Amerikako Garapen Banku Interamerikarreko</strong> sormen taldeekin lan egin du. Proxxima aldizkariak <strong>Brasilgo 50 profesional berritzaileenen</strong> artean izendatu zuen, bi <strong>IF Design sari</strong> jarraian jaso zituen (2017-2018) eta <strong>Lumen Prize Futures sari</strong> finalista izan zen. Bere lana bi bienalean erakutsi da eta <strong>Ludwig Arte Garaikideko Museoan</strong> (Budapest), <strong>Inhotim Institutuan</strong> (Brasil) eta <strong>Diseinu eta Moda Museoan</strong> (Lisboa) aurkeztu da, New Yorken, Pekinen, Singapurren, Dubain, Rio de Janeiron eta beste hiri batzuetan erakusketak eginez."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Sortzailea, The Roy Foundation eta Bazkide Estrategikoa",
+      "paragraph1": "Sathi <strong>The Roy Foundation</strong> -en sortzailea da, mundu osoko komunitate behartsuenentzako hezkuntza espiritualerako, sendatze emozionalerako eta kontzientzia tresnetarako sarbidea zabaltzeko dedikatzen den irabazi-asmorik gabeko erakundea. Fundazioak eskolekin, kultur erakundeekin eta tokiko erakundeekin lankidetzan aritzen da adimen artifizialaren bidezko ongizate tresnak, komunitate curriculuma eta eraldaketa inspiratzen duten euskarriak banatzeko.",
+      "paragraph2": "Neurozientzian, coaching-ean eta lidergoan esperientzia duen Sathik taldeak eraiki eta zuzendu ditu Ipar Amerikan eta Indian, urtean <strong>600 milioi dolarreko</strong> salmentak sortuz enpresa bakar batean. <strong>OHMren</strong> sortzailea ere bada, mugimendu espiritual digital bat, <strong>SUTEren</strong> sortzailekidea (bulegoko plataforma digital adimen artifizialak bultzatuta), eta <strong>RISE Global Creative-</strong> ren aholkulari eta hazkunde-buru globala da.",
+      "paragraph3": "Ekialdeko eta Mendebaldeko filosofien arteko zubiak egiten dituen emakume bengalar-estatubatuar gisa, Sathik ikuspegi paregabea ekartzen die XXI. mendeko mugimendu espiritual eta artistikoei. <strong>65.000 jarraitzaile baino</strong> gehiagoko sare gero eta handiagoa eta <strong>40 milioi ikustaldi baino gehiago sarean</strong> dituela, kultura eta espiritualen arteko banaketak gainditzen dituzten komunitate globalak eraikitzen ari da."
+    },
+    "together": "Roy Fundazioarekin batera, 10 urteko misio bat eraikitzen ari gara, artea, teknologia, hezkuntza eta sakratua lotzen dituena, 2025eko azaroaren 28an satelite baten jaurtiketarekin hasita, eta mundu osoko komunitate behartsuetara iritsiko den eta hurrengo belaunaldia inspiratuko duen mugimendu batekin jarraituz."
+  },
+  "join": {
+    "heading": "Batu zaitez gurekin",
+    "content": "Satelitea eraikita dago. Teknologia prest dago. Jaurtiketa data ezarrita dago: <strong>2025eko azaroaren 28a</strong> . Hau da arteak zer egin dezakeen, nora joan daitekeen eta nori zerbitza diezaiokeen berriro imajinatzen duen misio batean sartzeko unea.",
+    "fundSpecific": {
+      "heading": "Finantzatu osagai espezifiko bat edo bihurtu bazkide sortzaile",
+      "description": "Aukeratu goiko finantzaketa aukeretako bat, galdetu arte bildumagile bihurtzeari buruz edo eztabaidatu zure ikuspegiarekin bat datorren babes pertsonalizatu bat.",
+      "button": "Jarri gurekin harremanetan hasteko →"
+    },
+    "generalDonation": {
+      "heading": "Egin zerga kenkari gisa ekarpen bat",
+      "description": "Ekarpen guztiek, handiak edo txikiak, misioa laguntzen dute eta gure babesle fiskalaren, The Field-en, bidez zerga kenkari gisa erabil daitezke.",
+      "button": "Eman ezazu The Field bidez →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Zerga kenkarietarako dohaintzak",
+    "paragraph1": "Orbital Temple <strong>The Field (Performance Zone Inc.)</strong> erakundearen finantza-babespeko proiektua da, New Yorken egoitza duen <strong>501(c)(3)</strong> irabazi-asmorik gabeko erakundea. AEBetako ekarpen guztiak legeak ahalbidetzen duen neurrian zerga kenkari gisa onartzen dira.",
+    "paragraph2": "<strong>Zelaia</strong><br> 75 Maiden Lane, 906. suitea<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Txekearen bidez ekarpenak egiterakoan, mesedez, <strong>Performance Zone Inc.</strong> -ri ordaindu beharrekoa egin, <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong> oharrarekin."
+  }
+}

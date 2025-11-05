@@ -1,0 +1,17 @@
+{
+  "title": "Teknikaj Informoj - Orbita Templo",
+  "heading": "Teknikaj Informoj",
+  "satellite": {
+    "heading": "Satelito",
+    "specs": "Dimensioj: 50x58x64 mm<br /> 1P PocketQube<br /> Pezo: 245 gramoj<br /> Materialoj: aluminio, oro, vitrofibro kaj elektronikaj komponantoj.<br /> Orbito: Altitudo 525 ± 25 km; inklino: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Anteno/Skulptaĵo",
+    "specs": "Dimensioj: 6 m (diametro) kaj 1,2 m (alteco)<br /> Pezo: 46 kg<br /> Materialoj: aluminio, epoksi-spegulita tabulo, ora aluminia kupolo pendanta tra skafalda strukturo."
+  },
+  "radio": {
+    "heading": "Specifoj de Radio NASA-Katalogo:",
+    "specs": "TBD Malsuprenligo: 437 MHz<br /> Alvoko: Stato: HORARO POR 2025"
+  },
+  "imageAlt": "Teknika Informo-Diagramo"
+}

@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ars",
+    "sendAName": "nomen mitte",
+    "fromTheArtist": "ab artifice",
+    "yetAnotherTemple": "attamen, aliud templum?",
+    "howItWorks": "quomodo operatur",
+    "spaceLaunch": "immissio spatialis et pericula",
+    "briefHistory": "Brevis historia artis in spatio",
+    "education": "educatio et fons apertus",
+    "sustainability": "sustinabilitas et quisquiliae spatiales",
+    "press": "prelum et media",
+    "team": "turma",
+    "partners": "socii",
+    "support": "auxilium",
+    "technicalInfo": "notitiae technicae"
+  },
+  "ritual": {
+    "label": "ritus",
+    "ariaLabel": "Ritum ingredi - Nomen ad Templum Orbitale mitte."
+  },
+  "footer": {
+    "credits": "Templum orbitale artificium est ab Edson Pavoni, in collaboratione cum Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, et omnes qui pergunt nomina huic templo mittere."
+  }
+}

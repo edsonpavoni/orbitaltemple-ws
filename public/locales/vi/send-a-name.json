@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "khi bạn bước vào\nmột nghi lễ\ngửi một cái tên\nvào\nngôi đền quỹ đạo\ntrong không gian\nhít thở\nmột hơi",
+    "button": "tôi đã sẵn sàng"
+  },
+  "nameInput": {
+    "title": "nhập tên",
+    "subtitle": "nó sẽ bay lên đến Đền Quỹ đạo trong không gian.",
+    "placeholder": "tên",
+    "button": "hãy để nó thăng thiên"
+  },
+  "emailInput": {
+    "title": "nhập email của bạn",
+    "subtitle": "vì vậy bạn sẽ nhận được tin nhắn khi tên tăng lên.",
+    "placeholder": "email của bạn",
+    "button": "nó đã xong"
+  },
+  "loading": {
+    "alt": "Đang tải"
+  },
+  "success": {
+    "text": "Tên\n{{name}}\nhiện đang được xếp hàng\nđể thăng thiên.\nKhi\nngôi đền trong không gian\ncăn chỉnh với\năng-ten của chúng ta\ntrên Trái Đất\nchúng ta sẽ gửi\ntên\nvà bạn sẽ nhận được\nmột thông điệp."
+  }
+}

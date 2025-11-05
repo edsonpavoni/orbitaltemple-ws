@@ -1,0 +1,50 @@
+{
+  "title": "Socios - Yupaychana Wasi Orbital",
+  "heading": "Sociokuna",
+  "intro": "Orbital Temploqa kanmi extraordinario sociokunaq qoykukuq kayninwan, yachayninkuwan, rikuyninwan ima. Satélites de ingeniería nisqamanta willakuykuna ruwaykama, karu suyukunapi punkukuna kichariymanta quriwan musquykunata wischuykama, sapa yanapanakuymi kay yupaychana wasita quyllurkunaman asuykuchin.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Sociokuna",
+      "description": "Willakuy, hukllachasqa experienciakuna chaymanta musphay 3D ruway siq'ikuna chaymi satélite rikuyninta kawsachirqa manaraq hayk'aqpas espacio ch'usaq llamiykuchkaptin."
+    },
+    "highestMantra": {
+      "name": "Nuestra Alto Mantra",
+      "description": "Sathi Roypa umallisqan, Orbital Yupaychana Wasita Indiap espiritual, artístico ayllunkunawan tinkuchispa. Qullqi huñunapaq ñankunata kichay, cultural intercambio nisqapaq, chaynallataq Art Basel nisqa qawachinapaq, noviembre killapi 2025 watapi qallarisqanmanta."
+    },
+    "allToSpace": {
+      "name": "Tukuy Espacioman",
+      "description": "Brasilmanta huch’uy satélite nisqamanta yachaqkuna. Tawa wata yanapanakuy huk kichasqa qullqisapa hardware plataformata ruwaspa chaymanta ñawpaq kaq ruwaypi arteta órbitaman kachaypaq Global Surmanta."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indiamanta Espaciomanta Yachay Suntur. PSLV misionpaq kachay quq, Orbital Yupaychana Wasita inti-síncrono órbitaman apaspa, noviembre killapi 2025 watapi."
+    },
+    "mercosul": {
+      "name": "13 kaq Mercosur Bienal",
+      "description": "Porto Alegre llaqtapi, Brasil suyupi. Marcello Dantas sutiyuq runap qhawasqan, yanapaq curadorkunawan Laura Cattani, Munir Klamt, Tarsila Riso, Carollina Lauriano ima."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Taller",
+      "description": "Satélite wiñachiy equipo II ArtSat Tallerpi kamasqa. Fabiane M. Borgespa kuskanchasqan, Lázaro Camargopa yachachisqan, Ítalo Pinto Rodriguespa yanapasqan, Walter Abrahão dos Santospa qhawarisqan."
+    },
+    "solidConcepts": {
+      "name": "Conceptos Sólidos nisqa",
+      "description": "Eduardo Dias sutiyuq runap umallisqan. Tukuy 3D imprenta hinallataq quri micro fundición llamk'anku escultórico cúpulapaq, digital musquykunata tikraspa chaniyuq metal chiqapman."
+    },
+    "ideaSpace": {
+      "name": "Espacio de Idea",
+      "description": "Brasil yachay qallariy Quebrada Programa Espacial curriculumta wiñachispa, listoña hatun yachaywasi yachakuqkunaman tukuy Brasilpi churanapaq."
+    }
+  },
+  "closing": "¿Interesadochu Orbital Templewan kuskachakuy? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Makiyta haywariy</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Socios nisqa Logotipo",
+    "highestMantra": "Nuestra Logotipo Mantra Más Alto",
+    "allToSpace": "Tukuymanta Espacioman Logotipo",
+    "isro": "ISRO Logotipo",
+    "mercosul": "13 kaq Mercosur Iskay Wata Logotipo",
+    "inpe": "INPE ArtSat Tallerpa Logotipon",
+    "solidConcepts": "Logotipo de Conceptos Sólidos nisqa",
+    "ideaSpace": "Idea Espacio Logotipo"
+  }
+}

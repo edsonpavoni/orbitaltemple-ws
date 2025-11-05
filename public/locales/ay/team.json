@@ -1,0 +1,61 @@
+{
+  "title": "Equipo - Templo Orbital ukax mä jach’a utaw",
+  "heading": "Tama",
+  "artist": "Edson Pavoni, jupax artistawa",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Productor Ejecutivo ukaxa mä juk’a pachanakwa lurasi",
+      "members": "Sathi Roy sat jilataw ukham luräna"
+    },
+    "aerospace": {
+      "heading": "Ingeniería Aeroespacial & Sistemas ukanaka",
+      "members": "Pedro Kaled, João Pedro Polito, Víctor Baptista ukat João Víctor Alves jupanakax ukham lurapxi"
+    },
+    "electronic": {
+      "heading": "Ingeniería Electrónica uka tuqit yatxataña",
+      "members": "André Biagioni, João Pedro Polito ukat VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonatán Querubina satänwa"
+    },
+    "design": {
+      "heading": "Diseño ukat Arquitectura ukanaka",
+      "members": "Guilherme Bullejos sat jilataw ukham luräna"
+    },
+    "printing": {
+      "heading": "Impresión 3D ukampi",
+      "members": "Conceptos Sólidos, Eduardo Dias jupan p’iqinchata"
+    },
+    "rendering": {
+      "heading": "3D uñacht’ayaña",
+      "members": "Guilherme Bullejos & RiseNy ukat Yanapt’irinaka"
+    },
+    "research": {
+      "heading": "Yatxatäwi",
+      "members": "Roberta Savian Rosa ukat Clara Marques jupanakax ukham lurapxäna"
+    },
+    "exhibition": {
+      "heading": "Uñacht’ayawi Producción, Fotografía & Contenido luraña",
+      "members": "Clara Marques kullakax ukham luratayna"
+    },
+    "silkScreen": {
+      "heading": "Uñacht’ayawix Seda ukan uñacht’ayatawa",
+      "members": "Daphne Alves kullakajj ukhamänwa"
+    },
+    "educational": {
+      "heading": "Proyecto Educativo uka tuqita",
+      "members": "IdeaSpace ukax mä juk’a pachanakanwa"
+    },
+    "communication": {
+      "heading": "Yatiyañataki Equipo",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna El Cairo jupanakax ukham uñt’atawa"
+    },
+    "specialThanks": {
+      "heading": "Wali yuspajarañani",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, ukat Leigh Pennington jupanakax ukham lurapxäna"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Víctor Baptista, João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andrés Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna jupanakax mä juk’a pachanakanwa jikxatasipxi El Cairo, Conceptos Sólidos, RiseNY&Partners, IdeaSpace ukat juk’ampinaka",
+  "imageAlt": "Satélite del Templo Orbital ukax mä jach’a uñacht’äwiwa"
+}

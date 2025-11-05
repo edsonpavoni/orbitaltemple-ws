@@ -1,0 +1,13 @@
+{
+  "title": "Bi Notis - Ɔrbital Tɛmpl",
+  "heading": "Yu Notis We I Riz",
+  "description": "Na Novɛmba 28, 2025, di Ɔbital Tɛmpl go go ɔp.<br> Lɛf yu imel, ɛn wi go tɛl yu we i rich na di spes.",
+  "form": {
+    "emailPlaceholder": "yu@email.com",
+    "sendButton": "Sɛn",
+    "sendingButton": "We yu de sɛn...",
+    "successMessage": "Wi go rich yu wen i go ɔp.",
+    "errorMessage": "Sɔntin bin rɔng. Duya tray bak."
+  },
+  "backLink": "← Bak to kɔntdɔwn"
+}

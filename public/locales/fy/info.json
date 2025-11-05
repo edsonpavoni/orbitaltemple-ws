@@ -1,0 +1,17 @@
+{
+  "title": "Technyske ynformaasje - Orbitale timpel",
+  "heading": "Technyske ynformaasje",
+  "satellite": {
+    "heading": "Satellyt",
+    "specs": "Ofmjittings: 50x58x64 mm<br /> 1P PocketQube<br /> Gewicht: 245 gr<br /> Materialen: aluminium, goud, glêstried en elektroanyske komponinten.<br /> Baan: Hichte 525 ± 25 km; helling: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenne/Byldbyld",
+    "specs": "Ofmjittings: 6 m (diameter) en 1,2 m (hichte)<br /> Gewicht: 46 kg<br /> Materialen: aluminium, epoxy spegele boerd, gouden aluminium koepel ophongen troch in steigerstruktuer."
+  },
+  "radio": {
+    "heading": "Radiospesifikaasjes NASA-katalogus:",
+    "specs": "TBD Downlink: 437 MHz<br /> Oprop: Status: PLANNING FOAR 2025"
+  },
+  "imageAlt": "Technysk ynformaasjediagram"
+}

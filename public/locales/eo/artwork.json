@@ -1,0 +1,31 @@
+{
+  "title": "La Artaĵo - Orbita Templo",
+  "heading": "La Artaĵo",
+  "intro": {
+    "paragraph1": "Orbita Templo estas satelito kun arta misio: monumento en la kosmo malfermita al ĉiu sentema estaĵo, kiu vivas aŭ vivis sur la Tero.",
+    "paragraph2": "Per teknologiaj rimedoj, ĉiu ajn povas sendi la nomon de iu al la Templo, ĉu iu, kiu forpasis, ĉu persono tre vivanta, ĉu iu ajn estaĵo, kiu meritas esti memorata."
+  },
+  "sculpture": {
+    "heading": "La Skulptaĵo",
+    "paragraph1": "La artaĵo havas tri kundependajn elementojn: sateliton speciale desegnitan por konservi miliardojn da nomoj; publikan skulptaĵon interŝanĝantan informojn kun la satelito; kaj retejon, per kiu partoprenantoj sendas la nomojn, de nun ĝis sia forpaso, al la ĉielo.",
+    "paragraph2": "Kiel multdisciplina entrepreno, Orbital Temple povas esti konsiderata kiel lokspecifa skulptaĵo, loĝanta en la spaco. Ĝi estas ankaŭ Artsat-projekto."
+  },
+  "antenna": {
+    "heading": "La Anteno Kiel Publika Skulptaĵo",
+    "paragraph1": "Anteno konektanta nin kun la kosmo.",
+    "paragraph2": "Anteno, kiu estos en rekta komunikado kun la orbita satelito, estas desegnata.",
+    "paragraph3": "Kun ora reflekta surfaco, spegulante la ĉielon super ĝi, ĝi estas deirpunkto por amasa stimulo (aŭ nia rilato al tio, kio estas \"tie supre\").",
+    "paragraph4": "Kvankam la skulptaĵoj ne estas instalitaj en la plej multaj partoj de la mondo, niaj Kadroj de la Tero, kiuj nuntempe regas la sateliton, sendas la nomojn ĉe ĉiu trapaso.",
+    "paragraph5": "Helpu alporti ĉi tiun vizion al via urbo — instalante antenskulptaĵojn, kiuj inspiras konversaciojn pri kosma esplorado, arto kaj nia komuna loko en la kosmo. <a href=\"/support\">Lernu pli pri subtenado de la projekto</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Enorbita Templa Satelito",
+    "riseNy": "Orbitala Templo ĉe Rise NY",
+    "installation": "Orbitala Templo de Clara Marques",
+    "antenna": "Orbita Templa Anteno"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbita Templo en la kosmo. 3D-bildigo de RiseNY&Partners.",
+    "mercosul": "Instalaĵo de la Orbita Templo ĉe la Bienalo de Merkosul, en Porto-Alegro, Brazilo.<br> Foto de Clara Marques."
+  }
+}

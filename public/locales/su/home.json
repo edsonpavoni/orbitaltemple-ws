@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Kuil Orbital",
+    "subtitle": "mangrupa karya seni jeung satelit,\nTujuanana pikeun janten candi inklusif radikal,\ndi tempat nu teu bisa ngahontal tembok."
+  },
+  "ritual": {
+    "label": "ritual"
+  },
+  "cta": {
+    "link": "Acan, candi sejen?",
+    "arrowAlt": "panah"
+  },
+  "dome": {
+    "alt": "Kubah"
+  }
+}

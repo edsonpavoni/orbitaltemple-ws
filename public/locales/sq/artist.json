@@ -1,0 +1,44 @@
+{
+  "title": "Nga Artisti",
+  "opening": {
+    "question": "Kush është ky që propozon një tempull në hapësirë?",
+    "thanks": "Faleminderit për pyetjen.",
+    "answer": "Përgjigja e shkurtër është se unë jam artist. Përgjigja e gjatë është kjo:"
+  },
+  "origin": {
+    "sao_paulo": "Unë linda në periferi të São Paulo-s, në një lagje që më mësoi herët se çfarë do të thotë rreziku. Shumë nga shokët e mi të shkollës janë tani në burg. Njerku im është në burg. Dhuna nuk ishte diçka për të cilën lexoja, ishte bota në të cilën duhej të lundroja. Dhe e dija se duhej të arratisesha.",
+    "technology": "Teknologjia u bë zgjidhja ime. Mësova të programoja, mësova elektronikën si adoleshent. Kodimi ishte një gjuhë që mund të më çonte diku tjetër. Puna me teknologjinë ishte shpëtimi im nga varfëria.",
+    "christianity": "Por unë po kërkoja gjithashtu përkatësi, dashuri, diçka për të besuar. Gjeta Krishterimin, ose ai më gjeti mua. U pranova. U dashurova. Kisha një komunitet. Mësova të fal, të besoj, të ecim së bashku për një qëllim më të madh.",
+    "price": "Çmimi, megjithatë, ishte i lartë. Gjithashtu mësova shumë gjëra që ende nuk i mësoj. Kështu që shpëtova edhe prej tyre."
+  },
+  "searching": {
+    "walls": "E di çfarë bëjnë muret. I kam ndjerë. Kam qenë në të dyja anët: i mbajtur jashtë, i mbajtur brenda. Ajo që pasoi ishin vite kërkimi për diçka që nuk mund ta emërtoja. Zoti vdiq gjatë atyre viteve. Zoti për të cilin më kishin mësuar, gjithsesi, ai me rregulla, gjykime dhe dyer që hapeshin vetëm për disa njerëz.",
+    "art": "Fillova të krijoj art për të eksploruar këto pyetje: rreth intimitetit dhe teknologjisë, rreth kujtesës dhe vdekjes, rreth asaj se kush e meriton parajsën. Fillova të ndërtoj makina që riimagjinojnë marrëdhënien tonë me teknologjinë, makina që kanë nevojë për pjesëmarrjen tënde, praninë tënde, emrin tënd, për t'u transformuar nga metali dhe kodi në diçka të gjallë."
+  },
+  "pandemic": {
+    "intro": "Pastaj pandemia goditi Brazilin.",
+    "government": "Kur vaksinat kundër COVID-it u vonuan, qeveria ime po negocionte ryshfete prej një dollari për dozë. Ata promovuan ilaçe që kuptoheshin si joefektive, duke qeshur ndërsa njerëzit vdisnin duke luftuar për të marrë frymë. Ne zgjoheshim çdo ditë me një numër të ndryshëm. Sa njerëz vdiqën në 24 orët e fundit? A ishin më shumë apo më pak se sa pritej?",
+    "war": "Gjysma e botës ishte e frikësuar dhe gjysma tjetër e mohonte. Ne ishim në luftë, me virusin dhe me njëri-tjetrin.",
+    "memorial": "Doja të krijoja hapësirë për pikëllimin kolektiv, kështu që së bashku me qindra njerëz krijova Memorial Inumeráveis. Një vepër arti në kryqëzimin e artit dhe gazetarisë. Ne intervistuam familje që kishin humbur dikë. Ne shkruam historinë e jetës së personit që ata humbën. Ne i transformuam numrat në histori. Poezi, këngë, simfoni u krijuan me ato histori. Yjet i lexuan ato histori në televizionin kombëtar. Projekti arriti miliona njerëz.",
+    "meaning": "Ajo që kishte rëndësi nuk ishte shkalla, por që çdo histori ishte një emër, një jetë, parajsa e dikujt."
+  },
+  "discovery": {
+    "pattern": "Pas më shumë se dhjetë mijë bisedash me pikëllim, filloi të shfaqej një model. Kur flasim për dikë që ka vdekur, nuk themi vetëm gjëra të mira; zgjedhim fragmente të historisë së tij sikur të po shkruajmë një letër rekomandimi. Një rekomandim për rojtarin e parajsës. Bëjmë çmos ta dërgojmë atë në një vend pranimi, prehjeje, nderi dhe kujtimi.",
+    "understanding": "Dhe kuptova diçka që ndryshoi gjithçka: Jemi plagosur nga vetë tempujt që ndërtuam. Besimet tona se kush e meriton parajsën formojnë drejtpërdrejt atë që përjashtojmë në Tokë. Kolonizatorët portugezë në Brazil besonin se njerëzit me ngjyrë nuk kishin shpirt; ky besim justifikonte skllavërinë. Nëse ishe indigjen, nëse kishe lindur në vendin e gabuar ose kishe dashur personin e gabuar, të thuhej se dyert e parajsës ishin të mbyllura për ty.",
+    "birth": "Kështu lindi Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Asnjë artist nuk mund të jetë vërtet laik. Ne jemi të lidhur përgjithmonë me paraardhësin tonë të përbashkët, shamanin. Në fillim, kishte një shpellë. Njerëzit pikturonin kafshë në mure jo për të dekoruar, por për të thirrur. Ata kërcenin dhe shpella u bë tempull. Shamani zotëron frymën e ritualit; artisti zotëron aurën e artit. Ne pikturojmë, skulptojmë, kodojmë, projektojmë të ardhmen tonë të dëshiruar jo për të dekoruar, por për të thirrur. I gjithë arti është shpirtëror, edhe kur pretendon të mos jetë."
+  },
+  "space": {
+    "question": "Ku mund të ndërtonim një tempull pa mure? Ku asnjë komb apo fe nuk mund të pretendonte. Ku mund ta imagjinonim veten si një grup i vetëm.",
+    "answer": "Hapësirë.",
+    "description": "Një satelit arti pjesëmarrës nga Jugu Global. Një tempull në orbitë që i fton të gjithë të dërgojnë emrat e tyre në hapësirë, pavarësisht se kush janë, ku kanë lindur, kë duan, çfarë besojnë. Një vend ku përfshirja radikale është e mundur, në orbitë, përtej kufijve.",
+    "mission": "Ky mision është me burim të hapur. Çdo dokument teknik, çdo rresht kodi do të jetë i disponueshëm lirisht, në mënyrë që artistë të tjerë, komunitete të tjera, kombe të tjera të mund të ndërtojnë satelitët e tyre. Pra, Jugu Global nuk merr pjesë vetëm në eksplorimin e hapësirës, por e udhëheq atë."
+  },
+  "closing": {
+    "answer": "Kush është pra ky njeri që ndërton një tempull në hapësirë? Unë nuk po e ndërtoj. Tempulli ndërtohet nga kushdo që vendos të dërgojë një emër, ta shohë atë si të shenjtë, ta bëjë atë real. Unë jam thjesht ai që propozon. Ti je ai që e ndërton nëse vendos ta bësh.",
+    "signature": "Me mirësi,",
+    "name": "Edson Pavoni"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Ho Launch Space - Tempele ea Orbital",
+  "heading": "Ho Qala Sebakeng",
+  "intro": "Tempele ea Orbital e reretsoe ho thakholoa ka har'a PSLV (Polar Satellite Launch Vehicle) ka la 28 Pulungoana 2025 ho tsoa Satish Dhawan Space Center e Sriharikota, India.",
+  "partnership": "Ho qalisoa ha Orbital Temple ke tšebelisano pakeng tsa NewSpace India Limited (NSIL), 'Muso oa India Company tlas'a Lefapha la Space, Antrix Corporation, le moetsi oa litšoantšo. Tšebelisano ena e emela mohato oa bohlokoa bakeng sa ho hlahloba sepakapaka, ho kopanya lenaneo la sebaka sa India le pono ea bonono ea kenyeletso e matla.",
+  "risks": {
+    "heading": "Likotsi",
+    "paragraph1": "Sathelaete e etselitsoe ho mamella maemo a ho sisinyeha ho feteletseng le linako tsa mocheso, 'me e entsoe liteko tse matla. Leha ho le joalo, sepaka-paka se na le likotsi tsa tlhaho. Haeba satellite e senyehile nakong ea ho qala kapa ho romelloa, kapa haeba e hloleha ho theha puisano le liteishene tsa rona tsa fatše, re tla sebetsa ho rarolla mathata le ho rarolla mathata afe kapa afe. Sathelaete e na le litsamaiso tse sa hlokahaleng le liprothokholo tsa backup tse etselitsoeng ho eketsa menyetla ea katleho ea thomo.",
+    "paragraph2": "Ho feta moo, sathelaete e ka lula e potoloha nako e ka tlase ho lilemo tse 10 haeba maemo a sepakapaka kapa mabaka a mang a baka ho bola ha orbital pejana. Le hoja re e rerile hore e tšoarelle bonyane lilemo tse leshome, nako ea sebele ea bophelo e itšetlehile ka maemo ao re ke keng ra a laola ka botlalo.",
+    "paragraph3": "Haeba tlhahiso ea pele e hloleha, kapa haeba re sa khone ho phethahatsa thomo ena joalokaha ho reriloe, re tla hlahloba litsela tse ling tsa ho ea pele, tse ka kenyelletsang teko ea bobeli ea ho qala ka tekanyetso e teng, tšebelisano-'moho le mesebetsi e meng, kapa litokomane tsa boiteko e le karolo ea tlaleho ea mosebetsi oa bonono mabapi le tabatabelo le meeli."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Satellite ea Tempele ea Orbital"
+  }
+}

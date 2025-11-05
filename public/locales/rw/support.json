@@ -1,0 +1,167 @@
+{
+  "title": "Shyigikira Urusengero rwa Orbital - Injira mu butumwa",
+  "heading": "Shigikira Urusengero rwa Orbital",
+  "vision": "Ku <strong>ya 28 Ugushyingo 2025</strong> , <strong>Urusengero rwa Orbital</strong> ruzahaguruka mu <strong>Buhinde</strong> muri roketi <strong>ISRO</strong> . Icyogajuru cyabigizemo uruhare giturutse mu majyepfo y’isi, ni urwibutso rwo kwinjiza ibintu mu buryo bukabije, urubuga rw’uburezi, kandi ni umusemburo w’ibiganiro by’isi yose ku bijyanye n’ejo hazaza hera mu gihe cy’ikoranabuhanga, AI n’ubushakashatsi bw’ikirere.",
+  "videoCaption": "Orbital Temple yerekana amashusho, 1 min.",
+  "accomplished": {
+    "heading": "Ibyo Twarangije",
+    "content": "Nyuma yimyaka ine yubushakashatsi niterambere, ubutumwa buriteguye. Twasoje <strong>ibyuma na software biteza imbere</strong> icyogajuru, dutsinda <strong>ibizamini bya shaker</strong> bisabwa kugirango ibyemezo byindege, tunasoza amasezerano twagiranye na ISRO. Icyogajuru cyubatswe. Ikoranabuhanga rirakora. Twahanaguwe kugirango dushyire ahagaragara."
+  },
+  "funding": {
+    "heading": "Gutera inkunga",
+    "raised": "yazamuye",
+    "of": "Bya",
+    "goal": "intego",
+    "button": "Shigikira ubutumwa"
+  },
+  "needs": {
+    "heading": "Icyo Dukeneye Inkunga",
+    "intro": "Kugira ngo dusohoze ubutumwa bwamateka kandi twongere ingaruka zabwo, dukeneye inkunga kubintu bitanu byingenzi:",
+    "launch": {
+      "title": "Ibiciro byo gutangiza ISRO:"
+    },
+    "travel": {
+      "title": "Urugendo rw'abahanzi mu Buhinde:"
+    },
+    "carbon": {
+      "title": "Gahunda ya Carbone Offset:"
+    },
+    "education": {
+      "title": "Gahunda y'Uburezi:"
+    },
+    "docPreProd": {
+      "title": "Inyandiko-Yateguwe mbere:"
+    },
+    "docProd": {
+      "title": "Umusaruro winyandiko:"
+    }
+  },
+  "decade": {
+    "heading": "Imyaka icumi Imbere",
+    "intro": "Ubu butumwa ntiburangira ku ya 28 Ugushyingo 2025.Biratangiye.",
+    "paragraph1": "Mu <strong>myaka 10</strong> iri imbere, icyogajuru kizenguruka isi, gisubiza amazina yoherejwe kuva impande zose zisi. Gahunda yuburezi igamije guhugura <strong>ibihumbi byingimbi</strong> mu ikoranabuhanga rya satelite, guca <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">icyuho cy’umwanya</a> wa Global y&#39;Amajyepfo. Inyandiko izagera kuri <strong>miriyoni</strong> kwisi yose, itangire ibiganiro kubyerekeranye, kwibuka, na cyera.",
+    "paragraph2": "Orbital Temple ifatanya na <strong>Sathi Roy</strong> na <strong>The Roy Foundation</strong> kugirango iki cyerekezo kimaze imyaka icumi kibe umuco. Fondasiyo ya Roy ni umuryango udaharanira inyungu ugamije kwagura uburyo bwo kwiga mu mwuka, gukira amarangamutima, hamwe n’ibikoresho by’imyumvire ku baturage batishoboye ku isi hose, guhuza ubwenge bwa kera n’ikoranabuhanga rigezweho kugira ngo isi irusheho kumenya, guhuza, n’impuhwe. Twese hamwe, turimo kubaka ibikorwa remezo kugirango urusengero rwa Orbital ruhinduke urugendo rurambye rugera kubaturage kwisi yose.",
+    "paragraph3": "Inkunga yawe ntabwo itera inkunga gusa gutangiza; irema urujya n'uruza ruzasubira kumyaka icumi kandi rutere igisekuru kizaza cyabahanzi naba injeniyeri."
+  },
+  "waysToSupport": {
+    "heading": "Inzira zo Gushyigikira",
+    "individualDonations": {
+      "heading": "Impano z'umuntu ku giti cye",
+      "intro": "Injira mu butumwa kurwego rugukorera. Abaterankunga ku giti cyabo ni ishingiro ryuyu mushinga wamateka.",
+      "orbitalFriend": {
+        "title": "Inshuti",
+        "benefits": "Wakiriye: Izina kurubuga rwicyubahiro · Icyemezo cyihariye cya orbital mugihe icyogajuru kirasa · Documentaire urakoze inguzanyo · Inyemezabwishyu-yakuweho imisoro",
+        "button": "Tanga Umusoro-Ukuramo"
+      },
+      "satelliteSupporter": {
+        "title": "Umufasha wa Satelite",
+        "benefits": "Wakiriye: Inshuti zose za Orbital Inyungu · Kwinjira muri porogaramu yihariye ya satelite · Umuhanzi urakoze ubutumwa bwa videwo · Inyemezabwishyu-yakuweho imisoro",
+        "button": "Tanga Umusoro-Ukuramo"
+      },
+      "spaceAdvocate": {
+        "title": "Umuvugizi mu kirere",
+        "benefits": "Urakira: Inyungu zose zunganira Satelite · Izina ryanditse mu nguzanyo zerekana inyandiko · Ubutumire bwo kwerekana inyandiko bwite · Kuvugurura buri gihembwe bivuye mu itsinda · Inyemezabwishyu-yakuweho imisoro",
+        "button": "Tanga Umusoro-Ukuramo"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Tera inkunga Ikintu cyihariye",
+    "intro": "Umusanzu wawe utera inkunga muburyo bwihariye ubutumwa. Hitamo ikikuvugisha, cyangwa uhuze byinshi kugirango ugire ingaruka nini.",
+    "launch": {
+      "title": "Tera Ikibanza Umwanya",
+      "description": "Igiciro cyo kohereza nyirizina muri roketi <strong>ISRO</strong> ku <strong>ya 28 Ugushyingo 2025</strong> . Ibi byohereza urusengero rwa Orbital muri orbit, aho bizagumaho imyaka icumi nkicyogajuru cyubuhanzi n urusengero rwitabira ikirere, rushobora kugera kubantu bose kwisi.",
+      "benefits": "Urakira: \"Launch Sponsor\" titre · Yerekanwe mubitangaza makuru byose · Kwemera kuri ecran ya documentaire · VIP kubona ibikorwa byo gutangiza · Kwinjira muri buri gihembwe guhamagara hamwe na Edson hamwe nitsinda ryabamisiyoneri · Icyemezo hamwe na data orbital data · Inyemezabwishyu-yakwa.",
+      "button": "Tanga Umusoro-Ukuramo"
+    },
+    "travel": {
+      "title": "Tera inkunga Urugendo rwumuhanzi mu Buhinde",
+      "description": "Ingendo, amacumbi, n’ibicuruzwa byakozwe n’umuhanzi Edson Pavoni hamwe nitsinda ryibanze kugirango babone itangizwa mu <strong>Buhinde ku ya 28 Ugushyingo 2025</strong> . Uru rugendo ningirakamaro mu gufata amashusho, gutangaza amakuru, no guhagararira isi yepfo muriki gihe cyamateka.",
+      "benefits": "Wakiriye: Urakoze kugiti cyawe cyumuhanzi · Inyuma-yinyuma-yerekana inyandiko · Izina mu nguzanyo zerekana · Inyemezabwishyu-yakuweho imisoro",
+      "button": "Tanga Umusoro-Ukuramo"
+    },
+    "carbon": {
+      "title": "Tera inkunga Gahunda ya Carbone",
+      "description": "Ibyuka byose bya karuboni bizabangikanywa, harimo kohereza roketi no guhimba icyogajuru. Turimo gukorana na progaramu ya carbone offset yagenzuwe kugirango tumenye neza ko ubu butumwa budasize ibidukikije bibi.",
+      "benefits": "Wakira: Izina kurubuga rwicyubahiro · Icyemezo cyihariye · Inyemezabwishyu-yakuweho",
+      "button": "Tanga Umusoro-Ukuramo"
+    },
+    "education": {
+      "title": "Tera inkunga Gahunda y'Uburezi",
+      "description": "Tegura kandi utangire amasomo yuzuye yindimi nyinshi wigisha ingimbi zisi yepfo uburyo bwo kubaka satelite. Harimo gutegura integanyanyigisho, gutunganya amashusho, kwakira urubuga, n'umwaka wa mbere wa buruse kubanyeshuri batishoboye. Gushiraho ibikorwa remezo birambye byo kwigisha ikirere.",
+      "benefits": "Wakiriye: \"Abaterankunga Bashinze Uburezi\" kumenyekanisha · Bourse mu izina ryawe · Yerekanwe mubikoresho byuburezi · Guhura nitsinda ryambere ryabanyeshuri bourse yawe yatewe inkunga (virtual cyangwa in-person) · Icyiciro kiranga inyandiko · Amahirwe yo kuvuga mubirori byo gutangiza · Inyemezabwishyu-yakwa",
+      "button": "Tanga Umusoro-Ukuramo"
+    },
+    "docPreProd": {
+      "title": "Tera inkunga Inyandiko-Imbere-Umusaruro",
+      "description": "Tera inkunga icyiciro cya mbere cya <strong>&quot;Niki Cyakora Urusengero?&quot;</strong> Inyandiko. Harimo gukora ibiganiro 2 byimbitse <strong>mubuhinde</strong> hamwe nabayobozi batekereza hamwe nabakora imyitozo yumwuka, ingendo nto zabakozi n’umusaruro, no gutunganya amashusho yabanjirije umusaruro. Iki cyiciro gishyiraho urufatiro rwa documentaire kandi rwemeza icyerekezo cyo guhanga.",
+      "benefits": "Urakira: Associate Producer inguzanyo · Izina mu nguzanyo zerekana inyandiko · Kwerekana kugiti cyawe amashusho yabanjirije umusaruro · Inyuma-yinyuma yinjira · Inyemezabwishyu-yakuweho imisoro",
+      "button": "Tanga Umusoro-Ukuramo"
+    },
+    "docProd": {
+      "title": "Tera inkunga Inyandiko",
+      "description": "Umusaruro wuzuye na nyuma yumusaruro wa <strong>&quot;Niki Cyakora Urusengero?&quot;</strong> , ibiranga documentaire yerekana ihuriro ryubuhanzi, ikoranabuhanga, na cyera. Harimo gufata amashusho mubihugu byinshi, ibiganiro byinyongera hamwe nabayobozi batekereza, gutunganya byuzuye, gutondekanya amabara, gushushanya amajwi, no kwerekana bwa mbere <strong>mubuhinde</strong> na <strong>NYC</strong> .",
+      "benefits": "Wakiriye: Inguzanyo ya Producer Executif · Yerekanwe mugutangiza inguzanyo · Kwerekana kugiti cyawe kubatumirwa bawe · Ubutumire bwa mbere bwisi (imijyi yombi) · Ifunguro ryihariye hamwe na Edson hamwe numuyobozi wa documentaire mbere ya premiere · Inyuma-yinyuma yinjira · Inyemezabwishyu-yakuweho imisoro",
+      "button": "Tanga Umusoro-Ukuramo"
+    },
+    "artCollector": {
+      "title": "Ba Umuhanzi Wonyine wo gukusanya urusengero",
+      "imageAlt": "Gushyira urusengero rwa Orbital muri Mercosul Biennial",
+      "imageCaption": "Urusengero rwa Orbital kuri 13 Mercosul Biennial, Porto Alegre. Ifoto ya Clara Marques.",
+      "paragraph1": "Satelite eshatu zisa zubatswe kubutumwa. <strong>Umwe</strong> azashyira mu kirere ku ya 28 Ugushyingo 2025. <strong>Umuntu</strong> yagiye mu imurikagurisha ndangamurage ku isi. <strong>Imwe</strong> yabitswe kubakusanya batanga bashaka gutera inkunga iki cyerekezo no gutunga igice cyamateka yubuhanzi.",
+      "paragraph2": "Ntabwo ari kopi; ni imwe muri satelite eshatu zumwimerere. <strong>Icyogajuru gikora</strong> cyuzuye nacyo ni <strong>igishusho</strong> . Icyogajuru gipima <strong>5cm³</strong> kandi gipima <strong>245g</strong> , hamwe na dome ikozwe muri <strong>zahabu</strong> .",
+      "paragraph3": "Iki ni <strong>1/1</strong> .",
+      "paragraph4": "Nkumukusanyirizo, uzakira kimwe cyashizweho kuri 13 ya <strong>Mercosul Biennial ya 13</strong> , kwerekana museologiya yuzuye yerekana icyogajuru nkubuhanzi nubuhanga. Iyinjizwa ryerekanwe ahantu hanini mpuzamahanga kandi ryerekana urwego rwohejuru rwo kwerekana ibihangano byo mu kirere.",
+      "paragraph5": "Inkunga yawe ifasha gutera inkunga icyerekezo cyose: gutangiza, gahunda yuburezi, hamwe na documentaire izakurura ibiganiro byisi yose byera mugihe cyikoranabuhanga, AI nubushakashatsi bwikirere. Izina ryawe rihuzwa burundu nubu butumwa bwamateka.",
+      "button": "Baza kuri aya mahirwe"
+    }
+  },
+  "gratitude": {
+    "heading": "Hamwe no gushimira abadushyigikiye",
+    "intro": "Urusengero rwa Orbital rushoboka ninzego, abantu ku giti cyabo, n'abizera muburyo bukabije bumva ko ubuhanzi butanga ibitekerezo by'ejo.",
+    "pearmill": {
+      "title": "Abaterankunga",
+      "description": "Pearmill nimwe mubigo byamamaza byihuta cyane mubikorwa byo kwamamaza muri Amerika, itsinda ryabashushanya, abamamaza, naba injeniyeri bakorera hamwe kugirango bafashe gukura bamwe mubatangiye kugaragara kwisi. Inkunga yabo itanga yatumye itsinda rya Orbital Temple rigura ibice byingenzi no guteza imbere ibyuma bifungura isoko ituma ubwo butumwa bwa satelite bushoboka."
+    },
+    "yourName": "Izina ryawe rishobora kuba hano. Twiyunge natwe mukurema amateka."
+  },
+  "people": {
+    "heading": "Abantu bari inyuma yubu butumwa",
+    "intro": "Urusengero rwa Orbital ni amasezerano yimyaka 10. Iyobowe nabantu babiri bamaze ubuzima bwabo bahuza ibihangano, ikoranabuhanga, n’imikoranire yabantu, kandi bubaka ibikorwa remezo kugirango iki cyerekezo gikomeze mu myaka icumi iri imbere.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Umuhanzi & Technologiste",
+      "paragraph1": "Edson numuhanzi numu technologiste ukora ubushakashatsi bwimibanire yabantu aho ihuriro ryubuhanzi nikoranabuhanga. Imyitozo ye ikubiyemo ibyubatswe, imivugo, gufotora, hamwe nikoranabuhanga rya satelite.",
+      "paragraph2": "Ibikorwa bye byerekanwe ku nshuro ya 13 ya Mercosul Biennial (Berezile), IX International Biennale (Uzubekisitani), na NTU Global Digital Art Prize (Singapore).",
+      "paragraph3": "Amaze <strong>imyaka isaga 20 mubijyanye n&#39;ubuhanzi n&#39;ikoranabuhanga</strong> , yakoranye n&#39;amakipe yo guhanga <strong>imikino olempike ya Rio 2016</strong> na <strong>Banki ishinzwe iterambere muri Amerika</strong> . Yiswe umwe mu <strong>banyamwuga 50 bo muri Berezile bafite udushya</strong> twakozwe n&#39;ikinyamakuru Proxxima Magazine, yakiriye <strong>ibihembo bibiri bikurikiranye NIBA Ibihembo</strong> (2017-2018) kandi yarangije igihembo <strong>cya Lumen Prize Futures Award</strong> . Ibikorwa bye byerekanwe mu myaka ibiri ishize kandi byerekanwe mu <strong>nzu ndangamurage ya Ludwig y’ubuhanzi bugezweho</strong> (Budapest), <strong>Inhotim Institute</strong> (Burezili), n’Ingoro <strong>y’imyambarire n’imyambarire</strong> (Lisbonne), imurikagurisha ryabereye i New York, Beijing, Singapore, Dubai, Rio de Janeiro, no mu yindi mijyi."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Uwashinze, Umushinga wa Roy & Umufatanyabikorwa",
+      "paragraph1": "Sathi ni we washinze <strong>The Roy Foundation</strong> , umuryango udaharanira inyungu ugamije kwagura uburyo bwo kwiga mu mwuka, gukira amarangamutima, hamwe n’ibikoresho by’imyumvire ku baturage batishoboye ku isi. Fondasiyo ifatanya n’ishuri, ibigo by’umuco, n’imiryango yo mu karere gukwirakwiza ibikoresho by’ubuzima bwiza bikoreshwa na AI, integanyanyigisho z’abaturage, n’itangazamakuru ritera impinduka.",
+      "paragraph2": "Afite ubumenyi mu bijyanye na neuroscience, gutoza, no kuyobora, Sathi yubatse kandi ayobora amakipe hirya no hino muri Amerika y&#39;Amajyaruguru n&#39;Ubuhinde, yinjiza <strong>miliyoni 600 z&#39;amadolari</strong> yo kugurisha buri mwaka mu mushinga umwe. Niwe washinze <strong>OHM</strong> , umuryango wa mbere w’umwuka w’umwuka, Umufatanyabikorwa wa <strong>SUTE</strong> (urubuga rwa biro ruyobowe na AI), kandi akora nkumujyanama n’umuyobozi ushinzwe iterambere rya <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Nkumunyarwandakazi-Umunyamerika uhuza filozofiya y’iburasirazuba n’iburengerazuba, Sathi azana imyumvire idasanzwe ku myuka yo mu mwuka n’ubuhanzi mu kinyejana cya 21. Hamwe numuyoboro ugenda wiyongera <strong>kubayoboke 65.000+</strong> hamwe na <strong>miliyoni zirenga 40 kumurongo</strong> , arimo yubaka isi yose ihuza amacakubiri ashingiye kumuco na roho."
+    },
+    "together": "Hamwe na Fondasiyo ya Roy, twubaka ubutumwa bwimyaka 10 ihuza ibiraro ubuhanzi, ikoranabuhanga, uburezi, nubutagatifu, duhereye ku kohereza icyogajuru ku ya 28 Ugushyingo 2025, kandi tugakomeza n’umutwe uzagera ku baturage batishoboye ku isi kandi ushishikarize ab'igihe kizaza."
+  },
+  "join": {
+    "heading": "Twiyunge natwe",
+    "content": "Icyogajuru cyubatswe. Ikoranabuhanga ryiteguye. Itariki yo kumurika yashyizweho: <strong>28 Ugushyingo 2025</strong> . Numwanya wo kwinjira mubutumwa bwerekana icyo ubuhanzi bushobora gukora, aho bushobora kujya, nuwo bushobora gukorera.",
+    "fundSpecific": {
+      "heading": "Tera inkunga Ikintu cyihariye cyangwa ube Umufatanyabikorwa washinze",
+      "description": "Hitamo bumwe mumahirwe yo gutera inkunga hejuru, ubaze kubyerekeye kuba umukorikori wubuhanzi, cyangwa uganire kubuterankunga bwihariye bujyanye nicyerekezo cyawe.",
+      "button": "Twandikire Gutangira →"
+    },
+    "generalDonation": {
+      "heading": "Tanga Umusoro-Ukuramo Umusanzu",
+      "description": "Intererano zose, nini cyangwa nto, zishyigikira ubutumwa kandi ziragabanywa umusoro binyuze mumuterankunga wimari, Umurima.",
+      "button": "Gutanga ukoresheje Umurima →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Gutanga umusoro",
+    "paragraph1": "Urusengero rwa Orbital ni umushinga uterwa inkunga na <strong>The Field (Performance Zone Inc)</strong> , umuryango <strong>501 (c) (3)</strong> udaharanira inyungu ufite icyicaro i New York. Intererano zose zo muri Amerika zirakurwaho umusoro ku buryo bwemewe n&#39;amategeko.",
+    "paragraph2": "<strong>Umurima</strong><br> 75 Umuhanda wumukobwa, Suite 906<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">ikibuga</a>",
+    "paragraph3": "Mugihe utanga imisanzu kuri cheque, nyamuneka utange ibihembo kuri <strong>Performance Zone Inc</strong> hamwe na memo: <strong>&quot;Edson Pavoni: Urusengero rwa Orbital&quot;</strong>"
+  }
+}

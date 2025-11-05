@@ -1,0 +1,61 @@
+{
+  "title": "Span - Orbitale Tempel",
+  "heading": "Span",
+  "artist": "Edson Pavoni, kunstenaar",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Uitvoerende Vervaardiger",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Lugvaart- en Stelselingenieurswese",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektroniese Ingenieurswese",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Sagteware",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Ontwerp en Argitektuur",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-drukwerk",
+      "members": "Solid Concepts, onder leiding van Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D-weergawe",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Navorsing",
+      "members": "Roberta Savian Rosa en Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Uitstallingsproduksie, Fotografie en Inhoudskepping",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Uitstalling se sydrukwerk",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Opvoedkundige Projek",
+      "members": "IdeeSpace"
+    },
+    "communication": {
+      "heading": "Kommunikasiespan",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Spesiale Dank",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidigian Putte, Pedro Fernande Holzmeister, Rafael Fernanda Brunes, Raffa, Raffa Kaïro, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitale Tempel Satelliet"
+}

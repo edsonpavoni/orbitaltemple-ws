@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "reikeháicha\npeteĩ ritual\nomondo haguã peteĩ téra\npe\ntemplo orbital rehegua\nespacio-pe\njapyhy\npeteĩ pytu",
+    "button": "che aimema preparado"
+  },
+  "nameInput": {
+    "title": "ehai peteĩ téra",
+    "subtitle": "ojupíta Templo Orbital-pe espacio-pe.",
+    "placeholder": "téra",
+    "button": "tojupi"
+  },
+  "emailInput": {
+    "title": "ehai nde correo electrónico",
+    "subtitle": "upévare rehupyty peteĩ marandu ojupívo pe téra.",
+    "placeholder": "nde correo electrónico",
+    "button": "ojejapo"
+  },
+  "loading": {
+    "alt": "Ojekarga hína"
+  },
+  "success": {
+    "text": "pe téra\n{{téra}}\nko’áĝa oñemoĩ fila-pe\nojupi haguã.\njave pe\ntemplo oĩva espacio-pe\noñemohenda, ndive\nñande antena\nYvýpe\nromondóta\npe téra\nha peẽ pehupytýta\npeteĩ marandu."
+  }
+}

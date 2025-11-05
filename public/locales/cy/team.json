@@ -1,0 +1,61 @@
+{
+  "title": "Tîm - Teml Orbitol",
+  "heading": "Tîm",
+  "artist": "Edson Pavoni, artist",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Cynhyrchydd Gweithredol",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Peirianneg Awyrofod a Systemau",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista a João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Peirianneg Electronig",
+      "members": "André Biagioni, João Pedro Polito a VK"
+    },
+    "software": {
+      "heading": "Meddalwedd",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Dylunio a Phensaernïaeth",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Argraffu 3D",
+      "members": "Cysyniadau Solet, dan arweiniad Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rendro 3D",
+      "members": "Guilherme Bullejos a RiseNy&Partneriaid"
+    },
+    "research": {
+      "heading": "Ymchwil",
+      "members": "Roberta Savian Rosa a Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Cynhyrchu Arddangosfeydd, Ffotograffiaeth a Chreu Cynnwys",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Sgrinio sidan yr arddangosfa",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Prosiect Addysgol",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Tîm Cyfathrebu",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Diolch Arbennig",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, a Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Tafarna Vidigal, Andre Holzmeister, Taffa Vidigal, Andre Holzmeister Cairo, Conceitos Solidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Lloeren Orbital Temple"
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Edukasyon ug Open Source - Orbital Temple",
+  "heading": "Edukasyon ug Open Source",
+  "intro": {
+    "paragraph1": "Ang tanang teknolohiya nga gihimo para sa misyon sa Orbital Temple mahimong <strong>open source</strong> ug magamit online sa <strong>Portuguese</strong> , <strong>English</strong> , <strong>Spanish</strong> , ug <strong>Hindi</strong> , nga nagpasiugda sa pag-uswag sa eksplorasyon sa kawanangan sa <strong>Global South</strong> . Ang mga bag-ong misyon ug proyekto mahimong mogamit sa Orbital Temple isip pundasyon sa ilang kaugalingong artistic o scientific nga mga eksperimento.",
+    "paragraph2": "Isip kabahin sa iyang misyon sa edukasyon, ang Orbital Temple magtanyag ug libre nga multilinggwal nga kurso kon unsaon paghimo ug paglansad ug satellite. Kini mahimong usa ka hands-on nga oportunidad sa pagkat-on bahin sa teknolohiya sa satellite ug ipatuman kini. Bisan kinsa nga labaw sa edad nga <strong>16</strong> makahimo sa paghimo sa ilang kaugalingon nga satellite, pagkat-on bahin sa kasaysayan sa arte sa kawanangan, sukaranan nga mga konsepto sa elektroniko, mekaniko ug siyensya sa kawanangan, lakip ang kung giunsa paggasto ang mga proyekto ug kung giunsa ang paghimo og antena aron makigkomunikar sa mga satellite sa orbit."
+  },
+  "spaceGap": {
+    "heading": "Nganong Importante Kini: Ang Space Gap",
+    "paragraph1": "Ang termino nga <strong>&quot;Space Gap&quot;</strong> nagtumong sa pagbahin tali sa mga naugmad nga mga nasud nga maka-access sa mga oportunidad sa teknolohiya nga nakuha pinaagi sa pagsuhid sa kawanangan, ug mga nag-uswag nga mga nasud nga kulang sa pag-access niini nga mga teknolohiya. Ang mga nasud sa Global South kinahanglang mobayad ug dakong kantidad ngadto sa langyaw nga mga gobyerno o kompanya para sa batakang pag-access sa impormasyon nga gihimo sa mga teknolohiya sa satellite.",
+    "paragraph2": "Ang teknolohiya sa kawanangan naghatag ug kritikal nga mga benepisyo: ang mga satelayt makatabang sa pagsumpo sa ilegal nga pagpamutol og kahoy, ilegal nga pagpangisda, ug ilegal nga patigayon sa wildlife, nga nagrepresentar sa kapin sa <strong>$73 bilyon kada tuig</strong> . Naghatag sila hinungdanon nga kasayuran bahin sa klima, produksiyon sa tubig, ug seguridad sa pagkaon. Ang mga satellite makahimo sa tukma nga irigasyon ug mga teknik sa agrikultura, ug makatabang sa pagpugong sa natural nga mga katalagman. Ang industriya sa kawanangan mahimong makamugna ug <strong>1 ka milyon nga trabaho</strong> sa <strong>2030</strong> , apan kini nga mga oportunidad nagpabilin nga dili maabot sa kadaghanan sa Global South.",
+    "paragraph3": "Pinaagi sa paghatag og open-source nga teknolohiya ug edukasyon, tumong namo nga i-demokratize ang pag-access sa kawanangan ug hatagan og gahom ang bag-ong henerasyon nga magdamgo lapas sa langit."
+  },
+  "empowering": {
+    "heading": "Paghatag gahum sa Sunod nga Henerasyon",
+    "intro": "Tudloan namo ang sunod nga henerasyon sa mga eksplorador sa kawanangan kung unsaon paghimo ug paglansad sa ilang kaugalingon nga mga satellite, nga naglangkob sa hinungdanon nga mga hilisgutan lakip ang:",
+    "topics": {
+      "history": "<strong>Kasaysayan sa arte sa kawanangan:</strong> Pagsabot sa linya sa mga artistic satellite ug space-based artworks.",
+      "concepts": "<strong>Panguna nga mga konsepto:</strong> <strong>ArtSat</strong> (artistic satellites), <strong>Open Source</strong> space technology, ug ang <strong>Space Gap</strong> .",
+      "missions": "<strong>Mga misyon sa kawanangan:</strong> Giunsa ang pagkonsepto ug pagdesinyo sa usa ka misyon, ug kung giunsa paghimo ang usa ka team aron ipatuman kini.",
+      "electronics": "<strong>Elektroniko sa kawanangan:</strong> Panguna nga mga konsepto sa mga sangkap nga elektroniko nga mabuhi ug molihok sa palibot sa kawanangan.",
+      "mechanics": "<strong>Mechanics sa kawanangan:</strong> Pagsabot sa structural ug mekanikal nga mga kinahanglanon alang sa satellite design.",
+      "orbits": "<strong>Mga orbit ug launcher:</strong> Nagkalainlain nga mga klase sa orbit ug kung giunsa pagpili ang mga tighatag sa paglansad alang sa imong misyon.",
+      "financing": "<strong>Mga estratehiya sa pagpinansya:</strong> Giunsa pagsiguro ang pondo ug mga kapanguhaan aron ilunsad ang imong satellite. Magahatag ang kurso og mga kapanguhaan alang sa pagkuha og pondo alang sa imong paglansad, pagtabang sa mga estudyante nga makit-an ang mga programa ug grants gikan sa internasyonal nga mga institusyon nga nagsuporta sa mga batan-ong siyentista ug estudyante sa pagpadala sa ilang mga satellite sa kawanangan.",
+      "groundStation": "<strong>Pag-uswag sa istasyon sa yuta:</strong> Giunsa paghimo ang usa ka antenna aron makigkomunikar sa Orbital Temple ug uban pang mga satellite."
+    }
+  },
+  "technology": {
+    "heading": "Ang Teknolohiya: PocketQube Satellites",
+    "paragraph1": "Ang mga estudyante makakat-on sa pagtrabaho uban sa <strong>PocketQube</strong> satellites, usa ka nanosatellite standard nga may sukod lang nga <strong>5cm³</strong> ug motimbang ug hangtod sa <strong>250g</strong> . Bisan pa sa ilang gamay nga gidak-on, ang PocketQubes gamhanan nga mga himan nga makahimo sa pag-obserbar, pagmonitor, ug komunikasyon sa Yuta.",
+    "paragraph2": "Kini nga mga compact satellite adunay daghang mga aplikasyon sa tinuod nga kalibutan, gikan sa siyentipikong panukiduki bahin sa pagbag-o sa klima hangtod sa komunikasyon sa intercontinental. Tungod kay sila mas gamay ug mas gaan, sila mas barato sa pagtukod ug paglansad, nga naghimo sa luna nga mas accessible sa mga estudyante, tigdukiduki, ug mga artist sa tibuok kalibutan."
+  },
+  "globalAccess": {
+    "heading": "Global Access, Nagsugod gikan sa Global South",
+    "paragraph1": "Ang kurso mahimong magamit ni bisan kinsa <strong>nga 16 ka tuig o labaw pa</strong> , hingpit <strong>nga wala’y bayad</strong> . Nagsugod kami sa sulud sa <strong>Portuges</strong> , <strong>Kinatsila</strong> , <strong>English</strong> , ug <strong>Hindi</strong> , nga adunay mga plano sa pagpalapad sa dugang nga mga lengguwahe samtang nagdako ang programa.",
+    "paragraph2": "Nagsugod ang among misyon sa Global South ug milapad sa kalibutan, pagsiguro nga ang sunod nga henerasyon sa mga eksplorador sa kawanangan gikan sa tanan nga suok sa Yuta."
+  },
+  "callToAction": {
+    "heading": "Tabangi Kami nga Mahitabo Kini",
+    "content": "Kini nga programa sa edukasyon karon gipauswag. Nangita kami mga kauban ug mga donor nga parehas sa among panan-awon sa pag-demokratize sa pag-access sa teknolohiya sa kawanangan. Kung gusto nimo o sa imong organisasyon nga suportahan kini nga inisyatibo, palihug bisitaha ang among <a href=\"/support\">panid sa suporta</a> aron mahibal-an ang bahin sa mga oportunidad sa panag-uban."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

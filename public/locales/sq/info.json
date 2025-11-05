@@ -1,0 +1,17 @@
+{
+  "title": "Informacion Teknik - Tempulli Orbital",
+  "heading": "Informacion Teknik",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Përmasat: 50x58x64 mm<br /> 1P PocketQube<br /> Pesha: 245 gr<br /> Materialet: alumin, ar, fibra qelqi dhe komponentë elektronikë.<br /> Orbita: Lartësia 525 ± 25 km; pjerrësia: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenë/Skulpturë",
+    "specs": "Përmasat: 6 m (diametër) e 1.2 m (lartësi)<br /> Pesha: 46 kg<br /> Materialet: alumin, dërrasë me pasqyrë epoksi, kupolë alumini të artë e varur përmes një strukture skele."
+  },
+  "radio": {
+    "heading": "Specifikimet e radios Katalogu i NASA-s:",
+    "specs": "Lidhja e Downlink-ut për t&#39;u përcaktuar: 437 MHz<br /> Thirrje: Statusi: ORARI PËR VITIN 2025"
+  },
+  "imageAlt": "Diagrama e Informacionit Teknik"
+}

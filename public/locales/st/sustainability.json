@@ -1,0 +1,44 @@
+{
+  "title": "Moshoelella le Maloanlahla a Sebaka - Orbital Temple",
+  "heading": "Moshoelella",
+  "intro": {
+    "paragraph1": "Haeba bonono bo tla re lebisa nakong e tlang, bo ke ke ba iphapanyetsa mathata ao re talimaneng le ’ona—ho oa ha tikoloho, ho hloka toka sechabeng le phephetso e ntseng e hōla ea maloanlahla a sepaka-pakeng. Orbital Temple e entsoe ho nahanoa ka lintlha tsena tsa 'nete, ka sepheo sa ho ba boteng bo nang le boikarabelo Lefatšeng le ho potoloha.",
+    "paragraph2": "Re lumela hore botsitso ha se tšitiso empa ke karolo ea bohlokoa ea pono ea rona ea bonono. Qeto e 'ngoe le e 'ngoe mabapi le lisebelisoa, lipotoloho le ts'ebetso e bonts'a boitlamo ba rona ba ho tlohela Lefatše le sebaka hantle ho feta kamoo re li fumaneng kateng."
+  },
+  "spaceDebris": {
+    "heading": "Matlakala a Sebakeng",
+    "paragraph1": "Matlakala a lefaufaung ke e 'ngoe ea liqholotso tse tobaneng le ho lekola sebaka. Lisathelaete tse likete tse sa sebetseng le likaroloana li potoloha Lefatše, li tšosa mesebetsi e sebetsang le ho theha phello ea cascade e ka etsang hore litsela tse itseng li se ke tsa sebelisoa.",
+    "paragraph2": "Orbital Temple e sebetsana le sena ka litsela tse 'maloa:",
+    "list": {
+      "orbit": "<strong>Ho potoloha ha letsatsi ho 525 km:</strong> Bophahamo bona bo netefatsa hore ho hula ha sepakapaka ho tla etsa hore sathelaete e kene sepakapakeng sa Lefatše nakong ea lilemo tse ka bang 10, moo e tla cha ka botlalo. Ha re kenye letsoho ho lithōle tsa nako e telele tsa orbital.",
+      "size": "<strong>Moralo oa PocketQube:</strong> Ka 50 × 58 × 64mm le 245g feela, sathelaete e nyane ho lekana hore e ka fetoha mouoane ka botlalo nakong ea ho kena hape, &#39;me ha e sa siea litšila holim&#39;a Lefatše.",
+      "responsibility": "<strong>Ha ho na nako ea ho felloa ke nako e reriloeng:</strong> Ho fapana le lisathelaete tsa khoebo tse ka &#39;nang tsa tloheloa, Orbital Temple e etselitsoe ho kheloha ka tlhaho, ho phethahatsa litataiso tsa machaba bakeng sa ts&#39;ebetso e ikarabellang ea sebaka."
+    },
+    "paragraph3": "Ka ho khetha potoloho e tlase ea Lefatše le moralo o kopaneng, re netefatsa hore boteng ba Orbital Temple sebakeng ke ba nakoana ebile ha bo silafatse."
+  },
+  "carbonNeutrality": {
+    "heading": "Ho se nke lehlakore ha Carbon",
+    "content": "Mesi eohle ea khabone e amanang le Tempele ea Orbital-ho kenyeletsoa tlhahiso ea sathelaete, ho qala, ts'ebetso ea liteishene tsa fatše, ho amohela sebaka sa marang-rang, le maeto a sehlopha - e tla felisoa ka botlalo ka mananeo a netefalitsoeng a mekoloto ea khabone. Re ikemiselitse ho etsa hore thōmo ena e se nke lehlakore."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Ho tšoarella ho boetse ho bolela ho se senye tsebo. Karolo e 'ngoe le e' ngoe ea tekheniki ea Orbital Temple - meralo, khoutu, liprothokholo tsa puisano, le mekhoa ea kaho - e tla phatlalatsoa e le litokomane tsa mohloli o bulehileng.",
+    "paragraph2": "Sena se lumella mesebetsi ea nako e tlang ho ikahela holim'a mosebetsi oa rona ho fapana le ho qala qalong, ho fokotsa lipatlisiso le nts'etsopele e sa hlokeng letho. E fana ka temokerasi phihlello ya thekenoloji ya lefaufau, haholoholo bakeng sa ditjhaba tse ka Borwa ba Lefatshe bao ho tloha kgale ba neng ba qheletswe ka thoko ho batlisisa sepakapaka."
+  },
+  "educational": {
+    "heading": "Tšusumetso ea Thuto",
+    "paragraph1": "Lenaneo la rena la mahala la thuto ya maleme a mantši le ruta baithuti lefaseng ka bophara mokgwa wa go aga le go thakgola disathelaete, re tsepamisitse maikutlo ho Global South. Ka ho matlafatsa moloko o tlang ka litsebo tsa theknoloji ea sebaka, re kenya letsoho ho koala \"Sekheo sa Sebaka\" le ho theha menyetla e neng e ke ke ea ba teng.",
+    "paragraph2": "Morero ona oa thuto ke mokhoa oa ts'ebetso - ho tsetela ho batho le sechaba ho theha phetoho e tšoarellang ho feta nako ea bophelo ea sathelaete."
+  },
+  "tenYear": {
+    "heading": "Mosebetsi oa Lilemo tse 10",
+    "paragraph1": "Orbital Temple e etselitsoe thomo ea lilemo tse leshome, eseng papali e khutšoane ea phatlalatso. Ka lilemo tse leshome, sathelaete e tla potoloha Lefatše ka makhetlo a ka bang 50,000, e amohela mabitso le sehopotso sa hore sebaka e ka ba sebaka se tloaelehileng, se fumanehang ho bohle.",
+    "paragraph2": "Ka mor'a hore morero oa eona o phethe, sathelaete ka tlhaho e tla theoha 'me e chese, e sa siee mohlala ntle le mehopolong le litokomaneng tsa ba nkileng karolo."
+  },
+  "artsResponsibility": {
+    "heading": "Boikarabello ba Art",
+    "paragraph1": "Art esale e le seipone sa nako ea eona, e bonts'ang litekanyetso le litabatabelo tsa rona. Mehleng ea mathata a boemo ba leholimo le ho se lekane ho ntseng ho hola, re lumela hore baetsi ba litšoantšo ba na le boikarabello ba ho theha mosebetsi o sa bueng feela ka litaba tsena empa le ho sebetsana le tsona ka mafolofolo.",
+    "paragraph2": "Orbital Temple ke teko ea rona ea ho etsa mosebetsi oa bonono o matla ka kakaretso, o ikarabellang molemong oa tikoloho, 'me o fana ka tsebo ea oona le lefats'e ka seatla se bulehileng. Ke bonono bo memelang motho e mong le e mong ho nka karolo ha a ntse a hlompha lits'ebetso tse senyehang - tsa tikoloho le tsa orbital - tse etsang hore bophelo le boithuto bo khonehe."
+  },
+  "imageAlt": "Satellite ea Tempele ea Orbital"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Rəssamdan",
+  "opening": {
+    "question": "Bu adam kimdir ki, kosmosda məbəd təklif etsin?",
+    "thanks": "Sual üçün təşəkkürlər.",
+    "answer": "Qısa cavab odur ki, mən rəssamam. Uzun olanı budur:"
+  },
+  "origin": {
+    "sao_paulo": "Mən San Paulonun kənarında, mənə təhlükənin nə demək olduğunu erkən öyrədən bir məhəllədə anadan olmuşam. Məktəb dostlarımın çoxu hazırda həbsdədir. Ögey atam həbsdədir. Zorakılıq haqqında oxuduğum bir şey deyildi, naviqasiya etməli olduğum dünya idi. Və qaçmalı olduğumu bilirdim.",
+    "technology": "Texnologiya mənim çıxış yolum oldu. Mən proqramlaşdırmağı öyrəndim, yeniyetmə vaxtı elektronikanı öyrəndim. Kod məni başqa yerə apara biləcək bir dil idi. Texnologiya ilə işləmək yoxsulluqdan qurtulmağım oldu.",
+    "christianity": "Amma mən həm də aidiyyət, sevgi, inanacaq bir şey axtarırdım. Xristianlığı tapdım, ya da məni tapdı. qəbul olundum. sevildim. Mənim bir cəmiyyətim var idi. Bağışlamağı, inanmağı, daha böyük məqsəd üçün birlikdə hərəkət etməyi öyrəndim.",
+    "price": "Baxmayaraq ki, qiymət yüksək idi. Hələ öyrənmədiyim bir çox şeyləri də öyrəndim. Beləliklə, mən də ondan qaçdım."
+  },
+  "searching": {
+    "walls": "Divarların nə etdiyini bilirəm. Mən onları hiss etmişəm. Mən hər iki tərəfdə oldum: kənarda qaldım, içəridə saxladım. Sonrakı illər adını çəkə bilmədiyim bir şeyi axtardım. Allah o illərdə öldü. Mənə öyrədilən tanrı, hər halda, qaydaları, hökmləri və yalnız bəzi insanlar üçün açılan qapıları olan tanrıdır.",
+    "art": "Mən bu sualları araşdırmaq üçün sənət yaratmağa başladım: yaxınlıq və texnologiya haqqında, yaddaş və ölüm haqqında, kimin cənnətə layiq olduğu haqqında. Texnologiya ilə əlaqəmizi yenidən təsəvvür edən maşınlar, metaldan və koddan canlı bir şeyə çevrilmək üçün sizin iştirakınıza, varlığınıza, adınıza ehtiyacı olan maşınlar yaratmağa başladım."
+  },
+  "pandemic": {
+    "intro": "Sonra pandemiya Braziliyanı vurdu.",
+    "government": "COVID peyvəndləri gecikdirildikdə, mənim hökumətim hər doza üçün bir dollar geri qaytarılması barədə danışıqlar aparırdı. İnsanlar nəfəs almaqda çətinlik çəkərək ölərkən gülərək təbabətin təsirsiz olduğunu başa düşdülər. Hər gün fərqli bir nömrə ilə oyanırdıq. Son 24 saatda nə qədər insan öldü? Gözləniləndən çox idi, yoxsa az idi?",
+    "war": "Dünyanın yarısı qorxurdu, digər yarısı isə inkar edirdi. Biz virusla və bir-birimizlə müharibədə idik.",
+    "memorial": "Mən kollektiv kədər üçün yer yaratmaq istədim, buna görə də yüzlərlə insanla birlikdə Inumeráveis Memorialını yaratdım. İncəsənət və jurnalistikanın kəsişməsində bir sənət əsəri. Kimisə itirmiş ailələrdən müsahibə götürdük. Onların itirdikləri insanın həyat hekayəsini yazdıq. Biz rəqəmləri tarixə çevirdik. O tarixlərlə şeirlər, mahnılar, simfoniyalar yaranıb. Ulduzlar həmin hekayələri milli televiziyada oxuyurlar. Layihə milyonlara çatdı.",
+    "meaning": "Önəmli olan miqyası deyil, hər hekayənin bir adı, həyatı, kiminsə cənnəti olması idi."
+  },
+  "discovery": {
+    "pattern": "Kədərlə on mindən çox söhbətdən sonra bir nümunə yaranmağa başladı. Ölən biri haqqında danışarkən, sadəcə yaxşı şeylər demirik; biz onların hekayəsindən fraqmentləri seçirik, sanki tövsiyə məktubu yazırıq. Cənnət qapıçısına tövsiyə. Onların qəbul, istirahət, şərəf və xatirə məkanına göndərilməsi üçün əlimizdən gələni edirik.",
+    "understanding": "Və mən hər şeyi dəyişən bir şeyi başa düşdüm: tikdiyimiz məbədlərdən yaralandıq. Cənnətə kimin layiq olduğuna dair inancımız, yer üzündə kimləri xaric etdiyimizi birbaşa formalaşdırır. Braziliyadakı Portuqal müstəmləkəçiləri qaradərililərin ruhu olmadığına inanırdılar; bu inanc köləliyə haqq qazandırdı. Əgər yerli idinizsə, yanlış yerdə doğulmusunuzsa və ya yanlış insanı sevmisinizsə, sizə cənnət qapılarının bağlı olduğunu söyləyiblər.",
+    "birth": "Orbital məbədi belə doğuldu."
+  },
+  "shaman": {
+    "secular": "Heç bir sənətçi həqiqətən dünyəvi ola bilməz. Biz həmişə ortaq əcdadımız şamana bağlıyıq. Başlanğıcda bir mağara var idi. İnsanlar divarlara heyvanları bəzəmək üçün deyil, çağırmaq üçün çəkiblər. Rəqs etdilər və mağara məbədə çevrildi. Şaman ritualın ruhunu daşıyır; rəssam sənətin aurasına sahibdir. Biz rəngləyirik, heykəl qoyuruq, kodlayırıq, istədiyimiz gələcəyimizi bəzəmək üçün deyil, çağırmaq üçün dizayn edirik. Bütün sənətlər, hətta olmadığını iddia etsə də, mənəvidir."
+  },
+  "space": {
+    "question": "Divarları olmayan bir məbədi harada tikə bilərik? Heç bir millətin və ya dinin iddia edə bilmədiyi yerdə. Özümüzü bir qrup kimi təsəvvür edə biləcəyimiz yer.",
+    "answer": "Kosmos.",
+    "description": "Qlobal Cənubidən iştirakçı incəsənət peyki. Kimliyindən, harada doğulmasından, kimi sevməsindən, nəyə inanmasından asılı olmayaraq, hər kəsi öz adlarını kosmosa göndərməyə dəvət edən orbitdəki məbəd. Orbitdə, sərhədlərdən kənarda radikal daxilolmanın mümkün olduğu yer.",
+    "mission": "Bu missiya açıq mənbədir. Hər bir texniki sənəd, hər bir kod sətri sərbəst şəkildə mövcud olacaq ki, digər rəssamlar, başqa icmalar, başqa millətlər öz peyklərini yarada bilsinlər. Beləliklə, Qlobal Cənub təkcə kosmik tədqiqatlarda iştirak etmir, həm də ona rəhbərlik edir."
+  },
+  "closing": {
+    "answer": "Bəs bu adam kimdir ki, kosmosda məbəd tiksin? Mən onu tikmirəm. Məbədi ad göndərməyə, onu müqəddəs görməyə, gerçəkləşdirməyə qərar verən hər kəs tikir. Təklif edən mənəm. Əgər qərar verərsənsə, onu tikən sənsən.",
+    "signature": "Lütfən,",
+    "name": "Edson Pavoni"
+  }
+}

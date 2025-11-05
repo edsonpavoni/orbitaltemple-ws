@@ -1,0 +1,13 @@
+{
+  "title": "Titivisiwile - Tempele ya Orbital",
+  "heading": "Tivisiwe Loko Yi Pfuka",
+  "description": "Hi November 28, 2025, Tempele ya Orbital yi ta tlhandluka.<br> Siya e-mail ya wena, hi ta ku byela loko yi fika exibakabakeni.",
+  "form": {
+    "emailPlaceholder": "ya wena@imeyili.com",
+    "sendButton": "Rhumela",
+    "sendingButton": "Ku rhumela...",
+    "successMessage": "Hi ta ku fikelela loko yi tlhandluka.",
+    "errorMessage": "Ku ni leswi nga famba kahle. Hi kombela u ringeta nakambe."
+  },
+  "backLink": "← Ku tlhelela eka ku hlayela endzhaku"
+}

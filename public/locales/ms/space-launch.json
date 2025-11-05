@@ -1,0 +1,16 @@
+{
+  "title": "Pelancaran Angkasa Lepas - Kuil Orbital",
+  "heading": "Pelancaran Angkasa Lepas",
+  "intro": "Kuil Orbital dijadualkan akan dilancarkan di atas sebuah PSLV (Polar Satellite Launch Vehicle) pada 28 November 2025 dari Pusat Angkasa Satish Dhawan di Sriharikota, India.",
+  "partnership": "Pelancaran Kuil Orbital ialah perkongsian antara NewSpace India Limited (NSIL), sebuah Syarikat Kerajaan India di bawah Jabatan Angkasa, Antrix Corporation dan artis. Kerjasama ini mewakili pencapaian penting untuk seni dalam penerokaan angkasa lepas, menghimpunkan program angkasa lepas India dengan visi artistik keterangkuman radikal.",
+  "risks": {
+    "heading": "Risiko",
+    "paragraph1": "Satelit itu dibina untuk menahan keadaan getaran yang melampau dan kitaran haba, dan telah menjalani ujian yang ketat. Walau bagaimanapun, pelancaran angkasa lepas membawa risiko yang wujud. Jika satelit rosak semasa pelancaran atau penggunaan, atau jika ia gagal mewujudkan komunikasi dengan stesen bumi kami, kami akan berusaha untuk menyelesaikan masalah dan menyelesaikan sebarang isu. Satelit ini mempunyai sistem berlebihan dan protokol sandaran yang direka untuk memaksimumkan peluang kejayaan misi.",
+    "paragraph2": "Selain itu, satelit mungkin kekal di orbit kurang daripada 10 tahun jika keadaan atmosfera atau faktor lain menyebabkan pereputan orbit lebih awal. Walaupun kami telah mereka bentuknya untuk bertahan sekurang-kurangnya satu dekad, jangka hayat sebenar bergantung pada keadaan yang tidak dapat kami kawal sepenuhnya.",
+    "paragraph3": "Jika pelancaran pertama gagal, atau jika kami tidak dapat mencapai misi ini seperti yang dirancang, kami akan meneroka laluan alternatif ke hadapan, berpotensi termasuk percubaan pelancaran kedua dengan bajet yang tersedia, perkongsian dengan misi lain atau dokumentasi percubaan sebagai sebahagian daripada naratif karya seni tentang aspirasi dan had."
+  },
+  "imageAlts": {
+    "india": "Pusat Angkasa ISRO, India",
+    "satellite": "Satelit Kuil Orbital"
+  }
+}

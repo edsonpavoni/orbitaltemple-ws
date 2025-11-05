@@ -1,0 +1,43 @@
+{
+  "title": "Pendidikan & Sumber Terbuka - Kuil Orbital",
+  "heading": "Pendidikan & Sumber Terbuka",
+  "intro": {
+    "paragraph1": "Semua teknologi yang dibangunkan untuk misi Kuil Orbital akan menjadi <strong>sumber terbuka</strong> dan tersedia dalam talian dalam <strong>bahasa Portugis</strong> , <strong>Inggeris</strong> , <strong>Sepanyol</strong> dan <strong>Hindi</strong> , memupuk kemajuan penerokaan angkasa lepas di <strong>Selatan Global</strong> . Misi dan projek baharu boleh menggunakan Kuil Orbital sebagai asas untuk eksperimen seni atau saintifik mereka sendiri.",
+    "paragraph2": "Sebagai sebahagian daripada misi pendidikannya, Orbital Temple akan menawarkan kursus berbilang bahasa percuma tentang cara membina dan melancarkan satelit. Ia akan menjadi peluang langsung untuk mempelajari teknologi satelit dan mempraktikkannya. Sesiapa sahaja yang berumur <strong>16</strong> tahun ke atas akan dapat membina satelit mereka sendiri, belajar tentang sejarah seni di angkasa lepas, konsep asas elektronik, mekanik dan sains angkasa, termasuk cara membiayai projek dan cara membina antena untuk berkomunikasi dengan satelit di orbit."
+  },
+  "spaceGap": {
+    "heading": "Mengapa Ini Penting: Jurang Angkasa",
+    "paragraph1": "Istilah <strong>&quot;Space Gap&quot;</strong> merujuk kepada jurang antara negara maju yang boleh mengakses peluang teknologi yang diperoleh melalui penerokaan angkasa lepas, dan negara membangun yang kekurangan akses kepada teknologi ini. Negara-negara di Selatan Global mesti membayar sejumlah besar kepada kerajaan atau syarikat asing untuk akses asas kepada maklumat yang dihasilkan oleh teknologi satelit.",
+    "paragraph2": "Teknologi angkasa lepas memberikan faedah kritikal: satelit membantu memerangi pembalakan haram, penangkapan ikan haram dan perdagangan hidupan liar haram, yang mewakili lebih daripada <strong>$73 bilion setahun</strong> . Mereka menyediakan maklumat penting tentang iklim, pengeluaran air, dan keselamatan makanan. Satelit membolehkan pengairan tepat dan teknik pertanian, dan membantu mencegah bencana alam. Industri angkasa lepas boleh mencipta sehingga <strong>1 juta pekerjaan</strong> menjelang <strong>2030</strong> , namun peluang ini masih tidak dapat diakses oleh ramai orang di Selatan Global.",
+    "paragraph3": "Dengan menyediakan teknologi dan pendidikan sumber terbuka, kami menyasarkan untuk mendemokrasikan akses kepada angkasa lepas dan memperkasakan generasi baharu untuk bermimpi di luar langit."
+  },
+  "empowering": {
+    "heading": "Memperkasa Generasi Seterusnya",
+    "intro": "Kami akan mengajar generasi peneroka angkasa lepas cara membina dan melancarkan satelit mereka sendiri, meliputi topik penting termasuk:",
+    "topics": {
+      "history": "<strong>Sejarah seni di angkasa:</strong> Memahami keturunan satelit artistik dan karya seni berasaskan angkasa.",
+      "concepts": "<strong>Konsep teras:</strong> <strong>ArtSat</strong> (satelit artistik), teknologi angkasa <strong>Sumber Terbuka</strong> dan <strong>Jurang Angkasa</strong> .",
+      "missions": "<strong>Misi angkasa lepas:</strong> Cara mengkonseptualisasikan dan mereka bentuk misi, dan cara membentuk pasukan untuk melaksanakannya.",
+      "electronics": "<strong>Elektronik dalam angkasa:</strong> Konsep asas komponen elektronik yang boleh bertahan dan berfungsi dalam persekitaran ruang.",
+      "mechanics": "<strong>Mekanik dalam ruang:</strong> Memahami keperluan struktur dan mekanikal untuk reka bentuk satelit.",
+      "orbits": "<strong>Orbit dan pelancar:</strong> Jenis orbit yang berbeza dan cara memilih penyedia pelancaran untuk misi anda.",
+      "financing": "<strong>Strategi pembiayaan:</strong> Cara mendapatkan pembiayaan dan sumber untuk melancarkan satelit anda. Kursus ini akan menyediakan sumber untuk mendapatkan pembiayaan untuk pelancaran anda, membantu pelajar mencari program dan geran daripada institusi antarabangsa yang menyokong saintis dan pelajar muda dalam menghantar satelit mereka ke angkasa.",
+      "groundStation": "<strong>Pembangunan stesen bumi:</strong> Cara membina antena untuk berkomunikasi dengan Kuil Orbital dan satelit lain."
+    }
+  },
+  "technology": {
+    "heading": "Teknologi: Satelit PocketQube",
+    "paragraph1": "Pelajar akan belajar bekerja dengan satelit <strong>PocketQube</strong> , piawaian nanosatellit berukuran hanya <strong>5cm³</strong> dan berat sehingga <strong>250g</strong> . Walaupun saiznya kecil, PocketQubes ialah alat berkuasa yang mampu memerhati, memantau dan berkomunikasi Bumi.",
+    "paragraph2": "Satelit padat ini mempunyai banyak aplikasi dunia nyata, daripada penyelidikan saintifik mengenai perubahan iklim kepada komunikasi antara benua. Oleh kerana ia lebih kecil dan ringan, ia lebih berpatutan untuk dibina dan dilancarkan, menjadikan ruang lebih mudah diakses oleh pelajar, penyelidik dan artis di seluruh dunia."
+  },
+  "globalAccess": {
+    "heading": "Akses Global, Bermula dari Global Selatan",
+    "paragraph1": "Kursus ini akan disediakan kepada sesiapa sahaja <strong>yang berumur 16 tahun ke atas</strong> , <strong>secara percuma</strong> sepenuhnya. Kami bermula dengan kandungan dalam <strong>bahasa Portugis</strong> , <strong>Sepanyol</strong> , <strong>Inggeris</strong> dan <strong>Hindi</strong> , dengan rancangan untuk mengembangkan kepada bahasa tambahan apabila program ini berkembang.",
+    "paragraph2": "Misi kami bermula di Selatan Global dan meluas ke dunia, memastikan generasi peneroka angkasa lepas datang dari seluruh pelusuk Bumi."
+  },
+  "callToAction": {
+    "heading": "Bantu Kami Jadikan Ini Berlaku",
+    "content": "Program pendidikan ini sedang dalam pembangunan. Kami sedang mencari rakan kongsi dan penderma yang berkongsi visi kami untuk mendemokrasikan akses kepada teknologi angkasa lepas. Jika anda atau organisasi anda ingin menyokong inisiatif ini, sila lawati <a href=\"/support\">halaman sokongan</a> kami untuk mengetahui tentang peluang perkongsian."
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

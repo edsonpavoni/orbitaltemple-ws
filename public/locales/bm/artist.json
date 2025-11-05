@@ -1,0 +1,44 @@
+{
+  "title": "Ka bɔ Artiste la",
+  "opening": {
+    "question": "Nin cɛ in ye jɔn ye ka batoso dɔ proposer sankolo la?",
+    "thanks": "Aw ni ce ɲininkali in na.",
+    "answer": "Jaabi surun ye ko ne ye dɔnkilidala ye. A jan ye nin ye:"
+  },
+  "origin": {
+    "sao_paulo": "Ne wolola Sao Paulo dugu kɔkan, sigida dɔ la min ye ne kalan joona farati kɔrɔ ye min ye. N ka lakɔli teri caman bɛ kaso la sisan. N facɛman bɛ kaso la. Fariyako tun tɛ fɛn ye n ye min kalan, o tun ye diɲɛ ye n tun ka kan ka min lajɛ. Wa ne tun b’a dɔn ko ne ka kan ka boli.",
+    "technology": "Fɛnɲɛnɛmako kɛra ne ka bɔyɔrɔ ye. N ye porogaramu dege, ka ɛntɛrinɛti dege n denmisɛnman. Kode tun ye kan ye min tun bɛ se ka taa ni n ye yɔrɔ wɛrɛ la. Baara kɛli ni fɛɛrɛ kuraw ye, o tun ye ne bolicogo ye faantanya la.",
+    "christianity": "Nka ne tun bɛ ka ne yɛrɛ ta ɲini fana, ka kanuya ɲini, ka fɛn dɔ ɲini ka da a la, ne ye kerecɛnya sɔrɔ, walima a ye ne sɔrɔ. U sɔnna ne ma. U tun ka di ne ye. Sigida dɔ tun bɛ n bolo. Ne ye yafa dege, ka da a la, ka taa ɲɔgɔn fɛ kuntilenna belebeleba dɔ kama.",
+    "price": "Nka, a sɔngɔ tun ka bon. Ne ye fɛn caman fana dege ne tɛ minnu kalan hali bi. O la, ne fana bolila o la."
+  },
+  "searching": {
+    "walls": "Kogow bɛ min kɛ, ne b’o dɔn. N y'u ye. Ne kɛra fan fila bɛɛ fɛ: ne tora kɛnɛma, ka to ka don. Min tugura o kɔ, o kɛra san caman ɲinini ye fɛn dɔ ɲinini na n ma se ka min tɔgɔ fɔ. Ala sara o sanw kɔnɔna na. Ala min tun ye ne kalan, cogo o cogo, o min ka sariyaw ni kiritigɛ ani daaw bɛ da mɔgɔw dɔw dɔrɔn de ye.",
+    "art": "N y’a daminɛ ka seko ni dɔnko kɛ walasa ka nin ɲininkali ninnu sɛgɛsɛgɛ : jɛɲɔgɔnya ni fɛɛrɛ kuraw ko la, hakilijagabɔ ni saya ko la, jɔn ka kan ni sankolo ye. N y’a daminɛ ka masinw jɔ minnu b’an ka jɛɲɔgɔnya miiri kokura ni fɛɛrɛ kuraw ye, masinw minnu mago bɛ i ka sendon na, i ka kɛta la, i tɔgɔ la, walasa ka wuli ka bɔ nɛgɛ ni kode la ka kɛ fɛn ɲɛnama ye."
+  },
+  "pandemic": {
+    "intro": "O kɔfɛ, bana jugu in ye Berezil minɛ.",
+    "government": "COVID bolociw bilala kɔfɛ tuma min na, n ka gɔfɛrɛnaman tun bɛ ka kumaɲɔgɔnya kɛ ni dɔrɔmɛ kelen ye dose kelen na. U ye furakɛli lafasa min faamuyalen don ko nafa tɛ a la, u bɛ ŋɛɲɛ kɛ k’a sɔrɔ mɔgɔw bɛ sa ka ninakili gɛlɛya. An tun bɛ kunun don o don ka kɛɲɛ ni hakɛ wɛrɛ ye. Mɔgɔ joli de sara sanga 24 tɛmɛnenw kɔnɔ? Yala a tun ka ca, walima a tun ka dɔgɔ ka tɛmɛ a tun bɛ miiri min na wa?",
+    "war": "Diɲɛ tilancɛ siranna, tilancɛ wɛrɛ tun bɛ sɔsɔli la. An tun bɛ kɛlɛ la, ni banakisɛ ye ani ni ɲɔgɔn ye.",
+    "memorial": "N tun b’a fɛ ka yɔrɔ di mɔgɔw bɛɛ ka dusukasi ma, o de la n ni mɔgɔ kɛmɛ caman ye Hakilijigin Inumeráveis da. Seko ni dɔnko baara dɔ min bɛ seko ni dɔnko ni kunnafonidilaw cɛtigɛyɔrɔ la. An ye denbayaw ɲininka minnu ka mɔgɔ dɔ bɔnɛna u la. U bɔnɛna mɔgɔ min na, an ye o ka ɲɛnamaya maana sɛbɛn. An ye jatew sɛmɛntiya ka kɛ tarikuw ye. Poyi, dɔnkili, sinfoni Kɛra n'o tarikuw ye. Dolow bɛ o maanaw kalan jamana telewisɔn na. O baara sera mɔgɔ miliyɔn caman ma.",
+    "meaning": "Min tun nafa ka bon, o tun tɛ balansi ye, o tun ye ko maana kelen-kelen bɛɛ tun ye tɔgɔ ye, ɲɛnamaya, mɔgɔ dɔ ka sankolo."
+  },
+  "discovery": {
+    "pattern": "Baro ba tan ni kɔ kɛlen kɔ ni dusukasi ye, misali dɔ y’a daminɛ ka bɔ kɛnɛ kan. Ni an bɛ kuma mɔgɔ dɔ kan min sara, an tɛ kuma ɲumanw fɔ dɔrɔn; an bɛ u ka maana yɔrɔ dɔw sugandi i n’a fɔ an bɛ ladilikansɛbɛn sɛbɛn. Ladilikan dɔ bɛ di alijɛnɛ da kɔlɔsibaga ma. An b’an seko bɛɛ kɛ k’u bila sɔnyɔrɔ la, lafiɲɛyɔrɔ, bonya ani hakilijigin yɔrɔ la.",
+    "understanding": "Wa ne ye fɛn dɔ faamu min ye fɛn bɛɛ Changé: An jogin na an ye batoso yɛrɛ minnu jɔ. An ka dannaya minnu bɛ mɔgɔ min ka kan ni sankolo ye, olu de bɛ an bɛ mɔgɔ minnu bɔ kɛnɛ kan Dugukolo kan, olu cogoya tigitigi. Pɔrtigal kolonikɛlaw minnu tun bɛ Berezil, olu dalen tun b’a la ko ni tɛ mɔgɔ Numukɛw la; o dannaya tun bɛ jɔnya jo di. Ni i tun ye jamanadenw ye, ni i wolola yɔrɔ jugu la walima ni i ye mɔgɔ jugu kanu, a fɔra i ye ko sankolo daaw datugulen don i ye.",
+    "birth": "Orbital Temple bangera o cogo de la."
+  },
+  "shaman": {
+    "secular": "Dɔnkilidala si tɛ se ka kɛ diɲɛnatigɛla ye tiɲɛ na. An sirilen bɛ fo abada an bɛnbakɛ kelen na, n’o ye shaman ye. A daminɛ na, kɔba dɔ tun bɛ yen. Hadamadenw tun bɛ baganw ja kogow kan walasa ka u masiri, nka u tun bɛ u wele. U ye dɔn kɛ, kɔdingɛ kɛra Alabatoso ye. Shaman bɛ laadalakow hakili ta; dɔnkilidala bɛ seko ni dɔnko aura ta. An bɛ penti kɛ, an bɛ jɛgɛn, an bɛ kodɔn, an b’an ka siniɲɛsigi nege dilan walasa ka masiri, nka ka wele bila. Seko ni dɔnko bɛɛ ye hakili ta fan fɛ, hali n’a b’a fɔ ko a tɛ."
+  },
+  "space": {
+    "question": "An tun bɛ se ka Alabatosoba jɔ min, kogow tun tɛ min na? Yɔrɔ min na jamana walima diinɛ si tun tɛ se k’a fɔ. An tun bɛ se k’an yɛrɛ miiri yɔrɔ min na iko kulu kelen.",
+    "answer": "Yɔ́rɔ.",
+    "description": "Seko ni dɔnko sateliti min bɛ se ka mɔgɔw sen don a la ka bɔ Duniya Saheliyanfan fɛ. Alabatoso min bɛ jiribolo la min bɛ bɛɛ wele k’u tɔgɔ ci sankolo la, u mana kɛ mɔgɔ o mɔgɔ ye, u wolola yɔrɔ o yɔrɔ, u bɛ mɔgɔ min kanu, u dalen bɛ min na. Yɔrɔ min na, inclusion radical bɛ se ka kɛ, orbit kɔnɔ, dancɛw kɔfɛ.",
+    "mission": "Nin cidenyabaara in ye dakun dafalen ye. Fɛɛrɛsɛbɛn bɛɛ, kode layini bɛɛ bɛna sɔrɔ hɔrɔnya la walasa dɔnkotigi tɔw, sigida wɛrɛw, jamana wɛrɛw ka se k’u yɛrɛ ka satelitiw dilan. O la, Duniya Saheli tɛ a sen don sanfɛla ɲinini dɔrɔn na, nka a b’a ɲɛminɛ."
+  },
+  "closing": {
+    "answer": "O la sa, nin cɛ in ye jɔn ye ka batoso jɔ sankolo la? N t'a jɔ. Alabatoso jɔlen bɛ mɔgɔ o mɔgɔ fɛ min b’a latigɛ ka tɔgɔ ci, k’a ye ko a senuma don, k’a kɛ mɔgɔ sɛbɛ ye. Ne ye propos (fɔli) kɛbaga dɔrɔn de ye. I de b'a jɔ n'i y'a latigɛ.",
+    "signature": "Yumanya,",
+    "name": "Edson Pavoni ye baara kɛ"
+  }
+}

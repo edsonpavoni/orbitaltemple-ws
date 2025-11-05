@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "i kou komo ana\nhe hoomana\n\ne hoʻouna i kahi inoa\ni loko o ka\nheiau orbital\nma kahi ākea\n\nlawe\nhe hanu",
+    "button": "ua makaukau au"
+  },
+  "nameInput": {
+    "title": "paʻi inoa",
+    "subtitle": "e piʻi aʻe i ka luakini Orbital ma ke ākea.",
+    "placeholder": "inoa",
+    "button": "e pii aku"
+  },
+  "emailInput": {
+    "title": "paʻi i kāu leka uila",
+    "subtitle": "no laila e loaʻa iā ʻoe kahi leka ke piʻi ka inoa.",
+    "placeholder": "kāu leka uila",
+    "button": "ua hanaia"
+  },
+  "loading": {
+    "alt": "Ke hoʻouka nei"
+  },
+  "success": {
+    "text": "ka inoa\n{{inoa}}\ni kēia manawa ua laina\nno ka pii ana.\n\ni ka manawa o ka\nluakini ma kahi ākea\naligns, me\nkā mākou antenna\nma ka Honua\n\ne hoʻouna mākou\nka inoa\na e loaʻa iā ʻoe\nhe leka."
+  }
+}

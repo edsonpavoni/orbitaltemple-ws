@@ -1,0 +1,17 @@
+{
+  "title": "Gwybodaeth Dechnegol - Teml Orbitol",
+  "heading": "Gwybodaeth Dechnegol",
+  "satellite": {
+    "heading": "Lloeren",
+    "specs": "Dimensiynau: 50x58x64 mm<br /> 1P PocketQube<br /> Pwysau: 245 gr<br /> Deunyddiau: alwminiwm, aur, gwydr ffibr, a chydrannau electronig.<br /> Orbit: Uchder 525 ± 25 km; gogwydd: SSO 97.6 ± 0.1°<br /> Lansiwr: PSLV (Cerbyd Lansio Lloeren Pegynol) a weithredir gan ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Cerflun",
+    "specs": "Dimensiynau: 6 m (diamedr) e 1.2m (uchder)<br /> Pwysau: 46 kg<br /> Deunyddiau: alwminiwm, bwrdd drych epocsi, cromen alwminiwm euraidd wedi&#39;i hongian trwy strwythur sgaffaldiau."
+  },
+  "radio": {
+    "heading": "Manylebau Radio",
+    "specs": "Cyswllt i Lawr: 468.5 MHz<br /> Modiwleiddio: CSS<br /> Lled Band: I&#39;w gadarnhau"
+  },
+  "imageAlt": "Lloeren Orbital Temple"
+}

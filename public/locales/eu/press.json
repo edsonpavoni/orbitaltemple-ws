@@ -1,0 +1,138 @@
+{
+  "title": "Prentsa eta Komunikabideak - Orbital Temple",
+  "heading": "Prentsa eta komunikabideak",
+  "pressContact": {
+    "heading": "Prentsa Kontaktua",
+    "content": "Prentsa-kontsultetarako, elkarrizketetarako eta komunikabideen eskaeretarako:<br /> <strong>Helbide elektronikoa:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Webgunea:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Proiektuari buruz",
+    "paragraph1": "Orbital Temple artelan bat eta satelite bat da, erabat inklusiboa den tenplu bat izan nahi duena, hormak iristen ez diren lekuetan eraikia. Edson Pavoni artista brasildarrak sortua, COVID pandemia garaian 6 brasildarretatik batengana iritsi zen Inumeraveis Memorialaren atzean dagoen artista, proiektuak mundu osoko jendea gonbidatzen du gogoratu nahi duten norbaiten izena bidaltzera. Izen horiek orbitan dagoen satelite batera transmititzen dira, oroigarri kolektibo bat sortuz.",
+    "paragraph2": "136 hizkuntzatan eskuragarri dagoen webgune baten bidez, parte-hartzaileek erritual mota berri batean parte hartzen dute. Orbital Temple-k inklusioaren, memoriaren eta gure gizatasun partekatuaren gaiak aztertzen ditu, zergatik ez dagoen Lurreko tenplu fisiko batek denak benetan ongietorri ditzakeen zalantzan jarriz, eta espazioa proposatuz inklusio erradikala egon daitekeen leku bakar gisa."
+  },
+  "aboutArtist": {
+    "heading": "Artistari buruz",
+    "paragraph1": "<strong>Edson Pavoni</strong> artista brasildarra da, eta bere ibilbidea São Pauloko kaleetan hasi zen, non pobrezia eta indarkeria testuinguru batek moldatu zituen bere lehen urteak. Kristautasunak kaleetatik, drogetatik eta indarkeriatik aldentzeko bidea eskaintzen zuen herrialde batean, Pavonik fedean aurkitu zuen babesa, geroago, erlijio-abusuen kritikari bihurtu zenean, bere praktika artistikoa baldintzatuko zuen gaia.",
+    "paragraph2": "2020an, COVID-19 pandemiaren garaian, Pavonik <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeravéis (zenbakaezinak)</a></strong> sortu zuen, artearen eta kazetaritzaren arteko bidegurutzean dagoen artelan bat. Proiektuak milaka familia elkarrizketatu zituen eta pandemiaren ondorioz galdutakoen istorioak idatzi zituen, memoriak zenbakiak eta estatistikak gainditzen dituen espazio bat sortuz. Poemak, abestiak eta sinfoniak egin ziren istorio horiekin. Egunkariek azalak sortu zituzten izenak eta historiak erabiliz. Oscar saria irabazi zuen Fernanda Torres bezalako Brasilgo izar guztiek eta Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo eta Lázaro Ramos bezalako izarrek, eta beste hainbatek, istorio horiek irakurri zituzten telebista nazionalean. Proiektuak 32 milioi pertsonarengana iritsi zen, lau brasildar heldutik batengana. Sendatze sare bat bihurtu zen, memoriaren monumentu kolektibo bat.",
+    "paragraph3": "Hamar mila elkarrizketa baino gehiagoren ondoren, doluarekin, eredu bat sortu zen: hil den norbaiti buruz hitz egiten dugunean, haren istorioaren zatiak hautatzen ditugu, paradisuko atezainari gomendio gutun bat idazten ariko bagina bezala. Ahal dugun guztia egiten dugu zerura bidaltzeko. Lan honek ulermen berri bat piztu zuen: zerua nork merezi duenari buruzko gure sinesmenek zuzenean moldatzen dute Lurrean nor onartzen edo baztertzen dugun. Brasilgo kolonizatzaile portugaldarrek uste zuten beltzek ez zutela arimarik; sinesmen horrek esklabutza justifikatzen zuen. Indigena bazinen, leku okerrean jaio bazinen edo pertsona okerra maite bazenuen, gaur egun ere, zeruko ateak itxita zeudela esaten dizute. Ba al dago etorkizunaren ikuspegirik errefusaz betetzen ez denik?",
+    "paragraph4": "Horrela jaio zen Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Datu garrantzitsuak",
+    "artist": "<strong>Artista:</strong> Edson Pavoni (Brasil)",
+    "projectType": "<strong>Proiektu mota:</strong> Satelite bidezko artelana, espazioan oinarritutako gune espezifikoa, web bidezko errituala",
+    "launchDate": "<strong>Abiarazteko data:</strong> 2025eko azaroaren 28a",
+    "launchLocation": "<strong>Jaurtiketa kokapena:</strong> Satish Dhawan Espazio Zentroa, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satelitea:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbita:</strong> 525 km-ko altuera, eguzki-sinkronoa",
+    "participation": "<strong>Parte-hartzea:</strong> Doakoa, mundu osoko guztientzat irekita",
+    "namesSent": {
+      "heading": "<strong>Orbitara bidalitako izenak:</strong>",
+      "caption": "<em>Zuzeneko zenbaketa datu-basetik eguneratua • Azken freskatzea: {data}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Sariak eta Aitortza",
+    "mercosul": {
+      "title": "<strong>13. Mercosur Biurtekoa</strong> (2022)",
+      "location": "Porto Alegre, Brasil",
+      "curator": "Marcelo Dantasek komisariatua"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Saria 2022 - Futures Saria</strong>",
+      "status": "Zerrenda luzeko"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Lehiaketa</strong>",
+      "award": "Irabazlea - ArtSat Kategoria",
+      "org": "Brasilgo Espazio Ikerketarako Institutuak (INPE) sustatua"
+    }
+  },
+  "team": {
+    "heading": "Taldea",
+    "content": "Orbital Temple Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiane Solid, Pedro Puttigal, Tairo Fertia Solid, eta RiseNY&Partners, IdeaSpace eta tenplu honen izenak iradokitzen jarraitzen duten guztiak."
+  },
+  "pressCoverage": {
+    "heading": "Prentsa-estaldura / Agertokia",
+    "paragraph1": "<em>Prentsa-estaldura eta erreportajeak eskuragarri dauden heinean gehituko dira. Azken eguneratzeak lortzeko, jarri harremanetan gure prentsa-taldearekin.</em>",
+    "paragraph2": "Aurreko erakusketen eta ezaugarrien artean, 13. Mercosul Bienalean egindako aurkezpenak, Lumen sariaren aintzatespena eta Brasilgo Espazio Ikerketa Institutuak (INPE) hautatzea daude."
+  },
+  "images": {
+    "heading": "Prentsarako erabilerarako bereizmen handiko irudiak",
+    "intro": "Irudi guztiak erabilera editorialerako eskuragarri daude. Egin klik edozein iruditan bereizmen handiko fitxategia deskargatzeko.",
+    "installationPhotos": {
+      "heading": "Orbital Tenpluaren Argazkiak",
+      "credit": "Mesedez, eman kreditua: \"Argazkia: Clara Marques / Edson Pavoniren eskutik, Orbital Temple\"",
+      "view01": "Instalazioaren ikuspegia 01<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (1.4 MB)",
+      "view02": "Instalazioaren ikuspegia 02<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (2.9 MB)",
+      "view03": "Instalazioaren ikuspegia 03<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (11 MB)",
+      "view04": "Instalazioaren ikuspegia 04<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (3.4 MB)",
+      "view05": "Instalazioaren ikuspegia 05<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (3.3 MB)",
+      "view06": "Instalazioaren ikuspegia 06<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (3.7 MB)",
+      "view07": "Instalazioaren ikuspegia 07<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (3.4 MB)",
+      "view08": "Instalazioaren ikuspegia 08<br /> Argazkia: Clara Marques<br /> ↓ Deskargatu bereizmen handikoa (2.7 MB)",
+      "satelliteDesign": "Sateliteen diseinua<br /> ↓ Deskargatu",
+      "antennaSculpture": "Antena/Eskultura<br /> ↓ Deskargatu"
+    },
+    "renders": {
+      "heading": "Orbital Tenpluen Errendatzeak",
+      "credit": "Orbital Temple-ren 3D errendatze kontzeptualak. Mesedez, aipatu: \"3D errendatzea RiseNY&Partners-ek egina / Edson Pavoni-ren eskutik, Orbital Temple\"",
+      "render01": "3D errendatzea 01<br /> RiseNY eta Bazkideak<br /> ↓ Deskargatu bereizmen handikoa (10 MB)",
+      "render02": "3D errenderizazioa 02<br /> RiseNY eta Bazkideak<br /> ↓ Deskargatu bereizmen handikoa (5.9 MB)",
+      "render03": "3D errendatzea 03<br /> RiseNY eta Bazkideak<br /> ↓ Deskargatu bereizmen handikoa (5.2 MB)",
+      "render04": "3D errenderizazioa 04<br /> RiseNY eta Bazkideak<br /> ↓ Deskargatu bereizmen handikoa (11 MB)",
+      "render05": "3D errenderizazioa 05<br /> RiseNY eta Bazkideak<br /> ↓ Deskargatu bereizmen handikoa (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Artista Argazkiak",
+      "photo1": "1. argazkia<br /> ↓ Deskargatu bereizmen handikoa",
+      "photo2": "2. argazkia<br /> ↓ Deskargatu bereizmen handikoa"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Royren argazkiak",
+      "photo1": "1. argazkia<br /> ↓ Deskargatu bereizmen handikoa (843 KB)",
+      "photo2": "2. argazkia<br /> ↓ Deskargatu bereizmen handikoa (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Zehaztapen teknikoak",
+    "satellite": {
+      "heading": "Satelitea",
+      "dimensions": "Neurriak: 50 x 58 x 64 mm",
+      "classification": "Sailkapena: 1P PocketQube",
+      "weight": "Pisua: 245g",
+      "materials": "Materialak: aluminioa, urrea, beira-zuntzezkoa, osagai elektronikoak",
+      "orbit": "Orbita: Altitudea 525 ± 25 km; Inklinazioa: SSO 97,6 ± 0,1°",
+      "launch": "Abiaraztea: 2025eko azaroaren 28a, ISRO bidez, India"
+    },
+    "antenna": {
+      "heading": "Antena/Eskultura",
+      "dimensions": "Neurriak: 6m diametroa x 1,2m altuera",
+      "weight": "Pisua: 46 kg",
+      "materials": "Materialak: aluminioa, epoxi ispiludun taula, aldamio-egitura batetik zintzilik dagoen aluminiozko kupula urreztatua"
+    },
+    "radio": {
+      "heading": "Irratiaren zehaztapenak",
+      "downlink": "Beheranzko konexioa: 437 MHz",
+      "status": "Abiarazteko egoera: 2025eko azaroaren 28an aurreikusita"
+    }
+  },
+  "additionalResources": {
+    "heading": "Baliabide gehigarriak",
+    "artwork": "→ Ikusi artelanen dokumentazioa",
+    "howItWorks": "→ Nola funtzionatzen duen",
+    "technicalInfo": "→ Informazio teknikoa",
+    "spaceLaunch": "→ Espazioko jaurtiketen informazioa",
+    "ritual": "→ Bizi ezazu errituala"
+  },
+  "imageAlts": {
+    "installation": "Edson Pavoniren Orbital Tenpluaren Instalazioa",
+    "satelliteDesign": "Orbital Temple Satelitearen Diseinua",
+    "antenna": "Orbital Temple Antenna Eskultura",
+    "render": "Orbita-tenpluaren 3D errendatzea RiseNY&Partners-ek egina",
+    "edsonPortrait": "Edson Pavoniren erretratua",
+    "sathiPortrait": "Sathi Royren erretratua",
+    "lumenPrize": "Lumen Saria",
+    "mercosulBienal": "Mercosurren Biurtekoa"
+  }
+}

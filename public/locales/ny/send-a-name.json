@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "pamene mukulowa\nmwambo\nkutumiza dzina\nku\nkachisi wa orbital\nmu danga\nkutenga\nmpweya",
+    "button": "ndakonzeka"
+  },
+  "nameInput": {
+    "title": "lembani dzina",
+    "subtitle": "idzakwera ku Kachisi wa Orbital mumlengalenga.",
+    "placeholder": "dzina",
+    "button": "chikwere chikwere"
+  },
+  "emailInput": {
+    "title": "lembani imelo yanu",
+    "subtitle": "kotero mumapeza uthenga pamene dzina likukwera.",
+    "placeholder": "imelo yanu",
+    "button": "zachitika"
+  },
+  "loading": {
+    "alt": "Kutsegula"
+  },
+  "success": {
+    "text": "dzina\n{{dzina}}\nali pamzere tsopano\nza kukwera kumwamba.\npamene a\nkachisi mu mlengalenga\nagwirizane, ndi\nmlongoti wathu\npa Dziko Lapansi\ntidzatumiza\ndzina\nndipo inu mudzalandira\nuthenga."
+  }
+}

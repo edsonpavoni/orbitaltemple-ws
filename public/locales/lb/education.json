@@ -1,0 +1,43 @@
+{
+  "title": "Ausbildung & Open Source - Orbital Temple",
+  "heading": "Ausbildung & Open Source",
+  "intro": {
+    "paragraph1": "All Technologie, déi fir d&#39;Orbital Temple Missioun entwéckelt gëtt, wäert <strong>Open Source</strong> sinn an online op <strong>Portugisesch</strong> , <strong>Englesch</strong> , <strong>Spuenesch</strong> an <strong>Hindi</strong> verfügbar sinn, wat de Fortschrëtt vun der Weltraumfuerschung am <strong>Globale Süden</strong> fërdert. Nei Missiounen a Projeten kënnen den Orbital Temple als Basis fir hir eegen artistesch oder wëssenschaftlech Experimenter benotzen.",
+    "paragraph2": "Als Deel vu senger pädagogescher Missioun bitt den Orbital Temple e gratis méisproochege Cours un, wéi ee Satellit baut a lancéiert. Et ass eng praktesch Geleeënheet, fir méi iwwer Satellittetechnologie ze léieren an se an d&#39;Praxis ëmzesetzen. Jiddereen iwwer <strong>16</strong> Joer kann säin eegene Satellit bauen, dobäi méi iwwer d&#39;Geschicht vun der Konscht am Weltraum, grondleeënd Konzepter vun der Elektronik, der Mechanik an der Weltraumwëssenschaft léieren, dorënner wéi ee Projeten finanzéiert a wéi een eng Antenn baut, fir mat Satellitten am Orbit ze kommunizéieren."
+  },
+  "spaceGap": {
+    "heading": "Firwat dëst wichteg ass: D'Weltraumlück",
+    "paragraph1": "Den Ausdrock <strong>&quot;Space Gap&quot;</strong> bezitt sech op d&#39;Kluft tëscht entwéckelte Länner, déi Zougang zu den technologesche Méiglechkeeten hunn, déi duerch d&#39;Weltraumfuerschung entstinn, an Entwécklungslänner, déi keen Zougang zu dësen Technologien hunn. D&#39;Länner am Globale Süden mussen erheblech Zomme u auslännesch Regierungen oder Firmen bezuelen, fir de Basiszougang zu Informatiounen, déi duerch Satellittetechnologien produzéiert ginn.",
+    "paragraph2": "Weltraumtechnologie bitt entscheedend Virdeeler: Satellitte hëllefen, illegal Holzfällung, illegal Fëscherei an illegalen Handel mat wëllen Déieren ze bekämpfen, déi méi wéi <strong>73 Milliarden Dollar pro Joer</strong> ausmaachen. Si liwweren essentiell Informatiounen iwwer de Klima, d&#39;Waasserproduktioun an d&#39;Liewensmëttelsécherheet. Satellitte erméiglechen präzis Bewässerungs- a landwirtschaftlech Techniken an hëllefen, Naturkatastrophen ze vermeiden. D&#39;Weltraumindustrie kéint bis <strong>2030</strong> bis zu <strong>1 Millioun Aarbechtsplaze</strong> schafen, awer dës Méiglechkeete bleiwen fir vill am globale Süden net zougänglech.",
+    "paragraph3": "Indem mir Open-Source-Technologie an Ausbildung ubidden, ziele mir drop of, den Zougang zum Weltraum ze demokratiséieren an eng nei Generatioun ze ermächtegen, iwwer den Himmel eraus ze dreemen."
+  },
+  "empowering": {
+    "heading": "Déi nächst Generatioun ermächtegen",
+    "intro": "Mir wäerten der nächster Generatioun vu Weltraumfuerscher léieren, wéi se hir eege Satellitte bauen a starten, andeems mir wichteg Themen behandelen, wéi zum Beispill:",
+    "topics": {
+      "history": "<strong>Geschicht vun der Konscht am Weltraum:</strong> D&#39;Ofstammung vun artistesche Satellitten a Weltraumbaséierte Konschtwierker verstoen.",
+      "concepts": "<strong>Kärkonzepter:</strong> <strong>ArtSat</strong> (kënschtleresch Satellitten), <strong>Open Source</strong> Weltraumtechnologie an d&#39; <strong>Space Gap</strong> .",
+      "missions": "<strong>Weltraummissiounen:</strong> Wéi een eng Missioun konzeptualiséiert an designt, a wéi een en Team bildt fir se auszeféieren.",
+      "electronics": "<strong>Elektronik am Weltraum:</strong> Grondkonzepter vun elektronesche Komponenten, déi am Weltraum iwwerliewe kënnen a funktionéiere kënnen.",
+      "mechanics": "<strong>Mechanik am Weltraum:</strong> Verständnis vun de strukturellen a mechaneschen Ufuerderunge fir den Design vu Satellitten.",
+      "orbits": "<strong>Ëmlafbunnen a Rakéiten:</strong> Verschidden Aarte vun Ëmlafbunnen a wéi Dir Startanbieter fir Är Missioun auswielt.",
+      "financing": "<strong>Finanzéierungsstrategien:</strong> Wéi ee Finanzéierung a Ressourcen fir de Start vun engem Satellit kritt. De Cours stellt Ressourcen zur Verfügung fir Finanzéierung fir de Start ze kréien an hëlleft de Studenten Programmer a Subventiounen vun internationalen Institutiounen ze fannen, déi jonk Wëssenschaftler a Studenten ënnerstëtzen, hir Satellitten an de Weltraum ze schécken.",
+      "groundStation": "<strong>Entwécklung vun enger Buedemstatioun:</strong> Wéi een eng Antenn baut fir mam Orbital Temple an anere Satellitten ze kommunizéieren."
+    }
+  },
+  "technology": {
+    "heading": "D'Technologie: PocketQube Satellitten",
+    "paragraph1": "D&#39;Schüler léieren, mat <strong>PocketQube-</strong> Satellitten ze schaffen, engem Nanosatellitstandard, deen nëmme <strong>5 cm³</strong> moosst a bis zu <strong>250 g</strong> weit. Trotz hirer klenger Gréisst si PocketQubes mächteg Tools, déi fir Äerdobservatioun, Iwwerwaachung a Kommunikatioun fäeg sinn.",
+    "paragraph2": "Dës kompakt Satellitte hunn eng Onmass Uwendungen an der Praxis, vun der wëssenschaftlecher Fuerschung iwwer de Klimawandel bis hin zur interkontinentaler Kommunikatioun. Well se méi kleng a méi liicht sinn, si se méi bezuelbar ze bauen a starten, wouduerch de Weltraum fir Studenten, Fuerscher a Kënschtler weltwäit méi zougänglech ass."
+  },
+  "globalAccess": {
+    "heading": "Globalen Zougang, ugefaange vum globale Süden",
+    "paragraph1": "De Cours ass fir jiddereen <strong>ab 16 Joer</strong> <strong>gratis</strong> verfügbar. Mir fänken u mat Inhalter op <strong>Portugisesch</strong> , <strong>Spuenesch</strong> , <strong>Englesch</strong> an <strong>Hindi</strong> , a mir plangen, en op weider Sproochen auszebauen, wa de Programm wiisst.",
+    "paragraph2": "Eis Missioun fänkt am Globale Süden un a erstreckt sech op d'Welt, fir sécherzestellen, datt déi nächst Generatioun vu Weltraumfuerscher aus allen Ecker vun der Äerd kënnt."
+  },
+  "callToAction": {
+    "heading": "Hëlleft eis, dëst ze realiséieren",
+    "content": "Dëst Bildungsprogramm ass am Moment an der Entwécklung. Mir sichen Partner a Spender, déi eis Visioun deelen, den Zougang zu Weltraumtechnologie ze demokratiséieren. Wann Dir oder Är Organisatioun dës Initiativ ënnerstëtze wëllt, da besicht eis <a href=\"/support\">Supportsäit</a> fir méi iwwer Partnerschaftsméiglechkeeten ze léieren."
+  },
+  "imageAlt": "Orbital Temple Satellit"
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "njengokuba ungena\nisithethe\nukuthumela igama\nkwi\nitempile ye-orbital\nesithubeni\nthabatha\numoya",
+    "button": "Ndikulungele"
+  },
+  "nameInput": {
+    "title": "chwetheza igama",
+    "subtitle": "iya kunyuka iye kwiTempile ye-Orbital esithubeni.",
+    "placeholder": "igama",
+    "button": "mayinyuke"
+  },
+  "emailInput": {
+    "title": "chwetheza i-imeyile yakho",
+    "subtitle": "ngoko ufumana umyalezo xa igama linyuka.",
+    "placeholder": "imeyile yakho",
+    "button": "iyenziwa"
+  },
+  "loading": {
+    "alt": "Iyalayisha"
+  },
+  "success": {
+    "text": "igama\n{{igama}}\nisemgceni ngoku\nukuya phezulu.\nxa i\nitempile esithubeni\nihambelana, kunye\ni-eriyali yethu\nemhlabeni\nsiya kuthumela\nigama\nkwaye uya kwamkela\numyalezo."
+  }
+}

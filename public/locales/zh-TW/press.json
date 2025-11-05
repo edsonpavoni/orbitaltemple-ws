@@ -1,0 +1,138 @@
+{
+  "title": "新聞媒體 - 賽道聖殿",
+  "heading": "新聞媒體",
+  "pressContact": {
+    "heading": "媒體聯絡人",
+    "content": "媒體詢問、採訪及其他媒體需求：<br /><strong>電子郵件：</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /><strong>網址：</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "關於本項目",
+    "paragraph1": "「軌道聖殿」是一件藝術作品，也是一顆衛星，旨在打造一座真正包容一切的聖殿，建造在牆壁無法觸及的地方。該計畫由巴西藝術家埃德森·帕沃尼（Edson Pavoni）創作，他也是「Inumeráveis」紀念碑的創作者，該紀念碑在新冠疫情期間觸及了六分之一的巴西人。 「軌道聖殿」邀請世界各地的人們發送他們想要紀念的人的名字。這些名字將傳輸到一顆軌道衛星，最終形成一座集體紀念碑。",
+    "paragraph2": "參與者可以透過一個提供136種語言版本的網站，參與一種全新的儀式。 「軌道神廟」探索包容、記憶和我們共同的人性等主題，質疑為何地球上沒有任何一座實體神廟能夠真正接納所有人，並提出太空或許是唯一能夠實現真正包容的地方。"
+  },
+  "aboutArtist": {
+    "heading": "關於藝術家",
+    "paragraph1": "<strong>埃德森·帕沃尼</strong>是一位巴西藝術家，他的藝術之旅始於聖保羅的街頭，貧困和暴力塑造了他的童年。在這個基督教為人們提供了一條遠離街頭、毒品和暴力的道路的國家，帕沃尼在信仰中找到了慰藉。後來，當他成為宗教濫用問題的批判者時，信仰這個主題也深深影響了他的藝術實踐。",
+    "paragraph2": "2020年，在新冠疫情期間，帕沃尼創作了<strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">《無數》（Inumeráveis）</a></strong> ，一件融合藝術與新聞的作品。該計畫採訪了數千個家庭，記錄了那些因疫情而逝去的人們的故事，創造了一個超越數字和統計數據的記憶空間。這些故事被譜寫成詩歌、歌曲和交響樂。報紙也以這些名字和故事為封面。包括奧斯卡影后費爾南達·托雷斯、塞爾頓·梅洛、伊娃·威爾瑪、卡米拉·皮坦加、黛博拉·塞科、泰斯·阿勞霍和拉扎羅·拉莫斯在內的眾多巴西明星都在國家電視台朗讀了這些故事。該計畫觸及了3,200萬人，相當於四分之一的巴西成年人。它成為了一個療癒的網絡，一個集體記憶的豐碑。",
+    "paragraph3": "在與悲傷者進行了一萬多次對話之後，一種模式逐漸顯現：當我們談論逝者時，我們會挑選他們故事的片段，彷彿在為天堂的守門人寫一封推薦信。我們竭盡所能地將他們送到我們心目中的天堂。這項工作激發了一種新的理解：我們對誰配得上天堂的信念，直接影響我們在人世間接納或排斥的對象。葡萄牙殖民者在巴西認為黑人沒有靈魂；這種信念為奴隸制提供了正當理由。如果你是原住民，如果你生錯了地方，或者愛錯了人，時至今日，你仍然會被告知天堂的大門對你緊閉。難道就沒有一種不被排斥充斥的未來願景嗎？",
+    "paragraph4": "這就是軌道神廟的由來。"
+  },
+  "keyFacts": {
+    "heading": "關鍵事實",
+    "artist": "<strong>藝術家：</strong>埃德森·帕沃尼（巴西）",
+    "projectType": "<strong>項目類型：</strong>衛星藝術作品，特定場域空間藝術，基於網路的儀式",
+    "launchDate": "<strong>發售日期：</strong> 2025年11月28日",
+    "launchLocation": "<strong>發射地點：</strong>印度斯里哈里科塔島薩蒂什·達萬航天中心（ISRO）",
+    "satellite": "<strong>衛星：</strong> 1P PocketQube，50x58x64毫米，245克",
+    "orbit": "<strong>軌道：</strong>高度525公里，太陽同步軌道",
+    "participation": "<strong>參與方式：</strong>免費，開放全球所有人。",
+    "namesSent": {
+      "heading": "<strong>送上軌道的名稱：</strong>",
+      "caption": "<em>即時統計資料已從資料庫更新 • 上次刷新時間：{date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "獎項與榮譽",
+    "mercosul": {
+      "title": "<strong>第十三屆南方共同市場雙年展</strong>（2022年）",
+      "location": "巴西阿雷格里港",
+      "curator": "由馬塞洛·丹塔斯策劃"
+    },
+    "lumen": {
+      "title": "<strong>2022年Lumen獎－未來獎</strong>",
+      "status": "入圍名單"
+    },
+    "cubeDesign": {
+      "title": "<strong>2021年立方體設計比賽</strong>",
+      "award": "ArtSat類別優勝者",
+      "org": "由巴西太空研究所（INPE）推廣"
+    }
+  },
+  "team": {
+    "heading": "團隊",
+    "content": "Orbital Temple 是與 Sathi Roy、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vinea、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vined、Andre Holiigal、Clara Marques、Daphne Alves、Flavio Vine、Andre、Fyati、Fircaak、Fylaroy、Flavio Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace 以及所有繼續為這座寺廟建議名稱的人。"
+  },
+  "pressCoverage": {
+    "heading": "媒體報導/專題報導",
+    "paragraph1": "<em>媒體報導和專題文章將陸續發布。如需了解最新動態，請聯絡我們的新聞團隊。</em>",
+    "paragraph2": "先前的展覽和專題報導包括在第 13 屆南方共同市場雙年展上展出、獲得 Lumen 獎的認可，以及被巴西太空研究所 (INPE) 選中。"
+  },
+  "images": {
+    "heading": "供新聞媒體使用的高解析度影像",
+    "intro": "所有圖片均可用於編輯用途。點擊任何圖片即可下載高清檔案。",
+    "installationPhotos": {
+      "heading": "軌道神廟照片",
+      "credit": "請註明出處：“照片由克拉拉·馬克斯拍攝/由埃德森·帕沃尼（軌道神廟）提供”",
+      "view01": "安裝視圖 01<br />照片：克拉拉馬克斯<br />↓ 下載高清圖片 (1.4 MB)",
+      "view02": "安裝視圖 02<br />照片：克拉拉馬克斯<br />↓ 下載高清版 (2.9 MB)",
+      "view03": "安裝視圖 03<br />照片：克拉拉馬克斯<br />↓ 下載高清圖片 (11 MB)",
+      "view04": "安裝視圖 04<br />照片：克拉拉馬克斯<br />↓ 下載高清版 (3.4 MB)",
+      "view05": "安裝視圖 05<br />照片：克拉拉馬克斯<br />↓ 下載高清版 (3.3 MB)",
+      "view06": "安裝視圖 06<br />照片：克拉拉馬克斯<br />↓ 下載高清版 (3.7 MB)",
+      "view07": "安裝視圖 07<br />照片：克拉拉馬克斯<br />↓ 下載高清版 (3.4 MB)",
+      "view08": "安裝視圖 08<br />照片：克拉拉馬克斯<br />↓ 下載高清圖片 (2.7 MB)",
+      "satelliteDesign": "衛星設計<br />↓ 下載",
+      "antennaSculpture": "天線/雕塑<br />↓ 下載"
+    },
+    "renders": {
+      "heading": "軌道神殿渲染圖",
+      "credit": "軌道神廟概念三維渲染圖。請註明出處：「三維渲染圖由 RiseNY&Partners 提供 / 由軌道神廟的 Edson Pavoni 提供」。",
+      "render01": "3D渲染01<br /> RiseNY&amp;Partners<br /> ↓ 下載高清圖片（10 MB）",
+      "render02": "3D渲染02<br /> RiseNY&amp;Partners<br /> ↓ 下載高清版 (5.9 MB)",
+      "render03": "3D渲染03<br /> RiseNY&amp;Partners<br /> ↓ 下載高清版 (5.2 MB)",
+      "render04": "3D渲染04<br /> RiseNY&amp;Partners<br /> ↓ 下載高清版 (11 MB)",
+      "render05": "3D渲染05<br /> RiseNY&amp;Partners<br /> ↓ 下載高清版 (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "藝術家照片",
+      "photo1": "照片 1<br /> ↓ 下載高清圖片",
+      "photo2": "照片 2<br /> ↓ 下載高清圖片"
+    },
+    "sathiPhotos": {
+      "heading": "薩蒂·羅伊照片",
+      "photo1": "照片 1<br /> ↓ 下載高清圖片 (843 KB)",
+      "photo2": "照片 2<br /> ↓ 下載高清圖片 (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "技術規格",
+    "satellite": {
+      "heading": "衛星",
+      "dimensions": "尺寸：50 x 58 x 64 毫米",
+      "classification": "分類：1P PocketQube",
+      "weight": "重量：245克",
+      "materials": "材質：鋁、金、玻璃纖維、電子元件",
+      "orbit": "軌道：高度 525 ± 25 公里；傾角：太陽同步軌道傾角 97.6 ± 0.1°",
+      "launch": "發射日期：2025年11月28日，由印度太空研究組織（ISRO）發射。"
+    },
+    "antenna": {
+      "heading": "天線/雕塑",
+      "dimensions": "尺寸：直徑6米 x 高1.2米",
+      "weight": "重量：46公斤",
+      "materials": "材質：鋁材、環氧樹脂鏡面板、金色鋁製圓頂，透過鷹架結構懸掛"
+    },
+    "radio": {
+      "heading": "無線電技術規格",
+      "downlink": "下行鏈路：437 MHz",
+      "status": "發布狀態：預定於2025年11月28日發布"
+    }
+  },
+  "additionalResources": {
+    "heading": "其他資源",
+    "artwork": "→ 查看藝術作品文檔",
+    "howItWorks": "→ 工作原理",
+    "technicalInfo": "→ 技術資訊",
+    "spaceLaunch": "→ 太空發射訊息",
+    "ritual": "→ 體驗儀式"
+  },
+  "imageAlts": {
+    "installation": "由艾德森·帕沃尼設計的軌道神殿裝置",
+    "satelliteDesign": "軌道神殿衛星設計",
+    "antenna": "軌道神廟天線雕塑",
+    "render": "RiseNY&Partners製作的軌道神廟3D渲染圖",
+    "edsonPortrait": "愛德森·帕沃尼肖像",
+    "sathiPortrait": "薩蒂·羅伊肖像",
+    "lumenPrize": "流明獎",
+    "mercosulBienal": "南方共同市場雙年展"
+  }
+}

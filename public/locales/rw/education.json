@@ -1,0 +1,43 @@
+{
+  "title": "Uburezi & Gufungura Inkomoko - Urusengero rwa Orbital",
+  "heading": "Uburezi & Gufungura isoko",
+  "intro": {
+    "paragraph1": "Tekinoroji yose yatunganijwe kubutumwa bwa Orbital Temple izaba <strong>ifunguye</strong> kandi iboneka kumurongo <strong>mugiportigale</strong> , <strong>icyongereza</strong> , <strong>icyesipanyoli</strong> , na <strong>hindi</strong> , bizamura iterambere ryubushakashatsi bwikirere mu <strong>majyepfo yisi</strong> . Inshingano n&#39;imishinga mishya irashobora gukoresha Urusengero rwa Orbital nk&#39;ishingiro kubushakashatsi bwabo bwite cyangwa siyanse.",
+    "paragraph2": "Mu rwego rwo kwigisha, Orbital Temple izatanga amasomo yindimi nyinshi kubuntu bwo kubaka no kohereza icyogajuru. Bizaba amahirwe yo kwiga ibijyanye n&#39;ikoranabuhanga rya satelite no kubishyira mubikorwa. Umuntu wese urengeje imyaka <strong>16</strong> y&#39;amavuko azashobora kwiyubakira icyogajuru cye, yige amateka yubuhanzi mu kirere, imyumvire yibanze ya elegitoroniki, ubukanishi nubumenyi bwikirere, harimo nuburyo bwo gutera inkunga imishinga nuburyo bwo kubaka antenne kugirango ivugane na satelite muri orbit."
+  },
+  "spaceGap": {
+    "heading": "Impamvu Ibi Bifite akamaro: Icyuho cyumwanya",
+    "paragraph1": "Ijambo <strong>&quot;Umwanya wo mu kirere&quot;</strong> ryerekeza ku gutandukanya ibihugu byateye imbere bishobora kugera ku mahirwe y’ikoranabuhanga yabonetse binyuze mu bushakashatsi bw’ikirere, ndetse n’ibihugu biri mu nzira y&#39;amajyambere bidafite ubwo buhanga. Ibihugu byo mu majyepfo y’isi bigomba kwishyura amafaranga menshi kuri guverinoma z’amahanga cyangwa amasosiyete kugira ngo agere ku makuru y’ibanze akoreshwa n’ikoranabuhanga rya satellite.",
+    "paragraph2": "Ikoranabuhanga mu kirere ritanga inyungu zikomeye: satelite ifasha kurwanya gutema ibiti mu buryo butemewe, kuroba mu buryo butemewe n’ubucuruzi bw’ibinyabuzima bitemewe, bingana na <strong>miliyari zirenga 73 z&#39;amadolari ku mwaka</strong> . Batanga amakuru yingenzi kubyerekeye ikirere, umusaruro w’amazi, n’umutekano w’ibiribwa. Satelite itanga uburyo bwo kuhira neza nubuhanga bwubuhinzi, kandi bigafasha gukumira ibiza. Inganda zo mu kirere zishobora guhanga <strong>imirimo igera kuri miliyoni 1</strong> muri <strong>2030</strong> , nyamara ayo mahirwe akomeje kutagerwaho na benshi muri Global y&#39;Amajyepfo.",
+    "paragraph3": "Mugutanga isoko yubumenyi nuburezi byuzuye, tugamije demokarasi kugera kuri demokarasi no guha imbaraga igisekuru gishya kurota kirenze ikirere."
+  },
+  "empowering": {
+    "heading": "Guha imbaraga Igisekuru kizaza",
+    "intro": "Tuzigisha igisekuru kizaza cyabashakashatsi mu kirere uburyo bwo kubaka no kohereza ibyogajuru byabo, bikubiyemo ingingo zingenzi zirimo:",
+    "topics": {
+      "history": "<strong>Amateka yubuhanzi mu kirere:</strong> Gusobanukirwa umurongo wa satelite yubuhanzi hamwe nubuhanzi bushingiye ku kirere.",
+      "concepts": "<strong>Amahame yibanze:</strong> <strong>ArtSat</strong> (satelite yubuhanzi), <strong>Gufungura isoko yikoranabuhanga rya tekinoroji</strong> , hamwe nu <strong>mwanya wo mu kirere</strong> .",
+      "missions": "<strong>Inshingano zo mu kirere:</strong> Uburyo bwo gutekereza no gutegura ubutumwa, nuburyo bwo gushinga itsinda ryo kubishyira mu bikorwa.",
+      "electronics": "<strong>Ibyuma bya elegitoroniki mu kirere:</strong> Ibanze shingiro ryibikoresho bya elegitoronike bishobora kubaho no gukora mubidukikije.",
+      "mechanics": "<strong>Ubukanishi mu kirere:</strong> Gusobanukirwa ibyubatswe nubukanishi bukenewe mugushushanya icyogajuru.",
+      "orbits": "<strong>Ibizunguruka nibitangiza:</strong> Ubwoko butandukanye bwa orbits nuburyo bwo guhitamo abatanga ubutumwa kubutumwa bwawe.",
+      "financing": "<strong>Ingamba zo gutera inkunga:</strong> Nigute ushobora kubona inkunga nubutunzi bwo kohereza satelite yawe. Aya masomo azatanga ibikoresho byo kubona inkunga yo gutangiza, ifasha abanyeshuri kubona gahunda ninkunga zitangwa ninzego mpuzamahanga zifasha abahanga n’abanyeshuri bato mu kohereza ibyogajuru mu kirere.",
+      "groundStation": "<strong>Gutezimbere sitasiyo:</strong> Nigute wubaka antenne yo kuvugana nurusengero rwa Orbital nizindi satelite."
+    }
+  },
+  "technology": {
+    "heading": "Ikoranabuhanga: Satelite ya PocketQube",
+    "paragraph1": "Abanyeshuri baziga gukorana na satelite <strong>ya PocketQube</strong> , igipimo cya nanosatellite gipima <strong>5cm³</strong> gusa kandi gipima <strong>250g</strong> . Nubunini bwazo, PocketQubes nibikoresho bikomeye bishobora kwitegereza isi, gukurikirana, no gutumanaho.",
+    "paragraph2": "Izi satelite zoroheje zifite ibintu byinshi bifatika bifatika, uhereye ku bushakashatsi bwa siyansi ku bijyanye n’imihindagurikire y’ikirere kugeza ku itumanaho ry’imigabane. Kuberako ari ntoya kandi yoroshye, birashoboka cyane kubaka no gutangiza, bigatuma umwanya ugera kubanyeshuri, abashakashatsi, nabahanzi kwisi yose."
+  },
+  "globalAccess": {
+    "heading": "Kwinjira kwisi yose, Guhera ku majyepfo yepfo",
+    "paragraph1": "Amasomo azaboneka kubantu bose <strong>bafite imyaka 16 cyangwa irenga</strong> , <strong>kubusa</strong> . Dutangirana nibirimo mu <strong>Giporutugali</strong> , <strong>Icyesipanyoli</strong> , <strong>Icyongereza</strong> , na <strong>Hindi</strong> , dufite gahunda yo kwagura izindi ndimi uko gahunda ikura.",
+    "paragraph2": "Inshingano yacu itangirira mu majyepfo yisi yose ikagera no ku isi, tukareba ko ibisekuruza bizaza by'abashakashatsi mu kirere biva mu mpande zose z'isi."
+  },
+  "callToAction": {
+    "heading": "Mudufashe gukora ibi",
+    "content": "Iyi gahunda yuburezi kuri ubu iri mu majyambere. Turashaka abafatanyabikorwa n’abaterankunga dusangiye icyerekezo cyo guharanira demokarasi kugera ku ikoranabuhanga ry’ikirere. Niba wowe cyangwa umuryango wawe wifuza gushyigikira iki gikorwa, nyamuneka sura <a href=\"/support\">urupapuro rwadufasha</a> kugirango umenye amahirwe yubufatanye."
+  },
+  "imageAlt": "Orbital Urusengero Satelite"
+}

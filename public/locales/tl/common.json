@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ang likhang sining",
+    "sendAName": "magpadala ng pangalan",
+    "fromTheArtist": "mula sa artista",
+    "yetAnotherTemple": "pa, isa pang templo?",
+    "howItWorks": "kung paano ito gumagana",
+    "spaceLaunch": "paglulunsad ng espasyo at mga panganib",
+    "briefHistory": "maikling kasaysayan ng sining sa kalawakan",
+    "education": "edukasyon at open source",
+    "sustainability": "sustainability at space debris",
+    "press": "press at media",
+    "team": "pangkat",
+    "partners": "mga kasosyo",
+    "support": "suporta",
+    "technicalInfo": "teknikal na impormasyon"
+  },
+  "ritual": {
+    "label": "ritwal",
+    "ariaLabel": "Ipasok ang ritwal - Magpadala ng pangalan sa Orbital Temple"
+  },
+  "footer": {
+    "credits": "Ang Orbital Temple ay isang likhang sining ni Edson Pavoni, na nilikha sa pakikipagtulungan nina Pedro Kaled, João Pedro Polito, Victor Baptista at João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, at lahat ng patuloy na nagpapadala ng mga pangalan sa templong ito."
+  }
+}

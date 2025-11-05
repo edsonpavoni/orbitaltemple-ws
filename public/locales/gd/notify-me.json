@@ -1,0 +1,13 @@
+{
+  "title": "Cuir fios thugainn - Teampall Orbital",
+  "heading": "Faigh fios nuair a dh’èireas e",
+  "description": "Air 28 Samhain, 2025, thèid Teampall Orbital suas.<br> Fàg do phost-d, agus innsidh sinn dhut cuin a ruigeas e àite.",
+  "form": {
+    "emailPlaceholder": "do@post-d.com",
+    "sendButton": "Cuir",
+    "sendingButton": "A’ cur…",
+    "successMessage": "Ruigidh sinn thu nuair a thèid e suas.",
+    "errorMessage": "Chaidh rudeigin ceàrr. Feuch ris a-rithist."
+  },
+  "backLink": "← Air ais gu cunntadh sìos"
+}

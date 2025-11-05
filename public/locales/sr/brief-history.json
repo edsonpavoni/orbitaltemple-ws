@@ -1,0 +1,77 @@
+{
+  "title": "Кратка историја уметности у свемиру - Орбитални храм",
+  "heading": "Кратка историја уметности у свемиру",
+  "intro": "Од првог успешног лансирања вештачког сателита <strong>1957. године</strong> , преко десет хиљада сателита је дошло у орбиту око Земље. У овој новој ери, уметници су пронашли начин да прошире своју праксу, а свемир је постао нова врста платна. Тиме су се појавила фундаментална питања о политици истраживања свемира - иако још много тога треба да се покрије.",
+  "sections": {
+    "leonov": {
+      "text": "Прво уметничко дело настало у свемиру био је цртеж изласка сунца изнад Земље, који је направио руски астронаут <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Алексеј Леонов</a></strong> док је био на броду Восход 2 <strong>1965.</strong> године.",
+      "caption": "Прво уметничко дело створено у свемиру и оловке које је Алексеј Леонов користио да га нацрта. Фотографија: Музеј Центра за обуку космонаута Јурија Гагарина"
+    },
+    "moonMuseum": {
+      "paragraph1": "Три године касније, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Музеј Месеца</a></strong> , минијатурна керамичка плоча за коју се наводно слетело на Месец са натписима шест најистакнутијих уметника у САД у то време: <strong>Роберта Раушенберга</strong> , <strong>Дејвида Новроса</strong> , <strong>Џона Чемберлена</strong> , <strong>Класа Олденбурга</strong> , <strong>Фореста Мајерса</strong> и <strong>Ендија Ворхола</strong> .",
+      "caption1": "Слика Музеја Месеца из оригиналног чланка Њујорк тајмса. Палац заклања Ворхолов цртеж.",
+      "paragraph2": "Ворхолов провокативни допринос - горе лево - учинио је овај пројекат изазовом за комуникационе медије у то време.",
+      "caption2": "Слика коју је Њујорк тајмс одлучио да објави, са уметничким делом видљивим испод и цртежом Ендија Ворхола у горњем левом углу."
+    },
+    "fallenAstronaut": {
+      "text": "Године <strong>1971</strong> , астронаут Апола 15, <strong>Дејвид Скот</strong> , поставио је на Месец хуманоидну алуминијумску скулптуру мале величине под називом <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Пали астронаут“</a></strong> . Белгијски уметник <strong>Пол ван Хојдонк</strong> је намеравао да овим делом ода почаст астронаутима и космонаутима који су погинули током истраживања свемира.",
+      "caption": "Поглед на спомен-плочу остављену на Месецу на месту слетања Хедли-Апенини."
+    },
+    "pioneerVoyager": {
+      "text": "<strong>Седамдесетих година прошлог века</strong> , и <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Пионирске плоче</a></strong> и <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Војаџер сонде</a></strong> поставиле су нове хоризонте за уметност у свемиру. Носећи златно анодизиране алуминијумске плоче са визуелним порукама са Земље свим другим свемирским путницима који би је могли пронаћи у далекој будућности, приказивале су људски живот у његовим најосновнијим елементима.",
+      "caption": "Плоче са Пионир 10 и 11, ношене у дубоки свемир 1970-их."
+    },
+    "dove": {
+      "text": "Године <strong>1990</strong> , Бразил је оставио свој траг на овој територији са <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , генијалним аматерским сателитом велике поетске моћи. Иако се његов творац није сматрао уметником, то је био дубоко поетски подухват: снимио је дечје гласове који су тражили мир и пренео их више од две хиљаде радио-аматера широм света, трансформишући пионирски CubeSat у колективно звучно дело.",
+      "caption": "DOVE/OSCAR-17, бразилски песнички сателит који преноси дечје гласове за мир, 1990."
+    },
+    "lastPictures": {
+      "text": "Уметник <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Тревор Паглен</a></strong> је <strong>2012. године</strong> лансирао <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Последње слике“</a></strong> , микрогравирани диск који садржи 100 фотографија причвршћених за комуникациони сателит Ехостар XVI у геостационарној орбити. Дизајниран да траје милијарде година, намењен је да надживи људску цивилизацију као археолошки артефакт за далеку будућност.",
+      "caption": "„Последње слике“, микрогравирани диск дизајниран да надживи човечанство, лансиран је 2012. године."
+    },
+    "ulises": {
+      "text": "Године <strong>2015</strong> , <strong>Colectivo Espacial Mexicano</strong> (Мексички свемирски колектив) лансирао је <strong>Ulises I</strong> , наносателит замишљен као концептуална опера под вођством уметника <strong>Хуана Хосеа Дијаза Инфантеа Касасуса</strong> . Сателит је ношен у стратосферу балоном током Сајма књига у Гвадалахари. Дизајниран је да експлодира за отприлике четири сата и спусти се падобраном.",
+      "caption": "Улисес И, концептуална сателитска опера Цолецтиво Еспациал Мекицано."
+    },
+    "artsat": {
+      "text": "Тек <strong>2014. године</strong> лансиран је први чисто уметнички сателит. Пројекат <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> Универзитета у Токију послао је просторне податке на Земљу који су коришћени у уметничким инсталацијама и стварању музике.",
+      "caption1": "Оквир и резервни делови авиона ARTSAT-1 Invader који су остали на Земљи.",
+      "caption2": "мисија [СПЕЦИЈАЛ x УМЕТНОСТ] − изложба „Изван космологија“ одржана у Музеју савремене уметности у Токију"
+    },
+    "kac": {
+      "text": "Бразилски и амерички савремени уметник <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Едуардо Кац</a></strong> допринео је свемирској уметности кроз сарадњу са <strong>НАСА-ом</strong> и <strong>СпејсЕкс-ом</strong> . Његов <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Унутрашњи телескоп“</a></strong> ( <strong>2017</strong> ), креиран са француским астронаутом <strong>Томасом Пескеом</strong> , резултирао је скулптуром направљеном на <strong>Међународној свемирској станици</strong> .",
+      "caption": "Унутрашњи телескоп на Међународној свемирској станици, креиран са француским астронаутом Томасом Пескеом, 2017."
+    },
+    "enoch": {
+      "text": "Године <strong>2018</strong> , пасивни CubeSat, направљен као уметнички пројекат, лансиран је у орбиту. Развијен од стране бахамског концептуалног уметника <strong>Тавареса Страчана</strong> , <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> садржи канопску посуду од 24-каратног злата са бистом првог афроамеричког астронаута, <strong>Роберта Хенрија Лоренса Млађег</strong> .",
+      "caption": "ЕНОХ (изложбена јединица), 2015-2017. ⓒ Таварес Страчан, фотографија ⓒ Музејски сарадници/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Исте године, <strong>Тревор Пагленов „</strong> <strong>Орбитални рефлектор“</strong> је такође представљен као скулптура смештена у нефункционалном КубСату. Дело је био уметнички гест који је имао за циљ да промени начин на који видимо своје место у свету. Није правилно постављено. Иако се никада није отворило како је замишљено, покренуло је важне разговоре и изазвало страствене реакције астронома, научника, медија, едукатора, студената и шире јавности широм света, показујући да успешна уметност не мора бити технички успешна.",
+      "caption": "Дигитални приказ орбиталног рефлектора, 2018."
+    },
+    "others": {
+      "text": "Многи други уметници су допринели области свемирске уметности, сваки од њих доносећи јединствене перспективе у своја истраживања. Значајни пројекти укључују истраживање уметника астронаута <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Саре Џејн Пел</a></strong> које истражује људске перформансе у екстремним окружењима; пројекат <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Агнес Мејер-Брандис „</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Аналогија за гуску на Месецу“</a></strong> који испитује историјске и савремене наративе о истраживању свемира; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Нахумов</a></strong> програм <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„АстроАртс“</a></strong> који олакшава уметничке експерименте микрогравитације; и скулптуру <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Космички плесач“</a></strong> <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Артура Вудса</a></strong> , прву скулптуру изложену у свемиру на станици Мир 1993. године."
+    },
+    "orbitalTemple": {
+      "text": "Године <strong>2025</strong> , након 4 године истраживања и развоја, бразилски уметник <strong>Едсон Павони</strong> и мултидисциплинарна група сарадника лансираће <strong>Орбитални храм</strong> , партиципативни уметнички сателит који позива све у свету да пошаљу имена у орбиту, стварајући радикално инклузиван споменик ван граница.",
+      "caption": "Орбитални храм на бијеналу Меркосул. Фото: Цлара Маркуес"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Цртеж и оловке Алексеја Леонова",
+    "moonMuseum": "Керамичка вафла Музеја Месеца",
+    "moonMuseumWarhol": "Керамичка вафла Музеја Месеца са свим уметничким делима",
+    "fallenAstronaut": "Споменик палим астронаутима на Месецу",
+    "pioneerPlaques": "Пионирске плоче",
+    "dove": "Сателит WHERE/OSCAR-17",
+    "lastPictures": "Диск „Последње слике“",
+    "ulises": "Сателит Улисес I",
+    "artsatInvader": "Структура сателита ARTSAT-1 Invader",
+    "artsatArt": "Уметничко дело креирано на основу података ARTSAT-1",
+    "innerTelescope": "Едуардов Кацов унутрашњи телескоп",
+    "enoch": "Енохова изложбена јединица Тавареса Страчана",
+    "orbitalReflector": "Орбитални рефлектор Тревора Паглена",
+    "orbitalTemple": "Орбитални храмов сателит"
+  }
+}

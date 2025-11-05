@@ -1,0 +1,16 @@
+{
+  "title": "Geimskot - Orbital Temple",
+  "heading": "Geimskot",
+  "intro": "Áætlað er að Orbital Temple verði skotið á loft með PSLV (Polar Satellite Launch Vehicle) þann 28. nóvember 2025 frá Satish Dhawan geimstöðinni í Sriharikota á Indlandi.",
+  "partnership": "Geimferðin til Orbital Temple er samstarfsverkefni NewSpace India Limited (NSIL), fyrirtækis í eigu indverska ríkisstjórnarinnar sem heyrir undir geimferðamálaráðuneytið, Antrix Corporation og listamannsins. Þetta samstarf markar mikilvægan tíma fyrir list í geimkönnun og sameinar geimáætlun Indlands við listræna sýn um róttæka aðgengileika.",
+  "risks": {
+    "heading": "Áhætta",
+    "paragraph1": "Gervihnötturinn var smíðaður til að þola mikla titring og hitasveiflur og hefur gengist undir strangar prófanir. Hins vegar fylgja geimskotum áhættur. Ef gervihnötturinn skemmist við skot eða dreifingu, eða ef hann nær ekki sambandi við jarðstöðvar okkar, munum við vinna að því að leysa öll vandamál. Gervihnötturinn er með afritunarkerfi og varaafritareglur sem eru hannaðar til að hámarka líkur á að verkefnið takist.",
+    "paragraph2": "Að auki gæti gervihnötturinn verið á braut um jörðu í minna en 10 ár ef lofthjúpsaðstæður eða aðrir þættir valda fyrri hnignun brautarinnar. Þó að við höfum hannað hann til að endast í að minnsta kosti áratug, þá er raunverulegur líftími hans háður aðstæðum sem við höfum ekki fulla stjórn á.",
+    "paragraph3": "Ef fyrsta geimskotið mistekst, eða ef okkur tekst ekki að klára þetta verkefni eins og til stóð, munum við kanna aðrar leiðir fram á við, hugsanlega þar á meðal aðra tilraun til geimskots með tiltækum fjárhagsáætlun, samstarf við önnur verkefni eða skjalfestingu á tilrauninni sem hluta af frásögn listaverksins um markmið og takmarkanir."
+  },
+  "imageAlts": {
+    "india": "Geimstöð ISRO, Indlandi",
+    "satellite": "Orbital Temple gervihnöttur"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Oideachas & Foinse Oscailte - Teampall Fithiseach",
+  "heading": "Oideachas & Foinse Oscailte",
+  "intro": {
+    "paragraph1": "Beidh an teicneolaíocht uile a fhorbrófar do mhisean Theampall Orbital <strong>foinse oscailte</strong> agus ar fáil ar líne i <strong>bPortaingéilis</strong> , <strong>i mBéarla</strong> , <strong>i Spáinnis</strong> agus <strong>i Hiondúis</strong> , rud a chothóidh dul chun cinn taiscéalaíochta spáis i <strong>nDeisceart an Domhain</strong> . Is féidir le misin agus tionscadail nua Theampall Orbital a úsáid mar bhunús dá dturgnaimh ealaíonta nó eolaíocha féin.",
+    "paragraph2": "Mar chuid dá mhisean oideachais, cuirfidh Orbital Temple cúrsa ilteangach saor in aisce ar fáil ar conas satailít a thógáil agus a sheoladh. Beidh sé ina dheis phraiticiúil chun foghlaim faoi theicneolaíocht satailíte agus í a chur i bhfeidhm. Beidh aon duine os cionn <strong>16</strong> bliana d&#39;aois in ann a satailít féin a thógáil, ag foghlaim faoi stair na healaíne sa spás, coincheapa bunúsacha na leictreonaice, na meicnice agus na heolaíochta spáis, lena n-áirítear conas tionscadail a mhaoiniú agus conas antenna a thógáil chun cumarsáid a dhéanamh le satailítí i bhfithis."
+  },
+  "spaceGap": {
+    "heading": "Cén Fáth go bhfuil sé seo Tábhachtach: An Bhearna Spáis",
+    "paragraph1": "Tagraíonn an téarma <strong>&quot;Bearna Spáis&quot;</strong> don deighilt idir náisiúin fhorbartha ar féidir leo rochtain a fháil ar na deiseanna teicneolaíochta a fhaightear trí thaiscéalaíocht spáis, agus náisiúin i mbéal forbartha nach bhfuil rochtain acu ar na teicneolaíochtaí seo. Caithfidh tíortha i nDeisceart an Domhain suimeanna suntasacha a íoc le rialtais nó cuideachtaí eachtracha le haghaidh rochtain bhunúsach ar fhaisnéis a tháirgeann teicneolaíochtaí satailíte.",
+    "paragraph2": "Cuireann teicneolaíocht spáis buntáistí ríthábhachtacha ar fáil: cuidíonn satailítí le dul i ngleic le logáil neamhdhleathach, iascaireacht neamhdhleathach, agus trádáil neamhdhleathach fiadhúlra, arb ionann iad agus níos mó ná <strong>$73 billiún in aghaidh na bliana</strong> . Soláthraíonn siad faisnéis riachtanach faoin aeráid, táirgeadh uisce, agus slándáil bia. Cumasaíonn satailítí teicnící uisciúcháin agus talmhaíochta beachta, agus cuidíonn siad le tubaistí nádúrtha a chosc. D’fhéadfadh an tionscal spáis suas le <strong>1 mhilliún post</strong> a chruthú faoi <strong>2030</strong> , ach fós féin níl na deiseanna seo inrochtana ag go leor i nDeisceart an Domhain.",
+    "paragraph3": "Trí theicneolaíocht agus oideachas foinse oscailte a sholáthar, tá sé mar aidhm againn rochtain ar an spás a dhaonlathú agus glúin nua a chumhachtú chun brionglóidí níos faide ná an spéir."
+  },
+  "empowering": {
+    "heading": "Cumhachtú na Glúine Eile",
+    "intro": "Múinfimid don chéad ghlúin eile taiscéalaithe spáis conas a satailítí féin a thógáil agus a sheoladh, ag clúdach topaicí riachtanacha lena n-áirítear:",
+    "topics": {
+      "history": "<strong>Stair na healaíne sa spás:</strong> Tuiscint a fháil ar shliocht na satailítí ealaíne agus na saothar ealaíne atá bunaithe sa spás.",
+      "concepts": "<strong>Coincheapa lárnacha:</strong> <strong>ArtSat</strong> (satailítí ealaíonta), teicneolaíocht spáis <strong>Foinse Oscailte</strong> , agus an <strong>Bhearna Spáis</strong> .",
+      "missions": "<strong>Misin spáis:</strong> Conas misean a cheapadh agus a dhearadh, agus conas foireann a bhunú chun é a chur i gcrích.",
+      "electronics": "<strong>Leictreonaic sa spás:</strong> coincheapa bunúsacha maidir le comhpháirteanna leictreonacha ar féidir leo maireachtáil agus feidhmiú sa timpeallacht spáis.",
+      "mechanics": "<strong>Meicnic sa spás:</strong> Tuiscint a fháil ar na ceanglais struchtúracha agus meicniúla maidir le dearadh satailíte.",
+      "orbits": "<strong>Fithisí agus lainseálaithe:</strong> Cineálacha éagsúla fithisí agus conas soláthraithe lainseála a roghnú do do mhisean.",
+      "financing": "<strong>Straitéisí maoinithe:</strong> Conas maoiniú agus acmhainní a fháil chun do shatailít a sheoladh. Cuirfidh an cúrsa acmhainní ar fáil chun maoiniú a fháil do do lainseáil, ag cabhrú le mic léinn cláir agus deontais a aimsiú ó institiúidí idirnáisiúnta a thacaíonn le heolaithe óga agus mic léinn a satailítí a sheoladh isteach sa spás.",
+      "groundStation": "<strong>Forbairt stáisiún talún:</strong> Conas antenna a thógáil chun cumarsáid a dhéanamh leis an Teampall Fithiseach agus le satailítí eile."
+    }
+  },
+  "technology": {
+    "heading": "An Teicneolaíocht: Satailítí PocketQube",
+    "paragraph1": "Foghlaimeoidh na daltaí conas oibriú le satailítí <strong>PocketQube</strong> , caighdeán nana-shatailíte nach dtomhaiseann ach <strong>5cm³</strong> agus a mheáchan suas le <strong>250g</strong> . In ainneoin a méide beag, is uirlisí cumhachtacha iad PocketQubes atá in ann breathnú ar an Domhan, monatóireacht a dhéanamh air agus cumarsáid a dhéanamh leis.",
+    "paragraph2": "Tá go leor feidhmeanna ag na satailítí dlútha seo sa saol réadúil, ó thaighde eolaíoch ar an athrú aeráide go cumarsáid idir-ilchríochach. Ós rud é go bhfuil siad níos lú agus níos éadroime, tá siad níos inacmhainne a thógáil agus a sheoladh, rud a fhágann go bhfuil an spás níos inrochtana do mhic léinn, do thaighdeoirí agus d’ealaíontóirí ar fud an domhain."
+  },
+  "globalAccess": {
+    "heading": "Rochtain Dhomhanda, ag tosú ón Deisceart Domhanda",
+    "paragraph1": "Beidh an cúrsa ar fáil do dhuine ar bith <strong>atá 16 bliana d&#39;aois nó níos sine</strong> , go hiomlán <strong>saor in aisce</strong> . Táimid ag tosú le hábhar i <strong>bPortaingéilis</strong> , <strong>i Spáinnis</strong> , <strong>i mBéarla</strong> agus <strong>i Hiondúis</strong> , agus tá sé beartaithe againn é a leathnú chuig teangacha breise de réir mar a fhásann an clár.",
+    "paragraph2": "Tosaíonn ár misean sa Deisceart Domhanda agus síneann sé amach ar fud an domhain, ag cinntiú go dtiocfaidh an chéad ghlúin eile taiscéalaithe spáis ó gach cearn den Domhan."
+  },
+  "callToAction": {
+    "heading": "Cabhraigh Linn Seo a Chur i gCríoch",
+    "content": "Tá an clár oideachais seo á fhorbairt faoi láthair. Táimid ag lorg comhpháirtithe agus deontóirí a roinneann ár bhfís maidir le rochtain ar theicneolaíocht spáis a dhaonlathú. Más mian leatsa nó le d’eagraíocht tacú leis an tionscnamh seo, tabhair cuairt ar ár <a href=\"/support\">leathanach tacaíochta</a> le tuilleadh eolais a fháil faoi dheiseanna comhpháirtíochta."
+  },
+  "imageAlt": "Satailít Teampaill Fithiseach"
+}

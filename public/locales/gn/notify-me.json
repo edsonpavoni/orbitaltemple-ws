@@ -1,0 +1,13 @@
+{
+  "title": "Oñemomarandu - Templo Orbital",
+  "heading": "Oñemomarandu Opu'ãvo",
+  "description": "Ára 28 jasyporundy ary 2025-pe ojupíta Tupao Orbital.<br> Eheja nde correo electrónico, ha romombe’úta ndéve og̃uahẽvo espacio-pe.",
+  "form": {
+    "emailPlaceholder": "nde@email.com-pe",
+    "sendButton": "Rahauka",
+    "sendingButton": "Omondovo...",
+    "successMessage": "Roguahẽta peẽme ojupi vove.",
+    "errorMessage": "Oĩ mba’e oho vaíva. Eñeha’ã jey."
+  },
+  "backLink": "← Ojevy jey cuenta regresiva-pe"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Cinezela kunye neMedia-Itempile ye-Orbital",
+  "heading": "Cofa kunye nemidiya",
+  "pressContact": {
+    "heading": "Cofa Qhagamshelana",
+    "content": "Ngemibuzo yeendaba, udliwano-ndlebe, kunye nezicelo zemidiya:<br /> <strong>I-imeyile:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Iwebhusayithi:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Malunga neProjekthi",
+    "paragraph1": "ITempile ye-Orbital ngumsebenzi wobugcisa kunye nesathelayithi ejolise ekubeni yitempile ebandakanyayo, eyakhiwe apho kungekho ludonga lunokufikelela khona. Iyilwe ligcisa laseBrazil u-Edson Pavoni, igcisa elisemva kweSikhumbuzo i-Inumeráveis elifikelele kwi-1 kwaba-6 abantu baseBrazil ngexesha lobhubhani we-COVID, le projekthi imema abantu abavela kwihlabathi liphela ukuba bathumele igama lomntu abanqwenela ukumkhumbula. La magama athunyelwa kwisathelayithi kwi-orbit, edala isikhumbuzo esihlangeneyo.",
+    "paragraph2": "Ngewebhusayithi efumaneka ngeelwimi ezingama-136, abathathi-nxaxheba babandakanyeka kuhlobo olutsha lwesiko. ITempile ye-Orbital iphonononga imixholo yokubandakanywa, inkumbulo, kunye nobuntu bethu ekwabelwana ngabo, sibuza ukuba kutheni kungekho tempile yasemzimbeni eMhlabeni enokwamkela wonke umntu ngokwenyani, kwaye iphakamisa indawo njengendawo ekukuphela kwayo apho ubandakanyo lunokubakho."
+  },
+  "aboutArtist": {
+    "heading": "Malunga noMzobi",
+    "paragraph1": "<strong>U-Edson Pavoni</strong> ligcisa laseBrazil uhambo lwakhe lwaqala kwizitrato zaseSão Paulo, apho imeko yentlupheko kunye nobundlobongela yabumba iminyaka yakhe yokuqala. Kwilizwe apho ubuKristu bunikela indlela ekude nezitrato, iziyobisi nogonyamelo, uPavoni wafumana ikhusi elukholweni, umxholo owawuya kuthi kamva, xa waba ngumgxeki wokuxhatshazwa konqulo, abonise uqheliselo lwakhe lobugcisa.",
+    "paragraph2": "Ngo-2020, ngexesha lobhubhani we-COVID-19, uPavoni wenza <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">i-Inumeráveis (engenakubalwa)</a></strong> , umsebenzi wobugcisa ekudibaneni kobugcisa kunye nobuntatheli. Le projekthi yenza udliwano-ndlebe namawaka eentsapho kwaye yabhala amabali abo baphulukene nobhubhane, idala indawo apho inkumbulo idlula amanani kunye namanani. Imibongo, iingoma kunye neesimphoni zenziwa ngaloo mabali. Amaphephandaba enza amaqweqwe esebenzisa amagama neembali. Zonke iinkwenkwezi zaseBrazil ezifana no-Oscar ophumeleleyo uFernanda Torres, kunye neenkwenkwezi ezifana noSelton Melo, u-Eva Wilma, uCamila Pitanga, uDebora Secco, uTais Araujo noLazaro Ramos, kunye nabanye abaninzi bafunda loo mabali kumabonwakude kazwelonke. Le projekthi ifikelele kubantu abazizigidi ezingama-32, umntu omnye kwabane baseBrazil. Yaba luthungelwano lokuphilisa, isikhumbuzo esidityanelweyo kwinkumbulo.",
+    "paragraph3": "Emva kweencoko ezingaphezu kwamawaka alishumi ngentlungu, kwavela umzekelo: xa sithetha ngomntu ofileyo, sikhetha iziqwenga zebali labo ngokungathi sibhalela umlindi wesango leparadesi ileta. Senza konke okusemandleni ethu ukubathumela koko sikholelwa ukuba lizulu. Lo msebenzi ubangele ukuqonda okutsha: Iinkolelo zethu malunga nokuba ngubani ofanelwe yizulu zibumba ngokuthe ngqo ukuba simamkele okanye singabandakanyi eMhlabeni. Amakoloniyali angamaPhuthukezi eBrazil ayekholelwa ukuba abantu abaMnyama babengenayo imiphefumlo; loo nkolelo yayibuthethelela ubukhoboka. Ukuba wawungowomthonyama, ukuba wazalelwa kwindawo engalunganga okanye umthanda umntu ongalunganga, kusaxelelwa ukuba iingcango zezulu zivaliwe kuwe unanamhla. Ngaba kukho umbono wekamva ongazaliswanga kukugatywa?",
+    "paragraph4": "Yazalwa ngaloo ndlela ke iTempile yeOrbital."
+  },
+  "keyFacts": {
+    "heading": "Iinyaniso eziphambili",
+    "artist": "<strong>Umculi:</strong> Edson Pavoni (eBrazil)",
+    "projectType": "<strong>Uhlobo lweProjekthi:</strong> Umsebenzi wobugcisa wesathelayithi, indawo ethile kwindawo, isiko esekwe kwiwebhu",
+    "launchDate": "<strong>Umhla wokuqaliswa:</strong> ngoNovemba 28, 2025",
+    "launchLocation": "<strong>Indawo yokuQaliswa:</strong> Iziko leSithuba leSatish Dhawan, eSriharikota, eIndiya (ISRO)",
+    "satellite": "<strong>Isathelayithi:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>I-Orbit:</strong> 525km ukuphakama, i-Sun-synchronous",
+    "participation": "<strong>Inxaxheba:</strong> Isimahla, ivulekele wonke umntu kwihlabathi liphela",
+    "namesSent": {
+      "heading": "<strong>Amagama athunyelwe kwi-Orbit:</strong>",
+      "caption": "<em>Ubalo olukhoyo luhlaziywe kuvimba weenkcukacha • Igqityelwe ukuhlaziywa: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Amabhaso kunye nokuWona",
+    "mercosul": {
+      "title": "<strong>13th Mercosur Biennial</strong> (2022)",
+      "location": "IPorto Alegre, eBrazil",
+      "curator": "Igcinwe nguMarcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Ibhaso leLumen 2022-Ibhaso leFutures</strong>",
+      "status": "Uluhlu olude"
+    },
+    "cubeDesign": {
+      "title": "<strong>Ukhuphiswano lweCubeDesign 2021</strong>",
+      "award": "Ophumeleleyo-Udidi lwe-ArtSat",
+      "org": "Ikhuthazwa yiBrazilian Institute of Space Research (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Iqela",
+    "content": "Itempile ye-Orbital idalwe ngokubambisana noSathi Roy, uPedro Kaled, uJoão Pedro Polito, uVictor Baptista, uJoão Victor Alves, uAndré Biagioni, uVK, uJonathan Querubina, uGuilherme Bullejos, uEduardo Dias, uRoberta Savian Rosa, uClara Marques, uDaphne Alves, uFlavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, nabo bonke abo baqhubeka nokucebisa amagama ale tempile."
+  },
+  "pressCoverage": {
+    "heading": "Ibonakaliswe ngaphakathi / Cinezela uFundo",
+    "paragraph1": "<em>Inkcazo yeendaba kunye neempawu ziya kongezwa njengoko zifumaneka. Ngohlaziyo lwamva nje, nceda uqhagamshelane neqela lethu leendaba.</em>",
+    "paragraph2": "Imiboniso yangaphambili kunye neempawu ziquka iintetho kwi-13th Mercosul Bienal, ukuqatshelwa kwi-Lumen Prize, kunye nokukhethwa yi-Brazilian Institute of Space Research (INPE)."
+  },
+  "images": {
+    "heading": "Imifanekiso eneSisombululo esiPhezulu sokuSebenzisa iCofa",
+    "intro": "Yonke imifanekiso iyafumaneka ukuze isetyenziswe ngohlelo. Cofa nawuphi na umfanekiso ukukhuphela ifayile enesisombululo esiphezulu.",
+    "installationPhotos": {
+      "heading": "Iifoto zeTempile ye-Orbital",
+      "credit": "Nceda ikhredithi: \"Ifoto nguClara Marques / Ngenkxaso ka-Edson Pavoni, i-Orbital Temple\"",
+      "view01": "Ujongo loFakelo 01<br /> Ifoto: Clara Marques<br /> ↓ Khuphela i-High-Res (1.4 MB)",
+      "view02": "Ujongo loFakelo 02<br /> Ifoto: Clara Marques<br /> ↓ Khuphela IiRes eziPhezulu (2.9 MB)",
+      "view03": "Ujongo loFakelo 03<br /> Ifoto: Clara Marques<br /> ↓ Khuphela IiRes eziPhezulu (11 MB)",
+      "view04": "Ujongo loFakelo 04<br /> Ifoto: Clara Marques<br /> ↓ Khuphela IiRes eziPhezulu (3.4 MB)",
+      "view05": "Ujongo loFakelo 05<br /> Ifoto: Clara Marques<br /> ↓ Khuphela IiRes eziPhezulu (3.3 MB)",
+      "view06": "Ujongo loFakelo 06<br /> Ifoto: Clara Marques<br /> ↓ Khuphela IiRes eziPhezulu (3.7 MB)",
+      "view07": "Ujongo loFakelo 07<br /> Ifoto: Clara Marques<br /> ↓ Khuphela IiRes eziPhezulu (3.4 MB)",
+      "view08": "Ujongo loFakelo 08<br /> Ifoto: Clara Marques<br /> ↓ Khuphela IiRes eziPhezulu (2.7 MB)",
+      "satelliteDesign": "Uyilo lweSathelayithi<br /> ↓ Khuphela",
+      "antennaSculpture": "I-Antenna / Umfanekiso oqingqiweyo<br /> ↓ Khuphela"
+    },
+    "renders": {
+      "heading": "Orbital Temple Renders",
+      "credit": "Ingqikelelo ye-3D yonikezelo lweTempile ye-Orbital. Nceda ikhredithi: \"I-3D Rendering yiRiseNY&Partners / Courtesy of Edson Pavoni, Orbital Temple\"",
+      "render01": "Unikezelo lwe-3D 01<br /> RiseNY&amp;Amaqabane<br /> ↓ Khuphela IiRes eziPhezulu (10 MB)",
+      "render02": "Unikezelo lwe-3D 02<br /> RiseNY&amp;Amaqabane<br /> ↓ Khuphela IiRes eziPhezulu (5.9 MB)",
+      "render03": "Unikezelo lwe-3D 03<br /> RiseNY&amp;Amaqabane<br /> ↓ Khuphela iiRes eziPhezulu (5.2 MB)",
+      "render04": "Unikezelo lwe-3D 04<br /> RiseNY&amp;Amaqabane<br /> ↓ Khuphela IiRes eziPhezulu (11 MB)",
+      "render05": "Unikezelo lwe-3D 05<br /> RiseNY&amp;Amaqabane<br /> ↓ Khuphela iiRes eziPhezulu (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Iifoto zegcisa",
+      "photo1": "Ifoto 1<br /> ↓ Khuphela iiRes eziPhezulu",
+      "photo2": "Ifoto 2<br /> ↓ Khuphela iiRes eziPhezulu"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy Iifoto",
+      "photo1": "Ifoto 1<br /> ↓ Khuphela i-High-Res (843 KB)",
+      "photo2": "Ifoto yesi-2<br /> ↓ Khuphela IiRes eziPhezulu (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Iinkcazo zobuGcisa",
+    "satellite": {
+      "heading": "Isathelayithi",
+      "dimensions": "Imilinganiselo: 50 x 58 x 64 mm",
+      "classification": "Ukuhlelwa: 1P PocketQube",
+      "weight": "Ubunzima: 245g",
+      "materials": "Izixhobo: iAluminiyam, igolide, i-fiberglass, izinto ze-elektroniki",
+      "orbit": "I-Orbit: Ubude be-525 ± 25 km; Ukuthambekela: SSO 97.6 ± 0.1 °",
+      "launch": "Ukuphehlelelwa: ngoNovemba 28, 2025 nge-ISRO, eIndiya"
+    },
+    "antenna": {
+      "heading": "I-Antenna / Umfanekiso oqingqiweyo",
+      "dimensions": "Imilinganiselo: 6m ububanzi x 1.2m ubude",
+      "weight": "Ubunzima: 46 kg",
+      "materials": "Izixhobo: I-aluminiyam, ibhodi ye-epoxy yesipili, idome ye-aluminiyam yegolide exhonywe kwisakhiwo se-scaffolding"
+    },
+    "radio": {
+      "heading": "IiNkcazo zerediyo",
+      "downlink": "Ikhonkco elisezantsi: 437 MHz",
+      "status": "Imo yoMphehlelelo: Icwangciselwe umhla wama-28 kaNovemba ngo-2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Izibonelelo ezongezelelweyo",
+    "artwork": "→ Jonga uxwebhu loMzobo",
+    "howItWorks": "→ Indlela Esebenza Ngayo",
+    "technicalInfo": "→ Ulwazi lobuGcisa",
+    "spaceLaunch": "→ Ulwazi lokuQaliswa kweSithuba",
+    "ritual": "→ Yiba namava eSiko"
+  },
+  "imageAlts": {
+    "installation": "UFakelo lweTempile ye-Orbital ngu-Edson Pavoni",
+    "satelliteDesign": "Uyilo lweSatellite yeTempile yeOrbital",
+    "antenna": "Umfanekiso weAntenna yeTempile yeOrbital",
+    "render": "ITempile ye-Orbital iNguqulelo ye-3D yiRiseNY&Amaqabane",
+    "edsonPortrait": "Edson Pavoni Umfanekiso",
+    "sathiPortrait": "Umfanekiso kaSathi Roy",
+    "lumenPrize": "Lumen ibhaso",
+    "mercosulBienal": "I-Mercosur Biennial"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Vepra Artistike - Tempulli Orbital",
+  "heading": "Vepra Artistike",
+  "intro": {
+    "paragraph1": "Tempulli Orbital është një satelit me një mision artistik: një memorial në hapësirën e jashtme i hapur për çdo qenie të ndjeshme që jeton ose ka jetuar në Tokë.",
+    "paragraph2": "Përmes mjeteve teknologjike, kushdo mund të dërgojë emrin e dikujt në Tempull, qoftë dikë që ka ndërruar jetë, një person që është ende gjallë, apo çdo qenie që meriton të mbahet mend."
+  },
+  "sculpture": {
+    "heading": "Skulptura",
+    "paragraph1": "Vepra artistike ka tre elementë të ndërvarur: një satelit të projektuar posaçërisht për të ruajtur miliarda emra; një skulpturë publike që shkëmben informacione me satelitin; dhe një faqe interneti përmes së cilës pjesëmarrësit i dërgojnë emrat në parajsë, nga tani e deri në vdekjen e tyre.",
+    "paragraph2": "Si një sipërmarrje shumëdisiplinore, Orbital Temple mund të konsiderohet si një skulpturë specifike për vendin, që banon në hapësirë. Është gjithashtu një projekt i Artsat."
+  },
+  "antenna": {
+    "heading": "Antena si një skulpturë publike",
+    "paragraph1": "Një antenë që na lidh me hapësirën e jashtme.",
+    "paragraph2": "Po projektohet një antenë që do të jetë në komunikim të drejtpërdrejtë me satelitin orbital.",
+    "paragraph3": "Me një sipërfaqe reflektuese të artë, që pasqyron qiellin sipër saj, është një pikënisje për stimulimin masiv (ose marrëdhënien tonë me atë që është 'atje lart').",
+    "paragraph4": "Ndërsa skulpturat nuk janë instaluar në shumicën e pjesëve të botës, Kornizat tona nga Toka, të cilat aktualisht po kontrollojnë satelitin, po dërgojnë emrat në çdo kalim.",
+    "paragraph5": "Ndihmoni ta sillni këtë vizion në qytetin tuaj - instaloni skulptura antenash që frymëzojnë biseda rreth eksplorimit të hapësirës, artit dhe vendit tonë të përbashkët në kozmos. <a href=\"/support\">Mësoni më shumë rreth mbështetjes së projektit</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Sateliti Orbital Temple",
+    "riseNy": "Tempulli Orbital në Rise NY",
+    "installation": "Tempulli Orbital nga Clara Marques",
+    "antenna": "Antena Orbitale e Tempullit"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempulli Orbital në hapësirë. Renderim 3D nga RiseNY&Partners.",
+    "mercosul": "Instalimi i Tempullit Orbital në Bienalen Mercosul, në Porto Alegre, Brazil.<br> Foto nga Clara Marques."
+  }
+}

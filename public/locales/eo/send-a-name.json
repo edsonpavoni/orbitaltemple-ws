@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "dum vi eniras\nriton\nsendi nomon\nen la\norbitan templon\nen la kosmo\nprenu\nenspiron",
+    "button": "mi estas preta"
+  },
+  "nameInput": {
+    "title": "tajpu nomon",
+    "subtitle": "ĝi leviĝos al la Orbita Templo en la kosmo.",
+    "placeholder": "nomo",
+    "button": "lasu ĝin supreniri"
+  },
+  "emailInput": {
+    "title": "tajpu vian retpoŝtadreson",
+    "subtitle": "do vi ricevas mesaĝon kiam la nomo supreniras.",
+    "placeholder": "via retpoŝto",
+    "button": "ĝi estas farita"
+  },
+  "loading": {
+    "alt": "Ŝarĝante"
+  },
+  "success": {
+    "text": "la nomo\n{{name}}\nnun estas atendata\npor ĉieliro.\nkiam la\ntemplo en la kosmo\nakordigos, kun\nnia anteno\nsur la Tero\nni sendos\nla nomon\nkaj vi ricevos\nmesaĝon."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Agahdar Bibe - Perestgeha Orbital",
+  "heading": "Dema ku ew radibe agahdar bibin",
+  "description": "Di 28ê Mijdara 2025an de, Perestgeha Orbital dê hilkişe.<br> E-nameya xwe bihêle, û em ê ji te re bêjin kengê ew bigihîje fezayê.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Şandin",
+    "sendingButton": "Dişîne...",
+    "successMessage": "Dema ew hilkişe em ê bigihîjin te.",
+    "errorMessage": "Tiştek xelet çû. Ji kerema xwe dîsa biceribînin."
+  },
+  "backLink": "← Vegere bo jimartina paşve"
+}

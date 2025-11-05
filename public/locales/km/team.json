@@ -1,0 +1,61 @@
+{
+  "title": "ក្រុម - ប្រាសាទគន្លង",
+  "heading": "ក្រុម",
+  "artist": "Edson Pavoni, សិល្បករ",
+  "roles": {
+    "executiveProducer": {
+      "heading": "ផលិតករប្រតិបត្តិ",
+      "members": "សាធីរ៉យ"
+    },
+    "aerospace": {
+      "heading": "អវកាស និងប្រព័ន្ធវិស្វកម្ម",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista និង João Victor Alves"
+    },
+    "electronic": {
+      "heading": "វិស្វកម្មអេឡិចត្រូនិច",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "កម្មវិធី",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "រចនា និងស្ថាបត្យកម្ម",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "ការបោះពុម្ព 3D",
+      "members": "គោលគំនិតរឹងមាំ ក្រោមការដឹកនាំរបស់ Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "ការបង្ហាញ 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "ស្រាវជ្រាវ",
+      "members": "Roberta Savian Rosa និង Clara Marques"
+    },
+    "exhibition": {
+      "heading": "ការផលិតពិព័រណ៍ ការថតរូប និងការបង្កើតខ្លឹមសារ",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "ការបញ្ចាំងសូត្ររបស់ពិព័រណ៍",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "គម្រោងអប់រំ",
+      "members": "លំហគំនិត"
+    },
+    "communication": {
+      "heading": "ក្រុមទំនាក់ទំនង",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "សូមអរគុណជាពិសេស",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, និង Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavioz Vidimegalister Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "ផ្កាយរណបប្រាសាទគន្លង"
+}

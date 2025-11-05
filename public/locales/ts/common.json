@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ntirho wa vutshila",
+    "sendAName": "rhumela vito",
+    "fromTheArtist": "ku suka eka mutshila",
+    "yetAnotherTemple": "kambe, tempele yin’wana?",
+    "howItWorks": "ndlela leyi swi tirhaka ha yona",
+    "spaceLaunch": "ku rhumeriwa exibakabakeni na makhombo",
+    "briefHistory": "matimu yo koma ya vutshila exibakabakeni",
+    "education": "dyondzo & xihlovo lexi pfulekeke",
+    "sustainability": "ku kondletela na swilo leswi nga sala swa le xibakabakeni",
+    "press": "vuhangalasi bya mahungu & vuhangalasi bya mahungu",
+    "team": "xipanu",
+    "partners": "vatirhisani",
+    "support": "nseketelo",
+    "technicalInfo": "vuxokoxoko bya xithekiniki"
+  },
+  "ritual": {
+    "label": "nkhuvo",
+    "ariaLabel": "Nghena eka nkhuvo - Rhumela vito eka Tempele ya Orbital"
+  },
+  "footer": {
+    "credits": "Tempele ya Orbital i ntirho wa vutshila hi Edson Pavoni, lowu endliweke hi ku tirhisana na Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, na hinkwavo lava yaka emahlweni va rhumela mavito eka tempele leyi."
+  }
+}

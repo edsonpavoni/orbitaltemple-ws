@@ -1,0 +1,50 @@
+{
+  "title": "Abafatanyabikorwa - Urusengero rwa Orbital",
+  "heading": "Abafatanyabikorwa",
+  "intro": "Urusengero rwa Orbital rubaho kubuntu, ubuhanga, nicyerekezo cyabafatanyabikorwa badasanzwe. Kuva kuri satelite yubuhanga kugeza mubukorikori, kuva gufungura imiryango mubihugu bya kure kugeza guta inzozi muri zahabu, buri bufatanye butuma uru rusengero rwegera inyenyeri.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY & Abafatanyabikorwa",
+      "description": "Itumanaho, ubunararibonye hamwe nibintu bitangaje bya 3D bitanga amashusho yazanye icyerekezo cya satelite mubuzima mbere yuko ikora ku cyuho cyumwanya."
+    },
+    "highestMantra": {
+      "name": "Mantra Yisumbuye",
+      "description": "Bayobowe na Sathi Roy, uhuza urusengero rwa Orbital n’imiryango yo mu mwuka n’ubuhanzi. Gufungura inzira zo gukusanya inkunga, guhanahana umuco, no kwerekana imurikagurisha rya Art Basel nyuma yo gutangira Ugushyingo 2025."
+    },
+    "allToSpace": {
+      "name": "Byose Kuri Umwanya",
+      "description": "Inzobere ntoya ya Berezile. Imyaka ine yubufatanye yubaka isoko ifunguye ibyuma byububiko no gutangiza inzira yo kohereza ibihangano muri orbit kuva muri Global y'Amajyepfo."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Umuryango w’ubushakashatsi mu kirere. Gutangiza ibikorwa byubutumwa bwa PSLV butwara Urusengero rwa Orbital kurizuba-rukomatanya izuba mu Gushyingo 2025."
+    },
+    "mercosul": {
+      "name": "Imyaka ibiri ya Mercosur",
+      "description": "Porto Alegre, Burezili. Byakosowe na Marcello Dantas hamwe nabashinzwe gukurikirana amasomo Laura Cattani, Munir Klamt, Tarsila Riso, na Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Amahugurwa ya ArtSat",
+      "description": "Itsinda rishinzwe iterambere rya satelite ryashinzwe mugihe cya II ArtSat. Byahujwe na Fabiane M. Borges, bigishwa na Lázaro Camargo, bafatanije na Ítalo Pinto Rodrigues, bayobowe na Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Ibitekerezo bikomeye",
+      "description": "Bayobowe na Eduardo Dias. Icapiro rya 3D hamwe na micro ya casting ikora kumashusho yububiko, ihindura inzozi za digitale mubyukuri byuma."
+    },
+    "ideaSpace": {
+      "name": "Umwanya w'igitekerezo",
+      "description": "Gutangira uburezi bwa Berezile butegura integanyanyigisho za gahunda ya Quebrada, yiteguye gukoreshwa kubanyeshuri bo mumashuri yisumbuye muri Berezile."
+    }
+  },
+  "closing": "Ushishikajwe no gufatanya na Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Shikira</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY & Abafatanyabikorwa Ikirangantego",
+    "highestMantra": "Ikirangantego Cyacu Cyiza",
+    "allToSpace": "Byose Kuri Umwanya Ikirangantego",
+    "isro": "Ikirangantego cya ISRO",
+    "mercosul": "Ikirangantego cya 13 cya Mercosur",
+    "inpe": "INPE ArtSat Amahugurwa Ikirangantego",
+    "solidConcepts": "Ikirangantego gikomeye",
+    "ideaSpace": "Ikirangantego cyibitekerezo"
+  }
+}

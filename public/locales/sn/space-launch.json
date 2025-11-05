@@ -1,0 +1,16 @@
+{
+  "title": "Space Launch - Orbital Tembere",
+  "heading": "Space Launch",
+  "intro": "Iyo Orbital Tembere yakarongerwa kuparurwa mu PSLV (Polar Satellite Launch Vehicle) muna Mbudzi 28th, 2025 kubva kuSatish Dhawan Space Center muSriharikota, India.",
+  "partnership": "Kuvhurwa kweTembere yeOrbital mubatanidzwa pakati peNewSpace India Limited (NSIL), Hurumende yeIndia Kambani iri pasi peDhipatimendi rePadenga, Antrix Corporation, uye muimbi. Kudyidzana uku kunomiririra chiitiko chakakosha chehunyanzvi mukutsvagisa muchadenga, kuunza pamwe chirongwa cheIndia chemuchadenga nechiono chehunyanzvi chekubatanidzwa kwakanyanya.",
+  "risks": {
+    "heading": "Njodzi",
+    "paragraph1": "Iyo satellite yakavakirwa kutsungirira zvakanyanya kuzunguzika mamiriro uye kutenderera kwemafuta, uye yakamboedzwa zvakaomarara. Nekudaro, kuvhurika kwechadenga kunotakura njodzi dzinowanikwa. Kana setiraiti ikakuvadzwa panguva yekuvhurwa kana kuendeswa, kana ikatadza kumisa kutaurirana nechiteshi chedu chepasi, isu tichashanda kugadzirisa nekugadzirisa chero nyaya. Iyo setiraiti ine yakawandisa masisitimu uye backup mapuroteni akagadzirirwa kuwedzera mikana yekubudirira kwemamishinari.",
+    "paragraph2": "Pamusoro pezvo, iyo satellite inogona kugara mukutenderera kweasingasviki makore gumi kana mamiriro emuchadenga kana zvimwe zvinhu zvichikonzera kuora kwekutanga kweorbital. Kunyange zvazvo takaigadzira kuti igare kwemakore gumi, hupenyu chaihwo hunoenderana nemamiriro ezvinhu atisingakwanisi kudzora zvizere.",
+    "paragraph3": "Kana kutanga kwekutanga kukatadza, kana tikatadza kuita basa iri sezvakarongwa, tichaongorora dzimwe nzira dzekuenda mberi, pamwe nekuedza kechipiri kuvhura nebhajeti riripo, kudyidzana nemamwe mamishini, kana zvinyorwa zvekuyedza sechikamu cherondedzero ye artwork pamusoro peshuviro nemiganhu."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Orbital Temberi Satellite"
+  }
+}

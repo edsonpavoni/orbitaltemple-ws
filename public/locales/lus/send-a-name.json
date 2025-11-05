@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "i luh rual chuan\nritual a ni\nhming thawn turin\ninto the\norbital temple a ni\nspace-ah a awm\nla\na thaw halh",
+    "button": "ka inpeih tawh"
+  },
+  "nameInput": {
+    "title": "hming ziak rawh",
+    "subtitle": "space-a Orbital Temple-ah a kai chho dawn a ni.",
+    "placeholder": "hming",
+    "button": "chho rawh se"
+  },
+  "emailInput": {
+    "title": "i email kha type rawh",
+    "subtitle": "chuvangin hming a san chuan message i dawng thin.",
+    "placeholder": "i email ah khan",
+    "button": "tih a ni"
+  },
+  "loading": {
+    "alt": "Loading a ni"
+  },
+  "success": {
+    "text": "hming a ni\n{{hming}}\ntunah chuan queue-ah a awm tawh\nascension atan.\na nih chuan\ntemple chu space-ah a awm\naligns, a ni\nkan antenna a ni\nLeiah hian a awm\nkan thawn ang\nhming a ni\ntin, i dawng ang\nthuchah a ni."
+  }
+}

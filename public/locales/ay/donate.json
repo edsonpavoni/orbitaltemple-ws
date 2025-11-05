@@ -1,0 +1,31 @@
+{
+  "title": "Templo Orbital ukar qullqi churaña",
+  "heading": "Donacionam tukuyañamawa",
+  "donatingTo": "Jumax akanakaruw qullqi churaskta:",
+  "chooseHow": "Impuesto deducible uka qollqe churañjja, kunjamsa tukuyañ munasma uk ajlliñamawa:",
+  "option1": {
+    "heading": "1ri amtawi: Jichhax Internet tuqiw qullqi churaña",
+    "description": "Tarjeta de crédito, tarjeta de débito jan ukax yaqha payllañ thakhinakampi internet tuqiw jank’ak qullqi churañ tukuyañama, ukax seguro patrocinador fiscal, <strong>The Field</strong> , tuqiw tukuyañama. Ukax mä ratukiw impuesto recibo katuqatäni.",
+    "button": "The Field → tuqiw qullqi churañama"
+  },
+  "option2": {
+    "heading": "2 amtawi: Banco de Depósito ukax The Roy Foundation ukar churatawa",
+    "description": "Mä depósito directo bancario jan ukax transferencia alambre ukar <strong>The Roy Foundation</strong> , jiwasan socio estratégico ukat patrocinador fiscal ukar lurañamawa. Aka amtawix jach’a qullqi churañataki jan ukax transferencias internacionales ukanakatakix wali askiwa.",
+    "bankingInfo": "Banco ukan yatiyawipa",
+    "fields": {
+      "accountName": "Cuenta Suti: 1.1.",
+      "bankName": "Banco Suti: 1.1.",
+      "accountNumber": "Cuenta Jakhuwi: 1.1.",
+      "routingNumber": "Ruteo Jakhuwi: 1.1.",
+      "swift": "SWIFT/BIC ukax akhamawa:",
+      "reference": "Yaqha:"
+    },
+    "instructions": "Ukhamaraki, &quot; <strong>Orbital Temple - {donationType}</strong> &quot; ukax referencia ukan uñt&#39;ayatawa. Transferencia tukuyatatxa, <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ukaruw correo electrónico tuqi apayanipxita, transferencia tuqit yatiyawinakampi, impuesto recibo katuqañataki.",
+    "button": "Jiwasampiw aruskipt’añama Depósito tuqita →"
+  },
+  "taxInfo": {
+    "heading": "Impuesto-Deducible ukampi churaña",
+    "description": "Orbital Temple ukax mä proyecto fiscal patrocinado <strong>The Field (Performance Zone Inc.)</strong> , mä <strong>501(c)(3)</strong> jan qullqituqit irnaqäwi. Taqi Estados Unidos markan qullqi churatanakapax impuesto ukat apsutäxiwa, kunjamatix kamachix siski ukhamarjama.",
+    "questions": "Jiskt’awinaka? Jiwasax <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> ukaruw jawst’apxsma"
+  }
+}

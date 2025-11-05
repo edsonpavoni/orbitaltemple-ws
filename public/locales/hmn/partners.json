@@ -1,0 +1,50 @@
+{
+  "title": "Cov koom tes - Orbital Tuam Tsev",
+  "heading": "Cov koom tes",
+  "intro": "Lub Tuam Tsev Orbital tshwm sim los ntawm kev ua siab dawb, kev txawj ntse, thiab lub zeem muag ntawm cov neeg koom tes tshwj xeeb. Los ntawm engineering satellites mus rau crafting narratives, los ntawm qhib qhov rooj nyob rau hauv cov av nyob deb mus rau casting npau suav nyob rau hauv kub, txhua qhov kev koom tes coj lub tuam tsev no los ze zog mus rau lub hnub qub.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Kev sib txuas lus, kev sib koom ua ke thiab kev ua yeeb yam zoo nkauj 3D uas coj lub zeem muag ntawm satellite mus rau lub neej ua ntej nws puas tau kov qhov khoob ntawm qhov chaw."
+    },
+    "highestMantra": {
+      "name": "Peb lub siab tshaj Mantra",
+      "description": "Coj los ntawm Sathi Roy, txuas lub Tuam Tsev Orbital nrog Is Nrias teb cov zej zog sab ntsuj plig thiab kos duab. Qhib txoj hauv kev rau kev nrhiav nyiaj txiag, kev sib pauv kab lis kev cai, thiab kev nthuav qhia Art Basel tom qab lub Kaum Ib Hlis 2025 tso tawm."
+    },
+    "allToSpace": {
+      "name": "Txhua yam rau Space",
+      "description": "Brazilian me me satellite tshwj xeeb. Plaub xyoo ntawm kev sib koom tes tsim ib qho chaw qhib kho vajtse platform thiab ua tus thawj coj los xa cov duab kos rau hauv orbit los ntawm Ntiaj Teb Sab Qab Teb."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indian Chaw Tshawb Fawb Lub Koom Haum. Launch muab kev pabcuam rau PSLV lub hom phiaj nqa lub Tuam Tsev Orbital mus rau lub hnub-synchronous orbit thaum lub Kaum Ib Hlis 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. Curated los ntawm Marcello Dantas nrog pab curators Laura Cattani, Munir Klamt, Tarsila Riso, thiab Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Rhiav",
+      "description": "Pab pawg tsim kho satellite tsim thaum lub sijhawm II ArtSat Rhiav. Koom tes los ntawm Fabiane M. Borges, qhia los ntawm Lázaro Camargo, koom tes los ntawm Ítalo Pinto Rodrigues, saib xyuas los ntawm Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Lub tswvyim",
+      "description": "Coj los ntawm Eduardo Dias. Txhua 3D luam ntawv thiab kub micro casting ua haujlwm rau cov duab puab dome, hloov cov kev npau suav rau hauv cov hlau muaj txiaj ntsig tiag."
+    },
+    "ideaSpace": {
+      "name": "Lub tswv yim Space",
+      "description": "Brazilian kev kawm pib tsim cov ntaub ntawv kawm Quebrada Space Program, npaj siv rau cov tub ntxhais kawm theem siab thoob plaws Brazil."
+    }
+  },
+  "closing": "Xav koom tes nrog Orbital Tuam Tsev? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">ncav tes</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "Peb lub siab tshaj Mantra Logo",
+    "allToSpace": "Tag nrho rau Space Logo",
+    "isro": "ISRO Logo",
+    "mercosul": "13th Mercosur Biennial Logo",
+    "inpe": "INPE ArtSat Rhiav Logo",
+    "solidConcepts": "Lub tswv yim Khoom Logo",
+    "ideaSpace": "Lub tswv yim Space Logo"
+  }
+}

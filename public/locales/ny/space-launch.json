@@ -1,0 +1,16 @@
+{
+  "title": "Space Launch - Orbital Temple",
+  "heading": "Space Launch",
+  "intro": "Orbital Temple ikuyembekezeka kukhazikitsidwa pagalimoto ya PSLV (Polar Satellite Launch Vehicle) pa Novembara 28, 2025 kuchokera ku Satish Dhawan Space Center ku Sriharikota, India.",
+  "partnership": "Kukhazikitsidwa kwa Orbital Temple ndi mgwirizano pakati pa NewSpace India Limited (NSIL), Boma la India Company pansi pa Dipatimenti ya Space, Antrix Corporation, ndi wojambula. Kugwirizana kumeneku kukuyimira gawo lofunika kwambiri pazaluso pakufufuza zakuthambo, kubweretsa pulogalamu yaku India ya zakuthambo ndi masomphenya aluso ophatikizana kwambiri.",
+  "risks": {
+    "heading": "Zowopsa",
+    "paragraph1": "Satelayitiyi idapangidwa kuti ipirire kugwedezeka kwambiri komanso matenthedwe, ndipo yayesedwa mwamphamvu. Komabe, kuwulutsa mlengalenga kumakhala ndi zoopsa zomwe zimachitika. Ngati satellite yawonongeka pakukhazikitsa kapena kutumizidwa, kapena ikalephera kukhazikitsa kulumikizana ndi masiteshoni athu, tidzayesetsa kuthana ndi vuto lililonse. Satellite ili ndi machitidwe osafunikira komanso ma protocol osunga zobwezeretsera omwe adapangidwa kuti awonjezere mwayi wochita bwino.",
+    "paragraph2": "Kuphatikiza apo, satellite imatha kukhala mozungulira kwa zaka zosakwana 10 ngati mlengalenga kapena zinthu zina zimayambitsa kuwola koyambirira. Ngakhale kuti tinaupanga kuti ukhalepo kwa zaka zosachepera khumi, utali wa moyo weniweniwo umadalira mikhalidwe imene sitingathe kuilamulira mokwanira.",
+    "paragraph3": "Ngati kutsegulira koyamba sikulephera, kapena ngati sitingathe kukwaniritsa cholingachi monga momwe tinakonzera, tidzafufuza njira zina zopitira patsogolo, mwina kuphatikizanso kuyesanso kachiwiri ndi bajeti yomwe ilipo, mgwirizano ndi mishoni zina, kapena zolemba zoyeserera ngati gawo lazofotokozera zazokhumba ndi malire."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Satellite ya Orbital Temple"
+  }
+}

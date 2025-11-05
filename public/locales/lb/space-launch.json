@@ -1,0 +1,16 @@
+{
+  "title": "Weltraumstart - Orbitaltempel",
+  "heading": "Weltraumstart",
+  "intro": "Den Orbital Temple soll den 28. November 2025 vum Satish Dhawan Space Centre zu Sriharikota, Indien, mat engem PSLV (Polar Satellite Launch Vehicle) gestart ginn.",
+  "partnership": "De Start vum Orbital Temple ass eng Partnerschaft tëscht NewSpace India Limited (NSIL), enger indescher Gesellschaft ënner dem Weltraumministère, der Antrix Corporation, an dem Kënschtler. Dës Zesummenaarbecht stellt e wichtege Meilesteen fir d'Konscht an der Weltraumfuerschung duer, andeems se den indesche Weltraumprogramm mat enger artistescher Visioun vun radikaler Inklusivitéit zesummebréngt.",
+  "risks": {
+    "heading": "Risiken",
+    "paragraph1": "De Satellit gouf gebaut fir extremen Schwéngungsbedingungen an thermesche Zyklen auszehalen, an huet sech streng getest. Weltraumstarte bréngen awer inherent Risiken mat sech. Wann de Satellit beim Start oder Asaz beschiedegt gëtt, oder wann e keng Kommunikatioun mat eise Buedemstatiounen opbaut, wäerte mir un der Problemléisung schaffen. De Satellit huet redundant Systemer a Backup-Protokoller, déi entwéckelt goufen, fir d'Chancen op en Erfolleg vun der Missioun ze maximéieren.",
+    "paragraph2": "Zousätzlech kéint de Satellit manner wéi 10 Joer an der Ëmlafbunn bleiwen, wa sech d'atmosphäresch Konditiounen oder aner Faktoren zu engem fréien Orbitalverfall entwéckelen. Wärend mir en esou entworf hunn, datt en op d'mannst en Jorzéngt laang hält, hänkt déi tatsächlech Liewensdauer vun de Konditiounen of, déi mir net vollstänneg kontrolléiere kënnen.",
+    "paragraph3": "Wann den éischte Start feelschléit, oder wann mir dës Missioun net wéi geplangt erfëllen kënnen, wäerte mir alternativ Weeër no vir entdecken, dorënner eventuell en zweete Startversuch mam verfügbare Budget, eng Partnerschaft mat anere Missiounen oder eng Dokumentatioun vum Versuch als Deel vun der Narrativ vum Konschtwierk iwwer Ambitiounen a Limitatiounen."
+  },
+  "imageAlts": {
+    "india": "ISRO Weltraumzentrum, Indien",
+    "satellite": "Orbital Temple Satellit"
+  }
+}

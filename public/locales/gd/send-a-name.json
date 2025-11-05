@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "mar a thèid thu a-steach do\ndheas-ghnàth\ngus ainm a chur\na-steach don\nteampall orbital\nanns an fhànais\ngabh anail\nanail",
+    "button": "tha mi deiseil"
+  },
+  "nameInput": {
+    "title": "sgrìobh ainm",
+    "subtitle": "èiridh e chun Teampall Orbital san fhànais.",
+    "placeholder": "ainm",
+    "button": "leig leis èirigh"
+  },
+  "emailInput": {
+    "title": "sgrìobh do phost-d",
+    "subtitle": "mar sin gheibh thu teachdaireachd nuair a thèid an t-ainm suas.",
+    "placeholder": "do phost-d",
+    "button": "tha e deiseil"
+  },
+  "loading": {
+    "alt": "A’ luchdadh"
+  },
+  "success": {
+    "text": "Tha an t-ainm\n{{name}}\na-nis air a chur sa chiudha\nairson àrdachadh.\nnuair a bhios an\nteampall san fhànais\na’ tighinn còmhla,\nris an\nantenna\nagainn\nair an Talamh\ncuiridh sinn\nan\nt-ainm\nagus gheibh thu\nteachdaireachd."
+  }
+}

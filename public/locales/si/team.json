@@ -1,0 +1,61 @@
+{
+  "title": "කණ්ඩායම - ඕර්බිටල් ටෙම්පල්",
+  "heading": "කණ්ඩායම",
+  "artist": "එඩ්සන් පවෝනි, කලාකරු",
+  "roles": {
+    "executiveProducer": {
+      "heading": "විධායක නිෂ්පාදක",
+      "members": "සති රෝයි"
+    },
+    "aerospace": {
+      "heading": "අභ්‍යවකාශ සහ පද්ධති ඉංජිනේරු විද්‍යාව",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "ඉලෙක්ට්‍රොනික ඉංජිනේරු විද්‍යාව",
+      "members": "André Biagioni, João Pedro Polito සහ VK"
+    },
+    "software": {
+      "heading": "මෘදුකාංග",
+      "members": "ජොනතන් චෙරුබිනා"
+    },
+    "design": {
+      "heading": "නිර්මාණය සහ ගෘහ නිර්මාණ ශිල්පය",
+      "members": "ගිල්හර්ම් බුලෙජොස්"
+    },
+    "printing": {
+      "heading": "ත්‍රිමාණ මුද්‍රණය",
+      "members": "එඩ්වාඩෝ ඩයස්ගේ නායකත්වය යටතේ ඝන සංකල්ප"
+    },
+    "rendering": {
+      "heading": "ත්‍රිමාණ විදැහුම්කරණය",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "පර්යේෂණ",
+      "members": "රොබර්ටා සැවියන් රෝසා සහ ක්ලාරා මාර්කේස්"
+    },
+    "exhibition": {
+      "heading": "ප්‍රදර්ශන නිෂ්පාදනය, ඡායාරූපකරණය සහ අන්තර්ගත නිර්මාණය",
+      "members": "ක්ලාරා මාර්ක්ස්"
+    },
+    "silkScreen": {
+      "heading": "ප්‍රදර්ශනයේ සේද තිරගත කිරීම",
+      "members": "ඩැෆ්නි ඇල්වස්"
+    },
+    "educational": {
+      "heading": "අධ්‍යාපනික ව්‍යාපෘතිය",
+      "members": "අයිඩියාස්පේස්"
+    },
+    "communication": {
+      "heading": "සන්නිවේදන කණ්ඩායම",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Kairo"
+    },
+    "specialThanks": {
+      "heading": "විශේෂ ස්තූතිය",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Daphere Aldigal, Flavio Marques, Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "කක්ෂීය දේවමාළිගා චන්ද්‍රිකාව"
+}

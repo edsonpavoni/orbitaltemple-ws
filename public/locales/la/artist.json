@@ -1,0 +1,44 @@
+{
+  "title": "Ab Artifice",
+  "opening": {
+    "question": "Quis est hic vir ut templum in spatio proponat?",
+    "thanks": "Gratias tibi ago pro quaestione.",
+    "answer": "Brevis responsio est me artificem esse. Longa haec est:"
+  },
+  "origin": {
+    "sao_paulo": "In suburbiis urbis Paulopolis natus sum, in regione quae me primo docuit quid periculum significet. Multi ex amicis meis scholasticis nunc in carcere sunt. Vitricus meus in carcere est. Violentia non erat aliquid de quo legeram, sed mundus erat quem navigare debebam. Et sciebam me effugere debere.",
+    "technology": "Ars technologica mihi via exitus facta est. Programmationem didici, artem electronicam adulescens didici. Lingua programmandi erat quae me alio ducere poterat. Laborare cum technologia mihi fuga ex paupertate fuit.",
+    "christianity": "Sed etiam pertinentiam, amorem, aliquid cui crederem quaerebam. Christianitatem inveni, vel Christianitas me invenit. Acceptus sum. Amatus sum. Communitatem habui. Didici ignoscere, credere, una proposito maiori progredi.",
+    "price": "Pretium tamen altum erat. Multa quoque didici quae adhuc obliviscor. Itaque ab eo quoque effugi."
+  },
+  "searching": {
+    "walls": "Scio quid muri faciant. Sensi eos. Utrinque interfui: exclusus, inclusus. Quod secuti sunt, anni fuerunt quibus aliquid quod nominare non poteram quaerebam. Deus illis annis mortuus est. Deus de quo didiceram, saltem, is qui leges et iudicium et portas habebat quae tantum quibusdam hominibus aperiebantur.",
+    "art": "Artem creare coepi ut has quaestiones explorarem: de intimitate et technologia, de memoria et morte, de eo quis caelum mereatur. Machinas aedificare coepi quae nostram cum technologia necessitudinem denuo imaginantur, machinas quae participationem tuam, praesentiam tuam, nomen tuum requirunt, ut ex metallo et codice in aliquid vivum transformentur."
+  },
+  "pandemic": {
+    "intro": "Deinde pandemia Brasiliam percussit.",
+    "government": "Cum vaccina COVID dilata sunt, regimen meum de subsidiis unius dollari per dosem agebat. Medicamenta, quae inefficax esse putabatur, promovebant, ridentes dum homines spirando laborantes moriebantur. Quotidie ad numerum diversum expergefacti sumus. Quot homines ultimis viginti quattuor horis mortui sunt? Pluresne an pauciores quam expectatum erant?",
+    "war": "Dimidia pars orbis perterrita erat, altera dimidia pars negabat. Bellum in mente habebamus, et cum viro et inter nos.",
+    "memorial": "Spatium luctui communi creare volui, itaque una cum centum hominibus Memorial Inumeraveis creavi. Opus artis in intersectione artis et diurnarii. Familias quae aliquem amiserant interrogavimus. Historiam vitae personae quam amiserant scripsimus. Numeros in historias transformavimus. Carmina, carmina, symphoniae ex his historiis facta sunt. Stellae has fabulas in televisione nationali legerunt. Proiectum ad milliones pervenit.",
+    "meaning": "Non magnitudo refert, sed quod quaeque fabula nomen, vita, alicuius caelum erat."
+  },
+  "discovery": {
+    "pattern": "Post plus quam decem milia colloquiorum cum luctu, exemplum quoddam emergere coepit. Cum de aliquo mortuo loquimur, non solum bona dicimus, sed etiam fragmenta historiae eius eligimus quasi epistolam commendationis scriberemus. Commendationem ad ianitorem paradisi. Omnia quae possumus conamur ut eos ad locum acceptationis, quietis, honoris et memoriae mittamus.",
+    "understanding": "Et intellexi aliquid quod omnia mutavit: vulnerati sumus ab ipsis templis quae aedificavimus. Nostrae opiniones de eo qui caelum meretur directe formant eos quos in Terra excludimus. Colonizatores Lusitani in Brasilia credebant nigros animas non habere; haec opinio servitutem iustificabat. Si indigena esses, si in loco improprio natus esses aut personam impropriam amasti, tibi dictum est portas caeli tibi clausas esse.",
+    "birth": "Ita Templum Orbitale natum est."
+  },
+  "shaman": {
+    "secular": "Nullus artifex vere saecularis esse potest. Perpetuo cum communi proavo nostro, shamano, coniuncti sumus. In principio, spelunca erat. Homines animalia in parietibus pingebant non ad ornandum, sed ad invocandum. Saltabant, et spelunca templum facta est. Shaman spiritum ritualis gerit; artifex auram artis tenet. Pingimus, sculpimus, codicem designamus, futurum nostrum desideratum non ad ornandum, sed ad invocandum designamus. Omnis ars spiritualis est, etiam cum se non esse profitetur."
+  },
+  "space": {
+    "question": "Ubi templum sine muris aedificare possemus? Ubi nulla natio aut religio sibi vindicare posset. Ubi nos unum gregem imaginari possemus.",
+    "answer": "Spatium.",
+    "description": "Satelles artis participatoriae e Meridie Globali. Templum in orbita quod omnes invitat ut nomina sua in spatium mittant, quicumque sint, ubi nati sint, quos ament, quid credant. Locus ubi inclusio radicalis possibilis est, in orbita, ultra fines.",
+    "mission": "Haec missio est fontis aperti. Omne documentum technicum, omnis linea codicis libere praesto erit ut alii artifices, aliae communitates, aliae nationes suos satellites construere possint. Ita Meridionalis Globalis non solum explorationi spatiali participat, sed eam ducit."
+  },
+  "closing": {
+    "answer": "Quis igitur hic homo est qui templum in spatio aedificat? Non ego id aedificao. Templum aedificatur ab omnibus qui nomen mittere constituunt, ut id sacrum videant, ut id verum faciant. Ego tantummodo propono. Tu es qui id aedificas si ita statuis.",
+    "signature": "Benigne,",
+    "name": "Edson Pavoni"
+  }
+}

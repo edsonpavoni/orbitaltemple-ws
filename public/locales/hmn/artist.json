@@ -1,0 +1,44 @@
+{
+  "title": "Los ntawm Artist",
+  "opening": {
+    "question": "Leej twg yog tus txiv neej no los tawm tsam lub tuam tsev hauv qhov chaw?",
+    "thanks": "Ua tsaug rau cov lus nug.",
+    "answer": "Cov lus teb luv luv yog tias kuv yog ib tus kws kos duab. Qhov ntev yog qhov no:"
+  },
+  "origin": {
+    "sao_paulo": "Kuv yug nyob rau sab nraud ntawm São Paulo, hauv ib lub zej zog uas qhia kuv thaum ntxov txog kev phom sij. Ntau tus phooj ywg hauv tsev kawm ntawv tau raug kaw tam sim no. Kuv txiv nyob hauv nkuaj. Kev nruj kev tsiv tsis yog ib yam uas kuv tau nyeem txog, nws yog lub ntiaj teb uas kuv yuav tsum taug kev. Thiab kuv paub tias kuv yuav tsum tau khiav tawm.",
+    "technology": "Technology tau dhau los ua kuv txoj kev tawm. Kuv kawm program, kawm electronics thaum tseem hluas. Code yog ib hom lus uas tuaj yeem coj kuv mus rau lwm qhov. Ua hauj lwm nrog technology yog kuv dim ntawm kev txom nyem.",
+    "christianity": "Tab sis kuv kuj tseem nrhiav kev koom nrog, kev hlub, rau ib yam dab tsi los ntseeg. Kuv nrhiav tau cov ntseeg Vajtswv, los yog nrhiav tau kuv. Kuv tau txais. Kuv hlub. Kuv muaj ib lub zej zog. Kuv kawm zam txim, ntseeg, txav mus ua ke rau lub hom phiaj loj dua.",
+    "price": "Tus nqi, txawm li cas los xij, tau siab. Kuv kuj kawm ntau yam uas kuv tseem tsis tau kawm. Yog li ntawd kuv thiaj dim ntawm qhov ntawd thiab."
+  },
+  "searching": {
+    "walls": "Kuv paub tias phab ntsa ua li cas. Kuv twb hnov lawv. Kuv tau nyob ntawm ob sab: khaws cia, khaws cia hauv. Dab tsi tom qab yog xyoo ntawm kev tshawb nrhiav ib yam dab tsi uas kuv tsis muaj npe. Vajtswv tau tuag rau xyoo ntawd. Vaj tswv kuv tau raug qhia txog, txawm li cas los xij, yog tus uas muaj kev cai thiab kev txiav txim thiab lub qhov rooj uas qhib rau qee tus neeg xwb.",
+    "art": "Kuv pib ua kev kos duab los tshawb txog cov lus nug no: txog kev sib raug zoo thiab kev siv tshuab, txog kev nco thiab kev tuag, txog leej twg tsim nyog rau saum ntuj ceeb tsheej. Kuv tau pib tsim cov cav tov uas rov xav txog peb txoj kev sib raug zoo nrog cov cuab yeej technology, cov tshuab uas xav tau koj txoj kev koom tes, koj lub xub ntiag, koj lub npe, hloov pauv los ntawm cov hlau thiab cov lej rau hauv ib yam dab tsi muaj sia nyob."
+  },
+  "pandemic": {
+    "intro": "Tom qab ntawd tus kabmob kis mus rau Brazil.",
+    "government": "Thaum cov tshuaj tiv thaiv COVID tau qeeb, kuv tsoomfwv tau sib tham txog kev rov qab los ntawm ib duas las rau ib koob. Lawv txhawb cov tshuaj nkag siab tias tsis muaj txiaj ntsig, luag thaum tib neeg tuag tawm tsam ua pa. Peb sawv txhua hnub rau ib tus lej sib txawv. Muaj pes tsawg tus neeg tuag hauv 24 teev dhau los? Puas yog ntau dua, lossis tsawg dua li qhov xav tau?",
+    "war": "Ib nrab ntawm lub ntiaj teb no ntshai, thiab ib nrab yog nyob rau hauv tsis lees paub. Peb tau ua tsov rog, nrog tus kab mob thiab nrog ib leeg.",
+    "memorial": "Kuv xav tsim qhov chaw rau kev tu siab, yog li ua ke nrog ntau pua tus neeg kuv tsim lub Memorial Inumeráveis. Ib qho kev kos duab ntawm kev sib tshuam ntawm kev kos duab thiab kev sau xov xwm. Peb xam phaj cov tsev neeg uas tau poob ib tug neeg. Peb tau sau zaj dab neeg ntawm tus neeg uas lawv poob. Peb hloov cov lej rau hauv keeb kwm. Paj huam, nkauj, symphonies tau ua nrog cov keeb kwm. Cov hnub qub nyeem cov dab neeg no hauv TV hauv tebchaws. Qhov project mus txog tsheej lab.",
+    "meaning": "Dab tsi tseem ceeb tsis yog qhov ntsuas, nws yog tias txhua zaj dab neeg yog lub npe, lub neej, ib tus neeg saum ntuj ceeb tsheej."
+  },
+  "discovery": {
+    "pattern": "Tom qab ntau tshaj kaum txhiab kev sib tham nrog kev tu siab, tus qauv pib tshwm sim. Thaum peb tham txog ib tug uas tau tuag lawm, peb tsis txhob hais tej yam zoo xwb; peb xaiv cov seem ntawm lawv zaj dab neeg zoo li peb tab tom sau tsab ntawv pom zoo. Kev pom zoo rau tus neeg saib xyuas lub vaj kaj siab. Peb ua qhov zoo tshaj plaws kom xa lawv mus rau qhov chaw txais tos, so, hwm thiab nco.",
+    "understanding": "Thiab kuv nkag siab qee yam uas hloov txhua yam: Peb tau raug mob los ntawm cov tuam tsev uas peb tau tsim. Peb txoj kev ntseeg txog leej twg tsim nyog tau txais ntuj ceeb tsheej ncaj qha rau tus uas peb cais tawm hauv ntiaj teb. Cov Portuguese colonizers hauv Brazil ntseeg tias cov neeg Dub tsis muaj ntsuj plig; txoj kev ntseeg ntawd tsim nyog ua qhev. Yog tias koj yog neeg hauv paus txawm, yog tias koj yug los ntawm qhov tsis ncaj ncees lawm los yog hlub tus neeg tsis ncaj ncees lawm, koj tau hais rau saum ntuj lub qhov rooj kaw rau koj.",
+    "birth": "Yog li ntawd lub Tuam Tsev Orbital tau yug los."
+  },
+  "shaman": {
+    "secular": "Tsis muaj ib tus kws kos duab tuaj yeem ua tau tiag tiag. Peb nyob mus ib txhis khi rau peb cov poj koob yawm txwv, tus shaman. Thaum pib, muaj ib lub qhov tsua. Tib neeg tau pleev xim rau tsiaj rau ntawm phab ntsa tsis yog los kho, tab sis thov. Lawv seev cev, thiab lub qhov tsua los ua ib lub tuam tsev. Tus shaman wields tus ntsuj plig ntawm ritual; tus artist wields lub aura ntawm art. Peb pleev xim, peb sculpt, peb code, peb tsim peb lub neej yav tom ntej uas tsis yog los decorate, tab sis mus thov. Tag nrho cov kos duab yog sab ntsuj plig, txawm tias nws thov tsis yog."
+  },
+  "space": {
+    "question": "Peb yuav ua lub tuam tsev nyob qhov twg uas tsis muaj phab ntsa? Qhov twg tsis muaj haiv neeg lossis kev ntseeg twg tuaj yeem thov. Qhov twg peb tuaj yeem xav txog peb tus kheej ua ib pab pawg.",
+    "answer": "Qhov chaw.",
+    "description": "Ib qho kev koom tes kos duab satellite los ntawm Ntiaj Teb Sab Qab Teb. Lub tuam tsev nyob hauv lub ntiaj teb uas caw txhua tus xa lawv cov npe mus rau qhov chaw, tsis hais lawv yog leej twg, lawv yug los, leej twg lawv hlub, lawv ntseeg dab tsi. Ib qho chaw uas muaj kev suav nrog radical tuaj yeem ua tau, nyob rau hauv orbit, dhau ciam teb.",
+    "mission": "Lub hom phiaj no yog qhib qhov chaw. Txhua daim ntawv qhia, txhua kab ntawm txoj cai yuav muaj kev ywj pheej kom lwm tus neeg ua yeeb yam, lwm cov zej zog, lwm haiv neeg tuaj yeem tsim lawv tus kheej satellites. Yog li Lub Ntiaj Teb Sab Qab Teb tsis yog koom nrog hauv qhov chaw tshawb nrhiav, tab sis coj nws."
+  },
+  "closing": {
+    "answer": "Yog li leej twg yog tus txiv neej no los tsim lub tuam tsev hauv qhov chaw? Kuv tsis yog tsev. Lub tuam tsev yog tsim los ntawm txhua tus neeg uas txiav txim siab xa ib lub npe, pom nws dawb huv, ua kom muaj tseeb. Kuv tsuas yog tus uas tawm tswv yim xwb. Koj yog tus tsim nws yog tias koj txiav txim siab.",
+    "signature": "Ua siab zoo,",
+    "name": "Edson Pavoni"
+  }
+}

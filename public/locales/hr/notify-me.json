@@ -1,0 +1,13 @@
+{
+  "title": "Budite obaviješteni - Orbitalni hram",
+  "heading": "Budite obaviješteni kada se diže",
+  "description": "28. studenog 2025. Orbitalni hram će se uzdići.<br> Ostavite svoju e-mail adresu i obavijestit ćemo vas kada stigne u prostor.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Poslati",
+    "sendingButton": "Slanje...",
+    "successMessage": "Stići ćemo do tebe kad se uzdigne.",
+    "errorMessage": "Nešto je pošlo po zlu. Pokušajte ponovno."
+  },
+  "backLink": "← Natrag na odbrojavanje"
+}

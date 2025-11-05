@@ -1,0 +1,44 @@
+{
+  "title": "Kelestarian & Spasi Uing - Kuil Orbital",
+  "heading": "Kelestarian",
+  "intro": {
+    "paragraph1": "Upami seni nuju ngajurung urang ka masa depan, éta moal tiasa malire krisis anu urang hadapi - runtuhna lingkungan, kateusaruaan sosial, sareng tangtangan lebu ruang angkasa. Kuil Orbital dirancang kalayan kanyataan ieu dina pikiran, tujuanana janten ayana tanggung jawab di Bumi sareng di orbit.",
+    "paragraph2": "Kami yakin yén kelestarian sanés mangrupikeun halangan tapi bagian penting tina visi artistik urang. Unggal kaputusan ngeunaan bahan, orbit, sareng operasi ngagambarkeun komitmen urang pikeun ninggalkeun Bumi sareng angkasa langkung saé tibatan anu urang mendakan."
+  },
+  "spaceDebris": {
+    "heading": "Uing Angkasa",
+    "paragraph1": "Lebu ruang angkasa mangrupikeun salah sahiji tantangan anu paling mendesak pikeun eksplorasi ruang angkasa. Rébuan satelit sareng fragmen anu teu dianggo ngorbit Bumi, ngancem misi aktif sareng nyiptakeun éfék kaskade anu tiasa ngajantenkeun orbit anu henteu tiasa dianggo.",
+    "paragraph2": "Kuil Orbital alamat ieu ku sababaraha cara:",
+    "list": {
+      "orbit": "<strong>Orbit sinkron panonpoé dina 525 km:</strong> Luhurna ieu mastikeun sered atmosfir alami bakal ngabalukarkeun satelit asup deui ka atmosfir Bumi dina kurang leuwih 10 taun, dimana eta bakal kaduruk nepi lengkep. Kami henteu nyumbang kana lebu orbital jangka panjang.",
+      "size": "<strong>Desain PocketQube:</strong> Ngan ukur 50 × 58 × 64mm sareng 245g, satelit cukup leutik pikeun nguap lengkep nalika asup deui, henteu ngantunkeun lebu di bumi.",
+      "responsibility": "<strong>Taya obsolescence rencanana:</strong> Teu kawas satelit komérsial anu bisa ditinggalkeun, Orbital Temple dirancang pikeun deorbit alami, minuhan tungtunan internasional pikeun aktivitas spasi jawab."
+    },
+    "paragraph3": "Ku milih orbit Bumi anu rendah sareng desain anu kompak, kami mastikeun yén ayana Orbital Temple di rohangan samentawis sareng henteu ngotoran."
+  },
+  "carbonNeutrality": {
+    "heading": "Karbon Neutralitas",
+    "content": "Sadaya émisi karbon anu aya hubunganana sareng Orbital Temple-kaasup manufaktur satelit, peluncuran, operasi stasiun bumi, hosting situs wéb, sareng perjalanan tim-bakal diimbangi pinuh ku program kiridit karbon anu diverifikasi. Kami komitmen pikeun ngajantenkeun misi ieu nétral iklim."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Sustainability ogé hartina teu wasting pangaweruh. Unggal aspék téknis Orbital Temple-skématik, kode, protokol komunikasi, jeung métode konstruksi-bakal diterbitkeun salaku dokuméntasi open source.",
+    "paragraph2": "Hal ieu ngamungkinkeun misi kahareup ngawangun kana karya urang tinimbang dimimitian ti scratch, ngurangan panalungtikan sarta pamekaran kaleuleuwihan. Éta ngadémokrasikeun aksés kana téknologi ruang angkasa, khususna pikeun komunitas di Global South anu sajarahna teu kaasup ti eksplorasi ruang angkasa."
+  },
+  "educational": {
+    "heading": "Pangaruh Atikan",
+    "paragraph1": "Program atikan multibasa gratis kami ngajar murid di sakuliah dunya kumaha ngawangun sareng ngaluncurkeun satelit, kalayan fokus kana Global South. Ku empowering generasi saterusna kalawan kaahlian téhnologi spasi, urang nyumbang kana nutup \"Space Gap\" jeung nyieun kasempetan nu disebutkeun moal aya.",
+    "paragraph2": "Misi atikan ieu nyalira mangrupikeun bentuk kelestarian-investasi jalma sareng komunitas pikeun nyiptakeun parobihan anu langgeng saluareun umur satelit."
+  },
+  "tenYear": {
+    "heading": "Misi 10 Taun",
+    "paragraph1": "Orbital Temple dirancang pikeun misi dasawarsa-panjang, lain stunt publisitas ringkes. Leuwih sapuluh taun, satelit bakal ngorbit Bumi kira-kira 50.000 kali, narima ngaran jeung ngawula ka salaku panginget yén spasi bisa jadi commons, diaksés ku sadayana.",
+    "paragraph2": "Saatos misina disimpulkeun, satelit sacara alami bakal de-orbit sareng kaduruk, henteu aya jejak kecuali dina kenangan sareng dokuméntasi jalma anu milu."
+  },
+  "artsResponsibility": {
+    "heading": "Tanggung jawab Seni",
+    "paragraph1": "Seni sok janten eunteung waktosna, ngagambarkeun nilai sareng aspirasi urang. Dina jaman krisis iklim sareng kateusaruaan anu ningkat, kami yakin seniman ngagaduhan tanggung jawab pikeun nyiptakeun karya anu henteu ngan ukur ngoméntaran masalah ieu tapi sacara aktip ngarengsekeunana.",
+    "paragraph2": "Orbital Temple mangrupikeun usaha urang pikeun nyiptakeun karya seni anu radikal dina inklusivitasna, tanggung jawab kana dampak lingkunganana, sareng berehan dina ngabagi pangaweruhna ka dunya. Éta seni anu ngajak sadayana pikeun ilubiung bari ngahormatan sistem rapuh-lingkungan sareng orbital-nu ngajantenkeun kahirupan sareng éksplorasi."
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Joogteynta & Burburka Meesha - Macbadka Orbital",
+  "heading": "Waarta",
+  "intro": {
+    "paragraph1": "Haddii fanku uu doonayo inuu mustaqbalka ina hoggaamiyo, ma iska indho tiri karo dhibaatooyinka aan la kulanno-burbur deegaan, sinnaan la'aanta bulshada, iyo caqabadaha sii kordhaya ee qashinka bannaan. Macbadka Orbital waxa loo qaabeeyey iyadoo xaqiiqooyinkan maskaxda lagu hayo, ujeedaduna tahay in ay noqoto joogitaanka mas'uul ka ah dhulka iyo meeraha labadaba.",
+    "paragraph2": "Waxaan aaminsanahay in sii jiritaanku aanu ahayn caqabad balse waa qayb muhiim ah oo ka mid ah aragtideena faneed. Go'aan kasta oo ku saabsan agabka, wareegyada, iyo hawlgallada waxay ka tarjumaysaa sida ay nooga go'an tahay in aan uga tagno dhulka iyo bannaanka si ka wanaagsan sidii aan ku helnay."
+  },
+  "spaceDebris": {
+    "heading": "Burburka hawada sare",
+    "paragraph1": "Burburinta hawada sare waa mid ka mid ah caqabadaha ugu daran ee wajahaya sahaminta meel bannaan. Kumanaan dayax-gacmeedyo iyo jajabyo ah ayaa ku wareegaya Dhulka, iyaga oo u hanjabaya hawlgallada firfircoon iyo abuurista saamayn cascade ah oo ka dhigi karta wareegyada qaarkood kuwo aan la isticmaali karin.",
+    "paragraph2": "Macbadka Orbital wuxuu tan siyaalo dhowr ah uga hadlayaa:",
+    "list": {
+      "orbit": "<strong>Wareegga Qorraxda-synchronous ee 525 km:</strong> Dhererkani waxa uu hubinayaa in jiidashada jawiga dabiiciga ahi ay keenayso in dayax-gacmeedku uu dib u galo jawiga dhulka ku dhawaad 10 sano gudahood, halkaas oo uu si buuxda u gubi doono. Wax kuma biirineyno qashinka orbital ee muddada dheer.",
+      "size": "<strong>Naqshadeynta PocketQube:</strong> Kaliya 50 × 58 × 64mm iyo 245g, dayax gacmeedku waa yar yahay oo ku filan inuu gabi ahaanba uumi soo baxo inta lagu jiro dib-u-soo-celinta, isaga oo aan ka tagin wax qashin ah oogada dhulka.",
+      "responsibility": "<strong>Ma jiro gabowga la qorsheeyay:</strong> Si ka duwan dayax-gacmeedyada ganacsiga ee laga yaabo in la dayaco, Orbital Temple waxaa loo qorsheeyay in uu si dabiici ah u gooyo, isaga oo buuxinaya tilmaamaha caalamiga ah ee hawlaha bannaan ee mas&#39;uulka ka ah."
+    },
+    "paragraph3": "Anagoo dooranayna wareegta dhulka hooseysa iyo naqshad is haysta, waxaan hubineynaa in joogitaanka Macbadka Orbital ee meel bannaan ay tahay mid ku meel gaar ah oo aan wasakhayn."
+  },
+  "carbonNeutrality": {
+    "heading": "Dhexdhexaadnimada Kaarboon",
+    "content": "Dhammaan qiiqa kaarboonka ee la xidhiidha Macbadka Orbital - oo ay ku jiraan wax-soo-saarka dayax-gacmeedka, bilaabista, hawlgallada saldhigga dhulka, martigelinta website-ka, iyo safarka kooxda-waxaa si buuxda looga saari doonaa barnaamijyada credit-ka carbon ee la xaqiijiyay. Waxaa naga go'an inaan howlgalkan ka dhigno mid cimilo-dhex-dhexaad ah."
+  },
+  "openSource": {
+    "heading": "Hardware Isha Furan",
+    "paragraph1": "Waaritaanku waxa kale oo ay ka dhigan tahay in aan aqoonta la lumin. Dhinac kasta oo farsamo oo ka mid ah Macbadka Orbital - qaab-dhismeedka, koodka, borotokoolka isgaarsiinta, iyo hababka dhismaha - waxaa loo daabici doonaa dukumeenti il furan.",
+    "paragraph2": "Tani waxay u oggolaanaysaa himilooyinka mustaqbalka inay ku dhismaan shaqadeena halkii ay ka bilaabi lahaayeen xoq, yaraynta cilmi-baarista iyo horumarka aan joogtada ahayn. Waxa ay dimuqraadiyaysaa helitaanka tignoolajiyada hawada sare, gaar ahaan bulshooyinka ku nool Koonfurta Caalamka kuwaas oo taariikh ahaan laga saaray sahaminta hawada sare."
+  },
+  "educational": {
+    "heading": "Saamaynta Waxbarashada",
+    "paragraph1": "Barnaamijkeena waxbarasho ee bilaashka ah ee luuqadaha badan wuxuu baraa ardayda aduunka oo dhan sida loo dhiso loona diro dayax-gacmeedyada, iyadoo diiradda la saarayo Koonfurta Adduunka Inaga oo awood u siinaya jiilka soo socda xirfadaha tignoolajiyada meel bannaan, waxaan gacan ka geysaneynaa xiritaanka \"Space Gap\" iyo abuurista fursado aan haddii kale jiri lahayn.",
+    "paragraph2": "Hadafkan waxbarasho laftiisa waa nooc ka mid ah waaritaan-maalgelinta dadka iyo bulshada si loo abuuro isbeddel waara oo ka baxsan cimriga dayax-gacmeedka."
+  },
+  "tenYear": {
+    "heading": "Hawlgal 10 Sano ah",
+    "paragraph1": "Macbadka Orbital waxa loogu talagalay hawlgal toban sano ah, ma aha dacaayad kooban. In ka badan toban sano, dayax-gacmeedku wuxuu ku wareegi doonaa dhulka qiyaastii 50,000 jeer, isagoo helaya magacyo wuxuuna u adeegi doonaa xasuusin in boosku noqon karo mid la wadaago, oo la heli karo dhammaan.",
+    "paragraph2": "Ka dib marka hawshiisa la soo gabagabeeyo, dayax gacmeedku si dabiici ah ayuu u wareegayaa oo u guban doonaa, isaga oo aan wax raad ah ka tagin marka laga reebo xusuusta iyo dukumeentiyada ka qaybqaatay."
+  },
+  "artsResponsibility": {
+    "heading": "Masuuliyadda Fanka",
+    "paragraph1": "Farshaxanku wuxuu had iyo jeer ahaa muraayad waqtigeeda, oo ka tarjumaysa qiyamkayaga iyo himilooyinkayaga. Xilliga dhibaatada cimilada iyo sinnaan la'aanta sii kordheysa, waxaan aaminsanahay in farshaxannadu ay mas'uul ka yihiin inay abuuraan shaqo aan kaliya ka faalloon arrimahan laakiin si firfircoon wax uga qabta.",
+    "paragraph2": "Macbadka Orbital waa isku dayga aanu ku abuurno farshaxan xagjir ah oo ku jira ka mid ahaanshihiisa, mas'uul ka ah saamaynta deegaanka, iyo deeqsinimada ah in aan la wadaagno aqoontiisa adduunka. Waa farshaxan ku martiqaadaya qof walba inuu ka qaybqaato iyada oo la ixtiraamayo nidaamyada jilicsan - deegaanka iyo orbital - kuwaas oo suurtogal ka dhigaya nolosha iyo sahaminta."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

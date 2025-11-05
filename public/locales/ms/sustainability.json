@@ -1,0 +1,44 @@
+{
+  "title": "Kelestarian & Serpihan Angkasa - Kuil Orbital",
+  "heading": "Kelestarian",
+  "intro": {
+    "paragraph1": "Jika seni ingin membawa kita ke masa hadapan, ia tidak boleh mengabaikan krisis yang kita hadapi—keruntuhan alam sekitar, ketidaksamaan sosial, dan cabaran serpihan angkasa yang semakin meningkat. Kuil Orbital direka bentuk dengan mengambil kira realiti ini, bertujuan untuk menjadi kehadiran yang bertanggungjawab di Bumi dan di orbit.",
+    "paragraph2": "Kami percaya kemampanan bukan kekangan tetapi bahagian penting dalam visi artistik kami. Setiap keputusan tentang bahan, orbit dan operasi mencerminkan komitmen kami untuk meninggalkan Bumi dan angkasa lebih baik daripada yang kami temui."
+  },
+  "spaceDebris": {
+    "heading": "Serpihan Angkasa",
+    "paragraph1": "Serpihan angkasa adalah salah satu cabaran paling mendesak yang dihadapi penerokaan angkasa lepas. Beribu-ribu satelit dan serpihan yang tidak berfungsi mengorbit Bumi, mengancam misi aktif dan mencipta kesan lata yang boleh menyebabkan orbit tertentu tidak dapat digunakan.",
+    "paragraph2": "Kuil Orbital menangani ini dalam beberapa cara:",
+    "list": {
+      "orbit": "<strong>Orbit segerak matahari pada 525 km:</strong> Ketinggian ini memastikan seretan atmosfera semula jadi akan menyebabkan satelit memasuki semula atmosfera Bumi dalam masa kira-kira 10 tahun, di mana ia akan terbakar sepenuhnya. Kami tidak menyumbang kepada serpihan orbit jangka panjang.",
+      "size": "<strong>Reka bentuk PocketQube:</strong> Dengan hanya 50×58×64mm dan 245g, satelit itu cukup kecil untuk mengewap sepenuhnya semasa kemasukan semula, tidak meninggalkan serpihan di permukaan Bumi.",
+      "responsibility": "<strong>Tiada keusangan yang dirancang:</strong> Tidak seperti satelit komersial yang mungkin terbengkalai, Kuil Orbital direka untuk menyahorbit secara semula jadi, memenuhi garis panduan antarabangsa untuk aktiviti angkasa lepas yang bertanggungjawab."
+    },
+    "paragraph3": "Dengan memilih orbit Bumi yang rendah dan reka bentuk yang padat, kami memastikan kehadiran Kuil Orbital di angkasa adalah sementara dan tidak mencemarkan."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutraliti Karbon",
+    "content": "Semua pelepasan karbon yang dikaitkan dengan Kuil Orbital—termasuk pembuatan satelit, pelancaran, operasi stesen bumi, pengehosan tapak web dan perjalanan pasukan—akan diimbangi sepenuhnya melalui program kredit karbon yang disahkan. Kami komited untuk menjadikan misi ini neutral iklim."
+  },
+  "openSource": {
+    "heading": "Perkakasan Sumber Terbuka",
+    "paragraph1": "Kelestarian juga bermakna tidak membazir ilmu. Setiap aspek teknikal Kuil Orbital—skema, kod, protokol komunikasi dan kaedah pembinaan—akan diterbitkan sebagai dokumentasi sumber terbuka.",
+    "paragraph2": "Ini membolehkan misi masa depan untuk membina kerja kami dan bukannya bermula dari awal, mengurangkan penyelidikan dan pembangunan yang berlebihan. Ia mendemokrasikan akses kepada teknologi angkasa, terutamanya untuk komuniti di Global Selatan yang secara sejarah dikecualikan daripada penerokaan angkasa lepas."
+  },
+  "educational": {
+    "heading": "Kesan Pendidikan",
+    "paragraph1": "Program pendidikan berbilang bahasa percuma kami mengajar pelajar di seluruh dunia cara membina dan melancarkan satelit, dengan tumpuan pada Selatan Global. Dengan memperkasakan generasi akan datang dengan kemahiran teknologi angkasa, kami menyumbang untuk menutup \"Jurang Angkasa\" dan mencipta peluang yang mungkin tidak wujud.",
+    "paragraph2": "Misi pendidikan ini sendiri adalah satu bentuk kemampanan—melabur dalam orang dan komuniti untuk mencipta perubahan berkekalan melebihi jangka hayat satelit."
+  },
+  "tenYear": {
+    "heading": "Misi 10 Tahun",
+    "paragraph1": "Orbital Temple direka untuk misi selama sedekad, bukan aksi publisiti ringkas. Lebih sepuluh tahun, satelit itu akan mengorbit Bumi kira-kira 50,000 kali, menerima nama dan berfungsi sebagai peringatan bahawa ruang angkasa boleh menjadi milik bersama, boleh diakses oleh semua.",
+    "paragraph2": "Selepas misinya tamat, satelit itu secara semula jadi akan de-orbit dan terbakar, tidak meninggalkan kesan kecuali dalam ingatan dan dokumentasi mereka yang mengambil bahagian."
+  },
+  "artsResponsibility": {
+    "heading": "Tanggungjawab Seni",
+    "paragraph1": "Seni sentiasa menjadi cermin pada zamannya, mencerminkan nilai dan aspirasi kita. Dalam era krisis iklim dan ketidaksamaan yang semakin meningkat, kami percaya artis mempunyai tanggungjawab untuk mencipta karya yang bukan sahaja mengulas isu ini tetapi secara aktif menanganinya.",
+    "paragraph2": "Kuil Orbital ialah percubaan kami untuk mencipta karya seni yang radikal dalam keterangkumannya, bertanggungjawab dalam kesan alam sekitarnya, dan murah hati dalam berkongsi pengetahuannya dengan dunia. Senilah yang menjemput semua orang untuk mengambil bahagian sambil menghormati sistem rapuh—persekitaran dan orbital—yang membolehkan kehidupan dan penerokaan."
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

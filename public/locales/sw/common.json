@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "kazi ya sanaa",
+    "sendAName": "tuma jina",
+    "fromTheArtist": "kutoka kwa msanii",
+    "yetAnotherTemple": "bado, hekalu jingine?",
+    "howItWorks": "jinsi inavyofanya kazi",
+    "spaceLaunch": "uzinduzi wa nafasi na hatari",
+    "briefHistory": "historia fupi ya sanaa katika nafasi",
+    "education": "elimu & chanzo huria",
+    "sustainability": "uendelevu na uchafu wa nafasi",
+    "press": "vyombo vya habari & vyombo vya habari",
+    "team": "timu",
+    "partners": "washirika",
+    "support": "msaada",
+    "technicalInfo": "maelezo ya kiufundi"
+  },
+  "ritual": {
+    "label": "tambiko",
+    "ariaLabel": "Ingiza ibada - Tuma jina kwa Hekalu la Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple ni mchoro wa Edson Pavoni, iliyoundwa kwa ushirikiano na Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy wanaoendelea na majina ya hekalu hili."
+  }
+}

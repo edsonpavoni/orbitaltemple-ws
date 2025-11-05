@@ -1,0 +1,167 @@
+{
+  "title": "Okuwagira Orbital Temple - Weegatte ku Mission",
+  "heading": "Okuwagira Yeekaalu ya Orbital",
+  "vision": "Nga <strong>November 28, 2025</strong> , <strong>Orbital Temple</strong> egenda kusimbulwa okuva <strong>e Buyindi</strong> ng’eri ku muzinga <strong>gwa ISRO</strong> . Setilayiti y’ebyemikono eyeetabamu okuva mu Global South, kijjukizo ky’okuyingiza abantu bonna mu ngeri ey’amaanyi, omukutu gw’okusomesa, era omutandisi w’emboozi y’ensi yonna ku biseera by’omu maaso eby’ebitukuvu mu mulembe gwa tekinologiya, AI n’okunoonyereza mu bwengula.",
+  "videoCaption": "Enyanjula ya vidiyo ya Orbital Temple, eddakiika emu.",
+  "accomplished": {
+    "heading": "Bye Tutuukiddeko",
+    "content": "Oluvannyuma lw’emyaka ena nga banoonyereza n’okukulaakulanya, omulimu guno gwetegefu. Tumalirizza <strong>okukola hardware ne software</strong> za satellite, tuyise mu <strong>kugezesebwa okutongole okwa shaker</strong> okwetaagisa okusobola okufuna satifikeeti y’ennyonyi, era tumalirizza endagaano yaffe ne ISRO. Setilayiti yazimbibwa. Tekinologiya akola. Tulongooseddwa okutongoza."
+  },
+  "funding": {
+    "heading": "Enkulaakulana mu by’ensimbi",
+    "raised": "okusitulwa kwa",
+    "of": "-a",
+    "goal": "okuteeba",
+    "button": "Wagira Obubaka"
+  },
+  "needs": {
+    "heading": "Bye Twetaaga Obuwagizi",
+    "intro": "Okumaliriza omulimu guno ogw’ebyafaayo n’okutumbula enkola yaago, twetaaga obuwagizi eri ebitundu bitaano ebikulu:",
+    "launch": {
+      "title": "Ebisale by'okutongoza ISRO:"
+    },
+    "travel": {
+      "title": "Olugendo lw'abayimbi e Buyindi:"
+    },
+    "carbon": {
+      "title": "Enteekateeka ya Carbon Offset:"
+    },
+    "education": {
+      "title": "Enteekateeka y'ebyenjigiriza:"
+    },
+    "docPreProd": {
+      "title": "Documentary Nga Tennafulumizibwa:"
+    },
+    "docProd": {
+      "title": "Okufulumya Ebiwandiiko:"
+    }
+  },
+  "decade": {
+    "heading": "Emyaka Ekkumi Egiri Mu maaso",
+    "intro": "Omulimu guno tegukoma nga November 28, 2025. Gutandise.",
+    "paragraph1": "For the next <strong>10 years</strong> , satellite eno ejja kwetooloola Ensi, ng’eddamu amannya agasindikibwa okuva mu buli nsonda ya pulaneti. Enteekateeka eno ey’okusomesa egenderera okutendeka <strong>enkumi n’enkumi z’abavubuka</strong> mu tekinologiya wa satellite, okumenyawo ekituli kya <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Space Gap</a> for the Global South. Ekiwandiiko kino kigenda kutuuka ku <strong>bukadde n’obukadde</strong> mu nsi yonna, kireetewo emboozi ezikwata ku kubeera, okujjukira, n’ebitukuvu.",
+    "paragraph2": "Orbital Temple ekolagana ne <strong>Sathi Roy</strong> ne <strong>The Roy Foundation</strong> okufuula okwolesebwa kuno okumaze emyaka kkumi okw’amakulu mu by’obuwangwa. Roy Foundation kibiina ekitali kya magoba ekyewaddeyo okugaziya okufuna eby’okusomesa eby’omwoyo, okuwonya enneewulira, n’ebikozesebwa mu kutegeera eri ebitundu ebitaweebwa buweereza bulungi mu nsi yonna, okugatta amagezi ag’edda ne tekinologiya ow’omulembe okutondawo ensi esinga okutegeera, ey’okuyungibwa, n’okusaasira. Nga tuli wamu, tuzimba ebikozesebwa okulaba nga Orbital Temple efuuka ekibiina ekiwangaala ekituuka mu bitundu okwetoloola ensi yonna.",
+    "paragraph3": "Obuwagizi bwammwe tebumala gasonda ssente za kutongoza; kitondekawo ekibiina ekigenda okuddirira okumala emyaka kkumi n’okuzzaamu amaanyi omulembe oguddako ogw’abayiiya ne bayinginiya mu bwengula."
+  },
+  "waysToSupport": {
+    "heading": "Engeri y'Okuwagira",
+    "individualDonations": {
+      "heading": "Okuwaayo kw’omuntu kinnoomu",
+      "intro": "Weegatte ku misoni ku mutendera ogukukolera. Abawagizi ssekinnoomu gwe musingi gwa pulojekiti eno ey’ebyafaayo.",
+      "orbitalFriend": {
+        "title": "Mukwano gwa Orbital",
+        "benefits": "Ofuna: Erinnya ku mukutu gwa yintaneeti honor roll · Personalized orbital certificate nga satellite launches · Documentary okwebaza credit · Tax-deductible Receipt",
+        "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+      },
+      "satelliteSupporter": {
+        "title": "Omuwagizi wa Satellite",
+        "benefits": "Ofuna: Emigaso gyonna egya Orbital Friend · Okuyingira mu app ey’okulondoola satellite ey’enjawulo · Obubaka bwa vidiyo obw’okwebaza omuyimbi · Lisiiti eggyibwako omusolo",
+        "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+      },
+      "spaceAdvocate": {
+        "title": "Omuwolereza w’Eby’Obwengula",
+        "benefits": "Ofuna: Emigaso gyonna egya Satellite Supporter · Erinnya erikubiddwa mu biwandiiko · Okuyitibwa mu kusengejja ebiwandiiko eby’obwannannyini · Ebipya buli luvannyuma lwa myezi esatu okuva mu ttiimu · Lisiiti eggyibwako omusolo",
+        "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Ensimbi Ekitundu Ekigere",
+    "intro": "Omutemwa gwo gusasula butereevu ebintu ebitongole ebikwata ku buminsani. Londa ekyogera naawe, oba gatta ebingi okukola impact ennene.",
+    "launch": {
+      "title": "Ensimbi z'okutongoza abantu mu bwengula",
+      "description": "Okusindika kwennyini kwasaasaanyizibwa ku muzinga <strong>gwa ISRO</strong> nga <strong>November 28, 2025</strong> . Kino kisindika Orbital Temple mu nkulungo, gy’egenda okumala emyaka kkumi nga satellite ey’ebyemikono eyeetabamu ne yeekaalu mu bbanga, etuukirirwa omuntu yenna mu nsi.",
+      "benefits": "Ofuna: \"Launch Sponsor\" title · Featured in all press releases · On-screen documentary accknowledgment · VIP access to launch events · Weegatte ku ssimu za vidiyo buli luvannyuma lwa myezi esatu ne Edson ne ttiimu y'obutume · Satifikeeti erimu data y'enzirukanya ya satellite · Lisiiti eggyibwako omusolo",
+      "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+    },
+    "travel": {
+      "title": "Ensimbi z'Olugendo lw'Omuyimbi e Buyindi",
+      "description": "Entambula, okusula, n&#39;ebisale by&#39;okufulumya omuyimbi Edson Pavoni ne core team okulaba okutongozebwa mu <strong>Buyindi nga November 28, 2025</strong> . Olugendo luno lwetaagisa nnyo mu kukwata firimu z’ebiwandiiko, okufulumya emikutu gy’amawulire, n’okukiikirira Global South mu kiseera kino eky’ebyafaayo.",
+      "benefits": "Ofuna: Okwebaza okw’obuntu okuva eri omuyimbi · Okufuna ebiwandiiko emabega w’empenda · Erinnya mu biwandiiko · Lisiiti eggyibwako omusolo",
+      "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+    },
+    "carbon": {
+      "title": "Ensimbi z’enteekateeka y’okukendeeza ku kaboni",
+      "description": "Omukka gwonna ogufuluma mu kaboni gugenda kuggwaawo omuli okusindika emizinga n’okukola setilayiti eno. Tukolagana ne pulogulaamu ezikakasibwa ez’okukendeeza ku kaboni okulaba ng’omulimu guno tegulekawo kigere kibi ku butonde bw’ensi.",
+      "benefits": "Ofuna: Erinnya mu lukalala lw’ekitiibwa ku mukutu gwa yintaneeti · Satifikeeti ey’obuntu · Lisiiti eggyibwako omusolo",
+      "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+    },
+    "education": {
+      "title": "Ensimbi Enteekateeka y’Ebyenjigiriza",
+      "description": "Okukola n’okutongoza omusomo omujjuvu ogw’ennimi nnyingi nga guyigiriza abatiini ba Global South engeri y’okuzimbamu setilayiti. Mulimu okukola ensoma, okukola vidiyo, okukyaza ku mukutu, n’omwaka ogusooka ogwa sikaala eri abayizi abataweebwa buyambi bulungi. Akola ebikozesebwa ebiwangaala eby’okusomesa mu bwengula.",
+      "benefits": "Ofuna: \"Education Founding Sponsor\" okusiimibwa · Sikolashipi mu linnya lyo · Efulumira mu bikozesebwa mu by'enjigiriza · Sisinkana ekibinja ky'abayizi abasooka scholarship yo gye yawa ssente (virtual oba in-person) · Documentary feature segment · Omukisa gw'okwogera ku mikolo gy'okutongoza · Tax-deductible Receipt",
+      "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+    },
+    "docPreProd": {
+      "title": "Ensimbi z'okukola Documentary Pre-Production",
+      "description": "Ensimbi z&#39;omutendera ogusooka ogwa <strong>&quot;Kiki Ekifuula Yeekaalu?&quot;</strong> ebiwandiiko. Mulimu okukola yintaviyu 2 ez’obuziba mu <strong>Buyindi</strong> n’abakulembeze b’ebirowoozo n’abakozi b’eby’omwoyo, okutambula kw’abakozi abatono n’okufulumya, n’okulongoosa obutambi nga tebannaba kukola. Omutendera guno gwe guteekawo omusingi gw’ekiwandiiko era ne gukakasa obulagirizi bw’okuyiiya.",
+      "benefits": "Ofuna: Associate Producer credit · Erinnya mu documentary credits · Okulaga ebifaananyi eby’obwannannyini nga tebinnaba kufulumizibwa · Okuyingira emabega w’empenda · Lisiiti eggyibwako omusolo",
+      "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+    },
+    "docProd": {
+      "title": "Ensimbi z'okukola Documentary Production",
+      "description": "Okufulumya okujjuvu n&#39;okufulumya oluvannyuma lw&#39;okufulumya <strong>&quot;Kiki Ekifuula Yeekaalu?&quot;</strong> , ekiwandiiko ekinene ekinoonyereza ku nkulungo y’ebifaananyi, tekinologiya, n’ebitukuvu. Mulimu okukwata firimu mu nsi eziwera, okubuuza ebibuuzo ebirala n’abakulembeze b’endowooza, okulongoosa mu bujjuvu, okugabanya langi, okukola amaloboozi, n’okulaga firimu mu <strong>Buyindi</strong> ne <strong>NYC</strong> .",
+      "benefits": "Ofuna: Executive Producer credit · Featured in opening credits · Private screening for your guests · World premiere invitations (ebibuga byombi) · Ekyeggulo eky’obwannannyini ne Edson ne documentary director nga tebannaba kusooka · Okuyingira emabega w’empenda · Lisiiti eggyibwako omusolo",
+      "button": "Kola Okuwaayo Okuggyibwako Omusolo"
+    },
+    "artCollector": {
+      "title": "Fuuka Omukung'aanya w'Ebyemikono mu Yeekaalu Yekka ow'Enkulungo",
+      "imageAlt": "Okuteekebwawo kwa Yeekaalu ya Orbital ku Mercosul Biennial",
+      "imageCaption": "Yeekaalu ya Orbital mu mpaka za Mercosul Biennial ez’omulundi ogwa 13, Porto Alegre. Ekifaananyi kya Clara Marques.",
+      "paragraph1": "Setilayiti ssatu ezifaanagana zazimbibwa okukola omulimu guno. <strong>Ekimu</strong> kigenda kusindikibwa mu bwengula nga November 28, 2025. <strong>Ekimu</strong> kigenda mu myoleso gy’ebifo eby’edda mu nsi yonna. <strong>Ekimu</strong> kiterekeddwa omukung’aanya omugabi ayagala okusonda ssente z’okwolesebwa kuno n’okuba n’ekitundu ky’ebyafaayo by’ebifaananyi eby’omu bwengula.",
+      "paragraph2": "Kino si kikoppi; y’emu ku sseetilayiti essatu ezaasooka. <strong>Emmeeri ekola mu</strong> bujjuvu nga nayo <strong>kibumbe</strong> . Setilayiti eno epimibwa <strong>sentimita 5</strong> ate ng&#39;ezitowa <strong>245g</strong> , ng&#39;erina dome ekoleddwa mu <strong>zaabu</strong> .",
+      "paragraph3": "Kino kikoleddwa mu ngeri ya <strong>1/1 artwork</strong> .",
+      "paragraph4": "Nga omukung’aanya, ojja kufuna okuteekebwako kwe kumu okwatondebwawo ku <strong>13th Mercosul Biennial</strong> , okwolesebwa okujjuvu okw’eby’edda okulaga setilayiti nga byombi eby’emikono ne tekinologiya. Ensimbi eno eyolesebwa mu bifo ebikulu eby’ensi yonna era ekiikirira omutindo ogw’awaggulu ogw’okulaga ebifaananyi eby’omu bwengula.",
+      "paragraph5": "Obuwagizi bwammwe buyamba okusonda ssente z’okwolesebwa kwonna: okutongoza, enteekateeka y’okusomesa, n’ekiwandiiko ekigenda okuleeta emboozi z’ensi yonna ku bitukuvu mu mulembe gwa tekinologiya, AI n’okunoonyereza mu bwengula. Erinnya lyo lifuuka likwatagana enkalakkalira n’obutume buno obw’ebyafaayo.",
+      "button": "Buuza Ku Mukisa Guno"
+    }
+  },
+  "gratitude": {
+    "heading": "Nga Twebaza Abawagizi Baffe",
+    "intro": "Orbital Temple esoboka ebitongole, abantu ssekinnoomu, n’abakkiriza mu kuyingizibwa mu nkola ey’amaanyi abategeera nti ebifaananyi bitonda ebirowoozo by’enkya.",
+    "pearmill": {
+      "title": "Omuwagizi Omutandisi",
+      "description": "Pearmill kye kimu ku bitongole ebisinga okukula amangu mu kutunda emirimu mu Amerika, ekibinja kya ba dizayina, abasuubuzi, ne bayinginiya nga bakolera wamu okuyamba okukulaakulanya ebimu ku bitongole ebisinga okumanyika mu nsi yonna. Obuwagizi bwabwe obw’omutima omugabi bwasobozesa ttiimu ya Orbital Temple okugula ebitundu ebikulu n’okukola ebikozesebwa ebiggule ebisobozesa omulimu guno ogwa setilayiti."
+    },
+    "yourName": "Erinnya lyo liyinza okuba nga liri wano. Twegatteko mu kutondawo ebyafaayo."
+  },
+  "people": {
+    "heading": "Abantu Abali Emabega Wa Mission Eno",
+    "intro": "Orbital Temple yeeyamo ya myaka 10. Kikulemberwa abantu babiri abamaze obulamu bwabwe nga bakwatagana mu by’emikono, tekinologiya, n’okukwatagana kw’abantu, era nga bazimba ebikozesebwa okuyimirizaawo okwolesebwa kuno okumala emyaka ekkumi egijja.",
+    "edson": {
+      "name": "Edson Pavoni, omuwandiisi w’ebitabo",
+      "role": "Omuyimbi & Omukugu mu tekinologiya",
+      "paragraph1": "Edson muyiiya era mukugu mu tekinologiya anoonyereza ku mukwano gw’abantu ku nkulungo y’ebifaananyi ne tekinologiya. Enkola ye ekwata ku bifo eby’okuzimba, ebitontome, okukuba ebifaananyi, ne tekinologiya wa setilayiti.",
+      "paragraph2": "Emirimu gye gyayolesebwa mu mpaka za Mercosul Biennial ez’omulundi ogwa 13 (Brazil), IX International Biennale (Uzbekistan), ne NTU Global Digital Art Prize (Singapore).",
+      "paragraph3": "Nga amaze <strong>emyaka egisukka mu 20 mu by&#39;emikono ne tekinologiya</strong> , akoze ne ttiimu z&#39;abayiiya mu <strong>mizannyo gya Olympics e Rio mu 2016</strong> ne <strong>Inter American Development Bank</strong> . Yalondebwa ng’omu ku <strong>bakugu mu Brazil 50 abasinga okuyiiya</strong> okuva mu Proxxima Magazine, yafuna <strong>engule za IF Design Awards</strong> bbiri ez’omuddiring’anwa (2017-2018) era nga yatuuka ku fayinolo y’ekirabo <strong>kya Lumen Prize Futures Award</strong> . Emirimu gye gibadde gyolesebwa mu biseera bibiri eby’emyaka ebiri era nga gyanjulwa mu <strong>Ludwig Museum of Contemporary Art</strong> (Budapest), <strong>Inhotim Institute</strong> (Brazil), ne <strong>Design and Fashion Museum</strong> (Lisbon), ng’emyoleso gy’eyolesebwa mu New York, Beijing, Singapore, Dubai, Rio de Janeiro, n’ebibuga ebirala."
+    },
+    "sathi": {
+      "name": "Sathi Roy, omuwandiisi w’ebitabo",
+      "role": "Omutandisi, The Roy Foundation & Omukwanaganya w’emirimu mu nteekateeka",
+      "paragraph1": "Sathi ye mutandisi wa <strong>The Roy Foundation</strong> , ekitongole ekitali kya magoba ekyewaddeyo okugaziya okufuna eby’okusomesa eby’omwoyo, okuwonya enneewulira, n’ebikozesebwa mu kutegeera eri ebitundu ebitali biweereddwa bulungi okwetoloola ensi yonna. Omusingi guno gukolagana n’amasomero, ebitongole by’ebyobuwangwa, n’ebibiina by’omu kitundu okusaasaanya ebikozesebwa mu bulamu obulungi ebikozesa AI, ensoma y’ekitundu, n’emikutu gy’amawulire egikubiriza enkyukakyuka.",
+      "paragraph2": "Olw’okuba alina obumanyirivu mu by’obusimu, okutendeka, n’obukulembeze, Sathi azimbye n’okukulembera ttiimu okwetoloola North America ne Buyindi, ng’akola <strong>obukadde bwa ddoola 600</strong> mu kutunda buli mwaka mu mulimu gumu. Era ye mutandisi wa <strong>OHM</strong> , ekibiina ky’eby’omwoyo ekisooka mu dijitwali, Co-Founder wa <strong>SUTE</strong> (omukutu gwa ofiisi oguvugirwa mu ngeri ya digito AI), era aweereza nga Omuwabuzi era akulira enkulaakulana mu nsi yonna mu <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Ng’omukyala Omubengali-Amerika agatta obufirosoofo bw’Ebuvanjuba n’obw’amawanga g’obugwanjuba, Sathi aleeta endowooza ey’enjawulo ku nteekateeka z’eby’omwoyo n’eby’ekikugu mu kyasa 21. With a growing network of <strong>65,000+ followers</strong> and over <strong>40 million online impressions</strong> , azimba ebitundu by’ensi yonna ebikwatagana okuyita mu njawukana z’obuwangwa n’eby’omwoyo."
+    },
+    "together": "Nga tuli wamu ne The Roy Foundation, tuzimba omulimu ogw’emyaka 10 ogugatta eby’emikono, tekinologiya, ebyenjigiriza, n’ebitukuvu, okutandika n’okutongoza setilayiti nga November 28, 2025, n’okugenda mu maaso n’ekibiina ekigenda okutuuka mu bitundu ebitali biweereddwa buyambi mu nsi yonna n’okuzzaamu omulembe oguddako amaanyi."
+  },
+  "join": {
+    "heading": "Twegatteko",
+    "content": "Setilayiti yazimbibwa. Tekinologiya yeetegese. Olunaku lw’okutongoza luteekeddwawo: <strong>November 28, 2025</strong> . Kino kye kiseera okwegatta ku misoni eddaamu okulowooza ku by’emikono by’esobola okukola, gye bisobola okugenda, n’ani bye bisobola okuweereza.",
+    "fundSpecific": {
+      "heading": "Ensimbi Ekitundu Ekigere oba Fuuka Omukwano Omutandisi",
+      "description": "Londa emu ku mikisa gy’okusonda ssente waggulu, buuza ku ky’okufuuka omukung’aanya w’ebifaananyi, oba okukubaganya ebirowoozo ku kuwagira kwa custom okukwatagana n’okwolesebwa kwo.",
+      "button": "Tukwasaganye Okutandika →"
+    },
+    "generalDonation": {
+      "heading": "Kola Omutemwa oguggyibwako Omusolo",
+      "description": "Ensimbi zonna, ennene oba entono, ziwagira omulimu guno era ziggyibwako omusolo nga tuyita mu muwagizi waffe ow’ebyensimbi, The Field.",
+      "button": "Waayo ng'oyita mu The Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Okuwaayo Okuggyibwako Omusolo",
+    "paragraph1": "Orbital Temple ye pulojekiti eyambibwako eby’ensimbi eya <strong>The Field (Performance Zone Inc.)</strong> , ekitongole ekitali kya magoba ekya <strong>501(c)(3)</strong> ekisangibwa mu New York. Ensimbi zonna eza Amerika ziggyibwako omusolo okutuuka ku kigero ekikkirizibwa mu mateeka.",
+    "paragraph2": "<strong>Ennimiro</strong><br> 75 Maiden Lane, mu kisenge kya Suite 906<br> New York, NY 10038. Enkola y’okusomesa abantu<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Bw&#39;oba owaayo ssente mu ceeke, nsaba okole okusasulwa eri <strong>Performance Zone Inc.</strong> n&#39;ekiwandiiko: <strong>&quot;Edson Pavoni: Orbital Temple&quot;.</strong>"
+  }
+}

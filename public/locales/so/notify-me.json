@@ -1,0 +1,13 @@
+{
+  "title": "La Ogaysiiyo - Macbadka Orbital",
+  "heading": "La Ogaysii Markay Kacdo",
+  "description": "Noofambar 28, 2025, Macbadka Orbital ayaa kor u kici doona.<br> Ka tag e-mailkaaga, waxaanu kuu sheegi doonaa marka uu meel bannaan gaadho.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Dir",
+    "sendingButton": "Diraya...",
+    "successMessage": "Waanu ku soo gaadhi doonnaa markay kor u kacdo.",
+    "errorMessage": "Wax baa khaldamay Fadlan isku day mar kale"
+  },
+  "backLink": "← Dib ugu noqo tirinta"
+}

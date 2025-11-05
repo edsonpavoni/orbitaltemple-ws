@@ -1,0 +1,61 @@
+{
+  "title": "گۇرۇپپا - ئوربىتا بۇتخانىسى",
+  "heading": "Team",
+  "artist": "ئېدسون پاۋونى ، سەنئەتكار",
+  "roles": {
+    "executiveProducer": {
+      "heading": "ئىجرائىيە ئىشلەپچىقارغۇچى",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "ئالەم قاتنىشى ۋە سىستېما قۇرۇلۇشى",
+      "members": "پېدرو كالېد ، جوۋ پېدرو پولىتو ، ۋىكتور باپتىستا ۋە جوۋ ۋىكتور ئالۋېس"
+    },
+    "electronic": {
+      "heading": "ئېلېكترونلۇق قۇرۇلۇش",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "يۇمشاق دېتال",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "لايىھىلەش ۋە بىناكارلىق",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D بېسىش",
+      "members": "ئېدۋاردو دىياسنىڭ رەھبەرلىكىدە قاتتىق ئۇقۇم"
+    },
+    "rendering": {
+      "heading": "3D Rendering",
+      "members": "Guilherme Bullejos & RiseNy & Partners"
+    },
+    "research": {
+      "heading": "تەتقىقات",
+      "members": "روبېرتا ساۋيان روزا ۋە كلارا ماركېس"
+    },
+    "exhibition": {
+      "heading": "كۆرگەزمە ئىشلەپچىقىرىش ، فوتوگرافلىق ۋە مەزمۇن يارىتىش",
+      "members": "كلارا مارك"
+    },
+    "silkScreen": {
+      "heading": "كۆرگەزمىنىڭ يىپەك ئېكرانى",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "مائارىپ تۈرى",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "ئالاقە گۇرۇپپىسى",
+      "members": "فلاۋىيو ۋىدىگال ، ئاندرې خولزمېيستېر ، پېدرو ۋىدىگال ، تاتيانې پۇتتى ، رافائىل فېرناندېس ، برۇنا قاھىرە"
+    },
+    "specialThanks": {
+      "heading": "ئالاھىدە رەھمەت",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "ئېدسون پاۋونى ، ساتى روي ، پېدرو كالېد ، جوۋ پېدرو پولىتو ، ۋىكتور باپتىستا ، جوۋ ۋىكتور ئالۋېس ، ئاندرې بىياگونى ، VK ، جوناتان كۇئېرۇبىنا ، گىلېرمې بۇللېجوس ، ئېدۋاردو دىياس ، روبېرتا ساۋيان روزا ، كلارا ماركېس ، دافنې ئالۋېس ، فلاۋىئو ۋىدىگال Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY & Partners, IdeaSpace",
+  "imageAlt": "ئوربىتا بۇتخانىسى سۈنئىي ھەمراھى"
+}

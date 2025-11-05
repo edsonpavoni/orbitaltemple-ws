@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "कलाकृति",
+    "sendAName": "नाम पठाउनुहोस्",
+    "fromTheArtist": "कलाकारबाट",
+    "yetAnotherTemple": "अझै, अर्को मन्दिर?",
+    "howItWorks": "यो कसरी काम गर्छ?",
+    "spaceLaunch": "अन्तरिक्ष प्रक्षेपण र जोखिमहरू",
+    "briefHistory": "अन्तरिक्षमा कलाको संक्षिप्त इतिहास",
+    "education": "शिक्षा र खुला स्रोत",
+    "sustainability": "दिगोपन र अन्तरिक्ष फोहोर",
+    "press": "प्रेस र मिडिया",
+    "team": "टोली",
+    "partners": "साझेदारहरू",
+    "support": "समर्थन",
+    "technicalInfo": "प्राविधिक जानकारी"
+  },
+  "ritual": {
+    "label": "अनुष्ठान",
+    "ariaLabel": "अनुष्ठानमा प्रवेश गर्नुहोस् - कक्षीय मन्दिरमा नाम पठाउनुहोस्"
+  },
+  "footer": {
+    "credits": "Orbital Temple Edson Pavoni द्वारा एक कलाकृति हो, Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Sathi Rosa, Sathi Maryques लाई पठाउने सबैको नाम यो मन्दिरमा जारी राख्ने साथमा सिर्जना गरिएको हो।"
+  }
+}

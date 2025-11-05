@@ -1,0 +1,44 @@
+{
+  "title": "Ka yimid Fanaanka",
+  "opening": {
+    "question": "Waa kuma ninkan soo jeedinaya macbad meel bannaan ah?",
+    "thanks": "Waad ku mahadsan tahay su'aasha.",
+    "answer": "Jawaabta oo kooban waa anigu fanaan baan ahay. Midka dheer waa kan:"
+  },
+  "origin": {
+    "sao_paulo": "Waxaan ku dhashay duleedka São Paulo, xaafad i bartay goor hore waxa khatartu ka dhigan tahay. Qaar badan oo asxaabta dugsiga ah ayaa hadda xabsiga ku jira. Aabahay oo aabbahay ayaa xabsiga ku jira. Rabshadu ma ahayn wax aan wax ka akhriyo, waxay ahayd aduunka inaan dhex socdo. Oo waan ogaa inaan u baahanahay inaan baxsado.",
+    "technology": "Tiknoolajiyadu waxay noqotay jidkii aan ka bixi lahaa. Waxaan bartay barnaamijka, waxaan bartay qalabka elektaroonigga ah anigoo dhalinyaro ah. Codku wuxuu ahaa luuqad i geyn karta meel kale. Ku shaqaynta tignoolajiyada waxay ahayd ka baxsashada faqriga.",
+    "christianity": "Laakiin sidoo kale waxaan raadinayey lahaanshaha, jacaylka, wax aan rumaysto. Waxaan helay Masiixiyadda, ama way i heshay. Waa la i aqbalay. Waa la i jeclaa. Waxaan lahaa beel. Waxaan bartay inaan cafiyo, rumeeyo, inaan u wada guurno ujeedo weyn.",
+    "price": "Qiimaha, in kastoo, uu ahaa mid sarreeya. Waxa kale oo aan bartay waxyaabo badan oo aan weli baranayo. Markaa taasna waan ka baxsaday."
+  },
+  "searching": {
+    "walls": "Waan garanayaa waxa gidaarada sameeyo. Waan dareemay. Labada dhinacba waan ka soo jeeday: waa la hayaa, waa la hayaa. Waxa xigtay sannado badan oo aan raadinayey wax aanan magacaabi karin. Ilaahay wuu dhintay sanadahaas. Ilaahii la i baray, si kastaba ha ahaatee, kan leh xeerar iyo xukun iyo albaabo dadka qaar uun u furnaa.",
+    "art": "Waxaan bilaabay samaynta farshaxan si aan u baadho su'aalahan: ku saabsan xidhiidhka iyo farsamada, ku saabsan xusuusta iyo dhimashada, ku saabsan cidda mudan jannada. Waxaan bilaabay inaan dhiso mashiino dib u qiyaasa xidhiidhkayaga tignoolajiyada, mashiinada u baahan ka qaybqaadashadaada, joogitaankaaga, magacaaga, si aan uga beddelo birta iyo koodka wax nool."
+  },
+  "pandemic": {
+    "intro": "Kadib masiibada ayaa ku dhacday Brazil.",
+    "government": "Markii tallaallada COVID dib loo dhigay, dawladdaydu waxay ka gorgortamaysay dib u celinta hal dollar halkiiba. Waxay kor u qaadeen daawada loo fahmay inay tahay mid aan waxtar lahayn, iyagoo qoslaya halka dadku ay dhinteen iyagoo ku dhibtoonaya inay neefsadaan. Maalin walba waxaan ku soo toosnay lambar kale. Imisa qof ayaa dhimatay 24-kii saac ee la soo dhaafay? Ma ka badnaa, mise ka yar intii la filayey?",
+    "war": "Dunida badhkeed ayaa baqday, badh kalena waa la diiday. Waxaan ku jirnay dagaal, fayraska iyo midba midka kale.",
+    "memorial": "Waxaan rabay inaan u abuuro meel bannaan oo murugo wadareed ah, sidaas darteed aniga iyo boqolaal qof waxaan abuuray Memorial Inumeráveis. Farshaxan ku yaal isgoyska fanka iyo saxaafadda. Waxaan waraysanay qoysas uu qof ka dhintay. Waxaan qornay taariikh nololeedkii qofka ay waayeen. Waxaan u bedelnay tirooyinka taariikh. Gabayo, heeso, riwaayado ayaa la sameeyay taariikhahaas. Xiddigaha ayaa sheekooyinkaas ka akhriyay telefishanka qaranka. Mashruucu wuxuu gaadhay malaayiin.",
+    "meaning": "Muhiimadu may ahayn miisaanka, ee waxay ahayd in sheeko kasta ay tahay magac, nolol, qof jannadiisa."
+  },
+  "discovery": {
+    "pattern": "In ka badan toban kun oo sheeko oo murugo leh ka dib, waxaa bilaabmay qaab. Marka aynu ka hadlayno qof dhintay, ma nidhaahno wanaag uun; Waxaan dooranaa qaybo sheekadooda ka mid ah sidii inaan qorayno warqad talobixin ah. Waano ku socota albaabkii jannada. Waxaan ku dadaaleynaa inaan u dirno meel la aqbali karo, nasasho, sharaf iyo xusuus.",
+    "understanding": "Oo waxaan fahmay shay wax walba beddelay: Waxaa na dhaawacday macbudyadii aan dhisnay. Caqiidadayada ku saabsan cidda u qalanta jannada ayaa si toos ah u qaabaysa cidda aynu ka saarayno Dhulka. Gumaystayaashii Boortaqiisku ee Brazil waxay rumaysnaayeen in dadka Madow aysan naf lahayn; rumayntaasi waxay xaq u leedahay addoonsiga. Haddaad asal ahaan lahayd, haddii aad meel khaldan ku dhalatay ama aad qof khaldan jeceshahay, waxaa laguu sheegay in albaabbada jannada lagaa xidhay.",
+    "birth": "Sidaas buu ku dhashay Macbadka Orbital."
+  },
+  "shaman": {
+    "secular": "Ma jiro farshaxan run ahaantii cilmaani noqon kara. Waxaan weligii ku xidhannahay awowgeenna guud, shaman. Bilowgii, waxaa jiray god. Dadku waxay ku rinjiyeen xayawaanka derbiyada si aanay u qurxin, laakiin si ay u baryaan. Way cayaareen, godkiina wuxuu noqday macbad. Shamanku wuxuu wataa ruuxa caadooyinka; fanaanku waxa uu wataa xamaasada fanka. Waxaan rinjiyeyneynaa, wax ku dhejineynaa, waxaan ku dhejineynaa, waxaan naqshadeynaa mustaqbalka aan rabno inaanan qurxin, laakiin inaan ku baaqno. Dhammaan farshaxanku waa ruuxa, xitaa marka uu sheegto inuusan ahayn."
+  },
+  "space": {
+    "question": "Xaggee baan ka dhisi karnaa macbad aan derbi lahayn? Meel aan ummad iyo diin sheegan karin. Halkaas oo aan ku qiyaasi karno nafteena sida hal koox.",
+    "answer": "Meel bannaan",
+    "description": "Dayax-gacmeed farshaxan oo ka qayb-gal ah oo ka yimid Koonfurta Caalamiga ah. Macbad ku yaal orbit oo ku martiqaadaya qof kasta inuu magacyadooda u soo diro meel bannaan, iyada oo aan loo eegin cidda ay yihiin, meesha ay ku dhasheen, cidda ay jecel yihiin, waxay aaminsan yihiin. Meel ay suurtogal tahay ka mid noqoshada xagjirka ah, ee wareega, ka baxsan xuduudaha.",
+    "mission": "Hadafkani waa il furan. Dukumeenti kasta oo farsamo, khad kasta oo kood ah ayaa si xor ah loo heli doonaa si fannaaniinta kale, bulshooyinka kale, quruumaha kale ay u dhisan karaan satalaytkooda. Markaa Global South kama qayb qaadato sahaminta hawada sare, balse waxay hogaamisaa."
+  },
+  "closing": {
+    "answer": "Haddaba waa kuma ninkan u dhisaya macbad meel bannaan ah? anigu ma dhisayo Macbudka waxaa dhisay qof kasta oo go'aansada inuu soo diro magac, si uu u arko inuu yahay mid muqadas ah, si uu u noqdo mid dhab ah. Aniga kaliya ayaa soo jeedinaya. Adiga ayaa dhisaya haddii aad go'aansato.",
+    "signature": "Si naxariis leh,",
+    "name": "Edson Pavoni"
+  }
+}

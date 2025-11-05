@@ -1,0 +1,31 @@
+{
+  "title": "ንቤተ መቕደስ ኦርቢታል ወፈያ ግበሩ",
+  "heading": "ወፈያኹም ምልኣዩ።",
+  "donatingTo": "ንዝምልከት ትልግሱ ዘለኹም፤",
+  "chooseHow": "ግብሪ ዝቑረጽ ወፈያኻ ብኸመይ ክትውድኦ ከም እትደሊ ምረጽ፤",
+  "option1": {
+    "heading": "1ይ ኣማራጺ፡ ሕጂ ብኢንተርነት ወፈያ",
+    "description": "ብክረዲት ካርድ፣ ደቢት ካርድ፣ ወይ ካልእ ናይ ኦንላይን ኣገባብ ክፍሊት ተጠቒምካ ብውሑስ ፊስካላዊ መወልቲና <strong>ዘ ፊልድ</strong> ኣቢልካ ብቕጽበት ወፈያኻ ምልኣዮ። ቅጽበታዊ ቅብሊት ግብሪ ክመጸካ እዩ።",
+    "button": "ብመንገዲ The Field → ወፈያ ግበሩ"
+  },
+  "option2": {
+    "heading": "2ይ ኣማራጺ፡ ኣብ ባንክ ተቐማጢ ገንዘብ ናብ ዘ ሮይ ፋውንዴሽን",
+    "description": "ቀጥታዊ ባንክ ተቐማጢ ገንዘብ ወይ ብገመድ ናብ <strong>The Roy Foundation</strong> , ስትራተጂካዊ መሻርኽትናን ፊስካላዊ ስፖንሰርናን ግበሩ። እዚ ኣማራጺ እዚ ንዝዓበየ ወፈያታት ወይ ኣህጉራዊ ዝውውር ምቹእ እዩ።",
+    "bankingInfo": "ሓበሬታ ባንክ",
+    "fields": {
+      "accountName": "ስም ሕሳብ፤",
+      "bankName": "ስም ባንክ፤",
+      "accountNumber": "ቁጽሪ ሕሳብ፤",
+      "routingNumber": "ቁጽሪ መስመር፤",
+      "swift": "ስዊፍት/ቢክ፤",
+      "reference": "መጣቀሲ፥"
+    },
+    "instructions": "በጃኹም ኣብቲ መወከሲ ቦታ &quot; <strong>Orbital Temple - {donationType}</strong> &quot; ኣእትዉ። ዝውውርኩም ምስ ወዳእኩም፡ ቅብሊት ግብሪኹም ንምርካብ ዝርዝር ናይ ዝውውርኩም ብኢመይል <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ብኢመይል ግበሩልና።",
+    "button": "ብዛዕባ ተቐማጢ ገንዘብ ርኸቡና →"
+  },
+  "taxInfo": {
+    "heading": "ግብሪ ዝቑረጽ ምሃብ",
+    "description": "ኦርቢታል ቴምፕል ብፊስካል ዝምወል ፕሮጀክት ናይ <strong>The Field (Performance Zone Inc.)</strong> , <strong>501(c)(3)</strong> ንመኽሰብ ዘይሰርሕ ትካል እዩ። ኩሉ ኣበርክቶታት ኣሜሪካ ብሕጊ ብዝፈቕዶ መጠን ግብሪ ይቑረጽ።",
+    "questions": "ሕቶታት? ብ <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> ርኸቡና።"
+  }
+}

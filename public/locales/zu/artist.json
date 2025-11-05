@@ -1,0 +1,44 @@
+{
+  "title": "Kusuka Kumculi",
+  "opening": {
+    "question": "Ubani lo mfana ongaphakamisa ithempeli emkhathini?",
+    "thanks": "Ngiyabonga ngombuzo.",
+    "answer": "Impendulo emfushane ithi ngiyiciko. Olude yilo:"
+  },
+  "origin": {
+    "sao_paulo": "Ngazalelwa emaphethelweni eSão Paulo, endaweni eyangifundisa ngisemncane ukuthi ingozi isho ukuthini. Abaningi babangane bami basesikoleni basejele manje. Ubaba ongizalayo usejele. Udlame kwakungeyona into engangifunda ngayo, kwakuwumhlaba okwakufanele ngiwuhambe. Futhi ngangazi ukuthi kwakudingeka ngibaleke.",
+    "technology": "Ubuchwepheshe baba yindlela yami yokuphuma. Ngafunda ukuhlela, ngafunda i-electronics ngisemusha. Ikhodi bekuwulimi olungangiyisa kwenye indawo. Ukusebenza ngobuchwepheshe kwaba ukuphunyula kwami ubumpofu.",
+    "christianity": "Kodwa futhi ngangifuna ukuba ngowakho, uthando, into engangikholelwa kuyo. Ngabuthola ubuKristu, noma bangithola. Ngamukelwa. Ngangithandwa. Nganginomphakathi. Ngafunda ukuthethelela, ukukholwa, ukuhamba ndawonye ngenjongo enkulu.",
+    "price": "Intengo, nokho, yayiphezulu. Ngifunde nezinto eziningi engingakazifundi. Ngakho nami ngaphunyuka kulokho."
+  },
+  "searching": {
+    "walls": "Ngiyazi ukuthi izindonga zenzani. Ngibazwile. Ngike ngaba nhlangothi zombili: ngagcinwa ngaphandle, ngagcinwa. Okulandelayo kwaba iminyaka yokufuna into engingakwazi ukuyisho. UNkulunkulu wafa phakathi naleyo minyaka. Unkulunkulu engangifundiswe ngaye, noma kunjalo, onemithetho nokwahlulela neminyango evulekele abantu abathile kuphela.",
+    "art": "Ngaqala ukwenza ubuciko ukuhlola le mibuzo: mayelana nokusondelana kanye nobuchwepheshe, mayelana nenkumbulo nokufa, mayelana nokuthi ubani ofanelwe izulu. Ngaqala ukwakha imishini ecabanga kabusha ubudlelwano bethu nobuchwepheshe, imishini edinga ukuhlanganyela kwakho, ukuba khona kwakho, igama lakho, ukuze iguqule isuka ensimbi nekhodi ibe into ephilayo."
+  },
+  "pandemic": {
+    "intro": "Ngemuva kwalokho ubhubhane lwahlasela iBrazil.",
+    "government": "Lapho imithi yokugomela i-COVID ibambezeleka, uhulumeni wami wayexoxisana ngedola elilodwa ngethamo ngalinye. Bagqugquzele imithi okuqondwe ukuthi ayisebenzi, behleka ngenkathi abantu befa bezabalaza ukuphefumula. Sasivuka nsuku zonke ngenombolo ehlukile. Bangaki abantu abashonile emahoreni angama-24 edlule? Ingabe bekungaphezulu, noma kuncane kunalokho obekulindelwe?",
+    "war": "Ingxenye yomhlaba yayesaba, futhi enye ingxenye yayiphika. Sasisempini, sinegciwane futhi sisodwa.",
+    "memorial": "Bengifuna ukudala indawo yosizi oluhlangene, ngakho kanye namakhulu abantu ngakha iSikhumbuzo Inumeráveis. Umsebenzi wobuciko ezimpambanweni zobuciko nobuntatheli. Saxoxa nemikhaya eyashonelwa othile. Sibhale indaba yempilo yomuntu abalahlekelwe. Siguqule izinombolo zaba umlando. Izinkondlo, amaculo, ama-symphony enziwa ngaleyo milando. Izinkanyezi zazifunda lezo zindaba kumabonakude kazwelonke. Lo msebenzi wafinyelela ezigidini.",
+    "meaning": "Okwakubalulekile kwakungesona isikali, kwakuwukuthi indaba ngayinye kwakuyigama, ukuphila, izulu lothile."
+  },
+  "discovery": {
+    "pattern": "Ngemva kwezingxoxo ezingaphezu kwezinkulungwane eziyishumi ngosizi, kwaqala ukuvela iphethini. Uma sikhuluma ngomuntu oshonile, asigcini nje ngokusho izinto ezinhle; sikhetha izingcezu zendaba yabo njengokungathi sibhala incwadi yokuncoma. Isincomo kumgcinisango wepharadesi. Senza konke okusemandleni ethu ukubathumela endaweni yokwamukela, ukuphumula, udumo nenkumbulo.",
+    "understanding": "Futhi ngaqonda okuthile okwashintsha yonke into: Silinyazwe yiwona kanye amathempeli esawakha. Izinkolelo zethu mayelana nokuthi ubani ofanelwe izulu zibumba ngokuqondile ukuthi ubani esingabafaki eMhlabeni. Amakoloni angamaPutukezi eBrazil ayekholelwa ukuthi abantu abaMnyama abanamiphefumulo; leyo nkolelo yayithethelela ubugqila. Uma ungowomdabu, uma wazalelwa endaweni engafanele noma uthanda umuntu ongafanele, wawutshelwa ukuthi iminyango yezulu ivaliwe kuwe.",
+    "birth": "Yazalwa kanjalo-ke i-Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Alikho iciko elingase libe nezwe langempela. Siboshelwe kuze kube phakade kukhokho wethu sonke, isangoma. Ekuqaleni, kwakukhona umhume. Abantu bapenda izilwane ezindongeni hhayi ukuze bazihlobise, kodwa bazicele. Badansa, umhume waba ithempeli. I-shaman iphethe umoya wesiko; umdwebi uphethe i-aura yobuciko. Siyapenda, siyaqopha, sibhala amakhodi, siklama ikusasa lethu esilifisayo hhayi ukuhlobisa, kodwa ukucela. Bonke ubuciko bungokomoya, ngisho nalapho buthi abukho."
+  },
+  "space": {
+    "question": "Besingalakha kuphi ithempeli elingenazindonga? Lapho kungekho sizwe noma inkolo engase ithi. Lapho singazibona siyiqembu elilodwa.",
+    "answer": "Isikhala.",
+    "description": "Isathelayithi yobuciko ebambe iqhaza evela eGlobal South. Ithempeli elisemzileni elimema wonke umuntu ukuthi athumele amagama abo emkhathini, kungakhathaliseki ukuthi bangobani, bazalelwa kuphi, bathanda bani, bakholelwani. Indawo lapho ukufakwa okukhulu kungenzeka khona, ku-orbit, ngale kwemingcele.",
+    "mission": "Le mission ingumthombo ovulekile. Yonke imibhalo yezobuchwepheshe, yonke imigqa yekhodi izotholakala mahhala ukuze abanye abaculi, eminye imiphakathi, ezinye izizwe zikwazi ukuzakhela amasathelayithi azo. Ngakho iGlobal South ayigcini nje ngokubamba iqhaza ekuhloleni indawo, kodwa iyahola."
+  },
+  "closing": {
+    "answer": "Ubani-ke lo mfana ongakha ithempeli emkhathini? Angilakhi. Ithempeli lakhiwa yiwo wonke umuntu onquma ukuthumela igama, ukulibona njengelingcwele, ukulenza libe ngokoqobo. Yimina nje ohlongozayo. Uwena oyakhayo uma unquma.",
+    "signature": "Ngomusa,",
+    "name": "Edson Pavoni"
+  }
+}

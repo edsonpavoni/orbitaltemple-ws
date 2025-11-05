@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Macbadka Orbital",
+    "subtitle": "waa farshaxan iyo dayax-gacmeed,\nujeedadiisu tahay inuu noqdo macbad loo wada dhan yahay oo xagjir ah,\nmeel aan darbi soo gaadhi karin."
+  },
+  "ritual": {
+    "label": "caado"
+  },
+  "cta": {
+    "link": "Haddana, macbad kale?",
+    "arrowAlt": "fallaadho"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

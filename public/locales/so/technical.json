@@ -1,0 +1,17 @@
+{
+  "title": "Macluumaadka Farsamada - Macbadka Orbital",
+  "heading": "Macluumaadka Farsamada",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Cabirka: 50x58x64 mm<br /> 1P PocketQube<br /> Miisaanka: 245 g<br /> Qalabka: aluminium, dahab, fiberglass, iyo qaybaha elektarooniga ah.<br /> Orbit: Jooga 525 ± 25 km; u janjeero: SSO 97.6 ± 0.1°<br /> Soo-saare: PSLV (Gaadhiga Dayax-gacmeedka Polar) oo ay maamusho ISRO"
+  },
+  "antenna": {
+    "heading": "Anteenada/Sculpture",
+    "specs": "Cabirka: 6m (dhexroor) iyo 1.2m (dherer)<br /> Miisaanka: 46 kg<br /> Qalabka: aluminium, looxa muraayada epoxy, qubbad aluminium dahabi ah oo laga hakiyay qaab dhismeed."
+  },
+  "radio": {
+    "heading": "Qaybaha Raadiyaha",
+    "specs": "Downlink: 468.5 MHz<br /> Habaynta: CSS<br /> Bandwidth: TBD"
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

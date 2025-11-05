@@ -1,0 +1,61 @@
+{
+  "title": "Turma - Templum Orbitale",
+  "heading": "Turma",
+  "artist": "Edson Pavoni, artifex",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Productor Exsecutivus",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Ingeniaria Aerospatialis et Systematum",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ingeniaria Electronica",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Programmata",
+      "members": "Ionathan Cherubina"
+    },
+    "design": {
+      "heading": "Designatio et Architectura",
+      "members": "Gulielmus Bullejos"
+    },
+    "printing": {
+      "heading": "Impressio Tridimensionalis",
+      "members": "Solid Concepts, sub ductu Eduardi Dias"
+    },
+    "rendering": {
+      "heading": "Redditio Tridimensionalis",
+      "members": "Guilherme Bullejos & RiseNy&Socii"
+    },
+    "research": {
+      "heading": "Investigatio",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Productio Exhibitionis, Photographia et Creatio Contenti",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Serica Exhibitionis",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Proiectum Educationis",
+      "members": "Spatium Ideae"
+    },
+    "communication": {
+      "heading": "Turma Communicationis",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Gratiae Speciales",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Ratos Concei, Pedro Vidigal, Ratos Concei, Pedro Vidigal, Ratos Concei, P. Solidos, RiseNY&Socii, IdeaSpace",
+  "imageAlt": "Satellites Orbitalis Templi"
+}

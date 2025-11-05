@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Luakini Orbital",
+    "subtitle": "he hana noʻeau a he ukali,\nka manaʻo e lilo i luakini hoʻohui ʻia,\nma kahi i hiki ole i ka pa."
+  },
+  "ritual": {
+    "label": "hoʻomana"
+  },
+  "cta": {
+    "link": "Eia naʻe, he luakini ʻē aʻe?",
+    "arrowAlt": "pua"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Artelana - Orbital Temple",
+  "heading": "Artelana",
+  "intro": {
+    "paragraph1": "Orbital Temple misio artistikoa duen satelite bat da: Lurrean bizi den edo bizi izan den izaki sentikor guztientzat irekita dagoen kanpoko espazioko monumentu bat.",
+    "paragraph2": "Baliabide teknologikoen bidez, edonork bidal diezaioke norbaiten izena Tenplura, bai hildako norbait, bai bizirik dagoen pertsona bat, bai gogoratzea merezi duen edozein izaki."
+  },
+  "sculpture": {
+    "heading": "Eskultura",
+    "paragraph1": "Artelanak hiru elementu elkarren mendeko ditu: milaka milioi izen gordetzeko bereziki diseinatutako satelite bat; satelitearekin informazioa trukatzen duen eskultura publiko bat; eta parte-hartzaileek izenak zerura bidaltzen dituzten webgune bat, oraindik hil arte.",
+    "paragraph2": "Diziplina anitzeko ahalegin gisa, Orbital Temple espazioan bizi den eskultura gisa har daiteke. Artsat proiektu bat ere bada."
+  },
+  "antenna": {
+    "heading": "Antena eskultura publiko gisa",
+    "paragraph1": "Kanpoko espazioarekin konektatzen gaituen antena bat.",
+    "paragraph2": "Orbita-satelitearekin zuzenean komunikazioan egongo den antena bat diseinatzen ari da.",
+    "paragraph3": "Gainazal islatzaile urreztatu batekin, gaineko zerua islatzen duena, estimulazio masiborako (edo \"han goian\" dagoenarekiko dugun harremanerako) abiapuntu da.",
+    "paragraph4": "Eskulturak munduko leku gehienetan instalatuta ez dauden arren, satelitea kontrolatzen ari diren gure Lurretik datozen markoek izenak bidaltzen dituzte igarobide bakoitzean.",
+    "paragraph5": "Lagundu ikuspegi hau zure hirira ekartzen: espazioaren esplorazioari, arteari eta kosmosean dugun leku partekatuari buruzko elkarrizketak pizten dituzten antena-eskulturak instalatu. <a href=\"/support\">Lortu informazio gehiago proiektua babesteari buruz</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple satelitea",
+    "riseNy": "Orbital Temple at Rise NY",
+    "installation": "Clara Marquesen Orbita Tenplua",
+    "antenna": "Orbital Tenpluko Antena"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbita-tenplua espazioan. RiseNY&Partners-en 3D errendatzea.",
+    "mercosul": "Orbital Temple instalazioa Mercosul Bienalean, Porto Alegren, Brasilen.<br> Clara Marquesen argazkia."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Squadra - Tempiu Orbitale",
+  "heading": "Squadra",
+  "artist": "Edson Pavoni, artista",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Produttore Esecutivu",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Ingegneria Aerospaziale è di Sistemi",
+      "members": "Petru Kaled, João Pedro Polito, Victor Baptista è João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ingegneria Elettronica",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Design è Architettura",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Stampa 3D",
+      "members": "Cuncetti Solidi, sottu a dirigenza di Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rendering 3D",
+      "members": "Guilherme Bullejos & RiseNy & Partners"
+    },
+    "research": {
+      "heading": "Ricerca",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Pruduzzione di Mostre, Fotografia è Creazione di Cuntenutu",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Serigrafia di a mostra",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Prughjettu Educativu",
+      "members": "Spaziu d'Idea"
+    },
+    "communication": {
+      "heading": "Squadra di cumunicazione",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Ringraziamenti speciali",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Ta Fertiane, Rafael Puttios, Rafael Puttios RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satellite Orbitale di u Tempiu"
+}

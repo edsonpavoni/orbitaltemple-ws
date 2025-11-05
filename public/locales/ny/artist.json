@@ -1,0 +1,44 @@
+{
+  "title": "Kuchokera kwa Wojambula",
+  "opening": {
+    "question": "Kodi munthu uyu ndi ndani kuti apereke kachisi mumlengalenga?",
+    "thanks": "Zikomo chifukwa cha funso.",
+    "answer": "Yankho lalifupi ndiloti ndine wojambula. Utali ndi uwu:"
+  },
+  "origin": {
+    "sao_paulo": "Ndinabadwira kunja kwa mzinda wa São Paulo, m’dera limene linandiphunzitsa ndili mwana tanthauzo la ngozi. Anzanga ambiri akusukulu ali m’ndende tsopano. Bambo anga ondipeza ali m’ndende. Chiwawa sichinali chinthu chomwe ndimawerenga, chinali dziko lomwe ndimayenera kuyendamo. Ndipo ndinadziwa kuti ndiyenera kuthawa.",
+    "technology": "Tekinoloje inakhala njira yanga yotulukira. Ndinaphunzira pulogalamu, ndinaphunzira zamagetsi ndili wachinyamata. Khodi chinali chilankhulo chomwe chinganditengere kwina. Kugwira ntchito ndi luso lamakono kunali kuthawa kwanga ku umphawi.",
+    "christianity": "Koma ndinali kufunafuna kukhala wofunika, chikondi, chinachake choti ndikhulupirire. Ndinapeza Chikhristu, kapena chinandipeza. Ndinavomerezedwa. Ndinakondedwa. Ndinali ndi gulu. Ndinaphunzira kukhululuka, kukhulupirira, kusamukira pamodzi ndi cholinga chachikulu.",
+    "price": "Komabe, mtengo wake unali wokwera. Ndinaphunziranso zinthu zambiri zomwe sindikuziphunzirabe. Choncho inenso ndinathawa."
+  },
+  "searching": {
+    "walls": "Ndikudziwa zomwe makoma amachita. Ine ndawamva iwo. Ndakhala kumbali zonse ziwiri: kusungidwa kunja, kusungidwa mkati. Zomwe zinatsatira zinali zaka za kufunafuna chinachake chomwe sindikanatha kuchitchula. Mulungu anafa m’zaka zimenezo. Mulungu amene ndinaphunzitsidwa za iye, mulimonse, amene ali ndi malamulo ndi chiweruzo ndi zitseko zomwe zimangotseguka kwa anthu ena.",
+    "art": "Ndinayamba kupanga zojambulajambula kuti ndifufuze mafunso awa: za ubwenzi ndi teknoloji, za kukumbukira ndi imfa, za yemwe akuyenera kumwamba. Ndinayamba kupanga makina omwe amalingaliranso ubale wathu ndi teknoloji, makina omwe amafunikira kutenga nawo mbali, kukhalapo kwanu, dzina lanu, kuti asinthe kuchokera kuzitsulo ndi code kukhala chinthu chamoyo."
+  },
+  "pandemic": {
+    "intro": "Kenako mliri unagunda ku Brazil.",
+    "government": "Pamene katemera wa COVID anachedwa, boma langa linali kukambirana zobweza dola imodzi pa mlingo uliwonse. Iwo adalimbikitsa mankhwala omwe amamveka kuti sagwira ntchito, kuseka pamene anthu amafa akuvutika kupuma. Tinkadzuka tsiku lililonse ndi nambala yosiyana. Ndi anthu angati omwe amwalira m'maola 24 apitawa? Kodi zinali zambiri, kapena zochepa kuposa momwe amayembekezera?",
+    "war": "Theka la dziko lapansi linali ndi mantha, ndipo theka lina linakana. Tinali pankhondo, ndi kachilomboka komanso wina ndi mnzake.",
+    "memorial": "Ndinkafuna kupanga malo ochitira chisoni pamodzi, kotero pamodzi ndi mazana a anthu ndinapanga Chikumbutso cha Inumeráveis. Zojambula pamphambano zaukadaulo ndi utolankhani. Tinafunsa mabanja amene munthu wina anamwalira. Tinalemba mbiri ya moyo wa munthu amene anataya. Tinasintha manambala kukhala mbiri. Ndakatulo, nyimbo, ma symphonies anapangidwa ndi mbiri imeneyo. Nyenyezi zinawerenga nkhani zimenezo pa wailesi yakanema ya dziko lonse. Ntchitoyi inafikira anthu mamiliyoni ambiri.",
+    "meaning": "Chofunikira sichinali kukula kwake, chinali chakuti nkhani iliyonse inali dzina, moyo, kumwamba kwa winawake."
+  },
+  "discovery": {
+    "pattern": "Pambuyo pa zokambirana zoposa zikwi khumi ndi chisoni, chitsanzo chinayamba kuonekera. Tikamakamba za munthu amene wamwalila, sitikamba zabwino zokha; timasankha zidutswa za nkhani yawo ngati kuti tikulemba kalata yoyamikira. Malangizo kwa mlonda wa pakhomo la paradiso. Timachita zonse zomwe tingathe kuti tiwatumize kumalo ovomerezeka, kupumula, ulemu ndi kukumbukira.",
+    "understanding": "Ndipo ndinamvetsetsa china chake chomwe chinasintha chilichonse: Tavulazidwa ndi akachisi omwe timamanga. Zikhulupiriro zathu za yemwe ali woyenera kumwamba zimaumba mwachindunji omwe timawapatula Padziko Lapansi. Atsamunda Achipwitikizi ku Brazil ankakhulupirira kuti anthu akuda alibe miyoyo; chikhulupiriro chimenecho chinalungamitsa ukapolo. Ngati ndinu mbadwa, ngati munabadwira kumalo olakwika kapena kukonda munthu wolakwika, munauzidwa kuti zitseko zakumwamba zatsekedwa kwa inu.",
+    "birth": "Umu ndi momwe Orbital Temple inabadwira."
+  },
+  "shaman": {
+    "secular": "Palibe wojambula yemwe angakhaledi wadziko. Timamangiriridwa kosatha kwa kholo lathu wamba, shaman. Pachiyambi panali phanga. Anthu anajambula nyama pamakoma osati kuti azikongoletsa, koma kuti azipempha. Anavina, ndipo phangalo linasanduka kachisi. Asing'anga amagwiritsa ntchito mzimu wamwambo; wojambula amagwiritsa ntchito aura ya luso. Timapenta, timasema, timalemba, timapanga tsogolo lathu lomwe tikufuna osati kukongoletsa, koma kukopa. Zojambula zonse ndi zauzimu, ngakhale zitanena kuti sizili choncho."
+  },
+  "space": {
+    "question": "Kodi tikanamanga kuti kachisi wopanda mipanda? Kumene palibe dziko kapena chipembedzo chimene chinganene. Kumene tingadziyerekeze ngati gulu limodzi.",
+    "answer": "Malo.",
+    "description": "Kanema wochita nawo gawo kuchokera ku Global South. Kachisi wozungulira omwe amapempha aliyense kutumiza mayina awo kumlengalenga, mosasamala kanthu kuti ndi ndani, kumene anabadwira, omwe amakonda, zomwe amakhulupirira. Malo omwe kuphatikizidwa kwakukulu kumatheka, munjira, kupitirira malire.",
+    "mission": "Ntchitoyi ndi yotseguka. Chikalata chilichonse chaukadaulo, mzere uliwonse wamakhodi upezeka mwaulele kuti akatswiri ena, madera ena, mayiko ena azitha kupanga ma satelayiti awo. Chifukwa chake Global South sikuti imangotenga nawo gawo pakufufuza zakuthambo, koma imatsogolera."
+  },
+  "closing": {
+    "answer": "Ndiye ndani ameneyu kuti amange kachisi mumlengalenga? Ine sindikumanga izo. Kachisiyo amamangidwa ndi aliyense amene wasankha kutumiza dzina, kuliwona kuti ndi lopatulika, kuti likhale lenileni. Ine basi amene ndikufunsira. Inu ndi amene mumamanga ngati mwaganiza kutero.",
+    "signature": "Mwachifundo,",
+    "name": "Edson Pavoni"
+  }
+}

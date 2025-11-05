@@ -1,0 +1,61 @@
+{
+  "title": "Koponan - Orbital Temple",
+  "heading": "Koponan",
+  "artist": "Edson Pavoni, artista",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Executive Producer",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace at Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista at João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Electronic Engineering",
+      "members": "André Biagioni, João Pedro Polito at VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Disenyo at Arkitektura",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D Printing",
+      "members": "Solid Concepts, sa pamumuno ni Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D Rendering",
+      "members": "Guilherme Bullejos at RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Pananaliksik",
+      "members": "Roberta Savian Rosa at Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produksyon ng Exhibition, Photography at Paglikha ng Nilalaman",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Silk Screening ng Exhibition",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Proyektong Pang-edukasyon",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Koponan ng Komunikasyon",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Espesyal na Salamat",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, at Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Rafael Pedro Vidigal, Andre Holzmeister, Rafael Pedro Vidigal Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbital Temple Satellite"
+}

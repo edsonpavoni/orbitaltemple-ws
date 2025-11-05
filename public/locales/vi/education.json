@@ -1,0 +1,43 @@
+{
+  "title": "Giáo dục & Nguồn mở - Orbital Temple",
+  "heading": "Giáo dục & Nguồn mở",
+  "intro": {
+    "paragraph1": "Toàn bộ công nghệ được phát triển cho sứ mệnh Orbital Temple sẽ là <strong>mã nguồn mở</strong> và có sẵn trực tuyến bằng <strong>tiếng Bồ Đào Nha</strong> , <strong>tiếng Anh</strong> , <strong>tiếng Tây Ban Nha</strong> và <strong>tiếng Hindi</strong> , thúc đẩy sự phát triển của hoạt động thám hiểm không gian ở <strong>Nam Bán Cầu</strong> . Các sứ mệnh và dự án mới có thể sử dụng Orbital Temple làm nền tảng cho các thí nghiệm nghệ thuật hoặc khoa học của riêng họ.",
+    "paragraph2": "Là một phần trong sứ mệnh giáo dục của mình, Orbital Temple sẽ cung cấp một khóa học đa ngôn ngữ miễn phí về cách chế tạo và phóng vệ tinh. Đây sẽ là cơ hội thực hành để tìm hiểu về công nghệ vệ tinh và áp dụng vào thực tế. Bất kỳ ai trên <strong>16</strong> tuổi đều có thể tự chế tạo vệ tinh, tìm hiểu về lịch sử nghệ thuật trong không gian, các khái niệm cơ bản về điện tử, cơ học và khoa học vũ trụ, bao gồm cách tài trợ cho các dự án và cách chế tạo ăng-ten để liên lạc với vệ tinh trên quỹ đạo."
+  },
+  "spaceGap": {
+    "heading": "Tại sao điều này quan trọng: Khoảng cách không gian",
+    "paragraph1": "Thuật ngữ <strong>&quot;Khoảng cách Không gian&quot;</strong> đề cập đến khoảng cách giữa các quốc gia phát triển có thể tiếp cận các cơ hội công nghệ đạt được thông qua thám hiểm không gian, và các quốc gia đang phát triển không thể tiếp cận các công nghệ này. Các quốc gia ở Nam Bán cầu phải trả một khoản tiền đáng kể cho chính phủ hoặc công ty nước ngoài để được tiếp cận cơ bản thông tin do công nghệ vệ tinh tạo ra.",
+    "paragraph2": "Công nghệ vũ trụ mang lại những lợi ích thiết yếu: vệ tinh giúp chống lại nạn khai thác gỗ, đánh bắt cá trái phép và buôn bán động vật hoang dã bất hợp pháp, gây thiệt hại hơn <strong>73 tỷ đô la mỗi năm</strong> . Chúng cung cấp thông tin thiết yếu về khí hậu, sản lượng nước và an ninh lương thực. Vệ tinh cho phép áp dụng các kỹ thuật tưới tiêu và nông nghiệp chính xác, đồng thời giúp ngăn ngừa thiên tai. Ngành công nghiệp vũ trụ có thể tạo ra tới <strong>1 triệu việc làm</strong> vào <strong>năm 2030</strong> , nhưng những cơ hội này vẫn chưa đến được với nhiều người ở Nam Bán Cầu.",
+    "paragraph3": "Bằng cách cung cấp công nghệ nguồn mở và giáo dục, chúng tôi mong muốn dân chủ hóa khả năng tiếp cận không gian và trao quyền cho thế hệ mới mơ ước vượt ra ngoài bầu trời."
+  },
+  "empowering": {
+    "heading": "Trao quyền cho thế hệ tiếp theo",
+    "intro": "Chúng tôi sẽ dạy thế hệ nhà thám hiểm không gian tiếp theo cách chế tạo và phóng vệ tinh của riêng họ, bao gồm các chủ đề thiết yếu sau:",
+    "topics": {
+      "history": "<strong>Lịch sử nghệ thuật trong không gian:</strong> Tìm hiểu nguồn gốc của vệ tinh nghệ thuật và tác phẩm nghệ thuật trên không gian.",
+      "concepts": "<strong>Các khái niệm cốt lõi:</strong> <strong>ArtSat</strong> (vệ tinh nghệ thuật), Công nghệ vũ trụ <strong>nguồn mở</strong> và <strong>Space Gap</strong> .",
+      "missions": "<strong>Nhiệm vụ không gian:</strong> Cách hình thành khái niệm và thiết kế một nhiệm vụ, cũng như cách thành lập một nhóm để thực hiện nhiệm vụ đó.",
+      "electronics": "<strong>Điện tử trong không gian:</strong> Khái niệm cơ bản về các linh kiện điện tử có thể tồn tại và hoạt động trong môi trường không gian.",
+      "mechanics": "<strong>Cơ học trong không gian:</strong> Hiểu các yêu cầu về cấu trúc và cơ học cho thiết kế vệ tinh.",
+      "orbits": "<strong>Quỹ đạo và tên lửa đẩy:</strong> Các loại quỹ đạo khác nhau và cách lựa chọn nhà cung cấp dịch vụ phóng cho nhiệm vụ của bạn.",
+      "financing": "<strong>Chiến lược tài chính:</strong> Cách đảm bảo nguồn tài chính và nguồn lực để phóng vệ tinh. Khóa học sẽ cung cấp các nguồn lực để xin tài trợ cho việc phóng vệ tinh, giúp sinh viên tìm kiếm các chương trình và tài trợ từ các tổ chức quốc tế hỗ trợ các nhà khoa học trẻ và sinh viên đưa vệ tinh của họ vào không gian.",
+      "groundStation": "<strong>Phát triển trạm mặt đất:</strong> Cách chế tạo ăng-ten để liên lạc với Orbital Temple và các vệ tinh khác."
+    }
+  },
+  "technology": {
+    "heading": "Công nghệ: Vệ tinh PocketQube",
+    "paragraph1": "Học sinh sẽ được học cách làm việc với vệ tinh <strong>PocketQube</strong> , một vệ tinh nano tiêu chuẩn có kích thước chỉ <strong>5cm³</strong> và nặng tới <strong>250g</strong> . Mặc dù có kích thước nhỏ, PocketQubes là những công cụ mạnh mẽ có khả năng quan sát, giám sát và liên lạc với Trái Đất.",
+    "paragraph2": "Những vệ tinh nhỏ gọn này có nhiều ứng dụng thực tế, từ nghiên cứu khoa học về biến đổi khí hậu đến liên lạc xuyên lục địa. Vì nhỏ gọn và nhẹ hơn, chúng dễ chế tạo và phóng hơn, giúp sinh viên, nhà nghiên cứu và nghệ sĩ trên toàn thế giới dễ dàng tiếp cận không gian hơn."
+  },
+  "globalAccess": {
+    "heading": "Tiếp cận toàn cầu, bắt đầu từ Nam bán cầu",
+    "paragraph1": "Khóa học sẽ dành cho bất kỳ ai <strong>từ 16 tuổi trở lên</strong> , hoàn toàn <strong>miễn phí</strong> . Chúng tôi bắt đầu với nội dung bằng <strong>tiếng Bồ Đào Nha</strong> , <strong>tiếng Tây Ban Nha</strong> , <strong>tiếng Anh</strong> và <strong>tiếng Hindi</strong> , và dự kiến sẽ mở rộng sang các ngôn ngữ khác khi chương trình phát triển.",
+    "paragraph2": "Sứ mệnh của chúng tôi bắt đầu ở Nam bán cầu và mở rộng ra toàn thế giới, đảm bảo rằng thế hệ nhà thám hiểm không gian tiếp theo đến từ mọi nơi trên Trái Đất."
+  },
+  "callToAction": {
+    "heading": "Hãy giúp chúng tôi thực hiện điều này",
+    "content": "Chương trình giáo dục này hiện đang được phát triển. Chúng tôi đang tìm kiếm các đối tác và nhà tài trợ chia sẻ tầm nhìn dân chủ hóa việc tiếp cận công nghệ vũ trụ. Nếu bạn hoặc tổ chức của bạn muốn hỗ trợ sáng kiến này, vui lòng truy cập <a href=\"/support\">trang hỗ trợ</a> của chúng tôi để tìm hiểu về các cơ hội hợp tác."
+  },
+  "imageAlt": "Vệ tinh Orbital Temple"
+}

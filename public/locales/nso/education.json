@@ -1,0 +1,43 @@
+{
+  "title": "Thuto & Mohlodi o Bulegilego - Tempele ya Orbital",
+  "heading": "Thuto & Mothopo o Bulegilego",
+  "intro": {
+    "paragraph1": "Theknolotši ka moka yeo e hlamilwego bakeng sa thomo ya Tempele ya Orbital e tla ba <strong>mohlodi o bulegilego</strong> gomme e hwetšagala inthaneteng ka <strong>Sepotokisi</strong> , <strong>Seisemane</strong> , <strong>Sepaniši</strong> le <strong>Sehindi</strong> , go godiša tšwelopele ya go nyakišiša sebaka ka <strong>Borwa bja Lefase ka Bophara</strong> . Dimišene tše mpsha le diprotšeke di ka šomiša Tempele ya Orbital bjalo ka motheo wa diteko tša bona tša bokgabo goba tša mahlale.",
+    "paragraph2": "Bjalo ka karolo ya thomo ya yona ya thuto, Orbital Temple e tla fana ka thuto ya mahala ya maleme a mantši ya kamoo o ka agago le go thomiša sathalaete. E tla ba sebaka sa diatla sa go ithuta ka ga theknolotši ya sathalaete le go e tsenya tirišong. Mang le mang wa mengwaga ya ka godimo ga ye <strong>16</strong> o tla kgona go ikagela sathalaete ya gagwe, a ithuta ka ga histori ya bokgabo sebakabakeng, dikgopolo tša motheo tša elektroniki, makhenikhi le saense ya sebaka, go akaretšwa ka moo go ka thekgwago ka ditšhelete diprotšeke le ka moo a ka agago eriele ya go boledišana le disathalaete tšeo di lego modikologong."
+  },
+  "spaceGap": {
+    "heading": "Lebaka leo ka lona Se se lego Bohlokwa: Sekgoba sa Sebaka",
+    "paragraph1": "Polelo ye <strong>&quot;Sekgoba sa Sebaka&quot;</strong> e šupa karogano magareng ga ditšhaba tše di hlabologilego tšeo di ka fihlelelago dibaka tša theknolotši tšeo di hweditšwego ka go nyakišiša sebaka, le ditšhaba tše di hlabologago tšeo di hlokago phihlelelo ya theknolotši ye. Dinaga tša Borwa bja Lefase ka Bophara di swanetše go lefa ditšhelete tše kgolo go mebušo ya dinaga tša ka ntle goba dikhamphani bakeng sa phihlelelo ya motheo ya tshedimošo yeo e tšweleditšwego ke theknolotši ya sathalaete.",
+    "paragraph2": "Thekinolotši ya sebaka-baka e nea mehola e bohlokwa: disathalaete di thuša go lwantšha go rengwa ga dihlare mo go sego molaong, go rea dihlapi mo go sego molaong le kgwebo e sego molaong ya diphoofolo tša lešoka, tšeo di emelago diranta tše fetago <strong>dimilione tše dikete tše 73 ka ngwaga</strong> . Di nea tsebišo e bohlokwa mabapi le boemo bja leratadima, tšweletšo ya meetse le tšhireletšego ya dijo. Disathalaete di kgontšha nošetšo ye e nepagetšego le dithekniki tša temo, gomme di thuša go thibela dikotsi tša tlhago. The space industry could create up to <strong>1 million jobs</strong> by <strong>2030</strong> , le ge go le bjalo menyetla ye e sa dutše e sa fihlelelege go ba bantši ka Borwa bja Lefase ka Bophara.",
+    "paragraph3": "Ka go aba theknolotši ya mohlodi wo o bulegilego le thuto, re ikemišeditše go dira gore phihlelelo ya sebaka e be ya temokrasi le go matlafatša moloko wo mofsa go lora ka kua ga leratadima."
+  },
+  "empowering": {
+    "heading": "Go Matlafatša Moloko wo o Latelago",
+    "intro": "Re tla ruta moloko wo o latelago wa bahlohlomiši ba sebakabaka ka moo ba ka agago le go tsebagatša disathalaete tša bona, re akaretša dihlogo tše bohlokwa go akaretšwa:",
+    "topics": {
+      "history": "<strong>Histori ya bokgabo sebakabakeng:</strong> Go kwešiša lešika la disathalaete tša bokgabo le mediro ya bokgabo yeo e theilwego sebakabakeng.",
+      "concepts": "<strong>Dikgopolo tša motheo:</strong> <strong>ArtSat</strong> (disathalaete tša bokgabo), theknolotši ya sebaka ya <strong>Mothopo wo o Bulegilego</strong> , le <strong>Sekgoba sa Sebaka</strong> .",
+      "missions": "<strong>Dimišene tša sebakabaka:</strong> Kamoo o ka hlamago kgopolo le go hlama thomo, le kamoo o ka bopago sehlopha sa go e phethagatša.",
+      "electronics": "<strong>Elektroniki sebakabakeng:</strong> Dikgopolo tša motheo tša dikarolo tša elektroniki tšeo di ka phelago le go šoma tikologong ya sebaka.",
+      "mechanics": "<strong>Makhenikhi sebakabakeng:</strong> Go kwešiša dinyakwa tša sebopego le tša metšhene bakeng sa tlhamo ya sathalaete.",
+      "orbits": "<strong>Orbits le launchers:</strong> Mehuta ye e fapanego ya orbits le kamoo o ka kgethago baabi ba launchers bakeng sa thomo ya gago.",
+      "financing": "<strong>Maano a go thuša ka ditšhelete:</strong> Tsela ya go hwetša thušo ya ditšhelete le methopo ya go thoma sathalaete ya gago. Thuto e tla fa methopo ya go hwetša ditšhelete tša go tsebagatša ga gago, go thuša baithuti go hwetša mananeo le dithušo go tšwa go dihlongwa tša boditšhabatšhaba tšeo di thekgago boramahlale ba bafsa le baithuti go romela disathalaete tša bona sebakabakeng.",
+      "groundStation": "<strong>Tlhabollo ya seteišene sa fase:</strong> Tsela ya go aga eriele ya go boledišana le Tempele ya Orbital le disathalaete tše dingwe."
+    }
+  },
+  "technology": {
+    "heading": "Theknolotši: Disathalaete tša PocketQube",
+    "paragraph1": "Baithuti ba tla ithuta go šoma ka disathalaete <strong>tša PocketQube</strong> , e lego tekanyetšo ya nanosatellite yeo e lekanago <strong>5cm3</strong> fela le boima bja go fihla go <strong>250g</strong> . Go sa šetšwe bogolo bja tšona bjo bonyenyane, PocketQubes ke didirišwa tše matla tšeo di kgonago go lebelela Lefase, go hlokomela le go boledišana.",
+    "paragraph2": "Disathalaete tše tše di kopanego di na le ditirišo tše dintši tša lefase la kgonthe, go tloga go nyakišišo ya thutamahlale ya phetogo ya boemo bja leratadima go ya go kgokagano ya magareng ga dikontinente. Ka ge e le tše dinyenyane e bile di le bofefo, di a fihlelelwa kudu go di aga le go di thomiša, e lego seo se dirago gore sebaka se fihlelelege kudu go barutwana, banyakišiši le bo-rabokgabo lefaseng ka bophara."
+  },
+  "globalAccess": {
+    "heading": "Phihlelelo ya Lefase ka Bophara, Go Thoma go tšwa Borwa bja Lefase ka Bophara",
+    "paragraph1": "Thuto ye e tla hwetšagala go mang le mang <strong>wa mengwaga ye 16 goba go feta moo</strong> , <strong>ntle le tefo</strong> ka botlalo . Re thoma ka dikagare ka <strong>Sepotokisi</strong> , <strong>Sepaniši</strong> , <strong>Seisemane</strong> , le <strong>Sehindi</strong> , ka dithulaganyo tša go katološa go maleme a tlaleletšo ge lenaneo le gola.",
+    "paragraph2": "Thomo ya rena e thoma ka Borwa bja Lefase ka Bophara gomme e atologela lefaseng, go netefatša gore moloko wo o latelago wa bahlohlomiši ba sebakabaka o tšwa dikhutlo ka moka tša Lefase."
+  },
+  "callToAction": {
+    "heading": "Re Thuše go Dira gore Se se Direge",
+    "content": "Lenaneo le la thuto ga bjale le a hlabollwa. Re nyaka balekane le baabi bao ba abelanago pono ya rena ya go dira gore phihlelelo ya theknolotši ya sebaka e be ya temokrasi. Ge wena goba mokgatlo wa gago o rata go thekga maitapišo a, hle etela <a href=\"/support\">letlakala la rena la thekgo</a> go ithuta ka ga dibaka tša tirišano."
+  },
+  "imageAlt": "Sathalaete ya Tempele ya Orbital"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Hojii Aartii - Mana Qulqullummaa Orbital",
+  "heading": "Hojii Aartii",
+  "intro": {
+    "paragraph1": "Orbital Temple saatalaayitii ergama aartii qabdudha: yaadannoo hawaa alaa keessatti uumama miira qabu hundaaf banaa ta'ee fi lafarra jiraatu ykn jiraate hundaaf banaa dha.",
+    "paragraph2": "Karaa teeknooloojiitiin namni kamiyyuu maqaa nama tokkoo gara Mana Qulqullummaatti erguu danda’a, yookaan nama du’aan boqote, nama baay’ee lubbuun jiru, yookaan uumama kamiyyuu yaadatamuu malu."
+  },
+  "sculpture": {
+    "heading": "Fakkii Siidaa",
+    "paragraph1": "Hojiin aartii kun wantoota waliin hirkatan sadii qaba: saatalaayitii keessumaa maqaa biliyoonaan lakkaa’aman kuusuudhaaf qophaa’e; siidaa ummataa saatalaayitii waliin odeeffannoo waljijjiiru; akkasumas marsariitii hirmaattonni maqaawwan, ammaa kaasee hanga lubbuun isaanii darbanitti, gara samiitti itti ergan.",
+    "paragraph2": "Akka tattaaffii ogummaa hedduutti, Orbital Temple akka siidaa bakka addaatti fudhatamuu danda'a, iddoo jiraatu. Akkasumas pirojektii Artsat ti."
+  },
+  "antenna": {
+    "heading": "Anteenaan Akka Fakkii Ummataatti",
+    "paragraph1": "Anteenaa hawaa alaa waliin nu wal qunnamsiisu.",
+    "paragraph2": "Anteenaan saatalaayitii orbitaalaa waliin kallattiin qunnamtii qabaatu dizaayiniin hojjetamaa jira.",
+    "paragraph3": "Fuula calaqqisiisa warqee qabu, samii isa gubbaa calaqqisiisu, kaka'umsa baay'ee (ykn hariiroo keenya waan 'ol' jiruu wajjin) ta'a.",
+    "paragraph4": "Siidaan kun kutaalee addunyaa irra caalaan kan hin kaa'amne yoo ta'u, yeroo ammaa saatalaayitii to'achaa kan jiran Frames from Earth keenya tokkoon tokkoon darbiinsaatti maqaawwan ergaa jiru.",
+    "paragraph5": "Mul’ata kana gara magaalaa keessanitti fiduuf gargaaraa-siidaa anteenaa kanneen waa’ee qorannoo hawaa, aartii fi bakka waliin qabnu koosmoos keessatti haasawa kakaasan kaa’uu. <a href=\"/support\">Waa&#39;ee pirojekticha deeggaruun caalaatti baradhu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Saatalaayitii Mana Qulqullummaa Orbital",
+    "riseNy": "Mana Qulqullummaa Orbital at Rise NY",
+    "installation": "Mana Qulqullummaa Orbitaalaa kan barreesse Kilaaraa Maarkis",
+    "antenna": "Anteenaa Mana Qulqullummaa Orbitaalaa"
+  },
+  "imageCaptions": {
+    "riseNy": "Mana Qulqullummaa Orbital hawaa keessa jiru. 3D kan agarsiisu RiseNY&Partners.",
+    "mercosul": "Dhaabbii Mana Qulqullummaa Orbital Biennial Mercosul, Porto Alegre, Brazil keessatti.<br> Suuraan kan Kilaaraa Maarkis."
+  }
+}

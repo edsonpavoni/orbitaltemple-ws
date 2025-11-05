@@ -1,0 +1,13 @@
+{
+  "title": "Word in kennis gestel - Orbitale Tempel",
+  "heading": "Word in kennis gestel wanneer dit styg",
+  "description": "Op 28 November 2025 sal die Orbitale Tempel opvaar.<br> Los jou e-posadres, en ons sal jou laat weet wanneer dit die spasie bereik.",
+  "form": {
+    "emailPlaceholder": "jou@epos.com",
+    "sendButton": "Stuur",
+    "sendingButton": "Stuur tans...",
+    "successMessage": "Ons sal jou bereik wanneer dit styg.",
+    "errorMessage": "Iets het verkeerd geloop. Probeer asseblief weer."
+  },
+  "backLink": "← Terug na aftelling"
+}

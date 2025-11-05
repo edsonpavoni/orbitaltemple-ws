@@ -1,0 +1,138 @@
+{
+  "title": "Çapemenî û Medya - Perestgeha Orbital",
+  "heading": "Çapemenî û Medya",
+  "pressContact": {
+    "heading": "Têkiliya Çapemeniyê",
+    "content": "Ji bo lêpirsînên çapemeniyê, hevpeyvîn û daxwazên medyayê:<br /> <strong>Îmêl:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Malper:</strong> <a href=\"https://orbitaltemple.art\">orbitaletemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Derbarê Projeyê de",
+    "paragraph1": "Perestgeha Orbital berhemeke hunerî û peyk e ku armanc dike bibe perestgeheke radîkal û berfireh, li cihê ku dîwar nikarin bigihîjinê hatiye avakirin. Proje ji aliyê hunermendê Brezîlyayî Edson Pavoni ve hatiye afirandin, hunermendê li pişt Bîrdariya Inumeráveis ku di dema pandemiya COVID-ê de gihîştiye 1 ji her 6 Brezîlyayiyan, proje mirovên ji çar aliyên cîhanê vedixwîne ku navê kesekî ku dixwazin bi bîr bînin bişînin. Ev nav ji peykek li orbitê re têne şandin, û bîrdariyek kolektîf diafirînin.",
+    "paragraph2": "Bi rêya malperek ku bi 136 zimanan peyda dibe, beşdar beşdarî rêûresmek nû dibin. Perestgeha Orbital mijarên tevlêbûnê, bîranîn û mirovahiya me ya hevpar vedikole, dipirse çima tu perestgehek fîzîkî li ser Erdê nikare bi rastî her kesî pêşwazî bike, û fezayê wekî tenê cihê ku tevlêbûna radîkal lê hebe pêşniyar dike."
+  },
+  "aboutArtist": {
+    "heading": "Derbarê Hunermend",
+    "paragraph1": "<strong>Edson Pavoni</strong> hunermendekî Brezîlyayî ye ku rêwîtiya wî li kolanên São Paulo dest pê kir, li wir çarçoveyek xizanî û tundûtûjiyê salên wî yên pêşîn şekil da. Li welatekî ku Xiristiyanî rêyek dûrketinê ji kolan, madeyên hişber û tundûtûjiyê pêşkêş dikir, Pavoni penagehek di baweriyê de dît, mijarek ku paşê, dema ku ew bû rexnegirê îstismara olî, dê bandorê li pratîka wî ya hunerî bike.",
+    "paragraph2": "Di sala 2020an de, di dema pandemiya COVID-19 de, Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (bêhejmar)</a></strong> afirand, berhemeke hunerî li xaçerêya huner û rojnamegeriyê. Projeyê bi hezaran malbatan re hevpeyvîn kir û çîrokên kesên ku di pandemiyê de winda bûne nivîsand, û cihekî afirand ku tê de bîranîn ji hejmar û statîstîkan derbas bû. Helbest, stran û senfonî bi van çîrokan hatin çêkirin. Rojnameyan bergên wan bi karanîna nav û dîrokan çêkirin. Hemî stêrkên Brezîlyayî yên wekî Fernanda Torres a xwediyê xelata Oscarê, û stêrkên wekî Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo û Lazaro Ramos, û gelekên din van çîrokan li ser televîzyonên neteweyî xwendin. Proje gihîşt 32 mîlyon kesan, yek ji çar mezinên Brezîlyayî. Ew bû toreke şîfayê, abîdeyeke kolektîf a bîranînê.",
+    "paragraph3": "Piştî zêdetirî deh hezar sohbetên bi xemgîniyê re, şêwazek derket holê: dema ku em li ser kesekî/ê mirî diaxivin, em perçeyên çîroka wî/wê hildibijêrin mîna ku em nameyek pêşniyarê ji dergevanê bihuştê re binivîsin. Em hemû hewla xwe didin ku wan bişînin cihê ku em bawer dikin bihuşt e. Vê xebatê têgihîştinek nû derxist holê: Baweriyên me yên li ser kî heq dike bihuştê rasterast şekil dide ka em li ser Erdê kî/ê qebûl dikin an jî ji wan derdixin. Kolonyalîstên Portekîzî yên li Brezîlyayê bawer dikirin ku mirovên Reş bê giyan in; ev bawerî koletiyê rewa dike. Ger hûn xwecihî bûn, ger hûn li cîhek xelet ji dayik bûn an jî ji kesê xelet hez dikirin, hîn jî, heta roja îro, ji we re tê gotin ku deriyên bihuştê ji we re girtî ne. Ma vîzyonek pêşerojê heye ku bi redkirinê neyê temam kirin?",
+    "paragraph4": "Bi vî awayî Orbital Temple ji dayik bû."
+  },
+  "keyFacts": {
+    "heading": "Rastiyên Sereke",
+    "artist": "<strong>Hunermend:</strong> Edson Pavoni (Brezîlya)",
+    "projectType": "<strong>Cureyê Projeyê:</strong> Hunera satelîtê, taybetî li ser fezayê, rîtuela li ser webê",
+    "launchDate": "<strong>Dîroka Destpêkirinê:</strong> 28ê Mijdara 2025an",
+    "launchLocation": "<strong>Cihê firînê:</strong> Navenda fezayê ya Satish Dhawan, Sriharikota, Hindistan (ISRO)",
+    "satellite": "<strong>Peyk:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Rêgeh:</strong> Bilindahiya 525 km, Hevdem bi rojê re",
+    "participation": "<strong>Beşdarbûn:</strong> Belaş, ji bo her kesî li çaraliyê cîhanê vekirî ye",
+    "namesSent": {
+      "heading": "<strong>Navên ku ji Orbitê re hatine şandin:</strong>",
+      "caption": "<em>Jimara zindî ji databasa nûvekirî • Nûvekirina dawî: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Xelat û Nasname",
+    "mercosul": {
+      "title": "<strong>13emîn Bienala Mercosurê</strong> (2022)",
+      "location": "Porto Alegre, Brezîlya",
+      "curator": "Ji hêla Marcelo Dantas ve hatiye kuratorkirin"
+    },
+    "lumen": {
+      "title": "<strong>Xelata Lumen 2022 - Xelata Pêşerojê</strong>",
+      "status": "Di lîsteya dirêj de"
+    },
+    "cubeDesign": {
+      "title": "<strong>Pêşbirka CubeDesign 2021</strong>",
+      "award": "Serketî - Kategoriya ArtSat",
+      "org": "Ji hêla Enstîtuya Lêkolînên Fezayê ya Brezîlyayê (INPE) ve tê pêşve xistin"
+    }
+  },
+  "team": {
+    "heading": "Kom",
+    "content": "Perestgeha Orbital bi hevkariya Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andreigal Victor, Davigal Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, û hemû kesên ku berdewam pêşniyara navan ji bo vê perestgehê dikin."
+  },
+  "pressCoverage": {
+    "heading": "Taybetmendî / Bernameyên Çapemeniyê",
+    "paragraph1": "<em>Nûçe û taybetmendiyên çapemeniyê dê dema ku peyda bibin werin zêdekirin. Ji bo nûvekirinên herî dawî, ji kerema xwe bi tîma çapemeniyê ya me re têkilî daynin.</em>",
+    "paragraph2": "Pêşangeh û taybetmendiyên berê pêşkêşkirinên li 13emîn Bienala Mercosul, xelatkirina ji Xelata Lumen, û hilbijartina ji hêla Enstîtuya Lêkolînên Fezayê ya Brezîlyayê (INPE) ve vedihewîne."
+  },
+  "images": {
+    "heading": "Wêneyên Bilind-Çareseriyê ji bo Bikaranîna Çapemeniyê",
+    "intro": "Hemû wêne ji bo karanîna edîtorî hene. Ji bo daxistina pelê bi çareseriya bilind li ser her wêneyekî bikirtînin.",
+    "installationPhotos": {
+      "heading": "Wêneyên Perestgeha Orbital",
+      "credit": "Ji kerema xwe krediyê binivîsin: \"Wêne ji hêla Clara Marques ve hatiye kişandin / Bi xêra Edson Pavoni, Orbital Perestgeh\"",
+      "view01": "Dîtina Sazkirinê 01<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (1.4 MB)",
+      "view02": "Dîtina Sazkirinê 02<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (2.9 MB)",
+      "view03": "Dîtina Sazkirinê 03<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (11 MB)",
+      "view04": "Dîtina Sazkirinê 04<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (3.4 MB)",
+      "view05": "Dîtina Sazkirinê 05<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (3.3 MB)",
+      "view06": "Dîtina Sazkirinê 06<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (3.7 MB)",
+      "view07": "Dîtina Sazkirinê 07<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (3.4 MB)",
+      "view08": "Dîtina Sazkirinê 08<br /> Wêne: Clara Marques<br /> ↓ Dakêşana Bilind-Çareseriyê (2.7 MB)",
+      "satelliteDesign": "Sêwirana Peykê<br /> ↓ Daxistin",
+      "antennaSculpture": "Anten/Peyker<br /> ↓ Daxistin"
+    },
+    "renders": {
+      "heading": "Renderên Perestgeha Orbital",
+      "credit": "Wêneyên 3D yên konseptî yên Perestgeha Orbital. Ji kerema xwe binivîsin: \"Wêneya 3D ji hêla RiseNY&Partners / Bi xêra Edson Pavoni, Perestgeha Orbital\"",
+      "render01": "Renderkirina 3D 01<br /> RiseNY&amp;Partners<br /> ↓ Dakêşana Bilind-Çareseriyê (10 MB)",
+      "render02": "Renderkirina 3D 02<br /> RiseNY&amp;Partners<br /> ↓ Dakêşana Bilind-Çareseriyê (5.9 MB)",
+      "render03": "Renderkirina 3D 03<br /> RiseNY&amp;Partners<br /> ↓ Dakêşana Bilind-Çareseriyê (5.2 MB)",
+      "render04": "Renderkirina 3D 04<br /> RiseNY&amp;Partners<br /> ↓ Dakêşana Bilind-Çareseriyê (11 MB)",
+      "render05": "Renderkirina 3D 05<br /> RiseNY&amp;Partners<br /> ↓ Dakêşana Bilind-Çareseriyê (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Wêneyên Hunermendan",
+      "photo1": "Wêne 1<br /> ↓ Dakêşana Bilind-Çareseriyê",
+      "photo2": "Wêne 2<br /> ↓ Dakêşana Bilind-Çareseriyê"
+    },
+    "sathiPhotos": {
+      "heading": "Wêneyên Sathi Roy",
+      "photo1": "Wêne 1<br /> ↓ Dakêşana Bilind-Çareseriyê (843 KB)",
+      "photo2": "Wêne 2<br /> ↓ Dakêşana Bilind-Çareseriyê (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Taybetmendiyên Teknîkî",
+    "satellite": {
+      "heading": "Satelayt",
+      "dimensions": "Pîvan: 50 x 58 x 64 mm",
+      "classification": "Dabeşkirin: 1P PocketQube",
+      "weight": "Giranî: 245g",
+      "materials": "Materyal: Aluminum, zêr, fiberglass, pêkhateyên elektronîkî",
+      "orbit": "Orbit: Bilindahî 525 ± 25 km; Meyl: SSO 97.6 ± 0.1°",
+      "launch": "Destpêkirin: 28ê Mijdara 2025an bi rêya ISRO, Hindistan"
+    },
+    "antenna": {
+      "heading": "Anten/Peyker",
+      "dimensions": "Pîvan: 6m firehî x 1.2m bilindahî",
+      "weight": "Giranî: 46 kg",
+      "materials": "Materyal: Aluminum, panela neynikî ya epoksî, qubeya aluminiumê ya zêrîn ku ji hêla avahiya îskeleyê ve hatî daliqandin"
+    },
+    "radio": {
+      "heading": "Taybetmendiyên Radyoyê",
+      "downlink": "Dakêşana jêrîn: 437 MHz",
+      "status": "Rewşa Destpêkirinê: Bernamekirî 28ê Mijdara 2025an"
+    }
+  },
+  "additionalResources": {
+    "heading": "Çavkaniyên Zêde",
+    "artwork": "→ Belgekirina Hunerî Bibîne",
+    "howItWorks": "→ Çawa Dixebite",
+    "technicalInfo": "→ Agahiyên Teknîkî",
+    "spaceLaunch": "→ Agahiyên Destpêkirina Fezayê",
+    "ritual": "→ Rîtuelê biceribînin"
+  },
+  "imageAlts": {
+    "installation": "Sazkirina Perestgeha Orbital ji hêla Edson Pavoni ve",
+    "satelliteDesign": "Sêwirana Peyka Perestgeha Orbital",
+    "antenna": "Peykerê Antena Perestgeha Orbital",
+    "render": "Renderkirina 3D ya Perestgeha Orbital ji hêla RiseNY&Partners ve",
+    "edsonPortrait": "Portreya Edson Pavoni",
+    "sathiPortrait": "Portreya Sathi Roy",
+    "lumenPrize": "Xelata Lumen",
+    "mercosulBienal": "Bienala Mercosurê"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Team - Orbital Temple-ah hian a awm a",
+  "heading": "Pawl",
+  "artist": "Edson Pavoni, lemziak thiam",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Executive Producer a ni",
+      "members": "Sathi Roy chuan a rawn ti a"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering te chu a hlawhtling hle",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista leh João Victor Alves te an ni"
+    },
+    "electronic": {
+      "heading": "Electronic Engineering lam a ni",
+      "members": "André Biagioni, João Pedro Polito leh VK te chuan an ziak a"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina chuan a rawn ti a"
+    },
+    "design": {
+      "heading": "Design leh Architecture lam a ni",
+      "members": "Guilherme Bullejos chuan a rawn ti a"
+    },
+    "printing": {
+      "heading": "3D Printing hmanga tihchhuah a ni",
+      "members": "Solid Concepts, Eduardo Dias kaihhruaina hnuaia siam a ni"
+    },
+    "rendering": {
+      "heading": "3D hmanga siam a ni",
+      "members": "Guilherme Bullejos leh RiseNy leh thawhpui te chuan an thawk dun a ni"
+    },
+    "research": {
+      "heading": "Zirchianna",
+      "members": "Roberta Savian Rosa leh Clara Marques te an ni"
+    },
+    "exhibition": {
+      "heading": "Exhibition Production, Thlalak & Content siam te a ni",
+      "members": "Clara Marques-i chuan a rawn ti a"
+    },
+    "silkScreen": {
+      "heading": "Exhibition-ah Silk Screening neih a ni ang",
+      "members": "Daphne Alves-i chuan a rawn ti a"
+    },
+    "educational": {
+      "heading": "Zirna lama hmalakna tur Project",
+      "members": "IdeaSpace a ni"
+    },
+    "communication": {
+      "heading": "Inbiakpawhna Team te an ni",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo te an tel"
+    },
+    "specialThanks": {
+      "heading": "A bik takin lawmthu kan sawi e",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini leh Leigh Pennington te chuan an khelh danah an khel tha hle"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna te an ni Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace te chuan an rawn tarlang a ni",
+  "imageAlt": "Orbital Temple Satellite hmanga siam a ni"
+}

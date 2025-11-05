@@ -1,0 +1,17 @@
+{
+  "title": "Info Técnico - Templo Orbital rehegua",
+  "heading": "Info Técnico rehegua",
+  "satellite": {
+    "heading": "Satélite rupive",
+    "specs": "Ijyvate: 50x58x64 mm<br /> 1P PocketQube rehegua<br /> Ipohýi: 245 gr<br /> Mba’e ojeporúva: aluminio, óro, fibra de vidrio ha componente electrónico.<br /> Orbita: Yvate 525 ± 25 km; inclinación: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura rehegua",
+    "specs": "Dimensiones: 6 m (diámetro) e 1,2m (yvate) .<br /> Ipohýi: 46 kg<br /> Material: aluminio, tablero espejo epoxi, cúpula de aluminio de oro oñesuspendéva estructura andamio rupive."
+  },
+  "radio": {
+    "heading": "Radio Especificaciones NASA-Catálogo rehegua:",
+    "specs": "TBD Enlace descendente: 437 MHz rehegua<br /> Ñehenói: Estado: HORARIO 2025-PE GUARÃ"
+  },
+  "imageAlt": "Diagrama de Información Técnica rehegua"
+}

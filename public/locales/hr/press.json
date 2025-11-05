@@ -1,0 +1,138 @@
+{
+  "title": "Tisak i mediji - Orbitalni hram",
+  "heading": "Tisak i mediji",
+  "pressContact": {
+    "heading": "Kontakt za medije",
+    "content": "Za upite za medije, intervjue i medijske zahtjeve:<br /> <strong>E-pošta:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Web stranica:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "O projektu",
+    "paragraph1": "Orbitalni hram je umjetničko djelo i satelit koji teži biti radikalno inkluzivan hram, izgrađen tamo gdje nijedan zid ne može dosegnuti. Projekt, koji je stvorio brazilski umjetnik Edson Pavoni, umjetnik koji stoji iza Memorijala Inumeráveis koji je dosegao svakog šestog Brazilca tijekom pandemije COVID-a, poziva ljude iz cijelog svijeta da pošalju ime nekoga koga se žele sjetiti. Ta se imena prenose satelitu u orbiti, stvarajući kolektivni spomenik.",
+    "paragraph2": "Putem web stranice dostupne na 136 jezika, sudionici se uključuju u novu vrstu rituala. Orbitalni hram istražuje teme uključivosti, sjećanja i naše zajedničke humanosti, propitujući zašto nijedan fizički hram na Zemlji ne može istinski primiti sve te predlažući svemir kao jedino mjesto gdje bi radikalna uključivost mogla postojati."
+  },
+  "aboutArtist": {
+    "heading": "O umjetniku",
+    "paragraph1": "<strong>Edson Pavoni</strong> je brazilski umjetnik čije je putovanje započelo na ulicama São Paula, gdje su siromaštvo i nasilje oblikovali njegove rane godine. U zemlji u kojoj je kršćanstvo nudilo put dalje od ulica, droga i nasilja, Pavoni je pronašao utočište u vjeri, temi koja će kasnije, kada je postao kritičar vjerskog zlostavljanja, utjecati na njegovu umjetničku praksu.",
+    "paragraph2": "Godine 2020., tijekom pandemije COVID-19, Pavoni je stvorio <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (nebrojeno)</a></strong> , umjetničko djelo na sjecištu umjetnosti i novinarstva. Projekt je intervjuirao tisuće obitelji i napisao priče onih izgubljenih u pandemiji, stvarajući prostor u kojem sjećanje nadilazi brojeve i statistiku. Pjesme, pjesme i simfonije nastale su s tim pričama. Novine su izrađivale naslovnice koristeći imena i povijesti. Sve brazilske zvijezde poput oskarovke Fernande Torres, te zvijezde poput Seltona Mela, Eve Wilme, Camile Pitange, Debore Secco, Taisa Arauja i Lazara Ramosa, te mnogi drugi čitali su te priče na nacionalnoj televiziji. Projekt je dosegao 32 milijuna ljudi, jednu od četiri odrasle osobe u Brazilu. Postao je mreža iscjeljenja, kolektivni spomenik sjećanju.",
+    "paragraph3": "Nakon više od deset tisuća razgovora s tugom, pojavio se obrazac: kada govorimo o nekome tko je umro, biramo fragmente njihove priče kao da pišemo preporuku čuvaru raja. Dajemo sve od sebe da ih pošaljemo u ono što vjerujemo da je raj. Ovo djelo potaknulo je novo razumijevanje: Naša uvjerenja o tome tko zaslužuje raj izravno oblikuju koga prihvaćamo ili isključujemo na Zemlji. Portugalski kolonizatori u Brazilu vjerovali su da crnci nemaju dušu; to uvjerenje opravdava ropstvo. Ako ste bili autohtoni, ako ste rođeni na krivom mjestu ili ste voljeli krivu osobu, i danas vam se govori da su vam vrata raja zatvorena. Postoji li vizija budućnosti koja nije ispunjena odbacivanjem?",
+    "paragraph4": "Tako je nastao Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Ključne činjenice",
+    "artist": "<strong>Umjetnik:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Vrsta projekta:</strong> Satelitska umjetnost, specifična za lokaciju u svemiru, web-bazirani ritual",
+    "launchDate": "<strong>Datum lansiranja:</strong> 28. studenog 2025.",
+    "launchLocation": "<strong>Mjesto lansiranja:</strong> Svemirski centar Satish Dhawan, Sriharikota, Indija (ISRO)",
+    "satellite": "<strong>Satelit:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbita:</strong> 525 km visine, Sunčevo sinkrono",
+    "participation": "<strong>Sudjelovanje:</strong> Besplatno, otvoreno za sve diljem svijeta",
+    "namesSent": {
+      "heading": "<strong>Imena poslana u Orbitu:</strong>",
+      "caption": "<em>Broj uživo ažuriran iz baze podataka • Zadnje osvježavanje: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Nagrade i priznanja",
+    "mercosul": {
+      "title": "<strong>13. bijenale Mercosura</strong> (2022.)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "Kustos: Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumenova nagrada 2022. - Nagrada za budućnost</strong>",
+      "status": "Uvršten na dugi popis"
+    },
+    "cubeDesign": {
+      "title": "<strong>Natjecanje CubeDesign 2021</strong>",
+      "award": "Pobjednik - kategorija ArtSat",
+      "org": "Promovira Brazilski institut za svemirska istraživanja (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Momčad",
+    "content": "Orbital Temple nastao je u suradnji sa Sathi Royem, Pedrom Kaledom, João Pedrom Politom, Victorom Baptistom, João Victorom Alvesom, Andréom Biagionijem, VK, Jonathanom Querubinom, Guilhermeom Bullejosom, Eduardom Diasom, Robertom Savian Rosa, Clarom Marques, Daphne Alves, Flaviom Vidigalom, Andreom Holzmeisterom, Pedrom Vidigalom, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace i svi oni koji nastavljaju predlagati imena za ovaj hram."
+  },
+  "pressCoverage": {
+    "heading": "Istaknuto u / Izvještavanje u medijima",
+    "paragraph1": "<em>Izvještaji i članci za medije bit će dodani čim postanu dostupni. Za najnovije informacije obratite se našem timu za medije.</em>",
+    "paragraph2": "Prethodne izložbe i programi uključuju prezentacije na 13. Mercosul Bienalu, priznanje Lumenove nagrade i odabir Brazilskog instituta za istraživanje svemira (INPE)."
+  },
+  "images": {
+    "heading": "Slike visoke rezolucije za upotrebu u tisku",
+    "intro": "Sve slike su dostupne za uredničku upotrebu. Kliknite na bilo koju sliku za preuzimanje datoteke visoke rezolucije.",
+    "installationPhotos": {
+      "heading": "Fotografije Orbitalnog hrama",
+      "credit": "Molimo navedite izvor: \"Fotografija Clare Marques / Ljubaznošću Edsona Pavonija, Orbital Temple\"",
+      "view01": "Prikaz instalacije 01<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (1,4 MB)",
+      "view02": "Prikaz instalacije 02<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (2,9 MB)",
+      "view03": "Prikaz instalacije 03<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (11 MB)",
+      "view04": "Prikaz instalacije 04<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (3,4 MB)",
+      "view05": "Prikaz instalacije 05<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (3,3 MB)",
+      "view06": "Prikaz instalacije 06<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (3,7 MB)",
+      "view07": "Prikaz instalacije 07<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (3,4 MB)",
+      "view08": "Prikaz instalacije 08<br /> Fotografija: Clara Marques<br /> ↓ Preuzmi sliku visoke rezolucije (2,7 MB)",
+      "satelliteDesign": "Dizajn satelita<br /> ↓ Preuzmi",
+      "antennaSculpture": "Antena/Skulptura<br /> ↓ Preuzmi"
+    },
+    "renders": {
+      "heading": "Orbitalni renderi hrama",
+      "credit": "Konceptualni 3D prikazi Orbitalnog hrama. Molimo navedite izvor: \"3D prikaz RiseNY&Partners / Ljubaznošću Edsona Pavonija, Orbitalni hram\"",
+      "render01": "3D renderiranje 01<br /> RiseNY&amp;Partners<br /> ↓ Preuzmi sliku visoke rezolucije (10 MB)",
+      "render02": "3D renderiranje 02<br /> RiseNY&amp;Partners<br /> ↓ Preuzmi sliku visoke rezolucije (5,9 MB)",
+      "render03": "3D renderiranje 03<br /> RiseNY&amp;Partners<br /> ↓ Preuzmi sliku visoke rezolucije (5,2 MB)",
+      "render04": "3D renderiranje 04<br /> RiseNY&amp;Partners<br /> ↓ Preuzmi sliku visoke rezolucije (11 MB)",
+      "render05": "3D renderiranje 05<br /> RiseNY&amp;Partners<br /> ↓ Preuzmi sliku visoke rezolucije (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Fotografije umjetnika",
+      "photo1": "Fotografija 1<br /> ↓ Preuzmi sliku visoke rezolucije",
+      "photo2": "Fotografija 2<br /> ↓ Preuzmi sliku visoke rezolucije"
+    },
+    "sathiPhotos": {
+      "heading": "Fotografije Sathija Roya",
+      "photo1": "Fotografija 1<br /> ↓ Preuzmi u visokoj rezoluciji (843 KB)",
+      "photo2": "Fotografija 2<br /> ↓ Preuzmi sliku visoke rezolucije (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tehničke specifikacije",
+    "satellite": {
+      "heading": "Satelit",
+      "dimensions": "Dimenzije: 50 x 58 x 64 mm",
+      "classification": "Klasifikacija: 1P PocketQube",
+      "weight": "Težina: 245 g",
+      "materials": "Materijali: Aluminij, zlato, stakloplastika, elektroničke komponente",
+      "orbit": "Orbita: Visina 525 ± 25 km; Nagib: SSO 97,6 ± 0,1°",
+      "launch": "Lansiranje: 28. studenog 2025. putem ISRO-a, Indija"
+    },
+    "antenna": {
+      "heading": "Antena/Skulptura",
+      "dimensions": "Dimenzije: promjer 6 m x visina 1,2 m",
+      "weight": "Težina: 46 kg",
+      "materials": "Materijali: Aluminij, epoksidna zrcalna ploča, zlatna aluminijska kupola obješena kroz skelu"
+    },
+    "radio": {
+      "heading": "Specifikacije radija",
+      "downlink": "Silazna veza: 437 MHz",
+      "status": "Status lansiranja: Planirano 28. studenog 2025."
+    }
+  },
+  "additionalResources": {
+    "heading": "Dodatni resursi",
+    "artwork": "→ Pogledajte dokumentaciju o umjetničkim djelima",
+    "howItWorks": "→ Kako funkcionira",
+    "technicalInfo": "→ Tehničke informacije",
+    "spaceLaunch": "→ Informacije o lansiranju u svemir",
+    "ritual": "→ Doživite ritual"
+  },
+  "imageAlts": {
+    "installation": "Instalacija Orbitalnog hrama Edsona Pavonija",
+    "satelliteDesign": "Dizajn satelita Orbitalnog hrama",
+    "antenna": "Skulptura orbitalne hramske antene",
+    "render": "3D renderiranje Orbitalnog hrama od RiseNY&Partners",
+    "edsonPortrait": "Portret Edsona Pavonija",
+    "sathiPortrait": "Portret Sathija Roya",
+    "lumenPrize": "Lumenova nagrada",
+    "mercosulBienal": "Bijenale Mercosura"
+  }
+}

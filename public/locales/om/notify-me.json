@@ -1,0 +1,13 @@
+{
+  "title": "Be Beeksisa - Mana Qulqullummaa Orbital",
+  "heading": "Yeroo Ka'u Beeksifamaa",
+  "description": "Adoolessa 28, 2025 Manni Qulqullummaa Orbital ol ba&#39;a.<br> E-mail keessan dhiisaa, yeroo bakka gahu isinitti himna.",
+  "form": {
+    "emailPlaceholder": "keessan@email.com irratti",
+    "sendButton": "Erguu",
+    "sendingButton": "Ergaa...",
+    "successMessage": "Gaafa ol bahu isin bira geenya.",
+    "errorMessage": "Waan tokkotu dogoggora ta'e. Mee irra deebi'ii yaalaa."
+  },
+  "backLink": "← Gara lakkoofsa duubatti deebi'uu"
+}

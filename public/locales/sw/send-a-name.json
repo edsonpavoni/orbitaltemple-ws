@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "unapoingia\ntambiko\nkutuma jina\nndani ya\nhekalu la orbital\nkatika nafasi\nkuchukua\npumzi",
+    "button": "niko tayari"
+  },
+  "nameInput": {
+    "title": "chapa jina",
+    "subtitle": "itainuka hadi kwenye Hekalu la Orbital angani.",
+    "placeholder": "jina",
+    "button": "iache ipande"
+  },
+  "emailInput": {
+    "title": "chapa barua pepe yako",
+    "subtitle": "kwa hivyo unapata ujumbe wakati jina linapanda.",
+    "placeholder": "barua pepe yako",
+    "button": "inafanyika"
+  },
+  "loading": {
+    "alt": "Inapakia"
+  },
+  "success": {
+    "text": "jina\n{{jina}}\nsasa iko kwenye foleni\nkwa kupaa.\nwakati\nhekalu katika nafasi\ninalingana, na\nantena yetu\nduniani\ntutatuma\njina\nnawe utapokea\nujumbe."
+  }
+}

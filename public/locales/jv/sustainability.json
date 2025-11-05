@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Candi Orbital",
+  "heading": "Kelestarian",
+  "intro": {
+    "paragraph1": "Yen seni mimpin kita menyang masa depan, ora bisa nglirwakake krisis sing kita adhepi - ambruk lingkungan, ketimpangan sosial, lan tantangan sampah ruang angkasa. Kuil Orbital dirancang kanthi ngelingi kasunyatan kasebut, ngarahake dadi tanggung jawab ing Bumi lan ing orbit.",
+    "paragraph2": "Kita yakin kelestarian ora dadi kendala nanging minangka bagean penting saka visi seni kita. Saben keputusan babagan materi, orbit, lan operasi nggambarake komitmen kita kanggo ninggalake Bumi lan angkasa luwih apik tinimbang sing ditemokake."
+  },
+  "spaceDebris": {
+    "heading": "Space Debris",
+    "paragraph1": "Lebu ruang angkasa minangka salah sawijining tantangan sing paling angel kanggo eksplorasi ruang angkasa. Ewonan satelit mati lan fragmen ngorbit Bumi, ngancam misi aktif lan nggawe efek kaskade sing bisa nggawe orbit tartamtu ora bisa digunakake.",
+    "paragraph2": "Orbital Temple alamat iki ing sawetara cara:",
+    "list": {
+      "orbit": "<strong>Orbit sun-sinkron ing 525 km:</strong> Ketinggian iki njamin seret atmosfer alami bakal njalari satelit mlebu maneh ing atmosfer bumi sajrone kira-kira 10 taun, lan bakal kobong kabeh. Kita ora nyumbang kanggo lebu orbital jangka panjang.",
+      "size": "<strong>Desain PocketQube:</strong> Ing mung 50 × 58 × 64mm lan 245g, satelit cukup cilik kanggo rampung vaporize sak re-entry, ninggalake ora lebu ing lumahing bumi.",
+      "responsibility": "<strong>Ora ana obsolescence sing direncanakake:</strong> Ora kaya satelit komersial sing bisa ditinggalake, Candi Orbital dirancang kanggo deorbit kanthi alami, netepi pedoman internasional kanggo kegiatan ruang angkasa sing tanggung jawab."
+    },
+    "paragraph3": "Kanthi milih orbit Bumi sing kurang lan desain sing kompak, kita mesthekake yen anane Candi Orbital ing angkasa sak wentoro lan ora polusi."
+  },
+  "carbonNeutrality": {
+    "heading": "Netralitas Karbon",
+    "content": "Kabeh emisi karbon sing ana gandhengane karo Orbital Temple—kalebu manufaktur satelit, peluncuran, operasi stasiun bumi, hosting situs web, lan lelungan tim—bakal diimbangi kanthi lengkap liwat program kredit karbon sing wis diverifikasi. Kita setya nggawe misi iki netral iklim."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Keberlanjutan uga tegese ora mbuwang kawruh. Saben aspek teknis Candi Orbital—skema, kode, protokol komunikasi, lan metode konstruksi—bakal diterbitake minangka dokumentasi sumber terbuka.",
+    "paragraph2": "Iki ngidini misi mbesuk kanggo mbangun karya kita tinimbang miwiti saka awal, nyuda riset lan pangembangan sing berlebihan. Iki demokratisasi akses menyang teknologi antariksa, utamane kanggo komunitas ing Global South sing sacara historis ora kalebu saka eksplorasi antariksa."
+  },
+  "educational": {
+    "heading": "Dampak Pendidikan",
+    "paragraph1": "Program pendidikan multibahasa gratis kita mulang siswa ing saindenging jagad babagan carane mbangun lan ngluncurake satelit, kanthi fokus ing Global South. Kanthi nguatake generasi sabanjure kanthi katrampilan teknologi angkasa, kita nyumbang kanggo nutup \"Space Gap\" lan nggawe kesempatan sing ora bakal ana.",
+    "paragraph2": "Misi pendhidhikan iki dhewe minangka wujud kelestarian—investasi ing wong lan komunitas kanggo nggawe owah-owahan sing langgeng ngluwihi umur satelit."
+  },
+  "tenYear": {
+    "heading": "Misi 10 Taun",
+    "paragraph1": "Kuil Orbital dirancang kanggo misi suwene dasawarsa, dudu aksi publisitas singkat. Swara sepuluh taun, satelit bakal ngorbit Bumi kira-kira 50.000 kaping, nampa jeneng lan dadi pangeling yen papan bisa dadi umum, diakses kanggo kabeh.",
+    "paragraph2": "Sawise misi rampung, satelit bakal de-orbit lan diobong kanthi alami, ora ana jejak kajaba ing kenangan lan dokumentasi sing melu."
+  },
+  "artsResponsibility": {
+    "heading": "Tanggung Jawab Seni",
+    "paragraph1": "Seni tansah dadi pangilon ing jamane, nggambarake nilai lan aspirasi kita. Ing jaman krisis iklim lan ketimpangan sing saya tambah akeh, kita yakin para seniman duwe tanggung jawab kanggo nggawe karya sing ora mung menehi komentar babagan masalah kasebut, nanging kanthi aktif ngatasi masalah kasebut.",
+    "paragraph2": "Orbital Temple minangka upaya kita kanggo nggawe karya seni sing radikal ing inklusivitas, tanggung jawab ing pengaruh lingkungan, lan loman nuduhake kawruh karo donya. Iku seni sing ngajak kabeh wong melu nalika ngormati sistem rapuh - lingkungan lan orbital - sing nggawe urip lan eksplorasi bisa."
+  },
+  "imageAlt": "Satelit Candi Orbit"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Press & Media - Yeekaalu ya Orbital",
+  "heading": "Press & Media",
+  "pressContact": {
+    "heading": "Nywa ku Tuukirira",
+    "content": "Okubuuza ku bannamawulire, okubuuza ebibuuzo, n’okusaba kw’emikutu gy’amawulire:<br /> <strong>Email:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Omukutu gwa yintaneeti:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Ebikwata ku Pulojekiti eno",
+    "paragraph1": "Orbital Temple ye artwork era satellite egenderera okubeera yeekaalu erimu abantu bonna, ezimbiddwa nga tewali bbugwe asobola kutuuka. Pulojekiti eno eyatondebwawo omuyimbi Omubrazil Edson Pavoni, omuyimbi ali emabega w’ekijjukizo kya Inumeráveis ekyatuuka ku muntu 1 ku buli Bannabrazil 6 mu kiseera ky’ekirwadde kya COVID, eyita abantu okuva mu nsi yonna okuweereza erinnya ly’omuntu gwe baagala okujjukira. Amannya gano gasindikibwa ku setilayiti eri mu nkulungo, ne kikola ekijjukizo eky’omuggundu.",
+    "paragraph2": "Nga bayita ku mukutu gwa yintaneeti ogusangibwa mu nnimi 136, abeetabye mu mpaka zino beenyigira mu kika ky’omukolo omupya. Yeekaalu y’Enkulungo (Orbital Temple) enoonyereza ku miramwa gy’okuyingiza abantu bonna, okujjukira, n’obuntu bwaffe bwe tugabana, nga ebuusabuusa lwaki tewali yeekaalu ya mubiri ku Nsi eyinza okwaniriza ddala buli muntu, era n’eteesa ku bwengula ng’ekifo kyokka okuyingiza abantu bonna mu ngeri ey’enjawulo we kuyinza okubaawo."
+  },
+  "aboutArtist": {
+    "heading": "Ebikwata ku Muyimbi",
+    "paragraph1": "<strong>Edson Pavoni</strong> muyiiya wa Brazil era olugendo lwe lwatandikira mu nguudo z’omu kibuga São Paulo, embeera y’obwavu n’effujjo gye yakola emyaka gye egyasooka. Mu nsi Obukristaayo mwe bwali buwa ekkubo okuva ku nguudo, ebiragalalagala, n’effujjo, Pavoni yafuna obuddukiro mu kukkiriza, omulamwa oluvannyuma, bwe yafuuka omuvumirira okutulugunyizibwa kw’eddiini, gwe gwanditegeeza enkola ye ey’ekikugu.",
+    "paragraph2": "Mu 2020, mu kiseera ky’ekirwadde kya COVID-19, Pavoni yatonda <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (etabalika)</a></strong> , omulimu gw’emikono ku nkulungo y’ebyemikono n’ebyamawulire. Pulojekiti eno yabuuzizza enkumi n’enkumi z’amaka era n’ewandiika emboozi z’abo abaafiirwa ssennyiga omukambwe, n’etondawo ekifo okujjukira we kwasukkulumye ku muwendo n’ebibalo. Ebitontome, ennyimba, ne symphonies byakolebwanga n’emboozi ezo. Empapula z’amawulire zaakola ebibikka nga bakozesa amannya n’ebyafaayo. Abayimbi bonna aba Brazil nga Fernanda Torres eyawangula engule ya Oscar, n’abayimbi nga Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo ne Lazaro Ramos, n’abalala bangi nnyo basoma emboozi ezo ku ttivvi y’eggwanga. Pulojekiti eno yatuuka ku bantu obukadde 32, omu ku buli bantu bana abakulu okuva e Brazil. Kyafuuka omukutu gw’okuwonya, ekijjukizo eky’omuggundu eky’okujjukira.",
+    "paragraph3": "Oluvannyuma lw’emboozi ezisukka mu nkumi kkumi n’ennaku, enkola yavaayo: bwe twogera ku muntu afudde, tulonda ebitundutundu by’emboozi ye nga tulinga abawandiika ebbaluwa ey’okusemba eri omukuumi w’omulyango gw’ejjana. Tukola kyonna ekisoboka okubasindika mu kifo kye tukkiriza nti ggulu. Omulimu guno gwaleetawo okutegeera okupya: Enzikiriza zaffe ku ani agwanidde eggulu zikola butereevu ani gwe tukkiriza oba gwe tuggyako ku Nsi. Abafuzi b’amatwale Abapotugali mu Brazil baali bakkiriza nti Abaddugavu tebalina myoyo; enzikiriza eyo yawa obuddu obutuufu. Bw’oba wali enzaalwa, bw’oba wazaalibwa mu kifo ekikyamu oba ng’oyagala omuntu omukyamu, n’okutuusa kati, n’okutuusa kati, bategeezebwa nti enzigi z’eggulu zaali zikuggaddwa. Waliwo okwolesebwa kw’ebiseera eby’omu maaso okutajjula kugaanibwa?",
+    "paragraph4": "Bw’atyo Orbital Temple bwe yazaalibwa."
+  },
+  "keyFacts": {
+    "heading": "Ensonga Enkulu",
+    "artist": "<strong>Omuyimbi:</strong> Edson Pavoni (Brazil) Omuyimbi",
+    "projectType": "<strong>Ekika kya pulojekiti:</strong> Ebifaananyi bya satellite, site-specific ku bwengula, omukolo ogwesigamiziddwa ku mukutu",
+    "launchDate": "<strong>Olunaku lw’okutongoza:</strong> November 28, 2025",
+    "launchLocation": "<strong>Ekifo we yatongozebwa:</strong> Ekifo eky’omu bwengula ekya Satish Dhawan, Sriharikota, Buyindi (ISRO)",
+    "satellite": "<strong>Setilayiti:</strong> 1P PocketQube, mm 50x58x64, 245g",
+    "orbit": "<strong>Enkulungo:</strong> Obugulumivu bwa kiromita 525, Enjuba n’ekwatagana",
+    "participation": "<strong>Okwetabamu:</strong> Ku bwereere, kuggule eri buli muntu mu nsi yonna",
+    "namesSent": {
+      "heading": "<strong>Amannya Agasindikiddwa mu Orbit:</strong>",
+      "caption": "<em>Okubala obutereevu kulongooseddwa okuva mu database • Yasembyeyo okuzza obuggya: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Engule & Okusiimibwa",
+    "mercosul": {
+      "title": "<strong>Empaka za Mercosur ez’emyaka ebiri ez’omulundi ogwa 13</strong> (2022)",
+      "location": "Porto Alegre, mu ggwanga lya Brazil",
+      "curator": "Ekikuumiddwa Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Ekirabo kya Lumen 2022 - Engule y&#39;ebiseera eby&#39;omu maaso</strong>",
+      "status": "Olukalala oluwanvu"
+    },
+    "cubeDesign": {
+      "title": "<strong>Empaka za CubeDesign 2021</strong>",
+      "award": "Omuwanguzi - Omutendera gwa ArtSat",
+      "org": "Etumbuddwa ekitongole kya Brazil ekikola ku kunoonyereza ku bwengula (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Ekibinja",
+    "content": "Orbital Temple yatondebwawo nga bakolagana ne Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, n’abo bonna abagenda mu maaso n’okuteesa ku mannya ga yeekaalu eno."
+  },
+  "pressCoverage": {
+    "heading": "Ebiragiddwa Mu / Ebiwandiiko by'amawulire",
+    "paragraph1": "<em>Ebiwandiiko by’amawulire n’ebikozesebwa bijja kwongerwako nga bwe bigenda bibaawo. Okumanya ebipya, tuukirira ttiimu yaffe ey&#39;amawulire.</em>",
+    "paragraph2": "Emyoleso n’ebibaddewo emabegako mulimu okwanjula mu mpaka za Mercosul Bienal ez’omulundi ogwa 13, okusiimibwa okuva mu kirabo kya Lumen, n’okusunsulwa ekitongole kya Brazil ekikola ku kunoonyereza ku bwengula (INPE)."
+  },
+  "images": {
+    "heading": "Ebifaananyi eby’obulungi obw’amaanyi okukozesebwa mu mawulire",
+    "intro": "Ebifaananyi byonna biriwo okukozesebwa mu bawandiisi. Nywa ku kifaananyi kyonna okuwanula fayiro eno ey’obulungi obw’amaanyi.",
+    "installationPhotos": {
+      "heading": "Ebifaananyi bya Yeekaalu ya Orbital",
+      "credit": "Nsaba oweebwe: \"Ekifaananyi kya Clara Marques / Kyaweereddwa Edson Pavoni, Orbital Temple\".",
+      "view01": "Okuteekawo Okulaba 01<br /> Ekifaananyi: Clara Marques<br /> ↓ Download Obulungi bwa waggulu (1.4 MB)",
+      "view02": "Okulaba Okuteeka 02<br /> Ekifaananyi: Clara Marques<br /> ↓ Download Obulungi bwa waggulu (2.9 MB)",
+      "view03": "Okulaba Okuteeka 03<br /> Ekifaananyi: Clara Marques<br /> ↓ Download Obulungi bwa waggulu (11 MB)",
+      "view04": "Okulaba Okuteeka 04<br /> Ekifaananyi: Clara Marques<br /> ↓ Download Obulungi bwa waggulu (3.4 MB)",
+      "view05": "Okulaba Okuteeka 05<br /> Ekifaananyi: Clara Marques<br /> ↓ Wano wefunira High-Res (3.3 MB)",
+      "view06": "Okulaba Okuteeka 06<br /> Ekifaananyi: Clara Marques<br /> ↓ Download Obulungi bwa waggulu (3.7 MB)",
+      "view07": "Okuteekawo Okulaba 07<br /> Ekifaananyi: Clara Marques<br /> ↓ Download Obulungi bwa waggulu (3.4 MB)",
+      "view08": "Okuteekawo Okulaba 08<br /> Ekifaananyi: Clara Marques<br /> ↓ Download Obulungi bwa waggulu (2.7 MB)",
+      "satelliteDesign": "Okukola dizayini ya Satellite<br /> ↓ Okuwanula",
+      "antennaSculpture": "Antenna/Ekibumbe<br /> ↓ Okuwanula"
+    },
+    "renders": {
+      "heading": "Orbital Yeekaalu Renders",
+      "credit": "Endowooza 3D renderings ya Orbital Temple. Nsaba oweebwe: \"Ekifaananyi kya 3D ekya RiseNY&Partners / Nga kyaweebwa Edson Pavoni, Orbital Temple\".",
+      "render01": "Okulaga mu ngeri ya 3D 01<br /> RiseNY&amp;Abakolagana nabo<br /> ↓ Download Obulungi bwa waggulu (10 MB)",
+      "render02": "Okulaga mu ngeri ya 3D 02<br /> RiseNY&amp;Abakolagana nabo<br /> ↓ Download Obulungi bwa waggulu (5.9 MB)",
+      "render03": "Okulaga mu ngeri ya 3D 03<br /> RiseNY&amp;Abakolagana nabo<br /> ↓ Download Obulungi bwa waggulu (5.2 MB)",
+      "render04": "Okulaga mu ngeri ya 3D 04<br /> RiseNY&amp;Abakolagana nabo<br /> ↓ Download Obulungi bwa waggulu (11 MB)",
+      "render05": "Okulaga mu ngeri ya 3D 05<br /> RiseNY&amp;Abakolagana nabo<br /> ↓ Download Obulungi bwa waggulu (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Ebifaananyi by'omuyimbi",
+      "photo1": "Ekifaananyi 1<br /> ↓ Download Omulimu gwa High-Res",
+      "photo2": "Ekifaananyi 2<br /> ↓ Download Omulimu gwa High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Ebifaananyi bya Sathi Roy",
+      "photo1": "Ekifaananyi 1<br /> ↓ Download Obulungi bwa waggulu (843 KB)",
+      "photo2": "Ekifaananyi 2<br /> ↓ Download Obulungi bwa waggulu (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Ebikwata ku by’ekikugu",
+    "satellite": {
+      "heading": "Setilayiti",
+      "dimensions": "Ebipimo: mm 50 x 58 x 64",
+      "classification": "Okusengeka: 1P PocketQube",
+      "weight": "Obuzito: 245g",
+      "materials": "Ebikozesebwa: Aluminiyamu, zaabu, fiberglass, ebitundu by’ebyuma",
+      "orbit": "Enkulungo: Obugulumivu bwa kiromita 525 ± 25; Okuserengeta: SSO 97.6 ± 0.1°",
+      "launch": "Okutongoza: November 28, 2025 nga bayita mu ISRO, Buyindi"
+    },
+    "antenna": {
+      "heading": "Antenna/Ekibumbe",
+      "dimensions": "Ebipimo: Obuwanvu bwa mmita 6 x obuwanvu bwa mmita 1.2",
+      "weight": "Obuzito: Kkiro 46",
+      "materials": "Ebikozesebwa: Aluminiyamu, epoxy endabirwamu board, zaabu aluminiya dome dome ewaniriddwa okuyita mu scaffolding structure"
+    },
+    "radio": {
+      "heading": "Ebikwata ku Leediyo",
+      "downlink": "Enkola y’okukka wansi: 437 MHz",
+      "status": "Embeera y’okutongoza: Etegekeddwa nga November 28, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Ebikozesebwa ebirala",
+    "artwork": "→ Laba Ebiwandiiko by’Ebikolwa by’Obuyiiya",
+    "howItWorks": "→ Engeri Gy’ekola",
+    "technicalInfo": "→ Amawulire ag’ebyekikugu",
+    "spaceLaunch": "→ Amawulire agakwata ku kutongoza mu bwengula",
+    "ritual": "→ Laba Omukolo"
+  },
+  "imageAlts": {
+    "installation": "Okuteekebwawo kwa Yeekaalu mu Orbital nga Edson Pavoni",
+    "satelliteDesign": "Enteekateeka ya Satellite ya Yeekaalu ey’enkulungo",
+    "antenna": "Ekibumbe kya Antenna ya Yeekaalu ya Orbital",
+    "render": "Orbital Temple 3D Okulaga okukolebwa RiseNY&Partners",
+    "edsonPortrait": "Ekifaananyi kya Edson Pavoni",
+    "sathiPortrait": "Ekifaananyi kya Sathi Roy",
+    "lumenPrize": "Ekirabo kya Lumen",
+    "mercosulBienal": "Mercosur Emyaka ebiri egy’omwaka"
+  }
+}

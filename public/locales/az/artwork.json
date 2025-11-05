@@ -1,0 +1,31 @@
+{
+  "title": "İncəsənət əsəri - Orbital Məbədi",
+  "heading": "Sənət əsəri",
+  "intro": {
+    "paragraph1": "Orbital Məbədi bədii missiyası olan bir peykdir: Yer üzündə yaşayan və ya yaşamış hər bir canlı varlıq üçün açıq kosmosda bir xatirə.",
+    "paragraph2": "Texnoloji vasitələrlə hər kəs, ya dünyasını dəyişən, çox sağ olan, ya da xatırlanmağa layiq olan hər hansı bir varlığın adını Məbədə göndərə bilər."
+  },
+  "sculpture": {
+    "heading": "Heykəl",
+    "paragraph1": "İncəsənət əsərinin bir-birindən asılı olan üç elementi var: milyardlarla adı saxlamaq üçün xüsusi olaraq hazırlanmış peyk; peyklə məlumat mübadiləsi aparan ictimai heykəl; və iştirakçıların indidən vəfat edənə qədər adları cənnətə göndərdiyi bir vebsayt.",
+    "paragraph2": "Multidissiplinar bir səy olaraq, Orbital Məbədi məkanda yaşayan xüsusi bir heykəltəraşlıq hesab edilə bilər. Bu həm də Artsat layihəsidir."
+  },
+  "antenna": {
+    "heading": "Antenna ictimai heykəl kimi",
+    "paragraph1": "Bizi kosmosla birləşdirən antena.",
+    "paragraph2": "Orbital peyklə birbaşa əlaqədə olacaq antenna layihələndirilir.",
+    "paragraph3": "Üstündəki səmanı əks etdirən qızılı əks etdirən səthlə bu, kütləvi stimullaşdırma üçün başlanğıc nöqtəsidir (yaxud “yuxarıda” olanlarla münasibətimiz).",
+    "paragraph4": "Heykəllər dünyanın əksər yerlərində quraşdırılmasa da, hazırda peyki idarə edən Yerdən Çərçivələrimiz hər keçiddə adlar göndərir.",
+    "paragraph5": "Kosmosun tədqiqi, incəsənət və kosmosdakı ortaq yerimiz haqqında söhbətlərə ilham verən antena heykəlləri quraşdıraraq bu mənzərəni şəhərinizə çatdırmağa kömək edin. <a href=\"/support\">Layihəyə dəstək haqqında ətraflı məlumat əldə edin</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Məbədin peyki",
+    "riseNy": "Rise NY-dəki Orbital Məbədi",
+    "installation": "Clara Markes tərəfindən Orbital Məbədi",
+    "antenna": "Orbital Məbəd Antenası"
+  },
+  "imageCaptions": {
+    "riseNy": "Kosmosda Orbital Məbədi. RiseNY&Partners tərəfindən 3D render.",
+    "mercosul": "Braziliyanın Porto Aleqre şəhərindəki Merkosul Biennalında Orbital Məbədin quraşdırılması.<br> Foto: Clara Marques."
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "title": "Inkxaso yeTempile ye-Orbital-Joyina iMishini",
+  "heading": "Inkxaso yeTempile ye-Orbital",
+  "vision": "Ngomhla <strong>wama-28 kaNovemba ngo-2025</strong> , <strong>iTempile ye-Orbital</strong> iya kuqalisa isuka <strong>eIndiya</strong> ikhwele i-rocket <strong>ye-ISRO</strong> . Isathelayithi yobugcisa ethatha inxaxheba evela kwiGlobal South, lilitye lesikhumbuzo lokubandakanywa ngokupheleleyo, iqonga lemfundo, kunye ne-catalyst yencoko yehlabathi malunga nekamva lezinto ezingcwele kwixesha lobuchwephesha, i-AI kunye nokuhlola indawo.",
+  "videoCaption": "Intshayelelo yevidiyo ye-Orbital Temple, i-1 min.",
+  "accomplished": {
+    "heading": "Oko Sikufezileyo",
+    "content": "Emva kweminyaka emine yophando kunye nophuhliso, i-mission ilungile. Sigqibe <strong>ihardware kunye nophuhliso lwesoftware</strong> yesathelayithi, saphumelela <strong>iimvavanyo zeshaker ezisemthethweni</strong> ezifunekayo kwisiqinisekiso senqwelomoya, kwaye saqukumbela isivumelwano sethu ne-ISRO. Isathelayithi yakhiwe. Itekhnoloji iyasebenza. Sivunyiwe ukuba siqalise."
+  },
+  "funding": {
+    "heading": "Inkqubela yenkxaso-mali",
+    "raised": "iphakanyiswe ye",
+    "of": "ye",
+    "goal": "injongo",
+    "button": "Xhasa uMsebenzi"
+  },
+  "needs": {
+    "heading": "Yintoni Esiyidingayo Inkxaso",
+    "intro": "Ukugqibezela lo msebenzi uyimbali kunye nokwandisa impembelelo yawo, sifuna inkxaso kumacandelo amahlanu abalulekileyo:",
+    "launch": {
+      "title": "Iindleko zokuQaliswa kwe-ISRO:"
+    },
+    "travel": {
+      "title": "Uhambo lwamagcisa oluya eIndiya:"
+    },
+    "carbon": {
+      "title": "Inkqubo yeCarbon Offset:"
+    },
+    "education": {
+      "title": "Inkqubo yezemfundo:"
+    },
+    "docPreProd": {
+      "title": "Ukwenziwa kwaPhambi koxwebhu:"
+    },
+    "docProd": {
+      "title": "Ukuveliswa koxwebhu:"
+    }
+  },
+  "decade": {
+    "heading": "Ishumi Leminyaka Elizayo",
+    "intro": "Lo msebenzi awupheli ngoNovemba 28, 2025. Iyaqala.",
+    "paragraph1": "Kwiminyaka <strong>eyi-10</strong> ezayo, le satellite iya kujikeleza uMhlaba, iphendula kumagama athunyelwe kuzo zonke iikona zomhlaba. Inkqubo yemfundo ijolise ekuqeqesheni <strong>amawakawaka olutsha</strong> kubuchwepheshe besathelayithi, ukwaphula i <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">-Space Gap</a> for the Global South. Ifilimu iya kufikelela <strong>kwizigidi</strong> kwihlabathi liphela, ivuselela iincoko malunga nokubakho, inkumbulo, kunye nengcwele.",
+    "paragraph2": "ITempile ye-Orbital ibambisene noSathi <strong>Roy</strong> kunye <strong>neRoy Foundation</strong> ukwenza lo mbono weshumi leminyaka ubaluleke ngokwenkcubeko. I-Roy Foundation yinkampani engenzi nzuzo ezinikele ekwandiseni ukufikelela kwimfundo yokomoya, ukuphiliswa ngokweemvakalelo, kunye nezixhobo zokuqonda kuluntu olungagcinwanga kwihlabathi liphela, ukudibanisa ubulumko bakudala kunye netekhnoloji yale mihla ukudala ilizwe eliqaphela ngakumbi, eliqhagamsheleneyo, nelinovelwano. Sikunye, sakha isiseko sokuqinisekisa ukuba i-Orbital Temple iba yintshukumo ehlala ihleli efikelela kuluntu kwihlabathi liphela.",
+    "paragraph3": "Inkxaso yakho ayinikeli nje imali yokusungula; idala intshukumo eya kuvakala iminyaka elishumi kwaye ikhuthaze isizukulwana esilandelayo samagcisa kunye neenjineli."
+  },
+  "waysToSupport": {
+    "heading": "Iindlela zokuxhasa",
+    "individualDonations": {
+      "heading": "Iminikelo Yomntu Ngamnye",
+      "intro": "Joyina ubuthunywa kwinqanaba elisebenzela wena. Abaxhasi ngabanye basisiseko sale projekthi yembali.",
+      "orbitalFriend": {
+        "title": "Orbital Friend",
+        "benefits": "Ufumana: Igama kwiwebhusayithi uluhlu lwewonga · Isatifikethi esenzelwe wena se-orbital xa kusungulwa ngesathelayithi",
+        "button": "Yenza iRhafu-Deductible Donation"
+      },
+      "satelliteSupporter": {
+        "title": "Umxhasi weSatellite",
+        "benefits": "Ufumana: Zonke izibonelelo zoMhlobo we-Orbital · Ufikelelo olukhethekileyo kwi-app yesatellite yokulandela umkhondo · Igcisa enkosi ngomyalezo wevidiyo · Irisithi exhuzulwa irhafu",
+        "button": "Yenza iRhafu-Deductible Donation"
+      },
+      "spaceAdvocate": {
+        "title": "uMthetheleli weNdawo",
+        "benefits": "Ufumana: Zonke izibonelelo zoMxhasi weSatellite · Igama elishicilelweyo kwiikhredithi zamaxwebhu · Isimemo sokuhlolwa kwamaxwebhu abucala · Uhlaziyo lwekota oluvela kwiqela · Irisithi exhuzulwa irhafu",
+        "button": "Yenza iRhafu-Deductible Donation"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Inkxaso-mali kwiCandelo elithile",
+    "intro": "Igalelo lakho lixhasa ngokuthe ngqo imiba ethile yobuthunywa. Khetha into ethetha nawe, okanye udibanise ezininzi ukwenza impembelelo enkulu.",
+    "launch": {
+      "title": "Inkxaso-mali yokuQaliswa kweSithuba",
+      "description": "Eyona ndleko yokuphehlelelwa kwirokethi <strong>ye-ISRO</strong> ngoNovemba <strong>28, 2025</strong> . Oku kuthumela iTempile ye-Orbital kwi-orbit, apho iya kuhlala ishumi leminyaka njengesathelayithi yobugcisa ethatha inxaxheba kunye netempile esibhakabhakeni, efikelelekayo kuye nabani na emhlabeni.",
+      "benefits": "Ufumana: Isihloko esithi \"Launch Sponsor\" · Ifakwe kuwo onke amaphephandaba · Uvumo lwamaxwebhu esikrinini · Ufikelelo lweVIP lokusungula imisitho · Joyina iifowuni zevidiyo zekota kunye no-Edson kunye neqela lobuthunywa · Isatifikethi esinedatha yesathelayithi ye-orbital · Irisithi exhuzulwa iRhafu",
+      "button": "Yenza iRhafu-Deductible Donation"
+    },
+    "travel": {
+      "title": "Inkxaso-mali kuhambo lwaMagcisa oluya eIndiya",
+      "description": "Ukuhamba, indawo yokuhlala, kunye neendleko zokuvelisa umzobi u-Edson Pavoni kunye neqela eliphambili lokungqina ukuqaliswa <strong>eIndiya ngoNovemba 28, 2025</strong> . Olu hambo lubalulekile kumboniso bhanyabhanya, kumajelo eendaba, kunye nokumela iGlobal South ngalo mzuzu uyimbali.",
+      "benefits": "Ufumana: Enkosi buqu kwigcisa · Ngasemva-kwe-imboniso ufikelelo lwamaxwebhu · Igama elikwiikhredithi zamaxwebhu · Irisithi exhuzulwa irhafu",
+      "button": "Yenza iRhafu-Deductible Donation"
+    },
+    "carbon": {
+      "title": "Inkxaso-mali kwiNkqubo yeCarbon Offset",
+      "description": "Konke ukukhutshwa kwekhabhoni kuya kuncitshiswa, kubandakanywa ukuqaliswa kwe-rocket kunye nokwenziwa kwesathelayithi. Sisebenza kunye neenkqubo eziqinisekisiweyo ze-carbon offset ukuqinisekisa ukuba le mishini ishiya indawo engalunganga yokusingqongileyo.",
+      "benefits": "Ufumana: Igama kuluhlu lwembeko kwiwebhusayithi · Isatifikethi esenzelwe wena · Irisithi exhuzulwa irhafu",
+      "button": "Yenza iRhafu-Deductible Donation"
+    },
+    "education": {
+      "title": "Inkxaso-mali kwiNkqubo yezeMfundo",
+      "description": "Phuhlisa kwaye uqalise ikhosi epheleleyo yeelwimi ezininzi yokufundisa ulutsha lweGlobal South indlela yokwakha iisathelayithi. Kubandakanya uphuhliso lwekharityhulamu, ukuveliswa kwevidiyo, ukusingathwa kweqonga, kunye nonyaka wokuqala wokufundiswa kwabafundi abangagcinwanga kakuhle. Uyila iziseko zophuhliso ezihlala ixesha elide zokufundisa emajukujukwini.",
+      "benefits": "Ufumana: ukuvunywa \"Umxhasi woMseki wezeMfundo\" · Ukufundiswa kwezifundo egameni lakho · Okufakwe kwizixhobo zemfundo · Dibana neqela lokuqala labafundi oluxhaswa ngemali yokufunda (ngokoqobo okanye ngokobuqu) · Icandelo leempawu zoxwebhu · Ithuba lokuthetha kwimisitho yokusungula · Irisithi exhuzulwa irhafu",
+      "button": "Yenza iRhafu-Deductible Donation"
+    },
+    "docPreProd": {
+      "title": "Inkxaso-mali yokuVeliswa kwangaphambili koXwebhu",
+      "description": "Inkxaso-mali kwisigaba sokuqala <strong>&quot;Yintoni eyenza iTempile?&quot;</strong> ingxelo. Kubandakanya ukuqhuba udliwano-ndlebe olu-2 olunzulu <strong>eIndiya</strong> kunye neenkokheli zengcinga kunye nabasebenzi bokomoya, ukuhamba kwabasebenzi abancinci kunye nemveliso, kunye nokuhlelwa kwemifanekiso yangaphambi kokuveliswa. Esi sigaba siseka isiseko soxwebhu kwaye siqinisekisa isikhokelo soyilo.",
+      "benefits": "Ufumana: Ityala elinguMvelisi eliDityanisiweyo · Igama elikwiikhredithi zengxelo · Uvavanyo lwabucala lwemifanekiso eshukumayo yangaphambili · Ufikelelo ngasemva kwescene · Irisithi exhuzulwa irhafu",
+      "button": "Yenza iRhafu-Deductible Donation"
+    },
+    "docProd": {
+      "title": "Inkxaso-mali kwiMveliso yoXwebhu",
+      "description": "Imveliso epheleleyo kunye nokuveliswa emva kwe <strong>&quot;Yintoni eyenza iTempile?&quot;</strong> , umboniso ophonononga ukuhlangana kwezobugcisa, itekhnoloji, kunye nengcwele. Kubandakanya ukwenziwa kwefilimu kumazwe amaninzi, udliwano-ndlebe olongezelelweyo kunye neenkokheli zengcinga, ukuhlelwa okubanzi, ukuhlelwa kombala, uyilo lwesandi, kunye nokuhlolwa kokuqala <strong>eIndiya</strong> <strong>naseNYC</strong> .",
+      "benefits": "Ufumana: Ikhredithi yoMvelisi oLawulayo · Iboniswe ekuvuleni iikhredithi · Ukuhlolwa kwabucala kwiindwendwe zakho · Izimemo ze-premiere yehlabathi (zombini izixeko) · Isidlo sabucala kunye no-Edson kunye nomlawuli wengxelo phambi komboniso wokuqala · Ukufikelela emva-kwemiboniso · Irisithi exhuzulwa irhafu",
+      "button": "Yenza iRhafu-Deductible Donation"
+    },
+    "artCollector": {
+      "title": "Yiba nguMqokeleli woBugcisa weTempile ye-Orbital kuphela",
+      "imageAlt": "Ukufakwa kweTempile ye-Orbital kwi-Mercosul Biennial",
+      "imageCaption": "Itempile ye-Orbital kwi-13th Mercosul Biennial, ePorto Alegre. Ifoto nguClara Marques.",
+      "paragraph1": "Iisathelayithi ezintathu ezifanayo zenzelwe lo msebenzi. <strong>Omnye</strong> uya kuphehlelela emajukujukwini ngoNovemba 28, 2025. <strong>Umntu</strong> uya kwimiboniso yeemyuziyam kwihlabathi jikelele. <strong>Enye</strong> igcinelwe umqokeleli onesisa ofuna ukuxhasa ngemali lo mbono kwaye abe neqhekeza lembali yobugcisa bendawo.",
+      "paragraph2": "Le asiyokopi; yenye yeesathelayithi zoqobo ezintathu. <strong>Isiphekepheke esisebenza</strong> ngokupheleleyo esikwangumfanekiso <strong>oqingqiweyo</strong> . Isathelayithi inomlinganiselo <strong>we 5cm³</strong> kwaye inobunzima be <strong>245g</strong> , kunye nedome eyenziwe <strong>ngegolide</strong> .",
+      "paragraph3": "Lo ngumsebenzi <strong>wobugcisa we-1/1</strong> .",
+      "paragraph4": "Njengomqokeleli, uya kufumana ukufakela okufanayo okwenzelwe i- <strong>13th Mercosul Biennial</strong> , umboniso opheleleyo we-museological obonisa i-satellite njengobugcisa kunye nobugcisa. Olu fakelo lubonisiwe kwiindawo eziphambili zamazwe ngamazwe kwaye lumele owona mgangatho uphezulu wokuboniswa kobugcisa basemajukujukwini.",
+      "paragraph5": "Inkxaso yakho inceda ukuxhasa ngemali yonke imbono: ukuqaliswa, inkqubo yemfundo, kunye nengxelo eya kubangela iingxoxo zehlabathi malunga nezinto ezingcwele kwixesha lobuchwephesha, i-AI kunye nokuhlola indawo. Igama lakho lidityaniswa ngokusisigxina nalo msebenzi wembali.",
+      "button": "Buza Ngeli Thuba"
+    }
+  },
+  "gratitude": {
+    "heading": "Ngombulelo Kubaxhasi Bethu",
+    "intro": "ITempile ye-Orbital yenziwa ukuba ibekho ngamaziko, abantu, kunye namakholwa ekudityaniswe ngokugqibeleleyo abaqondayo ukuba ubugcisa budala iingcinga zangomso.",
+    "pearmill": {
+      "title": "Umxhasi osungulayo",
+      "description": "I-Pearmill yenye yee-arhente zentengiso ezikhula ngokukhawuleza ezikhula ngokukhawuleza e-US, iqela labaqulunqi, abathengisi, kunye neenjineli ezisebenza kunye ukunceda ukukhulisa ezinye zezona ziqalo zibalaseleyo emhlabeni. Inkxaso yabo yesisa yenza ukuba iqela leTempile ye-Orbital lithenge amacandelo abalulekileyo kunye nokuphuhlisa i-hardware evulekileyo eyenza le mishini yesathelayithi yenzeke."
+    },
+    "yourName": "Igama lakho linokuba lapha. Sijoyine ekudaleni imbali."
+  },
+  "people": {
+    "heading": "Abantu abasemva kwale Mishini",
+    "intro": "ITempile ye-Orbital yi-10 yeminyaka yokuzinikela. Ikhokelwa ngabantu ababini abachithe ubomi babo benxibelelanisa ubugcisa, itekhnoloji, kunye nonxibelelwano lwabantu, kwaye abo bakha iziseko zophuhliso ukugcina lo mbono weshumi leminyaka elizayo.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Igcisa kunye neNgcali yeTekhnoloji",
+      "paragraph1": "U-Edson ligcisa kunye netekhnoloji ephonononga ukusondelelana kwabantu kwindawo yokuhlangana yobugcisa kunye netekhnoloji. Umsebenzi wakhe ubandakanya ukufakelwa kwezakhiwo, imibongo, ukufota, kunye netekhnoloji yesathelayithi.",
+      "paragraph2": "Umsebenzi wakhe uboniswe kwi-13th Mercosul Biennial (eBrazil), i-IX International Biennale (Uzbekistan), kunye ne-NTU Global Digital Art Prize (eSingapore).",
+      "paragraph3": "Ngaphezulu <strong>kweminyaka engama-20 kwinkalo yobugcisa kunye neteknoloji</strong> , usebenze kunye namaqela okudala kwi- <strong>2016 Rio Olympics</strong> kunye ne <strong>-Inter American Development Bank</strong> . Ebizwa ngokuba yenye <strong>yeengcali ze-50 zezona zintsha zaseBrazil</strong> yi-Proxxima Magazine, ufumene <strong>i-IF Design Awards</strong> ezimbini ezilandelelanayo (2017-2018) kwaye wayeyi- <strong>Lumen Prize Futures Award</strong> finalist. Umsebenzi wakhe uye waboniswa kwiminyaka emibini kwaye thaca <strong>Ludwig Museum of Contemporary Art</strong> (Budapest), <strong>Inhotim Institute</strong> (Brazil), kunye <strong>Design kunye Fashion Museum</strong> (Lisbon), kunye nemiboniso eNew York, Beijing, Singapore, Dubai, Rio de Janeiro, kunye nezinye izixeko."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Umseki, iRoy Foundation & Strategic Partner",
+      "paragraph1": "U-Sathi ungumsunguli we <strong>-Roy Foundation</strong> , i-nonprofit ezinikele ekwandiseni ukufikelela kwimfundo yokomoya, ukuphilisa ngokweemvakalelo, kunye nezixhobo zokuqonda kuluntu olungagcinwanga kwihlabathi jikelele. Isiseko sisebenzisana nezikolo, amaziko enkcubeko, kunye nemibutho yasekuhlaleni ukuhambisa izixhobo zempilo ye-AI-powered, ikharityhulam yoluntu, kunye neendaba ezikhuthaza inguqu.",
+      "paragraph2": "Ngemvelaphi kwi-neuroscience, i-coaching, kunye nobunkokeli, i-Sathi iye yakha kwaye yakhokela amaqela kuwo wonke uMntla Melika kunye ne-Indiya, ivelisa <strong>i-600 yezigidi zeedola</strong> kwiintengiso zonyaka kwilinge elinye. Kwakhona ungumsunguli we <strong>-OHM</strong> , i-digital-first spiritual movement, i-Co-Founder ye- <strong>SUTE</strong> (i-digital AI-driven office platform), kwaye isebenza njengoMcebisi kunye neNtloko yeGlobal yokuKhula kwi <strong>-RISE Global Creative</strong> .",
+      "paragraph3": "Njengomfazi waseBengali-waseMelika odibanisa iintanda-bulumko zaseMpuma nezaseNtshona, uSathi uzisa imbono eyodwa kwiintshukumo zokomoya nezobugcisa kwinkulungwane yama-21. Ngothungelwano olukhulayo lwabalandeli <strong>abangama-65,000+</strong> kunye nangaphezulu kwezigidi <strong>ezingama-40 zokubonakala kwi-intanethi</strong> , wakha uluntu lwehlabathi olunxibelelana kwiiyantlukwano zenkcubeko nezomoya."
+    },
+    "together": "Sikunye neRoy Foundation, sakha iphulo leminyaka eli-10 elidibanisa ubugcisa, itekhnoloji, imfundo, kunye nengcwele, siqala ngokuphehlelelwa ngesathelayithi ngoNovemba 28, 2025, kwaye siqhubeke nentshukumo eza kufikelela kuluntu olungakhuselekanga kwihlabathi jikelele kwaye ikhuthaze isizukulwana esilandelayo."
+  },
+  "join": {
+    "heading": "Dibana nathi",
+    "content": "Isathelayithi yakhiwe. Iteknoloji ilungile. Umhla wokuqaliswa umiselwe: <strong>ngoNovemba 28, 2025</strong> . Eli lixesha lokujoyina i-mission ecinga kwakhona ukuba ubugcisa bunokwenza ntoni, bunokuya phi, kwaye bunokusebenzela bani na.",
+    "fundSpecific": {
+      "heading": "Inkxaso-mali kwiCandelo eliKhethekileyo okanye ube liQela eliQalayo",
+      "description": "Khetha elinye lamathuba enkxaso-mali angasentla, buza malunga nokuba ngumqokeleli wezobugcisa, okanye uxoxe ngenkxaso-mali yesiko ehambelana nombono wakho.",
+      "button": "Qhagamshelana nathi ukuze uqalise →"
+    },
+    "generalDonation": {
+      "heading": "Yenza umnikelo oxhuzulwa iRhafu",
+      "description": "Yonke iminikelo, emikhulu okanye encinci, ixhasa uthumo kwaye itsalwa irhafu kumxhasi wethu wemali, iField.",
+      "button": "Nikela ngeNdawo →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Tax-Deductible Giving",
+    "paragraph1": "ITempile ye-Orbital yiprojekthi exhaswa ngemali <strong>nguMmandla (iNdawo yokuSebenza i-Inc.)</strong> , i- <strong>501 (c) (3)</strong> umbutho ongenzi nzuzo ozinze eNew York. Yonke iminikelo yase-US itsalwa irhafu ngokomthetho.",
+    "paragraph2": "<strong>Intsimi</strong><br> 75 Maiden Lane, Suite 906<br> ENew York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Xa unikela ngetshekhi, nceda wenze ukuba kuhlawulwe kwiPerformance <strong>Zone Inc.</strong> ngememo: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

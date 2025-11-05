@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "akkuma seentutti\nsirna tokko\nmaqaa erguuf\ngara keessaatti\nmana qulqullummaa orbitaalaa\nhawaa keessatti\nfudhadhu\nafuura tokko",
+    "button": "qophaa'eera"
+  },
+  "nameInput": {
+    "title": "maqaa barreessi",
+    "subtitle": "gara Mana Qulqullummaa Orbitaal hawaa keessa jirutti ni ol ka’a.",
+    "placeholder": "maqaa",
+    "button": "haa ol bahu"
+  },
+  "emailInput": {
+    "title": "email keessan barreessaa",
+    "subtitle": "kanaaf yeroo maqaan ol bahu ergaan siif dhufa.",
+    "placeholder": "email keessan",
+    "button": "ni raawwatama"
+  },
+  "loading": {
+    "alt": "Fe'amaa jira"
+  },
+  "success": {
+    "text": "maqaa jedhu\n{{maqaa}}\namma tarree galeera\nol ba’uuf.\nyeroo\nmana qulqullummaa hawaa keessa jiru\nwalsimsiisa, waliin\nanteenaa keenya\nLafa irratti\nni ergina\nmaqaa jedhu\nni argattas\nergaa dhaamsa."
+  }
+}

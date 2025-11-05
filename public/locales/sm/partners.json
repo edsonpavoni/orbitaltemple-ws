@@ -1,0 +1,50 @@
+{
+  "title": "Paaga - Malumalu Orbital",
+  "heading": "Paaga",
+  "intro": "Orbital Temple o loʻo i ai e ala i le agalelei, tomai, ma le vaʻai a paaga tulaga ese. Mai satelite faʻainisinia i tala faʻasolopito, mai le tatalaina o faitotoʻa i nuʻu mamao e oʻo atu i le lafoina o miti i auro, o le galulue faʻatasi e faʻalatalata atu ai lenei malumalu i fetu.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Paaga",
+      "description": "Feso'ota'iga, aafiaga tu'ufa'atasia ma le 3D mata'ina ua fa'aalia ata na fa'aolaina ai le va'aiga a le satelite a'o le'i pa'i atu i le avanoa."
+    },
+    "highestMantra": {
+      "name": "La matou Mantra Maualuga",
+      "description": "Taʻitaʻia e Sathi Roy, faʻafesoʻotaʻi le Malumalu o Orbital ma faʻalapotopotoga faʻaleagaga ma faʻataʻitaʻiga a Initia. Tatala auala i sailiga tupe, fefaʻatauaʻiga faʻaleaganuʻu, ma se faʻaaliga Art Basel ina ua maeʻa le faʻalauiloaina o Novema 2025."
+    },
+    "allToSpace": {
+      "name": "Uma i Avanoa",
+      "description": "Pasila fa'apitoa satelite laiti. E fa tausaga o le galulue faʻatasi o le fausiaina o se faʻasalalauga faʻapipiʻi matala ma paionia le faʻagasologa o le auina atu o ata i le taamilosaga mai le Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Fa'alapotopotoga Su'esu'e Avanoa a Initia. Fa'alauiloa le tu'uina atu mo le misiona a le PSLV o lo'o aveina le Malumalu o Orbital i le la-synchronous orbit ia Novema 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Lua tausaga",
+      "description": "Porto Alegre, Pasila. Fa'atonuina e Marcello Dantas fa'atasi ai ma le fa'atonu fesoasoani Laura Cattani, Munir Klamt, Tarsila Riso, ma Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "O le au atina'e satelite na fausia i le taimi o le II ArtSat Workshop. Faamaopoopo e Fabiane M. Borges, faatonu e Lázaro Camargo, galulue faatasi e Ítalo Pinto Rodrigues, vaavaaia e Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Manatu mautu",
+      "description": "Na taitaia e Eduardo Dias. O lomitusi 3D uma ma le fa'ameamea fa'ameamea auro e galue mo le fa'atagata fa'atagata, suia miti fa'atekinolosi i mea moni u'amea taua."
+    },
+    "ideaSpace": {
+      "name": "Manatu Avanoa",
+      "description": "Fa'avae a'oa'oga a Pasila ile atina'eina ole Quebrada Space Programme curriculum, sauni e fa'aoga i tamaiti a'oga maualuga i Pasila."
+    }
+  },
+  "closing": "Fiafia e faipaaga ma Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Aapa atu</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Paaga Logo",
+    "highestMantra": "La matou Fa'ailoga Mantra Maualuga",
+    "allToSpace": "Mea uma i Avanoa Logo",
+    "isro": "ISRO Logo",
+    "mercosul": "13th Mercosur Biennial Logo",
+    "inpe": "Logo a le INPE ArtSat Workshop",
+    "solidConcepts": "Fa'ailoga Mausalī",
+    "ideaSpace": "Manatu Avanoa Logo"
+  }
+}

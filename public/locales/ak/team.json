@@ -1,0 +1,61 @@
+{
+  "title": "Team - Orbital Asɔredan",
+  "heading": "Ekuo",
+  "artist": "Edson Pavoni, mfoniniyɛfo",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Ɔyɛkyerɛfo Panyin",
+      "members": "Sathi Roy na ɔkyerɛwee"
+    },
+    "aerospace": {
+      "heading": "Ahunmu & Nhyehyɛe Ho Mfiridwuma",
+      "members": "Pedro Kaled, João Pedro Polito, Nkonimdi Baptista & João Nkonimdi Alves"
+    },
+    "electronic": {
+      "heading": "Ɛlektrɔnik Mfiridwuma Ho Adesua",
+      "members": "André Biagioni, João Pedro Polito ne V. K., ne wɔn a wɔka wɔn ho no"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Yonatan Kerubina na ɔkyerɛwee"
+    },
+    "design": {
+      "heading": "Nsusuwii ne Nneɛma a Wɔde Sisi",
+      "members": "Guilherme Bullejos na ɔkyerɛwee"
+    },
+    "printing": {
+      "heading": "3D Nkyerɛwee",
+      "members": "Solid Concepts, wɔ Eduardo Dias akanni ase"
+    },
+    "rendering": {
+      "heading": "3D Nkyerɛase a Wɔde Kyerɛkyerɛ",
+      "members": "Guilherme Bullejos & RiseNy & Ayɔnkofo"
+    },
+    "research": {
+      "heading": "Hwehwɛ mu",
+      "members": "Roberta Savian Rosa & Clara Marques na wɔyɛɛ saa"
+    },
+    "exhibition": {
+      "heading": "Ɔyɛkyerɛ a Wɔyɛ, Mfoninitwa & Nsɛm a Wɔde Yɛ",
+      "members": "Clara Marques na ɔkyerɛwee"
+    },
+    "silkScreen": {
+      "heading": "Ɔyɛkyerɛ no Silk Screening",
+      "members": "Daphne Alves na ɔkyerɛwee"
+    },
+    "educational": {
+      "heading": "Nhomasua Dwumadie",
+      "members": "Adwene Ahunmu"
+    },
+    "communication": {
+      "heading": "Nkitahodi Kuw",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, wɔn a wɔyɛ adwuma wɔ hɔ no"
+    },
+    "specialThanks": {
+      "heading": "Aseda Titiriw",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, ne Leigh Pennington, wɔn a wɔyɛ adwuma wɔ hɔ no mu biara"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Nkonimdi Baptista, João Nkonimdi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Ayɔnkofo, Adwene Ahunmu",
+  "imageAlt": "Orbital Asɔredan Satellite a Wɔde Di Dwuma"
+}

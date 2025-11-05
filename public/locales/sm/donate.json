@@ -1,0 +1,31 @@
+{
+  "title": "Foai i le Malumalu Orbital",
+  "heading": "Faauma lau Foai",
+  "donatingTo": "O lo'o e foa'i atu i:",
+  "chooseHow": "Filifili pe fa'apefea ona e mana'o e fa'atumu lau foa'i e to'ese lafoga:",
+  "option1": {
+    "heading": "Filifiliga 1: Foai i luga ole laiga Nei",
+    "description": "Fa&#39;auma vave lau foa&#39;i e fa&#39;aaoga ai kata fai aitalafu, pepa talatupe, po&#39;o isi auala e totogi ai i luga o le initaneti e ala i la matou lagolago tau tupe, <strong>The Field</strong> . E te maua se lisiti lafoga vave.",
+    "button": "Foai e ala ile The Field →"
+  },
+  "option2": {
+    "heading": "Filifiliga 2: Faletupe Faletupe ile Roy Foundation",
+    "description": "Faia se teugatupe tuusa&#39;o i le faletupe po&#39;o le fesiitaiga o uaea ile <strong>The Roy Foundation</strong> , la matou paaga fa&#39;apitoa ma le lagolago tau tupe. O lenei filifiliga e fetaui lelei mo foaʻi tetele poʻo fefaʻatauaiga faavaomalo.",
+    "bankingInfo": "Faamatalaga Faletupe",
+    "fields": {
+      "accountName": "Igoa Fa'amatalaga:",
+      "bankName": "Igoa Faletupe:",
+      "accountNumber": "Numera Teugatupe:",
+      "routingNumber": "Numera o auala:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Fa'asinomaga:"
+    },
+    "instructions": "Fa&#39;amolemole tu&#39;u mai le &quot; <strong>Mamalu Fa&#39;ata&#39;ita&#39;i - {donationType}</strong> &quot; i totonu o le fanua fa&#39;asino. A mae&#39;a lau fesiitaiga, imeli i matou i <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ma au fa&#39;amatalaga fesiitaiga e maua ai lau lisiti lafoga.",
+    "button": "Fa'afeso'ota'i matou e uiga i Teugatupe →"
+  },
+  "taxInfo": {
+    "heading": "Tuuina atu e Toese Lafoga",
+    "description": "Orbital Temple o se poloketi faʻatupeina tupe a <strong>le Field (Performance Zone Inc.)</strong> , o se <strong>501(c)(3)</strong> faʻalapotopotoga e leai ni tupe mama. O saofaga uma a Amerika e toesea lafoga i le tulaga e faatagaina e le tulafono.",
+    "questions": "Fesili? Fa&#39;afeso&#39;ota&#39;i matou i <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

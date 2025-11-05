@@ -1,0 +1,44 @@
+{
+  "title": "Na te Kaitoi",
+  "opening": {
+    "question": "Ko wai tenei tangata ki te tono i tetahi whare tapu i te waahi?",
+    "thanks": "Nga mihi mo te patai.",
+    "answer": "Ko te whakautu poto he toi ahau. Ko te mea roa ko tenei:"
+  },
+  "origin": {
+    "sao_paulo": "Ua fanauhia vau i te hiti o São Paulo, i te hoê vahi o tei haapii oioi ia ’u i te auraa o te ati. He maha oku hoa kura kei te whare herehere inaianei. Kei te whare herehere toku papa-whakatere. Ehara te tutu i te mea i panuitia e au, ko te ao me whakatere e au. Na ka mohio ahau me mawhiti ahau.",
+    "technology": "Ko te hangarau te huarahi ki waho. I ako ahau ki te hotaka, ako i te hikohiko i taku taiohitanga. Ko te Waehere he reo hei kawe i ahau ki tetahi atu wahi. Ko te mahi me te hangarau ko taku mawhiti mai i te rawakore.",
+    "christianity": "Engari i rapu ano ahau mo te noho, mo te aroha, mo tetahi mea hei whakapono. I kitea e ahau te Karaitiana, i kitea ranei ahau. I whakaaetia ahau. I arohaina ahau. He hapori ahau. I ako ahau ki te muru, ki te whakapono, ki te neke tahi mo tetahi kaupapa nui ake.",
+    "price": "Ko te utu, ahakoa, he tiketike. He maha hoki nga mea i akohia e au kaore ano kia ako. Na ka mawhiti ano ahau i tera."
+  },
+  "searching": {
+    "walls": "E mohio ana ahau ki nga mahi a nga pakitara. Kua rongo ahau i a raatau. Kua noho ahau ki nga taha e rua: ka mau ki waho, ka mau tonu ki roto. I mate te Atua i aua tau. Ko te atua i whakaakona ki ahau, ahakoa, he ture, he whakawa, he kuaha e tuwhera ana mo etahi tangata.",
+    "art": "I timata ahau ki te mahi toi ki te tirotiro i enei patai: mo te whanaungatanga me te hangarau, mo te mahara me te mate, mo wai e tika ana ki te rangi. I timata ahau ki te hanga mihini hei whakaaro hou i to maatau hononga ki te hangarau, mihini e hiahia ana to whakauru, to aroaro, to ingoa, ki te huri mai i te whakarewa me te waehere hei mea ora."
+  },
+  "pandemic": {
+    "intro": "Na ka pa te mate uruta ki Brazil.",
+    "government": "I te wa e whakaroa ana nga kano kano COVID, kei te whiriwhiri taku kawanatanga mo te utu whana mo te kotahi taara mo ia horopeta. I whakatairangahia e ratou te rongoa e mohio ana kaore e whai hua, ka kata i te wa ka mate nga tangata e tohe ana ki te manawa. I oho matou ia ra ki tetahi tau rereke. Tokohia nga tangata i mate i roto i nga haora 24 kua hipa? He nui ake, he iti ake ranei i te tumanako?",
+    "war": "Ko te haurua o te ao i mataku, ko tetahi haurua i whakahē. I te pakanga matou, me te huaketo me tetahi ki tetahi.",
+    "memorial": "I pirangi ahau ki te hanga waahi mo te pouri tahi, no reira me nga rau o nga tangata i hanga e ahau te Memorial Inumeráveis. He mahi toi i te kutanga o te toi me te purongo. I uiui matou i nga whanau kua mate tetahi. I tuhia e matou nga korero mo te oranga o te tangata i ngaro. I hurihia e matou nga tau ki nga hitori. I mahia nga rotarota, nga waiata, nga waiata waiata me aua hitori. Ka panuihia e nga whetu aua korero ki runga pouaka whakaata o te motu. I tae te kaupapa ki te miriona.",
+    "meaning": "Ko te mea nui ehara i te tauine, ko ia korero he ingoa, he oranga, he rangi o tetahi."
+  },
+  "discovery": {
+    "pattern": "Neke atu i te tekau mano nga korerorero me te pouri, ka timata te ahua o te ahua. Ka korero tatou mo te tangata kua mate, ehara i te mea pai noa iho; ka tohua e matou etahi wahanga o a raatau korero me te mea kei te tuhi matou i tetahi reta tohutohu. He kupu tohutohu ki te kaitiaki kuwaha o te pararaiha. Ka whakapau kaha matou ki te tuku ia ratou ki te waahi whakaae, okiokinga, honore me te maharatanga.",
+    "understanding": "E ua taa ia'u te tahi mea tei taui i te mau mea atoa: Ua pepe matou i te mau hiero ta matou i patu. Ko o tatou whakapono mo te hunga e tika ana ki te rangi e hanga tika ana ko wai ka whakakorehia e tatou i runga i te whenua. I whakapono nga tangata whenua Potiti i Brazil kaore he wairua o te tangata Pango; na taua whakapono i whakatika te mahi taurekareka. Mena he tangata whenua koe, mena i whanau koe i te waahi he, i aroha ranei koe ki te tangata he, ka kiia koe kua kati nga kuaha o te rangi ki a koe.",
+    "birth": "Koira te whanautanga o te Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Kaore he kaitoi e taea te tino ao. Ka herea tatou ki to tatou tupuna noa, te shaman. I te timatanga, he ana. I peitahia e te tangata nga kararehe ki runga pakitara ehara i te mea whakapaipai, engari hei karanga. Ka kanikani ratou, ka noho te ana hei whare tapu. Ka mau te shaman i te wairua o te kawa; ka mau te kaitoi i te aura o te toi. Ka peita tatou, ka whakairohia, ka tohuhia, ka hoahoa i ta maatau e hiahia ana kia kaua e whakapaipai, engari ki te tono. He wairua toi katoa, ahakoa e kii ana kaore."
+  },
+  "space": {
+    "question": "I hea tatou e nehenehe ai e patu i te hoê hiero aita e patu? Te wahi e kore e taea e tetahi iwi, whakapono ranei te kii. Te waahi ka taea e tatou te whakaaro ko tatou ano he roopu kotahi.",
+    "answer": "Mokowā.",
+    "description": "He amiorangi toi whai waahi mai i te Ao Tonga. He temepara i roto i te orbit e tono ana i nga tangata katoa ki te tuku i o ratou ingoa ki te waahi, ahakoa ko wai ratou, no hea ratou i whanau ai, ko wai e arohaina ana, he aha ta ratou e whakapono ana. He waahi ka taea te whakauru tuwhena, i roto i te orbit, i tua atu o nga rohe.",
+    "mission": "He puna tuwhera tenei misioni. Ko ia tuhinga hangarau, ia rarangi waehere ka waatea noa kia taea e etahi atu tohunga toi, etahi atu hapori, iwi ke atu ki te hanga i a raatau ake amiorangi. No reira karekau a Global South e whai waahi noa ki nga mahi tirotiro mokowhiti, engari e arahi ana."
+  },
+  "closing": {
+    "answer": "Na ko wai tenei tangata ki te hanga whare tapu ki te waahi? Kaore au e hanga. Ka hangaia te temepara e nga tangata katoa e whakatau ana ki te tuku i tetahi ingoa, kia kitea he tapu, kia tino tika. Ko ahau anake te tono. Ko koe te mea hanga mena ka whakatau koe.",
+    "signature": "Tena koe,",
+    "name": "Edson Pavoni"
+  }
+}

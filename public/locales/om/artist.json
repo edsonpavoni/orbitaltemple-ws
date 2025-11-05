@@ -1,0 +1,44 @@
+{
+  "title": "Artistii irraa",
+  "opening": {
+    "question": "Gurbaan kun eenyudha mana qulqullummaa hawaa keessatti yaada dhiyeessu?",
+    "thanks": "Gaaffii kanaaf galatoomaa.",
+    "answer": "Deebiin gabaabaan ani artistiidha. Inni dheeraan immoo kana:"
+  },
+  "origin": {
+    "sao_paulo": "Ani kanan dhaladhe qarqara magaalaa Saawuu Paawuloo, naannoo balaan jechuun maal jechuu akka taʼe dursee na barsiise keessatti. Hiriyoonni koo mana barumsaa hedduun amma mana hidhaa jiru. Abbaan abbaa warraa koo mana hidhaa jira. Jeequmsi waanan dubbise osoo hin taane addunyaa ani keessa naanna'uu qabu ture. Akkasumas miliquu akkan qabu nan beeka ture.",
+    "technology": "Teeknooloojiin karaan itti bahu ta'e. Sagantaa hojjechuu baradhe, dargaggummaa kootti elektirooniksii baradhe. Koodiin afaan bakka biraa na geessuu danda'u ture. Teeknooloojiin hojjechuun hiyyummaa jalaa miliquu koo ture.",
+    "christianity": "Garuu kan biraa barbaadaa ture, jaalala, waan itti amanu barbaadaa ture.Kiristaanummaa argadhe, ykn na argate. Fudhatama argadheera. Ani jaallatamaadha ture. Hawaasa qabadheen ture. Dhiifama gochuu, amanuu, kaayyoo guddaa tokkoof waliin socho'uu baradhe.",
+    "price": "Gatiin isaa garuu guddaa ture. Wantoota ammallee hin baranne hedduus baradheera. Kanaaf anis sana jalaa miliqe."
+  },
+  "searching": {
+    "walls": "Dallaa maal akka hojjetu nan beeka. Isaan natti dhaga'ameera. Gama lamaan tureera: ala tureera, keessa tureera.Wanti itti aanu waggootaaf waanan maqaa dhahuu hin dandeenye barbaaduu ture. Waaqayyo waggoota sanatti duʼe. Waaqni waa'ee isaa na barsiifame, waanuma fedhes ta'u, isa seeraa fi murtii fi balbala namoota tokko tokkoof qofa banamu qabu.",
+    "art": "Gaaffiiwwan kana qorachuuf aartii hojjechuu jalqabe: waa’ee walitti dhiyeenyaa fi teeknooloojii, waa’ee yaadannoo fi du’aa, waa’ee eenyuuf samiin akka malu. Maashiniiwwan hariiroo teeknooloojii waliin qabnu irra deebi’anii yaadu, maashiniiwwan hirmaannaa keessan, argamuun keessan, maqaa keessan barbaadan, sibiilaa fi koodii irraa gara waan lubbuu qabuutti jijjiiramuuf ijaaruu jalqabe."
+  },
+  "pandemic": {
+    "intro": "Sana booda weerarri kun Biraazil rukute.",
+    "government": "Gaafa talaalliin COVID harkifatu mootummaan koo doosiin tokko doolaara tokko akka kaffalu mari'achaa ture. Qoricha bu'a qabeessa akka hin taane hubatame, namoonni hafuura baafachuuf rakkachaa osoo du'anii kolfaa turan. Guyyaa guyyaan lakkoofsa adda ta'een dammaqna turre. Sa'aatii 24 darban keessatti namoonni meeqa du'aniiru? Kan eegame caalaa, moo gadi turee?",
+    "war": "Walakkaan addunyaa sodaate, walakkaan biraa immoo haaluu keessa ture. Lola keessa turre, vaayirasii waliinis ta'e walii keenya.",
+    "memorial": "Gadda waloodhaaf bakka uumuu waanan barbaadeef, namoota dhibbaan lakkaaʼaman waliin taʼuudhaan Yaadannoo Inumeráveis uume. Hojii aartii walqunnamtii aartii fi gaazexeessummaa irratti. Maatii nama dhaban gaaffii fi deebii taasifneerra. Seenaa jireenya nama isaan dhaban barreessine. Lakkoofsa gara seenaatti jijjiirre. Seenaawwan sanaan walaloo, sirbi, simfooniiwwan hojjetame. Urjiileen seenaa sana televijiinii biyyaalessaa irratti dubbisu. Pirojektiin kun namoota miliyoonaan lakkaa'aman gaheera.",
+    "meaning": "Wanti barbaachisaa ture madaallii osoo hin taane, seenaan tokkoon tokkoon isaa maqaa, jireenya, samii nama tokkoo ta'uu isaati."
+  },
+  "discovery": {
+    "pattern": "Haasawa kuma kudhanii ol gadda waliin erga godhanii booda, akkaataan tokko mul’achuu jalqabe. Waa'ee nama du'ee yommuu dubbannu waan gaarii qofa hin dubbannu; seenaa isaanii keessaa ciccitaa akka waan xalayaa gorsaa barreessinutti filanna. Yaada karra eegduu jannataaf kenname. Bakka fudhatama, boqonnaa, kabajaa fi yaadannootti erguuf waan dandeenyu hunda goona.",
+    "understanding": "Waan hundumaa jijjiire tokkos hubadheera: Mana qulqullummaa ijaarre sanaan madaa'eera. Eenyuf samiin akka malu amantiin keenya kallattiin eenyuun akka Lafa irratti hambifnu boca. Koloneeffattoonni Poorchugaal Biraazil keessa turan namoonni Gurraachonni lubbuu akka hin qabne amanu turan; amantiin sun garbummaaf sababa ta’e. Yoo dhalataa taate, bakka hin taane yoo dhalatte ykn nama dogoggoraa jaallatte balballi samii siif cufame jedhame.",
+    "birth": "Akkasitti Orbital Temple dhalate."
+  },
+  "shaman": {
+    "secular": "Artistiin kamiyyuu dhuguma secular ta'uu hin danda'u. Bara baraan akaakayyuu keenya waloo shaman waliin hidhamnee jirra. Jalqaba irratti holqa tokkotu ture. Ilmaan namootaa bineensota dallaa irratti kan dibu faayuuf osoo hin taane, waamuuf malee. Isaan shubbisan, holqichis mana qulqullummaa ta'e. Shamaan hafuura sirna aadaa fayyadama; artistichi aura aartii fayyadama. Dibu, ni bocna, koodii ni hojjenna, egeree barbaannu faayuuf osoo hin taane, waamuuf dizaayinii goona. Aartiin hundi afuuraadha, yeroo hin ta'u jedhuttillee."
+  },
+  "space": {
+    "question": "Mana qulqullummaa dallaa hin qabne eessatti ijaaruu dandeenya turre? Bakka sabni ykn amantiin kamiyyuu himachuu hin dandeenyetti. Bakka akka garee tokkootti of yaaduu dandeenyu.",
+    "answer": "Bakka.",
+    "description": "Saatalaayitii aartii hirmaachisaa Kibba Addunyaa irraa. Mana qulqullummaa orbiitii keessa jiru kan eenyu akka ta’e, eessatti akka dhalate, eenyu akka jaallatu, maal akka amane osoo hin ilaalin maqaa isaa gara hawaatti akka ergu nama hunda affeeru. Bakka hammatamuu hundee qabu, orbiitii keessatti, daangaa bira darbee.",
+    "mission": "Ergamni kun madda banaa dha. Sanadni teeknikaa hundi, sararri koodii hundi bilisaan ni argama kanaaf artistoonni biroo, hawaasni biroo, saboonni biroo saatalaayitii mataa isaanii ijaaruu danda'u. Kanaafuu Kibba Addunyaa qorannoo hawaa qofa irratti hirmaachuu osoo hin taane, ni hooggana."
+  },
+  "closing": {
+    "answer": "Kanaafuu gurbaan hawaa keessatti mana qulqullummaa ijaaruuf kun eenyu? Ani ijaaraa hin jiru. Manni qulqullummaa kun nama maqaa erguuf, akka qulqulluutti ilaaluuf, dhugaa ta’uuf murteesse hundaan ijaarama. Ani isa gaaffii dhiyeessu qofa. Yoo murteessite kan ijaartu sidha.",
+    "signature": "Kabajaan,",
+    "name": "Edson Pavoni jedhamuun beekama"
+  }
+}

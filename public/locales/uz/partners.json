@@ -1,0 +1,50 @@
+{
+  "title": "Hamkorlar - Orbital ibodatxonasi",
+  "heading": "Hamkorlar",
+  "intro": "Orbital ibodatxonasi g'ayrioddiy sheriklarning saxiyligi, tajribasi va qarashlari orqali mavjud. Muhandislik sun'iy yo'ldoshlaridan tortib hikoyalar yaratishgacha, uzoq mamlakatlarda eshiklarni ochishdan orzularni oltin rangga quyishgacha, har bir hamkorlik bu ma'badni yulduzlarga yaqinlashtiradi.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY & Partners",
+      "description": "Aloqa, birlashtirilgan tajribalar va ajoyib 3D render tasvirlari sun'iy yo'ldoshning kosmos bo'shlig'iga tegmasdan oldin ko'rish qobiliyatini jonlantirdi."
+    },
+    "highestMantra": {
+      "name": "Bizning eng yuqori mantramiz",
+      "description": "Orbital ibodatxonasini Hindistonning ma'naviy va badiiy jamoalari bilan bog'laydigan Sathi Roy boshchiligidagi. 2025-yil noyabr oyida boshlanganidan keyin mablagʻ yigʻish, madaniy almashinuv va Art Bazel koʻrgazmasiga yoʻl ochish."
+    },
+    "allToSpace": {
+      "name": "Hammasi Kosmosga",
+      "description": "Braziliyalik kichik sun'iy yo'ldosh mutaxassislari. To'rt yillik hamkorlik ochiq kodli apparat platformasini yaratish va san'atni Global janubdan orbitaga yuborish jarayoniga kashshoflik qilmoqda."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Hindiston kosmik tadqiqotlar tashkiloti. 2025 yil noyabr oyida Orbital Templeni quyosh bilan sinxron orbitaga olib boradigan PSLV missiyasi uchun provayderni ishga tushiring."
+    },
+    "mercosul": {
+      "name": "13-Merkosur bienali",
+      "description": "Porto Alegre, Braziliya. Kuratori Marcello Dantas, yordamchi kuratorlar Laura Kattani, Munir Klamt, Tarsila Riso va Karolina Lauriano bilan."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat ustaxonasi",
+      "description": "Sun'iy yo'ldoshni ishlab chiqish guruhi II ArtSat seminari davomida shakllangan. Fabiane M. Borges tomonidan muvofiqlashtirilgan, Lazaro Camargo tomonidan ko'rsatma berilgan, Ítalo Pinto Rodrigues bilan hamkorlik qilingan, Valter Abrahão dos Santos tomonidan boshqarilgan."
+    },
+    "solidConcepts": {
+      "name": "Qattiq tushunchalar",
+      "description": "Eduardo Dias boshchiligida. Haykaltarosh gumbaz uchun barcha 3D bosib chiqarish va oltin mikro quyma ishlaydi, bu raqamli orzularni qimmatbaho metall haqiqatga aylantiradi."
+    },
+    "ideaSpace": {
+      "name": "Ideya maydoni",
+      "description": "Braziliyadagi o'rta maktab o'quvchilariga qo'llashga tayyor bo'lgan Quebrada kosmik dasturi o'quv dasturini ishlab chiquvchi Braziliya ta'lim startapi."
+    }
+  },
+  "closing": "Orbital Temple bilan hamkorlik qilishni xohlaysizmi? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Uzing</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners logotipi",
+    "highestMantra": "Bizning eng yuqori mantra logotipimiz",
+    "allToSpace": "Hammasi Space logotipi",
+    "isro": "ISRO logotipi",
+    "mercosul": "13-Mercosur Bienali logotipi",
+    "inpe": "INPE ArtSat Workshop logotipi",
+    "solidConcepts": "Qattiq tushunchalar logotipi",
+    "ideaSpace": "Idea Space logotipi"
+  }
+}

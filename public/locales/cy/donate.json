@@ -1,0 +1,31 @@
+{
+  "title": "Rhoddwch i Deml Orbital",
+  "heading": "Cwblhewch Eich Rhodd",
+  "donatingTo": "Rydych chi'n rhoi i:",
+  "chooseHow": "Dewiswch sut yr hoffech chi gwblhau eich rhodd sy'n ddidynadwy o dreth:",
+  "option1": {
+    "heading": "Opsiwn 1: Rhoddwch Ar-lein Nawr",
+    "description": "Cwblhewch eich rhodd ar unwaith gan ddefnyddio cerdyn credyd, cerdyn debyd, neu ddulliau talu ar-lein eraill trwy ein noddwr cyllidol diogel, <strong>The Field</strong> . Byddwch yn derbyn derbynneb treth ar unwaith.",
+    "button": "Rhoddwch drwy The Field →"
+  },
+  "option2": {
+    "heading": "Opsiwn 2: Blaendal Banc i Sefydliad Roy",
+    "description": "Gwnewch flaendal banc uniongyrchol neu drosglwyddiad gwifren i <strong>Sefydliad Roy</strong> , ein partner strategol a&#39;n noddwr ariannol. Mae&#39;r opsiwn hwn yn ddelfrydol ar gyfer rhoddion mwy neu drosglwyddiadau rhyngwladol.",
+    "bankingInfo": "Gwybodaeth Bancio",
+    "fields": {
+      "accountName": "Enw'r Cyfrif:",
+      "bankName": "Enw'r Banc:",
+      "accountNumber": "Rhif Cyfrif:",
+      "routingNumber": "Rhif Llwybro:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Cyfeirnod:"
+    },
+    "instructions": "Cofiwch gynnwys &quot; <strong>Teml Orbital - {donationType}</strong> &quot; yn y maes cyfeirnod. Ar ôl cwblhau eich trosglwyddiad, anfonwch e-bost atom yn <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> gyda manylion eich trosglwyddiad i dderbyn eich derbynneb treth.",
+    "button": "Cysylltwch â Ni Ynglŷn â Blaendal →"
+  },
+  "taxInfo": {
+    "heading": "Rhoi Treth-Didyniadadwy",
+    "description": "Mae Orbital Temple yn brosiect a noddir yn ariannol gan <strong>The Field (Performance Zone Inc.)</strong> , sefydliad di-elw <strong>501(c)(3)</strong> . Mae pob cyfraniad o&#39;r Unol Daleithiau yn ddidynadwy o dreth i&#39;r graddau y caniateir gan y gyfraith.",
+    "questions": "Cwestiynau? Cysylltwch â ni yn <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Uendelevu & Uchafu wa Nafasi - Hekalu la Orbital",
+  "heading": "Uendelevu",
+  "intro": {
+    "paragraph1": "Iwapo sanaa itatuongoza katika siku zijazo, haiwezi kupuuza matatizo tunayokabiliana nayo—kuporomoka kwa mazingira, ukosefu wa usawa wa kijamii, na changamoto inayoongezeka ya uchafu wa anga. Orbital Temple imeundwa kwa kuzingatia mambo haya halisi, ikilenga kuwa na uwepo unaowajibika duniani na katika obiti.",
+    "paragraph2": "Tunaamini uendelevu sio kikwazo bali ni sehemu muhimu ya maono yetu ya kisanii. Kila uamuzi kuhusu nyenzo, mizunguko na uendeshaji unaonyesha kujitolea kwetu kuacha Dunia na anga bora zaidi kuliko tulivyozipata."
+  },
+  "spaceDebris": {
+    "heading": "Uchafu wa Nafasi",
+    "paragraph1": "Uchafu wa angani ni mojawapo ya changamoto kubwa zinazokabili utafutaji wa anga. Maelfu ya setilaiti na vipande vilivyokufa huzunguka Dunia, na kutishia misheni amilifu na kuunda athari ya kuteleza ambayo inaweza kufanya mizunguko fulani isitumike.",
+    "paragraph2": "Orbital Temple inashughulikia hili kwa njia kadhaa:",
+    "list": {
+      "orbit": "<strong>Obiti ya jua-sawazishwa kwa kilomita 525:</strong> Mwinuko huu unahakikisha uvutaji wa angahewa asilia utasababisha satelaiti kuingia tena kwenye angahewa ya Dunia ndani ya takriban miaka 10, ambapo itateketea kabisa. Hatuchangii uchafu wa muda mrefu wa obiti.",
+      "size": "<strong>Muundo wa PocketQube:</strong> Kwa ukubwa wa 50×58×64 na 245g tu, setilaiti ni ndogo ya kutosha kuyeyuka kabisa wakati wa kuingia tena, bila kuacha uchafu kwenye uso wa Dunia.",
+      "responsibility": "<strong>Hakuna uchakavu uliopangwa:</strong> Tofauti na satelaiti za kibiashara ambazo zinaweza kuachwa, Orbital Temple imeundwa kutenganisha kawaida, ikitimiza miongozo ya kimataifa ya shughuli inayowajibika ya anga."
+    },
+    "paragraph3": "Kwa kuchagua mzingo wa chini wa Dunia na muundo thabiti, tunahakikisha kuwa uwepo wa Orbital Temple angani ni wa muda na hauchafuzi."
+  },
+  "carbonNeutrality": {
+    "heading": "Upande wowote wa Carbon",
+    "content": "Utoaji hewa wote wa kaboni unaohusishwa na Orbital Temple—ikiwa ni pamoja na utengenezaji wa setilaiti, uzinduzi, uendeshaji wa vituo vya chini, upangishaji tovuti, na usafiri wa timu—utatatuliwa kikamilifu kupitia programu za mikopo za kaboni zilizothibitishwa. Tumejitolea kufanya dhamira hii isiwe ya hali ya hewa."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Uendelevu pia unamaanisha kutopoteza maarifa. Kila kipengele cha kiufundi cha Orbital Temple—taratibu, msimbo, itifaki za mawasiliano na mbinu za ujenzi—kitachapishwa kama hati huria.",
+    "paragraph2": "Hii inaruhusu misheni ya siku zijazo kuendeleza kazi yetu badala ya kuanza kutoka mwanzo, kupunguza utafiti na maendeleo yasiyo ya lazima. Inaweka kidemokrasia ufikiaji wa teknolojia ya anga, haswa kwa jamii za Ulimwenguni Kusini ambao wametengwa kihistoria kutoka kwa uchunguzi wa anga."
+  },
+  "educational": {
+    "heading": "Athari za Kielimu",
+    "paragraph1": "Mpango wetu wa bure wa elimu kwa lugha nyingi hufundisha wanafunzi ulimwenguni pote jinsi ya kuunda na kurusha setilaiti, kwa kulenga Ulimwengu wa Kusini. Kwa kuwezesha kizazi kijacho na ujuzi wa teknolojia ya anga, tunachangia katika kufunga \"Pengo la Nafasi\" na kuunda fursa ambazo zisingekuwepo.",
+    "paragraph2": "Dhamira hii ya kielimu yenyewe ni aina ya uendelevu—kuwekeza kwa watu na jumuiya ili kuleta mabadiliko ya kudumu zaidi ya muda wa maisha wa satelaiti."
+  },
+  "tenYear": {
+    "heading": "Misheni ya Miaka 10",
+    "paragraph1": "Orbital Temple imeundwa kwa ajili ya misheni ya muongo mmoja, si mkwazo mfupi wa utangazaji. Kwa zaidi ya miaka kumi, satelaiti itazunguka Dunia takriban mara 50,000, ikipokea majina na kukumbusha kuwa nafasi inaweza kuwa ya kawaida, inayopatikana kwa wote.",
+    "paragraph2": "Baada ya dhamira yake kukamilika, setilaiti itaacha mzingo na kuungua, bila kuacha alama yoyote isipokuwa katika kumbukumbu na kumbukumbu za wale walioshiriki."
+  },
+  "artsResponsibility": {
+    "heading": "Wajibu wa Sanaa",
+    "paragraph1": "Sanaa daima imekuwa kioo cha wakati wake, ikionyesha maadili na matarajio yetu. Katika enzi ya matatizo ya hali ya hewa na kuongezeka kwa ukosefu wa usawa, tunaamini wasanii wana wajibu wa kuunda kazi ambayo haitoi maoni tu kuhusu masuala haya bali kuyashughulikia kikamilifu.",
+    "paragraph2": "Orbital Temple ni jaribio letu la kuunda mchoro ambao ni mkali katika ujumuishaji wake, unaowajibika katika athari zake za mazingira, na kwa ukarimu katika kushiriki maarifa yake na ulimwengu. Ni sanaa inayoalika kila mtu kushiriki huku akiheshimu mifumo dhaifu—ya kimazingira na inayozunguka—inayofanya maisha na uchunguzi kuwezekana."
+  },
+  "imageAlt": "Satelaiti ya Hekalu la Orbital"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Mfiridwuma Ho Nsɛm - Orbital Asɔredan",
+  "heading": "Mfiridwuma Ho Nsɛm",
+  "satellite": {
+    "heading": "Satellite so a wɔde di dwuma",
+    "specs": "Nsusuwii: 50x58x64 mm<br /> 1P PocketQube na ɛwɔ hɔ<br /> Nneɛma a emu duru yɛ: 245 gr<br /> Nneɛma a wɔde yɛ: aluminium, sika kɔkɔɔ, fiberglass, ne ɛlɛtrɔnik nneɛma.<br /> Akwantuo: Ne sorokɔ yɛ 525 ± 25 km; sɛnea ɛkɔ fam: SSO 97.6 ± 0.1°<br /> Ɔde a Wɔde Tow: PSLV (Polar Satellite Launch Vehicle) a ISRO na ɛyɛ adwuma"
+  },
+  "antenna": {
+    "heading": "Antenna/Nneɛma a Wɔde Yɛ Nneɛma",
+    "specs": "Nsusuwii: 6 m (ne kɛse) e 1.2m (ɔsorokɔ) .<br /> Ne mu duru: kilogram 46<br /> Nneɛma a wɔde yɛ: aluminium, epoxy ahwehwɛ board, sika kɔkɔɔ aluminium dome a wɔde sɛn scaffolding nhyehyɛe mu."
+  },
+  "radio": {
+    "heading": "Radio so Nsɛm a Wɔahyehyɛ",
+    "specs": "Nkitahodi a ɛkɔ fam: 468.5 MHz<br /> Nsakrae a wɔde yɛ adwuma: CSS<br /> Bandwidth: TBD na ɛyɛ adwuma"
+  },
+  "imageAlt": "Orbital Asɔredan Satellite"
+}

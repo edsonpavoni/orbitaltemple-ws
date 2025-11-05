@@ -1,0 +1,17 @@
+{
+  "title": "Agahiyên Teknîkî - Perestgeha Orbital",
+  "heading": "Agahiyên Teknîkî",
+  "satellite": {
+    "heading": "Satelayt",
+    "specs": "Pîvan: 50x58x64 mm<br /> 1P PocketQube<br /> Giranî: 245 gr<br /> Materyal: aluminium, zêr, fîberglass, û pêkhateyên elektronîkî.<br /> Rêgeh: Bilindahî 525 ± 25 km; meyla: SSO 97.6 ± 0.1°<br /> Pêlav: PSLV (Wesayîta Pêlava Qalibê ya Polar) ku ji hêla ISRO ve tê xebitandin"
+  },
+  "antenna": {
+    "heading": "Anten/Peyker",
+    "specs": "Pîvan: 6 m (qûtraş) û 1.2 m (bilindahî)<br /> Giranî: 46 kg<br /> Materyal: aluminium, panela neynikî ya epoksî, qubeya aluminiumê ya zêrîn a ku ji hêla avahiyek îskeleyê ve hatiye daliqandin."
+  },
+  "radio": {
+    "heading": "Taybetmendiyên Radyoyê",
+    "specs": "Dakêşana Dakêşanê: 468.5 MHz<br /> Modulasyon: CSS<br /> Firehiya bandê: Nayê destnîşankirin"
+  },
+  "imageAlt": "Peyka Perestgeha Orbital"
+}

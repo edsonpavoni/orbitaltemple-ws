@@ -1,0 +1,138 @@
+{
+  "title": "Kanda & Itangazamakuru - Urusengero rwa Orbital",
+  "heading": "Kanda & Itangazamakuru",
+  "pressContact": {
+    "heading": "Kanda Kanda",
+    "content": "Kubaza ibibazo abanyamakuru, kubaza, hamwe nibisabwa nibitangazamakuru:<br /> <strong>Imeri:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Urubuga:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Ibyerekeye Umushinga",
+    "paragraph1": "Urusengero rwa Orbital ni ibihangano hamwe na satelite igamije kuba urusengero rurimo abantu benshi, rwubatswe aho nta rukuta rushobora kugera. Uyu mushinga wakozwe n’umuhanzi ukomoka muri Berezile Edson Pavoni, umuhanzi uri inyuma y’Urwibutso rwa Inumeráveis wageze kuri 1 kuri buri Banyaburezili 6 mu gihe cy’icyorezo cya COVID, umushinga urahamagarira abantu baturutse hirya no hino ku isi kohereza izina ry’umuntu bifuza kwibuka. Aya mazina yoherejwe kuri satelite muri orbit, akora urwibutso rusange.",
+    "paragraph2": "Binyuze kurubuga ruboneka mu ndimi 136, abitabiriye amahugurwa bitabira ubwoko bushya bwimihango. Urusengero rwa Orbital rwiga ku nsanganyamatsiko zo kwishyira hamwe, kwibuka, hamwe n’ubumuntu dusangiye, twibaza impamvu nta rusengero rwumubiri ku isi rushobora kwakira abantu bose, no kwerekana umwanya nkahantu honyine hashobora kubaho kwibeshya."
+  },
+  "aboutArtist": {
+    "heading": "Ibyerekeye Umuhanzi",
+    "paragraph1": "<strong>Edson Pavoni</strong> ni umuhanzi wo muri Berezile urugendo rwe rwatangiriye mu mihanda ya São Paulo, aho ubukene n’urugomo byagize mu myaka ye ya mbere. Mu gihugu aho Ubukristo bwatangaga inzira kure y&#39;imihanda, ibiyobyabwenge, n&#39;urugomo, Pavoni yabonye ubuhungiro mu kwizera, insanganyamatsiko nyuma, igihe azaba anenga ihohoterwa rishingiye ku idini, akamenyesha ibikorwa bye by&#39;ubuhanzi.",
+    "paragraph2": "Muri 2020, mugihe cy&#39;icyorezo cya COVID-19, Pavoni yakoze <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (itabarika)</a></strong> , ibihangano bihurira hamwe n&#39;ubuhanzi n&#39;itangazamakuru. Umushinga wabajije imiryango ibihumbi n&#39;ibihumbi wandika inkuru z&#39;abazimiye icyorezo, bituma habaho umwanya aho kwibuka byarenze imibare n&#39;imibare. Ibisigo, indirimbo, na simfoniya byakozwe nizo nkuru. Ibinyamakuru byashizeho ibifuniko ukoresheje amazina namateka. Aba star bose bo muri Berezile nka Oscar batsindiye Fernanda Torres, hamwe nabastar nka Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo na Lazaro Ramos, nabandi benshi basoma izo nkuru kuri tereviziyo yigihugu. Umushinga wageze kuri miliyoni 32, umwe muri bane bakuze muri Berezile. Yabaye urusobe rwo gukiza, urwibutso rusange rwo kwibuka.",
+    "paragraph3": "Nyuma y'ibiganiro birenga ibihumbi icumi hamwe nintimba, havutse urugero: iyo tuvuze umuntu wapfuye, duhitamo ibice byinkuru zabo nkaho twandikira ibaruwa isaba umunyezamu wa paradizo. Turakora ibishoboka byose ngo tubohereze mubyo twizera ko ari ijuru. Uyu murimo watangije imyumvire mishya: Imyizerere yacu yerekeye uwakwiriye ijuru ishusho itaziguye uwo twemera cyangwa dukuyemo kwisi. Abakoloni b'Abanyaportigale muri Berezile bizeraga ko Abirabura nta bugingo bafite; ibyo bizera byari bifite ishingiro uburetwa. Niba wari umusangwabutaka, niba waravukiye ahantu hadakwiye cyangwa ukunda umuntu mubi, uracyariho, kugeza na nubu, urabwirwa ko imiryango yo mwijuru yakinze. Hari icyerekezo cy'ejo hazaza kituzuye no kwangwa?",
+    "paragraph4": "Nuburyo Orbital Temple yavutse."
+  },
+  "keyFacts": {
+    "heading": "Amakuru y'ingenzi",
+    "artist": "<strong>Umuhanzi:</strong> Edson Pavoni (Burezili)",
+    "projectType": "<strong>Ubwoko bwumushinga:</strong> Ibikorwa bya satelite, urubuga rwihariye kumwanya, umuhango ushingiye kurubuga",
+    "launchDate": "<strong>Itariki yo gutangiriraho:</strong> 28 Ugushyingo 2025",
+    "launchLocation": "<strong>Aho batangiriye:</strong> Satish Dhawan Space Centre, Sriharikota, Ubuhinde (ISRO)",
+    "satellite": "<strong>Satelite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km z&#39;uburebure, izuba-rihuza",
+    "participation": "<strong>Uruhare:</strong> Ubuntu, fungura abantu bose kwisi",
+    "namesSent": {
+      "heading": "<strong>Amazina yoherejwe kuri Orbit:</strong>",
+      "caption": "<em>Ibarura rya Live rivugururwa kuva data base • Iheruka gushya: {itariki}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Ibihembo & Kumenyekana",
+    "mercosul": {
+      "title": "<strong>Imyaka ibiri ya 13 ya Mercosur</strong> (2022)",
+      "location": "Porto Alegre, Burezili",
+      "curator": "Byakosowe na Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Igihembo cya Lumen 2022 - Igihe kizaza</strong>",
+      "status": "Urutonde rurerure"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Amarushanwa</strong>",
+      "award": "Uwatsinze - Icyiciro cya ArtSat",
+      "org": "Gutezimbere n'Ikigo cya Berezile gishinzwe ubushakashatsi mu kirere (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Ikipe",
+    "content": "Urusengero rwa Orbital rwakozwe ku bufatanye na Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Vidmeal, Flavio Tatiane Putti, Rafael Fernandes, Bruna Cairo, Ibitekerezo bikomeye, RiseNY & Abafatanyabikorwa, IdeaSpace, hamwe nabakomeje gutanga amazina yuru rusengero."
+  },
+  "pressCoverage": {
+    "heading": "Byerekanwe Muri / Kanda Igipfukisho",
+    "paragraph1": "<em>Itangazamakuru ryamakuru nibiranga bizongerwaho uko bizaboneka. Kumakuru agezweho, nyamuneka hamagara itsinda ryabanyamakuru.</em>",
+    "paragraph2": "Imurikagurisha ryambere hamwe nibiranga harimo kwerekana muri Bienal ya 13 ya Mercosul, kumenyekana igihembo cya Lumen, no gutoranywa n’ikigo cy’ubushakashatsi bw’ikirere cya Berezile (INPE)."
+  },
+  "images": {
+    "heading": "Amashusho-Yokwemeza Amashusho yo Gukoresha Itangazamakuru",
+    "intro": "Amashusho yose arahari kugirango akoreshwe. Kanda ishusho iyariyo yose kugirango ukuremo dosiye ihanitse.",
+    "installationPhotos": {
+      "heading": "Amafoto y'urusengero rwa Orbital",
+      "credit": "Nyamuneka inguzanyo: \"Ifoto ya Clara Marques / Tuyikesha Edson Pavoni, Urusengero rwa Orbital\"",
+      "view01": "Kwiyubaka Reba 01<br /> Ifoto: Clara Marques<br /> ↓ Kuramo High-Res (1.4 MB)",
+      "view02": "Kwiyubaka Reba 02<br /> Ifoto: Clara Marques<br /> ↓ Kuramo High-Res (2.9 MB)",
+      "view03": "Kwiyubaka Reba 03<br /> Ifoto: Clara Marques<br /> ↓ Kuramo High-Res (11 MB)",
+      "view04": "Kwiyubaka Reba 04<br /> Ifoto: Clara Marques<br /> Kuramo High-Res (3.4 MB)",
+      "view05": "Kwiyubaka Reba 05<br /> Ifoto: Clara Marques<br /> ↓ Kuramo High-Res (3.3 MB)",
+      "view06": "Kwiyubaka Reba 06<br /> Ifoto: Clara Marques<br /> ↓ Kuramo High-Res (3.7 MB)",
+      "view07": "Kwiyubaka Reba 07<br /> Ifoto: Clara Marques<br /> Kuramo High-Res (3.4 MB)",
+      "view08": "Kwiyubaka Reba 08<br /> Ifoto: Clara Marques<br /> ↓ Kuramo High-Res (2.7 MB)",
+      "satelliteDesign": "Igishushanyo cya Satelite<br /> ↓ Gukuramo",
+      "antennaSculpture": "Antenna / Igishusho<br /> ↓ Gukuramo"
+    },
+    "renders": {
+      "heading": "Urusengero rwa Orbital",
+      "credit": "Ibisobanuro bya 3D byerekana urusengero rwa Orbital. Nyamuneka inguzanyo: \"3D Rendering by RiseNY & Abafatanyabikorwa / Tuyikesha Edson Pavoni, Urusengero rwa Orbital\"",
+      "render01": "Gutanga 3D<br /> RiseNY &amp; Abafatanyabikorwa<br /> ↓ Kuramo High-Res (10 MB)",
+      "render02": "Gutanga 3D<br /> RiseNY &amp; Abafatanyabikorwa<br /> ↓ Kuramo High-Res (5.9 MB)",
+      "render03": "Gutanga 3D<br /> RiseNY &amp; Abafatanyabikorwa<br /> Kuramo High-Res (5.2 MB)",
+      "render04": "Gutanga 3D<br /> RiseNY &amp; Abafatanyabikorwa<br /> ↓ Kuramo High-Res (11 MB)",
+      "render05": "Gutanga 3D 05<br /> RiseNY &amp; Abafatanyabikorwa<br /> ↓ Kuramo High-Res (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Amafoto Yabahanzi",
+      "photo1": "Ifoto 1<br /> ↓ Kuramo High-Res",
+      "photo2": "Ifoto 2<br /> ↓ Kuramo High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy Amafoto",
+      "photo1": "Ifoto 1<br /> ↓ Kuramo High-Res (843 KB)",
+      "photo2": "Ifoto 2<br /> ↓ Kuramo High-Res (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Ibisobanuro bya tekiniki",
+    "satellite": {
+      "heading": "Satelite",
+      "dimensions": "Ibipimo: 50 x 58 x 64 mm",
+      "classification": "Ibyiciro: 1P PocketQube",
+      "weight": "Uburemere: 245g",
+      "materials": "Ibikoresho: Aluminium, zahabu, fiberglass, ibikoresho bya elegitoroniki",
+      "orbit": "Orbit: Uburebure 525 ± 25 km; Impengamiro: SSO 97,6 ± 0.1 °",
+      "launch": "Gutangiza: 28 Ugushyingo 2025 ukoresheje ISRO, Ubuhinde"
+    },
+    "antenna": {
+      "heading": "Antenna / Igishusho",
+      "dimensions": "Ibipimo: uburebure bwa 6m x 1,2m z'uburebure",
+      "weight": "Uburemere: kg 46",
+      "materials": "Ibikoresho: Aluminium, ikibaho cyerekanwe na epoxy, dome ya aluminium ya zahabu ihagaritswe binyuze muburyo bwa scafolding"
+    },
+    "radio": {
+      "heading": "Ibisobanuro bya Radio",
+      "downlink": "Hasi: 437 MHz",
+      "status": "Imiterere yo Gutangiza: Biteganijwe ku ya 28 Ugushyingo 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Ibikoresho by'inyongera",
+    "artwork": "→ Reba inyandiko zubuhanzi",
+    "howItWorks": "→ Uburyo ikora",
+    "technicalInfo": "Information Amakuru ya tekiniki",
+    "spaceLaunch": "→ Umwanya wo gutangiza amakuru",
+    "ritual": "Inararibonye"
+  },
+  "imageAlts": {
+    "installation": "Gushyira Urusengero rwa Orbital by Edson Pavoni",
+    "satelliteDesign": "Igishushanyo mbonera cya Orbital",
+    "antenna": "Orbital Urusengero Antenna Igishusho",
+    "render": "Orbital Temple 3D Gutanga by RiseNY & Abafatanyabikorwa",
+    "edsonPortrait": "Igishushanyo cya Edson Pavoni",
+    "sathiPortrait": "Sathi Roy",
+    "lumenPrize": "Igihembo cya Lumen",
+    "mercosulBienal": "Mercosur Biennial"
+  }
+}

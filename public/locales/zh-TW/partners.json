@@ -1,0 +1,50 @@
+{
+  "title": "合作夥伴 - 軌道神廟",
+  "heading": "合作夥伴",
+  "intro": "軌道聖殿的誕生離不開傑出合作夥伴的慷慨支持、專業技術和遠見。從衛星工程到故事創作，從開拓遙遠國度到將夢想化為黃金，每一次合作都讓這座聖殿離星辰更近一步。",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "通訊、整合體驗和令人驚嘆的 3D 渲染圖像，在衛星進入太空之前就將其願景變為現實。"
+    },
+    "highestMantra": {
+      "name": "我們最高的箴言",
+      "description": "在薩蒂·羅伊的帶領下，將軌道寺與印度的靈修和藝術社群連結起來。這將為籌款、文化交流以及在2025年11月啟動後舉辦巴塞爾藝術展開闢道路。"
+    },
+    "allToSpace": {
+      "name": "全部飛向太空",
+      "description": "巴西小型衛星專家。他們經過四年合作，建立了一個開源硬體平台，並率先實現了從全球南方將藝術品送入軌道。"
+    },
+    "isro": {
+      "name": "印度太空研究組織",
+      "description": "印度空間研究組織。 PSLV運載火箭將於2025年11月將軌道聖殿送入太陽同步軌道，火箭將執行發射任務。"
+    },
+    "mercosul": {
+      "name": "第十三屆南方共同市場雙年展",
+      "description": "巴西阿雷格里港。由馬塞洛·丹塔斯 (Marcello Dantas) 和助理策展人勞拉·卡塔尼 (Laura Cattani)、穆尼爾·克拉姆特 (Munir Klamt)、塔西拉·里索 (Tarsila Riso) 和卡羅琳娜·勞裡亞諾 (Carolina Lauriano) 共同策劃。"
+    },
+    "inpe": {
+      "name": "INPE / ArtSat 工作坊",
+      "description": "衛星開發團隊是在 II ArtSat 研討會期間組成的。由 Fabiane M. Borges 協調，Lázaro Camargo 指導，Ítalo Pinto Rodrigues 合作，Walter Abrahão dos Santos 監督。"
+    },
+    "solidConcepts": {
+      "name": "堅實的概念",
+      "description": "由 Eduardo Dias 領銜。雕塑穹頂的所有 3D 列印和黃金微鑄造工作均由他們完成，將數位夢想轉化為貴金屬現實。"
+    },
+    "ideaSpace": {
+      "name": "創意空間",
+      "description": "巴西教育新創公司正在開發 Quebrada 太空計畫課程，準備將其應用於巴西各地的高中生。"
+    }
+  },
+  "closing": "有興趣與Orbital Temple合作嗎？<a href=\"mailto:gabriela.veiga@orbitaltemple.art\">請聯絡我們</a>。",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners 標誌",
+    "highestMantra": "我們最高箴言標誌",
+    "allToSpace": "太空標誌",
+    "isro": "印度太空研究組織（ISRO）標誌",
+    "mercosul": "第十三屆南方共同市場雙年展標誌",
+    "inpe": "INPE ArtSat 工作室標誌",
+    "solidConcepts": "Solid Concepts 標誌",
+    "ideaSpace": "創意空間標誌"
+  }
+}

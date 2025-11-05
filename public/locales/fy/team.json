@@ -1,0 +1,61 @@
+{
+  "title": "Team - Orbitale Timpel",
+  "heading": "Ploech",
+  "artist": "Edson Pavoni, keunstner",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Utfierend produsint",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Loftfeart- en systeemtechnyk",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektroanyske technyk",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Untwerp en arsjitektuer",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-printsjen",
+      "members": "Solid Concepts, ûnder lieding fan Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D-rendering",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Ûndersyk",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Tentoanstellingsproduksje, fotografy en ynhâldskepping",
+      "members": "Clara Markes"
+    },
+    "silkScreen": {
+      "heading": "Sidescreening fan 'e tentoanstelling",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Underwiisprojekt",
+      "members": "IdeeSpace"
+    },
+    "communication": {
+      "heading": "Kommunikaasjeteam",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Spesjale tank",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidigalister, Pedro Putte, Andre Vidigalister, Raffael Brunes Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitale Tempel Satellyt"
+}

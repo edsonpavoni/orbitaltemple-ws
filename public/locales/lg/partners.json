@@ -1,0 +1,50 @@
+{
+  "title": "Abakolagana - Yeekaalu ya Orbital",
+  "heading": "Abakolagana nabo",
+  "intro": "Orbital Temple eriwo okuyita mu bugabi, obukugu, n’okwolesebwa kw’abakozi ab’enjawulo. Okuva ku setilayiti za yinginiya okutuuka ku kukola ennyiriri, okuva ku kuggulawo enzigi mu nsi ez’ewala okutuuka ku kusuula ebirooto mu zaabu, buli nkolagana esembereza yeekaalu eno ku mmunyeenye.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Abakolagana nabo",
+      "description": "Empuliziganya, ebibaddewo ebigattibwa n’ebifaananyi ebiwuniikiriza ebya 3D biraga ebyaleeta okulaba kwa setilayiti mu bulamu nga tennakwata ku bwereere bw’omu bwengula."
+    },
+    "highestMantra": {
+      "name": "Mantra Yaffe Esinga Obukulu",
+      "description": "Nga bakulembeddwamu Sathi Roy, nga bagatta Orbital Temple n’ebitundu bya Buyindi eby’omwoyo n’eby’ekikugu. Okuggulawo amakubo g’okusonda ssente, okuwanyisiganya eby’obuwangwa, n’omwoleso gwa Art Basel oluvannyuma lw’okutongozebwa mu November 2025."
+    },
+    "allToSpace": {
+      "name": "Byonna bigenda mu bwengula",
+      "description": "Abakugu mu Brazil abakola ku setilayiti entonotono. Emyaka ena egy’okukolagana nga tuzimba enkola ya open source hardware platform n’okutandikawo enkola y’okusindika art mu orbit okuva mu Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Ekitongole kya Buyindi ekinoonyereza ku bwengula. Okutongoza omuwa omulimu gwa PSLV ogutwala Orbital Temple okutuuka ku nkulungo ekwatagana n’enjuba mu November 2025."
+    },
+    "mercosul": {
+      "name": "Empaka za Mercosur ez’emyaka ebiri ez’omulundi ogwa 13",
+      "description": "Porto Alegre, mu ggwanga lya Brazil. Etegekeddwa Marcello Dantas ng’ali n’abayambi b’abakuumi Laura Cattani, Munir Klamt, Tarsila Riso, ne Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Omusomo gwa INPE / ArtSat",
+      "description": "Ttiimu y’okukulaakulanya setilayiti yatondebwawo mu musomo gwa II ArtSat. Ekwasaganyizibwa Fabiane M. Borges, ng’elagirwa Lázaro Camargo, ng’ekolagana ne Ítalo Pinto Rodrigues, ng’erabirirwa Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Endowooza Ennywevu",
+      "description": "Nga bakulembeddwamu Eduardo Dias. Byonna 3D printing ne zaabu micro casting bikola ku sculptural dome, okukyusa ebirooto bya digito mu byuma eby’omuwendo ebituufu."
+    },
+    "ideaSpace": {
+      "name": "Ekifo ky'Ekirowoozo",
+      "description": "Entandikwa y’ebyenjigiriza mu Brazil ng’ekola ensoma ya Quebrada Space Program, nga yeetegefu okukozesebwa ku bayizi ba siniya okwetoloola Brazil."
+    }
+  },
+  "closing": "Oyagala okukolagana ne Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Tuukirira</a> .",
+  "imageAlts": {
+    "riseNy": "Akabonero ka RiseNY&Partners",
+    "highestMantra": "Logo yaffe eya Mantra esinga obukulu",
+    "allToSpace": "Byonna okutuuka mu bwengula Logo",
+    "isro": "Akabonero ka ISRO",
+    "mercosul": "Akabonero k’emyaka ebiri egya Mercosur egy’omulundi ogwa 13",
+    "inpe": "Akabonero k'omusomo gwa INPE ArtSat",
+    "solidConcepts": "Endowooza Ennywevu Logo",
+    "ideaSpace": "Ekirowoozo Ekipande ky'Obwengula"
+  }
+}

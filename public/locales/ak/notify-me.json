@@ -1,0 +1,13 @@
+{
+  "title": "Be Notified - Orbital Asɔredan",
+  "heading": "Wobɛbɔ Wo Amanneɛ Bere a Ɛsɔre",
+  "description": "Wɔ November 28, 2025 no, Orbital Asɔredan no bɛforo.<br> Gyae wo e-mail no, na yɛbɛka akyerɛ wo bere a adu ahunmu no.",
+  "form": {
+    "emailPlaceholder": "wo@email.com so",
+    "sendButton": "Mane",
+    "sendingButton": "Sending...",
+    "successMessage": "Yebedu wo nkyɛn bere a ɛforo kɔ soro no.",
+    "errorMessage": "Biribi ankɔ yiye. Yɛsrɛ sɛ sɔ hwɛ bio."
+  },
+  "backLink": "← San kɔ kan kɔ akyiri"
+}

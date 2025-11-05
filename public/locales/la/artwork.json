@@ -1,0 +1,31 @@
+{
+  "title": "Ars - Templum Orbitale",
+  "heading": "Ars Artis",
+  "intro": {
+    "paragraph1": "Templum Orbitale est satelles cum missione artistica: monumentum in spatio cosmico apertum omni enti sentienti quod in Terra vivit vel vixit.",
+    "paragraph2": "Per media technologica, quilibet nomen alicuius ad Templum mittere potest, sive alicuius defuncti, sive hominis adhuc viventis, sive cuiuslibet entis qui memoria meretur."
+  },
+  "sculpture": {
+    "heading": "Sculptura",
+    "paragraph1": "Ars tria elementa inter se dependentia habet: satellitem specialiter designatum ad miliarda nominum conservanda; sculpturam publicam informationes cum satellite commutantem; et situm interretialem per quem participes nomina, abhinc usque ad mortem, in caelum mittunt.",
+    "paragraph2": "Templum Orbitale, ut conatum multidisciplinare, sculptura in situ propria, spatium inhabitans, considerari potest. Est etiam proiectum Artsat."
+  },
+  "antenna": {
+    "heading": "Antenna ut Sculptura Publica",
+    "paragraph1": "Antenna nos cum spatio cosmico coniungens.",
+    "paragraph2": "Antenna quae cum satellite orbitali directe communicabit designatur.",
+    "paragraph3": "Superficie aurea reflexiva, caelum supra se imitans, est punctum initii stimulationis massae (vel nostrae relationis ad ea quae \"supra\" sunt).",
+    "paragraph4": "Quamquam sculpturae in plerisque orbis terrarum partibus non collocatae sunt, nostrae Structurae e Terra, quae satellitem nunc regunt, nomina ad singulos transitus transmittunt.",
+    "paragraph5": "Adiuva ad hanc visionem in urbem tuam perducendam—sculpturas antennarum instituendo quae sermones de exploratione spatiali, arte, et loco nostro communi in cosmo incitant. <a href=\"/support\">Disce plus de sustinendo hoc incepto</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellites Orbitalis Templi",
+    "riseNy": "Templum Orbitale apud Rise Novi Eboraci",
+    "installation": "Templum Orbitale a Clara Marques",
+    "antenna": "Antenna Orbitalis Templaris"
+  },
+  "imageCaptions": {
+    "riseNy": "Templum Orbitale in spatio. Imago tridimensionalis a RiseNY&Partners facta.",
+    "mercosul": "Installatio Templi Orbitalis apud Biennalem Mercosul, Portus Alegri, Brasiliae.<br> Photographia a Clara Marques capta."
+  }
+}

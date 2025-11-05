@@ -1,0 +1,50 @@
+{
+  "title": "Partners - Orbital Temple",
+  "heading": "Partners",
+  "intro": "Orbital Temple bestiet troch de generositeit, ekspertize en fisy fan bûtengewoane partners. Fan it yngeniearjen fan satelliten oant it meitsjen fan ferhalen, fan it iepenjen fan doarren yn fiere lannen oant it jitten fan dreamen yn goud, elke gearwurking bringt dizze timpel tichter by de stjerren.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Kommunikaasje, yntegreare ûnderfiningen en prachtige 3D-renderbylden dy't de fisy fan 'e satellyt ta libben brochten foardat er ea de leechte fan 'e romte rekke."
+    },
+    "highestMantra": {
+      "name": "Us Heechste Mantra",
+      "description": "Under lieding fan Sathi Roy, ferbynt Orbital Temple mei de spirituele en artistike mienskippen fan Yndia. Iepenet paden foar fûnswurving, kulturele útwikseling, en in Art Basel-tentoanstelling nei de lansearring yn novimber 2025."
+    },
+    "allToSpace": {
+      "name": "Alles nei de romte",
+      "description": "Braziliaanske spesjalisten yn lytse satellyt. Fjouwer jier gearwurking by it bouwen fan in iepen boarne hardwareplatfoarm en it pionieren fan it proses om keunst yn in baan om de ierde te stjoeren fanút it Globale Súd."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Yndiaaske Romteûndersyksorganisaasje. Lansearingsferliener foar de PSLV-missy dy't Orbital Temple yn novimber 2025 nei in sinnesynchrone baan bringt."
+    },
+    "mercosul": {
+      "name": "13e Mercosur Biënnale",
+      "description": "Porto Alegre, Brazylje. Curated troch Marcello Dantas mei assistint-kurators Laura Cattani, Munir Klamt, Tarsila Riso, en Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "It satellytûntwikkelteam foarme tidens de II ArtSat Workshop. Koördinearre troch Fabiane M. Borges, ynstruearre troch Lázaro Camargo, gearwurke troch Ítalo Pinto Rodrigues, begelaat troch Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solide konsepten",
+      "description": "Under lieding fan Eduardo Dias. Alle 3D-printsjen en gouden mikrogietwurk foar de byldhoukeunstkoepel, wêrtroch digitale dreamen transformearre wurde yn kostbere metalen werklikheid."
+    },
+    "ideaSpace": {
+      "name": "Ideeënromte",
+      "description": "Braziliaanske ûnderwiisstartup ûntwikkelt it kurrikulum fan it Quebrada Space Program, klear om tapast te wurden op middelbere skoalbern yn hiel Brazylje."
+    }
+  },
+  "closing": "Ynteressearre yn in gearwurking mei Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Nim kontakt op</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "Us Heechste Mantra Logo",
+    "allToSpace": "Alles nei de romte-logo",
+    "isro": "ISRO-logo",
+    "mercosul": "Logo fan 'e 13e Mercosur Biënnale",
+    "inpe": "INPE ArtSat Workshop Logo",
+    "solidConcepts": "Solid Concepts Logo",
+    "ideaSpace": "Ideeëromte-logo"
+  }
+}

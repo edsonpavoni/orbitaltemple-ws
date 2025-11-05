@@ -1,0 +1,43 @@
+{
+  "title": "Dyondzo & Xihlovo lexi Pfulekeke - Tempele ya Orbital",
+  "heading": "Dyondzo & Xihlovo lexi Pfulekeke",
+  "intro": {
+    "paragraph1": "Thekinoloji hinkwayo leyi tumbuluxiweke eka vurhumiwa bya Orbital Temple yi ta va ya <strong>xihlovo lexi pfulekeke</strong> naswona yi kumeka eka inthanete hi <strong>Xiputukezi</strong> , <strong>Xinghezi</strong> , <strong>Xipaniya</strong> , na <strong>Xihindi</strong> , ku kurisa nhluvukiso wa ku lavisisa xibakabaka eDzongeni <strong>wa Misava Hinkwayo</strong> . Mintirho leyintshwa na tiphurojeke swi nga tirhisa Orbital Temple tanihi masungulo ya swikambelo swa vona swa vutshila kumbe sayense.",
+    "paragraph2": "Tanihi xiphemu xa vurhumiwa bya yona bya dyondzo, Orbital Temple yi ta nyika khoso ya mahala ya tindzimi to tala ya ndlela yo aka na ku rhumela sathelayiti. Ku ta va nkarhi wa mavoko wo dyondza hi thekinoloji ya sathelayiti na ku yi tirhisa. Un’wana na un’wana loyi a nga ehenhla ka malembe ya <strong>16</strong> u ta kota ku aka sathelayiti ya yena, a dyondza hi matimu ya vutshila exibakabakeni, miehleketo ya xisekelo ya elektroniki, makhanikhi na sayense ya le xibakabakeni, ku katsa na ndlela yo seketela tiphurojeke hi timali na ndlela yo aka antenna yo vulavurisana na tisathelayiti leti nga eku rhendzelekeni."
+  },
+  "spaceGap": {
+    "heading": "Ha Yini Leswi Swi Ri Swa Nkoka: Xivandla Xa le Xibakabakeni",
+    "paragraph1": "Rito <strong>&quot;Space Gap&quot;</strong> ri kombetela eka ku avana exikarhi ka matiko lama hluvukeke lama nga fikelelaka swivandlanene swa thekinoloji leswi kumiweke hi ku lavisisa exibakabakeni, na matiko lama hluvukaka lama pfumalaka mfikelelo eka thekinoloji leyi. Matiko ya le Dzongeni wa Misava hinkwayo ya fanele ku hakela mali yo tala eka mimfumo ya matiko mambe kumbe tikhamphani eka mfikelelo wa masungulo eka mahungu lama humesiweke hi thekinoloji ya sathelayiti.",
+    "paragraph2": "Thekinoloji ya le xibakabakeni yi nyika mimpfuno ya nkoka: tisathelayiti ti pfuneta ku lwisana ni ku tsemiwa ka mirhi loku nga riki enawini, ku phasa tinhlampfi loku nga riki enawini ni ku xavisiwa ka swiharhi swa nhova leswi nga riki enawini, leswi yimelaka ku tlula <strong>R100 wa tibiliyoni hi lembe</strong> . Ti nyikela rungula ra nkoka malunghana ni maxelo, vuhumelerisi bya mati ni nsirhelelo wa swakudya. Tisathelayiti ti endla leswaku ku cheletiwa hi ku kongoma na tindlela ta vurimi, naswona ti pfuneta ku sivela makhombo ya ntumbuluko. Indasitiri ya le xibakabakeni yi nga tumbuluxa <strong>mitirho yo fika eka 1 wa timiliyoni</strong> hi <strong>2030</strong> , hambiswiritano minkarhi leyi ya ha ri leyi nga fikeleleki eka vo tala eDzongeni wa Misava Hinkwayo.",
+    "paragraph3": "Hi ku nyika thekinoloji ya xihlovo lexi pfulekeke na dyondzo, hi kongomisa ku endla xidemokirasi xa mfikelelo eka xibakabaka na ku nyika matimba eka xitukulwana lexintshwa ku lorha ku tlula xibakabaka."
+  },
+  "empowering": {
+    "heading": "Ku nyika matimba eka Xitukulwana lexi landzelaka",
+    "intro": "Hi ta dyondzisa xitukulwana lexi landzelaka xa vahloti va le xibakabakeni ndlela yo aka na ku rhumela tisathelayiti ta vona, hi katsa tinhlokomhaka ta nkoka ku katsa na:",
+    "topics": {
+      "history": "<strong>Matimu ya vutshila exibakabakeni:</strong> Ku twisisa rixaka ra tisathelayiti ta vutshila na mintirho ya vutshila leyi simekiweke exibakabakeni.",
+      "concepts": "<strong>Miehleketo ya nkoka:</strong> <strong>ArtSat</strong> (tisathelayiti ta vutshila), thekinoloji ya le xibakabakeni <strong>ya Open Source</strong> , na <strong>Space Gap</strong> .",
+      "missions": "<strong>Rhurho wa le xibakabakeni:</strong> Ndlela yo endla miehleketo na ku dizayina vurhumiwa, na ndlela yo vumba ntlawa wo byi hetisisa.",
+      "electronics": "<strong>Elektroniki exibakabakeni:</strong> Miehleketo ya xisekelo ya swiphemu swa elektroniki leswi nga hanyaka no tirha eka mbango wa le xibakabakeni.",
+      "mechanics": "<strong>Makhanikhi exibakabakeni:</strong> Ku twisisa swilaveko swa xivumbeko na swa michini eka dizayini ya sathelayiti.",
+      "orbits": "<strong>Ti orbits na launchers:</strong> Tinxaka to hambana ta ti orbits na ndlela yo hlawula vaphakeri va launcher eka vurhumiwa bya wena.",
+      "financing": "<strong>Maendlelo ya timali:</strong> Ndlela yo kuma mali na switirhisiwa swo rhumela sathelayiti ya wena. Khoso yi ta nyika switirhisiwa swo kuma mali ya ku simekiwa ka wena, ku pfuna swichudeni ku kuma minongonoko na swipfuno ku suka eka swivandla swa matiko ya misava leswi seketelaka vativi va sayense lavatsongo na swichudeni eku rhumeleni ka tisathelayiti ta swona exibakabakeni.",
+      "groundStation": "<strong>Nhluvukiso wa xitichi xa le hansi:</strong> Ndlela yo aka eriyeni yo vulavurisana na Tempele ya Orbital na tisathelayiti tin’wana."
+    }
+  },
+  "technology": {
+    "heading": "Thekinoloji: Tisathelayiti ta PocketQube",
+    "paragraph1": "Swichudeni swi ta dyondza ku tirha na tisathelayiti <strong>ta PocketQube</strong> , mpimanyeto wa nanosatellite lowu pimaka ntsena <strong>5cm3</strong> naswona wu tika ku fika eka <strong>250g</strong> . Hambi leswi ti nga titsongo, PocketQubes i switirhisiwa swa matimba leswi kotaka ku languta Misava, ku veka tihlo, na ku vulavurisana.",
+    "paragraph2": "Tisathelayiti leti leti hlanganisiweke ti ni matirhiselo yo tala ya xiviri, ku sukela eka ndzavisiso wa sayense wa ku cinca ka maxelo ku ya eka vuhlanganisi exikarhi ka matiko-nkulu. Hikwalaho ka leswi ti nga titsongo naswona ti vevukeke, swa durha ku ti aka ni ku ti sungula, leswi endlaka leswaku ndhawu yi fikeleleka swinene eka swichudeni, valavisisi ni vatshila emisaveni hinkwayo."
+  },
+  "globalAccess": {
+    "heading": "Mfikelelo wa Misava Hinkwayo, Ku Sungula ku suka eDzongeni wa Misava Hinkwayo",
+    "paragraph1": "Khoso yi ta kumeka eka mani na mani <strong>wa malembe ya 16 kumbe ku tlula</strong> , <strong>mahala hi ku</strong> helela . Hi sungula hi swilo leswi nga endzeni hi <strong>Xiputukezi</strong> , <strong>Xipaniya</strong> , <strong>Xinghezi</strong> , na <strong>Xihindi</strong> , hi makungu yo ndlandlamuxa eka tindzimi tin’wana loko nongonoko wu ri karhi wu kula.",
+    "paragraph2": "Ntirho wa hina wu sungula eDzongeni wa Misava hinkwayo naswona wu anama emisaveni hinkwayo, ku tiyisisa leswaku xitukulwana lexi landzelaka xa vahloti va le xibakabakeni xi huma eka matlhelo hinkwawo ya Misava."
+  },
+  "callToAction": {
+    "heading": "Hi Pfunani Ku Endla Leswaku Leswi Swi Endleka",
+    "content": "Nongonoko lowu wa dyondzo sweswi wu le ku endliweni. Hi lava vatirhisani na vaphakeri lava avelana xivono xa hina xo endla xidemokirasi xa mfikelelo eka thekinoloji ya le xibakabakeni. Loko wena kumbe nhlangano wa wena mi lava ku seketela kungu leri, hi kombela u endzela <a href=\"/support\">tluka ra hina ra nseketelo</a> ku dyondza hi swivandlanene swa ntirhisano."
+  },
+  "imageAlt": "Sathelayiti ya Tempele ya Orbital"
+}

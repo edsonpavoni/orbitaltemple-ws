@@ -1,0 +1,31 @@
+{
+  "title": "Listaverkið - Orbital Temple",
+  "heading": "Listaverkið",
+  "intro": {
+    "paragraph1": "Orbital Temple er gervihnöttur með listrænt markmið: minnismerki í geimnum opið öllum vitandi verum sem lifa eða hafa lifað á jörðinni.",
+    "paragraph2": "Með tæknilegum aðferðum getur hver sem er sent nafn einhvers til mustersins, hvort sem það er einhvers sem er látinn, einhvers sem er á lífi eða hvaða veru sem á skilið að vera minnst."
+  },
+  "sculpture": {
+    "heading": "Höggmyndin",
+    "paragraph1": "Listaverkið hefur þrjá samtengda þætti: gervihnött sem er sérstaklega hannaður til að geyma milljarða nafna; opinbera skúlptúr sem skiptist á upplýsingum við gervihnöttinn; og vefsíðu þar sem þátttakendur senda nöfnin, frá nú og til andláts, til himna.",
+    "paragraph2": "Sem fjölgreinaverkefni má líta á Orbital Temple sem staðbundna skúlptúr sem býr í rými. Það er einnig verkefni Artsat."
+  },
+  "antenna": {
+    "heading": "Loftnetið sem opinber höggmynd",
+    "paragraph1": "Loftnet sem tengir okkur við geiminn.",
+    "paragraph2": "Verið er að hanna loftnet sem verður í beinu sambandi við gervihnöttinn á braut um jörðu.",
+    "paragraph3": "Með gullinni endurskinsflöt, sem speglar himininn fyrir ofan sig, er það upphafspunktur fyrir massaörvun (eða samband okkar við það sem er „þarna uppi“).",
+    "paragraph4": "Þó að skúlptúrarnir séu ekki settir upp í flestum heimshlutum, þá sendir Rammar frá jörðinni, sem stjórna gervihnöttinum nú, nöfnin í hverri sendingu.",
+    "paragraph5": "Hjálpaðu til við að koma þessari framtíðarsýn inn í borgina þína — settu upp loftnetsskúlptúra sem hvetja til samræðna um geimkönnun, list og sameiginlegan stað okkar í alheiminum. <a href=\"/support\">Frekari upplýsingar um stuðning við verkefnið</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple gervihnöttur",
+    "riseNy": "Orbital-hofið í Rise, New York",
+    "installation": "Orbital musteri eftir Clara Marques",
+    "antenna": "Loftnet fyrir musteri í hringrás"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital musteri í geimnum. Þrívíddarmynd eftir RiseNY&Partners.",
+    "mercosul": "Uppsetning á Orbital-hofi á Mercosul-tvíæringnum í Porto Alegre í Brasilíu.<br> Mynd eftir Klöru Marques."
+  }
+}

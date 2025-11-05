@@ -1,0 +1,44 @@
+{
+  "title": "De la Artisto",
+  "opening": {
+    "question": "Kiu estas ĉi tiu ulo por proponi templon en la kosmo?",
+    "thanks": "Dankon pro la demando.",
+    "answer": "La mallonga respondo estas, ke mi estas artisto. La longa estas jena:"
+  },
+  "origin": {
+    "sao_paulo": "Mi naskiĝis en la periferio de San-Paŭlo, en kvartalo kiu frue instruis al mi kion signifas danĝero. Multaj el miaj lernejaj amikoj nun estas en malliberejo. Mia duonpatro estas en malliberejo. Perforto ne estis io pri kio mi legis, ĝi estis la mondo, kiun mi devis navigi. Kaj mi sciis, ke mi devis eskapi.",
+    "technology": "Teknologio fariĝis mia elirejo. Mi lernis programi, lernis elektronikon kiel adoleskanto. Kodado estis lingvo, kiu povis konduki min ien aliloken. Labori kun teknologio estis mia eskapo de malriĉeco.",
+    "christianity": "Sed mi ankaŭ serĉis apartenon, amon, ion je kio kredi. Mi trovis kristanismon, aŭ ĝi trovis min. Mi estis akceptita. Mi estis amata. Mi havis komunumon. Mi lernis pardoni, kredi, moviĝi kune por pli granda celo.",
+    "price": "La prezo tamen estis alta. Mi ankaŭ lernis multajn aferojn, kiujn mi ankoraŭ mallernas. Do mi ankaŭ eskapis de tio."
+  },
+  "searching": {
+    "walls": "Mi scias, kion muroj faras. Mi sentis ilin. Mi estis ambaŭflanke: tenita ekstere, tenita interne. Sekvis jaroj da serĉado de io, kion mi ne povis nomi. Dio mortis dum tiuj jaroj. La dio, pri kiu oni instruis al mi, ĉiuokaze, tiu kun reguloj kaj juĝo kaj pordoj, kiuj malfermiĝis nur por iuj homoj.",
+    "art": "Mi komencis krei arton por esplori ĉi tiujn demandojn: pri intimeco kaj teknologio, pri memoro kaj morto, pri kiu meritas ĉielon. Mi komencis konstrui maŝinojn, kiuj reimagas nian rilaton kun teknologio, maŝinojn, kiuj bezonas vian partoprenon, vian ĉeeston, vian nomon, por transformiĝi el metalo kaj kodo en ion vivan."
+  },
+  "pandemic": {
+    "intro": "Tiam la pandemio trafis Brazilon.",
+    "government": "Kiam la vakcinoj kontraŭ COVID estis prokrastitaj, mia registaro negocis subaĉetojn de unu dolaro por dozo. Ili reklamis medikamentojn komprenatajn kiel neefikajn, ridante dum homoj mortis luktante por spiri. Ni vekiĝis ĉiutage al malsama nombro. Kiom da homoj mortis en la lastaj 24 horoj? Ĉu ĝi estis pli, aŭ malpli ol atendita?",
+    "war": "Duono de la mondo timis, kaj alia duono neis. Ni estis en milito, kontraŭ la viruso kaj unu kontraŭ la alia.",
+    "memorial": "Mi volis krei spacon por kolektiva funebro, do kune kun centoj da homoj mi kreis la Memoraĵon Inumeraveis. Artaĵo ĉe la intersekciĝo de arto kaj ĵurnalismo. Ni intervjuis familiojn, kiuj perdis iun. Ni skribis la vivrakonton de la persono, kiun ili perdis. Ni transformis nombrojn en historiojn. Poemoj, kantoj, simfonioj estis kreitaj per tiuj historioj. Steluloj legis tiujn rakontojn en nacia televido. La projekto atingis milionojn.",
+    "meaning": "Ne gravis la skalo, sed ke ĉiu rakonto estis nomo, vivo, ies ĉielo."
+  },
+  "discovery": {
+    "pattern": "Post pli ol dek mil konversacioj kun funebro, ŝablono komencis aperi. Kiam ni parolas pri iu, kiu mortis, ni ne nur diras bonajn aferojn; ni elektas fragmentojn de ilia rakonto kvazaŭ ni skribus rekomendleteron. Rekomendon al la pordegisto de paradizo. Ni faras nian eblon por sendi ilin al loko de akcepto, ripozo, honoro kaj memoro.",
+    "understanding": "Kaj mi komprenis ion, kio ŝanĝis ĉion: Ni estis vunditaj de la temploj, kiujn ni konstruis. Niaj kredoj pri kiu meritas la ĉielon rekte formas kiujn ni ekskludas sur la Tero. La portugalaj koloniigistoj en Brazilo kredis, ke nigruloj ne havas animojn; tiu kredo pravigis sklavecon. Se vi estis indiĝena, se vi naskiĝis en la malĝusta loko aŭ amis la malĝustan personon, oni diris al vi, ke la pordoj de la ĉielo estas fermitaj por vi.",
+    "birth": "Tiel naskiĝis Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Neniu artisto povas esti vere sekulara. Ni estas eterne ligitaj al nia komuna praulo, la ŝamano. En la komenco, estis kaverno. Homoj pentris bestojn sur muroj ne por ornami, sed por alvoki. Ili dancis, kaj la kaverno fariĝis templo. La ŝamano uzas la spiriton de rito; la artisto uzas la aŭron de arto. Ni pentras, ni skulptas, ni kodas, ni desegnas nian deziratan estontecon ne por ornami, sed por alvoki. Ĉiu arto estas spirita, eĉ kiam ĝi asertas ne esti."
+  },
+  "space": {
+    "question": "Kie ni povus konstrui templon sen muroj? Kie neniu nacio aŭ religio povus postuli ion. Kie ni povus imagi nin kiel unu grupon.",
+    "answer": "Spaco.",
+    "description": "Partoprena artsatelito el la Tutmonda Sudo. Templo en orbito, kiu invitas ĉiun sendi siajn nomojn al la kosmo, sendepende de kiu ili estas, kie ili naskiĝis, kiun ili amas, kion ili kredas. Loko, kie radikala inkludo eblas, en orbito, trans limoj.",
+    "mission": "Ĉi tiu misio estas malfermfonteca. Ĉiu teknika dokumento, ĉiu linio de kodo estos libere havebla, por ke aliaj artistoj, aliaj komunumoj, aliaj nacioj povu konstrui siajn proprajn satelitojn. Do la Tutmonda Sudo ne nur partoprenas en kosmoesplorado, sed gvidas ĝin."
+  },
+  "closing": {
+    "answer": "Do kiu estas ĉi tiu ulo por konstrui templon en la kosmo? Mi ne konstruas ĝin. La templon konstruas ĉiu, kiu decidas sendi nomon, vidi ĝin kiel sanktan, igi ĝin reala. Mi estas nur tiu, kiu proponas. Vi estas tiu, kiu konstruas ĝin, se vi decidas.",
+    "signature": "Bonkore,",
+    "name": "Edson Pavoni"
+  }
+}

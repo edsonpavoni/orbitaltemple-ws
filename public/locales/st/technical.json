@@ -1,0 +1,17 @@
+{
+  "title": "Lintlha tsa Tekheniki - Tempele ea Orbital",
+  "heading": "Lintlha tsa Tekheniki",
+  "satellite": {
+    "heading": "Sathelaete",
+    "specs": "Litekanyo: 50x58x64 limilimithara<br /> 1P PocketQube<br /> Boima ba &#39;mele: 245 gr<br /> Lisebelisoa: aluminium, khauta, fiberglass le likarolo tsa elektroniki.<br /> Orbit: Bophahamo ba 525 ± 25 km; tšekamelo: SSO 97.6 ± 0.1°<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) e tsamaisoa ke ISRO"
+  },
+  "antenna": {
+    "heading": "Lenakana/ Setsoantso",
+    "specs": "Litekanyo: 6 m (bophara) le 1.2m (bolelele)<br /> Boima ba &#39;mele: 46 lik&#39;hilograma<br /> Lisebelisoa: aluminium, boto ea seipone ea epoxy, dome ea khauta ea aluminium e emisitsoeng ka sebopeho sa scaffolding."
+  },
+  "radio": {
+    "heading": "Lintlha tsa Radio",
+    "specs": "Khokahano e tlase: 468.5 MHz<br /> Ho feto-fetoha ha molumo oa lentsoe: CSS<br /> Bophahamo ba moeli: TBD"
+  },
+  "imageAlt": "Satellite ea Tempele ea Orbital"
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "sezvaunopinda\ntsika\nkutumira zita\nmu\norbital temberi\nmuchadenga\ntake\nmweya",
+    "button": "ndagadzirira"
+  },
+  "nameInput": {
+    "title": "nyora zita",
+    "subtitle": "ichakwira kuTemberi yeOrbital muchadenga.",
+    "placeholder": "zita",
+    "button": "ngaikwire"
+  },
+  "emailInput": {
+    "title": "nyora email yako",
+    "subtitle": "saka unowana meseji kana zita rakwira.",
+    "placeholder": "email yako",
+    "button": "zvaitwa"
+  },
+  "loading": {
+    "alt": "Loading"
+  },
+  "success": {
+    "text": "zita racho\n{{zita}}\nyava pamutsetse\nyekukwira kudenga.\napo iyo\ntemberi iri muchadenga\nrinoenderana, ne\nantenna yedu\npaNyika\ntichatumira\nzita racho\nuye muchagamuchira\nshoko."
+  }
+}

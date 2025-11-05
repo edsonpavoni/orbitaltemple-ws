@@ -1,0 +1,16 @@
+{
+  "title": "Lanciu Spaziale - Tempiu Orbitale",
+  "heading": "Lanciu spaziale",
+  "intro": "U Tempiu Orbitale hè previstu per esse lanciatu à bordu di un PSLV (Polar Satellite Launch Vehicle) u 28 di nuvembre di u 2025 da u Centru Spaziale Satish Dhawan in Sriharikota, India.",
+  "partnership": "U lanciu di u Tempiu Orbitale hè una cullaburazione trà NewSpace India Limited (NSIL), una sucietà di u Guvernu di l'India sottu à u Dipartimentu di u Spaziu, Antrix Corporation, è l'artista. Sta cullaburazione rapprisenta una tappa significativa per l'arte in l'esplorazione spaziale, riunendu u prugramma spaziale di l'India cù una visione artistica di inclusione radicale.",
+  "risks": {
+    "heading": "Rischi",
+    "paragraph1": "U satellitu hè statu custruitu per suppurtà cundizioni di vibrazione estreme è cicli termichi, è hè statu sottumessu à testi rigorosi. Tuttavia, i lanci spaziali portanu risichi inerenti. Se u satellitu hè dannighjatu durante u lanciu o u spiegamentu, o s'ellu ùn riesce micca à stabilisce a cumunicazione cù e nostre stazioni terrestri, travagliaremu per risolve i prublemi. U satellitu hà sistemi ridondanti è protokolli di salvezza cuncepiti per massimizà e possibilità di successu di a missione.",
+    "paragraph2": "Inoltre, u satellitu pò stà in orbita per menu di 10 anni se e cundizioni atmosferiche o altri fattori causanu un decadimentu orbitale più precoce. Mentre l'avemu cuncipitu per durà almenu una decina d'anni, a durata di vita attuale dipende da cundizioni chì ùn pudemu micca cuntrullà cumpletamente.",
+    "paragraph3": "Sè u primu lanciu fiasca, o s'è no ùn simu capaci di compie sta missione cum'è previstu, esploreremu percorsi alternativi in avanti, cumprese forse un secondu tentativu di lanciu cù u budget dispunibule, una cullaburazione cù altre missioni, o una ducumentazione di u tentativu cum'è parte di a narrativa di l'opera d'arte nantu à l'aspirazione è a limitazione."
+  },
+  "imageAlts": {
+    "india": "Centru Spaziale ISRO, India",
+    "satellite": "Satellite Orbitale di u Tempiu"
+  }
+}

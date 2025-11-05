@@ -1,0 +1,17 @@
+{
+  "title": "Teknik Info - Orbital Tempul",
+  "heading": "Teknik Infɔmeshɔn",
+  "satellite": {
+    "heading": "Sataylayt",
+    "specs": "Dimenshɔn dɛn: 50x58x64 mm<br /> 1P PocketQube we yu de yuz<br /> Weyt: 245 gr<br /> Di tin dɛn we dɛn yuz: aluminiɔm, gold, fayv glas, ɛn ilɛktronik tin dɛn.<br /> Ɔbit: Ayt 525 ± 25 km; inklinεshכn: SSO 97.6 ± 0.1°<br /> Lanch: PSLV (Polar Satellite Launch Vehicle) we ISRO de ɔpres"
+  },
+  "antenna": {
+    "heading": "Antena/Skulpchɔ we dɛn mek",
+    "specs": "Dimensions: 6 m (diamita) e 1.2m (hayt)<br /> Weyt: 46 kg<br /> Di tin dɛn we dɛn yuz: aluminiɔm, ɛpoksi miro bɔd, gold aluminiɔm dome we dɛn suspɛnd tru wan skɔfɔl strɔkchɔ."
+  },
+  "radio": {
+    "heading": "Redio Speks",
+    "specs": "Daunlink: 468.5 MHz we yu go yuz<br /> Mɔdyuleshɔn: CSS<br /> Bandwidth: TBD we gɛt di rayt fɔ yuz am"
+  },
+  "imageAlt": "Orbital Tempul Sataylayt"
+}

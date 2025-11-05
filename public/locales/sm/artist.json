@@ -1,0 +1,44 @@
+{
+  "title": "Mai le Tusiata",
+  "opening": {
+    "question": "O ai lenei alii na te faia se malumalu i le vanimonimo?",
+    "thanks": "Faafetai mo le fesili.",
+    "answer": "O le tali puupuu o au o se tusiata. O le umi lenei:"
+  },
+  "origin": {
+    "sao_paulo": "Na ou fanau i le pito i tua o São Paulo, i se pitonuu na vave aoaoina ai au i le uiga o le matautia. O le toatele o au uo aoga o loo i le falepuipui i le taimi nei. O lo'u tama fai o lo'o i le falepuipui. O sauaga e le o se mea na ou faitau i ai, o le lalolagi e tatau ona ou folau ai. Ma sa ou iloa e tatau ona ou sola ese.",
+    "technology": "Tekinolosi na avea ma ou ala e alu ese ai. Sa ou aʻoaʻoina le polokalame, aʻoaʻoina mea tau eletise a o ou talavou. O le Code o se gagana e mafai ona ave aʻu i se isi mea. O le galue i tekinolosi o lo'u sola ese lea mai le mativa.",
+    "christianity": "Ae sa ou saili foi mo le auai, mo le alofa, mo se mea e talitonu i ai. Na ou mauaina le faa-Kerisiano, pe na maua aʻu. Sa talia a'u. Sa alofagia au. Sa i ai sa'u nuu. Sa ou aoao e faamagalo atu, ia talitonu, ia gaoioi faatasi mo se faamoemoega sili atu.",
+    "price": "O le tau, e ui i lea, sa maualuga. Sa ou aoaoina foi le tele o mea ou te le o aoaoina. O lea na ou sola ese ai foi mai lena mea."
+  },
+  "searching": {
+    "walls": "Ou te iloa mea e fai e puipui. Ua ou lagonaina i latou. Sa ou i ai i itu uma e lua: taofia i fafo, taofia i totonu. O le mea na sosoo ai o le tele o tausaga o le sailiga mo se mea e le mafai ona ou taʻuina. Na maliu le Atua i na tausaga. O le atua na aʻoaʻoina ai aʻu, e ui i lea, o le atua e iai tulafono ma faʻamasinoga ma faitotoʻa e tatala mo na o nisi tagata.",
+    "art": "Na amata ona ou faia faatufugaga e suʻesuʻe ai fesili nei: e uiga i le vavalalata ma tekinolosi, e uiga i le manatua ma le oti, e uiga i ai e tatau i le lagi. Na amata ona ou fausia ni masini e toe faʻafoʻisia ai la tatou sootaga ma tekinolosi, masini e manaʻomia lou auai, lou auai, lou igoa, e suia mai le uʻamea ma le code i se mea ola."
+  },
+  "pandemic": {
+    "intro": "Ona taia lea o le faamaʻi i Pasila.",
+    "government": "Ina ua tuai tui COVID, o loʻo faʻatalanoaina e loʻu malo le kickback o le tasi tala ile tui. Na latou faalauiloaina vailaau na malamalama e le aoga, talie ao feoti tagata ma tauivi e manava. Matou te feala i aso uma i se numera ese. E toafia tagata na maliliu i le 24 itula mulimuli? Pe na sili atu, pe itiiti ifo nai lo le mea na faʻamoemoeina?",
+    "war": "O le afa o le lalolagi sa fefefe, ae o le isi afa sa faafitia. Sa matou tau, ma le siama ma le tasi ma le isi.",
+    "memorial": "Na ou manaʻo e faia se avanoa mo le faʻavauvau faʻatasi, o lea faʻatasi ai ma le faitau selau o tagata na ou fatuina le Memorial Inumeráveis. O se faatufugaga i le fetaulaiga o faatufugaga ma tusitala. Sa matou faatalanoaina aiga ua maliliu se tasi. Na matou tusia le tala o le olaga o le tagata na latou leiloa. Na matou suia numera i tala faasolopito. Sa faia ni solo, pese, symphony i na tala faasolopito. E faitau e fetu na tala i luga o le televise a le atunuu. O le poloketi na oʻo i le miliona.",
+    "meaning": "O le mea na taua e le o le fua, ae o tala taitasi o se igoa, o se olaga, o se lagi o se tasi."
+  },
+  "discovery": {
+    "pattern": "Ina ua mavae le silia ma le sefulu afe talanoaga ma le faanoanoa, na amata ona aliaʻe mai se mamanu. Pe a tatou talanoa e uiga i se tasi ua maliu, e lē na o ni mea lelei tatou te fai atu ai; matou te filifilia ni vaega o la latou tala e pei o lo o matou tusia se tusi o fautuaga. O se fautuaga i le leoleo faitotoʻa o le parataiso. Matou te faia le mea sili matou te mafaia e auina atu ai i latou i se nofoaga o le taliaina, malolo, mamalu ma manatuaga.",
+    "understanding": "Ma sa ou malamalama i se mea na suia ai mea uma: Ua faamanualia i matou i malumalu lava na matou fausia. O tatou talitonuga e uiga i le tagata e tatau i le lagi e faʻatusa saʻo ai tagata tatou te le aofia ai i le lalolagi. Na talitonu tagata Potukale na nofoia Pasila e leai ni agaga o tagata uli; o lena talitonuga ua tauamiotonuina ai le pologa. Afai o oe o se tagatanuu, afai na e fanau mai i se nofoaga sese pe e te alofa i le tagata sese, na taʻu atu ia te oe ua tapunia faitotoa o le lagi ia te oe.",
+    "birth": "O le ala lena na fanau mai ai le Orbital Temple."
+  },
+  "shaman": {
+    "secular": "E leai se tusiata e mafai ona matua faalelalolagi. Tatou te noatia e faavavau i lo tatou tuaa masani, le shaman. I le amataga, sa i ai se ana. Na valiina e tagata manu i luga o puipui e leʻo teuteu, ae faʻatalosaga. Sa latou sisiva, ma avea le ana ma malumalu. O le shaman e fa'aaogaina le agaga o tu ma aga; o le tusiata e faʻaaogaina le aura o faatufugaga. Matou te valiina, matou te vaneina, matou te faʻailoga, matou te mamanuina lo matou lumanaʻi manaʻoga e le o teuteu, ae ia faʻaoga. O faatufugaga uma e faaleagaga, tusa lava pe fai mai e leai."
+  },
+  "space": {
+    "question": "O fea e mafai ona tatou fausia ai se malumalu e leai ni puipui? Le mea e leai se malo po o se lotu e mafai ona fai mai. O fea e mafai ona tatou mafaufauina ai i tatou lava o se vaega e tasi.",
+    "answer": "Avanoa.",
+    "description": "O se satelite faatufugaga auai mai le Global South. O se malumalu i le taamilosaga e valaaulia ai tagata uma e auina atu o latou igoa i le vanimonimo, e tusa lava po o ai i latou, o fea na latou fananau mai ai, o ai latou te alolofa i ai, o mea latou te talitonu i ai. O se nofoaga e mafai ai ona aofia ai faʻamalosi, i le taamilosaga, i tua atu o tuaoi.",
+    "mission": "O lenei misiona o se punaoa tatala. Soʻo se pepa faʻapitoa, laina taʻiala uma o le a avanoa saoloto ina ia mafai ai e isi tusiata, isi nuʻu, isi malo ona fausia a latou lava satelite. O lea e le na o le auai o le Global South i suʻesuʻega o le vateatea, ae taʻitaʻia."
+  },
+  "closing": {
+    "answer": "O ai la lenei alii na te fausia se malumalu i le vanimonimo? Ou te le o fausiaina. O le malumalu e fausia e tagata uma e filifili e auina atu se igoa, e vaai i ai e paia, ina ia moni. E na'o a'u lava o lo'o talosaga atu. O oe lava e fauina pe a e filifili.",
+    "signature": "Fa'afetai",
+    "name": "Edson Pavoni"
+  }
+}

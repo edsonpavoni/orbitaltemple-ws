@@ -1,0 +1,17 @@
+{
+  "title": "Tshedimošo ya Setegeniki - Tempele ya Orbital",
+  "heading": "Tshedimošo ya Sethekniki",
+  "satellite": {
+    "heading": "Sathalaete",
+    "specs": "Ditekanyo: 50x58x64 mm<br /> 1P PocketQube ya go swana le<br /> Boima ba &#39;mele: 245 gr<br /> Didirišwa: aluminiamo, gauta, fiberglass, le dikarolo tša elektroniki.<br /> Orbit: Bophahamo ba 525 ± 25 km SE; sekame: SSO 97.6 ± 0.1 °"
+  },
+  "antenna": {
+    "heading": "Antena/Sebopego sa go betlwa",
+    "specs": "Ditekanyo: 6 m (bophara) e 1.2m (bophahamo)<br /> Boima: 46 kg<br /> Didirišwa: aluminiamo, epoxy seiponeng boto, gauta aluminium dome e fegilwego ka sebopego sa scaffolding."
+  },
+  "radio": {
+    "heading": "Ditlhalošo tša Radio NASA-Catalog:",
+    "specs": "TBD Kgokagano ya go theoga: 437 MHz<br /> Call: Boemo: LENANEO LA 2025"
+  },
+  "imageAlt": "Seswantšho sa Tshedimošo ya Sethekniki"
+}

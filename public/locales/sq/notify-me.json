@@ -1,0 +1,13 @@
+{
+  "title": "Ji i njoftuar - Tempulli Orbital",
+  "heading": "Njoftohuni kur të ngrihet",
+  "description": "Më 28 nëntor 2025, Tempulli Orbital do të ngjitet.<br> Lini email-in tuaj dhe ne do t&#39;ju njoftojmë kur të arrijë në hapësirë.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Dërgo",
+    "sendingButton": "Duke dërguar...",
+    "successMessage": "Do të të arrijmë kur të ngjitet lart.",
+    "errorMessage": "Diçka shkoi keq. Ju lutemi provoni përsëri."
+  },
+  "backLink": "← Kthehu te numërimi mbrapsht"
+}

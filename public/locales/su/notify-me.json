@@ -1,0 +1,13 @@
+{
+  "title": "Dibéjakeun - Kuil Orbital",
+  "heading": "Jadi Bewara Lamun Naek",
+  "description": "Tanggal 28 Nopémber 2025, Kuil Orbital bakal naék.<br> Ninggalkeun e-mail anjeun, sarta kami bakal ngabejaan ka maneh lamun eta ngahontal spasi.",
+  "form": {
+    "emailPlaceholder": "anjeun@email.com",
+    "sendButton": "Ngirimkeun",
+    "sendingButton": "Ngirim...",
+    "successMessage": "Kami bakal ngahontal anjeun nalika naék.",
+    "errorMessage": "Aya nu lepat. Mangga cobian deui."
+  },
+  "backLink": "← Balik deui ka mundur"
+}

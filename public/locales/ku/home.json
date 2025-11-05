@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Perestgeha Orbital",
+    "subtitle": "berhemeke hunerî û peyk e,\narmanc ew e ku bibe perestgeheke radîkal û hemûgir,\nli cihekî ku tu dîwar nikare bigihîje wê."
+  },
+  "ritual": {
+    "label": "awa"
+  },
+  "cta": {
+    "link": "Lê dîsa, perestgehek din?",
+    "arrowAlt": "tîr"
+  },
+  "dome": {
+    "alt": "Qubbe"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Informació tècnica - Temple orbital",
+  "heading": "Informació tècnica",
+  "satellite": {
+    "heading": "Satèl·lit",
+    "specs": "Dimensions: 50x58x64 mm<br /> 1P PocketQube<br /> Pes: 245 grams<br /> Materials: alumini, or, fibra de vidre i components electrònics.<br /> Òrbita: Altitud 525 ± 25 km; inclinació: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura",
+    "specs": "Dimensions: 6 m (diàmetre) i 1,2 m (alçada)<br /> Pes: 46 kg<br /> Materials: alumini, tauler amb mirall epoxi, cúpula d&#39;alumini daurat suspesa a través d&#39;una estructura de bastida."
+  },
+  "radio": {
+    "heading": "Especificacions de ràdio Catàleg de la NASA:",
+    "specs": "Enllaç descendent per determinar: 437 MHz<br /> Convocatòria: Estat: PROGRAMACIÓ PER AL 2025"
+  },
+  "imageAlt": "Diagrama d'informació tècnica"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tsebišwa - Tempele ya Orbital",
+  "heading": "Tsebišwa Ge E Tsoga",
+  "description": "Ka la 28 November, 2025, Tempele ya Orbital e tla rotoga.<br> Tlogela e-mail ya gago, gomme re tla go botša ge e fihla sebakeng.",
+  "form": {
+    "emailPlaceholder": "ya gago@imeile.com",
+    "sendButton": "Romela",
+    "sendingButton": "Go romela...",
+    "successMessage": "Re tla go fihlelela ge e rotoga.",
+    "errorMessage": "Se sengwe se ile sa sepela gabotse. Hle leka gape."
+  },
+  "backLink": "← Morago go bala morago"
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "nalika sampeyan mlebu\nritual\nkanggo ngirim jeneng\nmenyang\ncandhi orbital\ning angkasa\nnjupuk\nambegan",
+    "button": "aku siyap"
+  },
+  "nameInput": {
+    "title": "ngetik jeneng",
+    "subtitle": "iku bakal munggah menyang Temple Orbital ing papan.",
+    "placeholder": "jeneng",
+    "button": "ayo munggah"
+  },
+  "emailInput": {
+    "title": "ketik email sampeyan",
+    "subtitle": "supaya sampeyan entuk pesen nalika jeneng munggah.",
+    "placeholder": "email sampeyan",
+    "button": "wis rampung"
+  },
+  "loading": {
+    "alt": "Loading"
+  },
+  "success": {
+    "text": "jeneng\n{{jeneng}}\nsaiki antri\nkanggo minggah.\nnalika ing\ncandhi ing angkasa\naligns, karo\nantena kita\ning Bumi\nkita bakal ngirim\njeneng\nlan sampeyan bakal nampa\npesen."
+  }
+}

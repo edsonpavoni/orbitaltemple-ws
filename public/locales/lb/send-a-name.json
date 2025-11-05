@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "wann Dir an e Ritual gitt\nfir en Numm ze schécken\nan den\nOrbitaltempel\nam Weltraum\nhuelt en Otem",
+    "button": "Ech sinn prett"
+  },
+  "nameInput": {
+    "title": "en Numm aginn",
+    "subtitle": "et wäert an den Orbitaltempel am Weltraum opstinn.",
+    "placeholder": "Numm",
+    "button": "loosst et eropgoen"
+  },
+  "emailInput": {
+    "title": "gitt Är E-Mailadress an",
+    "subtitle": "also kritt Dir eng Meldung wann den Numm eropgeet.",
+    "placeholder": "Är E-Mail",
+    "button": "et ass fäerdeg"
+  },
+  "loading": {
+    "alt": "Lueden"
+  },
+  "success": {
+    "text": "Den Numm\n{{name}}\nass elo fir d'Opstig an der Schlaang\ngespäichert.\nwann den\nTempel am Weltraum\nausgeriicht ass,\nmat eiser Antenn\nop der Äerd\nschécke mir den\nNumm\nan Dir kritt eng\nNoriicht."
+  }
+}

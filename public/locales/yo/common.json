@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ise ona",
+    "sendAName": "fi orukọ ranṣẹ",
+    "fromTheArtist": "lati olorin",
+    "yetAnotherTemple": "sibẹsibẹ, tẹmpili miiran?",
+    "howItWorks": "bi o ti ṣiṣẹ",
+    "spaceLaunch": "ifilole aaye ati awọn ewu",
+    "briefHistory": "itan kukuru ti aworan ni aaye",
+    "education": "eko & ìmọ orisun",
+    "sustainability": "iduroṣinṣin ati idoti aaye",
+    "press": "tẹ & media",
+    "team": "egbe",
+    "partners": "awọn alabaṣepọ",
+    "support": "atilẹyin",
+    "technicalInfo": "imọ alaye"
+  },
+  "ritual": {
+    "label": "irubo",
+    "ariaLabel": "Tẹ irubo naa - Firanṣẹ orukọ kan si tẹmpili Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple jẹ iṣẹ-ọnà nipasẹ Edson Pavoni, ti a ṣẹda ni ifowosowopo pẹlu Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ati gbogbo awọn ti o tẹsiwaju lati firanṣẹ si tẹmpili yii."
+  }
+}

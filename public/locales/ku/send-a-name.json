@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "dema ku hûn dikevin\nrîtuelekê\nnavekî dişînin\nnavê\nperestgeha orbital\ndi fezayê de\nbêhnek\nbigirin",
+    "button": "ez amade me"
+  },
+  "nameInput": {
+    "title": "navekî binivîse",
+    "subtitle": "ew ê di fezayê de ber bi Perestgeha Orbital ve hilkişe.",
+    "placeholder": "nav",
+    "button": "bila ew hilkişe"
+  },
+  "emailInput": {
+    "title": "e-nameya xwe binivîse",
+    "subtitle": "ji ber vê yekê gava nav bilind dibe hûn peyamek digirin.",
+    "placeholder": "e-nameya te",
+    "button": "qediya"
+  },
+  "loading": {
+    "alt": "Barkirin"
+  },
+  "success": {
+    "text": "navê\n{{name}}\nniha li rêzê ye\nji bo hilkişînê.\ndema ku\nperestgeh di fezayê de\nbi\nantena me ya li ser Erdê re li hev bike\nem ê\nnavê bişînin\nû hûn ê\npeyamek bistînin."
+  }
+}

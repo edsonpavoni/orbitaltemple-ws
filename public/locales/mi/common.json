@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "te mahi toi",
+    "sendAName": "tuku ingoa",
+    "fromTheArtist": "mai i te kaitoi",
+    "yetAnotherTemple": "heoi, tetahi atu whare tapu?",
+    "howItWorks": "pehea te mahi",
+    "spaceLaunch": "whakarewanga mokowhiti me nga tupono",
+    "briefHistory": "he korero poto mo nga mahi toi i te waahi",
+    "education": "mātauranga & puna tuwhera",
+    "sustainability": "te oranga me te para o te waahi",
+    "press": "perehi & pāpāho",
+    "team": "kapa",
+    "partners": "hoa",
+    "support": "tautoko",
+    "technicalInfo": "korero hangarau"
+  },
+  "ritual": {
+    "label": "tikanga",
+    "ariaLabel": "Whakauruhia te kawa - Tukuna he ingoa ki te Orbital Temple"
+  },
+  "footer": {
+    "credits": "Ko te Orbital Temple he mahi toi na Edson Pavoni, i hangaia i te mahi tahi me Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, me te hunga katoa e tuku tonu ana ki tenei temepara."
+  }
+}

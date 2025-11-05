@@ -1,0 +1,138 @@
+{
+  "title": "Pencét & Média - Orbital Temple",
+  "heading": "Pencét & Média",
+  "pressContact": {
+    "heading": "Pencét Kontak",
+    "content": "Pikeun patarosan pers, wawancara, sareng pamundut média:<br /> <strong>Surélék:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Situs Web:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Ngeunaan Proyék",
+    "paragraph1": "Kuil Orbital mangrupikeun karya seni sareng satelit anu tujuanana janten candi inklusif sacara radikal, diwangun dimana teu aya tembok anu tiasa ngahontal. Dijieun ku seniman Brasil Edson Pavoni, seniman tukangeun Peringatan Inumeráveis anu ngahontal 1 dina unggal 6 urang Brasil nalika pandémik COVID, proyék éta ngajak jalma-jalma ti sakumna dunya pikeun ngirim nami jalma anu aranjeunna hoyong émut. Ngaran-ngaran ieu dikirimkeun ka satelit dina orbit, nyiptakeun peringatan koléktif.",
+    "paragraph2": "Ngaliwatan ramatloka sadia dina 136 basa, pamilon kalibet dina jenis anyar ritual. Kuil Orbital ngajalajah téma inklusi, mémori, sareng umat manusa anu dibagikeun, naroskeun naha henteu aya kuil fisik di Bumi anu leres-leres tiasa ngabagéakeun sadayana, sareng ngajukeun rohangan salaku hiji-hijina tempat dimana inklusivitas radikal tiasa aya."
+  },
+  "aboutArtist": {
+    "heading": "Ngeunaan Artis",
+    "paragraph1": "<strong>Edson Pavoni</strong> mangrupikeun seniman Brasil anu perjalananna dimimitian di jalan-jalan di São Paulo, dimana kontéks kamiskinan sareng kekerasan ngawangun taun-taun awal na. Di hiji nagara dimana agama Kristen nawiskeun jalan jauh ti jalan, narkoba, sareng kekerasan, Pavoni mendakan ngungsi dina iman, téma anu engké, nalika anjeunna janten kritikus nyiksa agama, ngawartosan prakték artistikna.",
+    "paragraph2": "Taun 2020, nalika pandémik COVID-19, Pavoni nyiptakeun <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (teu kaétang)</a></strong> , karya seni di persimpangan seni sareng jurnalisme. Proyék éta ngawawancara rébuan kulawarga sareng nyerat carita jalma-jalma anu kaleungitan pandémik, nyiptakeun rohangan dimana mémori ngalangkungan angka sareng statistik. Sajak, lagu, jeung simfoni dijieun ku eta carita. Koran dijieun panutup ngagunakeun ngaran jeung sajarah. Sadaya béntang Brasil sapertos anu meunang Oscar Fernanda Torres, sareng béntang sapertos Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo sareng Lazaro Ramos, sareng seueur deui anu maca carita-carita éta dina televisi nasional. Proyék ngahontal 32 juta jalma, hiji dina opat sawawa Brasil. Éta janten jaringan penyembuhan, monumen koléktif pikeun mémori.",
+    "paragraph3": "Saatos langkung ti sapuluh rébu paguneman kalayan duka, pola muncul: nalika urang ngobrol ngeunaan jalma anu maot, urang milih fragmen caritana saolah-olah nyerat surat rekomendasi ka penjaga gerbang surga. Urang ngalakukeun pangalusna kami pikeun ngirim aranjeunna ka naon urang yakin éta surga. Karya ieu nyababkeun pamahaman anyar: Kapercayaan urang ngeunaan saha anu pantes surga langsung ngabentuk saha anu urang tampi atanapi teu kalebet di Bumi. Penjajah Portugis di Brazil percaya jalma Hideung teu boga jiwa; kapercayaan yén diyakinkeun perbudakan. Upami anjeun pribumi, upami anjeun lahir di tempat anu salah atanapi dipikacinta jalma anu salah, anjeun tetep, dugi ka ayeuna, diwartosan yén panto surga ditutup pikeun anjeun. Naha aya visi masa depan anu henteu pinuh ku panolakan?",
+    "paragraph4": "Éta kumaha Orbital Temple dilahirkeun."
+  },
+  "keyFacts": {
+    "heading": "Fakta konci",
+    "artist": "<strong>Artis:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Tipe Proyék:</strong> Karya seni satelit, situs-spésifik dina spasi, ritual basis web",
+    "launchDate": "<strong>Tanggal peluncuran:</strong> 28 Nopémber 2025",
+    "launchLocation": "<strong>Lokasi peluncuran:</strong> Satish Dhawan Space Center, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satelit:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km luhurna, Sun-sinkron",
+    "participation": "<strong>Partisipasi:</strong> Gratis, kabuka pikeun sadayana sacara global",
+    "namesSent": {
+      "heading": "<strong>Ngaran Dikirim ka Orbit:</strong>",
+      "caption": "<em>Live count diropéa tina database • Panungtungan diropéa: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Panghargaan & Pangakuan",
+    "mercosul": {
+      "title": "<strong>Ka-13 Mercosur Biennial</strong> (2022)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "Curated ku Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Hadiah Lumen 2022 - Pangajén Futures</strong>",
+      "status": "Daptar panjang"
+    },
+    "cubeDesign": {
+      "title": "<strong>Kompetisi CubeDesign 2021</strong>",
+      "award": "Tien Juara - Kategori ArtSat",
+      "org": "Dipromosikeun ku Brazilian Institute of Space Research (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Tim",
+    "content": "Kuil Orbital diciptakeun dina kolaborasi sareng Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Holzmegal, Andre Holzmegal. Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, sareng sadayana anu terus nyarankeun nami pikeun kuil ieu."
+  },
+  "pressCoverage": {
+    "heading": "Diulas Dina / Pencét sinyalna",
+    "paragraph1": "<em>Sinyalna pencét sareng fitur bakal ditambihan nalika sayogi. Pikeun apdet panganyarna, mangga ngahubungan tim pers kami.</em>",
+    "paragraph2": "Paméran sareng fitur sateuacana kalebet presentasi di Mercosul Bienal ka-13, pangakuan ti Hadiah Lumen, sareng pilihan ku Institut Panaliti Angkasa Brasil (INPE)."
+  },
+  "images": {
+    "heading": "Gambar-Resolusi Luhur pikeun Paké Pencét",
+    "intro": "Sadaya gambar sadia pikeun pamakéan redaksi. Klik gambar mana wae pikeun ngundeur file resolusi luhur.",
+    "installationPhotos": {
+      "heading": "Poto Kuil Orbital",
+      "credit": "Punten kiridit: \"Poto ku Clara Marques / Kahadean Edson Pavoni, Kuil Orbital\"",
+      "view01": "Pamasangan Témbongkeun 01<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (1,4 MB)",
+      "view02": "Pamasangan Témbongkeun 02<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (2.9 MB)",
+      "view03": "Pamasangan Témbongkeun 03<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (11 MB)",
+      "view04": "Pamasangan Témbongkeun 04<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,4 MB)",
+      "view05": "Pamasangan Témbongkeun 05<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,3 MB)",
+      "view06": "Pamasangan Témbongkeun 06<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,7 MB)",
+      "view07": "Pamasangan Témbongkeun 07<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,4 MB)",
+      "view08": "Pamasangan Témbongkeun 08<br /> Poto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (2,7 MB)",
+      "satelliteDesign": "Desain Satelit<br /> ↓ Unduh",
+      "antennaSculpture": "anteneu / Patung<br /> ↓ Unduh"
+    },
+    "renders": {
+      "heading": "Orbital Temple Renders",
+      "credit": "Renderings 3D konseptual Temple Orbital. Punten kiridit: \"Rendering 3D ku RiseNY&Partners / Kahadean Edson Pavoni, Kuil Orbital\"",
+      "render01": "Rendering 3D 01<br /> RiseNY &amp; Mitra<br /> ↓ Unduh Resolusi Tinggi (10 MB)",
+      "render02": "Rendering 3D 02<br /> RiseNY &amp; Mitra<br /> ↓ Unduh Resolusi Tinggi (5,9 MB)",
+      "render03": "Rendering 3D 03<br /> RiseNY &amp; Mitra<br /> ↓ Unduh Resolusi Tinggi (5,2 MB)",
+      "render04": "Rendering 3D 04<br /> RiseNY &amp; Mitra<br /> ↓ Unduh Resolusi Tinggi (11 MB)",
+      "render05": "Rendering 3D 05<br /> RiseNY &amp; Mitra<br /> ↓ Unduh Resolusi Tinggi (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Poto Artis",
+      "photo1": "Poto 1<br /> ↓ Unduh High-Res",
+      "photo2": "Poto 2<br /> ↓ Unduh High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Poto Sathi Roy",
+      "photo1": "Poto 1<br /> ↓ Unduh Resolusi Tinggi (843 KB)",
+      "photo2": "Poto 2<br /> ↓ Unduh Resolusi Tinggi (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Spésifikasi teknis",
+    "satellite": {
+      "heading": "Satelit",
+      "dimensions": "Ukuran: 50 x 58 x 64 mm",
+      "classification": "Klasifikasi: 1P PocketQube",
+      "weight": "Beurat: 245g",
+      "materials": "Bahan: Aluminium, emas, orat, komponén éléktronik",
+      "orbit": "Orbit: Luhurna 525 ± 25 km; Conlining: SSO 97,6 ± 0,1 °",
+      "launch": "Peluncuran: 28 Nopémber 2025 via ISRO, India"
+    },
+    "antenna": {
+      "heading": "anteneu / Patung",
+      "dimensions": "Ukuran: 6m diaméterna x 1.2m jangkungna",
+      "weight": "Beurat: 46 kg",
+      "materials": "Bahan: Aluminium, epoxy mirrored board, kubah aluminium emas ditunda ngaliwatan struktur Parancah"
+    },
+    "radio": {
+      "heading": "Spésifikasi Radio",
+      "downlink": "Downlink: 437 MHz",
+      "status": "Status peluncuran: Dijadwalkeun 28 Nopémber 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Sumberdaya tambahan",
+    "artwork": "→ Témbongkeun Dokuméntasi Karya Seni",
+    "howItWorks": "→ Kumaha Gawéna",
+    "technicalInfo": "→ Inpormasi Téknis",
+    "spaceLaunch": "→ Émbaran Peluncuran Spasi",
+    "ritual": "→ Ngalaman Ritual"
+  },
+  "imageAlts": {
+    "installation": "Pamasangan Kuil Orbital ku Edson Pavoni",
+    "satelliteDesign": "Desain Satelit Kuil Orbital",
+    "antenna": "Orbital Temple Antenna Patung",
+    "render": "Orbital Temple 3D Rendering ku RiseNY&Partners",
+    "edsonPortrait": "Potrét Edson Pavoni",
+    "sathiPortrait": "Potrét Sathi Roy",
+    "lumenPrize": "Hadiah Lumen",
+    "mercosulBienal": "Mercosur dua taunan"
+  }
+}

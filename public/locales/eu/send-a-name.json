@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "erritual batean sartzen zarenean\nizen bat bidaltzeko\nespazioko\norbita tenplura\narnasa hartu",
+    "button": "prest nago"
+  },
+  "nameInput": {
+    "title": "idatzi izen bat",
+    "subtitle": "espazioko Orbita Tenplura igoko da.",
+    "placeholder": "izena",
+    "button": "igotzen utzi."
+  },
+  "emailInput": {
+    "title": "idatzi zure posta elektronikoa",
+    "subtitle": "beraz, izena igotzen denean mezu bat jasotzen duzu.",
+    "placeholder": "zure posta elektronikoa",
+    "button": "eginda dago"
+  },
+  "loading": {
+    "alt": "Kargatzen"
+  },
+  "success": {
+    "text": "{{name}} izena\norain ilaran dago\nigoerarako.\nEspazioko\ntenplua\nlerrokatzen denean,\ngure antena\nLurrean\nizena bidaliko dizugu\neta mezu bat jasoko duzu."
+  }
+}

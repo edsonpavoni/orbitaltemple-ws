@@ -1,0 +1,44 @@
+{
+  "title": "Lati Olorin",
+  "opening": {
+    "question": "Tani eniyan yii lati dabaa tẹmpili ni aaye?",
+    "thanks": "O ṣeun fun ibeere naa.",
+    "answer": "Idahun kukuru ni pe oṣere ni mi. Eyi gun ni eyi:"
+  },
+  "origin": {
+    "sao_paulo": "Àgbègbè São Paulo ni wọ́n bí mi sí, ládùúgbò kan tó kọ́ mi ní tètèkọ́ṣe ohun tí ewu túmọ̀ sí. Pupọ ninu awọn ọrẹ ile-iwe mi wa ni ẹwọn ni bayi. Bàbá àgbẹ̀ mi wà nínú ẹ̀wọ̀n. Iwa-ipa kii ṣe nkan ti Mo ka nipa, o jẹ agbaye ti Mo ni lati lọ kiri. Ati pe Mo mọ pe Mo nilo lati sa fun.",
+    "technology": "Imọ ọna ẹrọ di ọna mi. Mo kọ ẹkọ lati ṣe eto, kọ ẹkọ itanna bi ọdọmọkunrin. Koodu jẹ ede ti o le mu mi lọ si ibomiran. Nṣiṣẹ pẹlu imọ-ẹrọ ni ona abayo mi lati osi.",
+    "christianity": "Ṣùgbọ́n mo tún ń wá ohun tí ó jẹ́ ti ara, ìfẹ́, ohun kan láti gbà gbọ́. Mo ti rí ẹ̀sìn Kristẹni, tàbí ó rí mi. Won gba mi. Mo feran. Mo ni agbegbe kan. Mo kọ lati dariji, lati gbagbọ, lati gbe papọ fun idi nla kan.",
+    "price": "Awọn owo, tilẹ, je ga. Mo tún kọ́ ọ̀pọ̀ nǹkan tí mo ṣì ń kọ́. Nitorinaa emi naa sa fun iyẹn."
+  },
+  "searching": {
+    "walls": "Mo mọ kini awọn odi ṣe. Mo ti ro wọn. Mo ti wa ni ẹgbẹ mejeeji: ti o wa ni ita, ti a fipamọ sinu. Ohun ti o tẹle ni awọn ọdun ti wiwa nkan ti Emi ko le lorukọ. Ọlọ́run kú láwọn ọdún yẹn. Ọlọ́run tí a ti kọ́ mi nípa rẹ̀, lọ́nàkọnà, ẹni tí ó ní àwọn òfin àti ìdájọ́ àti àwọn ilẹ̀kùn tí ó ṣí sílẹ̀ fún àwọn ènìyàn kan.",
+    "art": "Mo bẹrẹ ṣiṣe aworan lati ṣawari awọn ibeere wọnyi: nipa ibaramu ati imọ-ẹrọ, nipa iranti ati iku, nipa ẹniti o yẹ ọrun. Mo bẹrẹ lati kọ awọn ẹrọ ti o tun ronu ibatan wa pẹlu imọ-ẹrọ, awọn ẹrọ ti o nilo ikopa rẹ, wiwa rẹ, orukọ rẹ, lati yipada lati irin ati koodu sinu nkan laaye."
+  },
+  "pandemic": {
+    "intro": "Lẹhinna ajakaye-arun na kọlu Ilu Brazil.",
+    "government": "Nigbati awọn ajesara COVID ṣe idaduro, ijọba mi n ṣe idunadura awọn ifẹhinti ti dola kan fun iwọn lilo. Wọn ṣe igbega oogun ti o loye pe ko ni doko, nrerin lakoko ti awọn eniyan ku ni igbiyanju lati simi. A ji ni gbogbo ọjọ si nọmba ti o yatọ. Eniyan melo ni o ku ni awọn wakati 24 sẹhin? Ṣe o jẹ diẹ sii, tabi kere ju ti a reti lọ?",
+    "war": "Idaji ti aye ti bẹru, ati idaji miiran wa ni kiko. A wa ni ogun, pẹlu ọlọjẹ ati pẹlu ara wa.",
+    "memorial": "Mo fẹ lati ṣẹda aaye fun ibinujẹ apapọ, nitorinaa papọ pẹlu awọn ọgọọgọrun eniyan Mo ṣẹda Iranti Iranti Inumeráveis. Iṣẹ-ọnà ni ikorita ti aworan ati iṣẹ-akọọlẹ. A fọ̀rọ̀ wá àwọn ìdílé tí wọ́n pàdánù ẹnì kan lẹ́nu wò. A kọ itan igbesi aye eniyan ti wọn padanu. A yi awọn nọmba pada si awọn itan-akọọlẹ. Awọn ewi, awọn orin, awọn orin aladun ni a ṣe pẹlu awọn itan-akọọlẹ yẹn. Awọn irawọ ka awọn itan yẹn lori tẹlifisiọnu orilẹ-ede. Ise agbese na de awọn miliọnu.",
+    "meaning": "Ohun ti o ṣe pataki kii ṣe iwọn, o jẹ pe itan kọọkan jẹ orukọ kan, igbesi aye, ọrun ẹnikan."
+  },
+  "discovery": {
+    "pattern": "Lẹhin ti o ju ẹgbẹrun mẹwa awọn ibaraẹnisọrọ pẹlu ibanujẹ, apẹrẹ kan bẹrẹ lati farahan. Tá a bá ń sọ̀rọ̀ nípa ẹnì kan tó ti kú, a kì í kàn sọ ohun rere; a yan awọn ajẹkù ti itan wọn bi ẹnipe a nkọ lẹta ti iṣeduro. A recommendation si awọn adena ti paradise. A ṣe ohun ti o dara julọ lati firanṣẹ wọn si aaye gbigba, isinmi, ọlá ati iranti.",
+    "understanding": "Ati pe Mo loye ohun kan ti o yi ohun gbogbo pada: A ti farapa nipasẹ awọn ile-isin oriṣa ti a kọ. Awọn igbagbọ wa nipa ẹniti o yẹ ọrun ṣe apẹrẹ taara ti a yọkuro lori Earth. Awọn oluṣakoso Portuguese ni Brazil gbagbọ pe awọn eniyan dudu ko ni ọkàn; ti igbagbo lare ifi. Ti o ba jẹ ọmọ abinibi, ti o ba jẹ ibi ti ko tọ tabi fẹran eniyan ti ko tọ, a sọ fun ọ pe awọn ilẹkun ọrun ti wa ni pipade fun ọ.",
+    "birth": "Bẹ́ẹ̀ ni wọ́n ṣe bí Tẹmpili Orbital."
+  },
+  "shaman": {
+    "secular": "Ko si olorin ti o le jẹ alailesin nitootọ. A ti so wa lailai pẹlu baba wa ti o wọpọ, shaman. Ni ibẹrẹ, iho apata kan wa. Awọn eniyan ya awọn ẹranko lori awọn odi kii ṣe lati ṣe ọṣọ, ṣugbọn lati pe. Wọ́n jó, ihò àpáta náà sì di tẹ́ńpìlì. Shaman lo ẹmi ti aṣa; olorin nlo aura ti aworan. A kun, a ṣe ere, a ṣe koodu, a ṣe apẹrẹ ọjọ iwaju ti o fẹ kii ṣe lati ṣe ọṣọ, ṣugbọn lati pe. Gbogbo aworan jẹ ti ẹmi, paapaa nigba ti o sọ pe kii ṣe."
+  },
+  "space": {
+    "question": "Nibo ni a ti le kọ tẹmpili ti ko ni odi? Ibi ti ko si orilẹ-ède tabi esin le beere. Ibi ti a ti le fojuinu ara wa bi ẹgbẹ kan.",
+    "answer": "Aaye.",
+    "description": "A alabaṣe aworan satẹlaiti lati Global South. Tẹmpili kan ni orbit ti o pe gbogbo eniyan lati fi orukọ wọn ranṣẹ si aaye, laibikita tani wọn jẹ, ibi ti wọn ti bi, ti wọn nifẹ, ohun ti wọn gbagbọ. Ibi kan nibiti ifisi ipilẹṣẹ ṣee ṣe, ni yipo, ni ikọja awọn aala.",
+    "mission": "Iṣẹ apinfunni yii jẹ orisun ṣiṣi. Gbogbo iwe imọ-ẹrọ, gbogbo laini koodu yoo wa larọwọto ki awọn oṣere miiran, awọn agbegbe miiran, awọn orilẹ-ede miiran le kọ awọn satẹlaiti tiwọn. Nitorinaa Global South kii ṣe kopa ninu iṣawari aaye nikan, ṣugbọn ṣe itọsọna rẹ."
+  },
+  "closing": {
+    "answer": "Nitorina tani eniyan yii lati kọ tẹmpili ni aaye? Emi ko kọ ọ. Tẹmpili naa ti kọ nipasẹ gbogbo eniyan ti o pinnu lati fi orukọ ranṣẹ, lati rii bi mimọ, lati jẹ ki o jẹ gidi. Emi nikan ni o dabaa. Iwọ ni o kọ ọ ti o ba pinnu lati.",
+    "signature": "O ṣeun,",
+    "name": "Edson Pavoni"
+  }
+}

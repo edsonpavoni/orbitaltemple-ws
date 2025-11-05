@@ -1,0 +1,13 @@
+{
+  "title": "Bí ar an Eolas - Teampall Fithiseach",
+  "heading": "Cuir in iúl duit nuair a ardaíonn sé",
+  "description": "Ar an 28 Samhain, 2025, rachaidh an Teampall Fithiseach suas.<br> Fág do r-phost, agus cuirfimid in iúl duit cathain a shroicheann sé an spás.",
+  "form": {
+    "emailPlaceholder": "do@ríomhphost.com",
+    "sendButton": "Seol",
+    "sendingButton": "Ag seoladh...",
+    "successMessage": "Sroichfimid thú nuair a ardóidh sé.",
+    "errorMessage": "Chuaigh rud éigin mícheart. Déan iarracht arís."
+  },
+  "backLink": "← Ar ais chuig an gcomhaireamh síos"
+}

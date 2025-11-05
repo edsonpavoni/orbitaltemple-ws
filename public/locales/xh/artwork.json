@@ -1,0 +1,31 @@
+{
+  "title": "Umzobo-iTempile ye-Orbital",
+  "heading": "Umsebenzi wobugcisa",
+  "intro": {
+    "paragraph1": "ITempile ye-Orbital yisathelayithi enomsebenzi wobugcisa: isikhumbuzo esisemajukujukwini esivuleleke kuye wonke umntu onesivakalisi ohlala okanye okhe wahlala eMhlabeni.",
+    "paragraph2": "Ngeendlela zobuchwepheshe, nabani na angathumela igama lomntu endlwini kaThixo, nokuba ngowafayo, umntu ophilayo kakhulu, okanye nawuphi na umntu ofanele ukukhunjulwa."
+  },
+  "sculpture": {
+    "heading": "Umfanekiso oqingqiweyo",
+    "paragraph1": "Umsebenzi wobugcisa unezinto ezintathu ezixhomekeke kuzo: isathelayithi eyilelwe ngokukhethekileyo ukugcina iibhiliyoni zamagama; umfanekiso oqingqiweyo kawonke-wonke otshintshisa ngesathelayithi; kunye newebhusayithi apho abathathi-nxaxheba bathumela amagama, ukususela ngoku kude kube bayadlula, ezulwini.",
+    "paragraph2": "Njengomzamo wezinto ezininzi, iTempile ye-Orbital inokuthathwa njengomfanekiso oqingqiweyo wesayithi, indawo yokuhlala. Ikwayiprojekthi ye-Artat."
+  },
+  "antenna": {
+    "heading": "I-Antenna njengoMfanekiso kawonke-wonke",
+    "paragraph1": "I-eriyali esidibanisa nesithuba esingaphandle.",
+    "paragraph2": "I-eriyali eya kuba kunxibelelwano oluthe ngqo kunye nesathelayithi ye-orbital iyayilwa.",
+    "paragraph3": "Ngomphezulu okhanyayo wegolide, obonisa isibhakabhaka ngaphezulu kwawo, sisiqalo sokuvuselela ubunzima (okanye ubudlelwane bethu kwinto 'ephezulu phaya').",
+    "paragraph4": "Ngelixa imifanekiso eqingqiweyo ingafakwanga kwiindawo ezininzi zehlabathi, iiFrames zethu ezisuka eMhlabeni, ezilawula isathelayithi ngoku, zithumela amagama kwindawo nganye yokudlula.",
+    "paragraph5": "Nceda uzise lo mbono kwisixeko sakho-ukufaka imifanekiso eqingqiweyo ye-eriyali ekhuthaza iincoko malunga nokuphononongwa kwendawo, ubugcisa, kunye nendawo yethu ekwabelwana ngayo kwi-cosmos. <a href=\"/support\">Funda ngakumbi malunga nokuxhasa iprojekthi</a> ."
+  },
+  "imageAlts": {
+    "satellite": "ISathelayithi yeTempile yeOrbital",
+    "riseNy": "Itempile ye-Orbital eRise NY",
+    "installation": "Itempile ye-Orbital nguClara Marques",
+    "antenna": "I-Antenna yeTempile ye-Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Itempile ye-Orbital esithubeni. Unikezelo lwe3D yiRiseNY&Partners.",
+    "mercosul": "Ukufakwa kweTempile ye-Orbital kwiMercosul Biennial, ePorto Alegre, eBrazil.<br> Ifoto nguClara Marques."
+  }
+}

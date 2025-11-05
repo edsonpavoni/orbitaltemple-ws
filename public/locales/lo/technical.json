@@ -1,0 +1,17 @@
+{
+  "title": "ຂໍ້ມູນດ້ານວິຊາການ - ວັດ Orbital",
+  "heading": "ຂໍ້ມູນດ້ານວິຊາການ",
+  "satellite": {
+    "heading": "ດາວທຽມ",
+    "specs": "ຂະຫນາດ: 50x58x64 mm<br /> 1P PocketQube<br /> ນ້ໍາຫນັກ: 245g<br /> ວັດສະດຸ: ອາລູມິນຽມ, ຄໍາ, fiberglass, ແລະອົງປະກອບເອເລັກໂຕຣນິກ.<br /> ວົງໂຄຈອນ: ລະດັບຄວາມສູງ 525 ± 25 ກິໂລແມັດ; inclination: SSO 97.6 ± 0.1°<br /> Launcher: PSLV (ຍານຍົນສົ່ງດາວທຽມ Polar) ດໍາເນີນການໂດຍ ISRO"
+  },
+  "antenna": {
+    "heading": "ເສົາອາກາດ/ຮູບປັ້ນ",
+    "specs": "ຂະໜາດ: 6 m (ເສັ້ນຜ່າສູນກາງ) ແລະ 1.2m (ສູງ)<br /> ນ້ໍາຫນັກ: 46 kg<br /> ວັດສະດຸ: ອາລູມິນຽມ, ກະຈົກ epoxy mirrored, ອາລູມິນຽມສີທອງ dome ໂຈະຜ່ານໂຄງສ້າງ scaffolding."
+  },
+  "radio": {
+    "heading": "ສະ​ເພາະ​ວິ​ທະ​ຍຸ​",
+    "specs": "Downlink: 468.5 MHz<br /> Modulation: CSS<br /> ແບນວິດ: TBD"
+  },
+  "imageAlt": "ດາວທຽມວັດ Orbital"
+}

@@ -5,14 +5,8 @@ import { SUPPORTED_LANGUAGES, isRTL } from '../lib/i18n';
 export default function LanguageSwitcher() {
   const { i18n } = useTranslation();
 
-  // All 31 languages are now fully translated via Google Cloud Translation API
-  const TRANSLATED_LANGS = [
-    'ar', 'bg', 'cs', 'da', 'de', 'el', 'en', 'es', 'et', 'fi',
-    'fr', 'hi', 'hu', 'id', 'it', 'ja', 'ko', 'lt', 'lv', 'nb',
-    'nl', 'pl', 'pt', 'pt-BR', 'ro', 'ru', 'sk', 'sl', 'sv', 'tr', 'uk', 'zh'
-  ];
-
-  // All languages in SUPPORTED_LANGUAGES are now translated
+  // All 136 languages are now fully translated via Google Cloud Translation API
+  // All languages in SUPPORTED_LANGUAGES are translated and available
   const translatedLanguages = SUPPORTED_LANGUAGES;
 
   // Set default language to English if none is set
@@ -109,7 +103,7 @@ export default function LanguageSwitcher() {
         textAlign: 'center',
         width: '100%',
       }}>
-        31 languages available
+        136 languages available
       </div>
     </div>
   );

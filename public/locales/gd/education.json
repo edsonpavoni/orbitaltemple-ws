@@ -1,0 +1,43 @@
+{
+  "title": "Foghlam & Stòr Fosgailte - Teampall Orbital",
+  "heading": "Foghlam & Stòr Fosgailte",
+  "intro": {
+    "paragraph1": "Bidh a h-uile teicneòlas a thèid a leasachadh airson misean Teampall Orbital <strong>fosgailte</strong> agus ri fhaighinn air-loidhne ann am <strong>Portagailis</strong> , <strong>Beurla</strong> , <strong>Spàinntis</strong> agus <strong>Hindi</strong> , a’ brosnachadh adhartas rannsachadh fànais ann an <strong>Ceann a Deas na Cruinne</strong> . Faodaidh miseanan agus pròiseactan ùra Teampall Orbital a chleachdadh mar bhunait airson na deuchainnean ealanta no saidheansail aca fhèin.",
+    "paragraph2": "Mar phàirt den mhisean foghlaim aige, bidh Orbital Temple a’ tabhann cùrsa ioma-chànanach an-asgaidh air mar a thogas agus a chuireas tu saideal air bhog. Bidh e na chothrom practaigeach ionnsachadh mu theicneòlas saideal agus a chur an gnìomh. Bidh e comasach dha duine sam bith os cionn aois <strong>16</strong> an saideal aca fhèin a thogail, ag ionnsachadh mu eachdraidh ealain ann am fànais, bun-bheachdan eileagtronaigeach, meacanaig agus saidheans fànais, a’ gabhail a-steach mar a mhaoinicheas tu pròiseactan agus mar a thogas tu antenna gus conaltradh le saidealan ann an orbit."
+  },
+  "spaceGap": {
+    "heading": "Carson a tha seo cudromach: Am Beàrn Fànais",
+    "paragraph1": "Tha am facal <strong>&quot;Beàrn Fànais&quot;</strong> a&#39; toirt iomradh air a&#39; bheàrn eadar dùthchannan leasaichte aig a bheil cothrom air na cothroman teicneòlais a gheibhear tro rannsachadh fànais, agus dùthchannan fo leasachadh aig nach eil cothrom air na teicneòlasan sin. Feumaidh dùthchannan ann an Ceann a Deas na Cruinne suimean mòra a phàigheadh do riaghaltasan no companaidhean cèin airson cothrom bunaiteach fhaighinn air fiosrachadh a thèid a thoirt gu buil le teicneòlasan saideal.",
+    "paragraph2": "Tha teicneòlas fànais a’ toirt seachad buannachdan deatamach: bidh saidealan a’ cuideachadh le bhith a’ sabaid an aghaidh logadh mì-laghail, iasgach mì-laghail, agus malairt mì-laghail fiadh-bheatha, a tha a’ riochdachadh còrr air <strong>$73 billean sa bhliadhna</strong> . Bidh iad a’ toirt seachad fiosrachadh riatanach mu ghnàth-shìde, cinneasachadh uisge, agus tèarainteachd bìdh. Bidh saidealan a’ comasachadh uisgeachadh mionaideach agus dòighean àiteachais, agus a’ cuideachadh le casg a chuir air mòr-thubaistean nàdurrach. Dh’ fhaodadh gnìomhachas an fhànais suas ri <strong>1 millean obair</strong> a chruthachadh ro <strong>2030</strong> , ach tha na cothroman sin fhathast do-ruigsinneach do mhòran ann an Ceann a Deas na Cruinne.",
+    "paragraph3": "Le bhith a’ toirt seachad teicneòlas agus foghlam stòr fosgailte, tha sinn ag amas air ruigsinneachd gu fànais a dhèanamh nas deamocrataiche agus ginealach ùr a chumhachdachadh gus bruadar nas fhaide na na speuran."
+  },
+  "empowering": {
+    "heading": "A’ toirt cumhachd don ath ghinealach",
+    "intro": "Bidh sinn a’ teagasg don ath ghinealach de luchd-rannsachaidh fànais mar a thogas agus a chuireas iad air bhog na saidealan aca fhèin, a’ còmhdach chuspairean riatanach a’ gabhail a-steach:",
+    "topics": {
+      "history": "<strong>Eachdraidh ealain san fhànais:</strong> A’ tuigsinn loidhne-tìre nan saidealan ealanta agus obraichean ealain stèidhichte san fhànais.",
+      "concepts": "<strong>Bun-bheachdan:</strong> <strong>ArtSat</strong> (saidealan ealanta), teicneòlas fànais <strong>Stòr Fosgailte</strong> , agus am <strong>Beàrn Fànais</strong> .",
+      "missions": "<strong>Miseanan fànais:</strong> Mar a smaoinicheas agus a dhealbhaicheas tu misean, agus mar a chruthaicheas tu sgioba gus a choileanadh.",
+      "electronics": "<strong>Eileagtronaig san fhànais:</strong> Bun-bheachdan mu phàirtean eileagtronaigeach as urrainn mairsinn agus obrachadh san àrainneachd fànais.",
+      "mechanics": "<strong>Meacanaig ann am fànais:</strong> A’ tuigsinn nan riatanasan structarail is meacanaigeach airson dealbhadh saideal.",
+      "orbits": "<strong>Orbitan agus lannsairean:</strong> Diofar sheòrsaichean orbitan agus mar a thaghas tu solaraichean lannsair airson do mhisean.",
+      "financing": "<strong>Ro-innleachdan maoineachaidh:</strong> Mar a gheibh thu maoineachadh agus goireasan gus an saideal agad a chuir air bhog. Bheir a’ chùrsa goireasan dhut airson maoineachadh fhaighinn airson do chur air bhog, a’ cuideachadh oileanaich gus prògraman agus tabhartasan a lorg bho ionadan eadar-nàiseanta a tha a’ toirt taic do luchd-saidheans òga agus oileanaich ann a bhith a’ cur an saidealan a-mach don fhànais.",
+      "groundStation": "<strong>Leasachadh stèisean talmhainn:</strong> Mar a thogas tu antenna gus conaltradh a dhèanamh ris an Orbital Teampall agus saidealan eile."
+    }
+  },
+  "technology": {
+    "heading": "An Teicneòlas: Saidealan PocketQube",
+    "paragraph1": "Ionnsaichidh oileanaich mar a dh’obraicheas iad le saidealan <strong>PocketQube</strong> , nano-saideal àbhaisteach a tha dìreach <strong>5cm³</strong> a dh’fhaid agus suas ri <strong>250g</strong> a chuideam. A dh’aindeoin cho beag ‘s a tha iad, tha PocketQubes nan innealan cumhachdach a tha comasach air amharc air an Talamh, sgrùdadh a dhèanamh air, agus conaltradh a dhèanamh.",
+    "paragraph2": "Tha iomadh cleachdadh aig na saidealan beaga seo san t-saoghal fhìor, bho rannsachadh saidheansail air atharrachadh clìomaid gu conaltradh eadar-roinneil. Leis gu bheil iad nas lugha agus nas aotroime, tha iad nas saoire an togail agus an cur air bhog, a’ dèanamh an fhànais nas ruigsinniche do dh’ oileanaich, luchd-rannsachaidh agus luchd-ealain air feadh an t-saoghail."
+  },
+  "globalAccess": {
+    "heading": "Ruigsinneachd Chruinneil, a’ tòiseachadh bhon taobh a deas cruinneil",
+    "paragraph1": "Bidh an cùrsa ri fhaotainn do dhuine sam bith <strong>16 bliadhna a dh&#39;aois no nas sine</strong> , gu tur <strong>an-asgaidh</strong> . Tha sinn a’ tòiseachadh le susbaint ann am <strong>Portagailis</strong> , <strong>Spàinntis</strong> , <strong>Beurla</strong> agus <strong>Hindi</strong> , le planaichean airson leudachadh gu cànanan a bharrachd mar a bhios am prògram a’ fàs.",
+    "paragraph2": "Tha ar misean a’ tòiseachadh anns an taobh a deas den t-saoghal agus a’ leudachadh chun t-saoghail, a’ dèanamh cinnteach gum bi an ath ghinealach de luchd-rannsachaidh fànais a’ tighinn bho gach ceàrnaidh den Talamh."
+  },
+  "callToAction": {
+    "heading": "Cuidich sinn gus seo a dhèanamh",
+    "content": "Tha am prògram foghlaim seo ga leasachadh an-dràsta. Tha sinn a’ sireadh chom-pàirtichean agus luchd-tabhartais a tha a’ roinn ar lèirsinn airson ruigsinneachd deamocratach a thoirt do theicneòlas fànais. Ma tha thu fhèin no do bhuidheann airson taic a thoirt don iomairt seo, tadhail air <a href=\"/support\">an duilleag taic</a> againn gus ionnsachadh mu chothroman com-pàirteachais."
+  },
+  "imageAlt": "Saideal Teampall Orbital"
+}
