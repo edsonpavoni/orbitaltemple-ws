@@ -44,3 +44,7 @@ functions/service-account-key.json
 # Temporary files
 *.tmp
 *.temp
+
+# Sensitive data files
+*.csv
+names_e-mails_*.csv
