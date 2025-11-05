@@ -1,0 +1,77 @@
+{
+  "title": "Kosmosekunsti lühiajalugu - Orbitaaltempel",
+  "heading": "Kosmosekunsti lühiajalugu",
+  "intro": "Alates esimesest edukast tehiskaaslase stardist <strong>1957.</strong> aastal on Maa orbiidile tõusnud üle kümne tuhande satelliidi. Sellel uuel ajastul on kunstnikud leidnud viisi oma praktika laiendamiseks ja kosmosest on saanud uut tüüpi lõuend. Sellega on tekkinud põhimõttelisi küsimusi kosmoseuuringute poliitika kohta – kuigi palju on veel lahti seletamata.",
+  "sections": {
+    "leonov": {
+      "text": "Esimene kosmoses loodud kunstiteos oli joonistus Maa kohal tõusvast päikesest, mille tegi Vene astronaut <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Aleksei Leonov</a></strong> <strong>1965.</strong> aastal Voshod 2 pardal.",
+      "caption": "Esimene kosmoses loodud kunstiteos ja pliiatsid, millega Aleksei Leonov selle joonistas. Foto: Juri Gagarini nimelise kosmonautide väljaõppekeskuse muuseum"
+    },
+    "moonMuseum": {
+      "paragraph1": "Kolm aastat hiljem maandus <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Kuu muuseumis</a></strong> Kuule pisike keraamiline taldrik, millel olid kuue tolleaegse USA silmapaistvaima kunstniku – <strong>Robert Rauschenbergi</strong> , <strong>David Novrose</strong> , <strong>John Chamberlaini</strong> , <strong>Claes Oldenburgi</strong> , <strong>Forrest Myersi</strong> ja <strong>Andy Warholi</strong> – kirjad.",
+      "caption1": "Kuumuuseumi pilt New York Timesi originaalartiklist. Pöial varjab Warholi joonistust.",
+      "paragraph2": "Warholi provokatiivne panus – üleval vasakul – muutis selle projekti tolleaegsetele kommunikatsioonimeediatele väljakutseks.",
+      "caption2": "Pilt, mille New York Times otsustas avaldada, kus allpool on näha kunstiteos ja vasakus ülanurgas Andy Warholi joonistus."
+    },
+    "fallenAstronaut": {
+      "text": "<strong>1971.</strong> aastal asetas Apollo 15 astronaut <strong>David Scott</strong> Kuule väikese humanoidse alumiiniumskulptuuri nimega <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Langenud astronaut&quot;</a></strong> . Belgia kunstnik <strong>Paul Van Hoeydonck</strong> soovis selle teosega mälestada kosmoseuuringute edendamise käigus hukkunud astronaute ja kosmonaute.",
+      "caption": "Vaade mälestustahvlile, mis on jäetud Kuule Hadley-Apennine'i maandumispaigas."
+    },
+    "pioneerVoyager": {
+      "text": "<strong>1970. aastatel</strong> lõid nii <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> kui ka <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> kosmosekunstile uusi horisonte. Kandes kullatud anodeeritud alumiiniumist tahvleid Maalt pärit visuaalsete sõnumitega teistele kosmoseränduritele, kes võiksid selle kauges tulevikus leida, kujutasid nad inimelu selle kõige põhilisemates elementides.",
+      "caption": "Pioneer 10 ja 11 tahvlid, mis viidi 1970. aastatel sügavasse kosmosesse."
+    },
+    "dove": {
+      "text": "<strong>1990.</strong> aastal jättis Brasiilia sellele territooriumile oma jälje <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17-</a></strong> ga, mis oli geniaalne ja poeetilise jõuga amatöörsatelliit. Kuigi selle looja ei pidanud end kunstnikuks, oli see sügavalt poeetiline ettevõtmine: see salvestas laste hääli, mis palusid rahu, ja edastas neid enam kui kahele tuhandele raadioamatöörile üle maailma, muutes teedrajava CubeSat-satelliidi kollektiivseks heliteoseks.",
+      "caption": "DOVE/OSCAR-17, Brasiilia poeetiline satelliit, mis edastab laste hääli rahu nimel, 1990."
+    },
+    "lastPictures": {
+      "text": "<strong>2012.</strong> aastal lansseeris kunstnik <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> geostatsionaarsel orbiidil oleva Echostar XVI sidesatelliidi külge kinnitatud mikrograveeritud ketta <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Viimased pildid” („The Last Pictures”)</a></strong> , mis sisaldab 100 fotot. See on loodud vastu pidama miljardeid aastaid ja arheoloogilise artefaktina kauges tulevikus inimtsivilisatsioonist kauem.",
+      "caption": "2012. aastal ilmus mikrograveeritud plaat „Viimased pildid”, mis on loodud inimkonnast kauem vastu pidama."
+    },
+    "ulises": {
+      "text": "<strong>2015.</strong> aastal saatis <strong>Colectivo Espacial Mexicano</strong> (Mehhiko Kosmosekollektiiv) orbiidile nanosatelliidi <strong>Ulises I</strong> , mis oli kunstnik <strong>Juan José Díaz Infante Casasúsi</strong> juhtimisel kontseptuaalse ooperina loodud. Satelliit viidi stratosfääri õhupalliga Guadalajara kirjandusfestivali (Feria del Libro de Guadalajara) ajal. See oli kavandatud plahvatama umbes nelja tunni möödudes ja laskuma langevarjuga.",
+      "caption": "Ulises I, Colectivo Espacial Mexicano kontseptuaalne satelliitooper."
+    },
+    "artsat": {
+      "text": "Esimene puhtalt kunstiline satelliit saadeti orbiidile alles <strong>2014. aastal</strong> . Tokyo Ülikooli <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> projekt saatis Maale ruumiandmeid, mida kasutati kunstiinstallatsioonides ja muusika loomisel.",
+      "caption1": "ARTSAT-1 Invaderi raamistik ja varuosad, mis jäid Maale.",
+      "caption2": "missioon [RUUM x KUNST] − näitus „Beyond Cosmologies” Tokyo kaasaegse kunsti muuseumis"
+    },
+    "kac": {
+      "text": "Brasiilia ja Ameerika nüüdiskunstnik <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> on panustanud kosmosekunsti koostöö kaudu <strong>NASA</strong> ja <strong>SpaceX-iga</strong> . Tema skulptuur <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Inner Telescope&quot;</a></strong> ( <strong>2017</strong> ), mille ta lõi koos prantsuse astronaudi <strong>Thomas Pesquet&#39;ga</strong> , valmis <strong>Rahvusvahelises Kosmosejaamas</strong> .",
+      "caption": "Rahvusvahelise Kosmosejaama siseteleskoop, mille lõid prantsuse astronaudi Thomas Pesquet'ga 2017. aastal."
+    },
+    "enoch": {
+      "text": "<strong>2018.</strong> aastal saadeti orbiidile kunstiprojektina ehitatud passiivne CubeSat. Bahama kontseptuaalse kunstniku <strong>Tavares Strachani</strong> loodud <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enochis</a></strong> asub 24-karaadine kullast kanopiline purk, millel on esimese afroameerika astronaudi <strong>Robert Henry Lawrence Jr.</strong> büst.",
+      "caption": "ENOCH (ekspositsiooniüksus), 2015–2017. ⓒ Tavares Strachan, foto ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Samal aastal esitleti ka <strong>Trevor Pagleni</strong> <strong>orbitaalreflektorit</strong> skulptuurina, mis asus mittefunktsionaalses CubeSat-sahtlis. Teos oli kunstiline žest, mille eesmärk oli muuta meie arusaama oma kohast maailmas. Seda ei kasutatud õigesti. Kuigi see ei avanenud kunagi kavandatud viisil, tekitas see olulisi vestlusi ja sai kirglikke vastukajasid astronoomide, teadlaste, meediaväljaannete, haridustöötajate, õpilaste ja laiema avalikkuse seas kogu maailmas, näidates, et edukas kunst ei pea olema tehniliselt edukas.",
+      "caption": "Orbitaalreflektorist digitaalne renderdus, 2018"
+    },
+    "others": {
+      "text": "Kosmosekunsti valdkonda on panustanud paljud teised kunstnikud, igaüks oma uurimistöösse ainulaadse vaatenurga toonud. Märkimisväärsete projektide hulka kuuluvad <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pelli</a></strong> astronaudikunstniku uurimus, mis uurib inimese sooritusvõimet äärmuslikes keskkondades; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandise</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> projekt, mis uurib ajaloolisi ja kaasaegseid kosmoseuuringute narratiive; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahumi</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> programm, mis hõlbustab kunstilisi mikrogravitatsioonikatseid; ja <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthur Woodsi</a></strong> skulptuur <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Kosmiline tantsija“</a></strong> , mis oli esimene skulptuur, mida eksponeeriti kosmoses Miri jaamas 1993. aastal."
+    },
+    "orbitalTemple": {
+      "text": "Pärast nelja-aastast uurimis- ja arendustegevust saadavad Brasiilia kunstnik <strong>Edson Pavoni</strong> koos multidistsiplinaarse kaastöötajate rühmaga <strong>2025. aastal</strong> orbiidile <strong>Orbital Temple&#39;i</strong> , osaluspõhise kunstisatelliidi, mis kutsub kõiki maailmas üles saatma orbiidile nimesid, luues radikaalselt kaasava ja piiriülese mälestusmärgi.",
+      "caption": "Orbitaaltempel Mercosuli bienaalil. Foto: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Aleksei Leonovi joonistus ja pliiatsid",
+    "moonMuseum": "Kuumuuseumi keraamiline vahvel",
+    "moonMuseumWarhol": "Kuumuuseumi keraamiline vahvel, kus on näha kõik kunstiteosed",
+    "fallenAstronaut": "Langenud astronaudi mälestusmärk Kuul",
+    "pioneerPlaques": "Pioneeride tahvlid",
+    "dove": "WHERE/OSCAR-17 satelliit",
+    "lastPictures": "Plaat \"Viimased pildid\"",
+    "ulises": "Ulises I satelliit",
+    "artsatInvader": "ARTSAT-1 Invader satelliidi struktuur",
+    "artsatArt": "ARTSAT-1 andmetest loodud kunstiteos",
+    "innerTelescope": "Eduardo Kaci sisemine teleskoop",
+    "enoch": "Tavares Strachani ENOCH-i väljapanekuüksus",
+    "orbitalReflector": "Trevor Pagleni orbitaalreflektor",
+    "orbitalTemple": "Orbitaalse Templi satelliit"
+  }
+}

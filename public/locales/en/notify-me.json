@@ -1,0 +1,13 @@
+{
+  "title": "Be Notified - Orbital Temple",
+  "heading": "Be Notified When It Rises",
+  "description": "On November 28, 2025, the Orbital Temple will ascend.<br>Leave your e-mail, and we will tell you when it reaches space.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Send",
+    "sendingButton": "Sending...",
+    "successMessage": "We will reach you when it ascends.",
+    "errorMessage": "Something went wrong. Please try again."
+  },
+  "backLink": "← Back to countdown"
+}

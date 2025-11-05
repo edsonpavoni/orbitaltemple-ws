@@ -1,0 +1,17 @@
+{
+  "title": "Techninė informacija – Orbitinė šventykla",
+  "heading": "Techninė informacija",
+  "satellite": {
+    "heading": "Palydovas",
+    "specs": "Matmenys: 50 x 58 x 64 mm<br /> 1P PocketQube<br /> Svoris: 245 g<br /> Medžiagos: aliuminis, auksas, stiklo pluoštas ir elektroniniai komponentai.<br /> Orbita: Aukštis 525 ± 25 km; polinkis: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena / Skulptūra",
+    "specs": "Matmenys: 6 m (skersmuo) ir 1,2 m (aukštis)<br /> Svoris: 46 kg<br /> Medžiagos: aliuminis, epoksidinė veidrodinė plokštė, auksinis aliuminio kupolas, pakabintas ant pastolių konstrukcijos."
+  },
+  "radio": {
+    "heading": "Radijo specifikacijos NASA kataloge:",
+    "specs": "Atsisiuntimo dažnis: 437 MHz<br /> Kvietimas: Statusas: TVARKARAŠTIS 2025 M."
+  },
+  "imageAlt": "Techninės informacijos diagrama"
+}

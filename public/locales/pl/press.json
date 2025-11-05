@@ -1,0 +1,138 @@
+{
+  "title": "Prasa i media - Orbital Temple",
+  "heading": "Prasa i media",
+  "pressContact": {
+    "heading": "Kontakt dla prasy",
+    "content": "W sprawie zapytań prasowych, wywiadów i próśb mediów:<br /> <strong>E-mail:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Strona internetowa:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "O projekcie",
+    "paragraph1": "Orbital Temple to dzieło sztuki i satelita, którego celem jest stworzenie radykalnie inkluzywnej świątyni, zbudowanej tam, gdzie nie sięgają żadne ściany. Stworzony przez brazylijskiego artystę Edsona Pavoniego, twórcę Pomnika Inumeráveis, który dotarł do co szóstego Brazylijczyka podczas pandemii COVID-19, projekt zachęca ludzi z całego świata do przesłania imienia osoby, którą chcą upamiętnić. Imiona te są przesyłane do satelity na orbicie, tworząc zbiorowy pomnik.",
+    "paragraph2": "Za pośrednictwem strony internetowej dostępnej w 246 językach, uczestnicy angażują się w nowy rodzaj rytuału. Orbital Temple zgłębia tematykę inkluzywności, pamięci i naszego wspólnego człowieczeństwa, zastanawiając się, dlaczego żadna fizyczna świątynia na Ziemi nie jest w stanie prawdziwie przyjąć wszystkich, i proponując przestrzeń kosmiczną jako jedyne miejsce, w którym może zaistnieć radykalna inkluzywność."
+  },
+  "aboutArtist": {
+    "heading": "O artyście",
+    "paragraph1": "<strong>Edson Pavoni</strong> to brazylijski artysta, którego podróż rozpoczęła się na ulicach São Paulo, gdzie kontekst ubóstwa i przemocy ukształtował jego wczesne lata. W kraju, gdzie chrześcijaństwo oferowało drogę ucieczki od ulic, narkotyków i przemocy, Pavoni znalazł schronienie w wierze – motyw, który później, gdy stał się krytykiem nadużyć religijnych, wpłynął na jego praktykę artystyczną.",
+    "paragraph2": "W 2020 roku, podczas pandemii COVID-19, Pavoni stworzyła <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (niezliczone)</a></strong> , dzieło sztuki na styku sztuki i dziennikarstwa. W ramach projektu przeprowadzono wywiady z tysiącami rodzin i spisano historie osób utraconych w wyniku pandemii, tworząc przestrzeń, w której pamięć wykraczała poza liczby i statystyki. Na podstawie tych historii powstały wiersze, piosenki i symfonie. Gazety tworzyły okładki, używając nazwisk i historii. Wszystkie brazylijskie gwiazdy, takie jak zdobywczyni Oscara Fernanda Torres, i gwiazdy takie jak Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo i Lazaro Ramos, i tak wielu innych przeczytało te historie w telewizji krajowej. Projekt dotarł do 32 milionów ludzi, co stanowi co czwartego dorosłego Brazylijczyka. Stał się siecią uzdrawiania, zbiorowym pomnikiem pamięci.",
+    "paragraph3": "Po ponad dziesięciu tysiącach rozmów o żałobie wyłonił się pewien schemat: kiedy mówimy o kimś, kto zmarł, wybieramy fragmenty jego historii, jakbyśmy pisali list polecający do strażnika raju. Robimy, co w naszej mocy, by wysłać go do tego, co naszym zdaniem jest niebem. Ta praca zapoczątkowała nowe zrozumienie: nasze przekonania o tym, kto zasługuje na niebo, bezpośrednio kształtują to, kogo akceptujemy lub wykluczamy na Ziemi. Portugalscy kolonizatorzy w Brazylii wierzyli, że czarnoskórzy ludzie nie mają duszy; to przekonanie usprawiedliwiało niewolnictwo. Jeśli byłeś rdzennym mieszkańcem, urodziłeś się w niewłaściwym miejscu lub kochałeś niewłaściwą osobę, do dziś słyszysz, że bramy nieba są dla ciebie zamknięte. Czy istnieje wizja przyszłości, której nie wypełnia odrzucenie?",
+    "paragraph4": "Tak narodziło się Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Najważniejsze fakty",
+    "artist": "<strong>Artysta:</strong> Edson Pavoni (Brazylia)",
+    "projectType": "<strong>Typ projektu:</strong> Dzieło sztuki satelitarnej, site-specific w przestrzeni kosmicznej, rytuał internetowy",
+    "launchDate": "<strong>Data premiery:</strong> 28 listopada 2025 r.",
+    "launchLocation": "<strong>Miejsce startu:</strong> Centrum Kosmiczne Satish Dhawan, Sriharikota, Indie (ISRO)",
+    "satellite": "<strong>Satelita:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbita:</strong> wysokość 525 km, synchroniczna ze Słońcem",
+    "participation": "<strong>Udział:</strong> bezpłatny, otwarty dla wszystkich na całym świecie",
+    "namesSent": {
+      "heading": "<strong>Nazwy wysłane na orbitę:</strong>",
+      "caption": "<em>Aktualizowany stan na żywo z bazy danych • Ostatnia aktualizacja: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Nagrody i uznanie",
+    "mercosul": {
+      "title": "<strong>13. Biennale Mercosur</strong> (2022)",
+      "location": "Porto Alegre, Brazylia",
+      "curator": "Kurator: Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Nagroda Lumen 2022 – Nagroda Futures</strong>",
+      "status": "Na długiej liście"
+    },
+    "cubeDesign": {
+      "title": "<strong>Konkurs CubeDesign 2021</strong>",
+      "award": "Zwycięzca – kategoria ArtSat",
+      "org": "Promowane przez Brazylijski Instytut Badań Kosmicznych (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Zespół",
+    "content": "Orbital Temple powstaje we współpracy z Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace i wszyscy, którzy nadal proponują nazwy tej świątyni."
+  },
+  "pressCoverage": {
+    "heading": "Polecane w / Relacje prasowe",
+    "paragraph1": "<em>Relacje prasowe i artykuły będą dodawane w miarę ich pojawiania się. Aby uzyskać najnowsze informacje, prosimy o kontakt z naszym zespołem prasowym.</em>",
+    "paragraph2": "Wśród poprzednich wystaw i wydarzeń znalazły się prezentacje na 13. Biennale w Mercosul, wyróżnienie w ramach Nagrody Lumen oraz wybór Brazylijskiego Instytutu Badań Kosmicznych (INPE)."
+  },
+  "images": {
+    "heading": "Obrazy w wysokiej rozdzielczości do użytku prasowego",
+    "intro": "Wszystkie zdjęcia są dostępne do użytku redakcyjnego. Kliknij dowolne zdjęcie, aby pobrać plik w wysokiej rozdzielczości.",
+    "installationPhotos": {
+      "heading": "Zdjęcia Świątyni Orbitalnej",
+      "credit": "Proszę podać źródło: „Zdjęcie Clary Marques / dzięki uprzejmości Edsona Pavoniego, Orbital Temple”",
+      "view01": "Widok instalacji 01<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (1,4 MB)",
+      "view02": "Widok instalacji 02<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (2,9 MB)",
+      "view03": "Widok instalacji 03<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (11 MB)",
+      "view04": "Widok instalacji 04<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (3,4 MB)",
+      "view05": "Widok instalacji 05<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (3,3 MB)",
+      "view06": "Widok instalacji 06<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (3,7 MB)",
+      "view07": "Widok instalacji 07<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (3,4 MB)",
+      "view08": "Widok instalacji 08<br /> Zdjęcie: Clara Marques<br /> ↓ Pobierz w wysokiej rozdzielczości (2,7 MB)",
+      "satelliteDesign": "Projektowanie satelitów<br /> ↓ Pobierz",
+      "antennaSculpture": "Antena/Rzeźba<br /> ↓ Pobierz"
+    },
+    "renders": {
+      "heading": "Wizualizacja Świątyni Orbitalnej",
+      "credit": "Koncepcyjne wizualizacje 3D Orbital Temple. Źródło: „3D Rendering by RiseNY&Partners / dzięki uprzejmości Edsona Pavoniego, Orbital Temple”.",
+      "render01": "Renderowanie 3D 01<br /> RiseNY&amp;Partners<br /> ↓ Pobierz w wysokiej rozdzielczości (10 MB)",
+      "render02": "Renderowanie 3D 02<br /> RiseNY&amp;Partners<br /> ↓ Pobierz w wysokiej rozdzielczości (5,9 MB)",
+      "render03": "Renderowanie 3D 03<br /> RiseNY&amp;Partners<br /> ↓ Pobierz w wysokiej rozdzielczości (5,2 MB)",
+      "render04": "Renderowanie 3D 04<br /> RiseNY&amp;Partners<br /> ↓ Pobierz w wysokiej rozdzielczości (11 MB)",
+      "render05": "Renderowanie 3D 05<br /> RiseNY&amp;Partners<br /> ↓ Pobierz w wysokiej rozdzielczości (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Zdjęcia artysty",
+      "photo1": "Zdjęcie 1<br /> ↓ Pobierz w wysokiej rozdzielczości",
+      "photo2": "Zdjęcie 2<br /> ↓ Pobierz w wysokiej rozdzielczości"
+    },
+    "sathiPhotos": {
+      "heading": "Zdjęcia Sathi Roy",
+      "photo1": "Zdjęcie 1<br /> ↓ Pobierz w wysokiej rozdzielczości (843 KB)",
+      "photo2": "Zdjęcie 2<br /> ↓ Pobierz w wysokiej rozdzielczości (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Dane techniczne",
+    "satellite": {
+      "heading": "Satelita",
+      "dimensions": "Wymiary: 50 x 58 x 64 mm",
+      "classification": "Klasyfikacja: 1P PocketQube",
+      "weight": "Waga: 245 g",
+      "materials": "Materiały: aluminium, złoto, włókno szklane, elementy elektroniczne",
+      "orbit": "Orbita: wysokość 525 ± 25 km; nachylenie: SSO 97,6 ± 0,1°",
+      "launch": "Premiera: 28 listopada 2025 r. za pośrednictwem ISRO, Indie"
+    },
+    "antenna": {
+      "heading": "Antena/Rzeźba",
+      "dimensions": "Wymiary: 6 m średnicy x 1,2 m wysokości",
+      "weight": "Waga: 46 kg",
+      "materials": "Materiały: aluminium, płyta lustrzana z żywicy epoksydowej, złota kopuła aluminiowa zawieszona na konstrukcji rusztowania"
+    },
+    "radio": {
+      "heading": "Specyfikacje radiowe",
+      "downlink": "Łącze w dół: 437 MHz",
+      "status": "Status startu: Planowany na 28 listopada 2025 r."
+    }
+  },
+  "additionalResources": {
+    "heading": "Dodatkowe zasoby",
+    "artwork": "→ Zobacz dokumentację dzieła sztuki",
+    "howItWorks": "→ Jak to działa",
+    "technicalInfo": "→ Informacje techniczne",
+    "spaceLaunch": "→ Informacje o starcie w kosmos",
+    "ritual": "→ Przeżyj rytuał"
+  },
+  "imageAlts": {
+    "installation": "Instalacja Świątyni Orbitalnej autorstwa Edsona Pavoniego",
+    "satelliteDesign": "Projekt satelity Orbital Temple",
+    "antenna": "Rzeźba antenowa świątyni orbitalnej",
+    "render": "Wizualizacja 3D Świątyni Orbitalnej autorstwa RiseNY&Partners",
+    "edsonPortrait": "Portret Edsona Pavoniego",
+    "sathiPortrait": "Portret Sathi Roya",
+    "lumenPrize": "Nagroda Lumen",
+    "mercosulBienal": "Dwuletnie Mercosur"
+  }
+}

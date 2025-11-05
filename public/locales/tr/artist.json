@@ -1,0 +1,44 @@
+{
+  "title": "Sanatçıdan",
+  "opening": {
+    "question": "Uzayda tapınak yapmayı öneren bu adam kim?",
+    "thanks": "Soru için teşekkürler.",
+    "answer": "Kısa cevabım sanatçı olduğum. Uzun cevabım ise şu:"
+  },
+  "origin": {
+    "sao_paulo": "São Paulo'nun dış mahallelerinde, bana tehlikenin ne demek olduğunu erken yaşta öğreten bir mahallede doğdum. Okul arkadaşlarımın çoğu şu anda hapiste. Üvey babam da hapiste. Şiddet, okuduğum bir şey değildi, içinde gezinmem gereken bir dünyaydı. Ve kaçmam gerektiğini biliyordum.",
+    "technology": "Teknoloji benim çıkış yolum oldu. Ergenlik çağımda programlamayı, elektronik mühendisliğini öğrendim. Kodlama beni başka yerlere götürebilecek bir dildi. Teknolojiyle çalışmak yoksulluktan kaçışımdı.",
+    "christianity": "Ama aynı zamanda aidiyet, sevgi, inanılacak bir şey arıyordum. Hristiyanlığı buldum ya da Hristiyanlık beni buldu. Kabul edildim. Sevildim. Bir topluluğum vardı. Affetmeyi, inanmayı, daha büyük bir amaç için birlikte hareket etmeyi öğrendim.",
+    "price": "Ama bedeli ağır oldu. Hâlâ öğrenmediğim birçok şey de öğrendim. Böylece bundan da kurtuldum."
+  },
+  "searching": {
+    "walls": "Duvarların ne işe yaradığını biliyorum. Hissettim. Her iki tarafta da bulundum: dışarıda tutuldum, içeride tutuldum. Sonrasında, adını koyamadığım bir şeyi yıllarca aradım. Tanrı o yıllarda öldü. En azından bana öğretilen, kuralları, yargıları ve sadece bazı insanlara açılan kapıları olan Tanrı.",
+    "art": "Sanat yapmaya şu soruları araştırmak için başladım: yakınlık ve teknoloji, hafıza ve ölüm, cenneti kimin hak ettiği. Teknolojiyle ilişkimizi yeniden tasarlayan makineler inşa etmeye başladım; metal ve koddan canlı bir şeye dönüşmek için katılımınıza, varlığınıza, adınıza ihtiyaç duyan makineler."
+  },
+  "pandemic": {
+    "intro": "Sonra pandemi Brezilya'yı vurdu.",
+    "government": "COVID aşıları ertelendiğinde, hükümetim doz başına bir dolarlık rüşvetler için pazarlık yapıyordu. Etkisiz olduğu anlaşılan ilaçları desteklediler, insanlar nefes almakta zorlanırken gülüyorlardı. Her gün farklı bir sayıyla uyanıyorduk. Son 24 saatte kaç kişi öldü? Beklenenden daha mı fazla, yoksa daha mı az?",
+    "war": "Dünyanın yarısı korkmuştu, diğer yarısı ise inkâr halindeydi. Hem virüsle hem de birbirimizle savaş halindeydik.",
+    "memorial": "Toplu yas için bir alan yaratmak istedim, bu yüzden yüzlerce insanla birlikte Memorial Inumeráveis'i yarattım. Sanat ve gazeteciliğin kesiştiği bir sanat eseri. Birini kaybetmiş ailelerle röportajlar yaptık. Kaybettikleri kişinin hayat hikayesini yazdık. Sayıları tarihlere dönüştürdük. Bu tarihlerle şiirler, şarkılar, senfoniler yazıldı. Yıldızlar bu hikayeleri ulusal televizyonda okudu. Proje milyonlara ulaştı.",
+    "meaning": "Önemli olan ölçek değildi, her hikayenin bir isim, bir hayat, birinin cenneti olmasıydı."
+  },
+  "discovery": {
+    "pattern": "Yasla geçen on binden fazla sohbetin ardından bir kalıp oluşmaya başladı. Ölmüş birinden bahsederken, sadece iyi şeyler söylemekle kalmayız; sanki bir tavsiye mektubu yazıyormuşuz gibi, hikâyelerinden parçalar seçeriz. Cennetin kapıcısına bir tavsiye mektubu. Onları kabul, huzur, onur ve anma mekanına göndermek için elimizden gelenin en iyisini yaparız.",
+    "understanding": "Ve her şeyi değiştiren bir şeyi anladım: İnşa ettiğimiz tapınaklar yüzünden yaralandık. Cenneti kimin hak ettiğine dair inançlarımız, Dünya'da kimleri dışladığımızı doğrudan şekillendiriyor. Brezilya'daki Portekizli sömürgeciler, siyahların ruhu olmadığına inanıyordu; bu inanç köleliği meşrulaştırıyordu. Yerliyseniz, yanlış yerde doğduysanız veya yanlış kişiyi sevdiyseniz, cennetin kapılarının size kapalı olduğu söyleniyordu.",
+    "birth": "İşte Orbital Temple böyle doğdu."
+  },
+  "shaman": {
+    "secular": "Hiçbir sanatçı gerçek anlamda seküler olamaz. Ortak atamız şamana sonsuza dek bağlıyız. Başlangıçta bir mağara vardı. İnsanlar duvarlara hayvan resimleri çizdiler; süslemek için değil, çağırmak için. Dans ettiler ve mağara bir tapınağa dönüştü. Şaman ritüelin ruhunu kullanır; sanatçı ise sanatın aurasını kullanır. Resim yaparız, heykel yaparız, kodlar, arzuladığımız geleceği tasarlamak için süslemek için değil, çağırmak için kullanırız. Her sanat, öyle olmadığını iddia etse bile, manevidir."
+  },
+  "space": {
+    "question": "Duvarları olmayan bir tapınağı nerede inşa edebilirdik? Hiçbir milletin veya dinin hak iddia edemeyeceği bir yerde. Kendimizi tek bir grup olarak hayal edebileceğimiz bir yerde.",
+    "answer": "Uzay.",
+    "description": "Küresel Güney'den katılımcı bir sanat uydusu. Yörüngede, kim olduklarına, nerede doğduklarına, kimi sevdiklerine, neye inandıklarına bakılmaksızın herkesi isimlerini uzaya göndermeye davet eden bir tapınak. Radikal katılımın mümkün olduğu, yörüngede, sınırların ötesinde bir yer.",
+    "mission": "Bu görev açık kaynaklıdır. Her teknik belge, her kod satırı ücretsiz olarak erişilebilir olacak, böylece diğer sanatçılar, diğer topluluklar ve diğer uluslar kendi uydularını inşa edebilecek. Böylece Küresel Güney, uzay araştırmalarına sadece katılmakla kalmıyor, aynı zamanda öncülük ediyor."
+  },
+  "closing": {
+    "answer": "Peki uzayda tapınak inşa edecek adam kim? Ben inşa etmiyorum. Tapınak, ismini göndermeye, kutsal saymaya, gerçek kılmaya karar veren herkes tarafından inşa edilir. Ben sadece öneriyi sunan kişiyim. Karar verirsen, inşa edecek olan sensin.",
+    "signature": "Lütfen,",
+    "name": "Edson Pavoni"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Prese un mediji — Orbitālais templis",
+  "heading": "Prese un mediji",
+  "pressContact": {
+    "heading": "Preses kontaktinformācija",
+    "content": "Preses jautājumiem, intervijām un plašsaziņas līdzekļu pieprasījumiem:<br /> <strong>E-pasts:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Tīmekļa vietne:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Par projektu",
+    "paragraph1": "\"Orbitālais templis\" ir mākslas darbs un satelīts, kura mērķis ir kļūt par radikāli iekļaujošu templi, kas uzcelts tur, kur sienas nevar aizsniegties. Projektu ir radījis brazīliešu mākslinieks Edsons Pavoni, mākslinieks, kas radīja Inumeráveis memoriālu, kas COVID pandēmijas laikā sasniedza katru sesto brazīlieti. Projekts aicina cilvēkus no visas pasaules nosūtīt kāda cilvēka vārdu, kuru viņi vēlas atcerēties. Šie vārdi tiek pārraidīti uz orbītā esošu satelītu, radot kolektīvu memoriālu.",
+    "paragraph2": "Izmantojot tīmekļa vietni, kas pieejama 246 valodās, dalībnieki iesaistās jauna veida rituālā. Orbitālais templis pēta iekļaušanas, atmiņas un mūsu kopīgās cilvēcības tēmas, apšaubot, kāpēc neviens fizisks templis uz Zemes nevar patiesi uzņemt ikvienu, un ierosinot kosmosu kā vienīgo vietu, kur varētu pastāvēt radikāla iekļaušana."
+  },
+  "aboutArtist": {
+    "heading": "Par mākslinieku",
+    "paragraph1": "<strong>Edsons Pavoni</strong> ir brazīliešu mākslinieks, kura ceļojums sākās Sanpaulu ielās, kur nabadzības un vardarbības konteksts veidoja viņa agrīnos gadus. Valstī, kur kristietība piedāvāja ceļu prom no ielām, narkotikām un vardarbības, Pavoni atrada patvērumu ticībā – tēmā, kas vēlāk, kad viņš kļuva par reliģiskās vardarbības kritiķi, ietekmēja viņa māksliniecisko praksi.",
+    "paragraph2": "2020. gadā, COVID-19 pandēmijas laikā, Pavoni radīja mākslas darbu <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Inumeráveis&quot; (&quot;Neskaitāmie&quot;)</a></strong> , kas ir mākslas un žurnālistikas krustpunkts. Projekta ietvaros tika intervētas tūkstošiem ģimeņu un rakstīti stāsti par pandēmijas laikā bojāgājušajiem, radot telpu, kur atmiņa pārsniedza skaitļus un statistiku. Ar šiem stāstiem tika radīti dzejoļi, dziesmas un simfonijas. Laikraksti veidoja vākus, izmantojot vārdus un vēstures. Visas Brazīlijas zvaigznes, piemēram, &quot;Oskara&quot; balvas ieguvēja Fernanda Torresa, un tādas zvaigznes kā Seltons Melo, Eva Vilma, Kamila Pitanga, Debora Seko, Taiss Araujo un Lazaro Ramoss, un daudzi citi lasīja šos stāstus valsts televīzijā. Projekts sasniedza 32 miljonus cilvēku, katru ceturto Brazīlijas pieaugušo. Tas kļuva par dziedināšanas tīklu, kolektīvu pieminekli atmiņai.",
+    "paragraph3": "Pēc vairāk nekā desmit tūkstošiem sarunu ar sērām parādījās likumsakarība: kad mēs runājam par kādu mirušu cilvēku, mēs atlasām fragmentus no viņa stāsta, it kā rakstot ieteikuma vēstuli paradīzes vārtu sargam. Mēs darām visu iespējamo, lai nosūtītu viņu uz to, ko uzskatām par debesīm. Šis darbs radīja jaunu izpratni: mūsu uzskati par to, kas ir pelnījis debesis, tieši nosaka, ko mēs pieņemam vai izslēdzam uz Zemes. Portugāļu kolonizatori Brazīlijā uzskatīja, ka melnādainajiem cilvēkiem nav dvēseļu; šī pārliecība attaisnoja verdzību. Ja tu esi pamatiedzīvotājs, ja esi dzimis nepareizajā vietā vai mīlējis nepareizo cilvēku, tev joprojām, līdz pat šai dienai, saka, ka debesu durvis tev ir slēgtas. Vai pastāv nākotnes vīzija, ko nepiepilda noraidījums?",
+    "paragraph4": "Tā radās Orbitālais templis."
+  },
+  "keyFacts": {
+    "heading": "Galvenie fakti",
+    "artist": "<strong>Mākslinieks:</strong> Edsons Pavoni (Brazīlija)",
+    "projectType": "<strong>Projekta veids:</strong> Satelīta mākslas darbs, vietai specifisks, telpai pielāgots, tīmeklī balstīts rituāls",
+    "launchDate": "<strong>Palaišanas datums:</strong> 2025. gada 28. novembris",
+    "launchLocation": "<strong>Palaišanas vieta:</strong> Satiša Dhavana kosmosa centrs, Sriharikota, Indija (ISRO)",
+    "satellite": "<strong>Satelīts:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbīta:</strong> 525 km augstums, sinhrona ar Sauli",
+    "participation": "<strong>Dalība:</strong> bez maksas, atvērta ikvienam visā pasaulē",
+    "namesSent": {
+      "heading": "<strong>Uz orbītu nosūtītie vārdi:</strong>",
+      "caption": "<em>Tiešraides skaits atjaunināts no datubāzes • Pēdējoreiz atjaunināts: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Apbalvojumi un atzinība",
+    "mercosul": {
+      "title": "<strong>13. Mercosur biennāle</strong> (2022)",
+      "location": "Porto Alegre, Brazīlija",
+      "curator": "Kurators: Marselu Dantass"
+    },
+    "lumen": {
+      "title": "<strong>Lumen balva 2022 — Futures balva</strong>",
+      "status": "Garajā sarakstā"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 konkurss</strong>",
+      "award": "Uzvarētājs — ArtSat kategorija",
+      "org": "Veicina Brazīlijas Kosmosa pētniecības institūts (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Komanda",
+    "content": "Orbital Temple ir izveidots sadarbībā ar Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, João Viktor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzmeister, Tati Pedro, Tati Pedro Rafaels Fernandess, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace un visi tie, kas turpina ieteikt šī tempļa nosaukumus."
+  },
+  "pressCoverage": {
+    "heading": "Piedāvātais / Preses atspoguļojums",
+    "paragraph1": "<em>Preses atspoguļojums un raksti tiks pievienoti, tiklīdz tie būs pieejami. Lai saņemtu jaunāko informāciju, lūdzu, sazinieties ar mūsu preses komandu.</em>",
+    "paragraph2": "Iepriekšējās izstādes un pasākumi ietver prezentācijas 13. Mercosul biennālē, Lumen balvas atzinību un Brazīlijas Kosmosa pētniecības institūta (INPE) atlasi."
+  },
+  "images": {
+    "heading": "Augstas izšķirtspējas attēli preses vajadzībām",
+    "intro": "Visi attēli ir pieejami redakcionālai lietošanai. Noklikšķiniet uz jebkura attēla, lai lejupielādētu augstas izšķirtspējas failu.",
+    "installationPhotos": {
+      "heading": "Orbitālā tempļa fotoattēli",
+      "credit": "Lūdzu, norādiet autoru: \"Foto: Klāra Markesa / Ar Edsona Pavoni, Orbitālā tempļa atļauju\"",
+      "view01": "Instalācijas skats 01<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (1,4 MB)",
+      "view02": "Instalācijas skats 02<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (2,9 MB)",
+      "view03": "Instalācijas skats 03<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (11 MB)",
+      "view04": "Instalācijas skats 04<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (3,4 MB)",
+      "view05": "Instalācijas skats 05<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (3,3 MB)",
+      "view06": "Instalācijas skats 06<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (3,7 MB)",
+      "view07": "Instalācijas skats 07<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (3,4 MB)",
+      "view08": "Instalācijas skats 08<br /> Foto: Klāra Markesa<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (2,7 MB)",
+      "satelliteDesign": "Satelītu dizains<br /> ↓ Lejupielādēt",
+      "antennaSculpture": "Antena/Skulptūra<br /> ↓ Lejupielādēt"
+    },
+    "renders": {
+      "heading": "Orbitālā tempļa renderējumi",
+      "credit": "Orbitālā tempļa konceptuāli 3D renderējumi. Lūdzu, norādiet autorību: \"3D renderējums, ko veidojis RiseNY&Partners / Ar Edsona Pavoni, Orbitālā tempļa atļauju\"",
+      "render01": "3D renderēšana 01<br /> RiseNY&amp;Partners<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (10 MB)",
+      "render02": "3D renderēšana 02<br /> RiseNY&amp;Partners<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (5,9 MB)",
+      "render03": "3D renderēšana 03<br /> RiseNY&amp;Partners<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (5,2 MB)",
+      "render04": "3D renderēšana 04<br /> RiseNY&amp;Partners<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (11 MB)",
+      "render05": "3D renderēšana 05<br /> RiseNY&amp;Partners<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Mākslinieka fotoattēli",
+      "photo1": "1. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu",
+      "photo2": "2. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy fotogrāfijas",
+      "photo1": "1. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (843 KB)",
+      "photo2": "2. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tehniskās specifikācijas",
+    "satellite": {
+      "heading": "Satelīts",
+      "dimensions": "Izmēri: 50 x 58 x 64 mm",
+      "classification": "Klasifikācija: 1P PocketQube",
+      "weight": "Svars: 245 g",
+      "materials": "Materiāli: alumīnijs, zelts, stikla šķiedra, elektroniskās detaļas",
+      "orbit": "Orbīta: Augstums 525 ± 25 km; Slīpums: SSO 97,6 ± 0,1°",
+      "launch": "Palaišana: 2025. gada 28. novembris, izmantojot ISRO, Indija"
+    },
+    "antenna": {
+      "heading": "Antena/Skulptūra",
+      "dimensions": "Izmēri: 6 m diametrs x 1,2 m augstums",
+      "weight": "Svars: 46 kg",
+      "materials": "Materiāli: alumīnijs, epoksīda spoguļdēlis, zelta alumīnija kupols, kas piekārts pie sastatņu konstrukcijas"
+    },
+    "radio": {
+      "heading": "Radio specifikācijas",
+      "downlink": "Lejupielādes frekvence: 437 MHz",
+      "status": "Palaišanas statuss: plānots 2025. gada 28. novembrī"
+    }
+  },
+  "additionalResources": {
+    "heading": "Papildu resursi",
+    "artwork": "→ Skatīt mākslas darba dokumentāciju",
+    "howItWorks": "→ Kā tas darbojas",
+    "technicalInfo": "→ Tehniskā informācija",
+    "spaceLaunch": "→ Informācija par kosmosa palaišanu",
+    "ritual": "→ Izbaudiet rituālu"
+  },
+  "imageAlts": {
+    "installation": "Edsona Pavoni Orbitālā tempļa instalācija",
+    "satelliteDesign": "Orbitālā tempļa satelīta dizains",
+    "antenna": "Orbitālā tempļa antenas skulptūra",
+    "render": "Orbitālā tempļa 3D renderējums, ko veidojis RiseNY&Partners",
+    "edsonPortrait": "Edsona Pavoni portrets",
+    "sathiPortrait": "Sathi Roy portrets",
+    "lumenPrize": "Lumena balva",
+    "mercosulBienal": "Mercosur biennāle"
+  }
+}

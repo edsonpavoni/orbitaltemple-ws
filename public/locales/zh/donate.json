@@ -1,0 +1,31 @@
+{
+  "title": "向轨道圣殿捐款",
+  "heading": "完成捐款",
+  "donatingTo": "您正在捐赠给：",
+  "chooseHow": "请选择您希望完成可抵税捐款的方式：",
+  "option1": {
+    "heading": "选项一：立即在线捐款",
+    "description": "请立即通过我们安全的财务赞助机构<strong>The Field</strong> ，使用信用卡、借记卡或其他在线支付方式完成捐款。您将立即收到税务收据。",
+    "button": "通过 The Field 捐款 →"
+  },
+  "option2": {
+    "heading": "方案二：银行转账至罗伊基金会",
+    "description": "您可以直接通过银行存款或电汇方式向我们的战略合作伙伴和财务赞助机构<strong>罗伊基金会</strong>捐款。此选项尤其适用于大额捐款或国际转账。",
+    "bankingInfo": "银行信息",
+    "fields": {
+      "accountName": "帐户名称：",
+      "bankName": "银行名称：",
+      "accountNumber": "帐号：",
+      "routingNumber": "路由号码：",
+      "swift": "SWIFT/BIC：",
+      "reference": "参考："
+    },
+    "instructions": "请在汇款备注栏注明“ <strong>Orbital Temple - {donationType}</strong> ”。汇款完成后，请将汇款详情发送至<a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art，</a>以便我们向您发送税务收据。",
+    "button": "联系我们了解存款详情 →"
+  },
+  "taxInfo": {
+    "heading": "可抵税捐赠",
+    "description": "Orbital Temple 是<strong>The Field（Performance Zone Inc.）</strong>的财政赞助项目，The Field 是一家<strong>501(c)(3)</strong>非营利组织。所有美国境内的捐款均可在法律允许的范围内享受税收减免。",
+    "questions": "如有疑问，请联系我们： <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "kunstverket",
+    "sendAName": "send et navn",
+    "fromTheArtist": "fra kunstneren",
+    "yetAnotherTemple": "enda et tempel?",
+    "howItWorks": "hvordan det fungerer",
+    "spaceLaunch": "romoppskytning og risikoer",
+    "briefHistory": "en kort historie om kunst i verdensrommet",
+    "education": "utdanning og åpen kildekode",
+    "sustainability": "bærekraft og romsøppel",
+    "press": "presse og media",
+    "team": "team",
+    "partners": "partnere",
+    "support": "støtte",
+    "technicalInfo": "teknisk informasjon"
   },
   "ritual": {
     "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "ariaLabel": "Gå inn i ritualet - Send et navn til Orbitaltempelet"
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Orbital Temple er et kunstverk av Edson Pavoni, laget i samarbeid med Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, og alle de som fortsetter å sende navn til dette tempelet."
   }
 }

@@ -1,0 +1,43 @@
+{
+  "title": "Eğitim ve Açık Kaynak - Orbital Temple",
+  "heading": "Eğitim ve Açık Kaynak",
+  "intro": {
+    "paragraph1": "Orbital Temple görevi için geliştirilen tüm teknolojiler <strong>açık kaynaklı</strong> olacak ve <strong>Portekizce</strong> , <strong>İngilizce</strong> , <strong>İspanyolca</strong> ve <strong>Hintçe</strong> dillerinde çevrimiçi olarak sunulacak ve <strong>Küresel Güney&#39;de</strong> uzay araştırmalarının ilerlemesini destekleyecektir. Yeni görevler ve projeler, Orbital Temple&#39;ı kendi sanatsal veya bilimsel deneyleri için bir temel olarak kullanabilirler.",
+    "paragraph2": "Orbital Temple, eğitim misyonunun bir parçası olarak, uydu yapımı ve fırlatılması konusunda ücretsiz, çok dilli bir kurs sunacak. Bu kurs, uydu teknolojisini öğrenmek ve uygulamaya koymak için uygulamalı bir fırsat olacak. <strong>16</strong> yaşın üzerindeki herkes kendi uydusunu inşa edebilecek, uzayda sanat tarihi, elektronik, mekanik ve uzay biliminin temel kavramları, projelerin nasıl finanse edileceği ve yörüngedeki uydularla iletişim kurmak için bir antenin nasıl inşa edileceği gibi konularda bilgi edinebilecek."
+  },
+  "spaceGap": {
+    "heading": "Bunun Önemi: Uzay Boşluğu",
+    "paragraph1": "<strong>&quot;Uzay Açığı&quot;</strong> terimi, uzay araştırmaları yoluyla elde edilen teknolojik fırsatlara erişebilen gelişmiş ülkeler ile bu teknolojilere erişimi olmayan gelişmekte olan ülkeler arasındaki uçurumu ifade eder. Küresel Güney&#39;deki ülkeler, uydu teknolojileriyle üretilen bilgilere temel erişim için yabancı hükümetlere veya şirketlere önemli miktarda ödeme yapmak zorundadır.",
+    "paragraph2": "Uzay teknolojisi kritik faydalar sağlar: Uydular, <strong>yılda 73 milyar doları</strong> aşan yasadışı ağaç kesimi, yasadışı balıkçılık ve yasadışı yaban hayatı ticaretiyle mücadeleye yardımcı olur. İklim, su üretimi ve gıda güvenliği hakkında temel bilgiler sağlarlar. Uydular, hassas sulama ve tarım tekniklerini mümkün kılar ve doğal afetlerin önlenmesine yardımcı olur. Uzay endüstrisi <strong>2030</strong> yılına kadar <strong>1 milyona kadar iş</strong> yaratabilir, ancak bu fırsatlar Küresel Güney&#39;deki birçok kişi için erişilemez olmaya devam ediyor.",
+    "paragraph3": "Açık kaynaklı teknoloji ve eğitim sağlayarak uzaya erişimi demokratikleştirmeyi ve yeni neslin gökyüzünün ötesini hayal edebilmesini sağlamayı amaçlıyoruz."
+  },
+  "empowering": {
+    "heading": "Gelecek Nesli Güçlendirmek",
+    "intro": "Gelecek nesil uzay araştırmacılarına kendi uydularını nasıl inşa edeceklerini ve fırlatacaklarını öğreteceğiz. Bu eğitimde şu temel konular ele alınacak:",
+    "topics": {
+      "history": "<strong>Uzayda sanat tarihi:</strong> Sanatsal uyduların ve uzay tabanlı sanat eserlerinin soyunu anlamak.",
+      "concepts": "<strong>Temel kavramlar:</strong> <strong>ArtSat</strong> (sanatsal uydular), <strong>Açık Kaynaklı</strong> uzay teknolojisi ve <strong>Uzay Boşluğu</strong> .",
+      "missions": "<strong>Uzay görevleri:</strong> Bir görev nasıl kavramsallaştırılır ve tasarlanır ve onu yürütmek için bir ekip nasıl oluşturulur.",
+      "electronics": "<strong>Uzayda Elektronik:</strong> Uzay ortamında hayatta kalabilen ve işlev görebilen elektronik bileşenlerin temel kavramları.",
+      "mechanics": "<strong>Uzayda mekanik:</strong> Uydu tasarımı için yapısal ve mekanik gereksinimlerin anlaşılması.",
+      "orbits": "<strong>Yörüngeler ve fırlatıcılar:</strong> Farklı yörünge türleri ve göreviniz için fırlatma sağlayıcılarını nasıl seçeceğiniz.",
+      "financing": "<strong>Finansman stratejileri:</strong> Uydunuzu fırlatmak için finansman ve kaynak nasıl sağlanır? Bu ders, fırlatma için finansman kaynakları sağlayacak ve öğrencilerin genç bilim insanlarını ve öğrencileri uydularını uzaya göndermeleri konusunda destekleyen uluslararası kuruluşlardan programlar ve hibeler bulmalarına yardımcı olacaktır.",
+      "groundStation": "<strong>Yer istasyonu geliştirme:</strong> Orbital Temple ve diğer uydularla iletişim kurmak için bir anten nasıl yapılır."
+    }
+  },
+  "technology": {
+    "heading": "Teknoloji: PocketQube Uyduları",
+    "paragraph1": "Öğrenciler, yalnızca <strong>5 cm³</strong> boyutunda ve <strong>250 grama</strong> kadar ağırlığa sahip bir nano uydu standardı olan <strong>PocketQube</strong> uydularıyla çalışmayı öğrenecekler. Küçük boyutlarına rağmen PocketQube&#39;lar, Dünya gözlemi, izleme ve iletişimi sağlayabilen güçlü araçlardır.",
+    "paragraph2": "Bu kompakt uydular, iklim değişikliği üzerine bilimsel araştırmalardan kıtalararası iletişime kadar birçok gerçek dünya uygulamasına sahiptir. Daha küçük ve hafif oldukları için inşa edilmeleri ve fırlatılmaları daha uygun maliyetlidir ve bu da uzayı dünya çapındaki öğrenciler, araştırmacılar ve sanatçılar için daha erişilebilir hale getirir."
+  },
+  "globalAccess": {
+    "heading": "Küresel Erişim, Küresel Güney'den Başlayarak",
+    "paragraph1": "Kurs, <strong>16 yaş ve üzeri</strong> herkese tamamen <strong>ücretsiz olarak</strong> sunulacaktır. <strong>Portekizce</strong> , <strong>İspanyolca</strong> , <strong>İngilizce</strong> ve <strong>Hintçe</strong> içeriklerle başlıyoruz ve program büyüdükçe ek dillere de açılmayı planlıyoruz.",
+    "paragraph2": "Misyonumuz Küresel Güney'de başlıyor ve tüm dünyaya yayılarak, gelecek nesil uzay araştırmacılarının Dünya'nın her köşesinden gelmesini sağlamak."
+  },
+  "callToAction": {
+    "heading": "Bunu Gerçekleştirmemize Yardımcı Olun",
+    "content": "Bu eğitim programı şu anda geliştirme aşamasındadır. Uzay teknolojisine erişimi demokratikleştirme vizyonumuzu paylaşan ortaklar ve bağışçılar arıyoruz. Siz veya kuruluşunuz bu girişimi desteklemek isterseniz, ortaklık fırsatları hakkında bilgi edinmek için lütfen <a href=\"/support\">destek sayfamızı</a> ziyaret edin."
+  },
+  "imageAlt": "Orbital Temple Uydusu"
+}

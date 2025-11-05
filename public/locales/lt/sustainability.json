@@ -1,0 +1,44 @@
+{
+  "title": "Tvarumas ir kosmoso šiukšlės – Orbitinė šventykla",
+  "heading": "Tvarumas",
+  "intro": {
+    "paragraph1": "Jei menas nori mus vesti į ateitį, jis negali ignoruoti krizių, su kuriomis susiduriame – aplinkos žlugimo, socialinės nelygybės ir didėjančio kosminių šiukšlių iššūkio. „Orbitinė šventykla“ sukurta atsižvelgiant į šias realijas ir siekiant būti atsakinga tiek Žemėje, tiek orbitoje.",
+    "paragraph2": "Tikime, kad tvarumas nėra suvaržymas, o esminė mūsų meninės vizijos dalis. Kiekvienas sprendimas dėl medžiagų, orbitų ir operacijų atspindi mūsų įsipareigojimą palikti Žemę ir kosmosą geresnę, nei ją radome."
+  },
+  "spaceDebris": {
+    "heading": "Kosmoso šiukšlės",
+    "paragraph1": "Kosminės šiukšlės yra vienas iš opiausių iššūkių, su kuriais susiduria kosmoso tyrinėjimai. Tūkstančiai neveikiančių palydovų ir jų fragmentų skrieja aplink Žemę, keldami grėsmę aktyvioms misijoms ir sukurdami kaskados efektą, dėl kurio tam tikros orbitos gali tapti netinkamos naudoti.",
+    "paragraph2": "Orbitinė šventykla tai sprendžia keliais būdais:",
+    "list": {
+      "orbit": "<strong>Sinchroninė su Saule orbita 525 km aukštyje:</strong> toks aukštis užtikrina, kad dėl natūralaus atmosferos pasipriešinimo palydovas maždaug per 10 metų vėl pateks į Žemės atmosferą, kur visiškai sudegs. Mes neprisidedame prie ilgalaikių orbitinių šiukšlių susidarymo.",
+      "size": "<strong>„PocketQube“ dizainas:</strong> vos 50 × 58 × 64 mm dydžio ir 245 g svorio palydovas yra pakankamai mažas, kad grįždamas į atmosferą visiškai išgaruotų, nepalikdamas jokių šiukšlių Žemės paviršiuje.",
+      "responsibility": "<strong>Nėra suplanuoto senėjimo:</strong> skirtingai nei komerciniai palydovai, kurie gali būti apleisti, „Orbital Temple“ yra sukurta taip, kad natūraliai iškristų iš orbitos, laikantis tarptautinių atsakingos kosmoso veiklos gairių."
+    },
+    "paragraph3": "Pasirinkdami žemą Žemės orbitą ir kompaktišką dizainą, užtikriname, kad Orbitinės šventyklos buvimas kosmose yra laikinas ir neteršia aplinkos."
+  },
+  "carbonNeutrality": {
+    "heading": "Anglies neutralumas",
+    "content": "Visos su „Orbital Temple“ susijusios anglies dioksido emisijos, įskaitant palydovų gamybą, paleidimą, antžeminių stočių veikimą, svetainių talpinimą ir komandos keliones, bus visiškai kompensuotos patikrintomis anglies dioksido kreditų programomis. Esame įsipareigoję užtikrinti, kad ši misija būtų neutrali klimato atžvilgiu."
+  },
+  "openSource": {
+    "heading": "Atvirojo kodo aparatinė įranga",
+    "paragraph1": "Tvarumas taip pat reiškia žinių nešvaistymą. Kiekvienas „Orbital Temple“ techninis aspektas – schemos, kodas, ryšio protokolai ir konstrukcijos metodai – bus publikuoti kaip atvirojo kodo dokumentacija.",
+    "paragraph2": "Tai leidžia būsimoms misijoms remtis mūsų darbu, o ne pradėti nuo nulio, taip sumažinant nereikalingus tyrimus ir plėtrą. Tai demokratizuoja prieigą prie kosmoso technologijų, ypač Pietų pusrutulio bendruomenėms, kurios istoriškai negalėjo dalyvauti kosmoso tyrinėjimuose."
+  },
+  "educational": {
+    "heading": "Švietimo poveikis",
+    "paragraph1": "Mūsų nemokama daugiakalbė edukacinė programa moko mokinius visame pasaulyje, kaip konstruoti ir paleisti palydovus, daugiausia dėmesio skiriant Pietų pusrutuliui. Suteikdami jaunajai kartai kosmoso technologijų įgūdžių, prisidedame prie „kosmoso spragos“ panaikinimo ir galimybių, kurių kitaip nebūtų, kūrimo.",
+    "paragraph2": "Ši edukacinė misija pati savaime yra tvarumo forma – investicijos į žmones ir bendruomenes, siekiant sukurti ilgalaikius pokyčius ir po palydovo gyvavimo ciklo."
+  },
+  "tenYear": {
+    "heading": "10 metų misija",
+    "paragraph1": "„Orbitinė šventykla“ sukurta dešimtmečio trukmės misijai, o ne trumpam reklaminiam triukui. Per dešimt metų palydovas apskries aplink Žemę maždaug 50 000 kartų, gaus pavadinimus ir primins, kad kosmosas gali būti bendras turtas, prieinamas visiems.",
+    "paragraph2": "Pasibaigus misijai, palydovas natūraliai iškris iš orbitos ir sudegs, nepalikdamas jokių pėdsakų, išskyrus dalyvių prisiminimus ir dokumentus."
+  },
+  "artsResponsibility": {
+    "heading": "Meno atsakomybė",
+    "paragraph1": "Menas visada buvo savo laikmečio veidrodis, atspindintis mūsų vertybes ir siekius. Klimato krizės ir didėjančios nelygybės eroje tikime, kad menininkai turi pareigą kurti darbus, kurie ne tik komentuoja šias problemas, bet ir aktyviai jas sprendžia.",
+    "paragraph2": "„Orbitinė šventykla“ – tai mūsų bandymas sukurti meno kūrinį, kuris būtų radikalus savo įtraukumu, atsakingai vertintų savo poveikį aplinkai ir dosniai dalintųsi savo žiniomis su pasauliu. Tai menas, kuris kviečia visus dalyvauti, kartu gerbiant trapias sistemas – aplinkos ir orbitos – kurios įgalina gyvybę ir tyrinėjimus."
+  },
+  "imageAlt": "Orbitinės šventyklos palydovas"
+}

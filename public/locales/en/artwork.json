@@ -1,0 +1,31 @@
+{
+  "title": "The Artwork - Orbital Temple",
+  "heading": "The Artwork",
+  "intro": {
+    "paragraph1": "Orbital Temple is a satellite with an artistic mission: a memorial in outer space open to every sentient being who live or has lived on Earth.",
+    "paragraph2": "Through technological means, anyone can send the name of someone to the Temple, either someone who passed away, a person very much alive, or any being that deserves to be remembered."
+  },
+  "sculpture": {
+    "heading": "The Sculpture",
+    "paragraph1": "The artwork has three co-dependent elements: a satellite especially designed to store billions of names; a public sculpture exchanging information with the satellite; and a website through which participants send the names, from now until they are passed away, to heaven.",
+    "paragraph2": "As a multidisciplinary endeavor, Orbital Temple can be considered a site-specific sculpture, inhabiting space. It is also an Artsat project."
+  },
+  "antenna": {
+    "heading": "The Antenna As A Public Sculpture",
+    "paragraph1": "An antenna connecting us with outer space.",
+    "paragraph2": "An antenna that will be in direct communication with the orbital satellite is being designed.",
+    "paragraph3": "With a golden reflective surface, mirroring the sky above it, it is a starting point for mass stimulation (or our relationship to what's 'up there').",
+    "paragraph4": "While the sculptures are not installed in most parts of the world, our Frames from Earth, which are currently controlling the satellite, is sending the names at each passthrough.",
+    "paragraph5": "Help bring this vision to your city—installing antenna sculptures that inspire conversations about space exploration, art, and our shared place in the cosmos. <a href=\"/support\">Learn more about supporting the project</a>."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite",
+    "riseNy": "Orbital Temple at Rise NY",
+    "installation": "Orbital Temple by Clara Marques",
+    "antenna": "Orbital Temple Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Temple in space. 3D rendering by RiseNY&Partners.",
+    "mercosul": "Orbital Temple installation at the Mercosul Biennial, in Porto Alegre, Brazil. <br>Photo by Clara Marques."
+  }
+}

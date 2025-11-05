@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "pe măsură ce intri\nîntr-un ritual\nde a trimite un nume\nîn\ntemplul orbital\ndin spațiu\nrespiră\nadânc",
+    "button": "Sunt gata"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "tastează un nume",
+    "subtitle": "se va ridica până la Templul Orbital din spațiu.",
+    "placeholder": "nume",
+    "button": "lasă-l să urce"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "introduceți adresa dvs. de e-mail",
+    "subtitle": "deci primești un mesaj când numele este în ascensiune.",
+    "placeholder": "adresa ta de e-mail",
+    "button": "este făcut"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Încărcare"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "Numele\n{{name}}\neste acum în așteptare\npentru ascensiune.\nCând\ntemplul din spațiu\nse va alinia cu\nantena noastră\nde pe Pământ\nvom trimite\nnumele\nși veți primi\nun mesaj."
   }
 }

@@ -1,0 +1,50 @@
+{
+  "title": "Partneri - Orbital Temple",
+  "heading": "Partneri",
+  "intro": "Orbitálny chrám existuje vďaka štedrosti, odbornosti a vízii výnimočných partnerov. Od návrhu satelitov až po tvorbu príbehov, od otvárania dverí v vzdialených krajinách až po odlievanie snov do zlata, každá spolupráca posúva tento chrám bližšie ku hviezdam.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikácia, integrované zážitky a ohromujúce 3D renderované snímky, ktoré vdýchli život vízii satelitu ešte predtým, ako sa vôbec dotkol prázdnoty vesmíru."
+    },
+    "highestMantra": {
+      "name": "Naša najvyššia mantra",
+      "description": "Pod vedením Sathiho Roya spája Orbital Temple s duchovnými a umeleckými komunitami Indie. Otvára cesty k získavaniu finančných prostriedkov, kultúrnej výmene a výstave Art Basel po spustení v novembri 2025."
+    },
+    "allToSpace": {
+      "name": "Všetko do vesmíru",
+      "description": "Brazílski špecialisti na malé satelity. Štyri roky spolupráce pri budovaní hardvérovej platformy s otvoreným zdrojovým kódom a priekopníckom procese posielania umenia na obežnú dráhu z globálneho Juhu."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indická organizácia pre výskum vesmíru. Zabezpečovateľ štartovacích štartov pre misiu PSLV, ktorá v novembri 2025 vynesie Orbital Temple na slnečnú synchrónnu obežnú dráhu."
+    },
+    "mercosul": {
+      "name": "13. bienále Mercosuru",
+      "description": "Porto Alegre, Brazília. Kurátorom je Marcello Dantas s pomocnými kurátormi Laurou Cattani, Munir Klamt, Tarsila Riso a Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Workshop INPE / ArtSat",
+      "description": "Satelitný vývojový tím vznikol počas II ArtSat Workshopu. Koordinuje Fabiane M. Borges, inštruuje Lázaro Camargo, spolupracuje Ítalo Pinto Rodrigues, pod dohľadom Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solídne koncepty",
+      "description": "Pod vedením Eduarda Diasa. Všetky práce na 3D tlači a mikroodlievaní zlata pre sochársku kupolu, premieňajú digitálne sny na realitu z drahých kovov."
+    },
+    "ideaSpace": {
+      "name": "Priestor nápadov",
+      "description": "Brazílsky vzdelávací startup vyvíja učebné osnovy vesmírneho programu Quebrada, ktoré sú pripravené na aplikáciu stredoškolákom v celej Brazílii."
+    }
+  },
+  "closing": "Máte záujem o spoluprácu s Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Kontaktujte nás</a> .",
+  "imageAlts": {
+    "riseNy": "Logo RiseNY&Partners",
+    "highestMantra": "Logo našej najvyššej mantry",
+    "allToSpace": "Logo Všetko do vesmíru",
+    "isro": "Logo ISRO",
+    "mercosul": "Logo 13. bienále Mercosuru",
+    "inpe": "Logo workshopu INPE ArtSat",
+    "solidConcepts": "Logo spoločnosti Solid Concepts",
+    "ideaSpace": "Logo priestoru nápadov"
+  }
+}

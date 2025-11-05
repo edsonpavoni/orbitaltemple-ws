@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "докато влизате\nв ритуал\nза изпращане на име\nв\nорбиталния храм\nв космоса\nпоемете\nдъх",
+    "button": "готов съм"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "въведете име",
+    "subtitle": "ще се издигне до Орбиталния храм в космоса.",
+    "placeholder": "име",
+    "button": "нека се издигне"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "въведете имейла си",
+    "subtitle": "така че получавате съобщение, когато името се издигне нагоре.",
+    "placeholder": "вашият имейл",
+    "button": "готово е"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Зареждане"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "Името\n{{name}}\nсега е в опашка\nза възнесение.\nКогато\nхрамът в космоса\nсе подравни с\nнашата антена\nна Земята,\nще изпратим\nимето\nи ще получите\nсъобщение."
   }
 }

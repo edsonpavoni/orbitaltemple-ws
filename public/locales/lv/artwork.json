@@ -1,0 +1,31 @@
+{
+  "title": "Mākslas darbs — Orbitālais templis",
+  "heading": "Mākslas darbs",
+  "intro": {
+    "paragraph1": "Orbitālais templis ir satelīts ar māksliniecisku misiju: piemineklis kosmosā, kas atvērts ikvienai jūtošai būtnei, kas dzīvo vai ir dzīvojusi uz Zemes.",
+    "paragraph2": "Izmantojot tehnoloģiskus līdzekļus, ikviens var nosūtīt uz Templi kāda cilvēka vārdu – vai nu miruša cilvēka, dzīva cilvēka, vai jebkuras būtnes, kas ir pelnījusi piemiņu."
+  },
+  "sculpture": {
+    "heading": "Skulptūra",
+    "paragraph1": "Mākslas darbam ir trīs savstarpēji atkarīgi elementi: satelīts, kas īpaši izstrādāts miljardu vārdu glabāšanai; publiska skulptūra, kas apmainās ar informāciju ar satelītu; un tīmekļa vietne, caur kuru dalībnieki no šī brīža līdz pat to aizsaulē sūta vārdus uz debesīm.",
+    "paragraph2": "Kā daudznozaru projektu \"Orbitālais templis\" var uzskatīt par vietai specifisku skulptūru, kas apdzīvo telpu. Tas ir arī Artsat projekts."
+  },
+  "antenna": {
+    "heading": "Antena kā publiska skulptūra",
+    "paragraph1": "Antena, kas mūs savieno ar kosmosu.",
+    "paragraph2": "Tiek projektēta antena, kas tieši sazināsies ar orbitālo satelītu.",
+    "paragraph3": "Ar zeltainu atstarojošu virsmu, kas atspoguļo debesis virs tās, tā ir sākumpunkts masveida stimulācijai (jeb mūsu attiecībām ar to, kas atrodas \"tur augšā\").",
+    "paragraph4": "Lai gan skulptūras nav uzstādītas lielākajā daļā pasaules daļu, mūsu Frames from Earth, kas pašlaik kontrolē satelītu, nosūta nosaukumus katrā caurlaides reizē.",
+    "paragraph5": "Palīdziet īstenot šo vīziju savā pilsētā — uzstādot antenu skulptūras, kas iedvesmo sarunas par kosmosa izpēti, mākslu un mūsu kopīgo vietu kosmosā. <a href=\"/support\">Uzziniet vairāk par projekta atbalstīšanu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitālā tempļa satelīts",
+    "riseNy": "Orbitālais templis Rise, Ņujorkā",
+    "installation": "Klāras Markesas \"Orbitālais templis\"",
+    "antenna": "Orbitālā tempļa antena"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitālais templis kosmosā. 3D renderējums no RiseNY&Partners.",
+    "mercosul": "Orbitālā tempļa instalācija Merkosulas biennālē Portoalegri, Brazīlijā.<br> Foto: Klāra Markesa."
+  }
+}

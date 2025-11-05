@@ -1,0 +1,44 @@
+{
+  "title": "Udržateľnosť a vesmírny odpad - Orbital Temple",
+  "heading": "Udržateľnosť",
+  "intro": {
+    "paragraph1": "Ak nás má umenie viesť do budúcnosti, nemôže ignorovať krízy, ktorým čelíme – environmentálny kolaps, sociálnu nerovnosť a rastúci problém vesmírneho odpadu. Orbital Temple je navrhnutý s ohľadom na tieto skutočnosti a jeho cieľom je byť zodpovednou prítomnosťou na Zemi aj na obežnej dráhe.",
+    "paragraph2": "Veríme, že udržateľnosť nie je obmedzením, ale nevyhnutnou súčasťou našej umeleckej vízie. Každé rozhodnutie o materiáloch, obežných dráhach a prevádzke odráža náš záväzok zanechať Zem aj vesmír v lepšom stave, než v akom sme ich našli."
+  },
+  "spaceDebris": {
+    "heading": "Vesmírny odpad",
+    "paragraph1": "Vesmírny odpad je jednou z najnaliehavejších výziev, ktorým čelí prieskum vesmíru. Okolo Zeme obiehajú tisíce nefunkčných satelitov a ich fragmentov, čo ohrozuje aktívne misie a vytvára kaskádový efekt, ktorý by mohol niektoré obežné dráhy znefunkčniť.",
+    "paragraph2": "Orbital Temple to rieši niekoľkými spôsobmi:",
+    "list": {
+      "orbit": "<strong>Slnečno-synchrónna obežná dráha vo výške 525 km:</strong> Táto výška zabezpečuje, že prirodzený atmosférický odpor spôsobí, že sa satelit približne do 10 rokov vráti do zemskej atmosféry, kde úplne zhorí. Neprispievame k dlhodobým orbitálnym troskám.",
+      "size": "<strong>Dizajn PocketQube:</strong> S rozmermi iba 50 × 58 × 64 mm a hmotnosťou 245 g je satelit dostatočne malý na to, aby sa počas návratu do atmosféry úplne odparil a na zemskom povrchu nezanechal žiadne trosky.",
+      "responsibility": "<strong>Žiadne plánované zastarávanie:</strong> Na rozdiel od komerčných satelitov, ktoré môžu byť opustené, je Orbital Temple navrhnutý tak, aby sa z obežnej dráhy vytratil prirodzene, čím spĺňa medzinárodné smernice pre zodpovednú vesmírnu činnosť."
+    },
+    "paragraph3": "Výberom nízkej obežnej dráhy Zeme a kompaktného dizajnu zabezpečujeme, že prítomnosť Orbital Temple vo vesmíre bude dočasná a neznečisťujúca."
+  },
+  "carbonNeutrality": {
+    "heading": "Uhlíková neutralita",
+    "content": "Všetky emisie uhlíka spojené s projektom Orbital Temple – vrátane výroby satelitov, ich vypúšťania, prevádzky pozemných staníc, hostingu webových stránok a cestovania tímu – budú plne kompenzované prostredníctvom overených programov uhlíkových kreditov. Zaviazali sme sa k tomu, že táto misia bude klimaticky neutrálna."
+  },
+  "openSource": {
+    "heading": "Hardvér s otvoreným zdrojovým kódom",
+    "paragraph1": "Udržateľnosť znamená aj neplytvanie vedomosťami. Každý technický aspekt Orbital Temple – schémy, kód, komunikačné protokoly a konštrukčné metódy – bude zverejnený ako dokumentácia s otvoreným zdrojovým kódom.",
+    "paragraph2": "To umožňuje budúcim misiám stavať na našej práci a nezačínať od nuly, čím sa znižuje nadbytočný výskum a vývoj. Demokratizuje sa tým prístup k vesmírnym technológiám, najmä pre komunity na globálnom Juhu, ktoré boli historicky vylúčené z prieskumu vesmíru."
+  },
+  "educational": {
+    "heading": "Vzdelávací vplyv",
+    "paragraph1": "Náš bezplatný viacjazyčný vzdelávací program učí študentov na celom svete, ako stavať a vypúšťať satelity, so zameraním na globálny Juh. Posilnením zručností v oblasti vesmírnych technológií pre ďalšiu generáciu prispievame k preklenutiu „vesmírnej priepasti“ a vytváraniu príležitostí, ktoré by inak neexistovali.",
+    "paragraph2": "Toto vzdelávacie poslanie je samo o sebe formou udržateľnosti – investuje do ľudí a komunít s cieľom vytvoriť trvalú zmenu aj po skončení životnosti satelitu."
+  },
+  "tenYear": {
+    "heading": "10-ročná misia",
+    "paragraph1": "Orbitálny chrám je navrhnutý na desaťročnú misiu, nie na krátky reklamný kúsok. Počas desiatich rokov satelit obieha Zem približne 50 000-krát, pričom dostane mená a bude slúžiť ako pripomienka, že vesmír môže byť spoločným statkom, prístupným pre všetkých.",
+    "paragraph2": "Po skončení misie sa satelit prirodzene opustí obežnú dráhu a zhorí, pričom nezanechá žiadne stopy okrem spomienok a dokumentácie tých, ktorí sa na misii podieľali."
+  },
+  "artsResponsibility": {
+    "heading": "Zodpovednosť umenia",
+    "paragraph1": "Umenie bolo vždy zrkadlom svojej doby, odrážalo naše hodnoty a ašpirácie. V dobe klimatickej krízy a rastúcej nerovnosti veríme, že umelci majú zodpovednosť vytvárať diela, ktoré sa k týmto problémom nielen vyjadrujú, ale sa nimi aktívne zaoberajú.",
+    "paragraph2": "Orbitálny chrám je naším pokusom vytvoriť umelecké dielo, ktoré je radikálne vo svojej inkluzívnosti, zodpovedné vo svojom vplyve na životné prostredie a štedré v zdieľaní svojich poznatkov so svetom. Je to umenie, ktoré pozýva každého k účasti a zároveň rešpektuje krehké systémy – environmentálne a orbitálne – ktoré umožňujú život a objavovanie."
+  },
+  "imageAlt": "Orbitálny chrámový satelit"
+}

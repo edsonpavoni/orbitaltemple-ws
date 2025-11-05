@@ -1,0 +1,16 @@
+{
+  "title": "Lansare spațială - Templul Orbital",
+  "heading": "Lansare spațială",
+  "intro": "Templul Orbital este programat să fie lansat la bordul unui PSLV (Polar Satellite Launch Vehicle) pe 28 noiembrie 2025 de la Centrul Spațial Satish Dhawan din Sriharikota, India.",
+  "partnership": "Lansarea Orbital Temple este un parteneriat între NewSpace India Limited (NSIL), o companie a Guvernului Indiei subordonată Departamentului Spațial, Antrix Corporation și artist. Această colaborare reprezintă o piatră de hotar semnificativă pentru arta în explorarea spațiului, reunind programul spațial al Indiei cu o viziune artistică de incluziune radicală.",
+  "risks": {
+    "heading": "Riscuri",
+    "paragraph1": "Satelitul a fost construit pentru a rezista la condiții extreme de vibrații și cicluri termice și a fost supus unor teste riguroase. Cu toate acestea, lansările spațiale prezintă riscuri inerente. Dacă satelitul este deteriorat în timpul lansării sau desfășurării sau dacă nu reușește să stabilească comunicarea cu stațiile noastre terestre, vom lucra pentru a depana și rezolva orice problemă. Satelitul are sisteme redundante și protocoale de rezervă concepute pentru a maximiza șansele de succes ale misiunii.",
+    "paragraph2": "În plus, satelitul ar putea rămâne pe orbită mai puțin de 10 ani dacă condițiile atmosferice sau alți factori determină o decădere orbitală mai timpurie. Deși l-am proiectat să reziste cel puțin un deceniu, durata sa de viață reală depinde de condiții pe care nu le putem controla pe deplin.",
+    "paragraph3": "Dacă prima lansare eșuează sau dacă nu reușim să îndeplinim această misiune conform planului, vom explora căi alternative, inclusiv o a doua încercare de lansare cu bugetul disponibil, parteneriate cu alte misiuni sau documentarea încercării ca parte a narațiunii operei de artă despre aspirație și limitări."
+  },
+  "imageAlts": {
+    "india": "Centrul Spațial ISRO, India",
+    "satellite": "Satelitul Orbital Temple"
+  }
+}

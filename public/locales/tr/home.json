@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "Yörünge Tapınağı",
+    "subtitle": "bir sanat eseri ve bir uydu,\nhiçbir duvarın ulaşamayacağı bir yerde,\nradikal kapsayıcı bir tapınak olmayı hedefliyor."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "ritüel"
+  },
+  "cta": {
+    "link": "Başka bir tapınak mı?",
+    "arrowAlt": "ok"
+  },
+  "dome": {
+    "alt": "Kubbe"
   }
 }

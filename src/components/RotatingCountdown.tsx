@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { useTranslation } from 'react-i18next';
 import { countdownTranslations } from '../data/countdownTranslations';
 
 interface TimeLeft {
@@ -9,8 +10,7 @@ interface TimeLeft {
 }
 
 export default function RotatingCountdown() {
-  const [currentLangIndex, setCurrentLangIndex] = useState(0);
-  const [fadeIn, setFadeIn] = useState(true);
+  const { i18n } = useTranslation();
   const [timeLeft, setTimeLeft] = useState<TimeLeft>({
     days: 0,
     hours: 0,
@@ -18,18 +18,10 @@ export default function RotatingCountdown() {
     seconds: 0
   });
 
-  // Rotate languages every 5 seconds
-  useEffect(() => {
-    const langInterval = setInterval(() => {
-      setFadeIn(false);
-      setTimeout(() => {
-        setCurrentLangIndex((prev) => (prev + 1) % countdownTranslations.length);
-        setFadeIn(true);
-      }, 300);
-    }, 5000);
-
-    return () => clearInterval(langInterval);
-  }, []);
+  // Get translation based on current i18n language
+  const currentTranslation = countdownTranslations.find(t => t.code === i18n.language)
+    || countdownTranslations.find(t => t.code === 'en')
+    || countdownTranslations[0];
 
   // Countdown timer
   useEffect(() => {
@@ -57,8 +49,6 @@ export default function RotatingCountdown() {
     return () => clearInterval(timer);
   }, []);
 
-  const currentTranslation = countdownTranslations[currentLangIndex];
-
   return (
     <>
       {/* Countdown Timer */}
@@ -71,10 +61,10 @@ export default function RotatingCountdown() {
           flexWrap: 'wrap',
           margin: '2rem 0'
         }}>
-          <TimeUnit value={timeLeft.days} label={currentTranslation.days} fadeIn={fadeIn} />
-          <TimeUnit value={timeLeft.hours} label={currentTranslation.hours} fadeIn={fadeIn} />
-          <TimeUnit value={timeLeft.minutes} label={currentTranslation.minutes} fadeIn={fadeIn} />
-          <TimeUnit value={timeLeft.seconds} label={currentTranslation.seconds} fadeIn={fadeIn} />
+          <TimeUnit value={timeLeft.days} label={currentTranslation.days} />
+          <TimeUnit value={timeLeft.hours} label={currentTranslation.hours} />
+          <TimeUnit value={timeLeft.minutes} label={currentTranslation.minutes} />
+          <TimeUnit value={timeLeft.seconds} label={currentTranslation.seconds} />
         </div>
       </div>
 
@@ -83,10 +73,9 @@ export default function RotatingCountdown() {
         fontSize: '16px',
         lineHeight: 1.6,
         color: '#ffffff',
-        opacity: fadeIn ? 0.9 : 0,
+        opacity: 0.9,
         maxWidth: '600px',
         margin: '0 auto',
-        transition: 'opacity 0.3s ease',
         textAlign: 'center'
       }}>
         {currentTranslation.description}
@@ -97,32 +86,21 @@ export default function RotatingCountdown() {
 
 // Separate component for notify link that syncs with language rotation
 export function RotatingNotifyLink() {
-  const [currentLangIndex, setCurrentLangIndex] = useState(0);
-  const [fadeIn, setFadeIn] = useState(true);
+  const { i18n } = useTranslation();
 
-  useEffect(() => {
-    const langInterval = setInterval(() => {
-      setFadeIn(false);
-      setTimeout(() => {
-        setCurrentLangIndex((prev) => (prev + 1) % countdownTranslations.length);
-        setFadeIn(true);
-      }, 300);
-    }, 5000);
-
-    return () => clearInterval(langInterval);
-  }, []);
-
-  const currentTranslation = countdownTranslations[currentLangIndex];
+  // Get translation based on current i18n language
+  const currentTranslation = countdownTranslations.find(t => t.code === i18n.language)
+    || countdownTranslations.find(t => t.code === 'en')
+    || countdownTranslations[0];
 
   return (
     <a
       href="/notify-me"
       style={{
         color: '#ffffff',
-        opacity: fadeIn ? 0.6 : 0,
+        opacity: 0.6,
         fontSize: '14px',
-        textDecoration: 'none',
-        transition: 'opacity 0.3s ease'
+        textDecoration: 'none'
       }}
       className="notify-link-rotating"
     >
@@ -131,7 +109,7 @@ export function RotatingNotifyLink() {
   );
 }
 
-function TimeUnit({ value, label, fadeIn }: { value: number; label: string; fadeIn: boolean }) {
+function TimeUnit({ value, label }: { value: number; label: string }) {
   return (
     <div className="time-unit" style={{
       textAlign: 'center',
@@ -150,9 +128,8 @@ function TimeUnit({ value, label, fadeIn }: { value: number; label: string; fade
         fontSize: '14px',
         fontWeight: 400,
         color: '#ffffff',
-        opacity: fadeIn ? 0.6 : 0,
-        textTransform: 'lowercase',
-        transition: 'opacity 0.3s ease'
+        opacity: 0.6,
+        textTransform: 'lowercase'
       }}>
         {label}
       </div>

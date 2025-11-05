@@ -1,0 +1,17 @@
+{
+  "title": "Tehniskā informācija — Orbitālais templis",
+  "heading": "Tehniskā informācija",
+  "satellite": {
+    "heading": "Satelīts",
+    "specs": "Izmēri: 50x58x64 mm<br /> 1P PocketQube<br /> Svars: 245 g<br /> Materiāli: alumīnijs, zelts, stikla šķiedra un elektroniskie komponenti.<br /> Orbīta: Augstums 525 ± 25 km; slīpums: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena/Skulptūra",
+    "specs": "Izmēri: 6 m (diametrs) e 1,2 m (augstums)<br /> Svars: 46 kg<br /> Materiāli: alumīnijs, epoksīda spoguļdēlis, zeltains alumīnija kupols, kas piekārts pie sastatņu konstrukcijas."
+  },
+  "radio": {
+    "heading": "Radio specifikācijas NASA katalogā:",
+    "specs": "Lejupsaite: 437 MHz<br /> Uzaicinājums: Statuss: GRAFIKS 2025. GADAM"
+  },
+  "imageAlt": "Tehniskās informācijas diagramma"
+}

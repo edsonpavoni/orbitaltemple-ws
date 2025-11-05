@@ -1,0 +1,17 @@
+{
+  "title": "Teknisk informasjon – Orbitaltempelet",
+  "heading": "Teknisk informasjon",
+  "satellite": {
+    "heading": "Satellitt",
+    "specs": "Mål: 50x58x64 mm<br /> 1P PocketQube<br /> Vekt: 245 g<br /> Materialer: aluminium, gull, glassfiber og elektroniske komponenter.<br /> Bane: Høyde 525 ± 25 km; helling: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenne/Skulptur",
+    "specs": "Mål: 6 m (diameter) og 1,2 m (høyde)<br /> Vekt: 46 kg<br /> Materialer: aluminium, epoksyspeilplate, gyllen aluminiumskuppel opphengt i en stillasstruktur."
+  },
+  "radio": {
+    "heading": "Radiospesifikasjoner NASA-katalog:",
+    "specs": "Nedlastingsdato: 437 MHz<br /> Utlysning: Status: TIDSPLAN FOR 2025"
+  },
+  "imageAlt": "Teknisk informasjonsdiagram"
+}

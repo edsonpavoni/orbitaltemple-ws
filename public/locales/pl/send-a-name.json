@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "wchodząc\nw rytuał\nwysłania imienia\ndo\norbitalnej świątyni\nw kosmosie\nweź\noddech",
+    "button": "jestem gotowy"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "wpisz nazwę",
+    "subtitle": "zostanie ona docelowa do Świątyni Orbitalnej w kosmosie.",
+    "placeholder": "nazwa",
+    "button": "niech wznosi się"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "wpisz swój adres e-mail",
+    "subtitle": "więc otrzymasz wiadomość, gdy imię będzie się zmieniać w kolejności rosnącej.",
+    "placeholder": "Twój e-mail",
+    "button": "zrobione"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Załadunek"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "Nazwa\n{{name}}\njest teraz w kolejce\ndo wzniesienia.\nKiedy\nświątynia w kosmosie\nzrówna się z\nnaszą anteną\nna Ziemi,\nwyślemy\nnazwę,\na ty otrzymasz\nwiadomość."
   }
 }

@@ -1,0 +1,77 @@
+{
+  "title": "Az űrművészet rövid története - Orbitális templom",
+  "heading": "A művészet rövid története az űrben",
+  "intro": "Amióta <strong>1957-</strong> ben sikeresen felbocsátották az első műholdat, több mint tízezer műhold állt Föld körüli pályára. Ebben az új korszakban a művészek megtalálták a módját gyakorlatuk kibővítésének, és a világűr egy újfajta vászonná vált. Ezzel alapvető kérdések merültek fel az űrkutatás politikájával kapcsolatban – bár még sok minden mást kell feltárni.",
+  "sections": {
+    "leonov": {
+      "text": "Az első, űrben készült műalkotás egy Föld feletti napfelkeltét ábrázoló rajz volt, amelyet <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alekszej Leonov</a></strong> orosz űrhajós készített a Voszhod-2 űrhajó fedélzetén <strong>1965-</strong> ben.",
+      "caption": "Az első, űrben készült műalkotás és a ceruzák, amelyeket Alekszej Leonov használt a rajzolásához. Fotó: Jurij Gagarin Űrhajósképző Központ Múzeuma"
+    },
+    "moonMuseum": {
+      "paragraph1": "Három évvel később <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Holdmúzeumban</a></strong> állítólag egy apró kerámiatányér landolt a Holdon, amelyen az akkori hat legkiemelkedőbb amerikai művész feliratai voltak: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> és <strong>Andy Warhol</strong> .",
+      "caption1": "A Holdmúzeum képe az eredeti New York Times cikkből. A hüvelykujj eltakarja Warhol rajzát.",
+      "paragraph2": "Warhol provokatív hozzájárulása – balra fent – kihívást jelentett a projekt számára az akkori kommunikációs média számára.",
+      "caption2": "A kép, amelyet a New York Times úgy döntött, hogy közzéteszi, alatta a műalkotással és Andy Warhol rajzával a bal felső sarokban."
+    },
+    "fallenAstronaut": {
+      "text": "<strong>1971-</strong> ben az Apollo 15 űrhajósa, <strong>David Scott</strong> egy kisméretű humanoid alumínium szobrot helyezett el a Holdon, melynek címe <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Bukott űrhajós</a></strong> . A belga művész <strong>, Paul Van Hoeydonck</strong> ezzel a darabbal az űrkutatás fejlődése során elhunyt űrhajósok és kozmonauták emlékét kívánta állítani.",
+      "caption": "A Hadley-Apenninek leszállóhelyén a Holdon hagyott emléktábla képe."
+    },
+    "pioneerVoyager": {
+      "text": "Az <strong>1970-es</strong> években mind a <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> , mind a <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> űrszondák új horizontokat nyitottak az űrművészet számára. Arany eloxált alumínium plaketteket vittek a Földről érkező vizuális üzenetekre a távoli jövőben esetleg rátaláló űrhajósoknak, és az emberi életet ábrázolták a legalapvetőbb elemeiben.",
+      "caption": "A Pioneer 10 és 11 emléktáblái, amelyeket az 1970-es években vittek a mélyűrbe."
+    },
+    "dove": {
+      "text": "<strong>1990-</strong> ben Brazília nyomot hagyott ezen a területen <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a DOVE/OSCAR-17-</a></strong> tel, egy ötletes, nagy költői erejű amatőr műholddal. Bár alkotója nem tartotta magát művésznek, mélyen költői vállalkozás volt: gyermekek békéért könyörgő hangjait rögzítette, és azokat több mint kétezer rádióamatőrhöz továbbította világszerte, így egy úttörő CubeSat műholdat kollektív hangművé alakított át.",
+      "caption": "DOVE/OSCAR-17, Brazília költői műholdja, amely gyermekek békéért szóló hangjait közvetíti, 1990."
+    },
+    "lastPictures": {
+      "text": "<strong>2012-</strong> ben <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> művész piacra dobta <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Az utolsó képek” című</a></strong> , 100 fényképet tartalmazó mikromaratott lemezét, amely a geostacionárius pályán keringő Echostar XVI kommunikációs műholdra van rögzítve. Úgy tervezték, hogy több milliárd évig kitartson, és régészeti leletként a távoli jövőben is fennmaradjon az emberi civilizációt követően.",
+      "caption": "A The Last Pictures, egy mikrogravírozott lemez, amelyet az emberiség túlélésére terveztek, és 2012-ben jelent meg."
+    },
+    "ulises": {
+      "text": "<strong>2015</strong> -ben a <strong>Colectivo Espacial Mexicano</strong> (Mexikói Űrkollektíva) fellőtte <strong>az Ulises I-et</strong> , egy <strong>Juan José Díaz Infante Casasús</strong> művész irányításával konceptuális operaként megálmodott nanoműholdat. A műholdat egy ballon vitte a sztratoszférába a Feria del Libro de Guadalajara keretében. A tervek szerint körülbelül négy óra múlva robbant fel, majd ejtőernyővel ereszkedett le.",
+      "caption": "Az Ulises I, a Colectivo Espacial Mexicano konceptuális szatellitoperája."
+    },
+    "artsat": {
+      "text": "Csak <strong>2014-</strong> ben bocsátották fel az első tisztán művészeti célú műholdat. A Tokiói Egyetem <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> projektje térbeli adatokat küldött a Földre, amelyeket művészeti installációkban és zenei alkotásokban használtak fel.",
+      "caption1": "Az ARTSAT-1 Invader vázszerkezete és a Földön maradt alkatrészek.",
+      "caption2": "misszió [TÉR x MŰVÉSZET] − a kozmológiákon túl című kiállítás a tokiói Kortárs Művészeti Múzeumban"
+    },
+    "kac": {
+      "text": "A brazil és amerikai kortárs művész, <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> <strong>a NASA-val</strong> és <strong>a SpaceX-</strong> szel való együttműködés révén járult hozzá az űrművészethez. A francia űrhajóssal <strong>, Thomas Pesquet-</strong> vel közösen alkotott <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Belső teleszkóp”</a></strong> ( <strong>2017</strong> ) című szobra a <strong>Nemzetközi Űrállomáson</strong> készült.",
+      "caption": "A Nemzetközi Űrállomás belső távcsöve, amelyet a francia űrhajós Thomas Pesquet-vel közösen készítettek, 2017."
+    },
+    "enoch": {
+      "text": "<strong>2018-</strong> ban egy művészeti projektként épített passzív CubeSat műholdat bocsátottak Föld körüli pályára. A bahamai konceptuális művész, <strong>Tavares Strachan</strong> által tervezett <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> egy 24 karátos arany baldachinos üveget tartalmaz, amelyben az első afroamerikai űrhajós, <strong>Robert Henry Lawrence Jr.</strong> mellszobra látható.",
+      "caption": "ENOCH (kiállítóegység), 2015-2017. ⓒ Tavares Strachan, fotó ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Ugyanebben az évben <strong>Trevor Paglen</strong> <strong>Orbitális Reflektor</strong> című alkotása is megjelent egy nem működő CubeSat műholdba helyezett szoborként. A mű egy művészi gesztus volt, amelynek célja a világban elfoglalt helyünkről alkotott képünk megváltoztatása volt. Nem megfelelően került a helyére. Bár soha nem a tervek szerint nyílt meg, élénk beszélgetéseket indított el, és szenvedélyes reakciókat váltott ki csillagászok, tudósok, médiaorgánumok, oktatók, diákok és a nagyközönség részéről világszerte, bizonyítva, hogy a sikeres művészetnek nem kell technikailag is sikeresnek lennie.",
+      "caption": "Orbitális reflektor digitális renderelése, 2018"
+    },
+    "others": {
+      "text": "Sok más művész is hozzájárult az űrművészet területéhez, mindegyikük egyedi perspektívát hozva kutatásaiba. Figyelemre méltó projektjei közé tartozik <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pell</a></strong> űrhajós művészi kutatása, amely az emberi teljesítményt extrém környezetben vizsgálja; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandis</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> projektje, amely a történelmi és kortárs űrkutatási narratívákat vizsgálja; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahum</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> programja, amely művészi mikrogravitációs kísérleteket tesz lehetővé; és <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthur Woods</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Kozmikus táncos</a></strong> szobra, az első szobor, amelyet a Mir űrállomáson állítottak ki 1993-ban."
+    },
+    "orbitalTemple": {
+      "text": "<strong>2025-</strong> ben, négy évnyi kutatás és fejlesztés után, a brazil művész, <strong>Edson Pavoni</strong> és egy multidiszciplináris munkatársakból álló csoport felbocsátja <strong>az Orbital Temple-t</strong> , egy részvételen alapuló művészeti műholdat, amely a világ bármely pontján meghív bárkit, hogy neveket küldjön pályára, ezzel radikálisan befogadó, határokon átnyúló emlékművet hozva létre.",
+      "caption": "Orbitális templom a Mercosul Bienálon. Fotó: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Alekszej Leonov rajza és ceruzái",
+    "moonMuseum": "Holdmúzeum kerámia ostya",
+    "moonMuseumWarhol": "Holdmúzeum kerámia ostyája, ahol az összes műalkotás látható",
+    "fallenAstronaut": "Elesett űrhajós emlékműve a Holdon",
+    "pioneerPlaques": "Úttörő plakettek",
+    "dove": "WHERE/OSCAR-17 műhold",
+    "lastPictures": "Az utolsó képek lemez",
+    "ulises": "Ulises I műhold",
+    "artsatInvader": "ARTSAT-1 Invader műhold szerkezete",
+    "artsatArt": "ARTSAT-1 adatokból készült műalkotás",
+    "innerTelescope": "Eduardo Kac belső teleszkópja",
+    "enoch": "Tavares Strachan ENOCH bemutatóegysége",
+    "orbitalReflector": "Trevor Paglen orbitális reflektora",
+    "orbitalTemple": "Orbitális Templom Műhold"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Anneta Orbitali templile",
+  "heading": "Lõpeta oma annetus",
+  "donatingTo": "Te annetate:",
+  "chooseHow": "Valige, kuidas soovite oma maksuvaba annetuse teha:",
+  "option1": {
+    "heading": "1. võimalus: anneta kohe veebis",
+    "description": "Tehke oma annetus koheselt, kasutades krediitkaarti, deebetkaarti või muid internetimakseviise meie turvalise finantssponsori <strong>The Fieldi</strong> kaudu. Saate koheselt maksukviitungi.",
+    "button": "Anneta The Fieldi kaudu →"
+  },
+  "option2": {
+    "heading": "2. variant: Pangaülekanne Roy Sihtasutusele",
+    "description": "Tehke otsepangaülekanne või pangaülekanne meie strateegilisele partnerile ja finantssponsorile <strong>The Roy Foundationile</strong> . See valik sobib ideaalselt suuremate annetuste või rahvusvaheliste ülekannete jaoks.",
+    "bankingInfo": "Pangandusinfo",
+    "fields": {
+      "accountName": "Konto nimi:",
+      "bankName": "Panga nimi:",
+      "accountNumber": "Kontonumber:",
+      "routingNumber": "Marsruudinumber:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Viide:"
+    },
+    "instructions": "Palun lisage viite väljale &quot; <strong>Orbital Temple - {donationType}</strong> &quot;. Pärast ülekande tegemist saatke meile oma ülekande andmed aadressile <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> , et saada maksukviitung.",
+    "button": "Võtke meiega ühendust sissemakse kohta →"
+  },
+  "taxInfo": {
+    "heading": "Maksust mahaarvatav annetus",
+    "description": "Orbital Temple on mittetulundusühingu <strong>The Field (Performance Zone Inc.)</strong> rahaliselt toetatav projekt, mis on <strong>501(c)(3)</strong> staatusega organisatsioon. Kõik USA annetused on seadusega lubatud ulatuses maksuvabad.",
+    "questions": "Küsimused? Võtke meiega ühendust aadressil <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

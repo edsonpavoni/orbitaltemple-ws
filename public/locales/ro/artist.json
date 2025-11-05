@@ -1,0 +1,44 @@
+{
+  "title": "De la artist",
+  "opening": {
+    "question": "Cine e tipul ăsta să propună un templu în spațiu?",
+    "thanks": "Mulțumesc pentru întrebare.",
+    "answer": "Pe scurt, răspunsul este că sunt artist. Cel pe larg este acesta:"
+  },
+  "origin": {
+    "sao_paulo": "M-am născut la periferia orașului São Paulo, într-un cartier care m-a învățat de timpuriu ce înseamnă pericolul. Mulți dintre prietenii mei de școală sunt acum la închisoare. Tatăl meu vitreg este la închisoare. Violența nu era ceva despre care citeam, era lumea în care trebuia să mă orientez. Și știam că trebuie să evadez.",
+    "technology": "Tehnologia a devenit calea mea de ieșire. Am învățat să programez, am învățat electronică în adolescență. Codificarea era un limbaj care mă putea duce în altă parte. Lucrul cu tehnologia a fost evadarea mea din sărăcie.",
+    "christianity": "Dar căutam și apartenența, iubirea, ceva în care să cred. Am găsit creștinismul, sau acesta m-a găsit pe mine. Am fost acceptat. Am fost iubit. Aveam o comunitate. Am învățat să iert, să cred, să lucrez împreună pentru un scop mai înalt.",
+    "price": "Prețul, însă, a fost mare. Am învățat și multe lucruri pe care încă le dezvăț. Așa că am scăpat și de asta."
+  },
+  "searching": {
+    "walls": "Știu ce fac zidurile. Le-am simțit. Am fost de ambele părți: ținută afară, ținută înăuntru. Au urmat ani de căutare a ceva ce nu puteam numi. Dumnezeu a murit în acei ani. Dumnezeul despre care fusesem învățată, oricum, cel cu reguli, judecăți și uși care se deschideau doar pentru unii oameni.",
+    "art": "Am început să creez artă pentru a explora aceste întrebări: despre intimitate și tehnologie, despre memorie și moarte, despre cine merită raiul. Am început să construiesc mașini care să reimagineze relația noastră cu tehnologia, mașini care au nevoie de participarea ta, de prezența ta, de numele tău, pentru a se transforma din metal și cod în ceva viu."
+  },
+  "pandemic": {
+    "intro": "Apoi pandemia a lovit Brazilia.",
+    "government": "Când vaccinurile COVID au fost amânate, guvernul meu negocia comisioane de un dolar pe doză. Promovau medicamente despre care se înțelegea că sunt ineficiente, râzând în timp ce oamenii mureau din cauza dificultăților de respirație. Ne trezeam în fiecare zi cu un număr diferit. Câți oameni au murit în ultimele 24 de ore? Au fost mai mulți sau mai puțini decât se aștepta?",
+    "war": "Jumătate din lume era speriată, iar cealaltă jumătate nega. Eram în război, cu virusul și unii cu alții.",
+    "memorial": "Am vrut să creez spațiu pentru durerea colectivă, așa că, împreună cu sute de oameni, am creat Memorialul Inumeraveis. O operă de artă la intersecția dintre artă și jurnalism. Am intervievat familii care au pierdut pe cineva. Am scris povestea vieții persoanei pe care au pierdut-o. Am transformat numerele în istorii. Poezii, cântece, simfonii au fost create cu acele istorii. Vedetele au citit aceste povești la televiziunea națională. Proiectul a ajuns la milioane de oameni.",
+    "meaning": "Ceea ce conta nu era amploarea, ci faptul că fiecare poveste era un nume, o viață, raiul cuiva."
+  },
+  "discovery": {
+    "pattern": "După peste zece mii de conversații cu durere, a început să apară un tipar. Când vorbim despre cineva care a murit, nu spunem doar lucruri bune; selectăm fragmente din povestea lor ca și cum am scrie o scrisoare de recomandare. O recomandare pentru paznicul paradisului. Facem tot posibilul să-i trimitem într-un loc de acceptare, odihnă, onoare și amintire.",
+    "understanding": "Și am înțeles ceva ce a schimbat totul: am fost răniți chiar de templele pe care le-am construit. Convingerile noastre despre cine merită raiul îi modelează direct pe cei pe care îi excludem de pe Pământ. Colonizatorii portughezi din Brazilia credeau că oamenii de culoare nu aveau suflet; această credință justifica sclavia. Dacă erai indigen, dacă te născusei în locul nepotrivit sau iubeai persoana nepotrivită, ți se spunea că ușile raiului îți erau închise.",
+    "birth": "Așa s-a născut Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Niciun artist nu poate fi cu adevărat secular. Suntem legați pentru totdeauna de strămoșul nostru comun, șamanul. La început, a existat o peșteră. Oamenii pictau animale pe pereți nu pentru a decora, ci pentru a invoca. Au dansat, iar peștera a devenit un templu. Șamanul mânuiește spiritul ritualului; artistul mânuiește aura artei. Pictăm, sculptăm, programăm, ne proiectăm viitorul dorit nu pentru a decora, ci pentru a invoca. Toată arta este spirituală, chiar și atunci când pretinde că nu este."
+  },
+  "space": {
+    "question": "Unde am putea construi un templu fără ziduri? Unde nicio națiune sau religie nu și-ar putea revendica dreptul de autoritate. Unde ne-am putea imagina ca un singur grup.",
+    "answer": "Spaţiu.",
+    "description": "Un satelit de artă participativă din Sudul Global. Un templu pe orbită care invită pe toată lumea să-și trimită numele în spațiu, indiferent de cine este, unde s-a născut, pe cine iubește, în ce crede. Un loc unde incluziunea radicală este posibilă, pe orbită, dincolo de granițe.",
+    "mission": "Această misiune este open source. Fiecare document tehnic, fiecare linie de cod va fi disponibilă gratuit, astfel încât alți artiști, alte comunități, alte națiuni să își poată construi propriii sateliți. Așadar, Sudul Global nu doar participă la explorarea spațiului, ci o conduce."
+  },
+  "closing": {
+    "answer": "Deci cine e tipul ăsta să construiască un templu în spațiu? Nu eu îl construiesc. Templul este construit de oricine decide să trimită un nume, să-l vadă ca fiind sacru, să-l facă real. Eu sunt doar cel care propune. Tu ești cel care îl construiește dacă te hotărăști.",
+    "signature": "Cu amabilitate,",
+    "name": "Edson Pavoni"
+  }
+}

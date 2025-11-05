@@ -1,0 +1,13 @@
+{
+  "title": "Reciba notificaciones - Templo Orbital",
+  "heading": "Reciba una notificación cuando suba",
+  "description": "El 28 de noviembre de 2025, el Templo Orbital ascenderá.<br> Déjanos tu correo electrónico y te avisaremos cuando llegue al espacio.",
+  "form": {
+    "emailPlaceholder": "tu@correo.com",
+    "sendButton": "Enviar",
+    "sendingButton": "Envío...",
+    "successMessage": "Nos pondremos en contacto contigo cuando ascienda.",
+    "errorMessage": "Algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "backLink": "← Volver a la cuenta regresiva"
+}

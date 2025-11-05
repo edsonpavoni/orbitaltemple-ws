@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "Orbitale Tempel",
+    "subtitle": "is een kunstwerk en een satelliet,\nmet als doel een radicaal inclusieve tempel te zijn,\nop een plek waar geen muur kan komen."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "ritueel"
+  },
+  "cta": {
+    "link": "Toch nog een tempel?",
+    "arrowAlt": "pijl"
+  },
+  "dome": {
+    "alt": "Koepel"
   }
 }

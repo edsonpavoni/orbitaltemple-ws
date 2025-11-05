@@ -1,0 +1,167 @@
+{
+  "title": "Orbital Temple'ı Destekleyin - Göreve Katılın",
+  "heading": "Orbital Tapınağını Destekleyin",
+  "vision": "<strong>Orbital Temple</strong> <strong>, 28 Kasım 2025&#39;te</strong> <strong>Hindistan&#39;dan</strong> bir <strong>ISRO</strong> roketiyle fırlatılacak. Küresel Güney&#39;den katılımcı bir sanat uydusu olan bu uydu, radikal kapsayıcılığın bir anıtı, bir eğitim platformu ve teknoloji, yapay zeka ve uzay araştırmaları çağında kutsalın geleceği hakkında küresel bir tartışmanın katalizörü niteliğinde.",
+  "videoCaption": "Orbital Temple video tanıtımı, 1 dk.",
+  "accomplished": {
+    "heading": "Başardıklarımız",
+    "content": "Dört yıllık araştırma ve geliştirmenin ardından görev hazır. Uydu için <strong>donanım ve yazılım geliştirmeyi</strong> tamamladık, uçuş sertifikası için gerekli <strong>resmi sarsıcı testlerini</strong> geçtik ve ISRO ile sözleşmemizi imzaladık. Uydu inşa edildi. Teknoloji çalışıyor. Fırlatma için onay aldık."
+  },
+  "funding": {
+    "heading": "Finansman İlerlemesi",
+    "raised": "yükseltilmiş",
+    "of": "ile ilgili",
+    "goal": "amaç",
+    "button": "Misyonu Destekleyin"
+  },
+  "needs": {
+    "heading": "Desteğe İhtiyaç Duyduğumuz Şeyler",
+    "intro": "Bu tarihi görevi tamamlamak ve etkisini en üst düzeye çıkarmak için beş kritik bileşene yönelik desteğe ihtiyacımız var:",
+    "launch": {
+      "title": "ISRO Lansman Maliyetleri:"
+    },
+    "travel": {
+      "title": "Sanatçının Hindistan Yolculuğu:"
+    },
+    "carbon": {
+      "title": "Karbon Ofset programı:"
+    },
+    "education": {
+      "title": "Eğitim Programı:"
+    },
+    "docPreProd": {
+      "title": "Belgesel Ön Yapım:"
+    },
+    "docProd": {
+      "title": "Belgesel Prodüksiyon:"
+    }
+  },
+  "decade": {
+    "heading": "Önümüzdeki On Yıl",
+    "intro": "Bu görev 28 Kasım 2025'te bitmiyor. Daha yeni başlıyor.",
+    "paragraph1": "Önümüzdeki <strong>10 yıl</strong> boyunca bu uydu, gezegenin her köşesinden gönderilen isimlere yanıt vererek Dünya yörüngesinde dönecek. Eğitim programı, <strong>binlerce genci</strong> uydu teknolojisi konusunda eğiterek Küresel Güney için <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Uzay Uçurumunu</a> ortadan kaldırmayı hedefliyor. Belgesel, dünya çapında <strong>milyonlarca kişiye</strong> ulaşarak aidiyet, hafıza ve kutsallık üzerine sohbetler başlatacak.",
+    "paragraph2": "Orbital Temple, bu on yıllık vizyonu kültürel açıdan anlamlı kılmak için <strong>Sathi Roy</strong> ve <strong>The Roy Foundation</strong> ile ortaklık kuruyor. Roy Foundation, dünya çapındaki yetersiz hizmet alan topluluklar için spiritüel eğitim, duygusal şifa ve bilinç araçlarına erişimi genişletmeye adanmış, kadim bilgelik ile modern teknolojiyi birleştirerek daha bilinçli, bağlantılı ve şefkatli bir dünya yaratmaya adanmış kâr amacı gütmeyen bir kuruluştur. Birlikte, Orbital Temple&#39;ın dünya çapındaki topluluklara ulaşan kalıcı bir hareket haline gelmesini sağlayacak altyapıyı oluşturuyoruz.",
+    "paragraph3": "Desteğiniz yalnızca bir fırlatmayı finanse etmekle kalmıyor; aynı zamanda on yıl boyunca yankılanacak ve gelecek nesil uzay sanatçılarına ve mühendislerine ilham verecek bir hareket yaratıyor."
+  },
+  "waysToSupport": {
+    "heading": "Destekleme Yolları",
+    "individualDonations": {
+      "heading": "Bireysel Bağışlar",
+      "intro": "Göreve size uygun bir seviyede katılın. Bireysel destekçiler, bu tarihi projenin temelini oluşturuyor.",
+      "orbitalFriend": {
+        "title": "Yörünge Arkadaşı",
+        "benefits": "Alacağınız: Web sitesi onur listesinde adınız · Uydu fırlatıldığında kişiselleştirilmiş yörünge sertifikası · Belgesel teşekkür kredisi · Vergiden düşülebilir makbuz",
+        "button": "Vergi İndirimli Bağış Yapın"
+      },
+      "satelliteSupporter": {
+        "title": "Uydu Destekçisi",
+        "benefits": "Şunları alırsınız: Tüm Orbital Friend avantajları · Özel uydu izleme uygulaması erişimi · Sanatçıya teşekkür video mesajı · Vergi indirimi sağlayan makbuz",
+        "button": "Vergi İndirimli Bağış Yapın"
+      },
+      "spaceAdvocate": {
+        "title": "Uzay Savunucusu",
+        "benefits": "Alacağınız hizmetler: Tüm Uydu Destekçisi avantajları · Belgesel jeneriğinde adınızın yazılı olması · Özel belgesel gösterimine davet · Ekipten üç ayda bir güncellemeler · Vergi indirimi makbuzu",
+        "button": "Vergi İndirimli Bağış Yapın"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Belirli Bir Bileşeni Finanse Edin",
+    "intro": "Katkınız, misyonun belirli yönlerini doğrudan finanse eder. Size hitap edeni seçin veya daha büyük bir etki yaratmak için birden fazlasını birleştirin.",
+    "launch": {
+      "title": "Uzay Fırlatmasını Finanse Edin",
+      "description": "<strong>ISRO</strong> roketinin <strong>28 Kasım 2025&#39;teki</strong> gerçek fırlatma maliyeti. Bu, Orbital Temple&#39;ı yörüngeye gönderiyor ve orada on yıl boyunca dünyadaki herkesin erişebileceği katılımcı bir sanat uydusu ve gökyüzündeki tapınak olarak kalacak.",
+      "benefits": "Alacağınız: \"Fırlatma Sponsoru\" unvanı · Tüm basın bültenlerinde yer alma · Ekranda belgesel onayı · Fırlatma etkinliklerine VIP erişim · Edson ve görev ekibiyle üç ayda bir yapılan görüntülü görüşmelere katılma · Uydu yörünge verilerini içeren sertifika · Vergi indirimi sağlayan makbuz",
+      "button": "Vergi İndirimli Bağış Yapın"
+    },
+    "travel": {
+      "title": "Sanatçının Hindistan Yolculuğunu Finanse Edin",
+      "description": "Sanatçı Edson Pavoni ve çekirdek ekibinin <strong>28 Kasım 2025&#39;te Hindistan&#39;da</strong> gerçekleşecek lansmana tanıklık etmesi için seyahat, konaklama ve prodüksiyon masrafları. Bu seyahat, belgesel çekimleri, medya kapsamı ve bu tarihi anda Küresel Güney&#39;i temsil etmek açısından büyük önem taşıyor.",
+      "benefits": "Alacağınız: Sanatçıdan kişisel teşekkür · Sahne arkası belgesel erişimi · Belgesel kredilerinde adınız · Vergi indirimi sağlayan makbuz",
+      "button": "Vergi İndirimli Bağış Yapın"
+    },
+    "carbon": {
+      "title": "Karbon Ofset Programını Finanse Edin",
+      "description": "Roket fırlatma ve uydunun üretimi de dahil olmak üzere tüm karbon emisyonları nötrleştirilecektir. Bu görevin olumsuz çevresel ayak izi bırakmamasını sağlamak için doğrulanmış karbon dengeleme programlarıyla çalışıyoruz.",
+      "benefits": "Alacağınız: Web sitesi onur listesinde adınız · Kişiselleştirilmiş sertifika · Vergi indirimi sağlayan makbuz",
+      "button": "Vergi İndirimli Bağış Yapın"
+    },
+    "education": {
+      "title": "Eğitim Programını Finanse Edin",
+      "description": "Küresel Güney gençlerine uydu inşa etmeyi öğreten eksiksiz çok dilli kursu geliştirin ve yayınlayın. Müfredat geliştirme, video prodüksiyonu, platform barındırma ve yetersiz eğitim gören öğrenciler için ilk yıl bursları içerir. Uzay eğitimi için kalıcı bir altyapı oluşturur.",
+      "benefits": "Alacağınız ödüller: \"Eğitim Kurucu Sponsoru\" tanınması · Adınıza burslar · Eğitim materyallerinde yer alma · Bursunuzun finanse ettiği ilk öğrenci grubuyla tanışma (sanal veya şahsen) · Belgesel özelliği bölümü · Lansman etkinliklerinde konuşma fırsatı · Vergi indirimi makbuzu",
+      "button": "Vergi İndirimli Bağış Yapın"
+    },
+    "docPreProd": {
+      "title": "Belgesel Ön Yapımını Finanse Edin",
+      "description": "<strong>&quot;Bir Tapınağı Ne Oluşturur?&quot;</strong> belgeselinin ilk aşamasını finanse edin. Bu aşama, <strong>Hindistan&#39;da</strong> düşünce liderleri ve spiritüel uygulayıcılarla 2 derinlemesine röportaj yapmayı, küçük bir ekiple seyahat ve prodüksiyonu ve ön prodüksiyon görüntülerinin düzenlenmesini içerir. Bu aşama, belgeselin temelini oluşturur ve yaratıcı yönünü doğrular.",
+      "benefits": "Alacağınız: Ortak Yapımcı kredisi · Belgesel kredilerinde adınız · Ön prodüksiyon görüntülerinin özel gösterimi · Sahne arkası erişimi · Vergi indirimi sağlayan makbuz",
+      "button": "Vergi İndirimli Bağış Yapın"
+    },
+    "docProd": {
+      "title": "Belgesel Yapımını Finanse Edin",
+      "description": "Sanat, teknoloji ve kutsalın kesişimini inceleyen uzun metrajlı belgesel <strong>&quot;Bir Tapınağı Ne Oluşturur?&quot;</strong> un tüm prodüksiyon ve post prodüksiyonu. Birçok ülkede çekim, düşünce liderleriyle ek röportajlar, kapsamlı kurgu, renk derecelendirme, ses tasarımı ve <strong>Hindistan</strong> ile <strong>New York&#39;ta</strong> ilk gösterimler içeriyor.",
+      "benefits": "Alacağınız: Yönetici Yapımcı kredisi · Açılış jeneriğinde yer alma · Konuklarınız için özel gösterim · Dünya prömiyeri davetiyeleri (her iki şehirde) · Prömiyerden önce Edson ve belgesel yönetmeniyle özel akşam yemeği · Sahne arkası erişimi · Vergi indirimi sağlayan makbuz",
+      "button": "Vergi İndirimli Bağış Yapın"
+    },
+    "artCollector": {
+      "title": "Tek Orbital Temple Sanat Koleksiyoncusu Olun",
+      "imageAlt": "Mercosul Bienali'ndeki Orbital Temple enstalasyonu",
+      "imageCaption": "13. Mercosul Bienali'ndeki Orbital Tapınağı, Porto Alegre. Clara Marques'in fotoğrafı.",
+      "paragraph1": "Bu görev için üç özdeş uydu üretildi. <strong>Biri</strong> 28 Kasım 2025&#39;te uzaya fırlatılacak. <strong>Biri</strong> dünya çapındaki müze sergilerini gezecek. <strong>Biri ise</strong> bu vizyonu finanse etmek ve uzay sanatının tarihine ait bir parçaya sahip olmak isteyen cömert bir koleksiyoncu için ayrılmış.",
+      "paragraph2": "Bu bir replika değil; orijinal üç uydudan biri. Hem tam <strong>işlevli</strong> hem de <strong>heykel</strong> niteliğinde bir uzay aracı. Uydunun çapı <strong>5 cm³</strong> , ağırlığı <strong>245 g</strong> ve kubbesi <strong>altından</strong> yapılmış.",
+      "paragraph3": "Bu <strong>1/1 bir sanat eseridir</strong> .",
+      "paragraph4": "Koleksiyoncu olarak, <strong>13. Mercosul Bienali</strong> için tasarlanan, uyduyu hem sanat hem de teknoloji olarak sergileyen eksiksiz bir müze sergisi olan aynı enstalasyonu alacaksınız. Bu enstalasyon, önemli uluslararası mekanlarda sergilenmiş olup, uzay sanatı sunumunun en yüksek standardını temsil etmektedir.",
+      "paragraph5": "Desteğiniz, lansmanı, eğitim programını ve teknoloji, yapay zeka ve uzay keşifleri çağında kutsallık hakkında küresel tartışmalar başlatacak belgeseli kapsayan vizyonun tamamının finansmanına yardımcı olacak. Adınız bu tarihi görevle kalıcı olarak iç içe geçecek.",
+      "button": "Bu Fırsat Hakkında Bilgi Alın"
+    }
+  },
+  "gratitude": {
+    "heading": "Destekçilerimize Minnettarlığımızla",
+    "intro": "Orbital Temple, sanatın yarının imgelerini yarattığını anlayan kurumlar, bireyler ve radikal kapsayıcılığa inananlar sayesinde mümkün oluyor.",
+    "pearmill": {
+      "title": "Kurucu Destekçi",
+      "description": "Pearmill, ABD'nin en hızlı büyüyen performans pazarlama ajanslarından biri olup, dünyanın en ikonik girişimlerinden bazılarının büyümesine yardımcı olmak için birlikte çalışan tasarımcılar, pazarlamacılar ve mühendislerden oluşan bir gruptur. Cömert destekleri, Orbital Temple ekibinin kritik bileşenleri satın almasını ve bu uydu görevini mümkün kılan açık kaynaklı donanımı geliştirmesini sağlamıştır."
+    },
+    "yourName": "Adınız burada olabilirdi. Tarihin yazılmasına katılın."
+  },
+  "people": {
+    "heading": "Bu Misyonun Arkasındaki İnsanlar",
+    "intro": "Orbital Temple, 10 yıllık bir projedir. Hayatlarını sanat, teknoloji ve insan bağları arasında köprü kurmaya adamış ve önümüzdeki on yıl boyunca bu vizyonu sürdürecek altyapıyı inşa eden iki kişi tarafından yönetilmektedir.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Sanatçı ve Teknoloji Uzmanı",
+      "paragraph1": "Edson, sanat ve teknolojinin kesiştiği noktada insani yakınlığı araştıran bir sanatçı ve teknoloji uzmanıdır. Çalışmaları mimari enstalasyonlar, şiir, fotoğrafçılık ve uydu teknolojisini kapsamaktadır.",
+      "paragraph2": "Eserleri 13. Mercosul Bienali (Brezilya), IX. Uluslararası Bienali (Özbekistan) ve NTU Global Dijital Sanat Ödülü'nde (Singapur) sergilendi.",
+      "paragraph3": "<strong>Sanat ve teknoloji alanında 20 yılı</strong> aşkın deneyime sahip olan sanatçı, <strong>2016 Rio Olimpiyatları</strong> ve <strong>Inter American Development Bank</strong> için yaratıcı ekiplerle çalıştı. Proxxima Dergisi tarafından <strong>Brezilya&#39;nın en yenilikçi 50 profesyonelinden</strong> biri seçildi, üst üste iki kez <strong>IF Tasarım Ödülü</strong> (2017-2018) kazandı ve <strong>Lumen Prize Futures Ödülü</strong> finalisti oldu. Çalışmaları iki bienalde sergilendi ve <strong>Ludwig Çağdaş Sanat Müzesi</strong> (Budapeşte), <strong>Inhotim Enstitüsü</strong> (Brezilya) ve <strong>Tasarım ve Moda Müzesi&#39;nde</strong> (Lizbon) yer aldı. Ayrıca New York, Pekin, Singapur, Dubai, Rio de Janeiro ve diğer şehirlerde sergiler açtı."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Roy Vakfı Kurucusu ve Stratejik Ortak",
+      "paragraph1": "Sathi, dünya çapındaki yetersiz hizmet alan topluluklar için manevi eğitim, duygusal şifa ve bilinç araçlarına erişimi genişletmeyi amaçlayan kâr amacı gütmeyen bir kuruluş olan <strong>The Roy Foundation&#39;ın</strong> kurucusudur. Vakıf, okullar, kültür kurumları ve yerel kuruluşlarla iş birliği yaparak yapay zeka destekli sağlıklı yaşam araçları, topluluk müfredatı ve dönüşüme ilham veren medyayı dağıtmaktadır.",
+      "paragraph2": "Nörobilim, koçluk ve liderlik alanlarında deneyime sahip olan Sathi, Kuzey Amerika ve Hindistan genelinde ekipler kurup yönetmiş ve tek bir girişimde yıllık <strong>600 milyon dolar</strong> satış rakamına ulaşmıştır. Ayrıca, dijital odaklı spiritüel bir hareket olan <strong>OHM&#39;nin</strong> kurucusu, dijital yapay zeka destekli bir ofis platformu olan <strong>SUTE&#39;nin</strong> kurucu ortağı ve <strong>RISE Global Creative&#39;de</strong> Danışman ve Küresel Büyüme Başkanı olarak görev yapmaktadır.",
+      "paragraph3": "Doğu ve Batı felsefelerini birleştiren Bengal asıllı Amerikalı bir kadın olan Sathi, 21. yüzyılın spiritüel ve sanatsal hareketlerine benzersiz bir bakış açısı getiriyor. <strong>65.000&#39;den fazla takipçisi</strong> ve <strong>40 milyondan fazla çevrimiçi izlenimiyle</strong> , kültürel ve spiritüel farklılıkların ötesinde bağlantı kuran küresel topluluklar kuruyor."
+    },
+    "together": "Roy Vakfı ile birlikte, 28 Kasım 2025'te bir uydu fırlatmayla başlayıp, dünya çapında hizmet alamayan topluluklara ulaşacak ve gelecek nesillere ilham verecek bir hareketle devam edecek olan, sanatı, teknolojiyi, eğitimi ve kutsalı birbirine bağlayan 10 yıllık bir misyon inşa ediyoruz."
+  },
+  "join": {
+    "heading": "Bize katılın",
+    "content": "Uydu inşa edildi. Teknoloji hazır. Fırlatma tarihi belirlendi: <strong>28 Kasım 2025.</strong> Sanatın neler yapabileceğini, nereye gidebileceğini ve kime hizmet edebileceğini yeniden tasarlayan bir göreve katılmanın tam zamanı.",
+    "fundSpecific": {
+      "heading": "Belirli Bir Bileşeni Finanse Edin veya Kurucu Ortak Olun",
+      "description": "Yukarıdaki finansman fırsatlarından birini seçin, sanat koleksiyoncusu olma konusunda bilgi alın veya vizyonunuza uygun özel bir sponsorluk hakkında görüşün.",
+      "button": "Başlamak İçin Bizimle İletişime Geçin →"
+    },
+    "generalDonation": {
+      "heading": "Vergi İndirimli Katkıda Bulunun",
+      "description": "Büyük veya küçük tüm katkılar misyonu destekler ve mali sponsorumuz The Field aracılığıyla vergi indirimine tabidir.",
+      "button": "The Field aracılığıyla bağış yapın →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Vergiden Düşülebilir Bağış",
+    "paragraph1": "Orbital Temple, New York merkezli <strong>501(c)(3)</strong> kâr amacı gütmeyen bir kuruluş olan <strong>The Field&#39;ın (Performance Zone Inc.)</strong> mali olarak desteklediği bir projedir. ABD&#39;deki tüm bağışlar, yasaların izin verdiği ölçüde vergi indirimine tabidir.",
+    "paragraph2": "<strong>Alan</strong><br> 75 Maiden Lane, Süit 906<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Çekle bağış yaparken lütfen <strong>Performance Zone Inc.</strong> adına düzenleyin ve <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong> notunu ekleyin."
+  }
+}

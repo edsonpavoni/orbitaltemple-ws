@@ -1,0 +1,43 @@
+{
+  "title": "Education & Open Source - Orbital Temple",
+  "heading": "Education & Open Source",
+  "intro": {
+    "paragraph1": "All technology developed for the Orbital Temple mission will be <strong>open source</strong> and available online in <strong>Portuguese</strong>, <strong>English</strong>, <strong>Spanish</strong>, and <strong>Hindi</strong>, fostering the advancement of space exploration in the <strong>Global South</strong>. New missions and projects can use Orbital Temple as a foundation for their own artistic or scientific experiments.",
+    "paragraph2": "As a part of its educational mission, Orbital Temple will offer a free multilingual course on how to build and launch a satellite. It will be a hands-on opportunity to learn about satellite technology and put it into practice. Anyone above the age of <strong>16</strong> will be able to build their own satellite, learning about the history of art in space, fundamental concepts of electronics, mechanics and space science, including how to finance projects and how to build an antenna to communicate with satellites in orbit."
+  },
+  "spaceGap": {
+    "heading": "Why This Matters: The Space Gap",
+    "paragraph1": "The term <strong>\"Space Gap\"</strong> refers to the divide between developed nations that can access the technological opportunities obtained through space exploration, and developing nations that lack access to these technologies. Countries in the Global South must pay substantial amounts to foreign governments or companies for basic access to information produced by satellite technologies.",
+    "paragraph2": "Space technology provides critical benefits: satellites help combat illegal logging, illegal fishing, and illegal wildlife trade, which represent more than <strong>$73 billion per year</strong>. They provide essential information about climate, water production, and food security. Satellites enable precision irrigation and agricultural techniques, and help prevent natural disasters. The space industry could create up to <strong>1 million jobs</strong> by <strong>2030</strong>, yet these opportunities remain inaccessible to many in the Global South.",
+    "paragraph3": "By providing open-source technology and education, we aim to democratize access to space and empower a new generation to dream beyond the sky."
+  },
+  "empowering": {
+    "heading": "Empowering the Next Generation",
+    "intro": "We will teach the next generation of space explorers how to build and launch their own satellites, covering essential topics including:",
+    "topics": {
+      "history": "<strong>History of art in space:</strong> Understanding the lineage of artistic satellites and space-based artworks.",
+      "concepts": "<strong>Core concepts:</strong> <strong>ArtSat</strong> (artistic satellites), <strong>Open Source</strong> space technology, and the <strong>Space Gap</strong>.",
+      "missions": "<strong>Space missions:</strong> How to conceptualize and design a mission, and how to form a team to execute it.",
+      "electronics": "<strong>Electronics in space:</strong> Fundamental concepts of electronic components that can survive and function in the space environment.",
+      "mechanics": "<strong>Mechanics in space:</strong> Understanding the structural and mechanical requirements for satellite design.",
+      "orbits": "<strong>Orbits and launchers:</strong> Different types of orbits and how to select launch providers for your mission.",
+      "financing": "<strong>Financing strategies:</strong> How to secure funding and resources to launch your satellite. The course will provide resources for obtaining funding for your launch, helping students find programs and grants from international institutions that support young scientists and students in sending their satellites into space.",
+      "groundStation": "<strong>Ground station development:</strong> How to build an antenna to communicate with the Orbital Temple and other satellites."
+    }
+  },
+  "technology": {
+    "heading": "The Technology: PocketQube Satellites",
+    "paragraph1": "Students will learn to work with <strong>PocketQube</strong> satellites, a nanosatellite standard measuring just <strong>5cm³</strong> and weighing up to <strong>250g</strong>. Despite their small size, PocketQubes are powerful tools capable of Earth observation, monitoring, and communication.",
+    "paragraph2": "These compact satellites have numerous real-world applications, from scientific research on climate change to intercontinental communication. Because they are smaller and lighter, they are more affordable to build and launch, making space more accessible to students, researchers, and artists worldwide."
+  },
+  "globalAccess": {
+    "heading": "Global Access, Starting from the Global South",
+    "paragraph1": "The course will be available to anyone <strong>16 years or older</strong>, completely <strong>free of charge</strong>. We are starting with content in <strong>Portuguese</strong>, <strong>Spanish</strong>, <strong>English</strong>, and <strong>Hindi</strong>, with plans to expand to additional languages as the program grows.",
+    "paragraph2": "Our mission begins in the Global South and extends to the world, ensuring that the next generation of space explorers comes from all corners of Earth."
+  },
+  "callToAction": {
+    "heading": "Help Us Make This Happen",
+    "content": "This educational program is currently in development. We are seeking partners and donors who share our vision of democratizing access to space technology. If you or your organization would like to support this initiative, please visit our <a href=\"/support\">support page</a> to learn about partnership opportunities."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

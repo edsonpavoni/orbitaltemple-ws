@@ -1,0 +1,138 @@
+{
+  "title": "Sajtó és média - Orbital Templom",
+  "heading": "Sajtó és média",
+  "pressContact": {
+    "heading": "Sajtókapcsolat",
+    "content": "Sajtómegkeresések, interjúk és médiamegkeresések esetén:<br /> <strong>Email:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Weboldal:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "A projektről",
+    "paragraph1": "Az Orbital Temple egy műalkotás és egy műhold, amelynek célja, hogy egy radikálisan befogadó templom legyen, amelyet olyan helyekre építenek, ahová falak sem érhetnek el. A brazil művész, Edson Pavoni, az Inumeráveis emlékmű mögött álló művész alkotta meg, amely a COVID-járvány idején minden hatodik brazilhoz eljutott. A projekt arra ösztönzi az embereket a világ minden tájáról, hogy küldjék el valakinek a nevét, akire emlékezni szeretnének. Ezeket a neveket egy pályán keringő műholdra továbbítják, így egy kollektív emlékmű jön létre.",
+    "paragraph2": "Egy 246 nyelven elérhető weboldalon keresztül a résztvevők egy újfajta rituáléban vehetnek részt. Az Orbitális Templom a befogadás, az emlékezés és a közös emberségünk témáit vizsgálja, megkérdőjelezve, hogy miért nem tud a Földön egyetlen fizikai templom sem igazán mindenkit befogadni, és a teret javasolja az egyetlen olyan helyként, ahol a radikális befogadás létezhet."
+  },
+  "aboutArtist": {
+    "heading": "A művészről",
+    "paragraph1": "<strong>Edson Pavoni</strong> egy brazil művész, akinek pályafutása São Paulo utcáin kezdődött, ahol a szegénység és az erőszak kontextusa formálta korai éveit. Egy olyan országban, ahol a kereszténység kiutat kínált az utcáktól, a drogoktól és az erőszaktól, Pavoni menedéket talált a hitben, egy olyan témában, amely később, amikor a vallási visszaélések kritikusa lett, meghatározta művészeti gyakorlatát.",
+    "paragraph2": "2020-ban, a COVID-19 világjárvány idején Pavoni megalkotta <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">az Inumeráveis (Számtalan) című</a></strong> műalkotást, amely a művészet és az újságírás metszéspontjában áll. A projekt keretében több ezer családot kérdeztek meg, és a világjárvány áldozatainak történeteit írták meg, egy olyan teret teremtve, ahol az emlékezet túllépett a számokon és a statisztikákon. Versek, dalok és szimfóniák születtek ezekből a történetekből. Újságok címlapokat készítettek a nevek és a történetek felhasználásával. Az összes brazil sztár, mint például az Oscar-díjas Fernanda Torres, valamint olyan sztárok, mint Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo és Lazaro Ramos, és még sokan mások olvasták ezeket a történeteket az országos televízióban. A projekt 32 millió embert ért el, minden negyedik brazil felnőttet. A gyógyítás hálózatává, az emlékezés kollektív emlékművévé vált.",
+    "paragraph3": "Több mint tízezer, gyászoló beszélgetés után egy minta bontakozott ki: amikor egy elhunytról beszélünk, történetének részleteit válogatjuk ki, mintha ajánlólevelet írnánk a paradicsom kapuőrének. Mindent megteszünk, hogy elküldjük őket oda, amit mi a mennyországnak hiszünk. Ez a munka új megértést indított el: A mennyországot megérdemlő személyről alkotott hiedelmünk közvetlenül alakítja azt, hogy kit fogadunk el vagy zárunk ki a Földön. A brazil portugál gyarmatosítók úgy hitték, hogy a fekete embereknek nincs lelkük; ez a hiedelem igazolta a rabszolgaságot. Ha őslakos voltál, ha rossz helyen születtél, vagy rossz embert szeretted, akkor a mai napig azt hallod, hogy a mennyország kapui zárva voltak előtted. Létezik-e olyan jövőkép, amelyet nem az elutasítás tesz teljessé?",
+    "paragraph4": "Így született meg az Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Főbb tények",
+    "artist": "<strong>Művész:</strong> Edson Pavoni (Brazília)",
+    "projectType": "<strong>Projekt típusa:</strong> Műholdkép, helyspecifikus térbeli, web-alapú rituálé",
+    "launchDate": "<strong>Megjelenés dátuma:</strong> 2025. november 28.",
+    "launchLocation": "<strong>Indítási helyszín:</strong> Satish Dhawan Űrközpont, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Műhold:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Pálya:</strong> 525 km-es magasság, Nap-szinkron",
+    "participation": "<strong>Részvétel:</strong> Ingyenes, világszerte mindenki számára nyitott",
+    "namesSent": {
+      "heading": "<strong>Orbitális pályára küldött nevek:</strong>",
+      "caption": "<em>Élő számláló frissítve az adatbázisból • Utolsó frissítés: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Díjak és elismerések",
+    "mercosul": {
+      "title": "<strong>13. Mercosur Biennálé</strong> (2022)",
+      "location": "Póló Alegre, Brazília",
+      "curator": "Marcelo Dantas kurátora"
+    },
+    "lumen": {
+      "title": "<strong>Lumen-díj 2022 - Futures-díj</strong>",
+      "status": "Hosszúlistás"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 verseny</strong>",
+      "award": "Győztes - ArtSat kategória",
+      "org": "A Brazil Űrkutatási Intézet (INPE) támogatásával"
+    }
+  },
+  "team": {
+    "heading": "Csapat",
+    "content": "Az Orbital Temple: Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Andrei Holzgal, Tati Pedro, Flavio Vidigal, Rafael Fernandes, Bruna Cairo, a Solid Concepts, a RiseNY&Partners, az IdeaSpace és mindazok, akik továbbra is neveket javasolnak ennek a templomnak."
+  },
+  "pressCoverage": {
+    "heading": "Kiemelt / Sajtómegjelenések",
+    "paragraph1": "<em>Sajtómegjelenésekkel és cikkekkel bővülünk, amint elérhetővé válnak. A legfrissebb hírekért kérjük, vegye fel a kapcsolatot sajtócsapatunkkal.</em>",
+    "paragraph2": "Korábbi kiállításai és előadásai között szerepelnek előadások a 13. Mercosul Biennálén, a Lumen-díj elismerése, valamint a Brazil Űrkutatási Intézet (INPE) válogatása."
+  },
+  "images": {
+    "heading": "Nagy felbontású képek sajtófelhasználásra",
+    "intro": "Minden kép szerkesztői felhasználásra elérhető. Kattintson bármelyik képre a nagy felbontású fájl letöltéséhez.",
+    "installationPhotos": {
+      "heading": "Orbitális Templom fotói",
+      "credit": "Kérjük, a forrást a következő forrásra fordítsa: „Fotó: Clara Marques / Edson Pavoni jóvoltából, Orbital Temple”",
+      "view01": "Telepítési nézet 01<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (1,4 MB)",
+      "view02": "Telepítési nézet 02<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (2,9 MB)",
+      "view03": "Telepítési nézet 03<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (11 MB)",
+      "view04": "Telepítési nézet 04<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (3,4 MB)",
+      "view05": "Telepítési nézet 05<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (3,3 MB)",
+      "view06": "Telepítési nézet 06<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (3,7 MB)",
+      "view07": "Telepítési nézet 07<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (3,4 MB)",
+      "view08": "Telepítési nézet 08<br /> Fotó: Clara Marques<br /> ↓ Nagy felbontású letöltés (2,7 MB)",
+      "satelliteDesign": "Műholdtervezés<br /> ↓ Letöltés",
+      "antennaSculpture": "Antenna/Szobor<br /> ↓ Letöltés"
+    },
+    "renders": {
+      "heading": "Orbitális templom renderelések",
+      "credit": "Az Orbital Templom konceptuális 3D-s látványtervei. Kérjük, a forrást a következőképpen tüntesse fel: \"3D Renderelés: RiseNY&Partners / Edson Pavoni, Orbital Temple jóvoltából\"",
+      "render01": "3D renderelés 01<br /> RiseNY&amp;Partners<br /> ↓ Nagy felbontású letöltés (10 MB)",
+      "render02": "3D renderelés 02<br /> RiseNY&amp;Partners<br /> ↓ Nagy felbontású letöltés (5,9 MB)",
+      "render03": "3D renderelés 03<br /> RiseNY&amp;Partners<br /> ↓ Nagy felbontású letöltés (5,2 MB)",
+      "render04": "3D renderelés 04<br /> RiseNY&amp;Partners<br /> ↓ Nagy felbontású letöltés (11 MB)",
+      "render05": "3D renderelés 05<br /> RiseNY&amp;Partners<br /> ↓ Nagy felbontású letöltés (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Művészi fotók",
+      "photo1": "1. fotó<br /> ↓ Nagy felbontású letöltés",
+      "photo2": "2. fotó<br /> ↓ Nagy felbontású letöltés"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy fotói",
+      "photo1": "1. fotó<br /> ↓ Nagy felbontású letöltés (843 KB)",
+      "photo2": "2. fotó<br /> ↓ Nagy felbontású letöltés (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Műszaki adatok",
+    "satellite": {
+      "heading": "Műhold",
+      "dimensions": "Méretek: 50 x 58 x 64 mm",
+      "classification": "Besorolás: 1P PocketQube",
+      "weight": "Súly: 245 g",
+      "materials": "Anyagok: Alumínium, arany, üvegszál, elektronikai alkatrészek",
+      "orbit": "Pálya: Magasság 525 ± 25 km; Dőlésszög: SSO 97,6 ± 0,1°",
+      "launch": "Megjelenés: 2025. november 28., ISRO, India"
+    },
+    "antenna": {
+      "heading": "Antenna/Szobor",
+      "dimensions": "Méretek: 6 m átmérő x 1,2 m magasság",
+      "weight": "Súly: 46 kg",
+      "materials": "Anyagok: Alumínium, epoxi tükrös lemez, aranyozott alumínium kupola, amely az állványzaton keresztül függesztve van."
+    },
+    "radio": {
+      "heading": "Rádió specifikációk",
+      "downlink": "Letöltési frekvencia: 437 MHz",
+      "status": "Indítási állapot: Tervezett dátum: 2025. november 28."
+    }
+  },
+  "additionalResources": {
+    "heading": "További források",
+    "artwork": "→ Műalkotás dokumentációjának megtekintése",
+    "howItWorks": "→ Hogyan működik",
+    "technicalInfo": "→ Műszaki információk",
+    "spaceLaunch": "→ Űrhajózási információk",
+    "ritual": "→ Éld át a rituálét"
+  },
+  "imageAlts": {
+    "installation": "Edson Pavoni Orbitális Templom installációja",
+    "satelliteDesign": "Orbitális Templom Műholdtervezés",
+    "antenna": "Orbitális templom antenna szobor",
+    "render": "Orbitális templom 3D renderelése a RiseNY&Partners-től",
+    "edsonPortrait": "Edson Pavoni portréja",
+    "sathiPortrait": "Sathi Roy portréja",
+    "lumenPrize": "Lumen-díj",
+    "mercosulBienal": "Mercosur Biennálé"
+  }
+}

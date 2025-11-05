@@ -1,0 +1,50 @@
+{
+  "title": "Yhteistyökumppanit - Orbital Temple",
+  "heading": "Kumppanit",
+  "intro": "Orbitaalitemppeli on olemassa ainutlaatuisten kumppaneiden anteliaisuuden, asiantuntemuksen ja vision ansiosta. Satelliittien suunnittelusta tarinoiden luomiseen, ovien avaamisesta kaukaisiin maihin unelmien valamiseen kultaan, jokainen yhteistyö tuo tämän temppelin lähemmäksi tähtiä.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Viestintä, integroidut kokemukset ja upeat 3D-kuvat herättivät satelliitin vision eloon ennen kuin se edes kosketti avaruuden tyhjyyttä."
+    },
+    "highestMantra": {
+      "name": "Korkein mantramme",
+      "description": "Sathi Royn johdolla Orbital Temple yhdistetään Intian henkisiin ja taiteellisiin yhteisöihin. Avataan väyliä varainhankintaan, kulttuurivaihtoon ja Art Basel -näyttelyyn marraskuussa 2025 lanseerauksen jälkeen."
+    },
+    "allToSpace": {
+      "name": "Kaikki avaruuteen",
+      "description": "Brasilialaiset pienten satelliittien asiantuntijat. Neljä vuotta yhteistyötä avoimen lähdekoodin laitteistoalustan rakentamisessa ja edelläkävijänä taiteen lähettämisessä kiertoradalle etelästä."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Intian avaruustutkimusjärjestö. PSLV-tehtävän laukaisupalveluntarjoaja, joka vie Orbital Templen aurinkosynkroniselle kiertoradalle marraskuussa 2025."
+    },
+    "mercosul": {
+      "name": "13. Mercosurin biennaali",
+      "description": "Porto Alegre, Brasilia. Kuraattori Marcello Dantas sekä apulaiskuraattorit Laura Cattani, Munir Klamt, Tarsila Riso ja Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat-työpaja",
+      "description": "Satelliittikehitysryhmä muodostui II ArtSat Workshopin aikana. Koordinoija Fabiane M. Borges, ohjaajana Lázaro Camargo, yhteistyössä Ítalo Pinto Rodrigues, ohjaajana Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Vankat konseptit",
+      "description": "Eduardo Diasin johdolla. Kaikki veistoksellisen kupolin 3D-tulostus ja kullan mikrovalaminen muuttavat digitaaliset unelmat jalometallitodellisuudeksi."
+    },
+    "ideaSpace": {
+      "name": "Idea-avaruus",
+      "description": "Brasilialainen koulutusalan startup-yritys kehittää Quebrada Space Program -opetussuunnitelmaa, joka on valmis sovellettavaksi lukiolaisille kaikkialla Brasiliassa."
+    }
+  },
+  "closing": "Oletko kiinnostunut yhteistyöstä Orbital Templen kanssa? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Ota yhteyttä</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners-logo",
+    "highestMantra": "Korkeimman mantramme logo",
+    "allToSpace": "All to Space -logo",
+    "isro": "ISRO-logo",
+    "mercosul": "Mercosurin 13. biennaalin logo",
+    "inpe": "INPE ArtSat -työpajan logo",
+    "solidConcepts": "Solid Concepts -logo",
+    "ideaSpace": "Idea Space -logo"
+  }
+}

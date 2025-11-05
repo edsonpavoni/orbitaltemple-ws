@@ -1,0 +1,13 @@
+{
+  "title": "Bądź powiadomiony - Orbital Temple",
+  "heading": "Otrzymuj powiadomienia, gdy wzrośnie",
+  "description": "28 listopada 2025 roku nastąpi wzniesienie Świątyni Orbitalnej.<br> Zostaw swój adres e-mail, a powiadomimy Cię, gdy dotrze do miejsca docelowego.",
+  "form": {
+    "emailPlaceholder": "twój@email.com",
+    "sendButton": "Wysłać",
+    "sendingButton": "Przesyłka...",
+    "successMessage": "Dotrzemy do ciebie, gdy zacznie wschodzić.",
+    "errorMessage": "Coś poszło nie tak. Spróbuj ponownie."
+  },
+  "backLink": "← Powrót do odliczania"
+}

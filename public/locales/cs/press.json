@@ -1,0 +1,138 @@
+{
+  "title": "Tisk a média - Orbital Temple",
+  "heading": "Tisk a média",
+  "pressContact": {
+    "heading": "Kontakt pro tisk",
+    "content": "Pro tiskové dotazy, rozhovory a žádosti médií:<br /> <strong>E-mail:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Webová stránka:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "O projektu",
+    "paragraph1": "Orbitální chrám je umělecké dílo a satelit, jehož cílem je být radikálně inkluzivním chrámem, postaveným tam, kam se nedostanou žádné zdi. Projekt vytvořil brazilský umělec Edson Pavoni, autor památníku Inumeráveis, který během pandemie COVIDu oslovil každého šestého Brazilce. Projekt vyzývá lidi z celého světa, aby poslali jméno někoho, koho si přejí připomenout. Tato jména jsou přenesena do satelitu na oběžné dráze a vytvoří tak kolektivní památník.",
+    "paragraph2": "Prostřednictvím webových stránek dostupných ve 246 jazycích se účastníci zapojují do nového druhu rituálu. Orbitální chrám zkoumá témata inkluze, paměti a našeho společného lidství, klade si otázku, proč žádný fyzický chrám na Zemi nemůže skutečně přivítat každého, a navrhuje vesmír jako jediné místo, kde by mohla existovat radikální inkluzivita."
+  },
+  "aboutArtist": {
+    "heading": "O umělci",
+    "paragraph1": "<strong>Edson Pavoni</strong> je brazilský umělec, jehož cesta začala v ulicích São Paula, kde jeho raná léta formovala chudoba a násilí. V zemi, kde křesťanství nabízelo cestu pryč od ulic, drog a násilí, našel Pavoni útočiště ve víře, tématu, které později, když se stal kritikem náboženského zneužívání, ovlivnilo jeho uměleckou praxi.",
+    "paragraph2": "V roce 2020, během pandemie COVID-19, Pavoni vytvořila <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (nespočet)</a></strong> , umělecké dílo na průsečíku umění a žurnalistiky. Projekt zpovídal tisíce rodin a napsal příběhy těch, kteří byli pandemií ztraceni, čímž vytvořil prostor, kde paměť přesahovala čísla a statistiky. Z těchto příběhů vznikly básně, písně a symfonie. Noviny vytvořily obálky s použitím jmen a historie. Všechny brazilské hvězdy jako oscarová Fernanda Torres a hvězdy jako Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo a Lazaro Ramos a mnoho dalších si tyto příběhy přečetlo v celostátní televizi. Projekt oslovil 32 milionů lidí, jednoho ze čtyř dospělých Brazilců. Stal se sítí uzdravování, kolektivním pomníkem paměti.",
+    "paragraph3": "Po více než deseti tisících rozhovorech se zármutkem se objevil vzorec: když mluvíme o někom, kdo zemřel, vybíráme úryvky z jeho příběhu, jako bychom psali doporučující dopis strážci ráje. Snažíme se ho co nejlépe poslat do toho, co považujeme za nebe. Tato práce podnítila nové poznání: Naše přesvědčení o tom, kdo si zaslouží nebe, přímo formuje to, koho na Zemi přijímáme nebo vylučujeme. Portugalští kolonizátoři v Brazílii věřili, že černoši nemají duši; tato víra ospravedlňovala otroctví. Pokud jste byli domorodí, pokud jste se narodili na nesprávném místě nebo milovali nesprávného člověka, dodnes vám říkají, že dveře do nebe jsou pro vás zavřené. Existuje vize budoucnosti, která není naplněna odmítnutím?",
+    "paragraph4": "Tak se zrodil Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Klíčová fakta",
+    "artist": "<strong>Umělec:</strong> Edson Pavoni (Brazílie)",
+    "projectType": "<strong>Typ projektu:</strong> Satelitní umělecká díla, specifické pro dané místo ve vesmíru, webový rituál",
+    "launchDate": "<strong>Datum spuštění:</strong> 28. listopadu 2025",
+    "launchLocation": "<strong>Místo startu:</strong> Vesmírné středisko Satish Dhawan, Sriharikota, Indie (ISRO)",
+    "satellite": "<strong>Satelit:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Oběžná dráha:</strong> 525 km nadmořská výška, sluneční synchronní",
+    "participation": "<strong>Účast:</strong> Zdarma, otevřená pro všechny z celého světa",
+    "namesSent": {
+      "heading": "<strong>Jména odeslaná na oběžnou dráhu:</strong>",
+      "caption": "<em>Aktuální počet aktualizován z databáze • Naposledy aktualizováno: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Ocenění a uznání",
+    "mercosul": {
+      "title": "<strong>13. bienále Mercosuru</strong> (2022)",
+      "location": "Porto Alegre, Brazílie",
+      "curator": "Kurátor Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Cena Lumen 2022 - Cena Futures</strong>",
+      "status": "Dlouhý výběr"
+    },
+    "cubeDesign": {
+      "title": "<strong>Soutěž CubeDesign 2021</strong>",
+      "award": "Vítěz - kategorie ArtSat",
+      "org": "Propagováno Brazilským institutem pro výzkum vesmíru (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Tým",
+    "content": "Orbital Temple je vytvořen ve spolupráci se Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, André Holzme Vidigal, André Holzme Vidigal, André Holzme Vidigal, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace a všichni ti, kteří nadále navrhují jména pro tento chrám."
+  },
+  "pressCoverage": {
+    "heading": "V sekci / Tiskové zprávy",
+    "paragraph1": "<em>Tiskové zprávy a články budou doplňovány, jakmile budou k dispozici. Nejnovější informace získáte od našeho tiskového týmu.</em>",
+    "paragraph2": "Mezi předchozí výstavy a akce patří prezentace na 13. bienále Mercosul, uznání cenou Lumen a výběr Brazilského institutu pro výzkum vesmíru (INPE)."
+  },
+  "images": {
+    "heading": "Obrázky ve vysokém rozlišení pro tiskové použití",
+    "intro": "Všechny obrázky jsou k dispozici pro redakční použití. Kliknutím na libovolný obrázek si stáhnete soubor ve vysokém rozlišení.",
+    "installationPhotos": {
+      "heading": "Fotografie orbitálního chrámu",
+      "credit": "Prosím, uveďte zdroj: „Fotografie od Clary Marquesové / S laskavým svolením Edsona Pavoniho, Orbital Temple“",
+      "view01": "Instalační pohled 01<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (1,4 MB)",
+      "view02": "Instalační pohled 02<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (2,9 MB)",
+      "view03": "Instalační pohled 03<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (11 MB)",
+      "view04": "Instalační pohled 04<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (3,4 MB)",
+      "view05": "Instalační pohled 05<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (3,3 MB)",
+      "view06": "Instalační pohled 06<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (3,7 MB)",
+      "view07": "Instalační pohled 07<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (3,4 MB)",
+      "view08": "Instalační pohled 08<br /> Foto: Clara Marques<br /> ↓ Stáhnout ve vysokém rozlišení (2,7 MB)",
+      "satelliteDesign": "Návrh satelitů<br /> ↓ Stáhnout",
+      "antennaSculpture": "Anténa/Socha<br /> ↓ Stáhnout"
+    },
+    "renders": {
+      "heading": "Rendery orbitálního chrámu",
+      "credit": "Koncepční 3D vizualizace Orbital Temple. Uveďte prosím zdroj: „3D vizualizace od RiseNY&Partners / S laskavým svolením Edsona Pavoniho, Orbital Temple“",
+      "render01": "3D vykreslování 01<br /> RiseNY&amp;Partners<br /> ↓ Stáhnout ve vysokém rozlišení (10 MB)",
+      "render02": "3D vykreslování 02<br /> RiseNY&amp;Partners<br /> ↓ Stáhnout ve vysokém rozlišení (5,9 MB)",
+      "render03": "3D vykreslování 03<br /> RiseNY&amp;Partners<br /> ↓ Stáhnout ve vysokém rozlišení (5,2 MB)",
+      "render04": "3D vykreslování 04<br /> RiseNY&amp;Partners<br /> ↓ Stáhnout ve vysokém rozlišení (11 MB)",
+      "render05": "3D vykreslování 05<br /> RiseNY&amp;Partners<br /> ↓ Stáhnout ve vysokém rozlišení (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Fotografie umělců",
+      "photo1": "Fotografie 1<br /> ↓ Stáhnout ve vysokém rozlišení",
+      "photo2": "Fotografie 2<br /> ↓ Stáhnout ve vysokém rozlišení"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy Fotografie",
+      "photo1": "Fotografie 1<br /> ↓ Stáhnout ve vysokém rozlišení (843 KB)",
+      "photo2": "Fotografie 2<br /> ↓ Stáhnout ve vysokém rozlišení (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Technické specifikace",
+    "satellite": {
+      "heading": "Satelit",
+      "dimensions": "Rozměry: 50 x 58 x 64 mm",
+      "classification": "Klasifikace: 1P PocketQube",
+      "weight": "Hmotnost: 245 g",
+      "materials": "Materiály: Hliník, zlato, sklolaminát, elektronické součástky",
+      "orbit": "Oběžná dráha: Nadmořská výška 525 ± 25 km; Sklon: SSO 97,6 ± 0,1°",
+      "launch": "Spuštění: 28. listopadu 2025 prostřednictvím ISRO, Indie"
+    },
+    "antenna": {
+      "heading": "Anténa/Socha",
+      "dimensions": "Rozměry: průměr 6 m x výška 1,2 m",
+      "weight": "Hmotnost: 46 kg",
+      "materials": "Materiály: Hliník, epoxidová zrcadlová deska, zlatá hliníková kopule zavěšená na lešení"
+    },
+    "radio": {
+      "heading": "Specifikace rádia",
+      "downlink": "Downlink: 437 MHz",
+      "status": "Stav spuštění: Plánováno na 28. listopadu 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Další zdroje",
+    "artwork": "→ Zobrazit dokumentaci k kresbě",
+    "howItWorks": "→ Jak to funguje",
+    "technicalInfo": "→ Technické informace",
+    "spaceLaunch": "→ Informace o startu do vesmíru",
+    "ritual": "→ Zažijte rituál"
+  },
+  "imageAlts": {
+    "installation": "Instalace orbitálního chrámu od Edsona Pavoniho",
+    "satelliteDesign": "Návrh satelitu Orbital Temple",
+    "antenna": "Socha orbitální chrámové antény",
+    "render": "3D rendering Orbital Temple od RiseNY&Partners",
+    "edsonPortrait": "Portrét Edsona Pavoniho",
+    "sathiPortrait": "Portrét Sathiho Roye",
+    "lumenPrize": "Lumenova cena",
+    "mercosulBienal": "Bienále Mercosuru"
+  }
+}

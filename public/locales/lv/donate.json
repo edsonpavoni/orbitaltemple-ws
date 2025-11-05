@@ -1,0 +1,31 @@
+{
+  "title": "Ziedojiet Orbitālajam templim",
+  "heading": "Pabeidziet savu ziedojumu",
+  "donatingTo": "Jūs ziedojat:",
+  "chooseHow": "Izvēlieties, kā vēlaties veikt savu ar nodokļiem neapliekamo ziedojumu:",
+  "option1": {
+    "heading": "1. iespēja: ziedojiet tiešsaistē tūlīt",
+    "description": "Veiciet ziedojumu nekavējoties, izmantojot kredītkarti, debetkarti vai citas tiešsaistes maksājuma metodes, izmantojot mūsu drošo fiskālo sponsoru <strong>The Field</strong> . Jūs saņemsiet tūlītēju nodokļu kvīti.",
+    "button": "Ziedot, izmantojot The Field →"
+  },
+  "option2": {
+    "heading": "2. variants: bankas iemaksa Roja fondam",
+    "description": "Veiciet tiešu bankas pārskaitījumu vai bankas pārskaitījumu uz mūsu stratēģiskā partnera un fiskālā sponsora <strong>The Roy Foundation kontu</strong> . Šī iespēja ir ideāli piemērota lielākiem ziedojumiem vai starptautiskiem pārskaitījumiem.",
+    "bankingInfo": "Bankas informācija",
+    "fields": {
+      "accountName": "Konta nosaukums:",
+      "bankName": "Bankas nosaukums:",
+      "accountNumber": "Konta numurs:",
+      "routingNumber": "Maršrutēšanas numurs:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Atsauce:"
+    },
+    "instructions": "Lūdzu, atsauces laukā norādiet &quot; <strong>Orbital Temple - {donationType}</strong> &quot;. Pēc pārskaitījuma veikšanas rakstiet mums uz e-pasta adresi <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ar pārskaitījuma informāciju, lai saņemtu nodokļu kvīti.",
+    "button": "Sazinieties ar mums par depozītu →"
+  },
+  "taxInfo": {
+    "heading": "Nodokļu atvieglojumi ziedojumiem",
+    "description": "Orbital Temple ir finansiāli sponsorēts <strong>The Field (Performance Zone Inc.)</strong> , bezpeļņas organizācijas <strong>501(c)(3)</strong> projekts. Visi ASV ziedojumi ir atskaitāmi no nodokļiem likumā noteiktajā apmērā.",
+    "questions": "Jautājumi? Sazinieties ar mums pa e-pastu <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

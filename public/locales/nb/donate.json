@@ -1,0 +1,31 @@
+{
+  "title": "Doner til Orbital Temple",
+  "heading": "Fullfør donasjonen din",
+  "donatingTo": "Du donerer til:",
+  "chooseHow": "Velg hvordan du ønsker å gjennomføre din skattefradragsberettigede donasjon:",
+  "option1": {
+    "heading": "Alternativ 1: Doner på nett nå",
+    "description": "Fullfør donasjonen din umiddelbart med kredittkort, debetkort eller andre online betalingsmetoder gjennom vår sikre økonomiske sponsor, <strong>The Field</strong> . Du vil motta en umiddelbar skattekvittering.",
+    "button": "Doner via Feltet →"
+  },
+  "option2": {
+    "heading": "Alternativ 2: Bankinnskudd til Roy Foundation",
+    "description": "Gjør et direkte bankinnskudd eller en bankoverføring til <strong>The Roy Foundation</strong> , vår strategiske partner og økonomiske sponsor. Dette alternativet er ideelt for større donasjoner eller internasjonale overføringer.",
+    "bankingInfo": "Bankinformasjon",
+    "fields": {
+      "accountName": "Kontonavn:",
+      "bankName": "Banknavn:",
+      "accountNumber": "Kontonummer:",
+      "routingNumber": "Rutingsnummer:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referanse:"
+    },
+    "instructions": "Vennligst oppgi « <strong>Orbital Temple - {donationType}</strong> » i referansefeltet. Etter at du har fullført overføringen, send oss en e-post til <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> med overføringsdetaljene dine for å motta skattekvitteringen din.",
+    "button": "Kontakt oss om innskudd →"
+  },
+  "taxInfo": {
+    "heading": "Skattefradragsberettigede gaver",
+    "description": "Orbital Temple er et økonomisk sponset prosjekt av <strong>The Field (Performance Zone Inc.)</strong> , en ideell organisasjon i henhold til <strong>paragraf 501(c)(3)</strong> . Alle amerikanske bidrag er fradragsberettigede i den grad loven tillater det.",
+    "questions": "Spørsmål? Kontakt oss på <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

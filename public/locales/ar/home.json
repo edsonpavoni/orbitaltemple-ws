@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "معبد مداري",
+    "subtitle": "هو عمل فني وقمر صناعي، يهدف إلى أن يكون معبدًا جذريًا شاملًا، في مكان لا يمكن لأي جدار أن يصل إليه."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "شعيرة"
+  },
+  "cta": {
+    "link": "ومعبد آخر؟",
+    "arrowAlt": "سهم"
+  },
+  "dome": {
+    "alt": "قبة"
   }
 }

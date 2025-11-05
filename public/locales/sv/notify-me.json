@@ -1,0 +1,13 @@
+{
+  "title": "Bli meddelad - Orbital Temple",
+  "heading": "Få ett meddelande när det stiger",
+  "description": "Den 28 november 2025 kommer Orbitaltemplet att stiga upp.<br> Lämna din e-postadress så meddelar vi dig när den når plats.",
+  "form": {
+    "emailPlaceholder": "din@e-post.com",
+    "sendButton": "Skicka",
+    "sendingButton": "Sändning...",
+    "successMessage": "Vi når dig när den stiger.",
+    "errorMessage": "Något gick fel. Försök igen."
+  },
+  "backLink": "← Tillbaka till nedräkningen"
+}

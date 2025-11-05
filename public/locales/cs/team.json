@@ -1,0 +1,61 @@
+{
+  "title": "Tým - Orbitální chrám",
+  "heading": "Tým",
+  "artist": "Edson Pavoni , umělec",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Výkonný producent",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Letecké a systémové inženýrství",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronické inženýrství",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Design a architektura",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D tisk",
+      "members": "Solid Concepts pod vedením Eduarda Diase"
+    },
+    "rendering": {
+      "heading": "3D vykreslování",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Výzkum",
+      "members": "Roberta Savian Rosa a Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produkce výstav, fotografie a tvorba obsahu",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Sítotisk na výstavě",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Vzdělávací projekt",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Komunikační tým",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Zvláštní poděkování",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini a Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Ra Tatia Vidigal, Pefa Holz Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitální chrámový satelit"
+}

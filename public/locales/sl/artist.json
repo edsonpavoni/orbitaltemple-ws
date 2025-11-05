@@ -1,0 +1,44 @@
+{
+  "title": "Od umetnika",
+  "opening": {
+    "question": "Kdo je ta tip, da predlaga tempelj v vesolju?",
+    "thanks": "Hvala za vprašanje.",
+    "answer": "Kratek odgovor je, da sem umetnik. Dolg odgovor je tale:"
+  },
+  "origin": {
+    "sao_paulo": "Rodil sem se na obrobju São Paula, v soseski, ki me je že zgodaj naučila, kaj pomeni nevarnost. Mnogi moji sošolci so zdaj v zaporu. Moj očim je v zaporu. O nasilju nisem bral, ampak svet, v katerem sem se moral znajti. In vedel sem, da moram pobegniti.",
+    "technology": "Tehnologija je postala moja pot iz revščine. Naučil sem se programirati, elektroniko sem se naučil kot najstnik. Kodiranje je bil jezik, ki me je lahko popeljal nekam drugam. Delo s tehnologijo je bil moj pobeg iz revščine.",
+    "christianity": "Iskala pa sem tudi pripadnost, ljubezen, nekaj, v kar bi verjela. Našla sem krščanstvo, oziroma je ono našlo mene. Bila sem sprejeta. Bila sem ljubljena. Imela sem skupnost. Naučila sem se odpuščati, verjeti, iti skupaj za višji namen.",
+    "price": "Cena pa je bila visoka. Naučil sem se tudi veliko stvari, ki se jih še vedno ne učim. Tako sem se tudi temu izognil."
+  },
+  "searching": {
+    "walls": "Vem, kaj počnejo zidovi. Občutil sem jih. Bil sem na obeh straneh: zadrževali so me zunaj, zadrževali notri. Sledila so leta iskanja nečesa, česar nisem mogel poimenovati. Bog je umrl v teh letih. Bog, o katerem so me učili, vsaj tisti s pravili, sodbo in vrati, ki so se odpirala le nekaterim ljudem.",
+    "art": "Začel sem ustvarjati umetnost, da bi raziskal ta vprašanja: o intimnosti in tehnologiji, o spominu in smrti, o tem, kdo si zasluži nebesa. Začel sem graditi stroje, ki na novo predstavljajo naš odnos s tehnologijo, stroje, ki potrebujejo vašo udeležbo, vašo prisotnost, vaše ime, da se iz kovine in kode preobrazijo v nekaj živega."
+  },
+  "pandemic": {
+    "intro": "Nato je pandemija prizadela Brazilijo.",
+    "government": "Ko so bila cepiva proti COVID-u odložena, se je moja vlada pogajala o provizijah v višini enega dolarja na odmerek. Promovirali so zdravilo, za katero se je domnevalo, da je neučinkovito, se smejali, medtem ko so ljudje umirali, ko so se težko dihali. Vsak dan smo se zbudili z drugačnim številom. Koliko ljudi je umrlo v zadnjih 24 urah? Je bilo več ali manj, kot je bilo pričakovano?",
+    "war": "Polovica sveta je bila prestrašena, druga polovica pa je zanikala. Bili smo v vojni, z virusom in drug z drugim.",
+    "memorial": "Želel sem ustvariti prostor za kolektivno žalovanje, zato sem skupaj s stotinami ljudi ustvaril Memorial Inumeráveis. Umetniško delo na presečišču umetnosti in novinarstva. Intervjuvali smo družine, ki so nekoga izgubile. Napisali smo življenjsko zgodbo osebe, ki so jo izgubili. Številke smo spremenili v zgodovine. Iz teh zgodovin so nastale pesmi, pesmi, simfonije. Zvezdniki so te zgodbe brali na nacionalni televiziji. Projekt je dosegel milijone.",
+    "meaning": "Pomemben ni bil obseg, temveč to, da je bila vsaka zgodba ime, življenje, nečiji raj."
+  },
+  "discovery": {
+    "pattern": "Po več kot deset tisoč pogovorih z žalujočimi se je začel pojavljati vzorec. Ko govorimo o nekom, ki je umrl, ne govorimo le dobrih stvari; izbiramo delčke njihove zgodbe, kot da bi pisali priporočilno pismo. Priporočilo varuhu raja. Potrudimo se, da jih pošljemo na kraj sprejemanja, počitka, časti in spomina.",
+    "understanding": "In razumel sem nekaj, kar je vse spremenilo: ranjeni smo bili prav zaradi templjev, ki smo jih zgradili. Naša prepričanja o tem, kdo si zasluži nebesa, neposredno oblikujejo, koga izključujemo na Zemlji. Portugalski kolonizatorji v Braziliji so verjeli, da temnopolti ljudje nimajo duše; to prepričanje je upravičevalo suženjstvo. Če si bil staroselec, če si se rodil na napačnem mestu ali ljubil napačno osebo, so ti rekli, da so vrata nebes zate zaprta.",
+    "birth": "Tako se je rodil Orbitalni tempelj."
+  },
+  "shaman": {
+    "secular": "Noben umetnik ne more biti resnično posveten. Za vedno smo povezani z našim skupnim prednikom, šamanom. Na začetku je bila jama. Ljudje so slikali živali na stene, ne da bi jih okrasili, ampak da bi jih priklicali. Plesale so in jama je postala tempelj. Šaman vdihuje duha rituala; umetnik vdihuje avro umetnosti. Slikamo, kiparimo, programiramo, oblikujemo svojo želeno prihodnost, ne da bi jo okrasili, ampak da bi jo priklicali. Vsa umetnost je duhovna, tudi če trdi, da ni."
+  },
+  "space": {
+    "question": "Kje bi lahko zgradili tempelj brez zidov? Kjer si ga noben narod ali religija ne bi mogla lastiti. Kjer bi si lahko predstavljali, da smo ena skupina.",
+    "answer": "Prostor.",
+    "description": "Participativni umetniški satelit z globalnega juga. Tempelj v orbiti, ki vabi vse, da pošljejo svoja imena v vesolje, ne glede na to, kdo so, kje so se rodili, koga ljubijo, v kaj verjamejo. Kraj, kjer je mogoča radikalna vključenost, v orbiti, onkraj meja.",
+    "mission": "Ta misija je odprtokodna. Vsak tehnični dokument, vsaka vrstica kode bo prosto dostopna, tako da bodo lahko drugi umetniki, druge skupnosti, drugi narodi zgradili svoje satelite. Globalni Jug torej ne le sodeluje pri raziskovanju vesolja, ampak ga tudi vodi."
+  },
+  "closing": {
+    "answer": "Kdo je torej ta tip, da bi gradil tempelj v vesolju? Jaz ga ne gradim. Tempelj gradijo vsi, ki se odločijo poslati ime, ga videti kot svetega, ga uresničiti. Jaz sem samo tisti, ki predlaga. Ti si tisti, ki ga boš gradil, če se boš tako odločil.",
+    "signature": "Vljudno,",
+    "name": "Edson Pavoni"
+  }
+}

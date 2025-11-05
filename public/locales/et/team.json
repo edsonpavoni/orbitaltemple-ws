@@ -1,0 +1,61 @@
+{
+  "title": "Meeskond - Orbitaaltempel",
+  "heading": "Meeskond",
+  "artist": "Edson Pavoni, kunstnik",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Tegevprodutsent",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Lennundus ja süsteemide tehnika",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista ja João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektroonikatehnika",
+      "members": "André Biagioni, João Pedro Polito ja VK"
+    },
+    "software": {
+      "heading": "Tarkvara",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Disain ja arhitektuur",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-printimine",
+      "members": "Eduardo Diase juhtimisel loodud Solid Concepts"
+    },
+    "rendering": {
+      "heading": "3D-renderdus",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Uuringud",
+      "members": "Roberta Savian Rosa ja Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Näituse tootmine, fotograafia ja sisu loomine",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Näituse siiditrükk",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Haridusprojekt",
+      "members": "IdeeSpace"
+    },
+    "communication": {
+      "heading": "Kommunikatsioonimeeskond",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Eriline tänu",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini ja Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Peadro Putifa, Andre Holzgal, Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitaalse Templi satelliit"
+}

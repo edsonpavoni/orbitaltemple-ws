@@ -1,0 +1,43 @@
+{
+  "title": "Haridus ja avatud lähtekoodiga tarkvara – Orbitaalne tempel",
+  "heading": "Haridus ja avatud lähtekood",
+  "intro": {
+    "paragraph1": "Kogu Orbitaaltempli missiooni jaoks väljatöötatud tehnoloogia on <strong>avatud lähtekoodiga</strong> ja veebis saadaval <strong>portugali</strong> , <strong>inglise</strong> , <strong>hispaania</strong> ja <strong>hindi</strong> keeles, edendades kosmoseuuringute arengut <strong>globaalses lõunas</strong> . Uued missioonid ja projektid saavad Orbitaaltemplit kasutada oma kunstiliste või teaduslike katsete alusena.",
+    "paragraph2": "Oma haridusmissiooni osana pakub Orbital Temple tasuta mitmekeelset kursust satelliidi ehitamise ja orbiidile saatmise kohta. See on praktiline võimalus õppida tundma satelliiditehnoloogiat ja seda praktikas rakendada. Igaüks üle <strong>16-</strong> aastane saab ehitada oma satelliidi, õppides tundma kosmosekunsti ajalugu, elektroonika, mehaanika ja kosmoseteaduse põhimõisteid, sealhulgas seda, kuidas projekte rahastada ja kuidas ehitada antenni orbiidil olevate satelliitidega suhtlemiseks."
+  },
+  "spaceGap": {
+    "heading": "Miks see oluline on: ruumivahe",
+    "paragraph1": "Mõiste <strong>&quot;kosmoselõhe&quot;</strong> viitab lõhele arenenud riikide vahel, kellel on juurdepääs kosmoseuuringute kaudu pakutavatele tehnoloogilistele võimalustele, ja arengumaade vahel, kellel puudub juurdepääs neile tehnoloogiatele. Globaalse lõuna riigid peavad satelliittehnoloogiate abil toodetud teabele elementaarse juurdepääsu eest maksma välisriikide valitsustele või ettevõtetele märkimisväärseid summasid.",
+    "paragraph2": "Kosmosetehnoloogia pakub olulisi eeliseid: satelliidid aitavad võidelda ebaseadusliku metsaraie, ebaseadusliku kalapüügi ja ebaseadusliku elusloodusega kauplemise vastu, mille <strong>aastakäive on üle 73 miljardi dollari</strong> . Need annavad olulist teavet kliima, veetootmise ja toiduga kindlustatuse kohta. Satelliidid võimaldavad täppisniisutus- ja põllumajandustehnikaid ning aitavad ennetada loodusõnnetusi. Kosmosetööstus võiks <strong>2030.</strong> aastaks luua kuni <strong>miljon töökohta</strong> , kuid need võimalused on paljudele globaalses lõunas endiselt kättesaamatud.",
+    "paragraph3": "Pakkudes avatud lähtekoodiga tehnoloogiat ja haridust, on meie eesmärk demokratiseerida juurdepääsu kosmosele ja anda uuele põlvkonnale võimalus unistada taevast kaugemal."
+  },
+  "empowering": {
+    "heading": "Järgmise põlvkonna võimestamine",
+    "intro": "Õpetame järgmise põlvkonna kosmoseuurijatele, kuidas ehitada ja orbiidile saata oma satelliite, käsitledes olulisi teemasid, sealhulgas:",
+    "topics": {
+      "history": "<strong>Kosmosekunsti ajalugu:</strong> kunstiliste satelliitide ja kosmoses tegutsevate kunstiteoste päritolu mõistmine.",
+      "concepts": "<strong>Põhikontseptsioonid:</strong> <strong>ArtSat</strong> (kunstilised satelliidid), <strong>avatud lähtekoodiga</strong> kosmosetehnoloogia ja <strong>Space Gap</strong> .",
+      "missions": "<strong>Kosmosemissioonid:</strong> kuidas missiooni kontseptualiseerida ja kujundada ning kuidas moodustada meeskond selle elluviimiseks.",
+      "electronics": "<strong>Elektroonika kosmoses:</strong> kosmosekeskkonnas ellujäävate ja toimivate elektrooniliste komponentide põhimõisted.",
+      "mechanics": "<strong>Kosmosemehaanika:</strong> satelliidi disaini konstruktsiooniliste ja mehaaniliste nõuete mõistmine.",
+      "orbits": "<strong>Orbiidid ja kanderaketid:</strong> erinevat tüüpi orbiidid ja kuidas valida oma missiooni jaoks kanderakettide pakkujaid.",
+      "financing": "<strong>Rahastamisstrateegiad:</strong> kuidas kindlustada rahastamist ja ressursse oma satelliidi orbiidile saatmiseks. Kursus pakub ressursse oma satelliidi stardi rahastamise saamiseks, aidates õpilastel leida rahvusvaheliste institutsioonide programme ja toetusi, mis toetavad noori teadlasi ja üliõpilasi oma satelliitide kosmosesse saatmisel.",
+      "groundStation": "<strong>Maapealse jaama arendamine:</strong> kuidas ehitada antenni, et suhelda Orbitaaltempli ja teiste satelliitidega."
+    }
+  },
+  "technology": {
+    "heading": "Tehnoloogia: PocketQube satelliidid",
+    "paragraph1": "Õpilased õpivad töötama <strong>PocketQube</strong> satelliitidega, mis on nanosatelliidi standard, mille mõõtmed on vaid <strong>5 cm³</strong> ja kaal kuni <strong>250 g</strong> . Vaatamata oma väiksusele on PocketQube võimsad tööriistad, mis on võimelised Maad jälgima, jälgima ja suhtlema.",
+    "paragraph2": "Neil kompaktsetel satelliitidel on arvukalt reaalseid rakendusi, alates kliimamuutuste teadusuuringutest kuni mandritevahelise kommunikatsioonini. Kuna need on väiksemad ja kergemad, on nende ehitamine ja käivitamine taskukohasem, muutes kosmose kättesaadavamaks üliõpilastele, teadlastele ja kunstnikele kogu maailmas."
+  },
+  "globalAccess": {
+    "heading": "Globaalne juurdepääs, alustades globaalsest lõunast",
+    "paragraph1": "Kursus on kõigile <strong>16-aastastele ja vanematele</strong> inimestele täiesti <strong>tasuta</strong> kättesaadav. Alustame sisuga <strong>portugali</strong> , <strong>hispaania</strong> , <strong>inglise</strong> ja <strong>hindi</strong> keeles ning plaanime programmi kasvades laiendada seda ka teistele keeltele.",
+    "paragraph2": "Meie missioon algab globaalsest lõunast ja ulatub üle kogu maailma, tagades, et järgmine kosmoseuurijate põlvkond pärineb Maa igast nurgast."
+  },
+  "callToAction": {
+    "heading": "Aita meil seda teoks teha",
+    "content": "See haridusprogramm on praegu väljatöötamisel. Otsime partnereid ja rahastajaid, kes jagavad meie visiooni kosmosetehnoloogiale juurdepääsu demokratiseerimisest. Kui teie või teie organisatsioon soovib seda algatust toetada, külastage meie <a href=\"/support\">tugilehte</a> , et saada teavet partnerlusvõimaluste kohta."
+  },
+  "imageAlt": "Orbitaalse Templi satelliit"
+}

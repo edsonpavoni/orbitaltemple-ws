@@ -1,0 +1,13 @@
+{
+  "title": "Ricevi notifiche - Orbital Temple",
+  "heading": "Ricevi una notifica quando aumenta",
+  "description": "Il 28 novembre 2025 il Tempio Orbitale ascenderà.<br> Lasciaci la tua e-mail e ti faremo sapere quando sarà disponibile.",
+  "form": {
+    "emailPlaceholder": "il tuo@indirizzoemail.com",
+    "sendButton": "Inviare",
+    "sendingButton": "Invio in corso...",
+    "successMessage": "Ti raggiungeremo quando salirà.",
+    "errorMessage": "Si è verificato un errore. Riprova."
+  },
+  "backLink": "← Torna al conto alla rovescia"
+}

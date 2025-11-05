@@ -1,8 +1,19 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "the artwork",
+    "sendAName": "send a name",
+    "fromTheArtist": "from the artist",
+    "yetAnotherTemple": "yet, another temple?",
+    "howItWorks": "how it works",
+    "spaceLaunch": "space launch and risks",
+    "briefHistory": "brief history of art in space",
+    "education": "education & open source",
+    "sustainability": "sustainability and space debris",
+    "press": "press & media",
+    "team": "team",
+    "partners": "partners",
+    "support": "support",
+    "technicalInfo": "technical info"
   },
   "ritual": {
     "label": "ritual",

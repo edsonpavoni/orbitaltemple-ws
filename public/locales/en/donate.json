@@ -1,0 +1,31 @@
+{
+  "title": "Donate to Orbital Temple",
+  "heading": "Complete Your Donation",
+  "donatingTo": "You are donating to:",
+  "chooseHow": "Choose how you would like to complete your tax-deductible donation:",
+  "option1": {
+    "heading": "Option 1: Donate Online Now",
+    "description": "Complete your donation immediately using credit card, debit card, or other online payment methods through our secure fiscal sponsor, <strong>The Field</strong>. You'll receive an instant tax receipt.",
+    "button": "Donate via The Field →"
+  },
+  "option2": {
+    "heading": "Option 2: Bank Deposit to The Roy Foundation",
+    "description": "Make a direct bank deposit or wire transfer to <strong>The Roy Foundation</strong>, our strategic partner and fiscal sponsor. This option is ideal for larger donations or international transfers.",
+    "bankingInfo": "Banking Information",
+    "fields": {
+      "accountName": "Account Name:",
+      "bankName": "Bank Name:",
+      "accountNumber": "Account Number:",
+      "routingNumber": "Routing Number:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Reference:"
+    },
+    "instructions": "Please include \"<strong>Orbital Temple - {donationType}</strong>\" in the reference field. After completing your transfer, email us at <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> with your transfer details to receive your tax receipt.",
+    "button": "Contact Us About Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Tax-Deductible Giving",
+    "description": "Orbital Temple is a fiscally sponsored project of <strong>The Field (Performance Zone Inc.)</strong>, a <strong>501(c)(3)</strong> non-profit organization. All U.S. contributions are tax-deductible to the extent allowed by law.",
+    "questions": "Questions? Contact us at <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

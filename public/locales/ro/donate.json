@@ -1,0 +1,31 @@
+{
+  "title": "Donează către Templul Orbital",
+  "heading": "Finalizează-ți donația",
+  "donatingTo": "Donezi către:",
+  "chooseHow": "Alegeți cum doriți să finalizați donația deductibilă din impozit:",
+  "option1": {
+    "heading": "Opțiunea 1: Donează online acum",
+    "description": "Finalizează donația imediat folosind cardul de credit, cardul de debit sau alte metode de plată online prin intermediul sponsorului nostru fiscal securizat, <strong>The Field</strong> . Vei primi instantaneu o chitanță fiscală.",
+    "button": "Donează prin intermediul The Field →"
+  },
+  "option2": {
+    "heading": "Opțiunea 2: Depunere bancară către Fundația Roy",
+    "description": "Efectuați un depozit bancar direct sau un transfer bancar către <strong>Fundația Roy</strong> , partenerul nostru strategic și sponsor fiscal. Această opțiune este ideală pentru donații mai mari sau transferuri internaționale.",
+    "bankingInfo": "Informații bancare",
+    "fields": {
+      "accountName": "Nume cont:",
+      "bankName": "Numele băncii:",
+      "accountNumber": "Numărul de cont:",
+      "routingNumber": "Număr de rutare:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referinţă:"
+    },
+    "instructions": "Vă rugăm să includeți „ <strong>Orbital Temple - {donationType}</strong> ” în câmpul de referință. După finalizarea transferului, trimiteți-ne un e-mail la adresa <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> cu detaliile transferului pentru a primi chitanța fiscală.",
+    "button": "Contactați-ne despre depozit →"
+  },
+  "taxInfo": {
+    "heading": "Donații deductibile din impozit",
+    "description": "Orbital Temple este un proiect sponsorizat fiscal de <strong>The Field (Performance Zone Inc.)</strong> , o organizație non-profit <strong>501(c)(3)</strong> . Toate contribuțiile din SUA sunt deductibile din impozit în măsura permisă de lege.",
+    "questions": "Întrebări? Contactați-ne la <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

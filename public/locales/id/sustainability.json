@@ -1,0 +1,44 @@
+{
+  "title": "Keberlanjutan & Puing Luar Angkasa - Kuil Orbital",
+  "heading": "Keberlanjutan",
+  "intro": {
+    "paragraph1": "Jika seni ingin membawa kita ke masa depan, ia tak boleh mengabaikan krisis yang kita hadapi—keruntuhan lingkungan, kesenjangan sosial, dan tantangan yang semakin besar akibat puing-puing antariksa. Orbital Temple dirancang dengan mempertimbangkan realitas ini, bertujuan untuk menjadi kehadiran yang bertanggung jawab baik di Bumi maupun di orbit.",
+    "paragraph2": "Kami percaya keberlanjutan bukanlah kendala, melainkan bagian penting dari visi artistik kami. Setiap keputusan terkait material, orbit, dan operasi mencerminkan komitmen kami untuk meninggalkan Bumi dan luar angkasa dalam kondisi yang lebih baik daripada saat kami menemukannya."
+  },
+  "spaceDebris": {
+    "heading": "Puing-puing Luar Angkasa",
+    "paragraph1": "Puing-puing antariksa merupakan salah satu tantangan paling mendesak yang dihadapi eksplorasi antariksa. Ribuan satelit dan pecahannya yang tidak berfungsi mengorbit Bumi, mengancam misi-misi aktif dan menciptakan efek berantai yang dapat membuat orbit-orbit tertentu tidak dapat digunakan.",
+    "paragraph2": "Orbital Temple mengatasi hal ini dengan beberapa cara:",
+    "list": {
+      "orbit": "<strong>Orbit sinkron Matahari pada 525 km:</strong> Ketinggian ini memastikan adanya gaya hambat atmosfer alami yang akan menyebabkan satelit memasuki kembali atmosfer Bumi dalam waktu sekitar 10 tahun, dan akan terbakar habis. Kami tidak berkontribusi pada puing-puing orbital jangka panjang.",
+      "size": "<strong>Desain PocketQube:</strong> Dengan ukuran hanya 50×58×64mm dan berat 245g, satelit ini cukup kecil untuk menguap sepenuhnya saat masuk kembali, tanpa meninggalkan serpihan di permukaan Bumi.",
+      "responsibility": "<strong>Tidak ada keusangan yang direncanakan:</strong> Tidak seperti satelit komersial yang mungkin ditinggalkan, Orbital Temple dirancang untuk keluar dari orbit secara alami, memenuhi pedoman internasional untuk aktivitas luar angkasa yang bertanggung jawab."
+    },
+    "paragraph3": "Dengan memilih orbit Bumi rendah dan desain yang ringkas, kami memastikan bahwa kehadiran Orbital Temple di luar angkasa bersifat sementara dan tidak menimbulkan polusi."
+  },
+  "carbonNeutrality": {
+    "heading": "Netralitas Karbon",
+    "content": "Semua emisi karbon yang terkait dengan Orbital Temple—termasuk produksi satelit, peluncuran, operasi stasiun darat, hosting situs web, dan perjalanan tim—akan sepenuhnya diimbangi melalui program kredit karbon yang terverifikasi. Kami berkomitmen untuk menjadikan misi ini netral iklim."
+  },
+  "openSource": {
+    "heading": "Perangkat Keras Sumber Terbuka",
+    "paragraph1": "Keberlanjutan juga berarti tidak menyia-nyiakan pengetahuan. Setiap aspek teknis Orbital Temple—skema, kode, protokol komunikasi, dan metode konstruksi—akan dipublikasikan sebagai dokumentasi sumber terbuka.",
+    "paragraph2": "Hal ini memungkinkan misi-misi mendatang untuk melanjutkan pekerjaan kami alih-alih memulai dari awal, sehingga mengurangi penelitian dan pengembangan yang berulang. Hal ini mendemokratisasi akses terhadap teknologi antariksa, terutama bagi komunitas di belahan bumi selatan yang secara historis terpinggirkan dari eksplorasi antariksa."
+  },
+  "educational": {
+    "heading": "Dampak Pendidikan",
+    "paragraph1": "Program pendidikan multibahasa gratis kami mengajarkan siswa di seluruh dunia cara membangun dan meluncurkan satelit, dengan fokus pada negara-negara berkembang. Dengan memberdayakan generasi mendatang dengan keterampilan teknologi luar angkasa, kami berkontribusi untuk menutup \"Kesenjangan Luar Angkasa\" dan menciptakan peluang yang sebelumnya tidak ada.",
+    "paragraph2": "Misi pendidikan ini sendiri merupakan bentuk keberlanjutan—berinvestasi pada manusia dan komunitas untuk menciptakan perubahan yang bertahan lama melampaui umur satelit."
+  },
+  "tenYear": {
+    "heading": "Misi 10 Tahun",
+    "paragraph1": "Orbital Temple dirancang untuk misi selama satu dekade, bukan sekadar aksi publisitas singkat. Selama sepuluh tahun, satelit ini akan mengorbit Bumi sekitar 50.000 kali, menerima nama, dan berfungsi sebagai pengingat bahwa luar angkasa dapat menjadi milik bersama, dapat diakses oleh semua orang.",
+    "paragraph2": "Setelah misinya berakhir, satelit itu secara alami akan keluar dari orbit dan terbakar, tidak meninggalkan jejak apa pun kecuali dalam ingatan dan dokumentasi mereka yang berpartisipasi."
+  },
+  "artsResponsibility": {
+    "heading": "Tanggung Jawab Seni",
+    "paragraph1": "Seni selalu menjadi cerminan zamannya, yang mencerminkan nilai-nilai dan aspirasi kita. Di era krisis iklim dan meningkatnya ketimpangan, kami percaya bahwa seniman memiliki tanggung jawab untuk menciptakan karya yang tidak hanya mengomentari isu-isu ini, tetapi juga secara aktif mengatasinya.",
+    "paragraph2": "Orbital Temple adalah upaya kami untuk menciptakan karya seni yang radikal dalam inklusivitasnya, bertanggung jawab atas dampak lingkungannya, dan murah hati dalam berbagi pengetahuannya dengan dunia. Orbital Temple adalah seni yang mengajak semua orang untuk berpartisipasi sambil tetap menghormati sistem yang rapuh—lingkungan dan orbital—yang memungkinkan kehidupan dan eksplorasi."
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

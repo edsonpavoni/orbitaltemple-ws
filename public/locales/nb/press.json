@@ -1,0 +1,138 @@
+{
+  "title": "Presse og media - Orbital Temple",
+  "heading": "Presse og media",
+  "pressContact": {
+    "heading": "Pressekontakt",
+    "content": "For pressehenvendelser, intervjuer og medieforespørsler:<br /> <strong>E-post:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Nettsted:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Om prosjektet",
+    "paragraph1": "Orbital Temple er et kunstverk og en satellitt som har som mål å være et radikalt inkluderende tempel, bygget der ingen vegger kan nå. Prosjektet er skapt av den brasilianske kunstneren Edson Pavoni, kunstneren bak Inumeráveis-minnesmerket som nådde 1 av 6 brasilianere under COVID-pandemien, og inviterer folk fra hele verden til å sende navnet på noen de ønsker å minnes. Disse navnene overføres til en satellitt i bane, og skaper et kollektivt minnesmerke.",
+    "paragraph2": "Gjennom et nettsted tilgjengelig på 246 språk, deltar deltakerne i en ny type ritual. Orbital Temple utforsker temaer som inkludering, minne og vår delte menneskelighet, og stiller spørsmål ved hvorfor ingen fysiske tempel på jorden virkelig kan ønske alle velkommen, og foreslår verdensrommet som det eneste stedet der radikal inkludering kan eksistere."
+  },
+  "aboutArtist": {
+    "heading": "Om kunstneren",
+    "paragraph1": "<strong>Edson Pavoni</strong> er en brasiliansk kunstner hvis reise startet i gatene i São Paulo, hvor en kontekst av fattigdom og vold formet hans tidlige år. I et land der kristendommen tilbød en vei bort fra gatene, narkotika og vold, fant Pavoni tilflukt i troen, et tema som senere, da han ble kritiker av religiøse overgrep, skulle prege hans kunstneriske praksis.",
+    "paragraph2": "I 2020, under COVID-19-pandemien, skapte Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (utallige)</a></strong> , et kunstverk i skjæringspunktet mellom kunst og journalistikk. Prosjektet intervjuet tusenvis av familier og skrev historier om de som ble tapt i pandemien, og skapte et rom der minnet oversteg tall og statistikk. Dikt, sanger og symfonier ble laget med disse historiene. Aviser laget forsider med navn og historier. Alle de brasilianske stjernene som Oscar-vinnende Fernanda Torres, og stjerner som Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo og Lazaro Ramos, og så mange andre, leste disse historiene på nasjonal TV. Prosjektet nådde 32 millioner mennesker, én av fire brasilianske voksne. Det ble et nettverk av helbredelse, et kollektivt monument til minne.",
+    "paragraph3": "Etter mer enn ti tusen samtaler om sorg, dukket et mønster opp: når vi snakker om noen som er død, velger vi ut fragmenter av historien deres som om vi skriver et anbefalingsbrev til paradisets portvokter. Vi gjør vårt beste for å sende dem til det vi tror er himmelen. Dette arbeidet utløste en ny forståelse: Vår tro på hvem som fortjener himmelen, former direkte hvem vi aksepterer eller ekskluderer på jorden. De portugisiske kolonisatorene i Brasil trodde at svarte mennesker ikke hadde noen sjeler; den troen rettferdiggjorde slaveri. Hvis du var urbefolkning, hvis du ble født på feil sted eller elsket feil person, får du fortsatt, den dag i dag, beskjed om at himmelens dører var lukket for deg. Finnes det en visjon om fremtiden som ikke er fylt av avvisning?",
+    "paragraph4": "Slik ble Orbital Temple født."
+  },
+  "keyFacts": {
+    "heading": "Viktige fakta",
+    "artist": "<strong>Kunstner:</strong> Edson Pavoni (Brasil)",
+    "projectType": "<strong>Prosjekttype:</strong> Satellittkunstverk, stedsspesifikt om rommet, nettbasert ritual",
+    "launchDate": "<strong>Lanseringsdato:</strong> 28. november 2025",
+    "launchLocation": "<strong>Oppskytningssted:</strong> Satish Dhawan romsenter, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satellitt:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Bane:</strong> 525 km høyde, solsynkron",
+    "participation": "<strong>Deltakelse:</strong> Gratis, åpent for alle globalt",
+    "namesSent": {
+      "heading": "<strong>Navn sendt til bane:</strong>",
+      "caption": "<em>Livetelling oppdatert fra databasen • Sist oppdatert: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Priser og anerkjennelse",
+    "mercosul": {
+      "title": "<strong>13. Mercosur-biennale</strong> (2022)",
+      "location": "Porto Alegre, Brasil",
+      "curator": "Kuratert av Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen-prisen 2022 – Futures-prisen</strong>",
+      "status": "Langlistet"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021-konkurransen</strong>",
+      "award": "Vinner – ArtSat-kategorien",
+      "org": "Promotert av det brasilianske instituttet for romforskning (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Team",
+    "content": "Orbital Temple er laget i samarbeid med Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedro Putti, Andre Vidro Putti, Ta Pedro. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace og alle de som fortsetter å foreslå navn på dette tempelet."
+  },
+  "pressCoverage": {
+    "heading": "Fremhevet i / Pressedekning",
+    "paragraph1": "<em>Pressedekning og reportasjer vil bli lagt til etter hvert som de blir tilgjengelige. Ta kontakt med presseteamet vårt for å få de siste oppdateringene.</em>",
+    "paragraph2": "Tidligere utstillinger og artikler inkluderer presentasjoner på den 13. Mercosul-biennalen, anerkjennelse fra Lumen-prisen og utvelgelse fra det brasilianske instituttet for romforskning (INPE)."
+  },
+  "images": {
+    "heading": "Høyoppløselige bilder for pressebruk",
+    "intro": "Alle bildene er tilgjengelige for redaksjonell bruk. Klikk på et hvilket som helst bilde for å laste ned filen med høy oppløsning.",
+    "installationPhotos": {
+      "heading": "Bilder fra Orbitaltempelet",
+      "credit": "Vennligst krediter: «Foto av Clara Marques / Med tillatelse fra Edson Pavoni, Orbital Temple»",
+      "view01": "Installasjonsvisning 01<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (1,4 MB)",
+      "view02": "Installasjonsvisning 02<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (2,9 MB)",
+      "view03": "Installasjonsvisning 03<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (11 MB)",
+      "view04": "Installasjonsvisning 04<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (3,4 MB)",
+      "view05": "Installasjonsvisning 05<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (3,3 MB)",
+      "view06": "Installasjonsvisning 06<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (3,7 MB)",
+      "view07": "Installasjonsvisning 07<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (3,4 MB)",
+      "view08": "Installasjonsvisning 08<br /> Foto: Clara Marques<br /> ↓ Last ned høyoppløselig (2,7 MB)",
+      "satelliteDesign": "Satellittdesign<br /> ↓ Last ned",
+      "antennaSculpture": "Antenne/Skulptur<br /> ↓ Last ned"
+    },
+    "renders": {
+      "heading": "Orbital Temple Renders",
+      "credit": "Konseptuelle 3D-gjengivelser av Orbital Temple. Vennligst krediter: \"3D-gjengivelse av RiseNY&Partners / Med tillatelse fra Edson Pavoni, Orbital Temple\"",
+      "render01": "3D-gjengivelse 01<br /> RiseNY&amp;Partners<br /> ↓ Last ned høyoppløselig (10 MB)",
+      "render02": "3D-gjengivelse 02<br /> RiseNY&amp;Partners<br /> ↓ Last ned høyoppløselig (5,9 MB)",
+      "render03": "3D-gjengivelse 03<br /> RiseNY&amp;Partners<br /> ↓ Last ned høyoppløselig (5,2 MB)",
+      "render04": "3D-gjengivelse 04<br /> RiseNY&amp;Partners<br /> ↓ Last ned høyoppløselig (11 MB)",
+      "render05": "3D-gjengivelse 05<br /> RiseNY&amp;Partners<br /> ↓ Last ned høyoppløselig (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Kunstnerbilder",
+      "photo1": "Bilde 1<br /> ↓ Last ned høyoppløselig",
+      "photo2": "Bilde 2<br /> ↓ Last ned høyoppløselig"
+    },
+    "sathiPhotos": {
+      "heading": "Bilder fra Sathi Roy",
+      "photo1": "Bilde 1<br /> ↓ Last ned høyoppløselig (843 KB)",
+      "photo2": "Bilde 2<br /> ↓ Last ned høyoppløselig (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tekniske spesifikasjoner",
+    "satellite": {
+      "heading": "Satellitt",
+      "dimensions": "Mål: 50 x 58 x 64 mm",
+      "classification": "Klassifisering: 1P PocketQube",
+      "weight": "Vekt: 245 g",
+      "materials": "Materialer: Aluminium, gull, glassfiber, elektroniske komponenter",
+      "orbit": "Bane: Høyde 525 ± 25 km; Helning: SSO 97,6 ± 0,1°",
+      "launch": "Lansering: 28. november 2025 via ISRO, India"
+    },
+    "antenna": {
+      "heading": "Antenne/Skulptur",
+      "dimensions": "Mål: 6 m diameter x 1,2 m høyde",
+      "weight": "Vekt: 46 kg",
+      "materials": "Materialer: Aluminium, epoksy speilplate, gyllen aluminiumskuppel opphengt gjennom stillaskonstruksjon"
+    },
+    "radio": {
+      "heading": "Radiospesifikasjoner",
+      "downlink": "Nedlink: 437 MHz",
+      "status": "Oppskytningsstatus: Planlagt 28. november 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Ytterligere ressurser",
+    "artwork": "→ Vis kunstverksdokumentasjon",
+    "howItWorks": "→ Hvordan det fungerer",
+    "technicalInfo": "→ Teknisk informasjon",
+    "spaceLaunch": "→ Informasjon om romoppskyting",
+    "ritual": "→ Opplev ritualet"
+  },
+  "imageAlts": {
+    "installation": "Orbitaltempelinstallasjon av Edson Pavoni",
+    "satelliteDesign": "Satellittdesign for orbitaltempel",
+    "antenna": "Skulptur av antennen til orbitaltempelet",
+    "render": "3D-gjengivelse av orbitaltempelet av RiseNY&Partners",
+    "edsonPortrait": "Portrett av Edson Pavoni",
+    "sathiPortrait": "Sathi Roy-portrett",
+    "lumenPrize": "Lumen-prisen",
+    "mercosulBienal": "Mercosur-biennalen"
+  }
+}

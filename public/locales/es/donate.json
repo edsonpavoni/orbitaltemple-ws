@@ -1,0 +1,31 @@
+{
+  "title": "Dona al Templo Orbital",
+  "heading": "Completa tu donación",
+  "donatingTo": "Estás donando a:",
+  "chooseHow": "Elija cómo desea realizar su donación deducible de impuestos:",
+  "option1": {
+    "heading": "Opción 1: Dona en línea ahora",
+    "description": "Realice su donación de inmediato utilizando tarjeta de crédito, tarjeta de débito u otros métodos de pago en línea a través de nuestro patrocinador fiscal seguro, <strong>The Field</strong> . Recibirá un recibo deducible de impuestos al instante.",
+    "button": "Dona a través de The Field →"
+  },
+  "option2": {
+    "heading": "Opción 2: Depósito bancario en la Fundación Roy",
+    "description": "Realice un depósito bancario directo o una transferencia electrónica a <strong>la Fundación Roy</strong> , nuestro socio estratégico y patrocinador fiscal. Esta opción es ideal para donaciones importantes o transferencias internacionales.",
+    "bankingInfo": "Información bancaria",
+    "fields": {
+      "accountName": "Nombre de la cuenta:",
+      "bankName": "Nombre del banco:",
+      "accountNumber": "Número de cuenta:",
+      "routingNumber": "Número de ruta:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referencia:"
+    },
+    "instructions": "Por favor, incluya « <strong>Orbital Temple - {donationType}</strong> » en la referencia. Una vez realizada la transferencia, envíenos un correo electrónico a <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> con los detalles para recibir su recibo deducible de impuestos.",
+    "button": "Contáctanos para obtener información sobre depósitos →"
+  },
+  "taxInfo": {
+    "heading": "Donaciones deducibles de impuestos",
+    "description": "Orbital Temple es un proyecto patrocinado fiscalmente por <strong>The Field (Performance Zone Inc.)</strong> , una organización sin fines de lucro <strong>501(c)(3)</strong> . Todas las contribuciones realizadas en EE. UU. son deducibles de impuestos en la medida permitida por la ley.",
+    "questions": "¿Tienes alguna pregunta? Contáctanos en <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

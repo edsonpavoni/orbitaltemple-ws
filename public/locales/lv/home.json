@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "Orbitālais templis",
+    "subtitle": "ir mākslas darbs un satelīts,\nkura mērķis ir būt radikāli iekļaujošam templim,\nvietā, kur neviena siena neaizsniedzas."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "rituāls"
+  },
+  "cta": {
+    "link": "Un vēl viens templis?",
+    "arrowAlt": "bultiņa"
+  },
+  "dome": {
+    "alt": "Kupols"
   }
 }

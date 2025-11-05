@@ -1,0 +1,31 @@
+{
+  "title": "Karya Seni - Kuil Orbital",
+  "heading": "Karya Seni",
+  "intro": {
+    "paragraph1": "Orbital Temple adalah satelit dengan misi artistik: sebuah tugu peringatan di luar angkasa yang terbuka untuk setiap makhluk hidup yang tinggal atau pernah tinggal di Bumi.",
+    "paragraph2": "Melalui sarana teknologi, siapa pun dapat mengirimkan nama seseorang ke Kuil, baik seseorang yang telah meninggal, seseorang yang masih hidup, atau makhluk apa pun yang pantas dikenang."
+  },
+  "sculpture": {
+    "heading": "Patung",
+    "paragraph1": "Karya seni tersebut memiliki tiga elemen yang saling bergantung: sebuah satelit yang secara khusus dirancang untuk menyimpan miliaran nama; sebuah patung publik yang bertukar informasi dengan satelit; dan sebuah situs web yang melaluinya para peserta mengirimkan nama-nama tersebut, dari sekarang hingga mereka meninggal dunia, ke surga.",
+    "paragraph2": "Sebagai sebuah karya multidisiplin, Orbital Temple dapat dianggap sebagai patung yang spesifik lokasi, menghuni ruang. Karya ini juga merupakan proyek Artsat."
+  },
+  "antenna": {
+    "heading": "Antena Sebagai Patung Publik",
+    "paragraph1": "Antena yang menghubungkan kita dengan luar angkasa.",
+    "paragraph2": "Sebuah antena yang akan berkomunikasi langsung dengan satelit orbit sedang dirancang.",
+    "paragraph3": "Dengan permukaan reflektif keemasan, yang memantulkan langit di atasnya, ini adalah titik awal untuk stimulasi massa (atau hubungan kita dengan apa yang 'ada di atas sana').",
+    "paragraph4": "Meskipun patung-patung itu tidak dipasang di sebagian besar belahan dunia, Frames from Earth kami, yang saat ini mengendalikan satelit, mengirimkan nama-nama tersebut pada setiap lintasan.",
+    "paragraph5": "Bantu wujudkan visi ini di kota Anda—pasang patung antena yang menginspirasi percakapan tentang eksplorasi ruang angkasa, seni, dan tempat kita bersama di kosmos. <a href=\"/support\">Pelajari lebih lanjut tentang cara mendukung proyek ini</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satelit Kuil Orbital",
+    "riseNy": "Kuil Orbital di Rise NY",
+    "installation": "Kuil Orbital oleh Clara Marques",
+    "antenna": "Antena Kuil Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Kuil Orbital di luar angkasa. Rendering 3D oleh RiseNY&Partners.",
+    "mercosul": "Instalasi Kuil Orbital di Mercosul Biennial, di Porto Alegre, Brasil.<br> Foto oleh Clara Marques."
+  }
+}

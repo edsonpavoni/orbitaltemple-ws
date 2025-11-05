@@ -1,0 +1,13 @@
+{
+  "title": "Értesülj - Orbital Templom",
+  "heading": "Értesülj, ha emelkedik",
+  "description": "2025. november 28-án felemelkedik az Orbitális Templom.<br> Add meg az e-mail címed, és értesítünk, ha eléri a szabad helyet.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Elküld",
+    "sendingButton": "Küldés...",
+    "successMessage": "Elérjük Önt, amikor felemelkedik.",
+    "errorMessage": "Valami hiba történt. Próbáld újra."
+  },
+  "backLink": "← Vissza a visszaszámláláshoz"
+}

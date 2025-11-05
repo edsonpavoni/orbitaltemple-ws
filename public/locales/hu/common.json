@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "a műalkotás",
+    "sendAName": "küldj egy nevet",
+    "fromTheArtist": "a művésztől",
+    "yetAnotherTemple": "megint egy templom?",
+    "howItWorks": "hogyan működik",
+    "spaceLaunch": "űrkilövés és kockázatok",
+    "briefHistory": "az űrművészet rövid története",
+    "education": "oktatás és nyílt forráskódú",
+    "sustainability": "fenntarthatóság és űrszemét",
+    "press": "sajtó és média",
+    "team": "csapat",
+    "partners": "partnerek",
+    "support": "támogatás",
+    "technicalInfo": "technikai információk"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "szertartás",
+    "ariaLabel": "Lépj be a rituáléba - Küldj egy nevet az Orbitális Templomba"
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Az Orbital Temple Edson Pavoni alkotása, amelyet Pedro Kaled, João Pedro Polito, Victor Baptista és João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy továbbküldőinek közösen készített."
   }
 }

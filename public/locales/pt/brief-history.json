@@ -1,0 +1,77 @@
+{
+  "title": "Breve História da Arte no Espaço - Templo Orbital",
+  "heading": "Breve História da Arte no Espaço",
+  "intro": "Desde o primeiro lançamento bem-sucedido de um satélite artificial em <strong>1957</strong> , mais de dez mil satélites passaram a orbitar a Terra. Nesta nova era, os artistas encontraram uma maneira de expandir sua prática e o espaço sideral tornou-se uma nova espécie de tela. Com isso, surgiram questões fundamentais sobre a política da exploração espacial – embora ainda haja muito a ser explorado.",
+  "sections": {
+    "leonov": {
+      "text": "A primeira obra de arte criada no espaço foi um desenho do nascer do sol sobre a Terra, feito pelo astronauta russo <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexei Leonov</a></strong> a bordo da Voskhod 2 em <strong>1965</strong> .",
+      "caption": "A primeira obra de arte criada no espaço e os lápis que Alexei Leonov usou para desenhá-la. Foto: Museu do Centro de Treinamento de Cosmonautas Yuri Gagarin"
+    },
+    "moonMuseum": {
+      "paragraph1": "Três anos depois, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">surgiu o Moon Museum</a></strong> , um minúsculo prato de cerâmica que supostamente pousou na Lua com inscrições de seis dos artistas mais proeminentes dos EUA na época: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> e <strong>Andy Warhol</strong> .",
+      "caption1": "Imagem do Museu da Lua retirada do artigo original do New York Times. O polegar obscurece o desenho de Warhol.",
+      "paragraph2": "A contribuição provocativa de Warhol - canto superior esquerdo - tornou este projeto um desafio para os meios de comunicação da época.",
+      "caption2": "A imagem escolhida pelo New York Times para publicação, com a obra de arte visível abaixo e o desenho de Andy Warhol no canto superior esquerdo."
+    },
+    "fallenAstronaut": {
+      "text": "Em <strong>1971</strong> , uma pequena escultura humanoide de alumínio chamada <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Astronauta Caído&quot;</a></strong> foi colocada na Lua pelo astronauta da Apollo 15, <strong>David Scott</strong> . O artista belga <strong>Paul Van Hoeydonck</strong> pretendia, com esta obra, homenagear os astronautas e cosmonautas que morreram em prol da exploração espacial.",
+      "caption": "Vista da placa comemorativa deixada na Lua no local de pouso de Hadley-Apennine."
+    },
+    "pioneerVoyager": {
+      "text": "Na <strong>década de 1970</strong> , tanto as <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Placas Pioneer</a></strong> quanto as <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sondas Voyager</a></strong> estabeleceram novos horizontes para a arte no espaço. Carregando placas de alumínio anodizado em ouro com mensagens visuais da Terra para quaisquer outros viajantes espaciais que pudessem encontrá-las em um futuro distante, elas retratavam a vida humana em seus elementos mais fundamentais.",
+      "caption": "Placas das sondas Pioneer 10 e 11, levadas ao espaço profundo na década de 1970."
+    },
+    "dove": {
+      "text": "Em <strong>1990</strong> , o Brasil deixou sua marca nesse território com <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">o DOVE/OSCAR-17</a></strong> , um engenhoso satélite amador de grande poder poético. Embora seu criador não se considerasse um artista, tratava-se de um empreendimento profundamente poético: gravou vozes de crianças pedindo paz e as transmitiu para mais de dois mil radioamadores em todo o mundo, transformando um CubeSat pioneiro em uma obra sonora coletiva.",
+      "caption": "DOVE/OSCAR-17, satélite poético brasileiro que transmite vozes infantis pela paz, 1990."
+    },
+    "lastPictures": {
+      "text": "Em <strong>2012</strong> , o artista <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> lançou <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;The Last Pictures&quot;</a></strong> , um disco microgravado contendo 100 fotografias, acoplado ao satélite de comunicações Echostar XVI em órbita geoestacionária. Projetado para durar bilhões de anos, ele pretende sobreviver à civilização humana como um artefato arqueológico para um futuro distante.",
+      "caption": "O disco \"The Last Pictures\", microgravado e projetado para durar mais que a humanidade, foi lançado em 2012."
+    },
+    "ulises": {
+      "text": "Em <strong>2015</strong> , o <strong>Coletivo Espacial Mexicano</strong> lançou <strong>o Ulises I</strong> , um nanossatélite concebido como uma ópera conceitual sob a direção do artista <strong>Juan José Díaz Infante Casasús</strong> . O satélite foi levado à estratosfera por um balão durante a Feira do Livro de Guadalajara. Foi projetado para explodir em aproximadamente quatro horas e descer de paraquedas.",
+      "caption": "Ulises I, uma ópera satélite conceitual do Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Foi somente em <strong>2014</strong> que o primeiro satélite puramente artístico foi lançado. O projeto <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> da Universidade de Tóquio enviou dados espaciais para a Terra, que foram utilizados em instalações artísticas e na criação musical.",
+      "caption1": "Estrutura e peças sobressalentes do satélite ARTSAT-1 Invader que permaneceram na Terra.",
+      "caption2": "exposição [SPACE x ART] − além das Cosmologias realizada no Museu de Arte Contemporânea de Tóquio"
+    },
+    "kac": {
+      "text": "O artista contemporâneo brasileiro e americano <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> contribuiu para a arte espacial por meio de colaborações com <strong>a NASA</strong> e <strong>a SpaceX</strong> . Sua <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">obra &quot;Telescópio Interior&quot;</a></strong> ( <strong>2017</strong> ), criada em parceria com o astronauta francês <strong>Thomas Pesquet</strong> , resultou em uma escultura instalada a bordo da <strong>Estação Espacial Internacional</strong> .",
+      "caption": "Telescópio interno da Estação Espacial Internacional, criado em parceria com o astronauta francês Thomas Pesquet, em 2017."
+    },
+    "enoch": {
+      "text": "Em <strong>2018</strong> , um CubeSat passivo construído como um projeto artístico foi lançado em órbita. Desenvolvido pelo artista conceitual bahamense <strong>Tavares Strachan</strong> , <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">o Enoch</a></strong> contém um vaso canópico de ouro 24 quilates com um busto do primeiro astronauta afro-americano, <strong>Robert Henry Lawrence Jr.</strong>",
+      "caption": "ENOCH (unidade de exibição), 2015-2017. ⓒ Tavares Strachan, foto ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Naquele mesmo ano, <strong>o Refletor Orbital</strong> <strong>de Trevor Paglen</strong> também foi lançado como uma escultura alojada em um CubeSat não funcional. A obra foi um gesto artístico que pretendia mudar a forma como vemos nosso lugar no mundo. Ela não foi implantada corretamente. Embora nunca tenha sido aberta como planejado, gerou debates importantes e atraiu respostas apaixonadas de astrônomos, cientistas, veículos de comunicação, educadores, estudantes e do público em geral em todo o mundo, demonstrando que uma obra de arte bem-sucedida não precisa ser tecnicamente bem-sucedida.",
+      "caption": "Renderização digital de um refletor orbital, 2018"
+    },
+    "others": {
+      "text": "Muitos outros artistas contribuíram para o campo da arte espacial, cada um trazendo perspectivas únicas em suas pesquisas. Projetos notáveis incluem a pesquisa <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">de Sarah Jane Pell,</a></strong> uma artista astronauta que explora o desempenho humano em ambientes extremos; o projeto <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue,</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">de Agnes Meyer-Brandis,</a></strong> que examina narrativas históricas e contemporâneas da exploração espacial; o programa <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">de Nahum</a></strong> , que facilita experimentos artísticos em microgravidade; e a escultura <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> , <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">de Arthur Woods</a></strong> , a primeira escultura exibida no espaço a bordo da estação Mir em 1993."
+    },
+    "orbitalTemple": {
+      "text": "Em <strong>2025</strong> , após 4 anos de pesquisa e desenvolvimento, o artista brasileiro <strong>Edson Pavoni</strong> e um grupo multidisciplinar de colaboradores lançarão <strong>o Templo Orbital</strong> , um satélite de arte participativa que convida qualquer pessoa no mundo a enviar nomes para a órbita, criando um memorial radicalmente inclusivo que transcende fronteiras.",
+      "caption": "Orbital Temple at the Mercosul Bienal. Photo: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Desenhos e lápis de Alexei Leonov",
+    "moonMuseum": "hóstia de cerâmica do Museu da Lua",
+    "moonMuseumWarhol": "Wafer de cerâmica do Museu da Lua exibindo todas as obras de arte.",
+    "fallenAstronaut": "Memorial aos astronautas falecidos na Lua",
+    "pioneerPlaques": "Placas pioneiras",
+    "dove": "Satélite WHERE/OSCAR-17",
+    "lastPictures": "O disco The Last Pictures",
+    "ulises": "Satélite Ulises I",
+    "artsatInvader": "Estrutura do satélite invasor ARTSAT-1",
+    "artsatArt": "Obra de arte criada a partir de dados do ARTSAT-1",
+    "innerTelescope": "O Telescópio Interior de Eduardo Kac",
+    "enoch": "Unidade de exibição ENOCH de Tavares Strachan",
+    "orbitalReflector": "Refletor Orbital de Trevor Paglen",
+    "orbitalTemple": "Satélite do Templo Orbital"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Dari Seniman",
+  "opening": {
+    "question": "Siapakah orang ini yang mengusulkan pembangunan kuil di luar angkasa?",
+    "thanks": "Terima kasih atas pertanyaannya.",
+    "answer": "Jawaban singkatnya adalah saya seorang seniman. Jawaban panjangnya begini:"
+  },
+  "origin": {
+    "sao_paulo": "Saya lahir di pinggiran São Paulo, di lingkungan yang sejak dini mengajarkan saya arti bahaya. Banyak teman sekolah saya kini dipenjara. Ayah tiri saya juga dipenjara. Kekerasan bukanlah sesuatu yang saya baca, melainkan dunia yang harus saya hadapi. Dan saya tahu saya perlu melarikan diri.",
+    "technology": "Teknologi menjadi jalan keluar saya. Saya belajar pemrograman dan elektronika sejak remaja. Kode adalah bahasa yang dapat membawa saya ke tempat lain. Bekerja dengan teknologi adalah pelarian saya dari kemiskinan.",
+    "christianity": "Namun, saya juga mencari rasa memiliki, cinta, dan sesuatu untuk diyakini. Saya menemukan Kekristenan, atau Kekristenan menemukan saya. Saya diterima. Saya dicintai. Saya memiliki komunitas. Saya belajar untuk memaafkan, untuk percaya, dan untuk bergerak bersama demi tujuan yang lebih besar.",
+    "price": "Namun, harganya mahal. Saya juga belajar banyak hal yang masih belum saya pelajari. Jadi, saya pun lolos dari itu."
+  },
+  "searching": {
+    "walls": "Aku tahu apa yang dilakukan tembok. Aku pernah merasakannya. Aku pernah berada di kedua sisi: terkurung di luar, terkurung di dalam. Yang terjadi selanjutnya adalah bertahun-tahun pencarian akan sesuatu yang tak bisa kusebutkan. Tuhan mati di tahun-tahun itu. Setidaknya, Tuhan yang selama ini kupelajari, yang memiliki aturan, penghakiman, dan pintu-pintu yang hanya terbuka untuk sebagian orang.",
+    "art": "Saya mulai berkarya seni untuk mengeksplorasi pertanyaan-pertanyaan ini: tentang keintiman dan teknologi, tentang ingatan dan kematian, tentang siapa yang pantas masuk surga. Saya mulai membangun mesin-mesin yang menata ulang hubungan kita dengan teknologi, mesin-mesin yang membutuhkan partisipasi Anda, kehadiran Anda, nama Anda, untuk bertransformasi dari logam dan kode menjadi sesuatu yang hidup."
+  },
+  "pandemic": {
+    "intro": "Kemudian pandemi melanda Brasil.",
+    "government": "Ketika vaksin COVID tertunda, pemerintah saya sedang menegosiasikan suap sebesar satu dolar per dosis. Mereka mempromosikan obat-obatan yang dianggap tidak efektif, menertawakan orang-orang yang meninggal karena kesulitan bernapas. Kita bangun setiap hari dengan angka yang berbeda. Berapa banyak orang yang meninggal dalam 24 jam terakhir? Apakah lebih banyak, atau lebih sedikit dari yang diperkirakan?",
+    "war": "Separuh dunia ketakutan, dan separuh lainnya menyangkal. Kita sedang berperang, melawan virus dan melawan satu sama lain.",
+    "memorial": "Saya ingin menciptakan ruang untuk duka bersama, jadi bersama ratusan orang, saya menciptakan Memorial Inumeráveis. Sebuah karya seni yang berada di persimpangan seni dan jurnalisme. Kami mewawancarai keluarga yang kehilangan seseorang. Kami menuliskan kisah hidup orang yang mereka kehilangan. Kami mengubah angka menjadi sejarah. Puisi, lagu, simfoni diciptakan dari sejarah tersebut. Para bintang membacakan kisah-kisah tersebut di televisi nasional. Proyek ini menjangkau jutaan orang.",
+    "meaning": "Yang penting bukanlah skalanya, tetapi bahwa setiap cerita adalah sebuah nama, sebuah kehidupan, surga bagi seseorang."
+  },
+  "discovery": {
+    "pattern": "Setelah lebih dari sepuluh ribu percakapan tentang duka, sebuah pola mulai muncul. Ketika kita berbicara tentang seseorang yang telah meninggal, kita tidak hanya mengucapkan hal-hal baik; kita memilih fragmen-fragmen kisah mereka seolah-olah kita sedang menulis surat rekomendasi. Sebuah rekomendasi kepada penjaga surga. Kita melakukan yang terbaik untuk mengirim mereka ke tempat penerimaan, istirahat, penghormatan, dan kenangan.",
+    "understanding": "Dan saya memahami sesuatu yang mengubah segalanya: Kita telah terluka oleh kuil-kuil yang kita bangun. Keyakinan kita tentang siapa yang pantas masuk surga secara langsung membentuk siapa yang kita singkirkan di Bumi. Penjajah Portugis di Brasil percaya bahwa orang kulit hitam tidak memiliki jiwa; keyakinan itu membenarkan perbudakan. Jika Anda pribumi, jika Anda lahir di tempat yang salah atau mencintai orang yang salah, Anda diberi tahu bahwa pintu surga tertutup bagi Anda.",
+    "birth": "Itulah bagaimana Orbital Temple lahir."
+  },
+  "shaman": {
+    "secular": "Tak ada seniman yang benar-benar sekuler. Kita selamanya terikat pada leluhur kita, sang dukun. Pada mulanya, ada sebuah gua. Manusia melukis binatang di dinding bukan untuk menghias, melainkan untuk memohon. Mereka menari, dan gua itu berubah menjadi kuil. Sang dukun menggunakan roh ritual; seniman menggunakan aura seni. Kita melukis, kita memahat, kita membuat kode, kita merancang masa depan yang kita inginkan bukan untuk menghias, melainkan untuk memohon. Semua seni bersifat spiritual, meskipun ia mengaku tidak spiritual."
+  },
+  "space": {
+    "question": "Di mana kita bisa membangun kuil tanpa dinding? Di mana tak ada bangsa atau agama yang bisa mengklaimnya. Di mana kita bisa membayangkan diri kita sebagai satu kelompok.",
+    "answer": "Ruang angkasa.",
+    "description": "Satelit seni partisipatif dari belahan bumi selatan. Sebuah kuil di orbit yang mengundang semua orang untuk mengirimkan nama mereka ke luar angkasa, terlepas dari siapa mereka, di mana mereka dilahirkan, siapa yang mereka cintai, apa yang mereka yakini. Sebuah tempat di mana inklusi radikal dimungkinkan, di orbit, melampaui batas.",
+    "mission": "Misi ini bersifat sumber terbuka. Setiap dokumen teknis, setiap baris kode akan tersedia secara gratis sehingga seniman lain, komunitas lain, dan negara lain dapat membangun satelit mereka sendiri. Jadi, negara-negara Selatan tidak hanya berpartisipasi dalam eksplorasi ruang angkasa, tetapi juga memimpinnya."
+  },
+  "closing": {
+    "answer": "Jadi, siapa orang ini yang berani membangun kuil di luar angkasa? Bukan aku yang membangunnya. Kuil itu dibangun oleh siapa pun yang memutuskan untuk mengirimkan sebuah nama, menganggapnya suci, dan mewujudkannya. Aku hanya yang mengusulkan. Kaulah yang membangunnya jika kau memutuskan.",
+    "signature": "Baik,",
+    "name": "Edson Pavoni"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Csapat - Orbitális Templom",
+  "heading": "Csapat",
+  "artist": "Edson Pavoni, művész",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Vezető producer",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Repülőgép- és rendszermérnökség",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista és João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronikai mérnöki",
+      "members": "André Biagioni, João Pedro Polito és VK"
+    },
+    "software": {
+      "heading": "Szoftver",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Design és építészet",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D nyomtatás",
+      "members": "Solid Concepts, Eduardo Dias vezetésével"
+    },
+    "rendering": {
+      "heading": "3D renderelés",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Kutatás",
+      "members": "Roberta Savian Rosa és Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Kiállításgyártás, fotózás és tartalomkészítés",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "A kiállítás selyemvetítése",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Oktatási projekt",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Kommunikációs csapat",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Külön köszönet",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini és Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Rati Vidigal, Andre Holzgal Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitális Templom Műhold"
+}

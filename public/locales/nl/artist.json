@@ -1,0 +1,44 @@
+{
+  "title": "Van de kunstenaar",
+  "opening": {
+    "question": "Wie is deze man die een tempel in de ruimte voorstelt?",
+    "thanks": "Bedankt voor je vraag.",
+    "answer": "Het korte antwoord is dat ik een kunstenaar ben. Het lange antwoord is dit:"
+  },
+  "origin": {
+    "sao_paulo": "Ik ben geboren in de buitenwijken van São Paulo, in een buurt die me al vroeg leerde wat gevaar betekent. Veel van mijn schoolvrienden zitten nu in de gevangenis. Mijn stiefvader zit ook in de gevangenis. Geweld was niet iets waar ik over las, het was de wereld waarin ik me moest bewegen. En ik wist dat ik moest ontsnappen.",
+    "technology": "Technologie werd mijn uitweg. Ik leerde programmeren, ik leerde elektronica als tiener. Code was een taal die me ergens anders heen kon brengen. Werken met technologie was mijn ontsnapping uit de armoede.",
+    "christianity": "Maar ik was ook op zoek naar verbondenheid, naar liefde, naar iets om in te geloven. Ik vond het christendom, of het christendom vond mij. Ik werd geaccepteerd. Ik werd geliefd. Ik had een gemeenschap. Ik leerde vergeven, geloven, samen optrekken voor een hoger doel.",
+    "price": "De prijs was echter hoog. Ik heb ook veel dingen geleerd die ik nog steeds aan het afleren ben. Dus ook daaraan ben ik ontsnapt."
+  },
+  "searching": {
+    "walls": "Ik weet wat muren doen. Ik heb ze gevoeld. Ik heb aan beide kanten gestaan: buitengesloten, binnengehouden. Wat volgde waren jaren van zoeken naar iets wat ik niet kon benoemen. God stierf in die jaren. De god waarover ik had geleerd, tenminste, degene met regels en oordelen en deuren die alleen voor sommigen opengingen.",
+    "art": "Ik begon kunst te maken om deze vragen te onderzoeken: over intimiteit en technologie, over herinnering en dood, over wie de hemel verdient. Ik begon machines te bouwen die onze relatie met technologie opnieuw vormgeven, machines die jouw deelname, jouw aanwezigheid, jouw naam nodig hebben om van metaal en code te transformeren tot iets levends."
+  },
+  "pandemic": {
+    "intro": "Toen trof de pandemie Brazilië.",
+    "government": "Toen de COVID-vaccins werden uitgesteld, onderhandelde mijn regering over steekpenningen van één dollar per dosis. Ze promootten medicijnen waarvan ze wisten dat ze niet effectief waren en lachten terwijl mensen stierven met moeite om te ademen. We werden elke dag wakker met een ander getal. Hoeveel mensen zijn er de afgelopen 24 uur overleden? Waren het er meer of minder dan verwacht?",
+    "war": "De helft van de wereld was bang, en de andere helft ontkende het. We waren in oorlog, met het virus en met elkaar.",
+    "memorial": "Ik wilde ruimte creëren voor collectief verdriet, dus creëerde ik samen met honderden mensen de Memorial Inumeráveis. Een kunstwerk op het snijvlak van kunst en journalistiek. We interviewden families die iemand verloren hadden. We schreven het levensverhaal van de persoon die ze verloren hadden. We transformeerden cijfers tot geschiedenissen. Gedichten, liederen en symfonieën werden met die geschiedenissen gemaakt. Sterren lazen die verhalen voor op de nationale televisie. Het project bereikte miljoenen mensen.",
+    "meaning": "Het ging niet om de omvang, maar om het feit dat elk verhaal een naam, een leven, iemands hemel was."
+  },
+  "discovery": {
+    "pattern": "Na meer dan tienduizend rouwgesprekken begon zich een patroon te ontwikkelen. Wanneer we over iemand praten die is overleden, zeggen we niet alleen positieve dingen; we selecteren fragmenten uit hun verhaal alsof we een aanbevelingsbrief schrijven. Een aanbeveling aan de poortwachter van het paradijs. We doen ons best om hen naar een plek van acceptatie, rust, eer en herinnering te sturen.",
+    "understanding": "En ik begreep iets dat alles veranderde: we zijn gekwetst door de tempels die we hebben gebouwd. Onze overtuigingen over wie recht heeft op de hemel bepalen direct wie we op aarde uitsluiten. De Portugese kolonisten in Brazilië geloofden dat zwarte mensen geen ziel hadden; die overtuiging rechtvaardigde slavernij. Als je inheems was, als je op de verkeerde plek geboren was of van de verkeerde persoon hield, werd je verteld dat de poorten van de hemel voor je gesloten waren.",
+    "birth": "Zo ontstond Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Geen enkele kunstenaar kan echt seculier zijn. We zijn voor altijd verbonden met onze gemeenschappelijke voorouder, de sjamaan. In het begin was er een grot. Mensen schilderden dieren op muren, niet om te decoreren, maar om aan te roepen. Ze dansten, en de grot werd een tempel. De sjamaan hanteert de geest van het ritueel; de kunstenaar hanteert de uitstraling van de kunst. We schilderen, we beeldhouwen, we programmeren, we ontwerpen onze gewenste toekomst, niet om te decoreren, maar om aan te roepen. Alle kunst is spiritueel, zelfs als ze beweert dat niet te zijn."
+  },
+  "space": {
+    "question": "Waar zouden we een tempel zonder muren kunnen bouwen? Waar geen enkele natie of religie aanspraak op kon maken. Waar we ons konden voorstellen dat we één groep waren.",
+    "answer": "Ruimte.",
+    "description": "Een participatieve kunstsatelliet uit het Zuiden. Een tempel in de ruimte die iedereen uitnodigt om zijn of haar naam de ruimte in te sturen, ongeacht wie ze zijn, waar ze geboren zijn, van wie ze houden of wat ze geloven. Een plek waar radicale inclusie mogelijk is, in de ruimte, voorbij grenzen.",
+    "mission": "Deze missie is open source. Elk technisch document, elke regel code zal vrij beschikbaar zijn, zodat andere kunstenaars, andere gemeenschappen en andere landen hun eigen satellieten kunnen bouwen. Het Globale Zuiden neemt dus niet alleen deel aan de ruimtevaart, maar neemt er ook het voortouw in."
+  },
+  "closing": {
+    "answer": "Dus wie is die kerel die een tempel in de ruimte bouwt? Ik bouw hem niet. De tempel wordt gebouwd door iedereen die besluit een naam te sturen, hem als heilig te beschouwen, hem werkelijkheid te laten worden. Ik ben slechts degene die het voorstelt. Jij bent degene die hem bouwt als je besluit dat te doen.",
+    "signature": "Vriendelijk,",
+    "name": "Edson Pavoni"
+  }
+}

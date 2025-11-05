@@ -1,0 +1,8 @@
+{
+  "title": "Sådan fungerer det - Orbitaltempel",
+  "heading": "Sådan fungerer det",
+  "intro": "Orbital Temple-projektet består af tre sammenkoblede elementer, der arbejder sammen om at sende navne til templet i rummet.",
+  "paragraph1": "Satellitten kredser om Jorden i en højde af cirka 525 km og lagrer navnene i sin hukommelse. Jordstationer kommunikerer med satellitten under dens passage og transmitterer de navne, som folk har indsendt via hjemmesiden.",
+  "paragraph2": "Når du indsender et navn, sættes det i kø og sendes til satellitten under den næste tilgængelige gennemgang. Du modtager en e-mailbekræftelse, når dit navn er blevet uploadet til Orbital Temple.",
+  "imageAlt": "Diagram over orbitalt tempelsystem"
+}

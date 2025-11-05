@@ -1,0 +1,43 @@
+{
+  "title": "Vzdělávání a open source - Orbital Temple",
+  "heading": "Vzdělávání a open source",
+  "intro": {
+    "paragraph1": "Veškerá technologie vyvinutá pro misi Orbital Temple bude <strong>open source</strong> a dostupná online v <strong>portugalštině</strong> , <strong>angličtině</strong> , <strong>španělštině</strong> a <strong>hindštině</strong> , což podpoří pokrok v průzkumu vesmíru v zemích <strong>globálního Jihu</strong> . Nové mise a projekty mohou Orbital Temple využít jako základ pro své vlastní umělecké nebo vědecké experimenty.",
+    "paragraph2": "V rámci svého vzdělávacího poslání nabídne Orbital Temple bezplatný vícejazyčný kurz o tom, jak postavit a vypustit satelit. Bude to praktická příležitost seznámit se se satelitní technologií a uvést ji do praxe. Každý starší <strong>16</strong> let si bude moci postavit vlastní satelit, dozvědět se o historii umění ve vesmíru, základních konceptech elektroniky, mechaniky a kosmické vědy, včetně toho, jak financovat projekty a jak postavit anténu pro komunikaci se satelity na oběžné dráze."
+  },
+  "spaceGap": {
+    "heading": "Proč je to důležité: Vesmírná mezera",
+    "paragraph1": "Termín <strong>„vesmírná propast“</strong> označuje propast mezi rozvinutými zeměmi, které mají přístup k technologickým příležitostem získaným výzkumem vesmíru, a rozvojovými zeměmi, které k těmto technologiím přístup nemají. Země globálního Jihu musí platit značné částky zahraničním vládám nebo společnostem za základní přístup k informacím produkovaným satelitními technologiemi.",
+    "paragraph2": "Vesmírné technologie poskytují zásadní výhody: satelity pomáhají v boji proti nelegální těžbě dřeva, nelegálnímu rybolovu a nelegálnímu obchodu s volně žijícími živočichy, což představuje více než <strong>73 miliard dolarů ročně</strong> . Poskytují zásadní informace o klimatu, produkci vody a potravinové bezpečnosti. Satelity umožňují přesné zavlažování a zemědělské techniky a pomáhají předcházet přírodním katastrofám. Vesmírný průmysl by mohl do <strong>roku 2030</strong> vytvořit až <strong>1 milion pracovních míst</strong> , přesto tyto příležitosti zůstávají pro mnoho lidí v zemích globálního Jihu nedostupné.",
+    "paragraph3": "Poskytováním open-source technologií a vzdělávání se snažíme demokratizovat přístup k vesmíru a umožnit nové generaci snít o nebi."
+  },
+  "empowering": {
+    "heading": "Posílení postavení nové generace",
+    "intro": "Naučíme další generaci vesmírných badatelů, jak si postavit a vypustit vlastní satelity, a to včetně těchto základních témat:",
+    "topics": {
+      "history": "<strong>Dějiny umění ve vesmíru:</strong> Pochopení linie uměleckých satelitů a vesmírných uměleckých děl.",
+      "concepts": "<strong>Základní koncepty:</strong> <strong>ArtSat</strong> (umělecké satelity), vesmírné technologie <strong>s otevřeným zdrojovým kódem</strong> a <strong>Space Gap</strong> .",
+      "missions": "<strong>Vesmírné mise:</strong> Jak konceptualizovat a navrhnout misi a jak vytvořit tým pro její provedení.",
+      "electronics": "<strong>Elektronika ve vesmíru:</strong> Základní koncepty elektronických součástek, které mohou přežít a fungovat ve vesmírném prostředí.",
+      "mechanics": "<strong>Mechanika ve vesmíru:</strong> Pochopení strukturálních a mechanických požadavků na konstrukci satelitů.",
+      "orbits": "<strong>Oběžné dráhy a odpalovací zařízení:</strong> Různé typy oběžných drah a jak vybrat poskytovatele odpalovacích zařízení pro vaši misi.",
+      "financing": "<strong>Finanční strategie:</strong> Jak zajistit financování a zdroje pro vypuštění vaší družice. Kurz poskytne zdroje pro získání finančních prostředků na vypuštění vaší družice a pomůže studentům najít programy a granty od mezinárodních institucí, které podporují mladé vědce a studenty při vysílání jejich družic do vesmíru.",
+      "groundStation": "<strong>Vývoj pozemní stanice:</strong> Jak postavit anténu pro komunikaci s Orbitálním chrámem a dalšími satelity."
+    }
+  },
+  "technology": {
+    "heading": "Technologie: Satelity PocketQube",
+    "paragraph1": "Studenti se naučí pracovat se satelity <strong>PocketQube</strong> , což je nanosatelitní standard o rozměrech pouhých <strong>5 cm³</strong> a hmotnosti až <strong>250 g</strong> . Navzdory své malé velikosti jsou PocketQube výkonnými nástroji schopnými pozorování, monitorování a komunikace Země.",
+    "paragraph2": "Tyto kompaktní satelity mají řadu reálných aplikací, od vědeckého výzkumu klimatických změn až po mezikontinentální komunikaci. Protože jsou menší a lehčí, je jejich konstrukce a vypouštění dostupnější, což zpřístupňuje vesmír studentům, výzkumníkům a umělcům po celém světě."
+  },
+  "globalAccess": {
+    "heading": "Globální přístup, počínaje globálním Jihem",
+    "paragraph1": "Kurz bude zcela <strong>zdarma</strong> k dispozici všem osobám <strong>starším 16 let</strong> . Začínáme s obsahem v <strong>portugalštině</strong> , <strong>španělštině</strong> , <strong>angličtině</strong> a <strong>hindštině</strong> a s růstem programu plánujeme rozšíření o další jazyky.",
+    "paragraph2": "Naše mise začíná na globálním Jihu a rozšiřuje se do celého světa, abychom zajistili, že další generace vesmírných průzkumníků pochází ze všech koutů Země."
+  },
+  "callToAction": {
+    "heading": "Pomozte nám to uskutečnit",
+    "content": "Tento vzdělávací program je v současné době ve vývoji. Hledáme partnery a dárce, kteří sdílejí naši vizi demokratizace přístupu k vesmírným technologiím. Pokud byste vy nebo vaše organizace chtěli tuto iniciativu podpořit, navštivte prosím naši <a href=\"/support\">stránku podpory,</a> kde se dozvíte o možnostech partnerství."
+  },
+  "imageAlt": "Orbitální chrámový satelit"
+}

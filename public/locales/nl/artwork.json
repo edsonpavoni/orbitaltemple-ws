@@ -1,0 +1,31 @@
+{
+  "title": "Het kunstwerk - Orbitale Tempel",
+  "heading": "Het kunstwerk",
+  "intro": {
+    "paragraph1": "Orbital Temple is een satelliet met een artistieke missie: een monument in de ruimte, open voor alle levende wezens die op aarde leven of hebben geleefd.",
+    "paragraph2": "Iedereen kan via technologie de naam van iemand naar de Tempel sturen, of het nu gaat om iemand die is overleden, een levend persoon of een ander wezen dat het verdient om herdacht te worden."
+  },
+  "sculpture": {
+    "heading": "Het beeldhouwwerk",
+    "paragraph1": "Het kunstwerk bestaat uit drie onderling afhankelijke elementen: een satelliet die speciaal is ontworpen om miljarden namen op te slaan; een openbaar beeldhouwwerk dat informatie uitwisselt met de satelliet; en een website waarmee deelnemers hun namen, vanaf nu tot aan hun overlijden, naar de hemel kunnen sturen.",
+    "paragraph2": "Als multidisciplinair project kan Orbital Temple worden beschouwd als een locatiegebonden sculptuur die ruimte inneemt. Het is tevens een project van Artsat."
+  },
+  "antenna": {
+    "heading": "De antenne als publiek beeldhouwwerk",
+    "paragraph1": "Een antenne die ons verbindt met de ruimte.",
+    "paragraph2": "Momenteel wordt er een antenne ontworpen die in directe verbinding staat met de ruimtesatelliet.",
+    "paragraph3": "Met een goudkleurig, reflecterend oppervlak dat de lucht erboven weerspiegelt, vormt het een startpunt voor massastimulatie (of onze relatie met wat 'daarboven' is).",
+    "paragraph4": "Hoewel de sculpturen op de meeste plekken ter wereld nog niet zijn geïnstalleerd, versturen onze Frames from Earth, die momenteel de satelliet besturen, bij iedere doorgang de namen.",
+    "paragraph5": "Help deze visie naar jouw stad te brengen door antennesculpturen te plaatsen die gesprekken stimuleren over ruimteverkenning, kunst en onze gedeelde plek in de kosmos. <a href=\"/support\">Lees meer over hoe je het project kunt steunen</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitale Tempel Satelliet",
+    "riseNy": "Orbitale Tempel bij Rise NY",
+    "installation": "Orbitale Tempel door Clara Marques",
+    "antenna": "Orbitale tempelantenne"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitale tempel in de ruimte. 3D-weergave door RiseNY&Partners.",
+    "mercosul": "Installatie van de Orbital Temple op de Biënnale van Mercosul in Porto Alegre, Brazilië.<br> Foto door Clara Marques."
+  }
+}

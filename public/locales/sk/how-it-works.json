@@ -1,0 +1,8 @@
+{
+  "title": "Ako to funguje - Orbitálny chrám",
+  "heading": "Ako to funguje",
+  "intro": "Projekt Orbitálneho chrámu pozostáva z troch vzájomne prepojených prvkov, ktoré spoločne posielajú mená do chrámu vo vesmíre.",
+  "paragraph1": "Satelit obieha okolo Zeme vo výške približne 525 km a ukladá si mená do pamäte. Pozemné stanice komunikujú so satelitom počas jeho preletov a prenášajú mená, ktoré ľudia zadali prostredníctvom webovej stránky.",
+  "paragraph2": "Keď odošlete meno, pridá sa do fronty a bude odoslané na satelit počas nasledujúceho dostupného priechodu. Po úspešnom nahraní vášho mena do Orbitálneho chrámu dostanete potvrdenie e-mailom.",
+  "imageAlt": "Diagram orbitálneho chrámového systému"
+}

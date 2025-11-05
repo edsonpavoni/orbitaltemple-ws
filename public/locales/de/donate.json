@@ -1,0 +1,31 @@
+{
+  "title": "Spende an den Orbital Temple",
+  "heading": "Schließen Sie Ihre Spende ab",
+  "donatingTo": "Sie spenden an:",
+  "chooseHow": "Wählen Sie aus, wie Sie Ihre steuerlich absetzbare Spende tätigen möchten:",
+  "option1": {
+    "heading": "Option 1: Jetzt online spenden",
+    "description": "Schließen Sie Ihre Spende jetzt per Kreditkarte, Debitkarte oder anderen Online-Zahlungsmethoden über unseren sicheren Finanzpartner <strong>The Field</strong> ab. Sie erhalten umgehend eine Spendenquittung.",
+    "button": "Spenden Sie über The Field →"
+  },
+  "option2": {
+    "heading": "Option 2: Bankeinzahlung an die Roy Foundation",
+    "description": "Sie können eine direkte Bankeinzahlung oder Überweisung an <strong>die Roy Foundation</strong> , unseren strategischen Partner und Finanzträger, leisten. Diese Option eignet sich ideal für größere Spenden oder internationale Überweisungen.",
+    "bankingInfo": "Bankinformationen",
+    "fields": {
+      "accountName": "Kontoname:",
+      "bankName": "Name der Bank:",
+      "accountNumber": "Kontonummer:",
+      "routingNumber": "Bankleitzahl:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referenz:"
+    },
+    "instructions": "Bitte geben Sie im Verwendungszweck „ <strong>Orbital Temple – {donationType}</strong> “ an. Nach Abschluss Ihrer Überweisung senden Sie uns bitte eine E-Mail mit Ihren Überweisungsdetails an <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art,</a> um Ihre Spendenquittung zu erhalten.",
+    "button": "Kontaktieren Sie uns bezüglich der Einzahlung →"
+  },
+  "taxInfo": {
+    "heading": "Steuerlich absetzbare Spenden",
+    "description": "Orbital Temple ist ein finanziell gefördertes Projekt von <strong>The Field (Performance Zone Inc.)</strong> , einer gemeinnützigen Organisation <strong>nach § 501(c)(3) des</strong> US-Steuergesetzes. Spenden aus den USA sind im gesetzlich zulässigen Rahmen steuerlich absetzbar.",
+    "questions": "Haben Sie Fragen? Kontaktieren Sie uns unter <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

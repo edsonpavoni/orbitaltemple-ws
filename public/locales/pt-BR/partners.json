@@ -1,0 +1,50 @@
+{
+  "title": "Parceiros - Templo Orbital",
+  "heading": "Parceiros",
+  "intro": "O Templo Orbital existe graças à generosidade, à experiência e à visão de parceiros extraordinários. Da engenharia de satélites à criação de narrativas, da abertura de portas em terras distantes à transformação de sonhos em ouro, cada colaboração aproxima este templo das estrelas.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Comunicação, experiências integradas e imagens renderizadas em 3D impressionantes que deram vida à visão do satélite antes mesmo de ele tocar o vazio do espaço."
+    },
+    "highestMantra": {
+      "name": "Nosso mantra supremo",
+      "description": "Liderado por Sathi Roy, o projeto conecta o Templo Orbital às comunidades espirituais e artísticas da Índia. Abre-se caminho para a arrecadação de fundos, intercâmbio cultural e uma exposição na Art Basel após o lançamento em novembro de 2025."
+    },
+    "allToSpace": {
+      "name": "Tudo para o Espaço",
+      "description": "Especialistas brasileiros em pequenos satélites. Quatro anos de colaboração na construção de uma plataforma de hardware de código aberto e no pioneirismo do processo de envio de obras de arte para a órbita a partir do Sul Global."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organização Indiana de Pesquisa Espacial (ISRO). Fornecedora do foguete PSLV para a missão que levará o Templo Orbital à órbita heliosíncrona em novembro de 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosul Bienial",
+      "description": "Porto Alegre, Brasil. Curadoria de Marcello Dantas e curadoria assistente Laura Cattani, Munir Klamt, Tarsila Riso e Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Oficina ArtSat",
+      "description": "A equipe de desenvolvimento de satélites formada dentro do II ArtSat Workshop. Coordinated by Fabiane M. Borges, instructed by Lázaro Camargo, collaborated by Ítalo Pinto Rodrigues, supervised by Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Conceitos sólidos",
+      "description": "Sob a direção de Eduardo Dias, todo o trabalho de impressão 3D e microfundição em ouro para a cúpula escultural transforma sonhos digitais em realidade em metal precioso."
+    },
+    "ideaSpace": {
+      "name": "Espaço para Ideias",
+      "description": "Startup brasileira da área da educação está desenvolvendo o currículo do Programa Espacial Quebrada, pronto para ser aplicado a estudantes do ensino médio em todo o Brasil."
+    }
+  },
+  "closing": "Tem interesse em fazer parceria com o Templo Orbital? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Entre em contato</a> .",
+  "imageAlts": {
+    "riseNy": "Logotipo da RiseNY&Partners",
+    "highestMantra": "Nosso logotipo de mantra supremo",
+    "allToSpace": "Logotipo \"Tudo para o Espaço\"",
+    "isro": "Logotipo da ISRO",
+    "mercosul": "13th Mercosul Bienial Logo",
+    "inpe": "Logotipo do Workshop INPE ArtSat",
+    "solidConcepts": "Logotipo da Solid Concepts",
+    "ideaSpace": "Logotipo do Espaço de Ideias"
+  }
+}

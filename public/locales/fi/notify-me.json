@@ -1,0 +1,13 @@
+{
+  "title": "Ilmoita - Orbital Temple",
+  "heading": "Ilmoita, kun se nousee",
+  "description": "Kiertoradan temppeli nousee 28. marraskuuta 2025.<br> Jätä sähköpostiosoitteesi, niin ilmoitamme sinulle, kun tilaa on jäljellä.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Lähetä",
+    "sendingButton": "Lähetetään...",
+    "successMessage": "Me saavutamme sinut, kun se nousee.",
+    "errorMessage": "Jotain meni pieleen. Yritä uudelleen."
+  },
+  "backLink": "← Takaisin lähtölaskentaan"
+}

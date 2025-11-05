@@ -1,0 +1,50 @@
+{
+  "title": "Partnerek - Orbitális Templom",
+  "heading": "Partnerek",
+  "intro": "Az Orbital Templom rendkívüli partnerek nagylelkűségének, szakértelmének és jövőképének köszönhető. A műholdak tervezésétől a történetek megalkotásáig, a távoli vidékeken való ajtók megnyitásától az álmok aranyba öntéséig, minden egyes együttműködés közelebb hozza ezt a templomot a csillagokhoz.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Kommunikáció, integrált élmények és lenyűgöző 3D renderelt képek keltették életre a műhold vízióját, mielőtt az elérte volna az űr ürességét."
+    },
+    "highestMantra": {
+      "name": "Legmagasabb mantránk",
+      "description": "Sathi Roy vezetésével az Orbital Templomot köti össze India spirituális és művészeti közösségeivel. A 2025 novemberében induló programot követően utat nyit adománygyűjtéshez, kulturális cseréhez és egy Art Basel kiállításhoz."
+    },
+    "allToSpace": {
+      "name": "Minden az űrbe",
+      "description": "Brazil kisműholdak specialistái. Négy évnyi együttműködés nyílt forráskódú hardverplatform építésében és a művészeti alkotások pályára állításának folyamatában a globális Délről."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indiai Űrkutatási Szervezet. Indítóállomás-szolgáltató a PSLV misszióhoz, amely az Orbital Temple-t 2025 novemberében napszinkron pályára juttatja."
+    },
+    "mercosul": {
+      "name": "13. Mercosur Biennálé",
+      "description": "Porto Alegre, Brazília. Marcello Dantas kurátora, Laura Cattani, Munir Klamt, Tarsila Riso és Carollina Lauriano asszisztens kurátorokkal."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Műhely",
+      "description": "A műholdfejlesztő csapat a II. ArtSat Workshop során alakult. Koordinátor: Fabiane M. Borges, oktató: Lázaro Camargo, közreműködött Ítalo Pinto Rodrigues, felügyel: Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Szilárd koncepciók",
+      "description": "Eduardo Dias vezetésével. A szoborszerű kupola minden 3D nyomtatási és arany mikroöntési munkája digitális álmokat nemesfém valósággá alakít."
+    },
+    "ideaSpace": {
+      "name": "Ötlettér",
+      "description": "Brazil oktatási startup, amely a Quebrada Űrprogram tananyagát fejleszti, amely készen áll arra, hogy Brazília-szerte középiskolás diákok számára alkalmazható legyen."
+    }
+  },
+  "closing": "Érdekli az Orbital Temple-lel való együttműködés? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Lépjen kapcsolatba</a> velünk.",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners logó",
+    "highestMantra": "Legmagasabb Mantránk Logója",
+    "allToSpace": "Mindent az űrbe logó",
+    "isro": "ISRO logó",
+    "mercosul": "13. Mercosur Biennálé logója",
+    "inpe": "INPE ArtSat Műhely logó",
+    "solidConcepts": "Solid Concepts logó",
+    "ideaSpace": "Idea Space logó"
+  }
+}

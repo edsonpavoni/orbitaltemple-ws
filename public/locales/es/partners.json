@@ -1,0 +1,50 @@
+{
+  "title": "Socios - Templo Orbital",
+  "heading": "Fogonadura",
+  "intro": "Orbital Temple existe gracias a la generosidad, la experiencia y la visión de socios extraordinarios. Desde la ingeniería de satélites hasta la creación de narrativas, desde abrir puertas en tierras lejanas hasta plasmar sueños en oro, cada colaboración acerca este templo a las estrellas.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Comunicación, experiencias integradas e impresionantes imágenes renderizadas en 3D que dieron vida a la visión del satélite antes incluso de que tocara el vacío del espacio."
+    },
+    "highestMantra": {
+      "name": "Nuestro mantra supremo",
+      "description": "Liderado por Sathi Roy, este proyecto conecta el Templo Orbital con las comunidades espirituales y artísticas de la India, abriendo nuevas vías para la recaudación de fondos, el intercambio cultural y una exposición en Art Basel tras su inauguración en noviembre de 2025."
+    },
+    "allToSpace": {
+      "name": "Todo al espacio",
+      "description": "Especialistas brasileños en pequeños satélites. Cuatro años de colaboración en la creación de una plataforma de hardware de código abierto y en el desarrollo del proceso para enviar arte a la órbita desde el Sur Global."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organización de Investigación Espacial de la India. Proveedor del lanzamiento para la misión PSLV que transportará el Templo Orbital a una órbita heliosíncrona en noviembre de 2025."
+    },
+    "mercosul": {
+      "name": "13ª Bienal del Mercosur",
+      "description": "Porto Alegre, Brasil. Comisariada por Marcello Dantas con los curadores asistentes Laura Cattani, Munir Klamt, Tarsila Riso y Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Taller INPE / ArtSat",
+      "description": "El equipo de desarrollo de satélites se formó durante el II Taller ArtSat. Coordinado por Fabiane M. Borges, instruido por Lázaro Camargo, colaborado por Ítalo Pinto Rodrigues, supervisado por Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Conceptos sólidos",
+      "description": "Dirigido por Eduardo Dias. Todo el trabajo de impresión 3D y microfundición de oro para la cúpula escultórica transforma sueños digitales en una preciosa realidad metálica."
+    },
+    "ideaSpace": {
+      "name": "Espacio de Ideas",
+      "description": "Una startup brasileña del sector educativo está desarrollando el currículo del Programa Espacial Quebrada, listo para ser aplicado a estudiantes de secundaria en todo Brasil."
+    }
+  },
+  "closing": "¿Te interesa colaborar con Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Ponte en contacto con nosotros</a> .",
+  "imageAlts": {
+    "riseNy": "Logotipo de RiseNY&Partners",
+    "highestMantra": "Nuestro logotipo del mantra supremo",
+    "allToSpace": "Logotipo de All to Space",
+    "isro": "Logotipo de ISRO",
+    "mercosul": "Logotipo de la 13.ª Bienal del Mercosur",
+    "inpe": "Logotipo del taller INPE ArtSat",
+    "solidConcepts": "Logotipo de Solid Concepts",
+    "ideaSpace": "Logotipo de Idea Space"
+  }
+}

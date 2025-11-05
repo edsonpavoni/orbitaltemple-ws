@@ -1,0 +1,16 @@
+{
+  "title": "Space Launch - Orbital Temple",
+  "heading": "Space Launch",
+  "intro": "The Orbital Temple is scheduled to be launched aboard a PSLV (Polar Satellite Launch Vehicle) on November 28th, 2025 from the Satish Dhawan Space Centre in Sriharikota, India.",
+  "partnership": "The Orbital Temple launch is a partnership between NewSpace India Limited (NSIL), a Government of India Company under Department of Space, Antrix Corporation, and the artist. This collaboration represents a significant milestone for art in space exploration, bringing together India's space program with an artistic vision of radical inclusivity.",
+  "risks": {
+    "heading": "Risks",
+    "paragraph1": "The satellite was built to endure extreme vibration conditions and thermal cycles, and has undergone rigorous testing. However, space launches carry inherent risks. If the satellite is damaged during launch or deployment, or if it fails to establish communication with our ground stations, we will work to troubleshoot and resolve any issues. The satellite has redundant systems and backup protocols designed to maximize the chances of mission success.",
+    "paragraph2": "Additionally, the satellite may stay in orbit for less than 10 years if atmospheric conditions or other factors cause earlier orbital decay. While we have designed it to last at least a decade, the actual lifespan depends on conditions we cannot fully control.",
+    "paragraph3": "If the first launch fails, or if we are unable to accomplish this mission as planned, we will explore alternative paths forward, potentially including a second launch attempt with available budget, partnership with other missions, or documentation of the attempt as part of the artwork's narrative about aspiration and limitation."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Orbital Temple Satellite"
+  }
+}

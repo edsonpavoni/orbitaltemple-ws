@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "ieejot\nrituālā,\nlai nosūtītu vārdu\norbitālajā templī\nkosmosā\nieelpojiet",
+    "button": "Esmu gatavs"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "ierakstiet vārdu",
+    "subtitle": "tas pacelsies līdz Orbitālajam Templim kosmosā.",
+    "placeholder": "vārds",
+    "button": "ļaujiet tam pacelties"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "ierakstiet savu e-pasta adresi",
+    "subtitle": "tātad, kad vārds parādās augšup, jūs saņemat ziņojumu.",
+    "placeholder": "jūsu e-pasts",
+    "button": "tas ir izdarīts"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Ielādēšana"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "Vārds\n{{name}}\ntagad ir rindā\npacelšanās nolūkos.\nKad\ntemplis kosmosā\nnostāsies vienā līnijā ar\nmūsu antenu\nuz Zemes\nmēs nosūtīsim\nvārdu,\nun jūs saņemsiet\nziņojumu."
   }
 }

@@ -1,0 +1,13 @@
+{
+  "title": "Dapatkan Pemberitahuan - Kuil Orbital",
+  "heading": "Dapatkan Pemberitahuan Saat Harga Naik",
+  "description": "Pada tanggal 28 November 2025, Kuil Orbital akan naik.<br> Tinggalkan e-mail Anda, dan kami akan memberi tahu Anda saat mencapai luar angkasa.",
+  "form": {
+    "emailPlaceholder": "email@anda.com",
+    "sendButton": "Mengirim",
+    "sendingButton": "Mengirim...",
+    "successMessage": "Kami akan menghubungi Anda saat ia naik.",
+    "errorMessage": "Terjadi kesalahan. Silakan coba lagi."
+  },
+  "backLink": "← Kembali ke hitung mundur"
+}

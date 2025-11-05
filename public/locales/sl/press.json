@@ -1,0 +1,138 @@
+{
+  "title": "Mediji in sporočila za javnost - Orbitalni tempelj",
+  "heading": "Tisk in mediji",
+  "pressContact": {
+    "heading": "Kontakt za medije",
+    "content": "Za medijske poizvedbe, intervjuje in zahteve medijev:<br /> <strong>E-pošta:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Spletna stran:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "O projektu",
+    "paragraph1": "Orbitalni tempelj je umetniško delo in satelit, katerega cilj je biti radikalno vključujoč tempelj, zgrajen tja, kamor ne morejo doseči nobene stene. Projekt, ki ga je ustvaril brazilski umetnik Edson Pavoni, avtor spomenika Inumeráveis, ki je med pandemijo COVID dosegel vsakega šestega Brazilca, vabi ljudi z vsega sveta, da pošljejo ime nekoga, ki se ga želijo spomniti. Ta imena se nato prenesejo na satelit v orbiti in tako ustvarijo kolektivni spomenik.",
+    "paragraph2": "Prek spletne strani, ki je na voljo v 246 jezikih, se udeleženci vključijo v novo vrsto rituala. Orbitalni tempelj raziskuje teme vključenosti, spomina in naše skupne človečnosti, pri čemer se sprašuje, zakaj noben fizični tempelj na Zemlji ne more zares sprejeti vseh, in predlaga vesolje kot edini kraj, kjer bi lahko obstajala radikalna vključenost."
+  },
+  "aboutArtist": {
+    "heading": "O umetniku",
+    "paragraph1": "<strong>Edson Pavoni</strong> je brazilski umetnik, čigar pot se je začela na ulicah São Paula, kjer sta njegova zgodnja leta oblikovala kontekst revščine in nasilja. V državi, kjer je krščanstvo ponujalo pot stran od ulic, drog in nasilja, je Pavoni našel zatočišče v veri, temi, ki je kasneje, ko je postal kritik verskih zlorab, zaznamovala njegovo umetniško prakso.",
+    "paragraph2": "Leta 2020, med pandemijo COVID-19, je Pavoni ustvaril <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (nešteto)</a></strong> , umetniško delo na presečišču umetnosti in novinarstva. Projekt je intervjuval na tisoče družin in zapisal zgodbe tistih, ki so bili izgubljeni v pandemiji, s čimer je ustvaril prostor, kjer spomin presega številke in statistiko. S temi zgodbami so nastale pesmi, pesmi in simfonije. Časopisi so ustvarili naslovnice z imeni in zgodovinami. Vse brazilske zvezde, kot je oskarjevka Fernanda Torres, in zvezde, kot so Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo in Lazaro Ramos ter mnogi drugi, so te zgodbe brali na nacionalni televiziji. Projekt je dosegel 32 milijonov ljudi, enega od štirih odraslih Brazilcev. Postal je mreža zdravljenja, kolektivni spomenik spominu.",
+    "paragraph3": "Po več kot deset tisoč pogovorih z žalostjo se je pojavil vzorec: ko govorimo o nekom, ki je umrl, izberemo delčke njegove zgodbe, kot da bi pisali priporočilno pismo varuhu raja. Potrudimo se, da ga pošljemo v tisto, za kar verjamemo, da so nebesa. To delo je sprožilo novo razumevanje: Naša prepričanja o tem, kdo si zasluži nebesa, neposredno oblikujejo, koga sprejemamo ali izključujemo na Zemlji. Portugalski kolonizatorji v Braziliji so verjeli, da temnopolti ljudje nimajo duše; to prepričanje je upravičevalo suženjstvo. Če ste bili staroselci, če ste se rodili na napačnem mestu ali ljubili napačno osebo, vam še danes govorijo, da so vam nebeška vrata zaprta. Ali obstaja vizija prihodnosti, ki je ne bi izpolnila zavrnitev?",
+    "paragraph4": "Tako se je rodil Orbitalni tempelj."
+  },
+  "keyFacts": {
+    "heading": "Ključna dejstva",
+    "artist": "<strong>Umetnik:</strong> Edson Pavoni (Brazilija)",
+    "projectType": "<strong>Vrsta projekta:</strong> Satelitska umetnina, specifična za vesolje, spletni ritual",
+    "launchDate": "<strong>Datum izida:</strong> 28. november 2025",
+    "launchLocation": "<strong>Izstrelitvena lokacija:</strong> Vesoljski center Satish Dhawan, Sriharikota, Indija (ISRO)",
+    "satellite": "<strong>Satelit:</strong> 1P PocketQube, 50x58x64 mm, 245 g",
+    "orbit": "<strong>Orbita:</strong> 525 km nadmorske višine, sončno sinhrono",
+    "participation": "<strong>Udeležba:</strong> Brezplačna, odprta za vse z vsega sveta",
+    "namesSent": {
+      "heading": "<strong>Imena, poslana v orbito:</strong>",
+      "caption": "<em>Število v živo posodobljeno iz baze podatkov • Nazadnje osveženo: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Nagrade in priznanja",
+    "mercosul": {
+      "title": "<strong>13. bienale Mercosurja</strong> (2022)",
+      "location": "Porto Alegre, Brazilija",
+      "curator": "Kustos: Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Nagrada Lumen 2022 - Nagrada za prihodnost</strong>",
+      "status": "Uvrščeni na daljši seznam"
+    },
+    "cubeDesign": {
+      "title": "<strong>Natečaj CubeDesign 2021</strong>",
+      "award": "Zmagovalec - kategorija ArtSat",
+      "org": "Spodbuja Brazilski inštitut za vesoljske raziskave (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Ekipa",
+    "content": "Orbital Temple je ustvarjen v sodelovanju s Sathi Royem, Pedrom Kaledom, João Pedrom Politom, Victorjem Baptisto, Joãom Victorjem Alvesom, Andréjem Biagionijem, VK, Jonathanom Querubino, Guilhermejem Bullejosom, Eduardom Diasom, Roberto Savian Rosa, Claro Marques, Daphne Alves, Flaviom Vidigalom, Andreom Holzmeistrom, Pedrom Vidigalom, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace in vsi tisti, ki še naprej predlagajo imena za ta tempelj."
+  },
+  "pressCoverage": {
+    "heading": "Predstavljeno v / Pokritost v medijih",
+    "paragraph1": "<em>Pokritost in novice za medije bodo dodane, ko bodo na voljo. Za najnovejše posodobitve se obrnite na našo ekipo za medije.</em>",
+    "paragraph2": "Med prejšnjimi razstavami in predstavitvami so predstavitve na 13. bienalu Mercosul, priznanje nagrade Lumen in izbor Brazilskega inštituta za vesoljske raziskave (INPE)."
+  },
+  "images": {
+    "heading": "Slike visoke ločljivosti za uporabo v tisku",
+    "intro": "Vse slike so na voljo za uredniško uporabo. Kliknite katero koli sliko, da prenesete datoteko visoke ločljivosti.",
+    "installationPhotos": {
+      "heading": "Fotografije orbitalnega templja",
+      "credit": "Prosimo, navedite vir: \"Fotografija Clare Marques / Z dovoljenjem Edsona Pavonija, Orbital Temple\"",
+      "view01": "Pogled namestitve 01<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (1,4 MB)",
+      "view02": "Pogled namestitve 02<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (2,9 MB)",
+      "view03": "Pogled namestitve 03<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (11 MB)",
+      "view04": "Pogled namestitve 04<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (3,4 MB)",
+      "view05": "Pogled namestitve 05<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (3,3 MB)",
+      "view06": "Pogled namestitve 06<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (3,7 MB)",
+      "view07": "Pogled namestitve 07<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (3,4 MB)",
+      "view08": "Pogled namestitve 08<br /> Foto: Clara Marques<br /> ↓ Prenesi visokoločljivostno sliko (2,7 MB)",
+      "satelliteDesign": "Zasnova satelitov<br /> ↓ Prenesi",
+      "antennaSculpture": "Antena/Skulptura<br /> ↓ Prenesi"
+    },
+    "renders": {
+      "heading": "Orbitalni tempeljski renderji",
+      "credit": "Konceptualni 3D-upodobitve Orbital Temple. Prosimo, navedite vir: \"3D-upodobitev RiseNY&Partners / Z dovoljenjem Edsona Pavonija, Orbital Temple\"",
+      "render01": "3D upodabljanje 01<br /> RiseNY&amp;Partners<br /> ↓ Prenesi visokoločljivostno sliko (10 MB)",
+      "render02": "3D upodabljanje 02<br /> RiseNY&amp;Partners<br /> ↓ Prenesi visokoločljivostno sliko (5,9 MB)",
+      "render03": "3D upodabljanje 03<br /> RiseNY&amp;Partners<br /> ↓ Prenesi visokoločljivostno sliko (5,2 MB)",
+      "render04": "3D upodabljanje 04<br /> RiseNY&amp;Partners<br /> ↓ Prenesi visokoločljivostno sliko (11 MB)",
+      "render05": "3D upodabljanje 05<br /> RiseNY&amp;Partners<br /> ↓ Prenesi visokoločljivostno sliko (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Fotografije umetnikov",
+      "photo1": "Fotografija 1<br /> ↓ Prenesi visokoločljivostno sliko",
+      "photo2": "Fotografija 2<br /> ↓ Prenesi visokoločljivostno sliko"
+    },
+    "sathiPhotos": {
+      "heading": "Fotografije Sathija Roya",
+      "photo1": "Fotografija 1<br /> ↓ Prenesi visokoločljivostno sliko (843 KB)",
+      "photo2": "Fotografija 2<br /> ↓ Prenesi visokoločljivostno sliko (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tehnične specifikacije",
+    "satellite": {
+      "heading": "Satelit",
+      "dimensions": "Dimenzije: 50 x 58 x 64 mm",
+      "classification": "Klasifikacija: 1P PocketQube",
+      "weight": "Teža: 245 g",
+      "materials": "Materiali: aluminij, zlato, steklena vlakna, elektronske komponente",
+      "orbit": "Orbita: Nadmorska višina 525 ± 25 km; Naklon: SSO 97,6 ± 0,1°",
+      "launch": "Izid: 28. november 2025 prek ISRO, Indija"
+    },
+    "antenna": {
+      "heading": "Antena/Skulptura",
+      "dimensions": "Dimenzije: premer 6 m x višina 1,2 m",
+      "weight": "Teža: 46 kg",
+      "materials": "Materiali: aluminij, epoksidna zrcalna plošča, zlata aluminijasta kupola, obešena skozi oder"
+    },
+    "radio": {
+      "heading": "Specifikacije radia",
+      "downlink": "Navzdol: 437 MHz",
+      "status": "Status izstrelitve: Načrtovan 28. november 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Dodatni viri",
+    "artwork": "→ Ogled dokumentacije o umetniškem delu",
+    "howItWorks": "→ Kako deluje",
+    "technicalInfo": "→ Tehnične informacije",
+    "spaceLaunch": "→ Informacije o izstrelitvi v vesolje",
+    "ritual": "→ Doživite ritual"
+  },
+  "imageAlts": {
+    "installation": "Postavitev orbitalnega templja Edsona Pavonija",
+    "satelliteDesign": "Zasnova orbitalnega templja satelita",
+    "antenna": "Skulptura orbitalne tempeljske antene",
+    "render": "3D-upodobitev orbitalnega templja, ki jo je izdelal RiseNY&Partners",
+    "edsonPortrait": "Portret Edsona Pavonija",
+    "sathiPortrait": "Portret Sathija Roya",
+    "lumenPrize": "Nagrada Lumen",
+    "mercosulBienal": "Bienale Mercosurja"
+  }
+}

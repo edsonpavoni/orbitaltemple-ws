@@ -1,0 +1,17 @@
+{
+  "title": "Technische informatie - Orbitale tempel",
+  "heading": "Technische informatie",
+  "satellite": {
+    "heading": "Satelliet",
+    "specs": "Afmetingen: 50x58x64 mm<br /> 1P PocketQube<br /> Gewicht: 245 gram<br /> Materialen: aluminium, goud, glasvezel en elektronische componenten.<br /> Baan: Hoogte 525 ± 25 km; helling: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenne/Sculptuur",
+    "specs": "Afmetingen: 6 m (diameter) en 1,2 m (hoogte)<br /> Gewicht: 46 kg<br /> Materiaal: aluminium, epoxy spiegelbord, gouden aluminium koepel opgehangen in een steigerconstructie."
+  },
+  "radio": {
+    "heading": "Radiospecificaties NASA-catalogus:",
+    "specs": "Nog te bepalen Downlink: 437 MHz<br /> Oproep: Status: PLANNING VOOR 2025"
+  },
+  "imageAlt": "Technisch infodiagram"
+}

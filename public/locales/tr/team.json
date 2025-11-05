@@ -1,0 +1,61 @@
+{
+  "title": "Takım - Orbital Temple",
+  "heading": "Takım",
+  "artist": "Edson Pavoni, sanatçı",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Yönetici Yapımcı",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Havacılık ve Sistem Mühendisliği",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista ve João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronik Mühendisliği",
+      "members": "André Biagioni, João Pedro Polito ve VK"
+    },
+    "software": {
+      "heading": "Yazılım",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Tasarım ve Mimarlık",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D Baskı",
+      "members": "Eduardo Dias liderliğindeki Solid Concepts"
+    },
+    "rendering": {
+      "heading": "3D Render",
+      "members": "Guilherme Bullejos ve RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Araştırma",
+      "members": "Roberta Savian Rosa ve Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Sergi Prodüksiyonu, Fotoğrafçılık ve İçerik Oluşturma",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Serginin Serigrafi Baskısı",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Eğitim Projesi",
+      "members": "Fikir Alanı"
+    },
+    "communication": {
+      "heading": "İletişim Ekibi",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Kahire"
+    },
+    "specialThanks": {
+      "heading": "Özel Teşekkürler",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini ve Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Kahire, Sağlam Kavramlar, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbital Temple Uydusu"
+}

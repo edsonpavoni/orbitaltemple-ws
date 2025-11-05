@@ -1,0 +1,31 @@
+{
+  "title": "Donirajte Orbitalnemu templju",
+  "heading": "Dokončajte svojo donacijo",
+  "donatingTo": "Donirate:",
+  "chooseHow": "Izberite, kako želite dokončati svojo davčno priznano donacijo:",
+  "option1": {
+    "heading": "Možnost 1: Donirajte prek spleta zdaj",
+    "description": "Svojo donacijo lahko takoj dokončate s kreditno kartico, debetno kartico ali drugimi spletnimi načini plačila prek našega varnega finančnega sponzorja, <strong>The Field</strong> . Prejeli boste takojšen davčni račun.",
+    "button": "Donirajte prek The Field →"
+  },
+  "option2": {
+    "heading": "Možnost 2: Bančno nakazilo fundaciji Roy",
+    "description": "Nakažite neposredno na bančni račun ali opravite bančno nakazilo <strong>fundaciji Roy</strong> , našemu strateškemu partnerju in finančnemu sponzorju. Ta možnost je idealna za večje donacije ali mednarodna nakazila.",
+    "bankingInfo": "Bančne informacije",
+    "fields": {
+      "accountName": "Ime računa:",
+      "bankName": "Ime banke:",
+      "accountNumber": "Številka računa:",
+      "routingNumber": "Usmerjevalna številka:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referenca:"
+    },
+    "instructions": "V polje za referenco vključite » <strong>Orbital Temple - {donationType}</strong> «. Po zaključku nakazila nam pošljite e-pošto na naslov <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> s podatki o nakazilu, da prejmete davčni račun.",
+    "button": "Kontaktirajte nas Glede pologa →"
+  },
+  "taxInfo": {
+    "heading": "Davčno priznane donacije",
+    "description": "Orbital Temple je finančno sponzoriran projekt organizacije <strong>The Field (Performance Zone Inc.)</strong> , neprofitne organizacije <strong>501(c)(3)</strong> . Vsi prispevki iz ZDA so davčno priznani v obsegu, ki ga dovoljuje zakonodaja.",
+    "questions": "Imate vprašanja? Pišite nam na <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

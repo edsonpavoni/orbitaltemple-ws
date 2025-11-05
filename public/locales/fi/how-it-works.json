@@ -1,0 +1,8 @@
+{
+  "title": "Näin se toimii - Orbitaalitemppeli",
+  "heading": "Miten se toimii",
+  "intro": "Orbitaalitemppeli-projekti koostuu kolmesta toisiinsa liittyvästä elementistä, jotka toimivat yhdessä lähettääkseen nimiä avaruudessa olevaan temppeliin.",
+  "paragraph1": "Satelliitti kiertää Maata noin 525 kilometrin korkeudessa ja tallentaa nimet muistiinsa. Maanpäälliset asemat kommunikoivat satelliitin kanssa sen ylitysten aikana ja välittävät verkkosivuston kautta lähetettyjä nimiä.",
+  "paragraph2": "Kun lähetät nimen, se liittyy jonoon ja lähetetään satelliittiin seuraavan mahdollisen lähetyskerran aikana. Saat sähköpostivahvistuksen, kun nimesi on ladattu onnistuneesti kiertoradan temppeliin.",
+  "imageAlt": "Orbitaalisen temppelijärjestelmän kaavio"
+}

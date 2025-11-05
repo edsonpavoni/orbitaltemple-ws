@@ -1,0 +1,31 @@
+{
+  "title": "Przekaż darowiznę na rzecz Orbital Temple",
+  "heading": "Dokończ swoją darowiznę",
+  "donatingTo": "Dokonujesz darowizny na rzecz:",
+  "chooseHow": "Wybierz, w jaki sposób chcesz dokonać darowizny podlegającej odliczeniu od podatku:",
+  "option1": {
+    "heading": "Opcja 1: Przekaż darowiznę online już teraz",
+    "description": "Dokonaj darowizny natychmiast, korzystając z karty kredytowej, debetowej lub innej metody płatności online za pośrednictwem naszego bezpiecznego sponsora fiskalnego, <strong>The Field</strong> . Otrzymasz natychmiastowe potwierdzenie wpłaty.",
+    "button": "Wesprzyj nas za pośrednictwem The Field →"
+  },
+  "option2": {
+    "heading": "Opcja 2: Wpłata na konto bankowe Fundacji Roya",
+    "description": "Dokonaj wpłaty bezpośrednio na konto bankowe lub przelewu bankowego na konto <strong>The Roy Foundation</strong> , naszego strategicznego partnera i sponsora finansowego. Ta opcja jest idealna w przypadku większych darowizn lub przelewów międzynarodowych.",
+    "bankingInfo": "Informacje bankowe",
+    "fields": {
+      "accountName": "Nazwa konta:",
+      "bankName": "Nazwa banku:",
+      "accountNumber": "Numer konta:",
+      "routingNumber": "Numer rozliczeniowy:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Odniesienie:"
+    },
+    "instructions": "Prosimy o wpisanie w tytule przelewu tytułu „ <strong>Orbital Temple - {donationType}</strong> ”. Po dokonaniu przelewu prosimy o kontakt mailowy pod adresem <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art,</a> podając dane do przelewu, aby otrzymać potwierdzenie podatkowe.",
+    "button": "Skontaktuj się z nami w sprawie depozytu →"
+  },
+  "taxInfo": {
+    "heading": "Darowizny odliczane od podatku",
+    "description": "Orbital Temple to projekt finansowany finansowo przez <strong>The Field (Performance Zone Inc.)</strong> , organizację non-profit <strong>501(c)(3)</strong> . Wszystkie darowizny ze Stanów Zjednoczonych podlegają odliczeniu podatkowemu w zakresie dozwolonym przez prawo.",
+    "questions": "Masz pytania? Skontaktuj się z nami pod adresem <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

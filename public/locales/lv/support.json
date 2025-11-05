@@ -1,0 +1,167 @@
+{
+  "title": "Atbalstiet Orbitālo templi — pievienojieties misijai",
+  "heading": "Atbalstiet orbitālo templi",
+  "vision": "<strong>2025. gada 28. novembrī</strong> no <strong>Indijas</strong> ar <strong>ISRO</strong> raķeti startēs <strong>Orbitālais templis</strong> . Tas ir līdzdalības mākslas satelīts no globālajiem dienvidiem, kas ir radikālas iekļaušanas piemineklis, izglītības platforma un katalizators globālām sarunām par svētā nākotni tehnoloģiju, mākslīgā intelekta un kosmosa izpētes laikmetā.",
+  "videoCaption": "Orbitālā tempļa video ievads, 1 minūte.",
+  "accomplished": {
+    "heading": "Ko esam paveikuši",
+    "content": "Pēc četriem pētniecības un izstrādes gadiem misija ir gatava. Esam pabeiguši satelīta <strong>aparatūras un programmatūras izstrādi</strong> , nokārtojuši <strong>oficiālos vibrācijas testus,</strong> kas nepieciešami lidojuma sertifikācijai, un noslēguši līgumu ar ISRO. Satelīts ir uzbūvēts. Tehnoloģija darbojas. Mēs esam saņēmuši atļauju palaišanai."
+  },
+  "funding": {
+    "heading": "Finansējuma progress",
+    "raised": "audzināts no",
+    "of": "no",
+    "goal": "mērķis",
+    "button": "Atbalstiet misiju"
+  },
+  "needs": {
+    "heading": "Kam mums nepieciešams atbalsts",
+    "intro": "Lai pabeigtu šo vēsturisko misiju un maksimāli palielinātu tās ietekmi, mums ir nepieciešams atbalsts piecās kritiski svarīgās komponentēs:",
+    "launch": {
+      "title": "ISRO palaišanas izmaksas:"
+    },
+    "travel": {
+      "title": "Mākslinieka ceļojums uz Indiju:"
+    },
+    "carbon": {
+      "title": "Oglekļa emisiju kompensācijas programma:"
+    },
+    "education": {
+      "title": "Izglītības programma:"
+    },
+    "docPreProd": {
+      "title": "Dokumentālās filmas pirmsražošana:"
+    },
+    "docProd": {
+      "title": "Dokumentālo filmu producēšana:"
+    }
+  },
+  "decade": {
+    "heading": "Desmitgade uz priekšu",
+    "intro": "Šī misija nebeidzas 2025. gada 28. novembrī. Tā tikai sākas.",
+    "paragraph1": "Nākamos <strong>10 gadus</strong> šis satelīts riņķos ap Zemi, reaģējot uz vārdiem, kas nosūtīti no visām planētas malām. Izglītības programmas mērķis ir apmācīt <strong>tūkstošiem pusaudžu</strong> satelīttehnoloģijās, pārvarot <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">kosmosa plaisu</a> globālajos dienvidos. Dokumentālā filma sasniegs <strong>miljoniem cilvēku</strong> visā pasaulē, rosinot sarunas par piederību, atmiņu un svētumu.",
+    "paragraph2": "Orbital Temple sadarbojas ar <strong>Sathi Roy</strong> un <strong>Roy fondu,</strong> lai padarītu šo desmit gadus ilgo vīziju kultūras ziņā nozīmīgu. Roy fonds ir bezpeļņas organizācija, kas veltīta tam, lai paplašinātu piekļuvi garīgajai izglītībai, emocionālajai dziedināšanai un apziņas rīkiem nepietiekami apkalpotām kopienām visā pasaulē, savienojot seno gudrību un mūsdienu tehnoloģijas, lai radītu apzinīgāku, savienotāku un līdzjūtīgāku pasauli. Kopā mēs veidojam infrastruktūru, lai nodrošinātu, ka Orbital Temple kļūst par ilgstošu kustību, kas sasniedz kopienas visā pasaulē.",
+    "paragraph3": "Jūsu atbalsts ne tikai finansē palaišanu; tas rada kustību, kas atbalsosies desmit gadus un iedvesmos nākamo kosmosa mākslinieku un inženieru paaudzi."
+  },
+  "waysToSupport": {
+    "heading": "Atbalsta veidi",
+    "individualDonations": {
+      "heading": "Individuālie ziedojumi",
+      "intro": "Pievienojieties misijai sev piemērotā līmenī. Individuālie atbalstītāji ir šī vēsturiskā projekta pamatā.",
+      "orbitalFriend": {
+        "title": "Orbitālais draugs",
+        "benefits": "Jūs saņemat: Vārdu tīmekļa vietnes goda sarakstā · Personalizētu orbitālo sertifikātu pēc satelīta palaišanas · Pateicības apliecinājumu · Nodokļu atvieglojumu čeku",
+        "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+      },
+      "satelliteSupporter": {
+        "title": "Satelīta atbalstītājs",
+        "benefits": "Jūs saņemat: Visas Orbital Friend priekšrocības · Ekskluzīvu piekļuvi satelītu izsekošanas lietotnei · Mākslinieka pateicības video ziņojumu · Nodokļu atvieglojumu čeku",
+        "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+      },
+      "spaceAdvocate": {
+        "title": "Kosmosa aizstāvis",
+        "benefits": "Jūs saņemat: Visas satelītatbalstītāja priekšrocības · Vārds un uzvārds drukātā veidā dokumentārajos kredītos · Ielūgums uz privātu dokumentālo filmu seansu · Komandas ceturkšņa jaunumi · Nodokļu atvieglojums čekam",
+        "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Finansēt konkrētu komponentu",
+    "intro": "Jūsu ieguldījums tieši finansē konkrētus misijas aspektus. Izvēlieties to, kas jūs uzrunā, vai apvienojiet vairākus, lai radītu lielāku ietekmi.",
+    "launch": {
+      "title": "Finansējiet kosmosa palaišanu",
+      "description": "Faktiskās palaišanas izmaksas ar <strong>ISRO</strong> raķeti <strong>2025. gada 28. novembrī</strong> . Tas nosūta Orbitālo templi orbītā, kur tas desmit gadus paliks kā mākslas satelīts un templis debesīs, kas pieejams ikvienam pasaulē.",
+      "benefits": "Jūs saņemat: \"Palaišanas sponsora\" titulu · Iekļauts visos preses relīzēs · Dokumentālā filma ekrānā · VIP piekļuve palaišanas pasākumiem · Piedalīties ceturkšņa videozvanos ar Edsonu un misijas komandu · Sertifikātu ar satelīta orbitālajiem datiem · Nodokļu atvieglojumu čeku",
+      "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+    },
+    "travel": {
+      "title": "Finansējiet mākslinieka ceļojumu uz Indiju",
+      "description": "Mākslinieka Edsona Pavoni un galvenās komandas ceļa, izmitināšanas un producēšanas izmaksas, lai klātienē piedalītos filmas atklāšanas pasākumā <strong>Indijā 2025. gada 28. novembrī</strong> . Šis brauciens ir būtisks dokumentālo filmu veidošanai, plašsaziņas līdzekļu atspoguļojumam un Dienvidu puslodes pārstāvēšanai šajā vēsturiskajā brīdī.",
+      "benefits": "Jūs saņemat: Personisku pateicību no mākslinieka · Piekļuvi aizkadru dokumentālajai informācijai · Vārdu dokumentārajos kredītos · Nodokļu atvieglojumu saņemošu čeku",
+      "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+    },
+    "carbon": {
+      "title": "Finansējiet oglekļa emisiju kompensācijas programmu",
+      "description": "Visas oglekļa emisijas tiks neitralizētas, tostarp raķetes palaišana un satelīta izgatavošana. Mēs sadarbojamies ar pārbaudītām oglekļa emisiju kompensācijas programmām, lai nodrošinātu, ka šī misija neatstāj negatīvu ietekmi uz vidi.",
+      "benefits": "Jūs saņemat: Vārdu tīmekļa vietnes goda sarakstā · Personalizētu sertifikātu · Nodokļu atvieglojumu saņemošu čeku",
+      "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+    },
+    "education": {
+      "title": "Finansējiet izglītības programmu",
+      "description": "Izstrādāt un palaist pilnīgu daudzvalodu kursu, kurā Dienvidu pusaudžiem tiek mācīts būvēt satelītus. Ietver mācību programmas izstrādi, video producēšanu, platformas mitināšanu un pirmā gada stipendijas studentiem no maznodrošinātām grupām. Izveido ilgtspējīgu infrastruktūru kosmosa izglītībai.",
+      "benefits": "Jūs saņemat: \"Izglītības dibinātāja sponsora\" atzinību · Stipendijas jūsu vārdā · Iekļaušanu izglītojošos materiālos · Iepazīstieties ar pirmo studentu grupu, kuru finansēja jūsu stipendija (virtuāli vai klātienē) · Dokumentālās filmas segmentu · Iespēju uzstāties atklāšanas pasākumos · Nodokļu atvieglojumu čeku",
+      "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+    },
+    "docPreProd": {
+      "title": "Finansējiet dokumentālās filmas pirmsražošanu",
+      "description": "Finansēt dokumentālās filmas <strong>&quot;Kas veido templi?&quot;</strong> sākotnējo posmu. Tas ietver divu padziļinātu interviju veikšanu <strong>Indijā</strong> ar domu līderiem un garīgajiem praktiķiem, nelielas filmēšanas grupas ceļojumu un producēšanu, kā arī pirmsražošanas materiāla montāžu. Šis posms nosaka dokumentālās filmas pamatus un apstiprina radošo virzienu.",
+      "benefits": "Jūs saņemat: Asociētā producenta titrus · Vārdu dokumentālo filmu titros · Privātu pirmsražošanas video demonstrēšanu · Piekļuvi aizkadru filmēšanai · Nodokļu atvieglojumu saņemošu čeku",
+      "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+    },
+    "docProd": {
+      "title": "Finansējiet dokumentālo filmu veidošanu",
+      "description": "Pilnīga dokumentālās filmas <strong>&quot;Kas veido templi?&quot;</strong> producēšana un pēcapstrāde, kas pēta mākslas, tehnoloģiju un svētuma krustpunktu. Ietver filmēšanu vairākās valstīs, papildu intervijas ar domu līderiem, visaptverošu montāžu, krāsu gradāciju, skaņas dizainu un pirmizrādes <strong>Indijā</strong> un <strong>Ņujorkā</strong> .",
+      "benefits": "Jūs saņemat: Izpildproducenta atzinību · Iekļaušanu ievadtitros · Privātu seansu jūsu viesiem · Ielūgumus uz pasaules pirmizrādi (abas pilsētas) · Privātas vakariņas ar Edsonu un dokumentālās filmas režisoru pirms pirmizrādes · Piekļuvi aizkadru filmām · Nodokļu atvieglojumu saņemošu čeku",
+      "button": "Veikt nodokļu atvieglojumus nesošu ziedojumu"
+    },
+    "artCollector": {
+      "title": "Kļūsti par vienīgo orbitālā tempļa mākslas kolekcionāru",
+      "imageAlt": "Orbitālā tempļa instalācija Merkosulas biennālē",
+      "imageCaption": "Orbitālais templis 13. Mercosul biennālē Porto Alegrē. Klāras Markesas foto.",
+      "paragraph1": "Šai misijai tika uzbūvēti trīs identiski satelīti. <strong>Viens</strong> tiks palaists kosmosā 2025. gada 28. novembrī. <strong>Viens</strong> ceļos uz muzeju izstādēm visā pasaulē. <strong>Viens</strong> ir rezervēts dāsnam kolekcionāram, kurš vēlas finansēt šo vīziju un iegūt savā īpašumā kosmosa mākslas vēstures gabalu.",
+      "paragraph2": "Šī nav replika; tas ir viens no trim oriģinālajiem satelītiem. Pilnībā <strong>funkcionējošs kosmosa kuģis</strong> , kas ir arī <strong>skulptūra</strong> . Satelīta izmēri ir <strong>5 cm³</strong> un svars <strong>245 g</strong> , un tā kupols ir izgatavots no <strong>zelta</strong> .",
+      "paragraph3": "Šis ir <strong>1/1 mēroga mākslas darbs</strong> .",
+      "paragraph4": "Kā kolekcionārs jūs saņemsiet tādu pašu instalāciju, kas radīta <strong>13. Merkosulas biennālei</strong> — pilnīgu muzeoloģisku ekspozīciju, kas demonstrē satelītu gan kā mākslas darbu, gan tehnoloģiju. Šī instalācija ir tikusi izstādīta lielākajās starptautiskās norises vietās un pārstāv augstāko kosmosa mākslas prezentācijas standartu.",
+      "paragraph5": "Jūsu atbalsts palīdz finansēt visu vīziju: palaišanu, izglītības programmu un dokumentālo filmu, kas rosinās globālas diskusijas par svēto tehnoloģiju, mākslīgā intelekta un kosmosa izpētes laikmetā. Jūsu vārds ir neatgriezeniski saistīts ar šo vēsturisko misiju.",
+      "button": "Jautājiet par šo iespēju"
+    }
+  },
+  "gratitude": {
+    "heading": "Ar pateicību mūsu atbalstītājiem",
+    "intro": "Orbitālā tempļa pastāvēšanu padara iespējamu institūcijas, indivīdi un radikālas iekļaušanas piekritēji, kuri saprot, ka māksla rada rītdienas iztēli.",
+    "pearmill": {
+      "title": "Dibinātājs un atbalstītājs",
+      "description": "Pearmill ir viena no visstraujāk augošajām veiktspējas mārketinga aģentūrām ASV — dizaineru, tirgotāju un inženieru grupa, kas sadarbojas, lai palīdzētu attīstīt dažus no ikoniskākajiem jaunuzņēmumiem pasaulē. Viņu dāsnais atbalsts ļāva Orbital Temple komandai iegādāties kritiski svarīgas sastāvdaļas un izstrādāt atvērtā pirmkoda aparatūru, kas padara šo satelīta misiju iespējamu."
+    },
+    "yourName": "Tavs vārds varētu būt šeit. Pievienojies mums vēstures veidošanā."
+  },
+  "people": {
+    "heading": "Cilvēki, kas stāv aiz šīs misijas",
+    "intro": "Orbitālais templis ir 10 gadu apņemšanās. To vada divi cilvēki, kuri savu dzīvi ir veltījuši mākslas, tehnoloģiju un cilvēcisko saikņu veidošanai, un kuri veido infrastruktūru, lai saglabātu šo vīziju nākamajā desmitgadē.",
+    "edson": {
+      "name": "Edsons Pavoni",
+      "role": "Mākslinieks un tehnologs",
+      "paragraph1": "Edsons ir mākslinieks un tehnologs, kas pēta cilvēcisko intimitāti mākslas un tehnoloģiju krustpunktā. Viņa prakse aptver arhitektūras instalācijas, dzeju, fotogrāfiju un satelīttehnoloģijas.",
+      "paragraph2": "Viņa darbi ir izstādīti 13. Merkosulas biennālē (Brazīlijā), IX. Starptautiskajā biennālē (Uzbekistānā) un NTU Globālajā digitālās mākslas balvā (Singapūrā).",
+      "paragraph3": "Viņam ir vairāk nekā <strong>20 gadu pieredze mākslas un tehnoloģiju jomā</strong> , un viņš ir strādājis ar radošajām komandām <strong>2016. gada Riodežaneiro Olimpiskajās spēlēs</strong> un <strong>Amerikas Attīstības bankā</strong> . Žurnāls Proxxima viņu nosauca par vienu no <strong>50 inovatīvākajiem Brazīlijas profesionāļiem</strong> , viņš saņēma divas <strong>IF dizaina balvas</strong> pēc kārtas (2017.–2018. gadā) un bija <strong>Lumen balvas Futures balvas</strong> finālists. Viņa darbi ir izstādīti divās biennālēs un prezentēti <strong>Ludviga Laikmetīgās mākslas muzejā</strong> (Budapešta), <strong>Inhotim institūtā</strong> (Brazīlija) un <strong>Dizaina un modes muzejā</strong> (Lisabona), ar izstādēm Ņujorkā, Pekinā, Singapūrā, Dubaijā, Riodežaneiro un citās pilsētās."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Dibinātājs, The Roy Foundation un stratēģiskais partneris",
+      "paragraph1": "Satija ir bezpeļņas organizācijas <strong>“The Roy Foundation”</strong> dibinātāja. Šī organizācija veltīta garīgās izglītības, emocionālās dziedināšanas un apziņas rīku pieejamības paplašināšanai nepietiekami apkalpotām kopienām visā pasaulē. Fonds sadarbojas ar skolām, kultūras iestādēm un vietējām organizācijām, lai izplatītu ar mākslīgo intelektu darbināmus labsajūtas rīkus, kopienas mācību programmas un medijus, kas iedvesmo pārmaiņām.",
+      "paragraph2": "Ar pieredzi neirozinātnē, koučingā un līderībā Sati ir izveidojusi un vadījusi komandas visā Ziemeļamerikā un Indijā, vienā uzņēmumā gūstot <strong>600 miljonus ASV dolāru</strong> lielu gada pārdošanas apjomu. Viņa ir arī <strong>OHM</strong> , digitāli orientētas garīgās kustības, dibinātāja, <strong>SUTE</strong> (digitāla mākslīgā intelekta vadīta biroja platforma) līdzdibinātāja un strādā par <strong>RISE Global Creative</strong> konsultanti un globālo izaugsmes vadītāju.",
+      "paragraph3": "Kā bengāļu-amerikāņu izcelsmes sieviete, kas savieno austrumu un rietumu filozofijas, Sathi sniedz unikālu perspektīvu 21. gadsimta garīgajām un mākslinieciskajām kustībām. Ar augošu <strong>vairāk nekā 65 000 sekotāju</strong> tīklu un vairāk nekā <strong>40 miljoniem tiešsaistes skatījumu</strong> viņa veido globālas kopienas, kas savienojas pāri kultūras un garīgajām atšķirībām."
+    },
+    "together": "Kopā ar Roja fondu mēs veidojam 10 gadu misiju, kas savieno mākslu, tehnoloģijas, izglītību un svēto, sākot ar satelīta palaišanu 2025. gada 28. novembrī un turpinot kustību, kas sasniegs nepietiekami apkalpotās kopienas visā pasaulē un iedvesmos nākamo paaudzi."
+  },
+  "join": {
+    "heading": "Pievienojieties mums",
+    "content": "Satelīts ir uzbūvēts. Tehnoloģija ir gatava. Palaišanas datums ir noteikts: <strong>2025. gada 28. novembris</strong> . Šis ir īstais brīdis pievienoties misijai, kas no jauna izprot, ko māksla var paveikt, kurp tā var nonākt un kam tā var kalpot.",
+    "fundSpecific": {
+      "heading": "Finansējiet konkrētu komponentu vai kļūstiet par dibinātāju",
+      "description": "Izvēlieties vienu no iepriekš minētajām finansēšanas iespējām, jautājiet par mākslas kolekcionāra statusa iegūšanu vai apspriediet pielāgotu sponsorēšanas veidu, kas atbilst jūsu vīzijai.",
+      "button": "Sazinieties ar mums, lai sāktu →"
+    },
+    "generalDonation": {
+      "heading": "Veiciet nodokļu atvieglojumus nesošu iemaksu",
+      "description": "Visi ziedojumi, lieli vai mazi, atbalsta misiju un ir atskaitāmi no nodokļiem, izmantojot mūsu fiskālo sponsoru The Field.",
+      "button": "Ziedot, izmantojot The Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Nodokļu atvieglojumi ziedojumiem",
+    "paragraph1": "Orbital Temple ir finansiāli sponsorēts <strong>The Field (Performance Zone Inc.)</strong> , bezpeļņas organizācijas <strong>ar 501(c)(3) statusu,</strong> kuras galvenā mītne atrodas Ņujorkā, projekts. Visi ASV ziedojumi ir atskaitāmi no nodokļiem likumā noteiktajā apmērā.",
+    "paragraph2": "<strong>Lauks</strong><br> Maiden Lane 75, 906. numurs<br> Ņujorka, Ņujorka 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Veicot ziedojumus ar čeku, lūdzu, izrakstiet tos uz <strong>Performance Zone Inc.</strong> vārda ar norādi: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

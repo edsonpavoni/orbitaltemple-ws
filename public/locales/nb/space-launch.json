@@ -1,0 +1,16 @@
+{
+  "title": "Romoppskytning - Orbitaltempel",
+  "heading": "Romoppskytning",
+  "intro": "Orbital Temple skal etter planen skytes opp om bord på en PSLV (Polar Satellite Launch Vehicle) 28. november 2025 fra Satish Dhawan Space Centre i Sriharikota, India.",
+  "partnership": "Oppskytningen av Orbital Temple er et samarbeid mellom NewSpace India Limited (NSIL), et statlig indisk selskap underlagt Department of Space, Antrix Corporation, og kunstneren. Dette samarbeidet representerer en betydelig milepæl for kunst innen romutforskning, og bringer sammen Indias romprogram med en kunstnerisk visjon om radikal inkludering.",
+  "risks": {
+    "heading": "Risikoer",
+    "paragraph1": "Satellitten ble bygget for å tåle ekstreme vibrasjonsforhold og termiske sykluser, og har gjennomgått grundige tester. Romoppskytninger medfører imidlertid iboende risikoer. Hvis satellitten blir skadet under oppskytning eller utplassering, eller hvis den ikke klarer å opprette kommunikasjon med våre bakkestasjoner, vil vi jobbe med å feilsøke og løse eventuelle problemer. Satellitten har redundante systemer og backupprotokoller som er utformet for å maksimere sjansene for suksess med oppdraget.",
+    "paragraph2": "I tillegg kan satellitten forbli i bane i mindre enn 10 år hvis atmosfæriske forhold eller andre faktorer forårsaker tidligere baneforfall. Selv om vi har designet den til å vare i minst et tiår, avhenger den faktiske levetiden av forhold vi ikke kan kontrollere fullt ut.",
+    "paragraph3": "Hvis den første oppskytningen mislykkes, eller hvis vi ikke klarer å gjennomføre dette oppdraget som planlagt, vil vi utforske alternative veier videre, potensielt inkludert et andre oppskytningsforsøk med tilgjengelig budsjett, samarbeid med andre oppdrag eller dokumentasjon av forsøket som en del av kunstverkets fortelling om ambisjoner og begrensninger."
+  },
+  "imageAlts": {
+    "india": "ISRO romsenter, India",
+    "satellite": "Orbital Temple-satellitt"
+  }
+}

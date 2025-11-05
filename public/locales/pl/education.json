@@ -1,0 +1,43 @@
+{
+  "title": "Edukacja i oprogramowanie Open Source – Orbital Temple",
+  "heading": "Edukacja i oprogramowanie typu open source",
+  "intro": {
+    "paragraph1": "Cała technologia opracowana na potrzeby misji Orbital Temple będzie <strong>dostępna</strong> online w <strong>języku portugalskim</strong> , <strong>angielskim</strong> , <strong>hiszpańskim</strong> i <strong>hindi</strong> , co będzie sprzyjać rozwojowi eksploracji kosmosu w <strong>krajach Globalnego Południa</strong> . Nowe misje i projekty mogą wykorzystać Orbital Temple jako podstawę własnych eksperymentów artystycznych lub naukowych.",
+    "paragraph2": "W ramach swojej misji edukacyjnej, Orbital Temple zaoferuje bezpłatny, wielojęzyczny kurs budowy i wystrzelenia satelity. Będzie to praktyczna okazja do poznania technologii satelitarnej i zastosowania jej w praktyce. Każdy, kto ukończył <strong>16</strong> lat, będzie mógł zbudować własnego satelitę, poznając historię sztuki w kosmosie, podstawowe pojęcia z zakresu elektroniki, mechaniki i nauk o kosmosie, w tym sposoby finansowania projektów oraz budowę anteny do komunikacji z satelitami na orbicie."
+  },
+  "spaceGap": {
+    "heading": "Dlaczego to ma znaczenie: luka w przestrzeni",
+    "paragraph1": "Termin <strong>„luka kosmiczna”</strong> odnosi się do podziału między krajami rozwiniętymi, które mają dostęp do możliwości technologicznych uzyskanych dzięki eksploracji kosmosu, a krajami rozwijającymi się, które nie mają do nich dostępu. Kraje Globalnego Południa muszą płacić znaczne kwoty zagranicznym rządom lub firmom za podstawowy dostęp do informacji generowanych przez technologie satelitarne.",
+    "paragraph2": "Technologia kosmiczna przynosi kluczowe korzyści: satelity pomagają w walce z nielegalną wycinką drzew, nielegalnym rybołówstwem i nielegalnym handlem dzikimi zwierzętami, które generują ponad <strong>73 miliardy dolarów rocznie</strong> . Dostarczają istotnych informacji na temat klimatu, produkcji wody i bezpieczeństwa żywnościowego. Satelity umożliwiają precyzyjne nawadnianie i stosowanie technik rolniczych oraz pomagają zapobiegać klęskom żywiołowym. Przemysł kosmiczny mógłby stworzyć nawet <strong>milion miejsc pracy</strong> do <strong>2030 roku</strong> , jednak możliwości te pozostają niedostępne dla wielu krajów Globalnego Południa.",
+    "paragraph3": "Udostępniając technologie open source i edukację, chcemy demokratyzować dostęp do kosmosu i umożliwić nowemu pokoleniu snucie marzeń wykraczających poza niebo."
+  },
+  "empowering": {
+    "heading": "Wspieranie następnego pokolenia",
+    "intro": "Nauczymy nowe pokolenie eksploratorów kosmosu, jak budować i wystrzeliwać własne satelity, poruszając przy tym takie istotne tematy, jak:",
+    "topics": {
+      "history": "<strong>Historia sztuki w kosmosie:</strong> Zrozumienie historii artystycznych satelitów i dzieł sztuki powstających w kosmosie.",
+      "concepts": "<strong>Koncepcje główne:</strong> <strong>ArtSat</strong> (satelity artystyczne), technologia kosmiczna <strong>Open Source</strong> i <strong>Space Gap</strong> .",
+      "missions": "<strong>Misje kosmiczne:</strong> Jak stworzyć koncepcję i zaprojektować misję oraz jak stworzyć zespół do jej realizacji.",
+      "electronics": "<strong>Elektronika w kosmosie:</strong> Podstawowe koncepcje dotyczące elementów elektronicznych, które mogą przetrwać i funkcjonować w środowisku kosmicznym.",
+      "mechanics": "<strong>Mechanika w kosmosie:</strong> zrozumienie wymagań konstrukcyjnych i mechanicznych w projektowaniu satelitów.",
+      "orbits": "<strong>Orbity i wyrzutnie:</strong> Różne rodzaje orbit i jak wybrać dostawcę usług startowych dla swojej misji.",
+      "financing": "<strong>Strategie finansowania:</strong> Jak zabezpieczyć fundusze i zasoby na wystrzelenie satelity. Kurs dostarczy zasobów do pozyskania funduszy na start, pomagając studentom znaleźć programy i granty od międzynarodowych instytucji wspierających młodych naukowców i studentów w wysyłaniu ich satelitów w kosmos.",
+      "groundStation": "<strong>Rozwój stacji naziemnej:</strong> Jak zbudować antenę do komunikacji z Orbital Temple i innymi satelitami."
+    }
+  },
+  "technology": {
+    "heading": "Technologia: Satelity PocketQube",
+    "paragraph1": "Uczniowie nauczą się pracować z satelitami <strong>PocketQube</strong> , standardowym nanosatelitą o wymiarach zaledwie <strong>5 cm³</strong> i wadze do <strong>250 g</strong> . Pomimo niewielkich rozmiarów, PocketQube to potężne narzędzia do obserwacji Ziemi, monitorowania i komunikacji.",
+    "paragraph2": "Te kompaktowe satelity mają liczne praktyczne zastosowania, od badań naukowych nad zmianami klimatu po komunikację międzykontynentalną. Ponieważ są mniejsze i lżejsze, ich budowa i wystrzelenie są tańsze, dzięki czemu przestrzeń kosmiczna staje się bardziej dostępna dla studentów, naukowców i artystów na całym świecie."
+  },
+  "globalAccess": {
+    "heading": "Globalny dostęp, począwszy od globalnego Południa",
+    "paragraph1": "Kurs będzie dostępny dla wszystkich osób <strong>w wieku 16 lat i starszych</strong> , całkowicie <strong>bezpłatnie</strong> . Zaczynamy od treści w <strong>języku portugalskim</strong> , <strong>hiszpańskim</strong> , <strong>angielskim</strong> i <strong>hindi</strong> , a w miarę rozwoju programu planujemy rozszerzyć go na kolejne języki.",
+    "paragraph2": "Nasza misja rozpoczyna się w krajach Globalnego Południa i rozszerza się na cały świat, dbając o to, aby nowe pokolenie odkrywców kosmosu pochodziło ze wszystkich zakątków Ziemi."
+  },
+  "callToAction": {
+    "heading": "Pomóż nam to zrealizować",
+    "content": "Ten program edukacyjny jest obecnie w fazie rozwoju. Poszukujemy partnerów i darczyńców, którzy podzielają naszą wizję demokratyzacji dostępu do technologii kosmicznych. Jeśli Ty lub Twoja organizacja chcielibyście wesprzeć tę inicjatywę, odwiedźcie naszą <a href=\"/support\">stronę wsparcia,</a> aby dowiedzieć się więcej o możliwościach partnerstwa."
+  },
+  "imageAlt": "Satelita Orbital Temple"
+}

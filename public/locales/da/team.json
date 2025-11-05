@@ -1,0 +1,61 @@
+{
+  "title": "Hold - Orbital Tempel",
+  "heading": "Hold",
+  "artist": "Edson Pavoni, kunstner",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Executive Producer",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Luftfart og systemteknik",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronikteknik",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Design og arkitektur",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-printning",
+      "members": "Solid Concepts, under ledelse af Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D-gengivelse",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Forskning",
+      "members": "Roberta Savian Rosa og Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Udstillingsproduktion, fotografering og indholdsskabelse",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Udstillingens silketryk",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Uddannelsesprojekt",
+      "members": "IdéSpace"
+    },
+    "communication": {
+      "heading": "Kommunikationsteamet",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Særlig tak",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini og Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidigalister, Petdro Fernandes Brunes, Raffael Brunes, Raffael Putta, Raffael. Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbital Temple Satellit"
+}

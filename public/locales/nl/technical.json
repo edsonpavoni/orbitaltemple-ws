@@ -1,0 +1,17 @@
+{
+  "title": "Technische informatie - Orbitale tempel",
+  "heading": "Technische informatie",
+  "satellite": {
+    "heading": "Satelliet",
+    "specs": "Afmetingen: 50x58x64 mm<br /> 1P PocketQube<br /> Gewicht: 245 gram<br /> Materialen: aluminium, goud, glasvezel en elektronische componenten.<br /> Baan: Hoogte 525 ± 25 km; helling: SSO 97,6 ± 0,1°<br /> Lanceerinrichting: PSLV (Polar Satellite Launch Vehicle) bediend door ISRO"
+  },
+  "antenna": {
+    "heading": "Antenne/Sculptuur",
+    "specs": "Afmetingen: 6 m (diameter) en 1,2 m (hoogte)<br /> Gewicht: 46 kg<br /> Materiaal: aluminium, epoxy spiegelbord, gouden aluminium koepel opgehangen in een steigerconstructie."
+  },
+  "radio": {
+    "heading": "Radiospecificaties",
+    "specs": "Downlink: 468,5 MHz<br /> Modulatie: CSS<br /> Bandbreedte: nog niet bekend"
+  },
+  "imageAlt": "Orbitale Tempel Satelliet"
+}

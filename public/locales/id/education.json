@@ -1,0 +1,43 @@
+{
+  "title": "Pendidikan & Sumber Terbuka - Kuil Orbital",
+  "heading": "Pendidikan & Sumber Terbuka",
+  "intro": {
+    "paragraph1": "Semua teknologi yang dikembangkan untuk misi Orbital Temple akan bersifat <strong>sumber terbuka</strong> dan tersedia daring dalam <strong>bahasa Portugis</strong> , <strong>Inggris</strong> , <strong>Spanyol</strong> , dan <strong>Hindi</strong> , yang akan mendorong kemajuan eksplorasi ruang angkasa di <strong>belahan bumi selatan</strong> . Misi dan proyek baru dapat menggunakan Orbital Temple sebagai fondasi untuk eksperimen artistik atau ilmiah mereka sendiri.",
+    "paragraph2": "Sebagai bagian dari misi pendidikannya, Orbital Temple akan menawarkan kursus multibahasa gratis tentang cara membangun dan meluncurkan satelit. Kursus ini akan menjadi kesempatan langsung untuk mempelajari teknologi satelit dan mempraktikkannya. Siapa pun yang berusia di atas <strong>16</strong> tahun dapat membangun satelit mereka sendiri, mempelajari sejarah seni di luar angkasa, konsep dasar elektronika, mekanika, dan ilmu antariksa, termasuk cara mendanai proyek dan cara membangun antena untuk berkomunikasi dengan satelit di orbit."
+  },
+  "spaceGap": {
+    "heading": "Mengapa Hal Ini Penting: Kesenjangan Ruang Angkasa",
+    "paragraph1": "Istilah <strong>&quot;Kesenjangan Antariksa&quot;</strong> mengacu pada kesenjangan antara negara-negara maju yang dapat mengakses peluang teknologi yang diperoleh melalui eksplorasi antariksa, dan negara-negara berkembang yang tidak memiliki akses ke teknologi tersebut. Negara-negara di belahan bumi selatan harus membayar sejumlah besar uang kepada pemerintah atau perusahaan asing untuk akses dasar terhadap informasi yang dihasilkan oleh teknologi satelit.",
+    "paragraph2": "Teknologi antariksa memberikan manfaat penting: satelit membantu memerangi pembalakan liar, penangkapan ikan ilegal, dan perdagangan satwa liar ilegal, yang nilainya mencapai lebih dari <strong>$73 miliar per tahun</strong> . Satelit menyediakan informasi penting tentang iklim, produksi air, dan ketahanan pangan. Satelit memungkinkan irigasi presisi dan teknik pertanian, serta membantu mencegah bencana alam. Industri antariksa dapat menciptakan hingga <strong>1 juta lapangan kerja</strong> pada <strong>tahun 2030</strong> , namun peluang ini masih belum dapat diakses oleh banyak orang di belahan bumi selatan.",
+    "paragraph3": "Dengan menyediakan teknologi dan pendidikan sumber terbuka, kami bertujuan untuk mendemokratisasi akses ke luar angkasa dan memberdayakan generasi baru untuk bermimpi melampaui langit."
+  },
+  "empowering": {
+    "heading": "Memberdayakan Generasi Berikutnya",
+    "intro": "Kami akan mengajarkan generasi penjelajah luar angkasa berikutnya cara membangun dan meluncurkan satelit mereka sendiri, yang mencakup topik-topik penting termasuk:",
+    "topics": {
+      "history": "<strong>Sejarah seni di luar angkasa:</strong> Memahami garis keturunan satelit artistik dan karya seni berbasis luar angkasa.",
+      "concepts": "<strong>Konsep inti:</strong> <strong>ArtSat</strong> (satelit artistik), teknologi luar angkasa <strong>Open Source</strong> , dan <strong>Space Gap</strong> .",
+      "missions": "<strong>Misi luar angkasa:</strong> Cara membuat konsep dan merancang misi, serta cara membentuk tim untuk melaksanakannya.",
+      "electronics": "<strong>Elektronika di luar angkasa:</strong> Konsep dasar komponen elektronika yang dapat bertahan dan berfungsi di lingkungan luar angkasa.",
+      "mechanics": "<strong>Mekanika di luar angkasa:</strong> Memahami persyaratan struktural dan mekanis untuk desain satelit.",
+      "orbits": "<strong>Orbit dan peluncur:</strong> Berbagai jenis orbit dan cara memilih penyedia peluncuran untuk misi Anda.",
+      "financing": "<strong>Strategi pendanaan:</strong> Cara mengamankan pendanaan dan sumber daya untuk meluncurkan satelit Anda. Kursus ini akan menyediakan sumber daya untuk mendapatkan pendanaan peluncuran Anda, membantu mahasiswa menemukan program dan hibah dari lembaga internasional yang mendukung ilmuwan dan mahasiswa muda dalam mengirimkan satelit mereka ke luar angkasa.",
+      "groundStation": "<strong>Pengembangan stasiun darat:</strong> Cara membangun antena untuk berkomunikasi dengan Orbital Temple dan satelit lainnya."
+    }
+  },
+  "technology": {
+    "heading": "Teknologi: Satelit PocketQube",
+    "paragraph1": "Siswa akan belajar menggunakan satelit <strong>PocketQube</strong> , sebuah standar nanosatelit berukuran hanya <strong>5 cm³</strong> dan berat hingga <strong>250 gram</strong> . Meskipun ukurannya kecil, PocketQube merupakan alat canggih yang mampu melakukan observasi, pemantauan, dan komunikasi Bumi.",
+    "paragraph2": "Satelit kompak ini memiliki beragam aplikasi di dunia nyata, mulai dari penelitian ilmiah tentang perubahan iklim hingga komunikasi antarbenua. Karena lebih kecil dan ringan, biaya pembuatan dan peluncurannya lebih terjangkau, sehingga ruang angkasa lebih mudah diakses oleh mahasiswa, peneliti, dan seniman di seluruh dunia."
+  },
+  "globalAccess": {
+    "heading": "Akses Global, Dimulai dari Negara-negara Selatan",
+    "paragraph1": "Kursus ini tersedia untuk siapa pun <strong>yang berusia 16 tahun ke atas</strong> , sepenuhnya <strong>gratis</strong> . Kami memulai dengan konten dalam <strong>bahasa Portugis</strong> , <strong>Spanyol</strong> , <strong>Inggris</strong> , dan <strong>Hindi</strong> , dengan rencana untuk memperluas ke bahasa-bahasa lain seiring perkembangan program.",
+    "paragraph2": "Misi kami dimulai di Global Selatan dan meluas ke seluruh dunia, memastikan bahwa generasi penjelajah luar angkasa berikutnya berasal dari seluruh penjuru Bumi."
+  },
+  "callToAction": {
+    "heading": "Bantu Kami Mewujudkan Hal Ini",
+    "content": "Program pendidikan ini sedang dalam tahap pengembangan. Kami mencari mitra dan donatur yang memiliki visi yang sama untuk mendemokratisasi akses ke teknologi antariksa. Jika Anda atau organisasi Anda ingin mendukung inisiatif ini, silakan kunjungi <a href=\"/support\">halaman dukungan</a> kami untuk mempelajari lebih lanjut tentang peluang kemitraan."
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

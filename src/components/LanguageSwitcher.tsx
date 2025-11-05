@@ -5,16 +5,15 @@ import { SUPPORTED_LANGUAGES, isRTL } from '../lib/i18n';
 export default function LanguageSwitcher() {
   const { i18n } = useTranslation();
 
-  // Languages with home screen translations (for testing)
-  const TRANSLATED_LANGS = ['en', 'pt', 'es', 'fr', 'de', 'it', 'ja', 'zh'];
+  // All 31 languages are now fully translated via Google Cloud Translation API
+  const TRANSLATED_LANGS = [
+    'ar', 'bg', 'cs', 'da', 'de', 'el', 'en', 'es', 'et', 'fi',
+    'fr', 'hi', 'hu', 'id', 'it', 'ja', 'ko', 'lt', 'lv', 'nb',
+    'nl', 'pl', 'pt', 'pt-BR', 'ro', 'ru', 'sk', 'sl', 'sv', 'tr', 'uk', 'zh'
+  ];
 
-  // Split languages into translated and untranslated
-  const translatedLanguages = SUPPORTED_LANGUAGES.filter(lang =>
-    TRANSLATED_LANGS.includes(lang.code)
-  );
-  const untranslatedLanguages = SUPPORTED_LANGUAGES.filter(lang =>
-    !TRANSLATED_LANGS.includes(lang.code)
-  );
+  // All languages in SUPPORTED_LANGUAGES are now translated
+  const translatedLanguages = SUPPORTED_LANGUAGES;
 
   // Set default language to English if none is set
   useEffect(() => {
@@ -94,20 +93,11 @@ export default function LanguageSwitcher() {
         }}
         aria-label="Select language"
       >
-        <optgroup label="✓ Translated (Home Screen)">
-          {translatedLanguages.map((lang) => (
-            <option key={lang.code} value={lang.code}>
-              {lang.nativeName}
-            </option>
-          ))}
-        </optgroup>
-        <optgroup label="Other Languages (English fallback)">
-          {untranslatedLanguages.map((lang) => (
-            <option key={lang.code} value={lang.code}>
-              {lang.nativeName}
-            </option>
-          ))}
-        </optgroup>
+        {translatedLanguages.map((lang) => (
+          <option key={lang.code} value={lang.code}>
+            {lang.nativeName}
+          </option>
+        ))}
       </select>
 
       {/* Subtitle */}
@@ -119,11 +109,7 @@ export default function LanguageSwitcher() {
         textAlign: 'center',
         width: '100%',
       }}>
-        {translatedLanguages.length} languages translated • {SUPPORTED_LANGUAGES.length} total
-        <br />
-        <span style={{ fontSize: '12px', opacity: 0.7 }}>
-          (Home screen only for testing)
-        </span>
+        31 languages available
       </div>
     </div>
   );

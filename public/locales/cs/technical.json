@@ -1,0 +1,17 @@
+{
+  "title": "Technické informace - Orbitální chrám",
+  "heading": "Technické informace",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Rozměry: 50x58x64 mm<br /> 1P PocketQube<br /> Hmotnost: 245 g<br /> Materiály: hliník, zlato, sklolaminát a elektronické součástky.<br /> Oběžná dráha: Nadmořská výška 525 ± 25 km; sklon: SSO 97,6 ± 0,1°<br /> Odpalovací zařízení: PSLV (Polar Satellite Launch Vehicle) provozované společností ISRO"
+  },
+  "antenna": {
+    "heading": "Anténa/Socha",
+    "specs": "Rozměry: 6 m (průměr) a 1,2 m (výška)<br /> Hmotnost: 46 kg<br /> Materiály: hliník, epoxidová zrcadlová deska, zlatá hliníková kopule zavěšená na lešení."
+  },
+  "radio": {
+    "heading": "Specifikace rádia",
+    "specs": "Downlink: 468,5 MHz<br /> Modulace: CSS<br /> Šířka pásma: bude upřesněna"
+  },
+  "imageAlt": "Orbitální chrámový satelit"
+}

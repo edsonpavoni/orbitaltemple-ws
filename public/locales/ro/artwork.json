@@ -1,0 +1,31 @@
+{
+  "title": "Opera de artă - Templul Orbital",
+  "heading": "Opera de artă",
+  "intro": {
+    "paragraph1": "Templul Orbital este un satelit cu o misiune artistică: un memorial în spațiul cosmic deschis fiecărei ființe simțitoare care trăiește sau a trăit pe Pământ.",
+    "paragraph2": "Prin mijloace tehnologice, oricine poate trimite numele cuiva la Templu, fie că este vorba de cineva care a decedat, o persoană aflată în viață, fie de orice ființă care merită să fie amintită."
+  },
+  "sculpture": {
+    "heading": "Sculptura",
+    "paragraph1": "Opera de artă are trei elemente co-dependente: un satelit special conceput pentru a stoca miliarde de nume; o sculptură publică care face schimb de informații cu satelitul; și un site web prin care participanții trimit numele, de acum și până la moartea lor, în ceruri.",
+    "paragraph2": "Ca o inițiativă multidisciplinară, Templul Orbital poate fi considerat o sculptură specifică locului, care locuiește în spațiu. Este, de asemenea, un proiect Artsat."
+  },
+  "antenna": {
+    "heading": "Antena ca sculptură publică",
+    "paragraph1": "O antenă care ne conectează cu spațiul cosmic.",
+    "paragraph2": "Se proiectează o antenă care va fi în comunicare directă cu satelitul orbital.",
+    "paragraph3": "Cu o suprafață reflectorizantă aurie, care oglindește cerul de deasupra sa, este un punct de plecare pentru stimularea în masă (sau relația noastră cu ceea ce este „acolo sus”).",
+    "paragraph4": "Deși sculpturile nu sunt instalate în majoritatea părților lumii, Frames from Earth, care controlează în prezent satelitul, trimite numele la fiecare trecere.",
+    "paragraph5": "Ajută la aducerea acestei viziuni în orașul tău - instalând sculpturi în formă de antene care inspiră conversații despre explorarea spațiului, artă și locul nostru comun în cosmos. <a href=\"/support\">Află mai multe despre susținerea proiectului</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satelitul Orbital Temple",
+    "riseNy": "Templul Orbital de la Rise, New York",
+    "installation": "Templul Orbital de Clara Marques",
+    "antenna": "Antenă orbitală Temple"
+  },
+  "imageCaptions": {
+    "riseNy": "Templul Orbital în spațiu. Randare 3D de RiseNY&Partners.",
+    "mercosul": "Instalația Templului Orbital la Bienala Mercosul, în Porto Alegre, Brazilia.<br> Fotografie de Clara Marques."
+  }
+}

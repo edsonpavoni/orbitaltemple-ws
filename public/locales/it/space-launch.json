@@ -1,0 +1,16 @@
+{
+  "title": "Lancio spaziale - Tempio orbitale",
+  "heading": "Lancio nello spazio",
+  "intro": "Il lancio dell'Orbital Temple è previsto a bordo di un PSLV (Polar Satellite Launch Vehicle) il 28 novembre 2025 dal Satish Dhawan Space Centre di Sriharikota, in India.",
+  "partnership": "Il lancio dell'Orbital Temple è frutto di una partnership tra NewSpace India Limited (NSIL), una società del Governo Indiano facente capo al Dipartimento dello Spazio, Antrix Corporation e l'artista. Questa collaborazione rappresenta una pietra miliare significativa per l'arte nell'esplorazione spaziale, unendo il programma spaziale indiano a una visione artistica di radicale inclusività.",
+  "risks": {
+    "heading": "Rischi",
+    "paragraph1": "Il satellite è stato costruito per resistere a condizioni di vibrazione e cicli termici estremi ed è stato sottoposto a rigorosi test. Tuttavia, i lanci spaziali comportano rischi intrinseci. Se il satellite dovesse danneggiarsi durante il lancio o il dispiegamento, o se non riuscisse a stabilire la comunicazione con le nostre stazioni di terra, ci impegneremo a individuare e risolvere eventuali problemi. Il satellite è dotato di sistemi ridondanti e protocolli di backup progettati per massimizzare le possibilità di successo della missione.",
+    "paragraph2": "Inoltre, il satellite potrebbe rimanere in orbita per meno di 10 anni se le condizioni atmosferiche o altri fattori ne causassero un decadimento orbitale anticipato. Sebbene lo abbiamo progettato per durare almeno un decennio, la durata effettiva dipende da condizioni che non possiamo controllare completamente.",
+    "paragraph3": "Se il primo lancio fallisce, o se non siamo in grado di portare a termine la missione come previsto, esploreremo percorsi alternativi, potenzialmente includendo un secondo tentativo di lancio con budget disponibile, una partnership con altre missioni o la documentazione del tentativo come parte della narrazione dell'opera d'arte sulle aspirazioni e i limiti."
+  },
+  "imageAlts": {
+    "india": "Centro spaziale ISRO, India",
+    "satellite": "Satellite del tempio orbitale"
+  }
+}

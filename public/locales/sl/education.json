@@ -1,0 +1,43 @@
+{
+  "title": "Izobraževanje in odprtokodna programska oprema - Orbital Temple",
+  "heading": "Izobraževanje in odprtokodna programska oprema",
+  "intro": {
+    "paragraph1": "Vsa tehnologija, razvita za misijo Orbital Temple, bo <strong>odprtokodna</strong> in na voljo na spletu v <strong>portugalščini</strong> , <strong>angleščini</strong> , <strong>španščini</strong> in <strong>hindijščini</strong> , kar bo spodbujalo napredek raziskovanja vesolja na <strong>globalnem jugu</strong> . Nove misije in projekti lahko Orbital Temple uporabijo kot osnovo za lastne umetniške ali znanstvene eksperimente.",
+    "paragraph2": "Kot del svojega izobraževalnega poslanstva bo Orbital Temple ponudil brezplačen večjezični tečaj o tem, kako izdelati in izstreliti satelit. To bo praktična priložnost za spoznavanje satelitske tehnologije in njeno uporabo v praksi. Vsakdo, starejši od <strong>16</strong> let, bo lahko zgradil svoj satelit, pri čemer se bo seznanil z zgodovino umetnosti v vesolju, temeljnimi koncepti elektronike, mehanike in vesoljske znanosti, vključno s tem, kako financirati projekte in kako zgraditi anteno za komunikacijo s sateliti v orbiti."
+  },
+  "spaceGap": {
+    "heading": "Zakaj je to pomembno: Vesoljska vrzel",
+    "paragraph1": "Izraz <strong>»vesoljska vrzel«</strong> se nanaša na razkorak med razvitimi državami, ki imajo dostop do tehnoloških priložnosti, pridobljenih z raziskovanjem vesolja, in državami v razvoju, ki nimajo dostopa do teh tehnologij. Države globalnega juga morajo plačati znatne zneske tujim vladam ali podjetjem za osnovni dostop do informacij, ki jih proizvajajo satelitske tehnologije.",
+    "paragraph2": "Vesoljska tehnologija zagotavlja ključne koristi: sateliti pomagajo v boju proti nezakoniti sečnji, nezakonitemu ribolovu in nezakoniti trgovini z divjimi živalmi, kar predstavlja več kot <strong>73 milijard dolarjev na leto</strong> . Zagotavljajo bistvene informacije o podnebju, proizvodnji vode in prehranski varnosti. Sateliti omogočajo natančno namakanje in kmetijske tehnike ter pomagajo preprečevati naravne nesreče. Vesoljska industrija bi lahko do <strong>leta 2030</strong> ustvarila do <strong>milijon delovnih mest</strong> , vendar te priložnosti ostajajo nedostopne mnogim na globalnem jugu.",
+    "paragraph3": "Z zagotavljanjem odprtokodne tehnologije in izobraževanja si prizadevamo demokratizirati dostop do vesolja in opolnomočiti novo generacijo, da sanja onkraj neba."
+  },
+  "empowering": {
+    "heading": "Opolnomočenje naslednje generacije",
+    "intro": "Naslednjo generacijo vesoljskih raziskovalcev bomo naučili, kako zgraditi in izstreliti lastne satelite, pri čemer bomo obravnavali bistvene teme, vključno z:",
+    "topics": {
+      "history": "<strong>Zgodovina umetnosti v vesolju:</strong> Razumevanje rodu umetniških satelitov in vesoljskih umetniških del.",
+      "concepts": "<strong>Ključni koncepti:</strong> <strong>ArtSat</strong> (umetniški sateliti), <strong>odprtokodna</strong> vesoljska tehnologija in <strong>vesoljska vrzel</strong> .",
+      "missions": "<strong>Vesoljske misije:</strong> Kako zasnovati in oblikovati misijo ter kako oblikovati ekipo za njeno izvedbo.",
+      "electronics": "<strong>Elektronika v vesolju:</strong> Temeljni koncepti elektronskih komponent, ki lahko preživijo in delujejo v vesoljskem okolju.",
+      "mechanics": "<strong>Mehanika v vesolju:</strong> Razumevanje strukturnih in mehanskih zahtev za načrtovanje satelitov.",
+      "orbits": "<strong>Orbite in izstrelitvene naprave:</strong> Različne vrste orbit in kako izbrati ponudnike izstrelitev za vašo misijo.",
+      "financing": "<strong>Strategije financiranja:</strong> Kako zagotoviti sredstva in vire za izstrelitev satelita. Tečaj bo zagotovil vire za pridobivanje sredstev za izstrelitev in pomagal študentom najti programe in nepovratna sredstva mednarodnih institucij, ki podpirajo mlade znanstvenike in študente pri pošiljanju satelitov v vesolje.",
+      "groundStation": "<strong>Razvoj zemeljske postaje:</strong> Kako zgraditi anteno za komunikacijo z Orbitalnim templjem in drugimi sateliti."
+    }
+  },
+  "technology": {
+    "heading": "Tehnologija: Sateliti PocketQube",
+    "paragraph1": "Študenti se bodo naučili delati s sateliti <strong>PocketQube</strong> , nanosateliti standardnega tipa, ki merijo le <strong>5 cm³</strong> in tehtajo do <strong>250 g</strong> . Kljub svoji majhnosti so PocketQube zmogljiva orodja, ki omogočajo opazovanje, spremljanje in komunikacijo Zemlje.",
+    "paragraph2": "Ti kompaktni sateliti imajo številne aplikacije v resničnem svetu, od znanstvenih raziskav podnebnih sprememb do medcelinske komunikacije. Ker so manjši in lažji, so cenovno dostopnejši za izdelavo in izstrelitev, zaradi česar je vesolje dostopnejše študentom, raziskovalcem in umetnikom po vsem svetu."
+  },
+  "globalAccess": {
+    "heading": "Globalni dostop, začenši z globalnega juga",
+    "paragraph1": "Tečaj bo na voljo vsem, starim <strong>16 let ali več</strong> , popolnoma <strong>brezplačno</strong> . Začenjamo z vsebino v <strong>portugalščini</strong> , <strong>španščini</strong> , <strong>angleščini</strong> in <strong>hindijščini</strong> , z načrti za širitev na dodatne jezike, ko se bo program razvijal.",
+    "paragraph2": "Naše poslanstvo se začne na globalnem jugu in se razteza po vsem svetu, s čimer zagotavljamo, da bo naslednja generacija raziskovalcev vesolja prišla z vseh koncev Zemlje."
+  },
+  "callToAction": {
+    "heading": "Pomagajte nam uresničiti to",
+    "content": "Ta izobraževalni program je trenutno v razvoju. Iščemo partnerje in donatorje, ki delijo našo vizijo demokratizacije dostopa do vesoljske tehnologije. Če bi vi ali vaša organizacija želeli podpreti to pobudo, obiščite našo <a href=\"/support\">stran za podporo,</a> kjer boste izvedeli več o možnostih partnerstva."
+  },
+  "imageAlt": "Orbitalni tempeljni satelit"
+}

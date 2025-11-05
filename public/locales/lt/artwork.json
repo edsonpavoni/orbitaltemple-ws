@@ -1,0 +1,31 @@
+{
+  "title": "Meno kūrinys – Orbitinė šventykla",
+  "heading": "Meno kūrinys",
+  "intro": {
+    "paragraph1": "Orbitinė šventykla yra palydovas, turintis meninę misiją: memorialas kosmose, atviras kiekvienai jaučiančiai būtybei, gyvenančiai ar gyvenusiai Žemėje.",
+    "paragraph2": "Technologinėmis priemonėmis kiekvienas gali nusiųsti į šventyklą žmogaus vardą – mirusiojo, gyvo žmogaus ar bet kurios būtybės, kuri nusipelno būti atmintyje, vardą."
+  },
+  "sculpture": {
+    "heading": "Skulptūra",
+    "paragraph1": "Meno kūrinį sudaro trys tarpusavyje susiję elementai: palydovas, specialiai sukurtas milijardams vardų saugoti; vieša skulptūra, keičianti informacija su palydovu; ir svetainė, per kurią dalyviai siunčia vardus į dangų nuo dabar iki mirties.",
+    "paragraph2": "Kaip daugiadisciplininis projektas, „Orbital Temple“ gali būti laikoma konkrečiai vietai skirta skulptūra, užimančia erdvę. Tai taip pat „Artsat“ projektas."
+  },
+  "antenna": {
+    "heading": "Antena kaip viešoji skulptūra",
+    "paragraph1": "Antena, jungianti mus su kosmosu.",
+    "paragraph2": "Projektuojama antena, kuri tiesiogiai bendraus su orbitiniu palydovu.",
+    "paragraph3": "Su auksiniu atspindinčiu paviršiumi, atspindinčiu dangų virš jo, tai yra masinio stimuliavimo (arba mūsų santykio su tuo, kas yra „ten viršuje“) atspirties taškas.",
+    "paragraph4": "Nors skulptūros nėra įrengtos daugumoje pasaulio vietų, mūsų „Frames from Earth“, kurie šiuo metu valdo palydovą, siunčia pavadinimus kiekvieno praskridimo metu.",
+    "paragraph5": "Padėkite įgyvendinti šią viziją savo mieste – įrengdami antenų skulptūras, kurios įkvepia pokalbius apie kosmoso tyrinėjimus, meną ir mūsų bendrą vietą kosmose. <a href=\"/support\">Sužinokite daugiau apie projekto rėmimą</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitinės šventyklos palydovas",
+    "riseNy": "Orbitinė šventykla Rise, Niujorke",
+    "installation": "Claros Marques „Orbitinė šventykla“",
+    "antenna": "Orbitinė šventyklos antena"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitinė šventykla kosmose. 3D vizualizacija, sukurta „RiseNY&Partners“.",
+    "mercosul": "Orbitinės šventyklos instaliacija Mercosul bienalėje, Porto Alegrėje, Brazilijoje.<br> Nuotrauka: Clara Marques."
+  }
+}

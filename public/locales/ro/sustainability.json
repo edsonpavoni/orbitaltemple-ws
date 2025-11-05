@@ -1,0 +1,44 @@
+{
+  "title": "Sustenabilitate și deșeuri spațiale - Orbital Temple",
+  "heading": "Sustenabilitate",
+  "intro": {
+    "paragraph1": "Dacă arta vrea să ne conducă spre viitor, nu poate ignora crizele cu care ne confruntăm - colapsul ecologic, inegalitatea socială și provocarea tot mai mare reprezentată de deșeurile spațiale. Templul Orbital este conceput având în vedere aceste realități, dorind să fie o prezență responsabilă atât pe Pământ, cât și pe orbită.",
+    "paragraph2": "Credem că sustenabilitatea nu este o constrângere, ci o parte esențială a viziunii noastre artistice. Fiecare decizie privind materialele, orbitele și operațiunile reflectă angajamentul nostru de a lăsa atât Pământul, cât și spațiul într-o stare mai bună decât le-am găsit."
+  },
+  "spaceDebris": {
+    "heading": "Resturi spațiale",
+    "paragraph1": "Deșeurile spațiale reprezintă una dintre cele mai presante provocări cu care se confruntă explorarea spațiului. Mii de sateliți dezactivați și fragmente orbitează Pământul, amenințând misiunile active și creând un efect de cascadă ce ar putea face anumite orbite inutilizabile.",
+    "paragraph2": "Orbital Temple abordează acest lucru în mai multe moduri:",
+    "list": {
+      "orbit": "<strong>Orbită solară sincronă la 525 km:</strong> Această altitudine asigură că rezistența atmosferică naturală va face ca satelitul să reintre în atmosfera Pământului în aproximativ 10 ani, unde se va arde complet. Nu contribuim la formarea deșeurilor orbitale pe termen lung.",
+      "size": "<strong>Designul PocketQube:</strong> Cu doar 50×58×64 mm și 245 g, satelitul este suficient de mic pentru a se vaporiza complet în timpul reintrării, fără a lăsa resturi pe suprafața Pământului.",
+      "responsibility": "<strong>Fără obsolescență planificată:</strong> Spre deosebire de sateliții comerciali care ar putea fi abandonați, Orbital Temple este proiectat să se deorbitaze în mod natural, respectând directivele internaționale pentru activități spațiale responsabile."
+    },
+    "paragraph3": "Alegând o orbită terestră joasă și un design compact, ne asigurăm că prezența Templului Orbital în spațiu este temporară și nepoluantă."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralitatea carbonului",
+    "content": "Toate emisiile de carbon asociate cu Orbital Temple — inclusiv fabricarea sateliților, lansarea, operarea stațiilor terestre, găzduirea site-ului web și călătoriile echipei — vor fi compensate integral prin programe de credit de carbon verificate. Ne-am angajat să facem această misiune neutră din punct de vedere climatic."
+  },
+  "openSource": {
+    "heading": "Hardware open source",
+    "paragraph1": "Sustenabilitatea înseamnă, de asemenea, evitarea risipei de cunoștințe. Fiecare aspect tehnic al Orbital Temple - scheme, cod, protocoale de comunicare și metode de construcție - va fi publicat ca documentație open source.",
+    "paragraph2": "Acest lucru permite misiunilor viitoare să se bazeze pe munca noastră, în loc să o ia de la zero, reducând cercetarea și dezvoltarea redundante. Democratizează accesul la tehnologia spațială, în special pentru comunitățile din Sudul Global care au fost excluse din punct de vedere istoric din explorarea spațiului."
+  },
+  "educational": {
+    "heading": "Impactul educațional",
+    "paragraph1": "Programul nostru educațional multilingv gratuit îi învață pe elevii din întreaga lume cum să construiască și să lanseze sateliți, concentrându-se pe țările din Sudul Global. Prin dotarea următoarei generații cu competențe în tehnologie spațială, contribuim la eliminarea „decalajului spațial” și la crearea de oportunități care altfel nu ar exista.",
+    "paragraph2": "Această misiune educațională este în sine o formă de sustenabilitate - investiții în oameni și comunități pentru a crea schimbări durabile dincolo de durata de viață a satelitului."
+  },
+  "tenYear": {
+    "heading": "O misiune de 10 ani",
+    "paragraph1": "Templul Orbital este conceput pentru o misiune de un deceniu, nu pentru o scurtă cascadorie publicitară. Pe parcursul a zece ani, satelitul va orbita Pământul de aproximativ 50.000 de ori, primind nume și servind ca o reamintire a faptului că spațiul poate fi un bun comun, accesibil tuturor.",
+    "paragraph2": "După încheierea misiunii sale, satelitul va ieși în mod natural de pe orbită și se va arde, fără a lăsa nicio urmă cu excepția amintirilor și documentelor celor care au participat."
+  },
+  "artsResponsibility": {
+    "heading": "Responsabilitatea artei",
+    "paragraph1": "Arta a fost întotdeauna o oglindă a timpului său, reflectând valorile și aspirațiile noastre. Într-o eră a crizei climatice și a inegalității crescânde, credem că artiștii au responsabilitatea de a crea opere care nu doar comentează aceste probleme, ci le abordează în mod activ.",
+    "paragraph2": "Templul Orbital este încercarea noastră de a crea o operă de artă radicală în incluziunea sa, responsabilă în impactul său asupra mediului și generoasă în împărtășirea cunoștințelor sale cu lumea. Este o artă care invită pe toată lumea să participe, respectând în același timp sistemele fragile - de mediu și orbitale - care fac posibile viața și explorarea."
+  },
+  "imageAlt": "Satelitul Orbital Temple"
+}

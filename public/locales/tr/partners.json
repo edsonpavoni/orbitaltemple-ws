@@ -1,0 +1,50 @@
+{
+  "title": "Ortaklar - Orbital Temple",
+  "heading": "Ortaklar",
+  "intro": "Orbital Temple, olağanüstü ortakların cömertliği, uzmanlığı ve vizyonuyla varlığını sürdürüyor. Uydu mühendisliğinden anlatılar oluşturmaya, uzak diyarlarda kapılar açmaktan hayalleri altına çevirmeye kadar her iş birliği, bu tapınağı yıldızlara yaklaştırıyor.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Uydunun vizyonunu uzay boşluğuna değmeden önce hayata geçiren iletişim, entegre deneyimler ve çarpıcı 3D render görüntüleri."
+    },
+    "highestMantra": {
+      "name": "En Yüce Mantramız",
+      "description": "Sathi Roy liderliğinde, Orbital Temple'ı Hindistan'ın manevi ve sanatsal topluluklarıyla buluşturmak. Kasım 2025'teki lansmanın ardından bağış toplama, kültürel değişim ve Art Basel sergisine giden yollar açmak."
+    },
+    "allToSpace": {
+      "name": "Hepsi Uzaya",
+      "description": "Brezilyalı küçük uydu uzmanları. Açık kaynaklı bir donanım platformu oluşturmak ve Küresel Güney'den yörüngeye sanat eserleri gönderme sürecine öncülük etmek için dört yıllık iş birliği."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Hindistan Uzay Araştırma Örgütü. Kasım 2025'te Orbital Temple'ı güneşle eşzamanlı yörüngeye taşıyacak PSLV görevinin fırlatma sağlayıcısı."
+    },
+    "mercosul": {
+      "name": "13. Mercosur Bienali",
+      "description": "Porto Alegre, Brezilya. Küratörlüğünü Marcello Dantas'ın üstlendiği sergide, yardımcı küratörler Laura Cattani, Munir Klamt, Tarsila Riso ve Carollina Lauriano yer alıyor."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Atölyesi",
+      "description": "Uydu geliştirme ekibi II ArtSat Çalıştayı sırasında oluşturuldu. Fabiane M. Borges tarafından koordine edilir, Lázaro Camargo tarafından eğitilir, Ítalo Pinto Rodrigues ile işbirliği yapılır, Walter Abrahão dos Santos tarafından denetlenir."
+    },
+    "solidConcepts": {
+      "name": "Sağlam Kavramlar",
+      "description": "Eduardo Dias liderliğinde. Heykelsi kubbe için tüm 3D baskı ve altın mikro döküm çalışmaları, dijital hayalleri değerli metalden gerçeğe dönüştürüyor."
+    },
+    "ideaSpace": {
+      "name": "Fikir Alanı",
+      "description": "Brezilyalı eğitim girişimi, Brezilya genelindeki lise öğrencilerine uygulanmaya hazır Quebrada Uzay Programı müfredatını geliştiriyor."
+    }
+  },
+  "closing": "Orbital Temple ile ortaklık kurmakla ilgileniyor musunuz? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Bize ulaşın</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "En Yüksek Mantra Logomuz",
+    "allToSpace": "Hepsi Uzaya Logosu",
+    "isro": "ISRO Logo",
+    "mercosul": "13. Mercosur Bienali Logosu",
+    "inpe": "INPE ArtSat Atölyesi Logosu",
+    "solidConcepts": "Solid Concepts Logo",
+    "ideaSpace": "Fikir Alanı Logosu"
+  }
+}

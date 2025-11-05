@@ -1,0 +1,17 @@
+{
+  "title": "Teknik Bilgi - Orbital Temple",
+  "heading": "Teknik Bilgiler",
+  "satellite": {
+    "heading": "Uydu",
+    "specs": "Boyutlar: 50x58x64 mm<br /> 1P PocketQube<br /> Ağırlık: 245 gr<br /> Malzemeler: alüminyum, altın, fiberglas ve elektronik bileşenler.<br /> Yörünge: Yükseklik 525 ± 25 km; eğim: SSO 97,6 ± 0,1°<br /> Fırlatıcı: ISRO tarafından işletilen PSLV (Polar Uydu Fırlatma Aracı)"
+  },
+  "antenna": {
+    "heading": "Anten/Heykel",
+    "specs": "Boyutlar: 6 m (çap) e 1,2 m (yükseklik)<br /> Ağırlık: 46 kg<br /> Malzemeler: alüminyum, epoksi aynalı levha, iskele yapısıyla asılı duran altın alüminyum kubbe."
+  },
+  "radio": {
+    "heading": "Radyo Özellikleri",
+    "specs": "Aşağı bağlantı: 468,5 MHz<br /> Modülasyon: CSS<br /> Bant genişliği: Belirsiz"
+  },
+  "imageAlt": "Orbital Temple Uydusu"
+}

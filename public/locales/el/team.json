@@ -1,0 +1,61 @@
+{
+  "title": "Ομάδα - Τροχιακός Ναός",
+  "heading": "Ομάδα",
+  "artist": "Έντσον Παβόνι, καλλιτέχνης",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Εκτελεστικός Παραγωγός",
+      "members": "Σάθι Ρόι"
+    },
+    "aerospace": {
+      "heading": "Αεροδιαστημική και Συστηματική Μηχανική",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ηλεκτρονική Μηχανική",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Λογισμικό",
+      "members": "Τζόναθαν Κερουμπίνα"
+    },
+    "design": {
+      "heading": "Σχεδιασμός και Αρχιτεκτονική",
+      "members": "Γκιγιέρμε Μπουλέχος"
+    },
+    "printing": {
+      "heading": "Τρισδιάστατη εκτύπωση",
+      "members": "Solid Concepts, υπό την ηγεσία του Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Τρισδιάστατη απεικόνιση",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Ερευνα",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Παραγωγή Εκθέσεων, Φωτογραφία & Δημιουργία Περιεχομένου",
+      "members": "Κλάρα Μάρκες"
+    },
+    "silkScreen": {
+      "heading": "Μεταξοτυπία Έκθεσης",
+      "members": "Δάφνη Άλβες"
+    },
+    "educational": {
+      "heading": "Εκπαιδευτικό Έργο",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Ομάδα Επικοινωνίας",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Ειδικές ευχαριστίες",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini και Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Victor Alves, Andreanetio Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Δορυφόρος Orbital Temple"
+}

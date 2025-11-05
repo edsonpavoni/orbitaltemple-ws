@@ -1,0 +1,167 @@
+{
+  "title": "Támogassa az Orbital Templomot - Csatlakozzon a küldetéshez",
+  "heading": "Támogassa az Orbitális Templomot",
+  "vision": "<strong>2025. november 28-</strong> án <strong>az Orbital Temple</strong> egy <strong>ISRO</strong> rakétával indul <strong>Indiából</strong> . A globális Délről érkező, részvételen alapuló művészeti műhold a radikális befogadás emlékműve, oktatási platform, valamint a szakrális jövőjéről szóló globális párbeszéd katalizátora a technológia, a mesterséges intelligencia és az űrkutatás korában.",
+  "videoCaption": "Orbitális Templom videós bemutató, 1 perc.",
+  "accomplished": {
+    "heading": "Amit elértünk",
+    "content": "Négy évnyi kutatás és fejlesztés után a küldetés készen áll. Befejeztük a műhold <strong>hardver- és szoftverfejlesztését</strong> , megfeleltünk a repülési engedélyhez szükséges <strong>hivatalos rázóteszteken</strong> , és véglegesítettük a szerződésünket az ISRO-val. A műhold megépült. A technológia működik. Engedélyezve vagyunk az indításra."
+  },
+  "funding": {
+    "heading": "Finanszírozási előrehaladás",
+    "raised": "felemelt",
+    "of": "a",
+    "goal": "cél",
+    "button": "Támogassa a missziót"
+  },
+  "needs": {
+    "heading": "Amihez támogatásra van szükségünk",
+    "intro": "Ahhoz, hogy ezt a történelmi küldetést teljesítsük és maximalizáljuk a hatását, öt kritikus összetevő támogatására van szükségünk:",
+    "launch": {
+      "title": "ISRO indítási költségek:"
+    },
+    "travel": {
+      "title": "Művészi utazás Indiába:"
+    },
+    "carbon": {
+      "title": "Szén-dioxid-kibocsátás ellentételezési program:"
+    },
+    "education": {
+      "title": "Oktatási program:"
+    },
+    "docPreProd": {
+      "title": "Dokumentumfilm előkészítése:"
+    },
+    "docProd": {
+      "title": "Dokumentumfilm produkció:"
+    }
+  },
+  "decade": {
+    "heading": "Az előttünk álló évtized",
+    "intro": "Ez a küldetés nem ér véget 2025. november 28-án. Ez csak a kezdete.",
+    "paragraph1": "A következő <strong>10 évben</strong> ez a műhold a Föld körül kering majd, és a bolygó minden szegletéből küldött nevekre reagál. Az oktatási program célja, hogy <strong>több ezer tinédzsert</strong> képezzen ki a műholdas technológiára, áttörve a globális Dél <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">űrbeli szakadékát</a> . A dokumentumfilm világszerte <strong>milliókhoz</strong> fog eljutni, beszélgetéseket indítva el a hovatartozásról, az emlékezetről és a szent dolgokról.",
+    "paragraph2": "Az Orbital Temple <strong>Sathi Roy-jal</strong> és <strong>a Roy Alapítvánnyal</strong> együttműködve azon dolgozik, hogy ezt az évtizedes víziót kulturálisan is jelentőssé tegye. A Roy Alapítvány egy nonprofit szervezet, amely elkötelezett a spirituális oktatáshoz, az érzelmi gyógyításhoz és a tudatossági eszközökhöz való hozzáférés bővítése iránt a hátrányos helyzetű közösségek számára világszerte, hidat képezve az ősi bölcsesség és a modern technológia között egy tudatosabb, összekapcsoltabb és együttérzőbb világ megteremtése érdekében. Együtt építjük azt az infrastruktúrát, amely biztosítja, hogy az Orbital Temple tartós mozgalommá váljon, amely világszerte eléri a közösségeket.",
+    "paragraph3": "A támogatásod nem csupán egy indítást finanszíroz; egy olyan mozgalmat hoz létre, amely egy évtizeden át visszhangra talál, és inspirálja a következő generációs űrművészeket és mérnököket."
+  },
+  "waysToSupport": {
+    "heading": "Támogatási módok",
+    "individualDonations": {
+      "heading": "Egyéni adományok",
+      "intro": "Csatlakozz a küldetéshez olyan szinten, amelyik neked megfelel. Az egyéni támogatók alkotják e történelmi projekt alapját.",
+      "orbitalFriend": {
+        "title": "Orbitális barát",
+        "benefits": "A következőket kapod: Név a weboldalon szereplő díszlistán · Személyre szabott műholdindító oklevél · Köszönőlevél · Adókedvezményes nyugta",
+        "button": "Adólevonható adományozás"
+      },
+      "satelliteSupporter": {
+        "title": "Műholdas támogató",
+        "benefits": "A következőket kapod: Minden Orbital Friend előny · Exkluzív műholdas követő alkalmazás hozzáférés · Előadónak szóló videós köszönőüzenet · Adókedvezményes nyugta",
+        "button": "Adólevonható adományozás"
+      },
+      "spaceAdvocate": {
+        "title": "Űrügyvéd",
+        "benefits": "A következőket kapod: Minden Satellite Supporter juttatást · Nyomtatott név a dokumentumfilmek hitelesítő adatain · Meghívó zártkörű dokumentumfilm-vetítésre · Negyedéves frissítések a csapattól · Adókedvezményes nyugta",
+        "button": "Adólevonható adományozás"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Egy adott komponens finanszírozása",
+    "intro": "Az Ön hozzájárulása közvetlenül a küldetés bizonyos aspektusait finanszírozza. Válassza ki, mi szól hozzá, vagy kombináljon többet a nagyobb hatás érdekében.",
+    "launch": {
+      "title": "Az űrkilövés finanszírozása",
+      "description": "Az <strong>ISRO</strong> rakéta tényleges indítási költsége <strong>2025. november 28-</strong> án. Ezzel az Orbital Templom pályára áll, ahol egy évtizedig marad, mint részvételen alapuló művészeti műhold és templom az égen, amely a világ bármely pontján elérhető.",
+      "benefits": "A következőket kapod: „Indítási szponzor” cím · Minden sajtóközleményben szerepel · Képernyőn megjelenő dokumentumfilmes elismerés · VIP hozzáférés az indítási eseményekhez · Negyedéves videohívásokban részt vehetsz Edsonnal és a küldetéscsapattal · Műholdpálya-adatokkal ellátott tanúsítvány · Adókedvezményes nyugta",
+      "button": "Adólevonható adományozás"
+    },
+    "travel": {
+      "title": "Támogasd a művész indiai útját",
+      "description": "Edson Pavoni művész és fő csapatának utazási, szállás- és produkciós költségei, hogy tanúi lehessenek a <strong>2025. november 28-i indiai</strong> bemutatónak. Ez az utazás elengedhetetlen a dokumentumfilm forgatásához, a médiamegjelenésekhez és a globális Dél képviseletéhez ebben a történelmi pillanatban.",
+      "benefits": "A következőket kapod: Személyes köszönet a művésztől · Hozzáférés a kulisszák mögé betekintést nyújtó dokumentumfilmekhez · Név a dokumentumhitelekben · Adókedvezményes nyugta",
+      "button": "Adólevonható adományozás"
+    },
+    "carbon": {
+      "title": "Finanszírozza a szén-dioxid-kibocsátás ellentételezési programját",
+      "description": "Minden szén-dioxid-kibocsátást semlegesítünk, beleértve a rakétaindítást és a műhold gyártását is. Ellenőrzött szén-dioxid-kibocsátás-kompenzációs programokkal dolgozunk együtt annak biztosítása érdekében, hogy ez a küldetés ne hagyjon negatív környezeti lábnyomot.",
+      "benefits": "A következőket kapja: Név a weboldalon szereplő díszlistán · Személyre szabott oklevél · Adókedvezményes nyugta",
+      "button": "Adólevonható adományozás"
+    },
+    "education": {
+      "title": "Az oktatási program finanszírozása",
+      "description": "Teljes körű, többnyelvű kurzus kidolgozása és elindítása, amely a globális déli régió tinédzsereit tanítja műholdak építésére. Tartalmazza a tantervfejlesztést, a videógyártást, a platformok üzemeltetését és az első év ösztöndíjait a hátrányos helyzetű diákok számára. Tartós infrastruktúrát hoz létre az űrképzéshez.",
+      "benefits": "A következőket kapod: „Oktatási Alapító Szponzor” elismerés · Nevedre szóló ösztöndíjak · Oktatási anyagokban való megjelenés · Találkozás az ösztöndíjad által finanszírozott első diákcsoporttal (virtuálisan vagy személyesen) · Dokumentumfilm-részlet · Előadási lehetőség a bemutatókon · Adókedvezményes nyugta",
+      "button": "Adólevonható adományozás"
+    },
+    "docPreProd": {
+      "title": "Dokumentumfilm-előkészítés finanszírozása",
+      "description": "A <strong>„Mitől lesz templom?”</strong> című dokumentumfilm kezdeti fázisának finanszírozása. Magában foglalja két mélyinterjú készítését <strong>Indiában</strong> gondolkodó vezetőkkel és spirituális gyakorlókkal, egy kis stáb utazását és produkcióját, valamint az előkészítési felvételek szerkesztését. Ez a fázis megalapozza a dokumentumfilmet és igazolja a kreatív irányt.",
+      "benefits": "A következőket kapod: Társproducer kreditje · Név a dokumentumfilmek stáblistáján · A gyártás előtti felvételek zártkörű vetítése · Kulisszák mögé betekintés · Adókedvezményes nyugta",
+      "button": "Adólevonható adományozás"
+    },
+    "docProd": {
+      "title": "Dokumentumfilm gyártásának finanszírozása",
+      "description": "A <strong>„Mitől lesz templom?”</strong> című dokumentumfilm, a művészet, a technológia és a szakrális dolgok metszéspontját vizsgáló film teljes gyártása és utómunkálatai. Több országban forgattak, további interjúkat készítettek gondolkodókkal, átfogó vágást, színkorrekciót, hangdizájnt, valamint premiervetítéseket tartottak <strong>Indiában</strong> és <strong>New Yorkban</strong> .",
+      "benefits": "A következőket kapod: Vezető producer kredit · Szereplés a főcímben · Zártkörű vetítés a vendégeidnek · Világpremier meghívók (mindkét városban) · Zártkörű vacsora Edsonnal és a dokumentumfilm rendezőjével a premier előtt · Kulisszák mögé betekintés · Adókedvezményes nyugta",
+      "button": "Adólevonható adományozás"
+    },
+    "artCollector": {
+      "title": "Légy te az egyetlen orbitális templomi művészeti gyűjtő",
+      "imageAlt": "Orbitális Templom installáció a Mercosul Biennálén",
+      "imageCaption": "Orbital templom a 13. Mercosul Biennálén, Porto Alegre. Fotó: Clara Marques.",
+      "paragraph1": "Három egyforma műholdat építettek ehhez a küldetéshez. <strong>Az egyik</strong> 2025. november 28-án indul az űrbe. <strong>A másik</strong> múzeumi kiállításokon szerepel világszerte. <strong>Egyet pedig</strong> egy nagylelkű gyűjtő számára tartanak fenn, aki szeretné finanszírozni ezt a víziót, és egy darab űrművészeti történetet birtokolni.",
+      "paragraph2": "Ez nem replika; ez a három eredeti műhold egyike. Egy teljesen <strong>működőképes űrhajó</strong> , amely egyben <strong>szobor</strong> is. A műhold mérete <strong>5 cm³</strong> és súlya <strong>245 g</strong> , kupolája <strong>aranyból</strong> készült.",
+      "paragraph3": "Ez egy <strong>1/1 arányú műalkotás</strong> .",
+      "paragraph4": "Gyűjtőként ugyanazt az installációt kapod meg, amelyet a <strong>13. Mercosul Biennáléra</strong> készítettek, egy teljes muzeológiai kiállítást, amely a műholdat művészeti és technológiai szempontból is bemutatja. Ez az installáció számos nemzetközi helyszínen volt már kiállítva, és az űrművészeti bemutatás legmagasabb színvonalát képviseli.",
+      "paragraph5": "Támogatásod segít finanszírozni a teljes víziót: a kilövést, az oktatási programot és a dokumentumfilmet, amely globális párbeszédet indít el a szent dolgokról a technológia, a mesterséges intelligencia és az űrkutatás korában. A neved végleg összefonódik ezzel a történelmi küldetéssel.",
+      "button": "Érdeklődjön erről a lehetőségről"
+    }
+  },
+  "gratitude": {
+    "heading": "Hálával a támogatóinknak",
+    "intro": "Az Orbital Temple létrejöttét intézmények, egyének és a radikális befogadás hívei teszik lehetővé, akik megértik, hogy a művészet teremti meg a holnap képzeletét.",
+    "pearmill": {
+      "title": "Alapító támogató",
+      "description": "A Pearmill az Egyesült Államok egyik leggyorsabban növekvő teljesítménymarketing ügynöksége, tervezők, marketingesek és mérnökök csoportja, akik együttműködve segítenek a világ néhány legikonikusabb startupjának növekedésében. Nagylelkű támogatásuk lehetővé tette az Orbital Temple csapata számára, hogy kritikus alkatrészeket vásároljon és fejlessze azt a nyílt forráskódú hardvert, amely lehetővé teszi ezt a műholdküldetést."
+    },
+    "yourName": "A neved itt lehet. Csatlakozz hozzánk, és írjunk történelmet!"
+  },
+  "people": {
+    "heading": "Az emberek e küldetés mögött",
+    "intro": "Az Orbital Temple egy 10 éves elkötelezettség. Két olyan ember vezeti, akik életüket a művészet, a technológia és az emberi kapcsolatok közötti hidak építésével töltötték, és akik olyan infrastruktúrát építenek, amely fenntartja ezt a víziót az elkövetkező évtizedben.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Művész és Technológus",
+      "paragraph1": "Edson művész és technológus, aki az emberi intimitást a művészet és a technológia metszéspontjában vizsgálja. Praxisa építészeti installációkat, költészetet, fotózást és műholdas technológiát ölel fel.",
+      "paragraph2": "Munkái szerepeltek a 13. Mercosul Biennálén (Brazília), a IX. Nemzetközi Biennálén (Üzbegisztán) és az NTU Global Digital Art Prize-on (Szingapúr).",
+      "paragraph3": "Több mint <strong>20 éves művészeti és technológiai tapasztalattal</strong> rendelkezik, kreatív csapatokkal dolgozott a <strong>2016-os riói olimpián</strong> és <strong>az Inter-American Development Banknál</strong> . A Proxxima Magazin az <strong>50 leginnovatívabb brazil szakember</strong> közé sorolta, két egymást követő <strong>IF Design Award díjat</strong> kapott (2017-2018), és a <strong>Lumen Prize Futures Award</strong> döntőse is volt. Munkái két biennálén is szerepeltek, többek között <strong>a Ludwig Kortárs Művészeti Múzeumban</strong> (Budapest), <strong>az Inhotim Intézetben</strong> (Brazília) és <strong>a Design and Fashion Museumban</strong> (Lisszabon), kiállításokkal New Yorkban, Pekingben, Szingapúrban, Dubaiban, Rio de Janeiróban és más városokban."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "A Roy Alapítvány alapítója és stratégiai partnere",
+      "paragraph1": "Sathi <strong>a Roy Alapítvány</strong> alapítója, amely egy nonprofit szervezet, és a spirituális oktatáshoz, érzelmi gyógyításhoz és tudatossági eszközökhöz való hozzáférés bővítésére törekszik a világ minden táján élő hátrányos helyzetű közösségek számára. Az alapítvány iskolákkal, kulturális intézményekkel és helyi szervezetekkel működik együtt, hogy mesterséges intelligenciával vezérelt wellness eszközöket, közösségi tananyagokat és olyan médiatartalmakat terjesszen, amelyek inspirálják az átalakulást.",
+      "paragraph2": "Sathi idegtudományi, coaching és vezetői háttérrel rendelkezik, és Észak-Amerikában és Indiában épített és vezetett csapatokat, egyetlen vállalkozásában évi <strong>600 millió dolláros</strong> árbevételt termelve. Ő az <strong>OHM</strong> , egy digitális-központú spirituális mozgalom alapítója, <strong>a SUTE</strong> (egy digitális, mesterséges intelligencia által vezérelt irodai platform) társalapítója, valamint <strong>a RISE Global Creative</strong> tanácsadójaként és globális növekedési vezetőjeként tevékenykedik.",
+      "paragraph3": "Bengáli-amerikai nőként, aki hidat képez a keleti és nyugati filozófiák között, Sathi egyedi perspektívát kínál a 21. századi spirituális és művészeti mozgalmakhoz. <strong>Több mint 65 000 követőből</strong> álló, egyre növekvő hálózatával és több mint <strong>40 millió online megtekintésével</strong> globális közösségeket épít, amelyek kulturális és spirituális szakadékokon átívelően kapcsolódnak egymáshoz."
+    },
+    "together": "A Roy Alapítvánnyal közösen egy 10 éves küldetést építünk, amely hidat képez a művészet, a technológia, az oktatás és a szakrális világ között, kezdve egy 2025. november 28-i műholdindítással, és folytatva egy olyan mozgalmat, amely világszerte eléri a hátrányos helyzetű közösségeket, és inspirálja a következő generációt."
+  },
+  "join": {
+    "heading": "Csatlakozz hozzánk",
+    "content": "A műhold elkészült. A technológia készen áll. A felbocsátás dátuma kitűzve: <strong>2025. november 28.</strong> Itt az ideje, hogy csatlakozzunk egy küldetéshez, amely újraértelmezi, mit tehet a művészet, hová juthat el, és kit szolgálhat.",
+    "fundSpecific": {
+      "heading": "Finanszírozzon egy adott komponenst, vagy váljon alapító partnerré",
+      "description": "Válasszon a fenti finanszírozási lehetőségek közül, érdeklődjön a műgyűjtővé válás lehetőségeiről, vagy beszéljen meg egy személyre szabott szponzorációt, amely összhangban van elképzeléseivel.",
+      "button": "Lépjen kapcsolatba velünk a kezdéshez →"
+    },
+    "generalDonation": {
+      "heading": "Adólevonható hozzájárulást tenni",
+      "description": "Minden adomány, legyen az kicsi vagy nagy, a küldetésünket támogatja, és adólevonható pénzügyi szponzorunkon, a The Fielden keresztül.",
+      "button": "Adományozás a The Fielden keresztül →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Adólevonható adományozás",
+    "paragraph1": "Az Orbital Temple a <strong>The Field (Performance Zone Inc.)</strong> , egy New York-i székhelyű <strong>501(c)(3)</strong> nonprofit szervezet pénzügyileg támogatott projektje. Minden amerikai hozzájárulás adólevonható a törvény által megengedett mértékig.",
+    "paragraph2": "<strong>A mező</strong><br> 75 Maiden Lane, 906. lakosztály<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Csekkel történő adományozás esetén kérjük, a kifizetést <strong>a Performance Zone Inc.</strong> részére küldje, a következő megjegyzés kíséretében: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

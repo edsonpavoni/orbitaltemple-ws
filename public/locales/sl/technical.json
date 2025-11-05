@@ -1,0 +1,17 @@
+{
+  "title": "Tehnične informacije - Orbitalni tempelj",
+  "heading": "Tehnične informacije",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Dimenzije: 50x58x64 mm<br /> 1P PocketQube<br /> Teža: 245 g<br /> Materiali: aluminij, zlato, steklena vlakna in elektronske komponente.<br /> Orbita: Nadmorska višina 525 ± 25 km; naklon: SSO 97,6 ± 0,1°<br /> Izstrelitvena raketa: PSLV (polarna izstrelitvena raketa za satelite), ki jo upravlja ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Skulptura",
+    "specs": "Dimenzije: 6 m (premer) e 1,2 m (višina)<br /> Teža: 46 kg<br /> Materiali: aluminij, epoksidna zrcalna plošča, zlata aluminijasta kupola, obešena skozi oder."
+  },
+  "radio": {
+    "heading": "Specifikacije radia",
+    "specs": "Navzdol: 468,5 MHz<br /> Modulacija: CSS<br /> Pasovna širina: še ni določeno"
+  },
+  "imageAlt": "Orbitalni tempeljni satelit"
+}

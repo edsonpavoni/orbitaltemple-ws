@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Orbital Temple",
+  "heading": "Sustainability",
+  "intro": {
+    "paragraph1": "If art is to lead us into the future, it cannot ignore the crises we face—environmental collapse, social inequity, and the growing challenge of space debris. Orbital Temple is designed with these realities in mind, aiming to be a responsible presence both on Earth and in orbit.",
+    "paragraph2": "We believe sustainability is not a constraint but an essential part of our artistic vision. Every decision about materials, orbits, and operations reflects our commitment to leaving both Earth and space better than we found them."
+  },
+  "spaceDebris": {
+    "heading": "Space Debris",
+    "paragraph1": "Space debris is one of the most pressing challenges facing space exploration. Thousands of defunct satellites and fragments orbit Earth, threatening active missions and creating a cascade effect that could make certain orbits unusable.",
+    "paragraph2": "Orbital Temple addresses this in several ways:",
+    "list": {
+      "orbit": "<strong>Sun-synchronous orbit at 525 km:</strong> This altitude ensures natural atmospheric drag will cause the satellite to re-enter Earth's atmosphere within approximately 10 years, where it will burn up completely. We are not contributing to long-term orbital debris.",
+      "size": "<strong>PocketQube design:</strong> At just 50×58×64mm and 245g, the satellite is small enough to completely vaporize during re-entry, leaving no debris on Earth's surface.",
+      "responsibility": "<strong>No planned obsolescence:</strong> Unlike commercial satellites that may be abandoned, Orbital Temple is designed to deorbit naturally, fulfilling international guidelines for responsible space activity."
+    },
+    "paragraph3": "By choosing a low Earth orbit and a compact design, we ensure that Orbital Temple's presence in space is temporary and non-polluting."
+  },
+  "carbonNeutrality": {
+    "heading": "Carbon Neutrality",
+    "content": "All carbon emissions associated with Orbital Temple—including satellite manufacturing, launch, ground station operations, website hosting, and team travel—will be fully offset through verified carbon credit programs. We are committed to making this mission climate-neutral."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Sustainability also means not wasting knowledge. Every technical aspect of Orbital Temple—schematics, code, communication protocols, and construction methods—will be published as open source documentation.",
+    "paragraph2": "This allows future missions to build upon our work rather than starting from scratch, reducing redundant research and development. It democratizes access to space technology, particularly for communities in the Global South who have been historically excluded from space exploration."
+  },
+  "educational": {
+    "heading": "Educational Impact",
+    "paragraph1": "Our free multilingual educational program teaches students worldwide how to build and launch satellites, with a focus on the Global South. By empowering the next generation with space technology skills, we contribute to closing the \"Space Gap\" and creating opportunities that would otherwise not exist.",
+    "paragraph2": "This educational mission is itself a form of sustainability—investing in people and communities to create lasting change beyond the satellite's lifespan."
+  },
+  "tenYear": {
+    "heading": "A 10-Year Mission",
+    "paragraph1": "Orbital Temple is designed for a decade-long mission, not a brief publicity stunt. Over ten years, the satellite will orbit Earth approximately 50,000 times, receiving names and serving as a reminder that space can be a commons, accessible to all.",
+    "paragraph2": "After its mission concludes, the satellite will naturally de-orbit and burn up, leaving no trace except in the memories and documentation of those who participated."
+  },
+  "artsResponsibility": {
+    "heading": "Art's Responsibility",
+    "paragraph1": "Art has always been a mirror of its time, reflecting our values and aspirations. In an era of climate crisis and growing inequality, we believe artists have a responsibility to create work that doesn't just comment on these issues but actively addresses them.",
+    "paragraph2": "Orbital Temple is our attempt to create an artwork that is radical in its inclusivity, responsible in its environmental impact, and generous in sharing its knowledge with the world. It is art that invites everyone to participate while respecting the fragile systems—environmental and orbital—that make life and exploration possible."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

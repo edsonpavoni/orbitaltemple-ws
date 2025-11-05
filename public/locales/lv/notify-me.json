@@ -1,0 +1,13 @@
+{
+  "title": "Saņemiet paziņojumu — Orbitālais templis",
+  "heading": "Saņemiet paziņojumu, kad tas paaugstinās",
+  "description": "2025. gada 28. novembrī Orbitālais templis pacelsies debesīs.<br> Atstājiet savu e-pasta adresi, un mēs jums paziņosim, kad tas būs brīvs.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Sūtīt",
+    "sendingButton": "Sūtīšana...",
+    "successMessage": "Mēs jūs sasniegsim, kad tas pacelsies augšup.",
+    "errorMessage": "Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz."
+  },
+  "backLink": "← Atpakaļ uz atpakaļskaitīšanu"
+}

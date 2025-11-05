@@ -1,0 +1,77 @@
+{
+  "title": "Коротка історія мистецтва в космосі - Орбітальний храм",
+  "heading": "Коротка історія мистецтва в космосі",
+  "intro": "З моменту першого успішного запуску штучного супутника у <strong>1957 році</strong> на орбіту навколо Землі вийшло понад десять тисяч супутників. У цю нову еру митці знайшли спосіб розширити свою практику, і космічний простір став новим видом полотна. З цим виникли фундаментальні питання щодо політики дослідження космосу, хоча ще багато чого належить охопити.",
+  "sections": {
+    "leonov": {
+      "text": "Першим витвором мистецтва, створеним у космосі, був малюнок сходу сонця над Землею, зроблений російським астронавтом <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Олексієм Леоновим</a></strong> на борту корабля «Восход-2» у <strong>1965 році</strong> .",
+      "caption": "Перший витвір мистецтва, створений у космосі, та олівці, якими Олексій Леонов його намалював. Фото: Музей Центру підготовки космонавтів імені Юрія Гагаріна"
+    },
+    "moonMuseum": {
+      "paragraph1": "Три роки по тому, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Музей Місяця</a></strong> , мініатюрна керамічна тарілка, яка нібито приземлилася на Місяць, з написами шести найвидатніших художників США того часу: <strong>Роберта Раушенберга</strong> , <strong>Девіда Новроса</strong> , <strong>Джона Чемберлена</strong> , <strong>Класа Ольденбурга</strong> , <strong>Форреста Майєрса</strong> та <strong>Енді Воргола</strong> .",
+      "caption1": "Зображення Музею Місяця з оригінальної статті в New York Times. Великий палець закриває малюнок Воргола.",
+      "paragraph2": "Провокаційний внесок Воргола – угорі ліворуч – зробив цей проєкт викликом для комунікаційних медіа того часу.",
+      "caption2": "Зображення, яке вирішила опублікувати газета «Нью-Йорк Таймс», з твір мистецтва, видимим нижче, та малюнком Енді Воргола у верхньому лівому куті."
+    },
+    "fallenAstronaut": {
+      "text": "У <strong>1971 році</strong> астронавт місії «Аполлон-15» <strong>Девід Скотт</strong> встановив на Місяці невелику гуманоїдну алюмінієву скульптуру під назвою <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">«Падший астронавт»</a></strong> . Бельгійський художник <strong>Поль ван Хейдонк</strong> мав намір за допомогою цієї роботи вшанувати пам&#39;ять астронавтів і космонавтів, які загинули в ході освоєння космосу.",
+      "caption": "Вид меморіальної дошки, залишеної на Місяці на місці посадки Гедлі-Апеннін."
+    },
+    "pioneerVoyager": {
+      "text": "У <strong>1970-х роках</strong> як <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">таблички «Піонер»</a></strong> , так і <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">зонди «Вояджер»</a></strong> встановили нові горизонти для мистецтва в космосі. Несучи золотисто-анодовані алюмінієві таблички з візуальними посланнями із Землі будь-яким іншим космічним мандрівникам, які могли б знайти її в далекому майбутньому, вони зображували людське життя в його найфундаментальніших елементах.",
+      "caption": "Таблички Піонер-10 та 11, доставлені у глибокий космос у 1970-х роках."
+    },
+    "dove": {
+      "text": "У <strong>1990 році</strong> Бразилія залишила свій слід на цій території, створивши <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , геніальний аматорський супутник великої поетичної сили. Хоча його творець не вважав себе митцем, це був глибоко поетичний подвиг: він записав дитячі голоси, які благали про мир, і передав їх понад двом тисячам радіоаматорів по всьому світу, перетворивши новаторський CubeSat на колективний звуковий твір.",
+      "caption": "DOVE/OSCAR-17, бразильський поетичний супутник, що передає дитячі голоси за мир, 1990."
+    },
+    "lastPictures": {
+      "text": "У <strong>2012 році</strong> художник <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Тревор Паглен</a></strong> представив <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">«Останні картини»</a></strong> – мікрогравований диск, що містить 100 фотографій, прикріплених до комунікаційного супутника Echostar XVI на геостаціонарній орбіті. Розроблений для використання мільярдами років, він має пережити людську цивілізацію як археологічний артефакт далекого майбутнього.",
+      "caption": "«Останні картини» – диск із мікротравленням, розроблений, щоб пережити людство, випущений у 2012 році."
+    },
+    "ulises": {
+      "text": "У <strong>2015 році</strong> <strong>Colectivo Espacial Mexicano</strong> (Мексиканський космічний колектив) запустив <strong>Ulises I</strong> , наносупутник, задуманий як концептуальна опера під керівництвом художника <strong>Хуана Хосе Діаса Інфанте Касасуса</strong> . Супутник був доставлений у стратосферу на повітряній кулі під час Feria del Libro de Guadalajara. Він був розроблений таким чином, щоб вибухнути приблизно через чотири години та спуститися на парашуті.",
+      "caption": "Ulises I, концептуальна сателітна опера Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Лише у <strong>2014 році</strong> було запущено перший суто художній супутник. Проект <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> Токійського університету надіслав на Землю просторові дані, які використовувалися в художніх інсталяціях та створенні музики.",
+      "caption1": "Каркас ARTSAT-1 Invader та запасні частини, що залишилися на Землі.",
+      "caption2": "Виставка місії [SPACE x ART] − «За межами космології» відбулася в Музеї сучасного мистецтва Токіо"
+    },
+    "kac": {
+      "text": "Бразильський та американський сучасний художник <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Едуардо Кац</a></strong> зробив свій внесок у космічне мистецтво завдяки співпраці з <strong>NASA</strong> та <strong>SpaceX</strong> . Його <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">«Внутрішній телескоп»</a></strong> ( <strong>2017</strong> ), створений разом із французьким астронавтом <strong>Томасом Песке</strong> , призвів до створення скульптури на борту <strong>Міжнародної космічної станції</strong> .",
+      "caption": "Внутрішній телескоп на Міжнародній космічній станції, створений разом з французьким астронавтом Томасом Песке, 2017 рік."
+    },
+    "enoch": {
+      "text": "У <strong>2018 році</strong> на орбіту було запущено пасивний куб-сат, побудований як арт-проект. Розроблений багамським концептуальним художником <strong>Таваресом Страчаном</strong> , <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">«Енох»</a></strong> містить канопу з 24-каратного золота з бюстом першого афроамериканського астронавта <strong>Роберта Генрі Лоуренса-молодшого</strong> .",
+      "caption": "ЕНОХ (експозиційний блок), 2015-2017. ⓒ Таварес Страчан, фото ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Того ж року було представлено скульптуру <strong>Тревора Паглена</strong> <strong>«Орбітальний рефлектор»</strong> , розміщену в нефункціональному кубічному супутнику CubeSat. Ця робота була художнім жестом, покликаним змінити те, як ми бачимо своє місце у світі. Її не було розгорнуто належним чином. Хоча вона так і не відкрилася так, як було задумано, вона викликала важливі дискусії та викликала палкі відгуки астрономів, науковців, ЗМІ, викладачів, студентів та широкої громадськості в усьому світі, демонструючи, що успішне мистецтво не обов&#39;язково має бути технічно успішним.",
+      "caption": "Цифровий рендеринг орбітального рефлектора, 2018"
+    },
+    "others": {
+      "text": "Багато інших художників зробили свій внесок у галузь космічного мистецтва, кожен з яких привносить унікальні перспективи у свої дослідження. Серед відомих проектів – дослідження <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Сари Джейн Пелл</a></strong> , присвячене художньому діянню астронавтів, що досліджує діяльність людини в екстремальних умовах; проект <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Агнес Мейєр-Брендіс</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">«Аналог місячного гусака»</a></strong> , що досліджує історичні та сучасні наративи про дослідження космосу; програма <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Наума</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">«AstroArts»</a></strong> , що сприяє художнім експериментам у мікрогравітації; та скульптура <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Артура Вудса</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">«Космічний танцюрист»</a></strong> , перша скульптура, виставлена в космосі на борту станції «Мир» у 1993 році."
+    },
+    "orbitalTemple": {
+      "text": "У <strong>2025 році</strong> , після 4 років досліджень та розробок, бразильський художник <strong>Едсон Павоні</strong> та багатопрофільна група співробітників запустять <strong>«Орбітальний храм»</strong> – супутник партисипативного мистецтва, який запрошує всіх у світі надіслати імена на орбіту, створюючи радикально інклюзивний меморіал поза кордонами.",
+      "caption": "Орбітальний храм на Бієнале в Меркосулі. Фото: Клара Маркес"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Малюнок та олівці Олексія Леонова",
+    "moonMuseum": "Керамічна вафля Музею Місяця",
+    "moonMuseumWarhol": "Керамічна облатка в Музеї Місяця, де представлені всі твори мистецтва",
+    "fallenAstronaut": "Меморіал загиблим астронавтам на Місяці",
+    "pioneerPlaques": "Таблички піонерів",
+    "dove": "Супутник WHERE/OSCAR-17",
+    "lastPictures": "Диск «Останні картини»",
+    "ulises": "Супутник Улісеса I",
+    "artsatInvader": "Структура супутника ARTSAT-1 Invader",
+    "artsatArt": "Ілюстрація, створена на основі даних ARTSAT-1",
+    "innerTelescope": "Внутрішній телескоп Едуардо Каца",
+    "enoch": "Дисплейний блок ENOCH Тавареса Страчана",
+    "orbitalReflector": "Орбітальний рефлектор Тревора Паглена",
+    "orbitalTemple": "Орбітальний супутник Темпл"
+  }
+}

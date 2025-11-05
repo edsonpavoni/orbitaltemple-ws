@@ -1,0 +1,77 @@
+{
+  "title": "Uzayda Sanatın Kısa Tarihi - Orbital Temple",
+  "heading": "Uzayda Sanatın Kısa Tarihi",
+  "intro": "<strong>1957&#39;de</strong> ilk yapay uydunun başarılı bir şekilde fırlatılmasından bu yana, on binden fazla uydu Dünya yörüngesine girdi. Bu yeni çağda, sanatçılar pratiklerini genişletmenin bir yolunu buldular ve uzay yeni bir tuval haline geldi. Bununla birlikte, uzay araştırmalarının politikaları hakkında temel sorular ortaya çıktı - ancak henüz ele alınması gereken çok daha fazla konu var.",
+  "sections": {
+    "leonov": {
+      "text": "Uzayda yaratılan ilk sanat eseri, Rus astronot <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Aleksey Leonov&#39;un</a></strong> <strong>1965</strong> yılında Voskhod 2&#39;de yaptığı Dünya üzerindeki gün doğumunu tasvir eden bir çizimdi.",
+      "caption": "Uzayda yaratılan ilk sanat eseri ve Aleksey Leonov'un onu çizmek için kullandığı kalemler. Fotoğraf: Yuri Gagarin Kozmonot Eğitim Merkezi Müzesi"
+    },
+    "moonMuseum": {
+      "paragraph1": "Üç yıl sonra, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Ay Müzesi&#39;nde</a></strong> , o dönemde ABD&#39;nin en önemli altı sanatçısının ( <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> ve <strong>Andy Warhol)</strong> yazıtlarının yer aldığı minik bir seramik tabak bulunduğu iddia edilen Ay&#39;a indi.",
+      "caption1": "Orijinal New York Times makalesinden Ay Müzesi görüntüsü. Başparmak, Warhol'un çizimini gizliyor.",
+      "paragraph2": "Warhol'un kışkırtıcı katkısı -sol üstte- bu projeyi dönemin iletişim medyası için zorlu bir proje haline getirmişti.",
+      "caption2": "New York Times'ın yayınlamayı seçtiği görselin altında sanat eseri, sol üst köşede ise Andy Warhol'un çizimi görülüyor."
+    },
+    "fallenAstronaut": {
+      "text": "<strong>1971</strong> yılında, Apollo 15 astronotu <strong>David Scott</strong> tarafından Ay&#39;a <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">, Düşmüş Astronot</a></strong> adlı küçük ölçekli bir alüminyum insansı heykel yerleştirildi. Belçikalı sanatçı <strong>Paul Van Hoeydonck</strong> , bu eserle uzay araştırmalarının ilerlemesinde ölen astronotları ve kozmonotları anmayı amaçladı.",
+      "caption": "Hadley-Apennine iniş sahasında Ay'da bırakılan anma plaketinin görünümü."
+    },
+    "pioneerVoyager": {
+      "text": "<strong>1970&#39;lerde</strong> hem <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaketleri</a></strong> hem de <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Sondaları,</a></strong> uzay sanatı için yeni ufuklar açtı. Altın eloksallı alüminyum plakalar, Dünya&#39;dan uzak gelecekte bulacak diğer uzay yolcularına görsel mesajlar taşıyarak, insan yaşamını en temel unsurlarıyla tasvir ediyordu.",
+      "caption": "1970'lerde derin uzaya taşınan Pioneer 10 ve 11 plaketleri."
+    },
+    "dove": {
+      "text": "Brezilya, <strong>1990</strong> yılında, büyük bir şiirsel güce sahip, yaratıcı bir amatör uydu olan <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> ile bu topraklarda iz bıraktı. Yaratıcısı kendini bir sanatçı olarak görmese de, son derece şiirsel bir çabaydı: Barış isteyen çocukların seslerini kaydedip dünya çapında iki binden fazla radyo amatörüne ileterek, öncü bir CubeSat&#39;ı kolektif bir ses eserine dönüştürdü.",
+      "caption": "DOVE/OSCAR-17, Brezilya'nın barış için çocukların seslerini ileten şiirsel uydusu, 1990."
+    },
+    "lastPictures": {
+      "text": "Sanatçı <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> , <strong>2012</strong> yılında, jeostasyon yörüngesindeki Echostar XVI iletişim uydusuna iliştirilmiş 100 fotoğraf içeren mikro kazınmış bir disk olan <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Son Resimler&quot;i</a></strong> piyasaya sürdü. Milyarlarca yıl dayanacak şekilde tasarlanan bu disk, uzak geleceğe ait bir arkeolojik eser olarak insan uygarlığından daha uzun süre varlığını sürdürecek.",
+      "caption": "İnsanlıktan daha uzun süre dayanacak şekilde tasarlanmış mikro kazınmış bir disk olan The Last Pictures, 2012 yılında piyasaya sürüldü."
+    },
+    "ulises": {
+      "text": "<strong>2015</strong> yılında <strong>Colectivo Espacial Mexicano</strong> (Meksika Uzay Kolektifi), sanatçı <strong>Juan José Díaz Infante Casasús</strong> yönetiminde kavramsal bir opera olarak tasarlanan bir nano uydu olan <strong>Ulises I&#39;i</strong> fırlattı. Uydu, Guadalajara Kitap Fuarı sırasında bir balonla stratosfere taşındı. Yaklaşık dört saat sonra patlayıp paraşütle inmesi planlanıyordu.",
+      "caption": "Ulises I, Colectivo Espacial Mexicano'nun kavramsal uydu operası."
+    },
+    "artsat": {
+      "text": "Tamamen sanatsal amaçlı ilk uydu ise <strong>2014</strong> yılında fırlatıldı. Tokyo Üniversitesi&#39;nin <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> projesi, sanat enstalasyonlarında ve müzik prodüksiyonlarında kullanılmak üzere Dünya&#39;ya uzaysal veriler gönderdi.",
+      "caption1": "ARTSAT-1 İstilacı iskeleti ve Dünya'da kalan yedek parçalar.",
+      "caption2": "[UZAY x SANAT] misyonu - Tokyo Çağdaş Sanat Müzesi'nde düzenlenen Kozmolojilerin Ötesinde sergisi"
+    },
+    "kac": {
+      "text": "Brezilyalı ve Amerikalı çağdaş sanatçı <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac,</a></strong> <strong>NASA</strong> ve <strong>SpaceX</strong> ile yaptığı iş birlikleriyle uzay sanatına katkıda bulundu. Fransız astronot <strong>Thomas Pesquet</strong> ile birlikte yarattığı <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;İç Teleskop&quot;</a></strong> ( <strong>2017</strong> ) adlı eseri, <strong>Uluslararası Uzay İstasyonu&#39;nda</strong> yapılmış bir heykele dönüştü.",
+      "caption": "Uluslararası Uzay İstasyonu'ndaki İç Teleskop, Fransız astronot Thomas Pesquet ile birlikte, 2017'de oluşturuldu."
+    },
+    "enoch": {
+      "text": "<strong>2018</strong> yılında, bir sanat projesi olarak inşa edilen pasif bir CubeSat yörüngeye fırlatıldı. Bahamalı kavramsal sanatçı <strong>Tavares Strachan</strong> tarafından geliştirilen <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> , ilk Afrikalı-Amerikalı astronot <strong>Robert Henry Lawrence Jr.&#39;ın</strong> büstünün bulunduğu 24 ayar altın bir kubbe içeriyor.",
+      "caption": "ENOCH (sergileme ünitesi), 2015-2017. ⓒ Tavares Strachan, fotoğraf ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Aynı yıl, <strong>Trevor Paglen&#39;in</strong> <strong>Orbital Reflector adlı</strong> eseri de çalışmayan bir CubeSat&#39;a yerleştirilmiş bir heykel olarak piyasaya sürüldü. Bu eser, dünyadaki yerimizi görme biçimimizi değiştirmeyi amaçlayan sanatsal bir hareketti. Doğru şekilde yerleştirilmemişti. Tasarlandığı gibi açılmasa da, önemli tartışmalara yol açtı ve dünya çapında gökbilimciler, bilim insanları, medya kuruluşları, eğitimciler, öğrenciler ve halktan coşkulu tepkiler aldı. Bu da başarılı bir sanatın teknik olarak başarılı olmak zorunda olmadığını gösterdi.",
+      "caption": "Yörüngesel Yansıtıcının Dijital Görüntülenmesi, 2018"
+    },
+    "others": {
+      "text": "Uzay sanatı alanına katkıda bulunan birçok sanatçı, her biri araştırmalarında özgün bakış açıları ortaya koymuştur. Önemli projeleri arasında <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pell&#39;in</a></strong> aşırı ortamlarda insan performansını inceleyen astronot sanatçı araştırması; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandis&#39;in</a></strong> tarihi ve çağdaş uzay keşif anlatılarını inceleyen <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analog</a></strong> projesi; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahum&#39;un</a></strong> sanatsal mikro yerçekimi deneylerini kolaylaştıran <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> programı; ve <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthur Woods&#39;un</a></strong> 1993&#39;te Mir istasyonunda uzayda sergilenen ilk heykel olan <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Kozmik Dansçı</a></strong> heykeli yer almaktadır."
+    },
+    "orbitalTemple": {
+      "text": "Brezilyalı sanatçı <strong>Edson Pavoni</strong> ve disiplinlerarası bir işbirlikçi grubu, 4 yıllık araştırma ve geliştirmenin ardından <strong>2025</strong> yılında, dünyadaki herkesi yörüngeye isimlerini göndermeye davet eden katılımcı bir sanat uydusu olan <strong>Orbital Temple&#39;ı</strong> hayata geçirecek ve sınırların ötesinde radikal bir kapsayıcı anıt yaratacak.",
+      "caption": "Mercosul Bienali'ndeki Orbital Tapınağı. Fotoğraf: “Clara Marques”"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Aleksey Leonov'un çizimleri ve kalemleri",
+    "moonMuseum": "Ay Müzesi seramik gofreti",
+    "moonMuseumWarhol": "Ay Müzesi'ndeki tüm sanat eserlerini sergileyen seramik gofret",
+    "fallenAstronaut": "Ay'da Düşmüş Astronot Anıtı",
+    "pioneerPlaques": "Öncü plaketler",
+    "dove": "WHERE/OSCAR-17 uydusu",
+    "lastPictures": "Son Resimler diski",
+    "ulises": "Ulises I uydusu",
+    "artsatInvader": "ARTSAT-1 Invader uydu yapısı",
+    "artsatArt": "ARTSAT-1 verilerinden oluşturulan sanat eseri",
+    "innerTelescope": "Eduardo Kac'ın İç Teleskobu",
+    "enoch": "Tavares Strachan'ın ENOCH ekran ünitesi",
+    "orbitalReflector": "Trevor Paglen'in Yörüngesel Yansıtıcısı",
+    "orbitalTemple": "Orbital Temple Uydusu"
+  }
+}

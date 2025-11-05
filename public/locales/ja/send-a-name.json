@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "宇宙の軌道上の神殿に\n名前を送る\n儀式に\n入っていくとき\n息を\n吸って",
+    "button": "準備できました"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "名前を入力してください",
+    "subtitle": "それは宇宙の軌道神殿に昇るでしょう。",
+    "placeholder": "名前",
+    "button": "上昇させよう"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "メールアドレスを入力してください",
+    "subtitle": "名前が上がるとメッセージが表示されます。",
+    "placeholder": "あなたのメールアドレス",
+    "button": "それは完了しました"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "読み込み中"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "名前は\n{{name}}\n現在、アセンション待ちです。\n宇宙の寺院が\n地球上のアンテナと\n一直線になると\n名前を送信し、あなたには\nメッセージが届きます。"
   }
 }

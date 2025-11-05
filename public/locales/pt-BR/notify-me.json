@@ -1,0 +1,13 @@
+{
+  "title": "Seja notificado - Templo Orbital",
+  "heading": "Seja notificado quando aumentar.",
+  "description": "Em 28 de novembro de 2025, o Templo Orbital será lançado.<br> Deixe seu e-mail e avisaremos quando houver espaço disponível.",
+  "form": {
+    "emailPlaceholder": "seu@email.com",
+    "sendButton": "Enviar",
+    "sendingButton": "Enviando...",
+    "successMessage": "Entraremos em contato quando a montanha subir.",
+    "errorMessage": "Algo deu errado. Por favor, tente novamente."
+  },
+  "backLink": "← Voltar à contagem regressiva"
+}

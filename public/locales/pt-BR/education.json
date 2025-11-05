@@ -1,0 +1,43 @@
+{
+  "title": "Educação e Código Aberto - Templo Orbital",
+  "heading": "Educação e código aberto",
+  "intro": {
+    "paragraph1": "Toda a tecnologia desenvolvida para a missão Orbital Temple será <strong>de código aberto</strong> e estará disponível online em <strong>português</strong> , <strong>inglês</strong> , <strong>espanhol</strong> e <strong>hindi</strong> , fomentando o avanço da exploração espacial no <strong>Sul Global</strong> . Novas missões e projetos poderão usar o Orbital Temple como base para seus próprios experimentos artísticos ou científicos.",
+    "paragraph2": "Como parte de sua missão educacional, o Templo Orbital oferecerá um curso multilíngue gratuito sobre como construir e lançar um satélite. Será uma oportunidade prática para aprender sobre tecnologia de satélites e colocá-la em prática. Qualquer pessoa com mais de <strong>16</strong> anos poderá construir seu próprio satélite, aprendendo sobre a história da arte no espaço, conceitos fundamentais de eletrônica, mecânica e ciência espacial, incluindo como financiar projetos e como construir uma antena para se comunicar com satélites em órbita."
+  },
+  "spaceGap": {
+    "heading": "Por que isso importa: a lacuna espacial",
+    "paragraph1": "O termo <strong>&quot;Gafe Espacial&quot;</strong> refere-se à disparidade entre as nações desenvolvidas, que têm acesso às oportunidades tecnológicas obtidas por meio da exploração espacial, e as nações em desenvolvimento, que não têm acesso a essas tecnologias. Os países do Sul Global precisam pagar quantias substanciais a governos ou empresas estrangeiras para obter acesso básico às informações produzidas por tecnologias de satélite.",
+    "paragraph2": "A tecnologia espacial oferece benefícios cruciais: os satélites ajudam a combater a exploração madeireira ilegal, a pesca ilegal e o comércio ilegal de animais selvagens, que representam mais de <strong>73 bilhões de dólares por ano</strong> . Eles fornecem informações essenciais sobre o clima, a produção de água e a segurança alimentar. Os satélites possibilitam a irrigação de precisão e técnicas agrícolas, além de ajudarem a prevenir desastres naturais. A indústria espacial poderia criar até <strong>1 milhão de empregos</strong> até <strong>2030</strong> , mas essas oportunidades ainda são inacessíveis para muitos no Sul Global.",
+    "paragraph3": "Ao fornecer tecnologia e educação de código aberto, nosso objetivo é democratizar o acesso ao espaço e capacitar uma nova geração a sonhar além do céu."
+  },
+  "empowering": {
+    "heading": "Capacitando a próxima geração",
+    "intro": "Ensinaremos a próxima geração de exploradores espaciais a construir e lançar seus próprios satélites, abordando tópicos essenciais, incluindo:",
+    "topics": {
+      "history": "<strong>História da arte no espaço:</strong> Compreendendo a linhagem dos satélites artísticos e das obras de arte espaciais.",
+      "concepts": "<strong>Conceitos principais:</strong> <strong>ArtSat</strong> (satélites artísticos), tecnologia espacial <strong>de código aberto</strong> e a <strong>lacuna espacial</strong> .",
+      "missions": "<strong>Missões espaciais:</strong> como conceber e projetar uma missão e como formar uma equipe para executá-la.",
+      "electronics": "<strong>Eletrônica no espaço:</strong> Conceitos fundamentais de componentes eletrônicos que podem sobreviver e funcionar no ambiente espacial.",
+      "mechanics": "<strong>Mecânica no espaço:</strong> Compreendendo os requisitos estruturais e mecânicos para o projeto de satélites.",
+      "orbits": "<strong>Órbitas e lançadores:</strong> diferentes tipos de órbitas e como selecionar os fornecedores de lançamento para sua missão.",
+      "financing": "<strong>Estratégias de financiamento:</strong> Como garantir financiamento e recursos para lançar seu satélite. O curso fornecerá recursos para a obtenção de financiamento para o seu lançamento, ajudando os alunos a encontrar programas e bolsas de instituições internacionais que apoiam jovens cientistas e estudantes no envio de seus satélites ao espaço.",
+      "groundStation": "<strong>Desenvolvimento de estação terrestre:</strong> Como construir uma antena para comunicação com o Templo Orbital e outros satélites."
+    }
+  },
+  "technology": {
+    "heading": "A tecnologia: Satélites PocketQube",
+    "paragraph1": "Os alunos aprenderão a trabalhar com satélites <strong>PocketQube</strong> , um padrão de nanossatélites que mede apenas <strong>5 cm³</strong> e pesa até <strong>250 g</strong> . Apesar de seu tamanho reduzido, os PocketQubes são ferramentas poderosas capazes de realizar observação da Terra, monitoramento e comunicação.",
+    "paragraph2": "Esses satélites compactos têm inúmeras aplicações práticas, desde pesquisas científicas sobre mudanças climáticas até comunicação intercontinental. Por serem menores e mais leves, são mais acessíveis para construir e lançar, tornando o espaço mais acessível a estudantes, pesquisadores e artistas do mundo todo."
+  },
+  "globalAccess": {
+    "heading": "Acesso global, começando pelo Sul Global",
+    "paragraph1": "O curso estará disponível <strong>gratuitamente</strong> para qualquer pessoa <strong>com 16 anos ou mais</strong> . Começaremos com conteúdo em <strong>português</strong> , <strong>espanhol</strong> , <strong>inglês</strong> e <strong>hindi</strong> , com planos de expansão para outros idiomas à medida que o programa crescer.",
+    "paragraph2": "Nossa missão começa no Sul Global e se estende ao mundo, garantindo que a próxima geração de exploradores espaciais venha de todos os cantos da Terra."
+  },
+  "callToAction": {
+    "heading": "Ajude-nos a fazer isso acontecer",
+    "content": "Este programa educacional está em desenvolvimento. Buscamos parceiros e doadores que compartilhem nossa visão de democratizar o acesso à tecnologia espacial. Se você ou sua organização desejam apoiar esta iniciativa, visite nossa <a href=\"/support\">página de apoio</a> para saber mais sobre as oportunidades de parceria."
+  },
+  "imageAlt": "Satélite do Templo Orbital"
+}

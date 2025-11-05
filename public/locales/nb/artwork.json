@@ -1,0 +1,31 @@
+{
+  "title": "Kunstverket - Orbitaltempelet",
+  "heading": "Kunstverket",
+  "intro": {
+    "paragraph1": "Orbital Temple er en satellitt med et kunstnerisk oppdrag: et minnesmerke i verdensrommet åpent for alle levende vesener som lever eller har levd på jorden.",
+    "paragraph2": "Gjennom teknologiske midler kan hvem som helst sende navnet til noen til tempelet, enten noen som er avdød, en person i høy alder, eller et hvilket som helst vesen som fortjener å bli husket."
+  },
+  "sculpture": {
+    "heading": "Skulpturen",
+    "paragraph1": "Kunstverket har tre samavhengige elementer: en satellitt spesielt designet for å lagre milliarder av navn; en offentlig skulptur som utveksler informasjon med satellitten; og et nettsted der deltakerne sender navnene, fra nå og til de går bort, til himmelen.",
+    "paragraph2": "Som et tverrfaglig prosjekt kan Orbital Temple betraktes som en stedsspesifikk skulptur som bebor rommet. Det er også et Artsat-prosjekt."
+  },
+  "antenna": {
+    "heading": "Antennen som en offentlig skulptur",
+    "paragraph1": "En antenne som forbinder oss med verdensrommet.",
+    "paragraph2": "En antenne som skal være i direkte kommunikasjon med den orbitale satellitten blir designet.",
+    "paragraph3": "Med en gyllen reflekterende overflate som speiler himmelen over seg, er den et utgangspunkt for massestimulering (eller vårt forhold til det som er «der oppe»).",
+    "paragraph4": "Selv om skulpturene ikke er installert i de fleste deler av verden, sender våre Frames from Earth, som for øyeblikket kontrollerer satellitten, navnene ved hver gjennomgang.",
+    "paragraph5": "Hjelp med å bringe denne visjonen til byen din – installer antenneskulpturer som inspirerer til samtaler om romutforskning, kunst og vår felles plass i kosmos. <a href=\"/support\">Lær mer om å støtte prosjektet</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple-satellitt",
+    "riseNy": "Orbitaltempelet ved Rise NY",
+    "installation": "Orbitaltempelet av Clara Marques",
+    "antenna": "Orbital tempelantenne"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitaltempel i verdensrommet. 3D-gjengivelse av RiseNY&Partners.",
+    "mercosul": "Installasjon av et orbitalt tempel på Mercosul-biennalen i Porto Alegre, Brasil.<br> Foto av Clara Marques."
+  }
+}

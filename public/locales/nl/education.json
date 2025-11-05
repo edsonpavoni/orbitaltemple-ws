@@ -1,0 +1,43 @@
+{
+  "title": "Onderwijs & Open Source - Orbital Temple",
+  "heading": "Onderwijs en open source",
+  "intro": {
+    "paragraph1": "Alle technologie die voor de Orbital Temple-missie wordt ontwikkeld, zal <strong>open source</strong> zijn en online beschikbaar in <strong>het Portugees</strong> , <strong>Engels</strong> , <strong>Spaans</strong> en <strong>Hindi</strong> , wat de ruimtevaart in het <strong>Zuiden</strong> zal bevorderen. Nieuwe missies en projecten kunnen Orbital Temple gebruiken als basis voor hun eigen artistieke of wetenschappelijke experimenten.",
+    "paragraph2": "Als onderdeel van haar educatieve missie biedt Orbital Temple een gratis meertalige cursus aan over het bouwen en lanceren van een satelliet. Het is een praktische kans om meer te leren over satelliettechnologie en deze in de praktijk te brengen. Iedereen ouder dan <strong>16</strong> jaar kan zijn eigen satelliet bouwen en leren over de geschiedenis van kunst in de ruimte, fundamentele concepten van elektronica, mechanica en ruimtewetenschap, inclusief het financieren van projecten en het bouwen van een antenne om te communiceren met satellieten in een baan om de aarde."
+  },
+  "spaceGap": {
+    "heading": "Waarom dit belangrijk is: de ruimtekloof",
+    "paragraph1": "De term <strong>&quot;Space Gap&quot;</strong> verwijst naar de kloof tussen ontwikkelde landen die toegang hebben tot de technologische mogelijkheden die ruimteverkenning biedt, en ontwikkelingslanden die geen toegang hebben tot deze technologieën. Landen in het Zuiden moeten aanzienlijke bedragen betalen aan buitenlandse overheden of bedrijven voor basistoegang tot informatie die door satelliettechnologieën wordt geproduceerd.",
+    "paragraph2": "Ruimtevaarttechnologie biedt cruciale voordelen: satellieten helpen bij de bestrijding van illegale houtkap, illegale visserij en illegale handel in wilde dieren, die <strong>jaarlijks meer dan 73 miljard dollar</strong> vertegenwoordigen. Ze leveren essentiële informatie over klimaat, waterproductie en voedselzekerheid. Satellieten maken precisie-irrigatie en landbouwtechnieken mogelijk en helpen natuurrampen te voorkomen. De ruimtevaartindustrie zou tegen <strong>2030</strong> tot wel <strong>1 miljoen banen</strong> kunnen creëren, maar deze kansen blijven voor velen in het Zuiden onbereikbaar.",
+    "paragraph3": "Door opensourcetechnologie en -onderwijs te bieden, willen we de toegang tot de ruimte democratiseren en een nieuwe generatie de kans geven om verder te dromen dan de hemel."
+  },
+  "empowering": {
+    "heading": "De volgende generatie empoweren",
+    "intro": "We leren de volgende generatie ruimtereizigers hoe ze hun eigen satellieten kunnen bouwen en lanceren. Hierbij komen essentiële onderwerpen aan bod, zoals:",
+    "topics": {
+      "history": "<strong>Geschiedenis van kunst in de ruimte:</strong> inzicht in de geschiedenis van artistieke satellieten en ruimtekunstwerken.",
+      "concepts": "<strong>Kernconcepten:</strong> <strong>ArtSat</strong> (artistieke satellieten), <strong>open source</strong> -ruimtetechnologie en de <strong>Space Gap</strong> .",
+      "missions": "<strong>Ruimtemissies:</strong> hoe je een missie conceptualiseert en ontwerpt, en hoe je een team samenstelt om deze uit te voeren.",
+      "electronics": "<strong>Elektronica in de ruimte:</strong> fundamentele concepten van elektronische componenten die in de ruimte kunnen overleven en functioneren.",
+      "mechanics": "<strong>Mechanica in de ruimte:</strong> inzicht in de structurele en mechanische vereisten voor satellietontwerp.",
+      "orbits": "<strong>Banen en lanceerinrichtingen:</strong> verschillende soorten banen en hoe u een lanceerinrichting voor uw missie selecteert.",
+      "financing": "<strong>Financieringsstrategieën:</strong> Hoe je financiering en middelen verkrijgt voor de lancering van je satelliet. De cursus biedt hulpmiddelen voor het verkrijgen van financiering voor je lancering en helpt studenten bij het vinden van programma&#39;s en subsidies van internationale instellingen die jonge wetenschappers en studenten ondersteunen bij het lanceren van hun satellieten.",
+      "groundStation": "<strong>Ontwikkeling van grondstations:</strong> Hoe bouw je een antenne om te communiceren met de Orbital Temple en andere satellieten?"
+    }
+  },
+  "technology": {
+    "heading": "De technologie: PocketQube-satellieten",
+    "paragraph1": "Studenten leren werken met <strong>PocketQube</strong> -satellieten, een nanosatellietstandaard van slechts <strong>5 cm³</strong> en een gewicht tot <strong>250 gram</strong> . Ondanks hun kleine formaat zijn PocketQubes krachtige hulpmiddelen voor aardobservatie, monitoring en communicatie.",
+    "paragraph2": "Deze compacte satellieten hebben talloze praktische toepassingen, van wetenschappelijk onderzoek naar klimaatverandering tot intercontinentale communicatie. Omdat ze kleiner en lichter zijn, zijn ze goedkoper te bouwen en te lanceren, waardoor de ruimte toegankelijker wordt voor studenten, onderzoekers en kunstenaars wereldwijd."
+  },
+  "globalAccess": {
+    "heading": "Wereldwijde toegang, beginnend vanuit het mondiale zuiden",
+    "paragraph1": "De cursus is beschikbaar voor iedereen <strong>van 16 jaar en ouder</strong> , geheel <strong>gratis</strong> . We starten met content in <strong>het Portugees</strong> , <strong>Spaans</strong> , <strong>Engels</strong> en <strong>Hindi</strong> , met plannen om uit te breiden naar andere talen naarmate het programma groeit.",
+    "paragraph2": "Onze missie begint in het Zuiden en breidt zich uit naar de rest van de wereld. We zorgen ervoor dat de volgende generatie ruimtereizigers uit alle hoeken van de aarde komt."
+  },
+  "callToAction": {
+    "heading": "Help ons dit te realiseren",
+    "content": "Dit educatieve programma is momenteel in ontwikkeling. We zijn op zoek naar partners en donateurs die onze visie delen om de toegang tot ruimtetechnologie te democratiseren. Wilt u of uw organisatie dit initiatief steunen? Bezoek dan onze <a href=\"/support\">supportpagina</a> voor meer informatie over samenwerkingsmogelijkheden."
+  },
+  "imageAlt": "Orbitale Tempel Satelliet"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "オービタル・テンプルに寄付する",
+  "heading": "寄付を完了する",
+  "donatingTo": "寄付先:",
+  "chooseHow": "税控除の対象となる寄付を完了する方法を選択してください:",
+  "option1": {
+    "heading": "オプション1：今すぐオンラインで寄付する",
+    "description": "クレジットカード、デビットカード、またはその他のオンライン決済方法で、安全な財政支援機関である<strong>The Field</strong>を通じて、今すぐ寄付を完了してください。税金に関する領収書がすぐに発行されます。",
+    "button": "The Field経由で寄付する→"
+  },
+  "option2": {
+    "heading": "オプション2：ロイ財団への銀行振込",
+    "description": "戦略的パートナーであり財政スポンサーでもある<strong>ロイ財団</strong>への直接銀行振込または電信送金をお願いいたします。この方法は、多額の寄付や国際送金に最適です。",
+    "bankingInfo": "銀行情報",
+    "fields": {
+      "accountName": "アカウント名：",
+      "bankName": "銀行名:",
+      "accountNumber": "口座番号：",
+      "routingNumber": "ルーティング番号:",
+      "swift": "SWIFT/BIC:",
+      "reference": "参照："
+    },
+    "instructions": "参照欄に「 <strong>Orbital Temple - {donationType}</strong> 」とご記入ください。お振込完了後、領収書を受け取るには、振込先情報を<a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a>までメールでお送りください。",
+    "button": "預金に関するお問い合わせ →"
+  },
+  "taxInfo": {
+    "heading": "税控除の対象となる寄付",
+    "description": "オービタル・テンプルは、 <strong>501(c)(3)</strong>非営利団体である<strong>The Field (Performance Zone Inc.)</strong>の財政支援を受けたプロジェクトです。米国からの寄付はすべて、法律で認められる範囲で税控除の対象となります。",
+    "questions": "ご質問は<a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>までお問い合わせください。"
+  }
+}

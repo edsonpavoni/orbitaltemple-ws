@@ -1,0 +1,44 @@
+{
+  "title": "Duurzaamheid en ruimtepuin - Orbitale Tempel",
+  "heading": "Duurzaamheid",
+  "intro": {
+    "paragraph1": "Als kunst ons de toekomst in moet leiden, kan ze de crises waarmee we worden geconfronteerd niet negeren: de ineenstorting van het milieu, sociale ongelijkheid en de groeiende uitdaging van ruimteschroot. Orbital Temple is ontworpen met deze realiteiten in gedachten en streeft ernaar een verantwoordelijke aanwezigheid te zijn, zowel op aarde als in de ruimte.",
+    "paragraph2": "Wij geloven dat duurzaamheid geen beperking is, maar een essentieel onderdeel van onze artistieke visie. Elke beslissing over materialen, banen en activiteiten weerspiegelt onze toewijding om zowel de aarde als de ruimte beter achter te laten dan we ze aantroffen."
+  },
+  "spaceDebris": {
+    "heading": "Ruimtepuin",
+    "paragraph1": "Ruimteafval is een van de meest urgente uitdagingen voor de ruimtevaart. Duizenden defecte satellieten en fragmenten cirkelen rond de aarde, bedreigen actieve missies en creëren een cascade-effect dat bepaalde banen onbruikbaar kan maken.",
+    "paragraph2": "Orbital Temple pakt dit op verschillende manieren aan:",
+    "list": {
+      "orbit": "<strong>Zonsynchrone baan op 525 km:</strong> deze hoogte zorgt ervoor dat de natuurlijke atmosferische wrijving ervoor zorgt dat de satelliet binnen ongeveer 10 jaar weer in de atmosfeer van de aarde terechtkomt, waar hij volledig zal opbranden. We dragen niet bij aan het langdurige ruimtepuin.",
+      "size": "<strong>PocketQube-ontwerp:</strong> Met een formaat van slechts 50×58×64 mm en een gewicht van 245 g is de satelliet klein genoeg om bij terugkeer in de atmosfeer volledig te verdampen, waardoor er geen puin op het aardoppervlak achterblijft.",
+      "responsibility": "<strong>Geen geplande veroudering:</strong> in tegenstelling tot commerciële satellieten die mogelijk verlaten worden, is Orbital Temple ontworpen om op natuurlijke wijze uit de baan om de aarde te raken. Daarmee voldoet het aan de internationale richtlijnen voor verantwoorde ruimtevaart."
+    },
+    "paragraph3": "Door te kiezen voor een lage baan om de aarde en een compact ontwerp, zorgen we ervoor dat Orbital Temple slechts tijdelijk in de ruimte aanwezig is en geen vervuiling veroorzaakt."
+  },
+  "carbonNeutrality": {
+    "heading": "Koolstofneutraliteit",
+    "content": "Alle CO2-uitstoot die verband houdt met Orbital Temple – inclusief satellietproductie, lancering, grondstationactiviteiten, websitehosting en teamreizen – wordt volledig gecompenseerd via geverifieerde CO2-kredietprogramma's. We zetten ons in om deze missie klimaatneutraal te maken."
+  },
+  "openSource": {
+    "heading": "Open-source hardware",
+    "paragraph1": "Duurzaamheid betekent ook dat kennis niet wordt verspild. Elk technisch aspect van Orbital Temple – schema's, code, communicatieprotocollen en bouwmethoden – wordt gepubliceerd als open source-documentatie.",
+    "paragraph2": "Dit maakt het mogelijk dat toekomstige missies voortbouwen op ons werk in plaats van helemaal opnieuw te beginnen, waardoor overbodig onderzoek en ontwikkeling worden verminderd. Het democratiseert de toegang tot ruimtetechnologie, met name voor gemeenschappen in het Zuiden die historisch gezien uitgesloten zijn van ruimteverkenning."
+  },
+  "educational": {
+    "heading": "Educatieve impact",
+    "paragraph1": "Ons gratis meertalige educatieve programma leert leerlingen wereldwijd hoe ze satellieten kunnen bouwen en lanceren, met een focus op het Zuiden. Door de volgende generatie te voorzien van ruimtevaarttechnologie, dragen we bij aan het dichten van de 'Space Gap' en creëren we kansen die anders niet zouden bestaan.",
+    "paragraph2": "Deze educatieve missie is op zichzelf al een vorm van duurzaamheid: investeren in mensen en gemeenschappen om blijvende verandering te creëren, ook na de levensduur van de satelliet."
+  },
+  "tenYear": {
+    "heading": "Een missie van 10 jaar",
+    "paragraph1": "Orbital Temple is ontworpen voor een missie van tien jaar, niet voor een korte publiciteitsstunt. In tien jaar tijd zal de satelliet ongeveer 50.000 keer om de aarde draaien, namen krijgen en eraan herinneren dat de ruimte een gemeenschappelijk bezit kan zijn, toegankelijk voor iedereen.",
+    "paragraph2": "Na afloop van de missie zal de satelliet op natuurlijke wijze uit zijn baan om de aarde raken en opbranden. Er zal geen spoor van overblijven, behalve in de herinneringen en documentatie van degenen die eraan hebben deelgenomen."
+  },
+  "artsResponsibility": {
+    "heading": "De verantwoordelijkheid van de kunst",
+    "paragraph1": "Kunst is altijd een spiegel van haar tijd geweest en weerspiegelt onze waarden en ambities. In een tijdperk van klimaatcrisis en groeiende ongelijkheid geloven wij dat kunstenaars de verantwoordelijkheid hebben om werk te creëren dat niet alleen commentaar levert op deze kwesties, maar ze ook actief aanpakt.",
+    "paragraph2": "Orbital Temple is onze poging om een kunstwerk te creëren dat radicaal is in zijn inclusiviteit, verantwoordelijk in zijn impact op het milieu en genereus in het delen van zijn kennis met de wereld. Het is kunst die iedereen uitnodigt om deel te nemen, met respect voor de kwetsbare systemen – milieu en ruimte – die leven en ontdekking mogelijk maken."
+  },
+  "imageAlt": "Orbitale Tempel Satelliet"
+}

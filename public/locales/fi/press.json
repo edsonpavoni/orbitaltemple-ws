@@ -1,0 +1,138 @@
+{
+  "title": "Lehdistö ja media - Orbital Temple",
+  "heading": "Lehdistö ja media",
+  "pressContact": {
+    "heading": "Lehdistöyhteydet",
+    "content": "Lehdistötiedustelut, haastattelut ja mediapyynnöt:<br /> <strong>Sähköposti:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Verkkosivusto:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Tietoja projektista",
+    "paragraph1": "Orbital Temple on taideteos ja satelliitti, jonka tavoitteena on radikaalisti osallistava temppeli, joka rakennetaan paikkoihin, joihin seinät eivät ulotu. Brasilialaisen taiteilijan Edson Pavonin, joka loi Inumeráveis-muistomerkin, joka tavoitti joka kuudennen brasilialaisen COVID-pandemian aikana, luoma projekti kutsuu ihmisiä ympäri maailmaa lähettämään jonkun muistolle haluamansa henkilön nimen. Nämä nimet lähetetään kiertoradalla olevaan satelliittiin, jolloin syntyy yhteinen muistomerkki.",
+    "paragraph2": "246 kielellä saatavilla olevan verkkosivuston kautta osallistujat osallistuvat uudenlaiseen rituaaliin. Orbitaalitemppeli tutkii osallisuuden, muistin ja jaetun ihmisyytemme teemoja, kyseenalaistaen, miksi mikään fyysinen temppeli Maassa ei voi todella toivottaa kaikkia tervetulleiksi, ja ehdottaen avaruutta ainoaksi paikaksi, jossa radikaalia osallisuutta voisi esiintyä."
+  },
+  "aboutArtist": {
+    "heading": "Tietoja taiteilijasta",
+    "paragraph1": "<strong>Edson Pavoni</strong> on brasilialainen taiteilija, jonka matka alkoi São Paulon kaduilla, missä köyhyys ja väkivalta muovasivat hänen varhaisia vuosiaan. Maassa, jossa kristinusko tarjosi tien pois kaduilta, huumeilta ja väkivallalta, Pavoni löysi turvapaikan uskosta, teemasta, joka myöhemmin, kun hänestä tuli uskonnollisen väkivallan kriitikko, vaikutti hänen taiteelliseen työskentelyynsä.",
+    "paragraph2": "Vuonna 2020 COVID-19-pandemian aikana Pavoni loi <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (lukematon)</a></strong> , taiteen ja journalismin risteykseen sijoittuvan taideteoksen. Projektissa haastateltiin tuhansia perheitä ja kirjoitettiin tarinoita pandemian uhreista, luoden tilan, jossa muisti ylitti numerot ja tilastot. Näistä tarinoista tehtiin runoja, lauluja ja sinfonioita. Sanomalehdet loivat kansia käyttämällä nimiä ja historioita. Kaikki brasilialaiset tähdet, kuten Oscar-palkittu Fernanda Torres, ja tähdet kuten Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo ja Lazaro Ramos, ja niin monet muut lukivat näitä tarinoita kansallisessa televisiossa. Projekti tavoitti 32 miljoonaa ihmistä, joka neljännen brasilialaisen aikuisen. Siitä tuli parantamisen verkosto, kollektiivinen muistomerkki muistolle.",
+    "paragraph3": "Yli kymmenentuhannen surukeskustelun jälkeen havaittiin kaava: kun puhumme jostakusta, valitsemme osia hänen tarinastaan aivan kuin kirjoittaisimme suosituskirjettä paratiisin portinvartijalle. Teemme parhaamme lähettääksemme heidät sinne, minkä uskomme olevan taivas. Tämä työ herätti uuden ymmärryksen: uskomuksemme siitä, kuka ansaitsee taivaan, muokkaavat suoraan sitä, kenet hyväksymme tai hylkäämme maan päällä. Portugalilaiset siirtomaavaltaajat Brasiliassa uskoivat, että mustilla ihmisillä ei ole sielua; tämä uskomus oikeutti orjuuden. Jos olit alkuperäiskansojen edustaja, jos olit syntynyt väärään paikkaan tai rakastit väärää ihmistä, sinulle kerrotaan edelleen, että taivaan ovet olivat sinulta kiinni. Onko olemassa tulevaisuuden visiota, jota hylkääminen ei täydennä?",
+    "paragraph4": "Näin Orbital Temple syntyi."
+  },
+  "keyFacts": {
+    "heading": "Keskeiset tiedot",
+    "artist": "<strong>Taiteilija:</strong> Edson Pavoni (Brasilia)",
+    "projectType": "<strong>Projektin tyyppi:</strong> Satelliittitaideteos, paikkasidonnainen tilaan liittyvä, verkkopohjainen rituaali",
+    "launchDate": "<strong>Julkaisupäivä:</strong> 28. marraskuuta 2025",
+    "launchLocation": "<strong>Laukaisupaikka:</strong> Satish Dhawanin avaruuskeskus, Sriharikota, Intia (ISRO)",
+    "satellite": "<strong>Satelliitti:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Kiertorata:</strong> 525 km korkeus, Auringon kanssa synkroninen",
+    "participation": "<strong>Osallistuminen:</strong> Ilmainen, avoin kaikille maailmanlaajuisesti",
+    "namesSent": {
+      "heading": "<strong>Kiertoradolle lähetetyt nimet:</strong>",
+      "caption": "<em>Reaaliaikaisten osumien määrä päivitetty tietokannasta • Viimeksi päivitetty: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Palkinnot ja tunnustus",
+    "mercosul": {
+      "title": "<strong>13. Mercosurin biennaali</strong> (2022)",
+      "location": "Porto Alegre, Brasilia",
+      "curator": "Marcelo Dantasin kuratoima"
+    },
+    "lumen": {
+      "title": "<strong>Lumen-palkinto 2022 - Futures-palkinto</strong>",
+      "status": "Pitkälle listalle"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 -kilpailu</strong>",
+      "award": "Voittaja - ArtSat-kategoria",
+      "org": "Brasilian avaruustutkimusinstituutin (INPE) tukema"
+    }
+  },
+  "team": {
+    "heading": "Joukkue",
+    "content": "Orbital Temple on luotu yhteistyössä Sathi Royn, Pedro Kaledin, João Pedro Politon, Victor Baptistan, João Victor Alvesin, André Biagionin, VK:n, Jonathan Querubinan, Guilherme Bullejosin, Eduardo Diasin, Roberta Savian Rosan, Clara Marquesin, Daphne Alvesin, Flavio Holzmeisterin, Tati Pedron, Flavio Vidigalin, Tati Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ja kaikki, jotka ehdottavat edelleen nimiä tälle temppelille."
+  },
+  "pressCoverage": {
+    "heading": "Esittelyssä / Lehdistössä",
+    "paragraph1": "<em>Lehdistötiedotteita ja -artikkeleita lisätään sitä mukaa, kun niitä tulee saataville. Saat uusimmat päivitykset ottamalla yhteyttä lehdistötiimiimme.</em>",
+    "paragraph2": "Aiempiin näyttelyihin ja esityksiin kuuluvat esitykset 13. Mercosulin biennaalissa, Lumen-palkinnon tunnustus ja Brasilian avaruustutkimuslaitoksen (INPE) valinta."
+  },
+  "images": {
+    "heading": "Korkean resoluution kuvat lehdistökäyttöön",
+    "intro": "Kaikki kuvat ovat käytettävissä toimitukselliseen käyttöön. Lataa korkearesoluutioinen tiedosto napsauttamalla kuvaa.",
+    "installationPhotos": {
+      "heading": "Orbitaalitemppelin kuvat",
+      "credit": "Kuva: \"Kuva: Clara Marques / Edson Pavonin, Orbital Templen luvalla\"",
+      "view01": "Asennusnäkymä 01<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (1,4 Mt)",
+      "view02": "Asennusnäkymä 02<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (2,9 Mt)",
+      "view03": "Asennusnäkymä 03<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (11 Mt)",
+      "view04": "Asennusnäkymä 04<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (3,4 Mt)",
+      "view05": "Asennusnäkymä 05<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (3,3 Mt)",
+      "view06": "Asennusnäkymä 06<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (3,7 Mt)",
+      "view07": "Asennusnäkymä 07<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (3,4 Mt)",
+      "view08": "Asennusnäkymä 08<br /> Kuva: Clara Marques<br /> ↓ Lataa korkearesoluutioinen (2,7 Mt)",
+      "satelliteDesign": "Satelliittisuunnittelu<br /> ↓ Lataa",
+      "antennaSculpture": "Antenni/Veistos<br /> ↓ Lataa"
+    },
+    "renders": {
+      "heading": "Orbitaalisen temppelin renderöinnit",
+      "credit": "Orbital Templen konseptuaalisia 3D-renderöintejä. Kuvassa lähde: \"3D-renderöinti RiseNY&Partners / Edson Pavonin, Orbital Templen, luvalla\"",
+      "render01": "3D-renderöinti 01<br /> RiseNY&amp;Partners<br /> ↓ Lataa korkearesoluutioinen (10 Mt)",
+      "render02": "3D-renderöinti 02<br /> RiseNY&amp;Partners<br /> ↓ Lataa korkearesoluutioinen (5,9 Mt)",
+      "render03": "3D-renderöinti 03<br /> RiseNY&amp;Partners<br /> ↓ Lataa korkearesoluutioinen (5,2 Mt)",
+      "render04": "3D-renderöinti 04<br /> RiseNY&amp;Partners<br /> ↓ Lataa korkearesoluutioinen (11 Mt)",
+      "render05": "3D-renderöinti 05<br /> RiseNY&amp;Partners<br /> ↓ Lataa korkearesoluutioinen (13 Mt)"
+    },
+    "artistPhotos": {
+      "heading": "Taiteilijan kuvat",
+      "photo1": "Kuva 1<br /> ↓ Lataa korkearesoluutioinen",
+      "photo2": "Kuva 2<br /> ↓ Lataa korkearesoluutioinen"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Royn kuvat",
+      "photo1": "Kuva 1<br /> ↓ Lataa korkearesoluutioinen (843 kt)",
+      "photo2": "Kuva 2<br /> ↓ Lataa korkearesoluutioinen (1,8 Mt)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tekniset tiedot",
+    "satellite": {
+      "heading": "Satelliitti",
+      "dimensions": "Mitat: 50 x 58 x 64 mm",
+      "classification": "Luokitus: 1P PocketQube",
+      "weight": "Paino: 245 g",
+      "materials": "Materiaalit: alumiini, kulta, lasikuitu, elektroniset komponentit",
+      "orbit": "Kiertorata: Korkeus merenpinnasta 525 ± 25 km; Kaltevuus: SSO 97,6 ± 0,1°",
+      "launch": "Julkaisu: 28. marraskuuta 2025 ISRO:n kautta Intiassa"
+    },
+    "antenna": {
+      "heading": "Antenni/Veistos",
+      "dimensions": "Mitat: halkaisija 6 m x korkeus 1,2 m",
+      "weight": "Paino: 46 kg",
+      "materials": "Materiaalit: Alumiini, epoksipeililevy, kultainen alumiinikupoli, joka on ripustettu telinerakenteen läpi"
+    },
+    "radio": {
+      "heading": "Radion tekniset tiedot",
+      "downlink": "Alalinkki: 437 MHz",
+      "status": "Julkaisun tila: Suunniteltu 28. marraskuuta 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Lisäresurssit",
+    "artwork": "→ Näytä taideteosten dokumentaatio",
+    "howItWorks": "→ Toimintaperiaate",
+    "technicalInfo": "→ Tekniset tiedot",
+    "spaceLaunch": "→ Avaruuslaukaisun tiedot",
+    "ritual": "→ Koe rituaali"
+  },
+  "imageAlts": {
+    "installation": "Edson Pavonin Orbitaalitemppelin installaatio",
+    "satelliteDesign": "Orbitaalitemppelin satelliittisuunnittelu",
+    "antenna": "Orbitaalitemppelin antenniveistos",
+    "render": "Orbitaalisen temppelin 3D-renderöinti RiseNY&Partnersilta",
+    "edsonPortrait": "Edson Pavonin muotokuva",
+    "sathiPortrait": "Sathi Royn muotokuva",
+    "lumenPrize": "Lumen-palkinto",
+    "mercosulBienal": "Mercosurin biennaali"
+  }
+}

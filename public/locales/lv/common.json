@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "mākslas darbs",
+    "sendAName": "nosūtīt vārdu",
+    "fromTheArtist": "no mākslinieka",
+    "yetAnotherTemple": "vēl viens templis?",
+    "howItWorks": "kā tas darbojas",
+    "spaceLaunch": "kosmosa palaišana un riski",
+    "briefHistory": "Īsa mākslas vēsture kosmosā",
+    "education": "izglītība un atvērtā pirmkoda",
+    "sustainability": "ilgtspējība un kosmosa atkritumi",
+    "press": "prese un mediji",
+    "team": "komanda",
+    "partners": "partneri",
+    "support": "atbalsts",
+    "technicalInfo": "tehniskā informācija"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "rituāls",
+    "ariaLabel": "Ieejiet rituālā — nosūtiet vārdu uz Orbitālo templi."
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Orbitālais templis ir Edsona Pavoni mākslas darbs, kas izveidots sadarbībā ar Pedro Kaledu, Žoau Pedro Polito, Viktoru Baptistu un Žoau Viktoru Alvesu, Andrē Biagioni, VK, Džonatanu Kverubinu, Gilhermu Buljosu, Eduardo Diasu, Robertu Savianu Rosu, Klāru Markesu, Satiju Roju un nosauc visus, kuri turpina sūtīt šo templi."
   }
 }

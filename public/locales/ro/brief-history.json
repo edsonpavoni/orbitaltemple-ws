@@ -1,0 +1,77 @@
+{
+  "title": "Scurt istoric al artei în spațiu - Orbital Temple",
+  "heading": "Scurt istoric al artei în spațiu",
+  "intro": "Încă de la prima lansare cu succes a unui satelit artificial în <strong>1957</strong> , peste zece mii de sateliți au ajuns pe orbită în jurul Pământului. În această nouă eră, artiștii au găsit o modalitate de a-și extinde practica, iar spațiul cosmic a devenit un nou tip de pânză. Odată cu aceasta, au apărut întrebări fundamentale despre politica explorării spațiului - deși încă mai sunt multe de parcurs.",
+  "sections": {
+    "leonov": {
+      "text": "Prima operă de artă creată în spațiu a fost un desen al unui răsărit de soare deasupra Pământului, realizat de astronautul rus <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexei Leonov</a></strong> în timp ce se afla la bordul navei Voskhod 2 în <strong>1965</strong> .",
+      "caption": "Prima operă de artă creată în spațiu și creioanele folosite de Alexei Leonov pentru a o desena. Fotografie: Muzeul Centrului de Antrenament al Cosmonautilor Iuri Gagarin"
+    },
+    "moonMuseum": {
+      "paragraph1": "Trei ani mai târziu, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">la Muzeul Lunii</a></strong> , o placă ceramică minusculă ar fi aterizat pe Lună, cu inscripții ale șase dintre cei mai proeminenți artiști americani ai vremii: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> și <strong>Andy Warhol</strong> .",
+      "caption1": "Imagine cu Muzeul Lunii din articolul original din New York Times. Degetul mare ascunde desenul lui Warhol.",
+      "paragraph2": "Contribuția provocatoare a lui Warhol - stânga sus - a transformat acest proiect într-o provocare pentru mediile de comunicare de la acea vreme.",
+      "caption2": "Imaginea pe care New York Times a ales să o publice, cu opera de artă vizibilă mai jos și desenul lui Andy Warhol în colțul din stânga sus."
+    },
+    "fallenAstronaut": {
+      "text": "În <strong>1971</strong> , o sculptură umanoidă din aluminiu la scară mică, numită <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Astronaut căzut”,</a></strong> a fost plasată pe Lună de către astronautul <strong>David Scott</strong> din misiunea Apollo 15. Artistul belgian <strong>Paul Van Hoeydonck</strong> a intenționat, cu această piesă, să comemoreze astronauții și cosmonauții care au murit în urma progresului explorării spațiului.",
+      "caption": "Vedere a plăcii comemorative lăsate pe Lună la locul de aselenizare Hadley-Apennine."
+    },
+    "pioneerVoyager": {
+      "text": "În <strong>anii 1970</strong> , atât <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">plăcile Pioneer</a></strong> , cât și <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">sondele Voyager</a></strong> au deschis noi orizonturi pentru arta spațială. Purtând plăci din aluminiu anodizat cu aur cu mesaje vizuale de pe Pământ către orice alți călători spațiali care l-ar putea găsi în viitorul îndepărtat, acestea au înfățișat viața umană în elementele sale cele mai fundamentale.",
+      "caption": "Plăcile Pioneer 10 și 11, transportate în spațiul cosmic în anii 1970."
+    },
+    "dove": {
+      "text": "În <strong>1990</strong> , Brazilia și-a lăsat amprenta asupra acestui teritoriu cu <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , un ingenios satelit amatoricesc de o mare putere poetică. Deși creatorul său nu se considera artist, a fost o inițiativă profund poetică: a înregistrat vocile copiilor care cereau pace și le-a transmis la peste două mii de radioamatori din întreaga lume, transformând un CubeSat de pionierat într-o operă sonoră colectivă.",
+      "caption": "DOVE/OSCAR-17, satelitul poetic al Braziliei care transmite vocile copiilor pentru pace, 1990."
+    },
+    "lastPictures": {
+      "text": "În <strong>2012</strong> , artistul <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> a lansat <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„The Last Pictures”</a></strong> , un disc microgravat care conține 100 de fotografii atașate satelitului de comunicații Echostar XVI aflat pe orbită geostaționară. Conceput să reziste miliarde de ani, acesta este menit să supraviețuiască civilizației umane ca artefact arheologic pentru viitorul îndepărtat.",
+      "caption": "The Last Pictures, un disc micro-gravat conceput să reziste mai mult decât omenirea, a fost lansat în 2012."
+    },
+    "ulises": {
+      "text": "În <strong>2015</strong> , <strong>Colectivo Espacial Mexicano</strong> (Colectivul Spațial Mexican) a lansat <strong>Ulises I</strong> , un nanosatelit conceput ca o operă conceptuală sub conducerea artistului <strong>Juan José Díaz Infante Casasús</strong> . Satelitul a fost transportat în stratosferă cu un balon în timpul Feria del Libro de Guadalajara. Proiectat să explodeze în aproximativ patru ore și să coboare cu parașuta.",
+      "caption": "Ulises I, o operă conceptuală satelit de Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Abia în <strong>2014</strong> a fost lansat primul satelit pur artistic. Proiectul <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> al Universității din Tokyo a trimis date spațiale pe Pământ, care au fost folosite în instalații artistice și creație muzicală.",
+      "caption1": "Cadrul și piesele de schimb ale rachetei ARTSAT-1 Invader care au rămas pe Pământ.",
+      "caption2": "misiune [SPACE x ART] − expoziția dincolo de Cosmologii, organizată la Muzeul de Artă Contemporană din Tokyo"
+    },
+    "kac": {
+      "text": "Artistul contemporan brazilian și american <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> a contribuit la arta spațială prin colaborări cu <strong>NASA</strong> și <strong>SpaceX</strong> . Lucrarea sa <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Telescopul interior”</a></strong> ( <strong>2017</strong> ), creată împreună cu astronautul francez <strong>Thomas Pesquet</strong> , a dus la o sculptură realizată la bordul <strong>Stației Spațiale Internaționale</strong> .",
+      "caption": "Telescopul interior de pe Stația Spațială Internațională, creat împreună cu astronautul francez Thomas Pesquet, în 2017."
+    },
+    "enoch": {
+      "text": "În <strong>2018</strong> , un CubeSat pasiv, construit ca proiect artistic, a fost lansat pe orbită. Dezvoltat de artistul conceptual din Bahamas, <strong>Tavares Strachan</strong> , <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> conține un vas canopic din aur de 24 de carate cu un bust al primului astronaut afro-american, <strong>Robert Henry Lawrence Jr.</strong>",
+      "caption": "ENOCH (unitate de expunere), 2015-2017. ⓒ Tavares Strachan, fotografie ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "În același an, a fost lansată și sculptura <strong>„Reflectorul Orbital”</strong> <strong>a lui Trevor Paglen</strong> , adăpostită într-un CubeSat nefuncțional. Opera a fost un gest artistic menit să schimbe modul în care ne percepem locul în lume. Nu a fost desfășurată corect. Deși nu a fost niciodată deschisă conform planului, a stârnit conversații vitale și a atras reacții pasionate din partea astronomilor, oamenilor de știință, a instituțiilor media, a educatorilor, a studenților și a publicului larg din întreaga lume, demonstrând că arta de succes nu trebuie neapărat să fie și succes din punct de vedere tehnic.",
+      "caption": "Randare digitală a reflectorului orbital, 2018"
+    },
+    "others": {
+      "text": "Mulți alți artiști au contribuit la domeniul artei spațiale, fiecare aducând perspective unice în cercetarea sa. Printre proiectele notabile se numără cercetarea artistică <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a lui Sarah Jane Pell</a></strong> , care explorează performanța umană în medii extreme; proiectul <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Moon Goose Analogue”</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">al lui Agnes Meyer-Brandis,</a></strong> care examinează narațiunile istorice și contemporane ale explorării spațiului; programul <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">al lui Nahum</a></strong> , care facilitează experimente artistice în microgravitație; și sculptura <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Cosmic Dancer”</a></strong> <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a lui Arthur Woods</a></strong> , prima sculptură expusă în spațiu la bordul stației Mir în 1993."
+    },
+    "orbitalTemple": {
+      "text": "În <strong>2025</strong> , după 4 ani de cercetare și dezvoltare, artistul brazilian <strong>Edson Pavoni</strong> și un grup multidisciplinar de colaboratori vor lansa <strong>Orbital Temple</strong> , un satelit de artă participativă care invită pe oricine din lume să trimită nume pe orbită, creând un memorial radical incluziv, dincolo de granițe.",
+      "caption": "Templul Orbital la Bienala Mercosul. Foto: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Desenul și creioanele lui Alexei Leonov",
+    "moonMuseum": "Napolitană ceramică a Muzeului Lunii",
+    "moonMuseumWarhol": "Muzeul Lunii, vasul ceramic cu toate operele de artă",
+    "fallenAstronaut": "Memorialul astronauților căzuți pe Lună",
+    "pioneerPlaques": "Plăci de pionieri",
+    "dove": "Satelitul WHERE/OSCAR-17",
+    "lastPictures": "Discul Ultimele imagini",
+    "ulises": "Satelitul Ulises I",
+    "artsatInvader": "Structura satelitului ARTSAT-1 Invader",
+    "artsatArt": "Operă de artă creată din datele ARTSAT-1",
+    "innerTelescope": "Telescopul interior al lui Eduardo Kac",
+    "enoch": "Unitatea de afișare ENOCH a lui Tavares Strachan",
+    "orbitalReflector": "Reflectorul orbital al lui Trevor Paglen",
+    "orbitalTemple": "Satelitul Orbital Temple"
+  }
+}

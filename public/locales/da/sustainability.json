@@ -1,0 +1,44 @@
+{
+  "title": "Bæredygtighed og rumaffald - Orbital Temple",
+  "heading": "Bæredygtighed",
+  "intro": {
+    "paragraph1": "Hvis kunsten skal føre os ind i fremtiden, kan den ikke ignorere de kriser, vi står over for – miljømæssigt kollaps, social ulighed og den voksende udfordring med rumaffald. Orbital Temple er designet med disse realiteter i tankerne og sigter mod at være en ansvarlig tilstedeværelse både på Jorden og i kredsløb.",
+    "paragraph2": "Vi mener, at bæredygtighed ikke er en begrænsning, men en essentiel del af vores kunstneriske vision. Enhver beslutning om materialer, kredsløb og drift afspejler vores engagement i at efterlade både Jorden og rummet i bedre stand, end vi fandt dem."
+  },
+  "spaceDebris": {
+    "heading": "Rumaffald",
+    "paragraph1": "Rumaffald er en af de mest presserende udfordringer for rumforskning. Tusindvis af defekte satellitter og fragmenter kredser om Jorden, hvilket truer aktive missioner og skaber en kaskadeeffekt, der kan gøre visse baner ubrugelige.",
+    "paragraph2": "Orbital Temple håndterer dette på flere måder:",
+    "list": {
+      "orbit": "<strong>Solsynkron bane ved 525 km:</strong> Denne højde sikrer, at naturlig atmosfærisk modstand vil få satellitten til at vende tilbage til Jordens atmosfære inden for cirka 10 år, hvor den vil brænde fuldstændigt op. Vi bidrager ikke til langsigtet orbitalaffald.",
+      "size": "<strong>PocketQube-design:</strong> Med sine kun 50×58×64 mm og en vægt på 245 g er satellitten lille nok til at fordampe fuldstændigt under tilbagevenden til Jorden, hvilket ikke efterlader noget affald på Jordens overflade.",
+      "responsibility": "<strong>Ingen planlagt forældelse:</strong> I modsætning til kommercielle satellitter, der kan blive opgivet, er Orbital Temple designet til at gå i kredsløb naturligt og dermed opfylde internationale retningslinjer for ansvarlig rumaktivitet."
+    },
+    "paragraph3": "Ved at vælge en lav bane om Jorden og et kompakt design sikrer vi, at Orbital Temples tilstedeværelse i rummet er midlertidig og ikke-forurenende."
+  },
+  "carbonNeutrality": {
+    "heading": "Kulstofneutralitet",
+    "content": "Alle CO2-udledninger forbundet med Orbital Temple – herunder satellitproduktion, opsendelse, drift af jordstationer, webhosting og teamrejser – vil blive fuldt ud udlignet gennem verificerede CO2-kreditprogrammer. Vi er forpligtet til at gøre denne mission klimaneutral."
+  },
+  "openSource": {
+    "heading": "Open Source-hardware",
+    "paragraph1": "Bæredygtighed betyder også ikke at spilde viden. Alle tekniske aspekter af Orbital Temple – diagrammer, kode, kommunikationsprotokoller og konstruktionsmetoder – vil blive offentliggjort som open source-dokumentation.",
+    "paragraph2": "Dette gør det muligt for fremtidige missioner at bygge videre på vores arbejde i stedet for at starte fra bunden, hvilket reducerer overflødig forskning og udvikling. Det demokratiserer adgangen til rumteknologi, især for samfund i det globale syd, som historisk set har været udelukket fra rumforskning."
+  },
+  "educational": {
+    "heading": "Uddannelsesmæssig effekt",
+    "paragraph1": "Vores gratis flersprogede uddannelsesprogram lærer elever verden over, hvordan man bygger og opsender satellitter, med fokus på det globale Syd. Ved at give den næste generation rumteknologiske færdigheder bidrager vi til at lukke \"rumkløften\" og skabe muligheder, der ellers ikke ville eksistere.",
+    "paragraph2": "Denne uddannelsesmission er i sig selv en form for bæredygtighed – investering i mennesker og lokalsamfund for at skabe varig forandring ud over satellittens levetid."
+  },
+  "tenYear": {
+    "heading": "En 10-årig mission",
+    "paragraph1": "Orbital Temple er designet til en mission, der varer et årti, ikke et kort reklamestunt. Over ti år vil satellitten kredse om Jorden cirka 50.000 gange, modtage navne og tjene som en påmindelse om, at rummet kan være et fælles område, tilgængeligt for alle.",
+    "paragraph2": "Efter missionens afslutning vil satellitten naturligt degradere og brænde op uden at efterlade spor undtagen i erindringer og dokumentation fra dem, der deltog."
+  },
+  "artsResponsibility": {
+    "heading": "Kunstens ansvar",
+    "paragraph1": "Kunst har altid været et spejl af sin tid og afspejlet vores værdier og forhåbninger. I en tid med klimakrise og voksende ulighed mener vi, at kunstnere har et ansvar for at skabe værker, der ikke blot kommenterer på disse problemstillinger, men aktivt adresserer dem.",
+    "paragraph2": "Orbital Temple er vores forsøg på at skabe et kunstværk, der er radikalt i sin inklusion, ansvarligt i sin miljømæssige påvirkning og generøst i at dele sin viden med verden. Det er kunst, der inviterer alle til at deltage, samtidig med at den respekterer de skrøbelige systemer – miljømæssige og orbitale – der muliggør liv og udforskning."
+  },
+  "imageAlt": "Orbital Temple Satellit"
+}

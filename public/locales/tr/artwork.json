@@ -1,0 +1,31 @@
+{
+  "title": "Sanat Eseri - Orbital Tapınak",
+  "heading": "Sanat Eseri",
+  "intro": {
+    "paragraph1": "Orbital Temple, sanatsal bir misyona sahip bir uydudur: Dünya'da yaşayan veya yaşamış her duyarlı varlığa açık, uzayda bir anıt.",
+    "paragraph2": "Teknolojik yollarla herkes, ölmüş birinin, hayatta olan birinin veya hatırlanmayı hak eden herhangi bir varlığın ismini Tapınağa gönderebilir."
+  },
+  "sculpture": {
+    "heading": "Heykel",
+    "paragraph1": "Sanat eserinin birbirine bağımlı üç unsuru var: Milyarlarca ismi depolamak için özel olarak tasarlanmış bir uydu; uyduyla bilgi alışverişinde bulunan bir kamusal heykel; ve katılımcıların isimlerini, öldükleri ana kadar cennete gönderdikleri bir web sitesi.",
+    "paragraph2": "Çok disiplinli bir çalışma olan Orbital Temple, mekâna özgü, mekânı dolduran bir heykel olarak kabul edilebilir. Aynı zamanda bir Artsat projesidir."
+  },
+  "antenna": {
+    "heading": "Anten Kamusal Bir Heykel Olarak",
+    "paragraph1": "Bizi uzaya bağlayan bir anten.",
+    "paragraph2": "Yörünge uydusuyla doğrudan iletişim kuracak bir anten tasarlanıyor.",
+    "paragraph3": "Üzerindeki gökyüzünü yansıtan altın rengi yansıtıcı bir yüzeye sahip olan bu yer, kitlesel uyarımın (ya da 'yukarıdaki' şeylerle olan ilişkimizin) başlangıç noktasıdır.",
+    "paragraph4": "Heykeller dünyanın pek çok yerine yerleştirilmemiş olsa da, şu anda uyduyu kontrol eden Dünya'dan Karelerimiz her geçişte isimleri gönderiyor.",
+    "paragraph5": "Bu vizyonu şehrinize taşımamıza yardımcı olun; uzay keşfi, sanat ve evrendeki ortak mekanımız hakkında sohbetlere ilham veren anten heykelleri kurun. <a href=\"/support\">Projeyi destekleme hakkında daha fazla bilgi edinin</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Uydusu",
+    "riseNy": "Rise NY'deki Orbital Tapınağı",
+    "installation": "Clara Marques'in Orbital Tapınağı",
+    "antenna": "Orbital Tapınak Anteni"
+  },
+  "imageCaptions": {
+    "riseNy": "Uzayda Orbital Tapınağı. RiseNY&Partners tarafından 3D render.",
+    "mercosul": "Brezilya&#39;nın Porto Alegre kentindeki Mercosul Bienali&#39;nde Orbital Temple enstalasyonu.<br> Fotoğraf: Clara Marques."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Lancement spatial - Temple orbital",
+  "heading": "Lancement spatial",
+  "intro": "Le Temple Orbital devrait être lancé à bord d'un PSLV (lanceur de satellites polaires) le 28 novembre 2025 depuis le Centre spatial Satish Dhawan à Sriharikota, en Inde.",
+  "partnership": "Le lancement du Temple Orbital est le fruit d'un partenariat entre NewSpace India Limited (NSIL), une entreprise publique indienne relevant du Département de l'Espace, Antrix Corporation et l'artiste. Cette collaboration représente une étape importante pour l'art dans l'exploration spatiale, unissant le programme spatial indien à une vision artistique d'inclusion radicale.",
+  "risks": {
+    "heading": "Risques",
+    "paragraph1": "Le satellite a été conçu pour résister à des vibrations et des cycles thermiques extrêmes, et a subi des tests rigoureux. Cependant, les lancements spatiaux comportent des risques inhérents. Si le satellite est endommagé lors du lancement ou du déploiement, ou s'il ne parvient pas à établir la communication avec nos stations au sol, nous mettrons tout en œuvre pour identifier et résoudre tout problème. Le satellite est doté de systèmes redondants et de protocoles de secours conçus pour optimiser les chances de succès de la mission.",
+    "paragraph2": "De plus, le satellite pourrait rester en orbite moins de 10 ans si les conditions atmosphériques ou d'autres facteurs entraînent une dégradation orbitale prématurée. Bien que nous l'ayons conçu pour une durée de vie d'au moins dix ans, sa durée de vie réelle dépend de conditions que nous ne pouvons pas entièrement contrôler.",
+    "paragraph3": "Si le premier lancement échoue, ou si nous ne sommes pas en mesure d'accomplir cette mission comme prévu, nous explorerons d'autres pistes, y compris potentiellement une seconde tentative de lancement avec le budget disponible, un partenariat avec d'autres missions, ou la documentation de la tentative dans le cadre du récit de l'œuvre d'art sur l'aspiration et la limitation."
+  },
+  "imageAlts": {
+    "india": "Centre spatial ISRO, Inde",
+    "satellite": "Satellite du Temple Orbital"
+  }
+}

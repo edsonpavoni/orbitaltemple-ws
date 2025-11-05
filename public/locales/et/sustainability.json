@@ -1,0 +1,44 @@
+{
+  "title": "Jätkusuutlikkus ja kosmoseprügi - Orbitaalne Tempel",
+  "heading": "Jätkusuutlikkus",
+  "intro": {
+    "paragraph1": "Kui kunst peaks meid tulevikku juhatama, ei saa see ignoreerida kriise, millega me silmitsi seisame – keskkonna kokkuvarisemist, sotsiaalset ebavõrdsust ja kosmoseprügi kasvavat probleemi. Orbitaaltempel on loodud neid reaalsusi silmas pidades, eesmärgiga olla vastutustundlik kohalolek nii Maal kui ka orbiidil.",
+    "paragraph2": "Usume, et jätkusuutlikkus ei ole piirang, vaid meie kunstilise visiooni oluline osa. Iga otsus materjalide, orbiitide ja toimingute kohta peegeldab meie pühendumust jätta nii Maa kui ka kosmos paremasse seisukorda, kui me need leidsime."
+  },
+  "spaceDebris": {
+    "heading": "Kosmoseprügi",
+    "paragraph1": "Kosmoseprügi on üks kosmoseuuringute ees seisvaid pakilisemaid väljakutseid. Maa ümber tiirlevad tuhanded kadunud satelliidid ja nende killud, ohustades aktiivseid missioone ja tekitades kaskaadiefekti, mis võib muuta teatud orbiidid kasutuskõlbmatuks.",
+    "paragraph2": "Orbitaaltempel käsitleb seda mitmel viisil:",
+    "list": {
+      "orbit": "<strong>Päikesega sünkroonis tiirlev orbiit 525 km kõrgusel:</strong> see kõrgus tagab, et loomulik atmosfääritakistus põhjustab satelliidi umbes 10 aasta jooksul Maa atmosfääri naasmise, kus see täielikult ära põleb. Me ei panusta pikaajalise orbiidil oleva prahi tekesse.",
+      "size": "<strong>PocketQube disain:</strong> Vaid 50 × 58 × 64 mm ja 245 g kaaluv satelliit on piisavalt väike, et atmosfääri naastes täielikult aurustuda, jättes Maa pinnale prahti.",
+      "responsibility": "<strong>Planeeritud vananemist ei toimu:</strong> Erinevalt kommertssatelliitidest, mis võidakse maha jätta, on Orbital Temple loodud nii, et see lahkub orbiidilt loomulikul teel, järgides rahvusvahelisi vastutustundliku kosmosetegevuse suuniseid."
+    },
+    "paragraph3": "Madala Maa orbiidi ja kompaktse disaini valimisega tagame, et Orbital Temple'i kohalolek kosmoses on ajutine ja mittesaastav."
+  },
+  "carbonNeutrality": {
+    "heading": "Süsiniku neutraalsus",
+    "content": "Kõik Orbital Temple'iga seotud süsinikuheitmed – sealhulgas satelliitide tootmine, start, maapealsete jaamade käitamine, veebisaidi majutamine ja meeskondade reisimine – kompenseeritakse täielikult kontrollitud süsinikukrediidiprogrammide kaudu. Oleme pühendunud selle missiooni kliimaneutraalseks muutmisele."
+  },
+  "openSource": {
+    "heading": "Avatud lähtekoodiga riistvara",
+    "paragraph1": "Jätkusuutlikkus tähendab ka teadmiste raiskamist. Kõik Orbital Temple'i tehnilised aspektid – skeemid, kood, sideprotokollid ja ehitusmeetodid – avaldatakse avatud lähtekoodiga dokumentatsioonina.",
+    "paragraph2": "See võimaldab tulevastel missioonidel meie tööle tugineda, selle asemel et nullist alustada, vähendades üleliigset teadus- ja arendustegevust. See demokratiseerib juurdepääsu kosmosetehnoloogiale, eriti globaalse lõuna kogukondadele, kes on ajalooliselt kosmoseuuringutest kõrvale jäetud."
+  },
+  "educational": {
+    "heading": "Hariduslik mõju",
+    "paragraph1": "Meie tasuta mitmekeelne haridusprogramm õpetab õpilastele üle maailma, kuidas ehitada ja orbiidile saata satelliite, keskendudes globaalsele lõunale. Andes järgmisele põlvkonnale kosmosetehnoloogia oskused, aitame kaasa nn kosmoselünga kaotamisele ja võimaluste loomisele, mida muidu ei eksisteeriks.",
+    "paragraph2": "See haridusmissioon on iseenesest jätkusuutlikkuse vorm – investeerimine inimestesse ja kogukondadesse, et luua püsivaid muutusi ka pärast satelliidi eluiga."
+  },
+  "tenYear": {
+    "heading": "10-aastane missioon",
+    "paragraph1": "Orbitaaltempel on loodud kümneaastaseks missiooniks, mitte lühikeseks reklaamitrikiks. Kümne aasta jooksul teeb satelliit Maa ümber umbes 50 000 tiiru, saades nimed ja tuletades meelde, et kosmos võib olla ühisvara, mis on kõigile kättesaadav.",
+    "paragraph2": "Pärast missiooni lõppu langeb satelliit loomulikult orbiidilt ja põleb ära, jättes endast maha ainult osalejate mälestused ja dokumentatsiooni."
+  },
+  "artsResponsibility": {
+    "heading": "Kunsti vastutus",
+    "paragraph1": "Kunst on alati olnud oma aja peegel, peegeldades meie väärtusi ja püüdlusi. Kliimakriisi ja kasvava ebavõrdsuse ajastul usume, et kunstnikel on kohustus luua teoseid, mis mitte ainult ei kommenteeri neid probleeme, vaid käsitlevad neid aktiivselt.",
+    "paragraph2": "„Orbitaaltempel“ on meie katse luua kunstiteos, mis on radikaalne oma kaasavuses, vastutustundlik oma keskkonnamõjus ja helde oma teadmiste jagamisel maailmaga. See on kunst, mis kutsub kõiki osalema, austades samal ajal habrasid süsteeme – nii keskkonna- kui ka orbitaalsüsteeme –, mis teevad elu ja uurimise võimalikuks."
+  },
+  "imageAlt": "Orbitaalse Templi satelliit"
+}

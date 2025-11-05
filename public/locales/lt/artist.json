@@ -1,0 +1,44 @@
+{
+  "title": "Nuo menininko",
+  "opening": {
+    "question": "Kas šis žmogus, siūlantis šventyklą kosmose?",
+    "thanks": "Ačiū už klausimą.",
+    "answer": "Trumpas atsakymas yra tas, kad esu menininkas. Ilgas atsakymas yra toks:"
+  },
+  "origin": {
+    "sao_paulo": "Gimiau San Paulo pakraštyje, rajone, kuris anksti išmokė mane, ką reiškia pavojus. Daugelis mano mokyklos laikų draugų dabar yra kalėjime. Mano patėvis taip pat. Smurtas nebuvo tai, apie ką skaičiau, tai buvo pasaulis, kuriame turėjau orientuotis. Ir žinojau, kad man reikia pabėgti.",
+    "technology": "Technologijos tapo mano išsigelbėjimu. Paauglystėje išmokau programuoti, elektronikos. Kodas buvo kalba, kuri galėjo mane nuvesti kažkur kitur. Darbas su technologijomis buvo mano išsigelbėjimas nuo skurdo.",
+    "christianity": "Bet aš taip pat ieškojau priklausymo, meilės, kažko, kuo galėčiau tikėti. Radau krikščionybę, arba ji rado mane. Buvau priimta. Buvau mylima. Turėjau bendruomenę. Išmokau atleisti, tikėti, kartu siekti didesnio tikslo.",
+    "price": "Tačiau kaina buvo didelė. Taip pat išmokau daug dalykų, kurių vis dar nemoku. Taigi, ir nuo to išsigelbėjau."
+  },
+  "searching": {
+    "walls": "Žinau, ką daro sienos. Jaučiau jas. Buvau abiejose pusėse: ir uždarytas, ir uždarytas. Po to sekė metai, kai ieškojau kažko, ko negalėčiau įvardyti. Dievas per tuos metus mirė. Bent jau tas Dievas, apie kurį buvau mokoma, tas, kuris turėjo taisykles, teisingumą ir duris, kurios atsivėrė tik kai kuriems žmonėms.",
+    "art": "Pradėjau kurti meną, norėdamas tyrinėti šiuos klausimus: apie intymumą ir technologijas, apie atmintį ir mirtį, apie tai, kas nusipelno dangaus. Pradėjau kurti mašinas, kurios permąsto mūsų santykį su technologijomis, mašinas, kurioms reikia jūsų dalyvavimo, jūsų buvimo, jūsų vardo, kad iš metalo ir kodo transformuotųsi į kažką gyvo."
+  },
+  "pandemic": {
+    "intro": "Tada Braziliją užklupo pandemija.",
+    "government": "Kai COVID vakcinos buvo atidėtos, mano vyriausybė derėjosi dėl vieno dolerio kyšio už dozę. Jie reklamavo vaistus, kurie buvo suprantami kaip neveiksmingi, juokėsi, kai žmonės mirė sunkiai kvėpuodami. Kiekvieną dieną pabusdavome su skirtingu skaičiumi. Kiek žmonių mirė per pastarąsias 24 valandas? Ar tai buvo daugiau, ar mažiau nei tikėtasi?",
+    "war": "Pusė pasaulio buvo išsigandęs, o kita pusė neigė tiesą. Mes kariavome – su virusu ir vienas su kitu.",
+    "memorial": "Norėjau sukurti erdvę kolektyviniam sielvartui, todėl kartu su šimtais žmonių sukūriau „Memorial Inumeráveis“ – meno ir žurnalistikos sankirtos meno kūrinį. Kalbinome šeimas, kurios neteko artimo žmogaus. Parašėme netekto žmogaus gyvenimo istoriją. Skaičius pavertėme istorijomis. Iš tų istorijų buvo sukurti eilėraščiai, dainos, simfonijos. Žvaigždės skaitė šias istorijas nacionalinėje televizijoje. Projektas pasiekė milijonus.",
+    "meaning": "Svarbu buvo ne mastas, o tai, kad kiekviena istorija buvo vardas, gyvenimas, kažkieno rojus."
+  },
+  "discovery": {
+    "pattern": "Po daugiau nei dešimties tūkstančių pokalbių su sielvartu pradėjo ryškėti tam tikras modelis. Kalbėdami apie mirusįjį, ne tik sakome gerus dalykus; mes atrenkame jų istorijos fragmentus, tarsi rašytume rekomendacinį laišką. Rekomendaciją rojaus vartų sargui. Mes darome viską, kad nusiųstume juos į priėmimo, poilsio, pagarbos ir atminimo vietą.",
+    "understanding": "Ir supratau kai ką, kas viską pakeitė: mus sužeidė pačios šventyklos, kurias pastatėme. Mūsų įsitikinimai apie tai, kas nusipelno dangaus, tiesiogiai formuoja tai, ką mes atstumiame Žemėje. Portugalijos kolonizatoriai Brazilijoje tikėjo, kad juodaodžiai neturi sielų; šis įsitikinimas pateisino vergiją. Jei buvai vietinis gyventojas, jei gimei netinkamoje vietoje ar mylėjai netinkamą žmogų, tau buvo sakoma, kad dangaus durys tau uždarytos.",
+    "birth": "Taip gimė „Orbital Temple“."
+  },
+  "shaman": {
+    "secular": "Nė vienas menininkas negali būti iš tiesų pasaulietinis. Esame amžinai prisirišę prie savo bendro protėvio – šamano. Pradžioje buvo ola. Žmonės piešė gyvūnus ant sienų ne tam, kad papuoštų, o kad prisikviestų. Jie šoko, ir ola tapo šventykla. Šamanas turi ritualo dvasią; menininkas – meno aurą. Mes tapome, skulptūruojame, programuojame, kuriame savo trokštamą ateitį ne tam, kad papuoštume, o kad prisikviestume. Visas menas yra dvasingas, net kai teigia, kad toks nėra."
+  },
+  "space": {
+    "question": "Kur galėtume pastatyti šventyklą be sienų? Kur jokia tauta ar religija negalėtų pretenduoti. Kur galėtume įsivaizduoti save kaip vieną grupę.",
+    "answer": "Erdvė.",
+    "description": "Dalyvaujamojo meno palydovas iš Pietų pusrutulio. Orbitoje esanti šventykla, kviečianti visus siųsti savo vardus į kosmosą, nepriklausomai nuo to, kas jie yra, kur gimė, ką myli, kuo tiki. Vieta, kurioje įmanoma radikali įtrauktis, orbitoje, už sienų ribų.",
+    "mission": "Ši misija yra atvirojo kodo. Kiekvienas techninis dokumentas, kiekviena kodo eilutė bus laisvai prieinama, kad kiti menininkai, kitos bendruomenės, kitos tautos galėtų kurti savo palydovus. Taigi, Pasauliniai Pietūs ne tik dalyvauja kosmoso tyrinėjimuose, bet ir juos vadovauja."
+  },
+  "closing": {
+    "answer": "Taigi, kas gi tas vyrukas, kad statytų šventyklą kosmose? Aš jos nestatau. Šventyklą stato visi, kurie nusprendžia atsiųsti vardą, laikyti jį šventu, paversti jį realybe. Aš tik siūlau. Jūs ją statysite, jei nuspręsite.",
+    "signature": "Maloniai,",
+    "name": "Edsonas Pavoni"
+  }
+}

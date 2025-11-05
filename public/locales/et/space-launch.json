@@ -1,0 +1,16 @@
+{
+  "title": "Kosmosekäivitus - orbitaalne tempel",
+  "heading": "Kosmosekäivitus",
+  "intro": "Orbitaaltempel on kavas startida PSLV (Polar Satellite Launch Vehicle) pardal 28. novembril 2025 Satish Dhawani kosmosekeskusest Sriharikotas Indias.",
+  "partnership": "Orbitaalse Templi avamine on partnerlus India valitsuse ettevõtte NewSpace India Limited (NSIL), Antrix Corporationi ja kunstniku vahel. See koostöö kujutab endast olulist verstaposti kosmoseuuringute kunstis, ühendades India kosmoseprogrammi radikaalse kaasatuse kunstilise visiooniga.",
+  "risks": {
+    "heading": "Riskid",
+    "paragraph1": "Satelliit ehitati taluma äärmuslikke vibratsioonitingimusi ja termilisi tsükleid ning on läbinud ranged testid. Kosmosesse laskmisega kaasnevad aga loomupärased riskid. Kui satelliit saab stardi või kasutuselevõtu ajal kahjustada või kui see ei suuda meie maapealsete jaamadega ühendust luua, tegeleme probleemide tõrkeotsingu ja lahendamisega. Satelliidil on redundantsed süsteemid ja varuprotokollid, mis on loodud missiooni edukuse võimaluste maksimeerimiseks.",
+    "paragraph2": "Lisaks võib satelliit orbiidil püsida vähem kui 10 aastat, kui atmosfääritingimused või muud tegurid põhjustavad orbiidi varasemat lagunemist. Kuigi oleme selle projekteerinud kestma vähemalt kümme aastat, sõltub tegelik eluiga tingimustest, mida me ei saa täielikult kontrollida.",
+    "paragraph3": "Kui esimene start ebaõnnestub või kui me ei suuda seda missiooni plaanipäraselt täita, uurime alternatiivseid edasisi teid, mis võivad hõlmata teist starti olemasoleva eelarve piires, partnerlust teiste missioonidega või katse dokumenteerimist osana kunstiteose narratiivist püüdluste ja piirangute kohta."
+  },
+  "imageAlts": {
+    "india": "ISRO kosmosekeskus, India",
+    "satellite": "Orbitaalse Templi satelliit"
+  }
+}

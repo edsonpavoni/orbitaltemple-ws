@@ -1,0 +1,138 @@
+{
+  "title": "新闻媒体 - 轨道圣殿",
+  "heading": "新闻媒体",
+  "pressContact": {
+    "heading": "媒体联系人",
+    "content": "媒体垂询、采访及其他媒体需求：<br /><strong>电子邮件：</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /><strong>网站：</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "关于本项目",
+    "paragraph1": "“轨道圣殿”是一件艺术作品，也是一颗卫星，旨在打造一座真正包容一切的圣殿，建造在墙壁无法触及的地方。该项目由巴西艺术家埃德森·帕沃尼（Edson Pavoni）创作，他也是“Inumeráveis”纪念碑的创作者，该纪念碑在新冠疫情期间触及了六分之一的巴西人。“轨道圣殿”邀请世界各地的人们发送他们想要缅怀的人的名字。这些名字将被传输到一颗轨道卫星，最终形成一座集体纪念碑。",
+    "paragraph2": "参与者可以通过一个提供246种语言版本的网站，参与一种全新的仪式。“轨道神庙”探索包容、记忆和我们共同的人性等主题，质疑为何地球上没有任何一座实体神庙能够真正接纳所有人，并提出太空或许是唯一能够实现真正包容的地方。"
+  },
+  "aboutArtist": {
+    "heading": "关于艺术家",
+    "paragraph1": "<strong>埃德森·帕沃尼</strong>是一位巴西艺术家，他的艺术之旅始于圣保罗的街头，贫困和暴力塑造了他的童年。在这个基督教为人们提供了一条远离街头、毒品和暴力的道路的国家，帕沃尼在信仰中找到了慰藉。后来，当他成为宗教滥用问题的批判者时，信仰这一主题也深深影响了他的艺术实践。",
+    "paragraph2": "2020年，在新冠疫情期间，帕沃尼创作了<strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">《无数》（Inumeráveis）</a></strong> ，一件融合艺术与新闻的作品。该项目采访了数千个家庭，记录了那些因疫情逝去的人们的故事，创造了一个超越数字和统计数据的记忆空间。这些故事被谱写成诗歌、歌曲和交响乐。报纸也以这些名字和故事为封面。包括奥斯卡影后费尔南达·托雷斯、塞尔顿·梅洛、伊娃·威尔玛、卡米拉·皮坦加、黛博拉·塞科、泰斯·阿劳霍和拉扎罗·拉莫斯在内的众多巴西明星都在国家电视台朗读了这些故事。该项目触及了3200万人，相当于四分之一的巴西成年人。它成为了一个疗愈的网络，一座集体记忆的丰碑。",
+    "paragraph3": "在与悲伤者进行了一万多次对话之后，一种模式逐渐显现：当我们谈论逝者时，我们会挑选他们故事的片段，仿佛在为天堂的守门人写一封推荐信。我们竭尽所能地将他们送往我们心目中的天堂。这项工作激发了一种新的理解：我们对谁配得上天堂的信念，直接影响着我们在人世间接纳或排斥的对象。葡萄牙殖民者在巴西认为黑人没有灵魂；这种信念为奴隶制提供了正当理由。如果你是原住民，如果你生错了地方，或者爱错了人，时至今日，你仍然会被告知天堂的大门对你紧闭。难道就没有一种不以排斥为核心的未来愿景吗？",
+    "paragraph4": "这就是轨道神庙的由来。"
+  },
+  "keyFacts": {
+    "heading": "关键事实",
+    "artist": "<strong>艺术家：</strong>埃德森·帕沃尼（巴西）",
+    "projectType": "<strong>项目类型：</strong>卫星艺术作品，特定场域空间艺术，基于网络的仪式",
+    "launchDate": "<strong>发布日期：</strong> 2025年11月28日",
+    "launchLocation": "<strong>发射地点：</strong>印度斯里哈里科塔岛萨蒂什·达万航天中心（ISRO）",
+    "satellite": "<strong>卫星：</strong> 1P PocketQube，50x58x64毫米，245克",
+    "orbit": "<strong>轨道：</strong>高度525公里，太阳同步轨道",
+    "participation": "<strong>参与方式：</strong>免费，面向全球所有人开放。",
+    "namesSent": {
+      "heading": "<strong>送入轨道的名称：</strong>",
+      "caption": "<em>实时统计数据已从数据库更新 • 上次刷新时间：{date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "奖项与荣誉",
+    "mercosul": {
+      "title": "<strong>第十三届南方共同市场双年展</strong>（2022年）",
+      "location": "巴西阿雷格里港",
+      "curator": "由马塞洛·丹塔斯策划"
+    },
+    "lumen": {
+      "title": "<strong>2022年Lumen奖——未来奖</strong>",
+      "status": "入围名单"
+    },
+    "cubeDesign": {
+      "title": "<strong>2021年立方体设计大赛</strong>",
+      "award": "ArtSat类别优胜者",
+      "org": "由巴西空间研究所（INPE）推广"
+    }
+  },
+  "team": {
+    "heading": "团队",
+    "content": "Orbital Temple 是与 Sathi Roy、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister、Pedro Vidigal 合作创建的Tatiane Putti、Rafael Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace 以及所有继续为这座寺庙建议名称的人。"
+  },
+  "pressCoverage": {
+    "heading": "媒体报道/专题报道",
+    "paragraph1": "<em>媒体报道和专题文章将陆续发布。如需了解最新动态，请联系我们的新闻团队。</em>",
+    "paragraph2": "此前的展览和专题报道包括在第 13 届南方共同市场双年展上展出、获得 Lumen 奖的认可，以及被巴西空间研究所 (INPE) 选中。"
+  },
+  "images": {
+    "heading": "供新闻媒体使用的高分辨率图像",
+    "intro": "所有图片均可用于编辑用途。点击任意图片即可下载高清文件。",
+    "installationPhotos": {
+      "heading": "轨道神庙照片",
+      "credit": "请注明出处：“照片由克拉拉·马克斯拍摄/由埃德森·帕沃尼（轨道神庙）提供”",
+      "view01": "安装视图 01<br />照片：克拉拉·马克斯<br />↓ 下载高清图片 (1.4 MB)",
+      "view02": "安装视图 02<br />照片：克拉拉·马克斯<br />↓ 下载高清版 (2.9 MB)",
+      "view03": "安装视图 03<br />照片：克拉拉·马克斯<br />↓ 下载高清图片 (11 MB)",
+      "view04": "安装视图 04<br />照片：克拉拉·马克斯<br />↓ 下载高清版 (3.4 MB)",
+      "view05": "安装视图 05<br />照片：克拉拉·马克斯<br />↓ 下载高清版 (3.3 MB)",
+      "view06": "安装视图 06<br />照片：克拉拉·马克斯<br />↓ 下载高清图片 (3.7 MB)",
+      "view07": "安装视图 07<br />照片：克拉拉·马克斯<br />↓ 下载高清版 (3.4 MB)",
+      "view08": "安装视图 08<br />照片：克拉拉·马克斯<br />↓ 下载高清图片 (2.7 MB)",
+      "satelliteDesign": "卫星设计<br />↓ 下载",
+      "antennaSculpture": "天线/雕塑<br />↓ 下载"
+    },
+    "renders": {
+      "heading": "轨道神庙渲染图",
+      "credit": "轨道神庙概念三维渲染图。请注明出处：“三维渲染图由 RiseNY&Partners 提供 / 由轨道神庙的 Edson Pavoni 提供”。",
+      "render01": "3D渲染01<br /> RiseNY&amp;Partners<br /> ↓ 下载高清图片（10 MB）",
+      "render02": "3D渲染02<br /> RiseNY&amp;Partners<br /> ↓ 下载高清版 (5.9 MB)",
+      "render03": "3D渲染03<br /> RiseNY&amp;Partners<br /> ↓ 下载高清版 (5.2 MB)",
+      "render04": "3D渲染04<br /> RiseNY&amp;Partners<br /> ↓ 下载高清版 (11 MB)",
+      "render05": "3D渲染05<br /> RiseNY&amp;Partners<br /> ↓ 下载高清版 (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "艺术家照片",
+      "photo1": "照片 1<br /> ↓ 下载高清图片",
+      "photo2": "照片 2<br /> ↓ 下载高清图片"
+    },
+    "sathiPhotos": {
+      "heading": "萨蒂·罗伊照片",
+      "photo1": "照片 1<br /> ↓ 下载高清图片 (843 KB)",
+      "photo2": "照片 2<br /> ↓ 下载高清图片 (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "技术规格",
+    "satellite": {
+      "heading": "卫星",
+      "dimensions": "尺寸：50 x 58 x 64 毫米",
+      "classification": "分类：1P PocketQube",
+      "weight": "重量：245克",
+      "materials": "材料：铝、金、玻璃纤维、电子元件",
+      "orbit": "轨道：高度 525 ± 25 公里；倾角：太阳同步轨道倾角 97.6 ± 0.1°",
+      "launch": "发射日期：2025年11月28日，由印度空间研究组织（ISRO）发射。"
+    },
+    "antenna": {
+      "heading": "天线/雕塑",
+      "dimensions": "尺寸：直径6米 x 高1.2米",
+      "weight": "重量：46公斤",
+      "materials": "材料：铝材、环氧树脂镜面板、金色铝制圆顶，通过脚手架结构悬挂"
+    },
+    "radio": {
+      "heading": "无线电技术规格",
+      "downlink": "下行链路：437 MHz",
+      "status": "发布状态：计划于2025年11月28日发布"
+    }
+  },
+  "additionalResources": {
+    "heading": "其他资源",
+    "artwork": "→ 查看艺术作品文档",
+    "howItWorks": "→ 工作原理",
+    "technicalInfo": "→ 技术信息",
+    "spaceLaunch": "→ 太空发射信息",
+    "ritual": "→ 体验仪式"
+  },
+  "imageAlts": {
+    "installation": "埃德森·帕沃尼设计的轨道神庙装置",
+    "satelliteDesign": "轨道神庙卫星设计",
+    "antenna": "轨道神庙天线雕塑",
+    "render": "RiseNY&Partners制作的轨道神庙3D渲染图",
+    "edsonPortrait": "埃德森·帕沃尼肖像",
+    "sathiPortrait": "萨蒂·罗伊肖像",
+    "lumenPrize": "流明奖",
+    "mercosulBienal": "南方共同市场双年展"
+  }
+}

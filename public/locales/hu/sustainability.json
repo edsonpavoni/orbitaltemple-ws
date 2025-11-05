@@ -1,0 +1,44 @@
+{
+  "title": "Fenntarthatóság és űrszemét - Orbitális Templom",
+  "heading": "Fenntarthatóság",
+  "intro": {
+    "paragraph1": "Ha a művészet a jövőbe akar vezetni minket, nem hagyhatja figyelmen kívül az előttünk álló válságokat – a környezeti összeomlást, a társadalmi egyenlőtlenségeket és az űrszemét egyre növekvő kihívását. Az Orbital Temple-t ezeket a realitásokat szem előtt tartva tervezték, és célja, hogy felelősségteljes jelenlét legyen mind a Földön, mind a Föld körüli pályán.",
+    "paragraph2": "Úgy gondoljuk, hogy a fenntarthatóság nem korlát, hanem művészi víziónk lényeges része. Minden, az anyagokkal, a pályákkal és a műveletekkel kapcsolatos döntésünk tükrözi elkötelezettségünket az iránt, hogy a Földet és az űrt is jobb állapotban hagyjuk magunk után, mint ahogyan találtuk."
+  },
+  "spaceDebris": {
+    "heading": "Űrhulladék",
+    "paragraph1": "Az űrszemét az űrkutatás egyik legsürgetőbb kihívása. Több ezer megszűnt műhold és töredék kering a Föld körül, veszélyeztetve az aktív küldetéseket, és olyan kaszkádhatást keltve, amely bizonyos pályákat használhatatlanná tehet.",
+    "paragraph2": "Az Orbital Temple többféleképpen is kezeli ezt:",
+    "list": {
+      "orbit": "<strong>Napszinkron pálya 525 km-en:</strong> Ez a magasság biztosítja, hogy a természetes légköri ellenállás miatt a műhold körülbelül 10 éven belül visszatérjen a Föld légkörébe, ahol teljesen elég. Nem járulunk hozzá a hosszú távú pályán lévő törmelékhez.",
+      "size": "<strong>PocketQube kialakítás:</strong> A mindössze 50 × 58 × 64 mm-es és 245 g-os műhold elég kicsi ahhoz, hogy a visszatérés során teljesen elpárologjon, így nem hagy törmeléket a Föld felszínén.",
+      "responsibility": "<strong>Nincs tervezett elavulás:</strong> A kereskedelmi műholdakkal ellentétben, amelyeket esetleg elhagynak, az Orbital Temple-t úgy tervezték, hogy természetes úton térjen le a pályáról, megfelelve a felelős űrtevékenységre vonatkozó nemzetközi irányelveknek."
+    },
+    "paragraph3": "Azzal, hogy alacsony Föld körüli pályát és kompakt kialakítást választunk, biztosítjuk, hogy az Orbital Templom jelenléte az űrben átmeneti és nem szennyező legyen."
+  },
+  "carbonNeutrality": {
+    "heading": "Szén-dioxid-semlegesség",
+    "content": "Az Orbital Temple küldetéssel kapcsolatos összes szén-dioxid-kibocsátást – beleértve a műholdak gyártását, a felbocsátást, a földi állomások üzemeltetését, a weboldalak üzemeltetését és a csapatok utazását – teljes mértékben ellensúlyozzuk ellenőrzött szén-dioxid-kibocsátási kvótaprogramokon keresztül. Elkötelezettek vagyunk amellett, hogy ezt a küldetést klímasemlegessé tegyük."
+  },
+  "openSource": {
+    "heading": "Nyílt forráskódú hardver",
+    "paragraph1": "A fenntarthatóság azt is jelenti, hogy nem pazaroljuk a tudást. Az Orbital Temple minden technikai aspektusa – a vázlatok, a kód, a kommunikációs protokollok és a konstrukciós módszerek – nyílt forráskódú dokumentációként fog megjelenni.",
+    "paragraph2": "Ez lehetővé teszi, hogy a jövőbeli küldetések a munkánkra építsenek, ahelyett, hogy a nulláról kezdenék, csökkentve a felesleges kutatást és fejlesztést. Demokratizálja az űrtechnológiához való hozzáférést, különösen a globális Dél közösségei számára, akiket történelmileg kizártak az űrkutatásból."
+  },
+  "educational": {
+    "heading": "Oktatási hatás",
+    "paragraph1": "Ingyenes többnyelvű oktatási programunk világszerte megtanítja a diákokat műholdak építésére és felbocsátására, különös tekintettel a globális Délre. Azzal, hogy űrtechnológiai készségekkel ruházzuk fel a következő generációt, hozzájárulunk az „űrszakadék” áthidalásához és olyan lehetőségek megteremtéséhez, amelyek egyébként nem léteznének.",
+    "paragraph2": "Ez az oktatási küldetés önmagában is a fenntarthatóság egyik formája – emberekbe és közösségekbe való befektetés, hogy a műhold élettartamán túl is tartós változást hozzon létre."
+  },
+  "tenYear": {
+    "heading": "Egy 10 éves küldetés",
+    "paragraph1": "Az Orbital Temple-t egy évtizedes küldetésre tervezték, nem egy rövid reklámfogásra. Tíz év alatt a műhold körülbelül 50 000-szer kerüli meg a Földet, nevet kap, és emlékeztetőül szolgál arra, hogy az űr lehet közös, mindenki számára hozzáférhető.",
+    "paragraph2": "Miután a küldetése befejeződik, a műhold természetes módon deszorul a pályájáról és elég, nyomtalanul, kivéve a résztvevők emlékeit és dokumentációját."
+  },
+  "artsResponsibility": {
+    "heading": "A művészet felelőssége",
+    "paragraph1": "A művészet mindig is korának tükre volt, tükrözve értékeinket és törekvéseinket. A klímaválság és a növekvő egyenlőtlenség korában hiszünk abban, hogy a művészek felelőssége olyan műveket létrehozni, amelyek nem csupán kommentálják ezeket a problémákat, hanem aktívan foglalkoznak is velük.",
+    "paragraph2": "Az Orbital Temple egy olyan műalkotás létrehozására tett kísérletünk, amely radikális a befogadó jellegében, felelősségteljes a környezeti hatásaiban, és nagylelkűen osztja meg tudását a világgal. Ez egy olyan művészet, amely mindenkit részvételre hív, miközben tiszteletben tartja a törékeny rendszereket – a környezetet és az orbitálist –, amelyek lehetővé teszik az életet és a felfedezést."
+  },
+  "imageAlt": "Orbitális Templom Műhold"
+}

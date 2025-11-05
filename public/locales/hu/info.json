@@ -1,0 +1,17 @@
+{
+  "title": "Műszaki információk - Orbitális templom",
+  "heading": "Műszaki információk",
+  "satellite": {
+    "heading": "Műhold",
+    "specs": "Méretek: 50x58x64 mm<br /> 1P PocketQube<br /> Súly: 245 gramm<br /> Anyagok: alumínium, arany, üvegszál és elektronikus alkatrészek.<br /> Pálya: Magasság 525 ± 25 km; dőlésszög: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Szobor",
+    "specs": "Méretek: 6 m (átmérő) és 1,2 m (magasság)<br /> Súly: 46 kg<br /> Anyagok: alumínium, epoxi tükrös lemez, állványzatra függesztett aranyozott alumínium kupola."
+  },
+  "radio": {
+    "heading": "NASA-katalógus rádió specifikációi:",
+    "specs": "Letöltési frekvencia: 437 MHz<br /> Felhívás: Állapot: 2025-RE TERVEZETT"
+  },
+  "imageAlt": "Műszaki információs ábra"
+}

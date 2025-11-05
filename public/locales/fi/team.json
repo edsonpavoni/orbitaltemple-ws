@@ -1,0 +1,61 @@
+{
+  "title": "Tiimi - Orbitaalitemppeli",
+  "heading": "Joukkue",
+  "artist": "Edson Pavoni, taiteilija",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Vastaava tuottaja",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Ilmailu- ja järjestelmätekniikka",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista ja João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektroniikkatekniikka",
+      "members": "André Biagioni, João Pedro Polito ja VK"
+    },
+    "software": {
+      "heading": "Ohjelmisto",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Suunnittelu ja arkkitehtuuri",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-tulostus",
+      "members": "Solid Concepts, Eduardo Diasin johdolla"
+    },
+    "rendering": {
+      "heading": "3D-renderöinti",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Tutkimus",
+      "members": "Roberta Savian Rosa ja Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Näyttelytuotanto, valokuvaus ja sisällöntuotanto",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Näyttelyn silkkiseulonta",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Koulutusprojekti",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Viestintätiimi",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Erityiskiitokset",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini ja Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Peti Vidigal, Andre Holzgal Fernandes, Bruna Cairo, Conceitos Solidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitaalisen temppelin satelliitti"
+}

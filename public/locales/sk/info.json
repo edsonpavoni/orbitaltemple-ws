@@ -1,0 +1,17 @@
+{
+  "title": "Technické informácie - Orbitálny chrám",
+  "heading": "Technické informácie",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Rozmery: 50x58x64 mm<br /> 1P PocketQube<br /> Hmotnosť: 245 g<br /> Materiály: hliník, zlato, sklolaminát a elektronické súčiastky.<br /> Obežná dráha: Nadmorská výška 525 ± 25 km; sklon: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Anténa/Socha",
+    "specs": "Rozmery: 6 m (priemer) a 1,2 m (výška)<br /> Hmotnosť: 46 kg<br /> Materiály: hliník, zrkadlová doska s epoxidovým povrchom, zlatá hliníková kupola zavesená cez lešenársku konštrukciu."
+  },
+  "radio": {
+    "heading": "Špecifikácie rádia NASA-Katalóg:",
+    "specs": "TBD Downlink: 437 MHz<br /> Výzva: Stav: HARMONOGRAM NA ROK 2025"
+  },
+  "imageAlt": "Schéma technických informácií"
+}

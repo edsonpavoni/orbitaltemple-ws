@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "ahogy belépsz\negy rituáléba,\nhogy nevet küldj\naz\nűrben lévő\norbitális templomba\nvegyél\negy lélegzetet",
+    "button": "Készen állok"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "írjon be egy nevet",
+    "subtitle": "az űrben lévő Orbitális Templomba fog emelkedni.",
+    "placeholder": "név",
+    "button": "hadd szálljon fel"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "írd be az e-mail címedet",
+    "subtitle": "így kapsz egy üzenetet, amikor a név felmerül.",
+    "placeholder": "az e-mail címed",
+    "button": "kész"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Terhelés"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "A(z)\n{{name}} név mostantól várakozik\na felemelkedésre.\nAmikor az\nűrben lévő templom\negy vonalba kerül a\nföldi antennánkkal,\nelküldjük\na nevet,\nés te kapsz\negy üzenetet."
   }
 }

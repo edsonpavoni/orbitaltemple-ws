@@ -1,0 +1,138 @@
+{
+  "title": "언론 및 미디어 - 오비탈 템플",
+  "heading": "언론 및 미디어",
+  "pressContact": {
+    "heading": "언론 연락처",
+    "content": "언론 문의, 인터뷰 및 미디어 요청:<br /> <strong>이메일:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>웹사이트:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "프로젝트 소개",
+    "paragraph1": "오비탈 템플(Orbital Temple)은 벽이 닿지 않는 곳에 세워진, 근본적으로 포용적인 사원을 목표로 하는 예술 작품이자 위성입니다. 코로나19 팬데믹 기간 동안 브라질 국민 6명 중 1명에게 이누메라베이스 추모비를 전달한 브라질 예술가 에드손 파보니가 제작한 이 프로젝트는 전 세계 사람들이 기억하고 싶은 사람의 이름을 보내도록 유도합니다. 보내진 이름은 궤도에 있는 위성으로 전송되어 공동 추모 공간을 형성합니다.",
+    "paragraph2": "246개 언어로 제공되는 웹사이트를 통해 참가자들은 새로운 종류의 의식에 참여합니다. 오비탈 템플은 포용, 기억, 그리고 우리의 공통된 인간성이라는 주제를 탐구하며, 지구상의 어떤 물리적 사원도 진정으로 모든 사람을 환영할 수 없는 이유에 의문을 제기하고, 급진적인 포용성이 존재할 수 있는 유일한 장소는 우주라고 제안합니다."
+  },
+  "aboutArtist": {
+    "heading": "아티스트 소개",
+    "paragraph1": "<strong>에드송 파보니</strong> 는 브라질 출신의 예술가로, 그의 여정은 상파울루 거리에서 시작되었습니다. 그의 유년 시절은 가난과 폭력으로 얼룩진 상파울루의 거리에서 시작되었습니다. 기독교가 거리, 마약, 폭력으로부터 벗어날 길을 제시했던 이 나라에서 파보니는 신앙에서 안식처를 찾았습니다. 이 주제는 그가 종교적 학대를 비판하는 비평가가 되었을 때 그의 예술적 실천에 영향을 미쳤습니다.",
+    "paragraph2": "2020년, 코로나19 팬데믹 기간 동안 파보니는 예술과 저널리즘이 만나는 지점에서 <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis(수많은)라는</a></strong> 작품을 제작했습니다. 이 프로젝트는 수천 명의 가족을 인터뷰하고 팬데믹으로 세상을 떠난 이들의 이야기를 기록하여 기억이 숫자와 통계를 초월하는 공간을 만들었습니다. 시, 노래, 교향곡이 그 이야기들로 만들어졌고, 신문들은 그들의 이름과 역사를 담은 표지를 제작했습니다. 오스카상 수상자 페르난다 토레스를 비롯한 모든 브라질 스타와 셀튼 멜루, 에바 윌마, 카밀라 피탕가, 데보라 세코, 타이스 아라우주, 라사로 라모스 등 수많은 스타들이 전국 방송에서 이 이야기들을 읽었습니다. 이 프로젝트는 브라질 성인 4명 중 1명인 3,200만 명에게 다가갔습니다. 이는 치유의 네트워크이자 기억을 위한 공동 기념물이 되었습니다.",
+    "paragraph3": "만 번이 넘는 슬픔과의 대화 끝에 하나의 패턴이 드러났습니다. 우리는 죽은 사람에 대해 이야기할 때, 마치 천국의 문지기에게 추천서를 쓰듯 그들의 이야기의 단편들을 골라냅니다. 우리는 그들을 우리가 천국이라고 믿는 곳으로 보내기 위해 최선을 다합니다. 이 작업은 새로운 깨달음을 불러일으켰습니다. 천국에 갈 자격이 있는 사람에 대한 우리의 믿음은 지구상에서 누구를 받아들이고 배제할지에 직접적인 영향을 미칩니다. 브라질의 포르투갈 식민지 개척자들은 흑인에게는 영혼이 없다고 믿었고, 그 믿음은 노예 제도를 정당화했습니다. 만약 당신이 원주민이거나, 잘못된 곳에서 태어났거나, 잘못된 사람을 사랑했다면, 오늘날까지도 천국의 문이 닫혔다는 말을 듣게 됩니다. 거부로 채워지지 않는 미래의 비전이 있을까요?",
+    "paragraph4": "그렇게 해서 오비탈 템플이 탄생했습니다."
+  },
+  "keyFacts": {
+    "heading": "주요 사실",
+    "artist": "<strong>아티스트:</strong> 에드손 파보니(브라질)",
+    "projectType": "<strong>프로젝트 유형:</strong> 위성 예술 작품, 우주에 대한 현장 특정, 웹 기반 의식",
+    "launchDate": "<strong>출시일:</strong> 2025년 11월 28일",
+    "launchLocation": "<strong>발사 장소:</strong> 인도, 스리하리코타, 사티시 다완 우주 센터(ISRO)",
+    "satellite": "<strong>위성:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>궤도:</strong> 고도 525km, 태양 동기 궤도",
+    "participation": "<strong>참여방법:</strong> 무료, 전 세계 누구나 참여 가능",
+    "namesSent": {
+      "heading": "<strong>궤도로 전송된 이름:</strong>",
+      "caption": "<em>데이터베이스에서 실시간 카운트가 업데이트되었습니다. • 마지막 새로 고침: {날짜}</em>"
+    }
+  },
+  "awards": {
+    "heading": "수상 및 인정",
+    "mercosul": {
+      "title": "<strong>제13회 메르코수르 비엔날레</strong> (2022)",
+      "location": "브라질, 포르투 알레그레",
+      "curator": "마르셀로 단타스가 큐레이팅했습니다."
+    },
+    "lumen": {
+      "title": "<strong>루멘상 2022 - 퓨처스 어워드</strong>",
+      "status": "긴 목록에 오른"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 공모전</strong>",
+      "award": "수상자 - ArtSat 부문",
+      "org": "브라질 우주 연구소(INPE)에서 홍보"
+    }
+  },
+  "team": {
+    "heading": "팀",
+    "content": "Orbital Temple은 Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace 및 이 사원의 이름을 계속 제안하는 모든 사람들."
+  },
+  "pressCoverage": {
+    "heading": "특집 / 언론 보도",
+    "paragraph1": "<em>보도자료와 특집 기사는 추후 추가될 예정입니다. 최신 정보는 보도팀에 문의해 주시기 바랍니다.</em>",
+    "paragraph2": "이전 전시 및 특집으로는 제13회 메르코술 비엔날레에서의 발표, 루멘상 수상, 브라질 우주 연구소(INPE) 선정 등이 있습니다."
+  },
+  "images": {
+    "heading": "보도자료용 고해상도 이미지",
+    "intro": "모든 이미지는 편집용으로 사용할 수 있습니다. 이미지를 클릭하시면 고해상도 파일을 다운로드하실 수 있습니다.",
+    "installationPhotos": {
+      "heading": "오비탈 사원 사진",
+      "credit": "출처: \"Clara Marques 제공 / Edson Pavoni, Orbital Temple 제공\"",
+      "view01": "설치 뷰 01<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (1.4MB)",
+      "view02": "설치 뷰 02<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (2.9MB)",
+      "view03": "설치 뷰 03<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (11MB)",
+      "view04": "설치 뷰 04<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (3.4MB)",
+      "view05": "설치 뷰 05<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (3.3MB)",
+      "view06": "설치 뷰 06<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (3.7MB)",
+      "view07": "설치 뷰 07<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (3.4MB)",
+      "view08": "설치 뷰 08<br /> 사진: 클라라 마르케스<br /> ↓ 고해상도 다운로드 (2.7MB)",
+      "satelliteDesign": "위성 설계<br /> ↓ 다운로드",
+      "antennaSculpture": "안테나/조각<br /> ↓ 다운로드"
+    },
+    "renders": {
+      "heading": "오비탈 사원 렌더링",
+      "credit": "오비탈 템플의 개념적 3D 렌더링입니다. 출처: \"3D 렌더링: RiseNY&Partners / Orbital Temple의 Edson Pavoni 제공\"",
+      "render01": "3D 렌더링 01<br /> 라이즈NY&amp;파트너스<br /> ↓ 고해상도 다운로드 (10MB)",
+      "render02": "3D 렌더링 02<br /> 라이즈NY&amp;파트너스<br /> ↓ 고해상도 다운로드 (5.9MB)",
+      "render03": "3D 렌더링 03<br /> 라이즈NY&amp;파트너스<br /> ↓ 고해상도 다운로드 (5.2MB)",
+      "render04": "3D 렌더링 04<br /> 라이즈NY&amp;파트너스<br /> ↓ 고해상도 다운로드 (11MB)",
+      "render05": "3D 렌더링 05<br /> 라이즈NY&amp;파트너스<br /> ↓ 고해상도 다운로드 (13MB)"
+    },
+    "artistPhotos": {
+      "heading": "아티스트 사진",
+      "photo1": "사진 1<br /> ↓ 고해상도 다운로드",
+      "photo2": "사진 2<br /> ↓ 고해상도 다운로드"
+    },
+    "sathiPhotos": {
+      "heading": "사티 로이 사진",
+      "photo1": "사진 1<br /> ↓ 고해상도 다운로드 (843KB)",
+      "photo2": "사진 2<br /> ↓ 고해상도 다운로드 (1.8MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "기술 사양",
+    "satellite": {
+      "heading": "위성",
+      "dimensions": "크기: 50 x 58 x 64mm",
+      "classification": "분류: 1P PocketQube",
+      "weight": "무게: 245g",
+      "materials": "재료: 알루미늄, 금, 유리섬유, 전자부품",
+      "orbit": "궤도: 고도 525 ± 25 km; 경사각: SSO 97.6 ± 0.1°",
+      "launch": "발사: 2025년 11월 28일, 인도 ISRO 경유"
+    },
+    "antenna": {
+      "heading": "안테나/조각",
+      "dimensions": "크기: 직경 6m x 높이 1.2m",
+      "weight": "체중: 46kg",
+      "materials": "재료: 알루미늄, 에폭시 거울판, 비계 구조를 통해 매달린 황금색 알루미늄 돔"
+    },
+    "radio": {
+      "heading": "라디오 사양",
+      "downlink": "다운링크: 437MHz",
+      "status": "발사 상태: 2025년 11월 28일 예정"
+    }
+  },
+  "additionalResources": {
+    "heading": "추가 자료",
+    "artwork": "→ 아트워크 문서 보기",
+    "howItWorks": "→ 작동 원리",
+    "technicalInfo": "→ 기술 정보",
+    "spaceLaunch": "→ 우주발사 정보",
+    "ritual": "→ 의식을 경험해보세요"
+  },
+  "imageAlts": {
+    "installation": "에드슨 파보니의 궤도 사원 설치",
+    "satelliteDesign": "궤도 사원 위성 설계",
+    "antenna": "궤도 사원 안테나 조각품",
+    "render": "RiseNY&Partners의 Orbital Temple 3D 렌더링",
+    "edsonPortrait": "에드슨 파보니 초상화",
+    "sathiPortrait": "사티 로이 초상화",
+    "lumenPrize": "루멘상",
+    "mercosulBienal": "메르코수르 비엔날레"
+  }
+}

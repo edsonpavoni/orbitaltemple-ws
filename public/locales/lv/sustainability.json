@@ -1,0 +1,44 @@
+{
+  "title": "Ilgtspējība un kosmosa atkritumi — Orbitālais templis",
+  "heading": "Ilgtspējība",
+  "intro": {
+    "paragraph1": "Ja mākslai ir jāvada mūs nākotnē, tā nevar ignorēt krīzes, ar kurām mēs saskaramies — vides sabrukumu, sociālo nevienlīdzību un pieaugošo kosmosa atkritumu problēmu. Orbitālais templis ir veidots, ņemot vērā šīs realitātes, cenšoties būt atbildīgai gan uz Zemes, gan orbītā.",
+    "paragraph2": "Mēs ticam, ka ilgtspējība nav ierobežojums, bet gan būtiska mūsu mākslinieciskās vīzijas sastāvdaļa. Katrs lēmums par materiāliem, orbītām un darbībām atspoguļo mūsu apņemšanos atstāt gan Zemi, gan kosmosu labākā stāvoklī, nekā mēs tos atradām."
+  },
+  "spaceDebris": {
+    "heading": "Kosmosa atkritumi",
+    "paragraph1": "Kosmosa atkritumi ir viena no aktuālākajām kosmosa izpētes problēmām. Ap Zemi riņķo tūkstošiem nedarbojošos satelītu un to fragmentu, apdraudot aktīvās misijas un radot kaskādes efektu, kas varētu padarīt noteiktas orbītas nelietojamas.",
+    "paragraph2": "Orbitālais templis to risina vairākos veidos:",
+    "list": {
+      "orbit": "<strong>Saules sinhronā orbīta 525 km augstumā:</strong> Šis augstums nodrošina, ka dabiskā atmosfēras pretestība liks satelītam atgriezties Zemes atmosfērā aptuveni 10 gadu laikā, kur tas pilnībā sadegs. Mēs neveicinām ilgtermiņa orbītas atlūzu veidošanos.",
+      "size": "<strong>PocketQube dizains:</strong> Ar izmēriem tikai 50 × 58 × 64 mm un svaru 245 g satelīts ir pietiekami mazs, lai atgriešanās laikā pilnībā iztvaikotu, neatstājot uz Zemes virsmas nekādus atlūzas.",
+      "responsibility": "<strong>Nav plānotas novecošanas:</strong> atšķirībā no komerciāliem satelītiem, kurus var pamest, Orbital Temple ir izstrādāts tā, lai tas dabiski atgrieztos orbītā, ievērojot starptautiskās vadlīnijas atbildīgai darbībai kosmosā."
+    },
+    "paragraph3": "Izvēloties zemu Zemes orbītu un kompaktu dizainu, mēs nodrošinām, ka Orbitālā tempļa klātbūtne kosmosā ir īslaicīga un nepiesārņo vidi."
+  },
+  "carbonNeutrality": {
+    "heading": "Oglekļa neitralitāte",
+    "content": "Visas ar Orbital Temple saistītās oglekļa emisijas, tostarp satelītu ražošana, palaišana, zemes staciju darbība, tīmekļa vietņu mitināšana un komandas ceļojumi, tiks pilnībā kompensētas, izmantojot verificētas oglekļa kredītu programmas. Mēs esam apņēmušies padarīt šo misiju klimatneitrālu."
+  },
+  "openSource": {
+    "heading": "Atvērtā pirmkoda aparatūra",
+    "paragraph1": "Ilgtspējība nozīmē arī zināšanu neizšķērdēšanu. Visi Orbital Temple tehniskie aspekti — shēmas, kods, komunikācijas protokoli un būvniecības metodes — tiks publicēti kā atvērtā pirmkoda dokumentācija.",
+    "paragraph2": "Tas ļauj turpmākajām misijām balstīties uz mūsu darbu, nevis sākt no nulles, tādējādi samazinot lieku pētniecību un izstrādi. Tas demokratizē piekļuvi kosmosa tehnoloģijām, jo īpaši kopienām Dienvidos, kuras vēsturiski ir bijušas izslēgtas no kosmosa izpētes."
+  },
+  "educational": {
+    "heading": "Izglītības ietekme",
+    "paragraph1": "Mūsu bezmaksas daudzvalodu izglītības programma māca studentiem visā pasaulē, kā būvēt un palaist satelītus, īpašu uzmanību pievēršot globālajiem dienvidiem. Nodrošinot nākamajai paaudzei kosmosa tehnoloģiju prasmes, mēs palīdzam novērst \"kosmosa plaisu\" un radīt iespējas, kas citādi nepastāvētu.",
+    "paragraph2": "Šī izglītojošā misija pati par sevi ir ilgtspējības veids — investīcijas cilvēkos un kopienās, lai radītu ilgstošas pārmaiņas arī pēc satelīta darbības laika beigām."
+  },
+  "tenYear": {
+    "heading": "10 gadu misija",
+    "paragraph1": "Orbitālais templis ir paredzēts desmit gadu ilgam misijas laikam, nevis īslaicīgam publicitātes trikam. Desmit gadu laikā satelīts aptuveni 50 000 reižu apriņķos Zemi, saņemot nosaukumus un kalpojot kā atgādinājums, ka kosmoss var būt kopīgs resurss, kas pieejams visiem.",
+    "paragraph2": "Pēc misijas beigām satelīts dabiski nokritīs no orbītas un sadegs, neatstājot nekādas pēdas, izņemot dalībnieku atmiņās un dokumentācijā."
+  },
+  "artsResponsibility": {
+    "heading": "Mākslas atbildība",
+    "paragraph1": "Māksla vienmēr ir bijusi sava laika spogulis, atspoguļojot mūsu vērtības un centienus. Klimata krīzes un pieaugošas nevienlīdzības laikmetā mēs uzskatām, ka māksliniekiem ir pienākums radīt darbus, kas ne tikai komentē šīs problēmas, bet arī aktīvi tās risina.",
+    "paragraph2": "“Orbitālais templis” ir mūsu mēģinājums radīt mākslas darbu, kas ir radikāls savā iekļautībā, atbildīgs savā ietekmē uz vidi un dāsns, daloties savās zināšanās ar pasauli. Tā ir māksla, kas aicina ikvienu piedalīties, vienlaikus respektējot trauslās sistēmas – vides un orbitālās –, kas padara dzīvību un izpēti iespējamu."
+  },
+  "imageAlt": "Orbitālā tempļa satelīts"
+}

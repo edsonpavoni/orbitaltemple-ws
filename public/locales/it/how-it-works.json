@@ -1,0 +1,8 @@
+{
+  "title": "Come funziona - Tempio Orbitale",
+  "heading": "Come funziona",
+  "intro": "Il progetto Orbital Temple è costituito da tre elementi interconnessi che lavorano insieme per inviare nomi al tempio nello spazio.",
+  "paragraph1": "Il satellite orbita attorno alla Terra a un'altitudine di circa 525 km, memorizzando i nomi. Le stazioni di terra comunicano con il satellite durante i suoi passaggi, trasmettendo i nomi inviati dagli utenti tramite il sito web.",
+  "paragraph2": "Quando invii un nome, questo verrà inserito in una coda e trasmesso al satellite durante il prossimo passaggio disponibile. Riceverai un'e-mail di conferma quando il tuo nome sarà stato caricato correttamente sull'Orbital Temple.",
+  "imageAlt": "Diagramma del sistema del tempio orbitale"
+}

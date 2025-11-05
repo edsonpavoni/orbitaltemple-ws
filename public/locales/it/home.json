@@ -1,7 +1,10 @@
 {
   "hero": {
-    "title": "Tempio Orbitale",
-    "subtitle": "è un'opera d'arte e un satellite,\ncon l'obiettivo di essere un tempio radicalmente inclusivo,\nin un luogo dove nessun muro può raggiungere."
+    "title": "Tempio orbitale",
+    "subtitle": "è un'opera d'arte e un satellite,\nche mira a essere un tempio radicale e inclusivo,\nin un luogo dove nessun muro può arrivare."
+  },
+  "ritual": {
+    "label": "rituale"
   },
   "cta": {
     "link": "Eppure, un altro tempio?",
@@ -9,8 +12,5 @@
   },
   "dome": {
     "alt": "Cupola"
-  },
-  "ritual": {
-    "label": "rituale"
   }
 }

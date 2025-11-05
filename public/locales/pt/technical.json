@@ -1,0 +1,17 @@
+{
+  "title": "Informações técnicas - Templo Orbital",
+  "heading": "Informações técnicas",
+  "satellite": {
+    "heading": "Satélite",
+    "specs": "Dimensões: 50x58x64 mm<br /> 1P PocketQube<br /> Peso: 245 g<br /> Materiais: alumínio, ouro, fibra de vidro e componentes eletrônicos.<br /> Órbita: Altitude 525 ± 25 km; inclinação: SSO 97,6 ± 0,1°<br /> Lançador: PSLV (Veículo de Lançamento de Satélites Polares) operado pela ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura",
+    "specs": "Dimensões: 6 m (diâmetro) e 1,2 m (altura)<br /> Peso: 46 kg<br /> Materiais: alumínio, placa espelhada de epóxi, cúpula de alumínio dourado suspensa por uma estrutura de andaimes."
+  },
+  "radio": {
+    "heading": "Especificações do rádio",
+    "specs": "Downlink: 468,5 MHz<br /> Modulação: CSS<br /> Largura de banda: a definir"
+  },
+  "imageAlt": "Satélite do Templo Orbital"
+}

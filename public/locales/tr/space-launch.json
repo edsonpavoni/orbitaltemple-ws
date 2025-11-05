@@ -1,0 +1,16 @@
+{
+  "title": "Uzay Fırlatması - Orbital Temple",
+  "heading": "Uzay Fırlatması",
+  "intro": "Orbital Temple'ın 28 Kasım 2025'te Hindistan'ın Sriharikota kentindeki Satish Dhawan Uzay Merkezi'nden bir PSLV (Polar Uydu Fırlatma Aracı) ile fırlatılması planlanıyor.",
+  "partnership": "Orbital Temple fırlatılışı, Hindistan Hükümeti Uzay Bakanlığı'na bağlı bir şirket olan NewSpace India Limited (NSIL), Antrix Corporation ve sanatçı arasındaki bir ortaklıktır. Bu iş birliği, uzay araştırmaları sanatı için önemli bir dönüm noktasını temsil ediyor ve Hindistan'ın uzay programını radikal kapsayıcılık içeren sanatsal bir vizyonla bir araya getiriyor.",
+  "risks": {
+    "heading": "Riskler",
+    "paragraph1": "Uydu, aşırı titreşim koşullarına ve termal döngülere dayanacak şekilde üretilmiş ve titiz testlerden geçmiştir. Ancak uzaya fırlatmaların kendine özgü riskleri vardır. Uydu fırlatma veya konuşlandırma sırasında hasar görürse veya yer istasyonlarımızla iletişim kuramazsa, sorunları gidermek ve çözmek için çalışırız. Uydu, görevin başarı şansını en üst düzeye çıkarmak için tasarlanmış yedek sistemlere ve yedekleme protokollerine sahiptir.",
+    "paragraph2": "Ayrıca, atmosferik koşullar veya diğer faktörler yörüngenin daha erken bozulmasına neden olursa, uydu yörüngede 10 yıldan daha az kalabilir. Uyduyu en az on yıl dayanacak şekilde tasarlamış olsak da, gerçek ömrü tamamen kontrol edemediğimiz koşullara bağlıdır.",
+    "paragraph3": "İlk fırlatma başarısız olursa veya bu görevi planlandığı gibi gerçekleştiremezsek, mevcut bütçeyle ikinci bir fırlatma girişimi, diğer görevlerle ortaklık veya girişimin sanat eserinin özlem ve sınırlamalarla ilgili anlatısının bir parçası olarak belgelenmesi gibi alternatif yolları araştıracağız."
+  },
+  "imageAlts": {
+    "india": "ISRO Uzay Merkezi, Hindistan",
+    "satellite": "Orbital Temple Uydusu"
+  }
+}

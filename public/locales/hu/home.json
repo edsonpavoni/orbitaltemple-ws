@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "Orbitális templom",
+    "subtitle": "egy műalkotás és egy műhold,\namelynek célja egy radikálisan befogadó templom létrehozása,\negy olyan helyen, ahová falak nem érnek el."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "szertartás"
+  },
+  "cta": {
+    "link": "Még egy templom?",
+    "arrowAlt": "nyíl"
+  },
+  "dome": {
+    "alt": "Kupola"
   }
 }

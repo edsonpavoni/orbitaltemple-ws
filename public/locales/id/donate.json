@@ -1,0 +1,31 @@
+{
+  "title": "Donasi ke Orbital Temple",
+  "heading": "Selesaikan Donasi Anda",
+  "donatingTo": "Anda berdonasi ke:",
+  "chooseHow": "Pilih bagaimana Anda ingin menyelesaikan donasi Anda yang dapat dikurangkan dari pajak:",
+  "option1": {
+    "heading": "Opsi 1: Donasi Online Sekarang",
+    "description": "Selesaikan donasi Anda segera menggunakan kartu kredit, kartu debit, atau metode pembayaran online lainnya melalui sponsor fiskal aman kami, <strong>The Field</strong> . Anda akan menerima tanda terima pajak instan.",
+    "button": "Donasi melalui The Field →"
+  },
+  "option2": {
+    "heading": "Opsi 2: Setoran Bank ke Yayasan Roy",
+    "description": "Lakukan setoran bank langsung atau transfer kawat ke <strong>The Roy Foundation</strong> , mitra strategis dan sponsor fiskal kami. Opsi ini ideal untuk donasi yang lebih besar atau transfer internasional.",
+    "bankingInfo": "Informasi Perbankan",
+    "fields": {
+      "accountName": "Nama Akun:",
+      "bankName": "Nama Bank:",
+      "accountNumber": "Nomor Rekening:",
+      "routingNumber": "Nomor Routing:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referensi:"
+    },
+    "instructions": "Harap cantumkan &quot; <strong>Orbital Temple - {donationType}</strong> &quot; di kolom referensi. Setelah menyelesaikan transfer, kirimkan email kepada kami di <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> dengan detail transfer Anda untuk menerima tanda terima pajak.",
+    "button": "Hubungi Kami Tentang Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Pemberian yang Dapat Dikurangi Pajak",
+    "description": "Orbital Temple adalah proyek yang disponsori secara fiskal oleh <strong>The Field (Performance Zone Inc.)</strong> , sebuah organisasi nirlaba <strong>501(c)(3)</strong> . Semua kontribusi di AS dapat dikurangkan dari pajak sesuai dengan ketentuan hukum.",
+    "questions": "Ada pertanyaan? Hubungi kami di <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

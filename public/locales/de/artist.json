@@ -1,0 +1,44 @@
+{
+  "title": "Vom Künstler",
+  "opening": {
+    "question": "Wer ist dieser Typ, der einen Tempel im Weltraum vorschlägt?",
+    "thanks": "Danke für die Frage.",
+    "answer": "Die kurze Antwort lautet: Ich bin Künstler. Die lange Antwort lautet:"
+  },
+  "origin": {
+    "sao_paulo": "Ich bin am Stadtrand von São Paulo geboren, in einem Viertel, das mir früh beibrachte, was Gefahr bedeutet. Viele meiner Schulfreunde sitzen jetzt im Gefängnis. Mein Stiefvater ist im Gefängnis. Gewalt war nichts, worüber ich las, sie war die Welt, in der ich mich zurechtfinden musste. Und ich wusste, ich musste hier weg.",
+    "technology": "Technologie wurde mein Ausweg. Schon als Teenager lernte ich programmieren und Elektronik. Code war eine Sprache, die mir neue Möglichkeiten eröffnete. Die Arbeit mit Technologie war mein Weg aus der Armut.",
+    "christianity": "Aber ich suchte auch nach Zugehörigkeit, nach Liebe, nach etwas, woran ich glauben konnte. Ich fand das Christentum, oder es fand mich. Ich wurde angenommen. Ich wurde geliebt. Ich fand eine Gemeinschaft. Ich lernte zu vergeben, zu glauben und gemeinsam für ein höheres Ziel einzutreten.",
+    "price": "Der Preis war allerdings hoch. Außerdem habe ich vieles gelernt, was ich immer noch verlerne. Also bin ich auch dem entkommen."
+  },
+  "searching": {
+    "walls": "Ich weiß, was Mauern bewirken. Ich habe sie gespürt. Ich war auf beiden Seiten: ausgeschlossen, eingeschlossen. Was folgte, waren Jahre der Suche nach etwas, das ich nicht benennen konnte. Gott starb in diesen Jahren. Der Gott, von dem ich gelernt hatte, jedenfalls der mit Regeln und Urteilen und Türen, die sich nur für manche Menschen öffneten.",
+    "art": "Ich begann Kunst zu machen, um diese Fragen zu erforschen: Fragen nach Intimität und Technologie, nach Erinnerung und Tod, danach, wer den Himmel verdient. Ich begann, Maschinen zu bauen, die unser Verhältnis zur Technologie neu definieren – Maschinen, die Ihre Mitwirkung, Ihre Anwesenheit, Ihren Namen benötigen, um sich von Metall und Code in etwas Lebendiges zu verwandeln."
+  },
+  "pandemic": {
+    "intro": "Dann brach in Brasilien die Pandemie aus.",
+    "government": "Als die COVID-Impfstoffe verzögert wurden, handelte meine Regierung Schmiergelder von einem Dollar pro Dosis aus. Sie bewarben Medikamente, von denen man wusste, dass sie unwirksam waren, und lachten, während Menschen an Atemnot starben. Jeden Tag sahen wir andere Zahlen. Wie viele Menschen starben in den letzten 24 Stunden? Waren es mehr oder weniger als erwartet?",
+    "war": "Die eine Hälfte der Welt hatte Angst, die andere Hälfte verleugnete die Realität. Wir befanden uns im Krieg – mit dem Virus und untereinander.",
+    "memorial": "Ich wollte Raum für kollektive Trauer schaffen und habe deshalb zusammen mit Hunderten von Menschen das Memorial Inumeráveis ins Leben gerufen – ein Kunstwerk an der Schnittstelle von Kunst und Journalismus. Wir interviewten Familien, die einen geliebten Menschen verloren hatten. Wir schrieben die Lebensgeschichten der Verstorbenen auf. Wir verwandelten Zahlen in Geschichten. Aus diesen Geschichten entstanden Gedichte, Lieder und Symphonien. Prominente lasen diese Geschichten im Fernsehen vor. Das Projekt erreichte Millionen von Menschen.",
+    "meaning": "Es kam nicht auf den Umfang an, sondern darauf, dass jede Geschichte ein Name, ein Leben, jemandes Himmel war."
+  },
+  "discovery": {
+    "pattern": "Nach über zehntausend Gesprächen mit Trauernden begann sich ein Muster abzuzeichnen. Wenn wir über einen Verstorbenen sprechen, sagen wir nicht nur Gutes; wir wählen Bruchstücke seiner Geschichte aus, als schrieben wir ein Empfehlungsschreiben. Eine Empfehlung an den Hüter des Paradieses. Wir tun unser Bestes, um ihn an einen Ort der Akzeptanz, der Ruhe, der Ehre und der Erinnerung zu geleiten.",
+    "understanding": "Und mir wurde etwas klar, das alles veränderte: Wir wurden von den Tempeln, die wir selbst errichtet haben, verletzt. Unsere Vorstellungen davon, wer in den Himmel kommt, prägen unmittelbar, wen wir auf Erden ausschließen. Die portugiesischen Kolonisatoren in Brasilien glaubten, Schwarze Menschen hätten keine Seele; dieser Glaube rechtfertigte die Sklaverei. Wenn man indigen war, wenn man am falschen Ort geboren wurde oder den falschen Menschen liebte, wurde einem gesagt, die Himmelspforten seien für einen verschlossen.",
+    "birth": "So entstand Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Kein Künstler kann wahrhaft säkular sein. Wir sind für immer mit unserem gemeinsamen Vorfahren, dem Schamanen, verbunden. Am Anfang war eine Höhle. Menschen malten Tiere an die Wände, nicht um zu schmücken, sondern um zu beschwören. Sie tanzten, und die Höhle wurde zum Tempel. Der Schamane verkörpert den Geist des Rituals; der Künstler die Aura der Kunst. Wir malen, wir formen, wir programmieren, wir gestalten unsere gewünschte Zukunft, nicht um zu schmücken, sondern um zu beschwören. Alle Kunst ist spirituell, selbst wenn sie das Gegenteil behauptet."
+  },
+  "space": {
+    "question": "Wo könnten wir einen Tempel ohne Mauern errichten? Wo keine Nation und keine Religion ihn für sich beanspruchen könnte. Wo wir uns als eine Gemeinschaft vorstellen könnten.",
+    "answer": "Raum.",
+    "description": "Ein partizipativer Kunstsatellit aus dem Globalen Süden. Ein Tempel im Orbit, der alle einlädt, ihren Namen ins All zu senden – unabhängig von Herkunft, Geschlecht, Glauben oder Identität. Ein Ort, an dem radikale Inklusion möglich ist, im Orbit, jenseits aller Grenzen.",
+    "mission": "Diese Mission ist Open Source. Sämtliche technische Dokumentationen und jede Codezeile werden frei zugänglich sein, damit andere Künstler, andere Gemeinschaften und andere Nationen ihre eigenen Satelliten bauen können. So beteiligt sich der Globale Süden nicht nur an der Weltraumforschung, sondern übernimmt eine führende Rolle."
+  },
+  "closing": {
+    "answer": "Wer ist denn dieser Typ, der einen Tempel im Weltraum bauen will? Ich baue ihn nicht. Der Tempel wird von jedem gebaut, der seinen Namen einreicht, ihn als heilig ansieht und ihn Wirklichkeit werden lässt. Ich bin nur derjenige, der den Vorschlag macht. Du bist derjenige, der ihn baut, wenn du dich dazu entschließt.",
+    "signature": "Freundlich,",
+    "name": "Edson Pavoni"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Lançamento Espacial - Templo Orbital",
+  "heading": "Lançamento espacial",
+  "intro": "O Templo Orbital está programado para ser lançado a bordo de um PSLV (Veículo Lançador de Satélites Polares) em 28 de novembro de 2025, a partir do Centro Espacial Satish Dhawan em Sriharikota, Índia.",
+  "partnership": "O lançamento do Templo Orbital é uma parceria entre a NewSpace India Limited (NSIL), uma empresa do governo indiano vinculada ao Departamento Espacial, a Antrix Corporation e o artista. Essa colaboração representa um marco significativo para a arte na exploração espacial, unindo o programa espacial da Índia a uma visão artística de inclusão radical.",
+  "risks": {
+    "heading": "Riscos",
+    "paragraph1": "O satélite foi construído para suportar condições extremas de vibração e ciclos térmicos, e passou por testes rigorosos. No entanto, os lançamentos espaciais acarretam riscos inerentes. Se o satélite for danificado durante o lançamento ou a implantação, ou se não conseguir estabelecer comunicação com nossas estações terrestres, trabalharemos para solucionar quaisquer problemas. O satélite possui sistemas redundantes e protocolos de backup projetados para maximizar as chances de sucesso da missão.",
+    "paragraph2": "Além disso, o satélite pode permanecer em órbita por menos de 10 anos se as condições atmosféricas ou outros fatores causarem uma deterioração orbital prematura. Embora o tenhamos projetado para durar pelo menos uma década, a vida útil real depende de condições que não podemos controlar totalmente.",
+    "paragraph3": "Caso o primeiro lançamento falhe, ou se não conseguirmos cumprir esta missão conforme planejado, exploraremos caminhos alternativos, incluindo potencialmente uma segunda tentativa de lançamento com o orçamento disponível, parceria com outras missões ou documentação da tentativa como parte da narrativa da obra de arte sobre aspiração e limitação."
+  },
+  "imageAlts": {
+    "india": "Centro Espacial ISRO, Índia",
+    "satellite": "Satélite do Templo Orbital"
+  }
+}

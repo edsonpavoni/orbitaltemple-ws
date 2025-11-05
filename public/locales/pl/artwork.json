@@ -1,0 +1,31 @@
+{
+  "title": "Dzieło sztuki - Świątynia Orbitalna",
+  "heading": "Dzieło sztuki",
+  "intro": {
+    "paragraph1": "Orbital Temple to satelita z misją artystyczną: pomnik w przestrzeni kosmicznej, dostępny dla każdej rozumnej istoty, która żyje lub żyła na Ziemi.",
+    "paragraph2": "Dzięki technologiom każdy może przesłać imię innej osoby do Świątyni – może to być osoba zmarła, osoba żywa lub jakakolwiek istota zasługująca na pamięć."
+  },
+  "sculpture": {
+    "heading": "Rzeźba",
+    "paragraph1": "Dzieło sztuki składa się z trzech współzależnych elementów: satelity zaprojektowanego specjalnie do przechowywania miliardów imion; rzeźby publicznej wymieniającej informacje z satelitą; oraz witryny internetowej, za pośrednictwem której uczestnicy przesyłają imiona do nieba, od teraz aż do śmierci.",
+    "paragraph2": "Jako przedsięwzięcie multidyscyplinarne, Orbital Temple można uznać za rzeźbę site-specific, zamieszkującą przestrzeń. Jest to również projekt Artsat."
+  },
+  "antenna": {
+    "heading": "Antena jako rzeźba publiczna",
+    "paragraph1": "Antena łącząca nas z przestrzenią kosmiczną.",
+    "paragraph2": "Zaprojektowano antenę, która będzie bezpośrednio komunikować się z satelitą orbitalnym.",
+    "paragraph3": "Złota, odblaskowa powierzchnia, odbijająca niebo nad nią, stanowi punkt wyjścia do masowej stymulacji (lub naszego stosunku do tego, co jest „tam na górze”).",
+    "paragraph4": "Choć rzeźby nie są instalowane w większości miejsc na świecie, nasze Ramki z Ziemi, które obecnie kontrolują satelitę, wysyłają nazwy przy każdym przejściu.",
+    "paragraph5": "Pomóż nam wcielić tę wizję w życie w Twoim mieście – instalując rzeźby antenowe, które inspirują do rozmów o eksploracji kosmosu, sztuce i naszym wspólnym miejscu w kosmosie. <a href=\"/support\">Dowiedz się więcej o wsparciu projektu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satelita Orbital Temple",
+    "riseNy": "Świątynia Orbitalna w Rise NY",
+    "installation": "Świątynia Orbitalna autorstwa Clary Marques",
+    "antenna": "Antena Orbital Temple"
+  },
+  "imageCaptions": {
+    "riseNy": "Świątynia Orbitalna w kosmosie. Wizualizacja 3D autorstwa RiseNY&Partners.",
+    "mercosul": "Instalacja Orbital Temple na Biennale Mercosul w Porto Alegre w Brazylii.<br> Zdjęcie autorstwa Clary Marques."
+  }
+}

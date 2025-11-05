@@ -1,0 +1,17 @@
+{
+  "title": "Technical Info - Orbital Temple",
+  "heading": "Technical Info",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Dimensions: 50x58x64 mm<br />1P PocketQube<br />Weight: 245 gr<br />Materials: aluminum, gold, fiberglass, and electronic components.<br />Orbit: Altitude 525 ± 25 km; inclination: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Sculpture",
+    "specs": "Dimensions: 6 m (diameter) e 1.2m (height)<br />Weight: 46 kg<br />Materials: aluminum, epoxy mirrored board, golden aluminum dome suspended through a scaffolding structure."
+  },
+  "radio": {
+    "heading": "Radio Specs NASA-Catalog:",
+    "specs": "TBD Downlink: 437 MHz<br />Call: Status: SCHEDULE FOR 2025"
+  },
+  "imageAlt": "Technical Info Diagram"
+}

@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbitaler Tempel",
-    "subtitle": "ist ein Kunstwerk und ein Satellit,\nmit dem Ziel, ein radikal inklusiver Tempel zu sein,\nan einem Ort, den keine Mauer erreichen kann."
+    "title": "Orbitaltempel",
+    "subtitle": "ist ein Kunstwerk und ein Satellit,\ndas ein radikal inklusiver Tempel sein will,\nan einem Ort, den keine Mauer erreichen kann."
+  },
+  "ritual": {
+    "label": "Ritual"
   },
   "cta": {
-    "link": "Noch ein Tempel?",
+    "link": "Und noch ein Tempel?",
     "arrowAlt": "Pfeil"
   },
   "dome": {
     "alt": "Kuppel"
-  },
-  "ritual": {
-    "label": "Ritual"
   }
 }

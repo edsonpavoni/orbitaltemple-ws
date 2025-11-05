@@ -1,0 +1,16 @@
+{
+  "title": "Weltraumstart – Orbitaltempel",
+  "heading": "Weltraumstart",
+  "intro": "Der Start des Orbitaltempels ist für den 28. November 2025 an Bord einer PSLV (Polar Satellite Launch Vehicle) vom Satish Dhawan Space Centre in Sriharikota, Indien, geplant.",
+  "partnership": "Das Projekt „Orbital Temple“ ist eine Kooperation zwischen NewSpace India Limited (NSIL), einem Unternehmen der indischen Regierung unter dem Dach des Raumfahrtministeriums, der Antrix Corporation und dem Künstler. Diese Zusammenarbeit stellt einen bedeutenden Meilenstein für die Kunst in der Weltraumforschung dar und verbindet Indiens Raumfahrtprogramm mit einer künstlerischen Vision radikaler Inklusivität.",
+  "risks": {
+    "heading": "Risiken",
+    "paragraph1": "Der Satellit wurde für extreme Vibrationen und Temperaturschwankungen ausgelegt und umfangreichen Tests unterzogen. Dennoch bergen Weltraumstarts Risiken. Sollte der Satellit beim Start oder der Aussetzung beschädigt werden oder die Kommunikation mit unseren Bodenstationen abbrechen, werden wir die Probleme umgehend beheben. Der Satellit verfügt über redundante Systeme und Backup-Protokolle, um die Erfolgswahrscheinlichkeit der Mission zu maximieren.",
+    "paragraph2": "Darüber hinaus kann der Satellit weniger als 10 Jahre im Orbit verbleiben, wenn atmosphärische Bedingungen oder andere Faktoren einen vorzeitigen Bahnverfall verursachen. Obwohl wir ihn für eine Lebensdauer von mindestens zehn Jahren ausgelegt haben, hängt die tatsächliche Lebensdauer von Bedingungen ab, die wir nicht vollständig kontrollieren können.",
+    "paragraph3": "Sollte der erste Start fehlschlagen oder wir diese Mission nicht wie geplant durchführen können, werden wir alternative Wege erkunden, darunter möglicherweise einen zweiten Startversuch mit verfügbaren Mitteln, eine Partnerschaft mit anderen Missionen oder die Dokumentation des Versuchs als Teil der künstlerischen Erzählung über Bestrebungen und Grenzen."
+  },
+  "imageAlts": {
+    "india": "ISRO-Raumfahrtzentrum, Indien",
+    "satellite": "Orbitaler Tempelsatellit"
+  }
+}

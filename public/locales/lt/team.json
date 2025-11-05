@@ -1,0 +1,61 @@
+{
+  "title": "Komanda - Orbitinė šventykla",
+  "heading": "Komanda",
+  "artist": "Edsonas Pavoni, menininkas",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Vykdomasis prodiuseris",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aviacijos ir kosmoso sistemų inžinerija",
+      "members": "Pedro Kaledas, João Pedro Polito, Victoras Baptista ir João Victoras Alvesas"
+    },
+    "electronic": {
+      "heading": "Elektronikos inžinerija",
+      "members": "André Biagioni, João Pedro Polito ir VK"
+    },
+    "software": {
+      "heading": "Programinė įranga",
+      "members": "Jonathanas Cherubina"
+    },
+    "design": {
+      "heading": "Dizainas ir architektūra",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D spausdinimas",
+      "members": "„Solid Concepts“, vadovaujama Eduardo Diaso"
+    },
+    "rendering": {
+      "heading": "3D vaizdavimas",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Tyrimai",
+      "members": "Roberta Savian Rosa ir Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Parodų gamyba, fotografija ir turinio kūrimas",
+      "members": "Klara Markes"
+    },
+    "silkScreen": {
+      "heading": "Parodos šilkografija",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Edukacinis projektas",
+      "members": "Idėjų erdvė"
+    },
+    "communication": {
+      "heading": "Komunikacijos komanda",
+      "members": "Flavio Vidigalas, Andre Holzmeisteris, Pedro Vidigalas, Tatiane Putti, Rafaelis Fernandesas, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Ypatinga padėka",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini ir Leigh Pennington"
+    }
+  },
+  "credits": "Edsonas Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Peadro Vidigal, Andre Holzgal. Fernandes, Bruna Cairo, Conceitos Solidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitinės šventyklos palydovas"
+}

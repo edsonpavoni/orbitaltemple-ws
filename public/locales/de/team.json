@@ -1,0 +1,61 @@
+{
+  "title": "Team – Orbitaler Tempel",
+  "heading": "Team",
+  "artist": "Edson Pavoni, Künstler",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Ausführender Produzent",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Luft- und Raumfahrttechnik",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista und João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronikentwicklung",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Design und Architektur",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-Druck",
+      "members": "Solid Concepts, unter der Leitung von Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D-Rendering",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Forschung",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Ausstellungsproduktion, Fotografie & Content-Erstellung",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Siebdruck der Ausstellung",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Bildungsprojekt",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Kommunikationsteam",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Besonderer Dank",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini und Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitaler Tempelsatellit"
+}

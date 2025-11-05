@@ -1,0 +1,43 @@
+{
+  "title": "Bildung & Open Source – Orbital Temple",
+  "heading": "Bildung & Open Source",
+  "intro": {
+    "paragraph1": "Alle für die Orbital Temple-Mission entwickelten Technologien werden <strong>als Open Source</strong> online in <strong>Portugiesisch</strong> , <strong>Englisch</strong> , <strong>Spanisch</strong> und <strong>Hindi</strong> verfügbar sein und so die Weltraumforschung im <strong>globalen Süden</strong> fördern. Neue Missionen und Projekte können Orbital Temple als Grundlage für ihre eigenen künstlerischen oder wissenschaftlichen Experimente nutzen.",
+    "paragraph2": "Im Rahmen seiner Bildungsarbeit bietet Orbital Temple einen kostenlosen, mehrsprachigen Kurs zum Bau und Start von Satelliten an. Die Teilnehmer haben die Möglichkeit, Satellitentechnologie praxisnah kennenzulernen und anzuwenden. Jeder ab <strong>16</strong> Jahren kann seinen eigenen Satelliten bauen und dabei Wissenswertes über die Geschichte der Kunst im Weltraum, Grundlagen der Elektronik, Mechanik und Weltraumforschung erfahren. Außerdem lernen sie, wie man Projekte finanziert und eine Antenne zur Kommunikation mit Satelliten im Orbit baut."
+  },
+  "spaceGap": {
+    "heading": "Warum das wichtig ist: Die Weltraumlücke",
+    "paragraph1": "Der Begriff <strong>„Weltraumlücke“</strong> bezeichnet die Kluft zwischen Industrienationen, die Zugang zu den technologischen Möglichkeiten der Weltraumforschung haben, und Entwicklungsländern, denen dieser Zugang fehlt. Länder des Globalen Südens müssen erhebliche Summen an ausländische Regierungen oder Unternehmen zahlen, um überhaupt Zugang zu den von Satellitentechnologien erzeugten Informationen zu erhalten.",
+    "paragraph2": "Die Weltraumtechnologie bietet entscheidende Vorteile: Satelliten helfen im Kampf gegen illegalen Holzeinschlag, illegale Fischerei und illegalen Wildtierhandel, die <strong>jährlich Kosten von über 73 Milliarden US-Dollar</strong> verursachen. Sie liefern wichtige Informationen über Klima, Wasserproduktion und Ernährungssicherheit. Satelliten ermöglichen präzise Bewässerung und optimierte Anbaumethoden und tragen zur Verhinderung von Naturkatastrophen bei. Die Raumfahrtindustrie könnte bis <strong>2030</strong> bis zu <strong>einer Million Arbeitsplätze</strong> schaffen, doch diese Chancen bleiben für viele Menschen im globalen Süden unerreichbar.",
+    "paragraph3": "Mit der Bereitstellung von Open-Source-Technologie und -Bildung wollen wir den Zugang zum Weltraum demokratisieren und eine neue Generation befähigen, von Träumen jenseits des Himmels zu träumen."
+  },
+  "empowering": {
+    "heading": "Die nächste Generation stärken",
+    "intro": "Wir werden der nächsten Generation von Weltraumforschern beibringen, wie man eigene Satelliten baut und startet, und dabei wichtige Themen wie die folgenden behandeln:",
+    "topics": {
+      "history": "<strong>Kunstgeschichte im Weltraum:</strong> Die Entwicklung künstlerischer Satelliten und weltraumbasierter Kunstwerke verstehen.",
+      "concepts": "<strong>Kernkonzepte:</strong> <strong>ArtSat</strong> (künstlerische Satelliten), <strong>Open-Source</strong> -Weltraumtechnologie und die <strong>Weltraumlücke</strong> .",
+      "missions": "<strong>Weltraummissionen:</strong> Wie man eine Mission konzipiert und gestaltet und wie man ein Team für deren Durchführung zusammenstellt.",
+      "electronics": "<strong>Elektronik im Weltraum:</strong> Grundlegende Konzepte elektronischer Bauteile, die in der Weltraumumgebung überleben und funktionieren können.",
+      "mechanics": "<strong>Mechanik im Weltraum:</strong> Die strukturellen und mechanischen Anforderungen an die Satellitenkonstruktion verstehen.",
+      "orbits": "<strong>Umlaufbahnen und Trägerraketen:</strong> Verschiedene Arten von Umlaufbahnen und wie Sie die passenden Trägerraketen für Ihre Mission auswählen.",
+      "financing": "<strong>Finanzierungsstrategien:</strong> Wie Sie die Finanzierung und Ressourcen für Ihren Satellitenstart sichern. Der Kurs bietet Ihnen Hilfestellung bei der Suche nach Fördermitteln für Ihren Start und unterstützt Sie dabei, Programme und Stipendien internationaler Institutionen zu finden, die junge Wissenschaftler und Studierende bei ihren Satellitenprojekten im Weltraum fördern.",
+      "groundStation": "<strong>Entwicklung einer Bodenstation:</strong> Wie man eine Antenne baut, um mit dem Orbitaltempel und anderen Satelliten zu kommunizieren."
+    }
+  },
+  "technology": {
+    "heading": "Die Technologie: PocketQube-Satelliten",
+    "paragraph1": "Die Studierenden lernen den Umgang mit <strong>PocketQube-</strong> Satelliten, einem Nanosatellitenstandard mit einem Volumen von nur <strong>5 cm³</strong> und einem Gewicht von bis zu <strong>250 g</strong> . Trotz ihrer geringen Größe sind PocketQubes leistungsstarke Instrumente, die Erdbeobachtung, Überwachung und Kommunikation ermöglichen.",
+    "paragraph2": "Diese kompakten Satelliten bieten zahlreiche praktische Anwendungsmöglichkeiten, von der wissenschaftlichen Klimaforschung bis hin zur interkontinentalen Kommunikation. Da sie kleiner und leichter sind, sind sie kostengünstiger in der Herstellung und im Start und machen den Weltraum so für Studierende, Forschende und Künstler weltweit zugänglicher."
+  },
+  "globalAccess": {
+    "heading": "Globaler Zugang, beginnend im globalen Süden",
+    "paragraph1": "Der Kurs steht allen <strong>ab 16 Jahren</strong> <strong>kostenlos</strong> zur Verfügung. Wir beginnen mit Inhalten in <strong>Portugiesisch</strong> , <strong>Spanisch</strong> , <strong>Englisch</strong> und <strong>Hindi</strong> und planen, das Angebot im Zuge des Programmwachstums auf weitere Sprachen auszuweiten.",
+    "paragraph2": "Unsere Mission beginnt im globalen Süden und erstreckt sich auf die ganze Welt, um sicherzustellen, dass die nächste Generation von Weltraumforschern aus allen Teilen der Erde kommt."
+  },
+  "callToAction": {
+    "heading": "Helfen Sie uns, dies zu verwirklichen.",
+    "content": "Dieses Bildungsprogramm befindet sich derzeit in der Entwicklung. Wir suchen Partner und Förderer, die unsere Vision eines demokratisierten Zugangs zur Weltraumtechnologie teilen. Wenn Sie oder Ihre Organisation diese Initiative unterstützen möchten, besuchen Sie bitte unsere <a href=\"/support\">Förderseite</a> , um mehr über Partnerschaftsmöglichkeiten zu erfahren."
+  },
+  "imageAlt": "Orbitaler Tempelsatellit"
+}

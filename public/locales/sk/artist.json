@@ -1,0 +1,44 @@
+{
+  "title": "Od umelca",
+  "opening": {
+    "question": "Kto je tento chlap, že navrhuje chrám vo vesmíre?",
+    "thanks": "Ďakujem za otázku.",
+    "answer": "Stručná odpoveď je, že som umelec. Dlhá odpoveď je táto:"
+  },
+  "origin": {
+    "sao_paulo": "Narodil som sa na okraji São Paula, v štvrti, ktorá ma už skoro naučila, čo znamená nebezpečenstvo. Mnoho mojich spolužiakov je teraz vo väzení. Môj nevlastný otec je vo väzení. O násilí som nečítal, bol to svet, v ktorom som sa musel orientovať. A vedel som, že z neho potrebujem utiecť.",
+    "technology": "Technológia sa stala mojou cestou von. Naučil som sa programovať, ako tínedžer som sa učil elektroniku. Kód bol jazyk, ktorý ma mohol niekam dostať. Práca s technológiami bola mojím únikom z chudoby.",
+    "christianity": "Ale hľadala som aj pocit spolupatričnosti, lásku, niečo, v čo by som mohla veriť. Našla som kresťanstvo, alebo aspoň ono našlo mňa. Bola som prijatá. Bola som milovaná. Mala som komunitu. Naučila som sa odpúšťať, veriť, kráčať spolu pre vyšší cieľ.",
+    "price": "Cena však bola vysoká. Naučil som sa aj veľa vecí, ktoré sa stále odnaučujem. Takže som sa aj od toho vyhol."
+  },
+  "searching": {
+    "walls": "Viem, čo robia múry. Cítil som ich. Bol som na oboch stranách: držaný vonku, držaný vnútri. Nasledovali roky hľadania niečoho, čo som nevedel pomenovať. Boh zomrel počas tých rokov. Aspoň ten boh, o ktorom ma učili, ten s pravidlami, súdom a dverami, ktoré sa otvárali len pre niektorých ľudí.",
+    "art": "Začal som tvoriť umenie, aby som preskúmal tieto otázky: o intimite a technológii, o pamäti a smrti, o tom, kto si zaslúži nebo. Začal som stavať stroje, ktoré nanovo predstavujú náš vzťah s technológiou, stroje, ktoré potrebujú vašu účasť, vašu prítomnosť, vaše meno, aby sa premenili z kovu a kódu na niečo živé."
+  },
+  "pandemic": {
+    "intro": "Potom pandémia zasiahla Brazíliu.",
+    "government": "Keď sa očkovanie proti COVIDu oneskorilo, moja vláda vyjednávala o províziách vo výške jedného dolára za dávku. Propagovali lieky, ktoré boli považované za neúčinné, smiali sa, zatiaľ čo ľudia umierali s ťažkosťami pri dýchaní. Každý deň sme sa zobúdzali s iným číslom. Koľko ľudí zomrelo za posledných 24 hodín? Bolo to viac alebo menej, ako sa očakávalo?",
+    "war": "Polovica sveta sa bála a ďalšia polovica to popierala. Boli sme vo vojne, s vírusom aj medzi sebou navzájom.",
+    "memorial": "Chcel som vytvoriť priestor pre kolektívny smútok, a tak som spolu so stovkami ľudí vytvoril Memorial Inumeráveis. Umelecké dielo na priesečníku umenia a žurnalistiky. Robili sme rozhovory s rodinami, ktoré niekoho stratili. Napísali sme životný príbeh osoby, ktorú stratili. Premenili sme čísla na dejiny. Z týchto dejín vznikli básne, piesne, symfónie. Hviezdy čítali tieto príbehy v národnej televízii. Projekt oslovil milióny ľudí.",
+    "meaning": "Nezáležalo na rozsahu, ale na tom, že každý príbeh bol menom, životom, niečím nebom."
+  },
+  "discovery": {
+    "pattern": "Po viac ako desiatich tisícoch rozhovorov so smútkom sa začal objavovať vzorec. Keď hovoríme o niekom, kto zomrel, nehovoríme len dobré veci; vyberáme si úryvky z jeho príbehu, akoby sme písali odporúčací list. Odporúčanie strážcovi raja. Snažíme sa ho čo najlepšie poslať na miesto prijatia, odpočinku, úcty a spomienky.",
+    "understanding": "A pochopil som niečo, čo všetko zmenilo: Boli sme zranení samotnými chrámami, ktoré sme postavili. Naše presvedčenie o tom, kto si zaslúži nebo, priamo formuje, koho na Zemi vylučujeme. Portugalskí kolonizátori v Brazílii verili, že černosi nemajú dušu; táto viera ospravedlňovala otroctvo. Ak ste boli domorodý obyvateľ, ak ste sa narodili na nesprávnom mieste alebo milovali nesprávnu osobu, bolo vám povedané, že dvere do neba sú pre vás zatvorené.",
+    "birth": "Takto sa zrodil Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Žiadny umelec nemôže byť skutočne sekulárny. Sme navždy spojení s naším spoločným predkom, šamanom. Na počiatku bola jaskyňa. Ľudia maľovali zvieratá na steny nie na zdobenie, ale na privolanie. Tancovali a jaskyňa sa stala chrámom. Šaman ovláda ducha rituálu; umelec ovláda auru umenia. Maľujeme, socháme, kódujeme, navrhujeme si vytúženú budúcnosť nie na zdobenie, ale na privolanie. Všetko umenie je duchovné, aj keď tvrdí, že ním nie je."
+  },
+  "space": {
+    "question": "Kde by sme mohli postaviť chrám bez múrov? Kde by si žiadny národ ani náboženstvo nemohol nárokovať. Kde by sme si mohli predstaviť, že sme jedna skupina.",
+    "answer": "Priestor.",
+    "description": "Participatívny umelecký satelit z globálneho Juhu. Chrám na obežnej dráhe, ktorý pozýva každého, aby poslal svoje mená do vesmíru, bez ohľadu na to, kto je, kde sa narodil, koho miluje, čomu verí. Miesto, kde je možná radikálna inklúzia, na obežnej dráhe, za hranicami.",
+    "mission": "Táto misia je s otvoreným zdrojovým kódom. Každý technický dokument, každý riadok kódu bude voľne dostupný, aby si iní umelci, iné komunity, iné národy mohli postaviť vlastné satelity. Globálny Juh sa teda nielen podieľa na prieskume vesmíru, ale ho aj vedie."
+  },
+  "closing": {
+    "answer": "Tak kto je tento chlap, aby postavil chrám vo vesmíre? Ja ho nestaviam. Chrám stavia každý, kto sa rozhodne poslať meno, vnímať ho ako posvätný, urobiť ho skutočným. Ja som len ten, kto navrhuje. Ty si ten, kto ho postaví, ak sa tak rozhodneš.",
+    "signature": "Láskavo,",
+    "name": "Edson Pavoni"
+  }
+}

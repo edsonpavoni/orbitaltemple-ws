@@ -1,0 +1,16 @@
+{
+  "title": "Wystrzelenie w kosmos - Orbital Temple",
+  "heading": "Wystrzelenie w kosmos",
+  "intro": "Start misji Orbital Temple zaplanowano na 28 listopada 2025 roku z ośrodka kosmicznego Satish Dhawan w Sriharikota w Indiach, a rakieta nośna PSLV (Polar Satellite Launch Vehicle) ma zostać wystrzelona w kosmos 28 listopada 2025 roku.",
+  "partnership": "Start Orbital Temple jest efektem partnerstwa między NewSpace India Limited (NSIL), spółką rządową Indii podlegającą Departamentowi Kosmicznemu, Antrix Corporation, a artystą. Ta współpraca stanowi ważny kamień milowy dla sztuki w eksploracji kosmosu, łącząc indyjski program kosmiczny z artystyczną wizją radykalnej inkluzywności.",
+  "risks": {
+    "heading": "Ryzyka",
+    "paragraph1": "Satelita został zaprojektowany tak, aby wytrzymać ekstremalne warunki wibracji i cykle termiczne, i przeszedł rygorystyczne testy. Jednak starty w kosmos wiążą się z nieodłącznym ryzykiem. Jeśli satelita ulegnie uszkodzeniu podczas startu lub rozmieszczania, albo nie nawiąże komunikacji z naszymi stacjami naziemnymi, podejmiemy działania w celu rozwiązania wszelkich problemów. Satelita posiada redundantne systemy i protokoły zapasowe zaprojektowane w celu maksymalizacji szans na powodzenie misji.",
+    "paragraph2": "Co więcej, satelita może pozostać na orbicie krócej niż 10 lat, jeśli warunki atmosferyczne lub inne czynniki spowodują wcześniejszy rozpad orbity. Chociaż zaprojektowaliśmy go tak, aby przetrwał co najmniej dekadę, rzeczywisty czas życia zależy od warunków, na które nie mamy pełnej kontroli.",
+    "paragraph3": "Jeśli pierwszy start się nie powiedzie lub jeśli nie uda nam się zrealizować misji zgodnie z planem, rozważymy alternatywne rozwiązania, w tym potencjalnie drugą próbę startu w ramach dostępnego budżetu, współpracę z innymi misjami lub dokumentację próby jako część narracji dzieła sztuki o aspiracjach i ograniczeniach."
+  },
+  "imageAlts": {
+    "india": "Centrum Kosmiczne ISRO, Indie",
+    "satellite": "Satelita Orbital Temple"
+  }
+}

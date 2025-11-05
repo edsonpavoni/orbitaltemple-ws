@@ -1,0 +1,8 @@
+{
+  "title": "Kako deluje - Orbitalni tempelj",
+  "heading": "Kako deluje",
+  "intro": "Projekt Orbitalni tempelj je sestavljen iz treh medsebojno povezanih elementov, ki skupaj pošiljajo imena templju v vesolju.",
+  "paragraph1": "Satelit kroži okoli Zemlje na višini približno 525 km in shranjuje imena v svojem pomnilniku. Zemeljske postaje komunicirajo s satelitom med njegovimi preleti in prenašajo imena, ki so jih ljudje vnesli prek spletne strani.",
+  "paragraph2": "Ko oddate ime, se to pridruži čakalni vrsti in bo posredovano satelitu med naslednjim razpoložljivim prehodom. Ko bo vaše ime uspešno naloženo v Orbitalni tempelj, boste prejeli potrditveno e-pošto.",
+  "imageAlt": "Diagram orbitalnega templja"
+}
