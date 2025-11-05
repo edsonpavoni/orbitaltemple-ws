@@ -1,0 +1,17 @@
+{
+  "title": "Tekniset tiedot - Orbital Temple",
+  "heading": "Tekniset tiedot",
+  "satellite": {
+    "heading": "Satelliitti",
+    "specs": "Mitat: 50x58x64 mm<br /> 1P PocketQube<br /> Paino: 245 g<br /> Materiaalit: alumiini, kulta, lasikuitu ja elektroniset komponentit.<br /> Kiertorata: Korkeus merenpinnasta 525 ± 25 km; kaltevuus: SSO 97,6 ± 0,1°<br /> Laukaisulaite: ISRO:n operoima PSLV (Polar Satellite Launch Vehicle)"
+  },
+  "antenna": {
+    "heading": "Antenni/Veistos",
+    "specs": "Mitat: 6 m (halkaisija) e 1,2 m (korkeus)<br /> Paino: 46 kg<br /> Materiaalit: alumiini, epoksipeililevy, kultainen alumiinikupoli telinerakenteen läpi roikkuen."
+  },
+  "radio": {
+    "heading": "Radion tekniset tiedot",
+    "specs": "Alasuuntainen linkki: 468,5 MHz<br /> Modulaatio: CSS<br /> Kaistanleveys: Ei tiedossa"
+  },
+  "imageAlt": "Orbitaalisen temppelin satelliitti"
+}

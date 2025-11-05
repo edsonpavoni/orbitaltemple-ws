@@ -1,0 +1,43 @@
+{
+  "title": "Izglītība un atvērtā pirmkoda programmatūra — Orbitālais templis",
+  "heading": "Izglītība un atvērtā pirmkoda",
+  "intro": {
+    "paragraph1": "Visas Orbitālā tempļa misijai izstrādātās tehnoloģijas būs <strong>atvērtā pirmkoda</strong> un pieejamas tiešsaistē <strong>portugāļu</strong> , <strong>angļu</strong> , <strong>spāņu</strong> un <strong>hindi</strong> valodā, veicinot kosmosa izpētes attīstību <strong>Dienvidu puslodē</strong> . Jaunas misijas un projekti var izmantot Orbitālo templi kā pamatu saviem mākslinieciskajiem vai zinātniskajiem eksperimentiem.",
+    "paragraph2": "Kā daļu no savas izglītojošās misijas Orbital Temple piedāvās bezmaksas daudzvalodu kursu par satelīta būvēšanu un palaišanu. Tā būs praktiska iespēja apgūt satelītu tehnoloģijas un pielietot tās praksē. Ikviens, kas vecāks par <strong>16</strong> gadiem, varēs uzbūvēt savu satelītu, apgūstot kosmosa mākslas vēsturi, elektronikas, mehānikas un kosmosa zinātnes pamatjēdzienus, tostarp to, kā finansēt projektus un kā uzbūvēt antenu saziņai ar satelītiem orbītā."
+  },
+  "spaceGap": {
+    "heading": "Kāpēc tas ir svarīgi: Kosmosa plaisa",
+    "paragraph1": "Termins <strong>&quot;kosmosa plaisa&quot;</strong> attiecas uz plaisu starp attīstītajām valstīm, kurām ir piekļuve kosmosa izpētes sniegtajām tehnoloģiskajām iespējām, un jaunattīstības valstīm, kurām nav piekļuves šīm tehnoloģijām. Globālo dienvidu valstīm ir jāmaksā ievērojamas summas ārvalstu valdībām vai uzņēmumiem par pamata piekļuvi informācijai, kas iegūta, izmantojot satelīttehnoloģijas.",
+    "paragraph2": "Kosmosa tehnoloģijas sniedz kritiski svarīgas priekšrocības: satelīti palīdz cīnīties pret nelegālu mežizstrādi, nelegālu zveju un nelegālu savvaļas dzīvnieku tirdzniecību, kas <strong>ik gadu pārsniedz 73 miljardus dolāru</strong> . Tie sniedz būtisku informāciju par klimatu, ūdens ražošanu un pārtikas nodrošinājumu. Satelīti nodrošina precīzu apūdeņošanu un lauksaimniecības metodes, kā arī palīdz novērst dabas katastrofas. Kosmosa nozare līdz <strong>2030. gadam</strong> varētu radīt līdz pat <strong>1 miljonam darbavietu</strong> , tomēr šīs iespējas daudziem globālajos dienvidos joprojām nav pieejamas.",
+    "paragraph3": "Nodrošinot atvērtā pirmkoda tehnoloģijas un izglītību, mēs cenšamies demokratizēt piekļuvi kosmosam un dot iespēju jaunai paaudzei sapņot ārpus debesīm."
+  },
+  "empowering": {
+    "heading": "Nākamās paaudzes pilnvarošana",
+    "intro": "Mēs iemācīsim nākamajai kosmosa pētnieku paaudzei, kā uzbūvēt un palaist savus satelītus, aptverot šādas svarīgas tēmas:",
+    "topics": {
+      "history": "<strong>Mākslas vēsture kosmosā:</strong> māksliniecisko satelītu un kosmosā bāzētu mākslas darbu izcelsmes izpratne.",
+      "concepts": "<strong>Galvenās koncepcijas:</strong> <strong>ArtSat</strong> (mākslinieciskie satelīti), <strong>atvērtā pirmkoda</strong> kosmosa tehnoloģija un <strong>Kosmosa sprauga</strong> .",
+      "missions": "<strong>Kosmosa misijas:</strong> Kā konceptualizēt un izstrādāt misiju un kā izveidot komandu tās īstenošanai.",
+      "electronics": "<strong>Elektronika kosmosā:</strong> elektronisko komponentu pamatjēdzieni, kas var izdzīvot un darboties kosmosa vidē.",
+      "mechanics": "<strong>Mehānika kosmosā:</strong> satelītu projektēšanas strukturālo un mehānisko prasību izpratne.",
+      "orbits": "<strong>Orbītas un palaišanas iekārtas:</strong> dažādi orbītu veidi un kā izvēlēties palaišanas pakalpojumu sniedzējus jūsu misijai.",
+      "financing": "<strong>Finansēšanas stratēģijas:</strong> Kā nodrošināt finansējumu un resursus satelīta palaišanai. Kurss sniegs resursus finansējuma iegūšanai jūsu palaišanai, palīdzot studentiem atrast programmas un grantus no starptautiskām institūcijām, kas atbalsta jaunos zinātniekus un studentus satelītu sūtīšanā kosmosā.",
+      "groundStation": "<strong>Zemes stacijas izstrāde:</strong> Kā uzbūvēt antenu saziņai ar Orbitālo templi un citiem satelītiem."
+    }
+  },
+  "technology": {
+    "heading": "Tehnoloģija: PocketQube satelīti",
+    "paragraph1": "Studenti apgūs darbu ar <strong>PocketQube</strong> satelītiem — nanosatelītu standartu, kura izmēri ir tikai <strong>5 cm³</strong> un svars līdz <strong>250 g</strong> . Neskatoties uz nelielo izmēru, PocketQube ir jaudīgi rīki, kas spēj veikt Zemes novērošanu, uzraudzību un komunikāciju.",
+    "paragraph2": "Šiem kompaktajiem satelītiem ir daudz reālās pasaules pielietojumu, sākot no zinātniskiem pētījumiem par klimata pārmaiņām līdz starpkontinentālajai komunikācijai. Tā kā tie ir mazāki un vieglāki, to uzbūvēšana un palaišana ir lētāka, padarot kosmosu pieejamāku studentiem, pētniekiem un māksliniekiem visā pasaulē."
+  },
+  "globalAccess": {
+    "heading": "Globāla piekļuve, sākot no globālajiem dienvidiem",
+    "paragraph1": "Kurss būs pieejams ikvienam <strong>, kas vecāks par 16 gadiem</strong> , pilnīgi <strong>bez maksas</strong> . Sākumā mēs piedāvājam saturu <strong>portugāļu</strong> , <strong>spāņu</strong> , <strong>angļu</strong> un <strong>hindi</strong> valodā, un plānojam paplašināties uz citām valodām, programmai attīstoties.",
+    "paragraph2": "Mūsu misija sākas globālajos dienvidos un sniedzas pāri visai pasaulei, nodrošinot, ka nākamā kosmosa pētnieku paaudze nāk no visiem Zemes nostūriem."
+  },
+  "callToAction": {
+    "heading": "Palīdziet mums to īstenot",
+    "content": "Šī izglītības programma pašlaik tiek izstrādāta. Mēs meklējam partnerus un ziedotājus, kuri atbalsta mūsu redzējumu par kosmosa tehnoloģiju pieejamības demokratizāciju. Ja jūs vai jūsu organizācija vēlas atbalstīt šo iniciatīvu, lūdzu, apmeklējiet mūsu <a href=\"/support\">atbalsta lapu,</a> lai uzzinātu par partnerības iespējām."
+  },
+  "imageAlt": "Orbitālā tempļa satelīts"
+}

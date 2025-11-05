@@ -1,0 +1,44 @@
+{
+  "title": "A művésztől",
+  "opening": {
+    "question": "Ki ez a fickó, hogy templomot javasol az űrben?",
+    "thanks": "Köszönöm a kérdést.",
+    "answer": "A rövid válasz az, hogy művész vagyok. A hosszú válasz pedig ez:"
+  },
+  "origin": {
+    "sao_paulo": "São Paulo külvárosában születtem, egy olyan környéken, ahol már korán megtanultam, mit jelent a veszély. Sok iskolatársam most börtönben van. A mostohaapám is börtönben van. Az erőszakról nem olvastam, hanem egy olyan világról, amelyben el kellett navigálnom. És tudtam, hogy menekülnöm kell.",
+    "technology": "A technológia jelentette a kiutat a szegénységből. Tizenévesként megtanultam programozni, elektronikát tanultam. A kód egy olyan nyelv volt, ami elrepíthetett valahova máshova. A technológiával való munka jelentette a menekülésemet a szegénységből.",
+    "christianity": "De a valahová tartozást, a szeretetet, valamit, amiben hihetek, kerestem. Megtaláltam a kereszténységet, vagy az talált meg engem. Elfogadtak. Szerettek. Volt egy közösségem. Megtanultam megbocsátani, hinni, együtt haladni egy nagyobb cél érdekében.",
+    "price": "Az ár azonban magas volt. Sok olyan dolgot is tanultam, amit még mindig elfelejtek. Így ettől is megmenekültem."
+  },
+  "searching": {
+    "walls": "Tudom, mit tesznek a falak. Éreztem már őket. Mindkét oldalon álltam: kint tartottak, bent tartottak. Ami ezután következett, az évek során kerestem valamit, amit nem tudtam megnevezni. Isten meghalt ezekben az években. Az az isten, akiről legalábbis tanultam, akinek szabályai, ítélkezése és olyan ajtói voltak, amelyek csak egyes emberek számára nyíltak meg.",
+    "art": "Azért kezdtem művészetet alkotni, hogy ezeket a kérdéseket vizsgáljam: az intimitásról és a technológiáról, az emlékezésről és a halálról, arról, hogy ki érdemli meg a mennyországot. Elkezdtem olyan gépeket építeni, amelyek újraértelmezik a technológiával való kapcsolatunkat, olyan gépeket, amelyeknek szükségük van a részvételedre, a jelenlétedre, a nevedre, hogy fémből és kódból élővé váljanak."
+  },
+  "pandemic": {
+    "intro": "Aztán a világjárvány elérte Brazíliát.",
+    "government": "Amikor a COVID-vakcinák bevezetését késleltették, a kormányom adagonként egy dolláros kenőpénzről tárgyalt. Olyan gyógyszereket népszerűsítettek, amelyeket hatástalannak hittek, és nevettek, miközben az emberek légzési nehézségekbe ütközve haltak meg. Minden nap más számra ébredtünk. Hányan haltak meg az elmúlt 24 órában? Több vagy kevesebb volt a vártnál?",
+    "war": "A világ fele félt, a másik fele pedig tagadta a történteket. Háborúban álltunk a vírussal és egymással.",
+    "memorial": "Teret akartam teremteni a kollektív gyásznak, ezért több száz emberrel együtt létrehoztuk a Memorial Inumeráveis-t. Egy műalkotást a művészet és az újságírás metszéspontjában. Interjúkat készítettünk olyan családokkal, akik elvesztettek valakit. Megírtuk az elvesztett személy élettörténetét. Számokat alakítottunk át történelemmé. Versek, dalok, szimfóniák születtek ezekből a történetekből. Sztárok olvasták fel ezeket a történeteket az országos televízióban. A projekt milliókat ért el.",
+    "meaning": "Nem a lépték számított, hanem az, hogy minden történet egy név, egy élet, valakinek a mennyországa volt."
+  },
+  "discovery": {
+    "pattern": "Több mint tízezer gyászbeszélgetés után kezdett kirajzolódni egy minta. Amikor egy elhunytról beszélünk, nem csak jókat mondunk; a történetükből töredékeket válogatunk ki, mintha ajánlólevelet írnánk. Egy ajánlást a paradicsom kapuőrének. Mindent megteszünk, hogy egy elfogadás, nyugalom, tisztelet és emlékezet helyére küldjük őket.",
+    "understanding": "És megértettem valamit, ami mindent megváltoztatott: Maguk a templomok, amiket építettünk, megsebeztek minket. A mennyországot megérdemlő személyről alkotott hiedelmünk közvetlenül alakítja azt, hogy kit zárunk ki a Földről. A brazil portugál gyarmatosítók úgy hitték, hogy a fekete embereknek nincs lelkük; ez a hiedelem igazolta a rabszolgaságot. Ha őslakos voltál, ha rossz helyen születtél, vagy rossz embert szerettél, azt mondták neked, hogy a mennyország kapui zárva vannak előtted.",
+    "birth": "Így született meg az Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Egyetlen művész sem lehet igazán világi. Örökre kötődünk közös ősünkhöz, a sámánhoz. Kezdetben volt egy barlang. Az emberek állatokat festettek a falakra, nem díszítés céljából, hanem megidézés céljából. Táncoltak, és a barlang templommá vált. A sámán a rituálék szellemét birtokolja; a művész a művészet auráját. Festünk, szobrászkodunk, programozunk, megtervezzük a kívánt jövőnket, nem díszítés céljából, hanem megidézés céljából. Minden művészet spirituális, még akkor is, ha azt állítja magáról, hogy nem az."
+  },
+  "space": {
+    "question": "Hol építhetnénk falak nélküli templomot? Oda, ahol egyetlen nemzet vagy vallás sem igényelhetné azt. Ahol egy csoportként képzelhetnénk el magunkat.",
+    "answer": "Tér.",
+    "description": "Egy részvételen alapuló művészeti műhold a globális Délről. Egy pályára állított templom, amely mindenkit arra hív, hogy küldje el nevét az űrbe, függetlenül attól, hogy kik ők, hol születtek, kit szeretnek, miben hisznek. Egy hely, ahol a radikális befogadás lehetséges, pályára állítva, határokon átívelően.",
+    "mission": "Ez a küldetés nyílt forráskódú. Minden technikai dokumentum, minden kódsor szabadon elérhető lesz, így más művészek, más közösségek, más nemzetek is megépíthetik saját műholdaikat. Tehát a globális Dél nemcsak részt vesz az űrkutatásban, hanem vezeti is azt."
+  },
+  "closing": {
+    "answer": "Szóval ki ez a fickó, hogy templomot épít az űrben? Nem én építem. A templomot mindenki építi, aki úgy dönt, hogy nevet küld, hogy szentnek tekinti, hogy valósággá teszi. Én csak az vagyok, aki javasolja. Te építed meg, ha úgy döntesz.",
+    "signature": "Kedvesen,",
+    "name": "Edson Pavoni"
+  }
+}

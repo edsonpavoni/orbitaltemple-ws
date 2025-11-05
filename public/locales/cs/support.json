@@ -1,0 +1,167 @@
+{
+  "title": "Podpořte Orbital Temple - Připojte se k misi",
+  "heading": "Podpora orbitálního chrámu",
+  "vision": "<strong>28. listopadu 2025</strong> bude z <strong>Indie</strong> na palubě rakety <strong>ISRO</strong> odstartován <strong>Orbital Temple</strong> . Satelit participativního umění z globálního Jihu je památníkem radikální inkluze, platformou pro vzdělávání a katalyzátorem globální diskuse o budoucnosti posvátného ve věku technologií, umělé inteligence a průzkumu vesmíru.",
+  "videoCaption": "Úvodní video k Orbitálnímu chrámu, 1 minuta.",
+  "accomplished": {
+    "heading": "Čeho jsme dosáhli",
+    "content": "Po čtyřech letech výzkumu a vývoje je mise připravena. Dokončili jsme <strong>vývoj hardwaru a softwaru</strong> pro satelit, prošli <strong>oficiálními vibračními testy</strong> potřebnými pro letovou certifikaci a dokončili jsme naši smlouvu s ISRO. Satelit je postaven. Technologie funguje. Máme schválení ke startu."
+  },
+  "funding": {
+    "heading": "Průběh financování",
+    "raised": "zvýšený z",
+    "of": "z",
+    "goal": "gól",
+    "button": "Podpořte misi"
+  },
+  "needs": {
+    "heading": "Pro co potřebujeme podporu",
+    "intro": "Abychom tuto historickou misi dokončili a maximalizovali její dopad, potřebujeme podporu pro pět klíčových složek:",
+    "launch": {
+      "title": "Náklady na spuštění ISRO:"
+    },
+    "travel": {
+      "title": "Cesta umělce do Indie:"
+    },
+    "carbon": {
+      "title": "Program kompenzace uhlíku:"
+    },
+    "education": {
+      "title": "Vzdělávací program:"
+    },
+    "docPreProd": {
+      "title": "Předprodukce dokumentárních filmů:"
+    },
+    "docProd": {
+      "title": "Dokumentární produkce:"
+    }
+  },
+  "decade": {
+    "heading": "Dekáda nadcházející",
+    "intro": "Tato mise nekončí 28. listopadu 2025. Teprve začíná.",
+    "paragraph1": "Po dobu příštích <strong>10 let</strong> bude tato družice obíhat Zemi a reagovat na jména zaslaná ze všech koutů planety. Vzdělávací program si klade za cíl proškolit <strong>tisíce teenagerů</strong> v oblasti satelitních technologií a překonat tak <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">vesmírnou propast</a> pro globální Jih. Dokument osloví <strong>miliony lidí</strong> po celém světě a podnítí diskuse o sounáležitosti, paměti a posvátnosti.",
+    "paragraph2": "Orbital Temple spolupracuje se <strong>Sathi Roy</strong> a <strong>Nadací Roy,</strong> aby tato desetiletá vize získala kulturní význam. Nadace Roy je nezisková organizace, která se věnuje rozšiřování přístupu k duchovnímu vzdělávání, emocionálnímu léčení a nástrojům pro rozvoj vědomí pro znevýhodněné komunity po celém světě a propojuje starověkou moudrost s moderními technologiemi s cílem vytvořit vědomější, propojenější a soucitnější svět. Společně budujeme infrastrukturu, která zajistí, že se Orbital Temple stane trvalým hnutím, které osloví komunity po celém světě.",
+    "paragraph3": "Vaše podpora nefinancuje jen start; vytváří hnutí, které bude rezonovat po celé desetiletí a inspirovat další generaci vesmírných umělců a inženýrů."
+  },
+  "waysToSupport": {
+    "heading": "Způsoby podpory",
+    "individualDonations": {
+      "heading": "Individuální dary",
+      "intro": "Zapojte se do mise na úrovni, která vám vyhovuje. Jednotliví podporovatelé jsou základem tohoto historického projektu.",
+      "orbitalFriend": {
+        "title": "Orbitální přítel",
+        "benefits": "Obdržíte: Jméno na čestné listině na webových stránkách · Personalizovaný certifikát o vypuštění družice na orbitální dráhu · Dokumentární děkovný kredit · Daňově uznatelný doklad",
+        "button": "Darujte s daňovým odpočtem"
+      },
+      "satelliteSupporter": {
+        "title": "Podporovatel satelitů",
+        "benefits": "Získáte: Všechny výhody Orbital Friend · Exkluzivní přístup k aplikaci pro satelitní sledování · Videozprávu s poděkováním umělci · Daňově uznatelný doklad",
+        "button": "Darujte s daňovým odpočtem"
+      },
+      "spaceAdvocate": {
+        "title": "Vesmírný advokát",
+        "benefits": "Získáte: Všechny výhody programu Satellite Supporter · Jméno vytištěné v titulcích dokumentů · Pozvánku na soukromé promítání dokumentů · Čtvrtletní aktualizace od týmu · Daňově uznatelný doklad",
+        "button": "Darujte s daňovým odpočtem"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Financování specifické složky",
+    "intro": "Váš příspěvek přímo financuje konkrétní aspekty mise. Vyberte si, co vás oslovuje, nebo zkombinujte více možností pro dosažení většího dopadu.",
+    "launch": {
+      "title": "Financujte vesmírný start",
+      "description": "Skutečné náklady na start na palubě rakety <strong>ISRO</strong> <strong>28. listopadu 2025.</strong> Tím se Orbital Temple dostane na oběžnou dráhu, kde zůstane po deset let jako participativní umělecký satelit a chrám na obloze, přístupný komukoli na světě.",
+      "benefits": "Získáte: Titul „Sponzor startu“ · Zveřejnění ve všech tiskových zprávách · Poděkování za dokumentární film na obrazovce · VIP přístup na startovní akce · Účast na čtvrtletních videohovorech s Edsonem a týmem mise · Certifikát s daty z oběžné dráhy satelitu · Daňově uznatelný doklad",
+      "button": "Darujte s daňovým odpočtem"
+    },
+    "travel": {
+      "title": "Financujte umělcovu cestu do Indie",
+      "description": "Cestovní náklady, ubytování a produkční náklady pro umělce Edsona Pavoniho a jeho hlavní tým, kteří se <strong>28. listopadu 2025 zúčastní zahájení v Indii</strong> . Tato cesta je nezbytná pro natáčení dokumentárních filmů, mediální pokrytí a reprezentaci globálního Jihu v tomto historickém okamžiku.",
+      "benefits": "Obdržíte: Osobní poděkování od umělce · Přístup k dokumentu ze zákulisí · Jméno v titulcích dokumentu · Daňově uznatelný doklad",
+      "button": "Darujte s daňovým odpočtem"
+    },
+    "carbon": {
+      "title": "Financujte program kompenzace uhlíku",
+      "description": "Veškeré emise uhlíku budou neutralizovány, včetně vypuštění rakety a výroby satelitu. Spolupracujeme s ověřenými programy kompenzace emisí uhlíku, abychom zajistili, že tato mise nezanechá žádnou negativní ekologickou stopu.",
+      "benefits": "Obdržíte: Jméno na webu · Personalizovaný certifikát · Daňově uznatelný doklad",
+      "button": "Darujte s daňovým odpočtem"
+    },
+    "education": {
+      "title": "Financujte vzdělávací program",
+      "description": "Vyvinout a spustit kompletní vícejazyčný kurz, který učí teenagery z globálního Jihu, jak stavět satelity. Zahrnuje vývoj učebních osnov, produkci videí, hosting platformy a první rok stipendií pro studenty ze znevýhodněných rodin. Vytvoří trvalou infrastrukturu pro vzdělávání v oblasti vesmíru.",
+      "benefits": "Získáte: Uznání „Zakládající sponzor vzdělávání“ · Stipendia na vaše jméno · Uvedení ve vzdělávacích materiálech · Setkání s první skupinou studentů financovaných vaším stipendiem (virtuálně nebo osobně) · Segment dokumentárního filmu · Možnost vystoupit na zahajovacích akcích · Daňově uznatelný doklad",
+      "button": "Darujte s daňovým odpočtem"
+    },
+    "docPreProd": {
+      "title": "Financujte předprodukci dokumentárního filmu",
+      "description": "Financovat počáteční fázi dokumentu <strong>„Co dělá chrám?“</strong> . Zahrnuje provedení 2 hloubkových rozhovorů v <strong>Indii</strong> s vůdčími osobnostmi a duchovními praktiky, cestování a produkci malého štábu a střih předprodukčních záběrů. Tato fáze pokládá základy dokumentu a potvrzuje tvůrčí směr.",
+      "benefits": "Získáte: Uvedení producenta · Jméno v titulcích dokumentu · Soukromé promítání předprodukčních záběrů · Přístup do zákulisí · Daňově uznatelný doklad",
+      "button": "Darujte s daňovým odpočtem"
+    },
+    "docProd": {
+      "title": "Financujte produkci dokumentárních filmů",
+      "description": "Kompletní produkce a postprodukce celovečerního dokumentu <strong>„Co tvoří chrám?“</strong> , který zkoumá průnik umění, technologie a posvátného. Zahrnuje natáčení v několika zemích, další rozhovory s předními osobnostmi, komplexní střih, barevnou korekci, zvukový design a premiérová promítání v <strong>Indii</strong> a <strong>New Yorku</strong> .",
+      "benefits": "Získáte: · Uvedení v titulcích · Soukromé promítání pro vaše hosty · Pozvánky na světovou premiéru (v obou městech) · Soukromou večeři s Edsonem a režisérem dokumentu před premiérou · Přístup do zákulisí · Daňově uznatelný doklad",
+      "button": "Darujte s daňovým odpočtem"
+    },
+    "artCollector": {
+      "title": "Staňte se jediným sběratelem umění v Orbitálním chrámu",
+      "imageAlt": "Instalace Orbitálního chrámu na bienále Mercosul",
+      "imageCaption": "Orbitální chrám na 13. bienále Mercosul, Porto Alegre. Foto Clara Marques.",
+      "paragraph1": "Pro tuto misi byly postaveny tři identické satelity. <strong>Jeden</strong> bude vypuštěn do vesmíru 28. listopadu 2025. <strong>Jeden</strong> putuje do muzejních expozic po celém světě. <strong>Jeden</strong> je vyhrazen pro štědrého sběratele, který chce tuto vizi financovat a vlastnit kus historie vesmírného umění.",
+      "paragraph2": "Toto není replika; je to jeden ze tří původních satelitů. Plně <strong>funkční kosmická loď</strong> , která je zároveň <strong>sochou</strong> . Satelit měří <strong>5 cm³</strong> a váží <strong>245 g</strong> s kopulí ze <strong>zlata</strong> .",
+      "paragraph3": "Toto je <strong>umělecké dílo v měřítku 1/1</strong> .",
+      "paragraph4": "Jako sběratel obdržíte stejnou instalaci, která byla vytvořena pro <strong>13. bienále Mercosul</strong> , kompletní muzejní expozici, která prezentuje satelit jako umění i technologii. Tato instalace byla vystavena na významných mezinárodních místech a představuje nejvyšší standard prezentace vesmírného umění.",
+      "paragraph5": "Vaše podpora pomáhá financovat celou vizi: start, vzdělávací program a dokument, který podnítí globální diskuse o posvátnosti ve věku technologií, umělé inteligence a výzkumu vesmíru. Vaše jméno se trvale propojí s touto historickou misí.",
+      "button": "Zeptejte se na tuto příležitost"
+    }
+  },
+  "gratitude": {
+    "heading": "S vděčností našim podporovatelům",
+    "intro": "Orbitální chrám je možný díky institucím, jednotlivcům a věřícím v radikální inkluzi, kteří chápou, že umění vytváří představy zítřka.",
+    "pearmill": {
+      "title": "Zakládající podporovatel",
+      "description": "Pearmill je jednou z nejrychleji rostoucích agentur pro výkonnostní marketing v USA, skupina designérů, marketérů a inženýrů, kteří spolupracují na rozvoji některých z nejikoničtějších startupů na světě. Jejich štědrá podpora umožnila týmu Orbital Temple zakoupit klíčové komponenty a vyvinout open-source hardware, který umožňuje tuto misi satelitu."
+    },
+    "yourName": "Vaše jméno by zde mohlo být. Přidejte se k nám a tvořte historii."
+  },
+  "people": {
+    "heading": "Lidé stojící za touto misí",
+    "intro": "Orbital Temple je desetiletý závazek. Vedou ho dva lidé, kteří strávili svůj život propojováním umění, technologií a lidských vztahů a kteří budují infrastrukturu pro udržení této vize v nadcházejícím desetiletí.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Umělec a technolog",
+      "paragraph1": "Edson je umělec a technolog, který zkoumá lidskou intimitu na průsečíku umění a technologie. Jeho praxe zahrnuje architektonické instalace, poezii, fotografii a satelitní technologie.",
+      "paragraph2": "Jeho díla byla vystavena na 13. bienále Mercosul (Brazílie), IX. mezinárodním bienále (Uzbekistán) a na NTU Global Digital Art Prize (Singapur).",
+      "paragraph3": "S více než <strong>20 lety zkušeností v oblasti umění a technologií</strong> spolupracoval s kreativními týmy pro <strong>olympijské hry v Riu v roce 2016</strong> a <strong>pro Meziamerickou rozvojovou banku</strong> . Časopis Proxxima ho označil za jednoho z <strong>50 nejinovativnějších brazilských profesionálů</strong> , dvakrát po sobě jdoucí získal <strong>cenu IF Design Awards</strong> (2017–2018) a byl finalistou <strong>ceny Lumen Prize Futures Award</strong> . Jeho díla byla vystavována na dvou bienále a prezentována v <strong>Muzeu současného umění Ludwig</strong> (Budapešť), <strong>Institutu Inhotim</strong> (Brazílie) a <strong>Muzeu designu a módy</strong> (Lisabon), s výstavami v New Yorku, Pekingu, Singapuru, Dubaji, Rio de Janeiru a dalších městech."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Zakladatel, Nadace Roy a strategický partner",
+      "paragraph1": "Sathi je zakladatelkou <strong>Nadace Roy</strong> , neziskové organizace, která se věnuje rozšiřování přístupu k duchovnímu vzdělávání, emocionálnímu léčení a nástrojům pro rozvoj vědomí pro znevýhodněné komunity po celém světě. Nadace spolupracuje se školami, kulturními institucemi a místními organizacemi na distribuci nástrojů pro wellness s využitím umělé inteligence, komunitních kurikul a médií, která inspirují k transformaci.",
+      "paragraph2": "Sathi, která má zkušenosti z neurovědy, koučování a leadershipu, vybudovala a vedla týmy v Severní Americe a Indii a v jednom podniku generovala roční tržby ve výši <strong>600 milionů dolarů</strong> . Je také zakladatelkou <strong>OHM</strong> , digitálně zaměřeného duchovního hnutí, spoluzakladatelkou <strong>SUTE</strong> (digitální kancelářské platformy řízené umělou inteligencí) a působí jako poradkyně a globální vedoucí růstu pro <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Jako bengálsko-americká žena, která propojuje východní a západní filozofie, přináší Sathi jedinečný pohled na duchovní a umělecká hnutí 21. století. S rostoucí sítí více než <strong>65 000 sledujících</strong> a více než <strong>40 miliony online zhlédnutí</strong> buduje globální komunity, které se propojují napříč kulturními a duchovními rozdíly."
+    },
+    "together": "Společně s Nadací Roy budujeme desetiletou misi, která propojuje umění, technologie, vzdělávání a posvátné aspekty. Počínaje vypuštěním satelitu 28. listopadu 2025 pokračujeme hnutím, které osloví znevýhodněné komunity po celém světě a inspiruje další generaci."
+  },
+  "join": {
+    "heading": "Přidejte se k nám",
+    "content": "Družice je postavena. Technologie je připravena. Datum startu je stanoveno: <strong>28. listopadu 2025.</strong> Toto je okamžik, kdy se připojit k misi, která nově představuje, co umění dokáže, kam může směřovat a komu může sloužit.",
+    "fundSpecific": {
+      "heading": "Financujte konkrétní komponentu nebo se staňte zakládajícím partnerem",
+      "description": "Vyberte si jednu z výše uvedených možností financování, informujte se o tom, jak se stát sběratelem umění, nebo proberte sponzorství na míru, které bude odpovídat vaší vizi.",
+      "button": "Kontaktujte nás a začněte →"
+    },
+    "generalDonation": {
+      "heading": "Přispějte na daňově uznatelný příspěvek",
+      "description": "Všechny příspěvky, ať už velké či malé, podporují naši misi a jsou daňově uznatelné prostřednictvím našeho finančního sponzora, The Field.",
+      "button": "Darujte přes The Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Daňově uznatelné dary",
+    "paragraph1": "Orbital Temple je finančně sponzorovaný projekt organizace <strong>The Field (Performance Zone Inc.)</strong> , neziskové organizace <strong>501(c)(3)</strong> se sídlem v New Yorku. Veškeré příspěvky z USA jsou daňově uznatelné v rozsahu povoleném zákonem.",
+    "paragraph2": "<strong>Pole</strong><br> 75 Maiden Lane, Suite 906<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Při zasílání příspěvků šekem prosím uveďte platbu na <strong>Performance Zone Inc.</strong> s poznámkou: <strong>„Edson Pavoni: Orbital Temple“</strong>"
+  }
+}

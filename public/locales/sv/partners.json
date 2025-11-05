@@ -1,0 +1,50 @@
+{
+  "title": "Partners - Orbital Temple",
+  "heading": "Partners",
+  "intro": "Orbital Temple existerar tack vare generositet, expertis och vision hos extraordinära partners. Från att konstruera satelliter till att skapa berättelser, från att öppna dörrar i avlägsna länder till att gjuta drömmar i guld, för varje samarbete detta tempel närmare stjärnorna.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Kommunikation, integrerade upplevelser och fantastiska 3D-renderbilder som väckte satellitens vision till liv innan den ens nuddade rymdens tomhet."
+    },
+    "highestMantra": {
+      "name": "Vårt högsta mantra",
+      "description": "Leds av Sathi Roy, kopplar Orbital Temple samman med Indiens andliga och konstnärliga samhällen. Öppnar vägar för insamlingar, kulturellt utbyte och en Art Basel-utställning efter lanseringen i november 2025."
+    },
+    "allToSpace": {
+      "name": "Allt till rymden",
+      "description": "Brasilianska specialister på små satelliter. Fyra års samarbete med att bygga en öppen källkodsplattform för hårdvara och vara pionjär i processen att skicka konst till omloppsbana från det globala syd."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indiska rymdforskningsorganisationen. Uppskjutningsleverantör för PSLV-uppdraget som transporterar Orbital Temple till solsynkron omloppsbana i november 2025."
+    },
+    "mercosul": {
+      "name": "13:e Mercosurbiennalen",
+      "description": "Porto Alegre, Brasilien. Curatorerad av Marcello Dantas med assisterande curatorer Laura Cattani, Munir Klamt, Tarsila Riso och Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat-verkstad",
+      "description": "Satellitutvecklingsteamet bildades under II ArtSat Workshop. Koordinerad av Fabiane M. Borges, instruerad av Lázaro Camargo, samarbetad av Ítalo Pinto Rodrigues, övervakad av Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solida koncept",
+      "description": "Leds av Eduardo Dias. All 3D-utskrift och mikrogjutning av guld används för den skulpturala kupolen, som förvandlar digitala drömmar till verklighet av ädelmetaller."
+    },
+    "ideaSpace": {
+      "name": "Idéutrymme",
+      "description": "Brasiliansk utbildningsstartup utvecklar Quebradas rymdprograms läroplan, redo att tillämpas på gymnasieelever över hela Brasilien."
+    }
+  },
+  "closing": "Intresserad av att samarbeta med Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Kontakta oss</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners-logotypen",
+    "highestMantra": "Vår högsta mantra-logotyp",
+    "allToSpace": "All to Space-logotypen",
+    "isro": "ISRO-logotyp",
+    "mercosul": "13:e Mercosurbiennalens logotyp",
+    "inpe": "INPE ArtSat Workshop-logotyp",
+    "solidConcepts": "Solid Concepts-logotypen",
+    "ideaSpace": "Idéutrymmeslogotyp"
+  }
+}

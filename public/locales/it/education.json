@@ -1,0 +1,43 @@
+{
+  "title": "Istruzione e Open Source - Orbital Temple",
+  "heading": "Istruzione e Open Source",
+  "intro": {
+    "paragraph1": "Tutta la tecnologia sviluppata per la missione Orbital Temple sarà <strong>open source</strong> e disponibile online in <strong>portoghese</strong> , <strong>inglese</strong> , <strong>spagnolo</strong> e <strong>hindi</strong> , favorendo il progresso dell&#39;esplorazione spaziale nel <strong>Sud del mondo</strong> . Nuove missioni e progetti potranno utilizzare Orbital Temple come base per i propri esperimenti artistici o scientifici.",
+    "paragraph2": "Nell&#39;ambito della sua missione educativa, Orbital Temple offrirà un corso gratuito multilingue su come costruire e lanciare un satellite. Sarà un&#39;opportunità pratica per apprendere la tecnologia satellitare e metterla in pratica. Chiunque abbia più di <strong>16</strong> anni potrà costruire il proprio satellite, apprendendo la storia dell&#39;arte nello spazio, concetti fondamentali di elettronica, meccanica e scienze spaziali, tra cui come finanziare progetti e come costruire un&#39;antenna per comunicare con i satelliti in orbita."
+  },
+  "spaceGap": {
+    "heading": "Perché è importante: il divario spaziale",
+    "paragraph1": "Il termine <strong>&quot;Space Gap&quot;</strong> si riferisce al divario tra i paesi sviluppati, che possono accedere alle opportunità tecnologiche offerte dall&#39;esplorazione spaziale, e i paesi in via di sviluppo, che non hanno accesso a queste tecnologie. I paesi del Sud del mondo devono pagare somme ingenti a governi o aziende straniere per l&#39;accesso di base alle informazioni prodotte dalle tecnologie satellitari.",
+    "paragraph2": "La tecnologia spaziale offre vantaggi cruciali: i satelliti contribuiscono a combattere il disboscamento illegale, la pesca illegale e il commercio illegale di fauna selvatica, che rappresentano oltre <strong>73 miliardi di dollari all&#39;anno</strong> . Forniscono informazioni essenziali su clima, produzione idrica e sicurezza alimentare. I satelliti consentono l&#39;irrigazione di precisione e tecniche agricole e contribuiscono a prevenire i disastri naturali. L&#39;industria spaziale potrebbe creare fino a <strong>1 milione di posti di lavoro</strong> entro <strong>il 2030</strong> , ma queste opportunità rimangono inaccessibili a molti nel Sud del mondo.",
+    "paragraph3": "Fornendo tecnologia e formazione open source, puntiamo a democratizzare l'accesso allo spazio e a dare a una nuova generazione la possibilità di sognare oltre il cielo."
+  },
+  "empowering": {
+    "heading": "Dare potere alla prossima generazione",
+    "intro": "Insegneremo alla prossima generazione di esploratori spaziali come costruire e lanciare i propri satelliti, affrontando argomenti essenziali tra cui:",
+    "topics": {
+      "history": "<strong>Storia dell&#39;arte nello spazio:</strong> comprendere la discendenza dei satelliti artistici e delle opere d&#39;arte spaziali.",
+      "concepts": "<strong>Concetti chiave:</strong> <strong>ArtSat</strong> (satelliti artistici), tecnologia spaziale <strong>Open Source</strong> e <strong>Space Gap</strong> .",
+      "missions": "<strong>Missioni spaziali:</strong> come concettualizzare e progettare una missione e come formare un team per realizzarla.",
+      "electronics": "<strong>Elettronica nello spazio:</strong> concetti fondamentali dei componenti elettronici che possono sopravvivere e funzionare nell&#39;ambiente spaziale.",
+      "mechanics": "<strong>Meccanica nello spazio:</strong> comprendere i requisiti strutturali e meccanici per la progettazione dei satelliti.",
+      "orbits": "<strong>Orbite e lanciatori:</strong> diversi tipi di orbite e come selezionare i fornitori di lancio per la tua missione.",
+      "financing": "<strong>Strategie di finanziamento:</strong> come ottenere finanziamenti e risorse per il lancio del tuo satellite. Il corso fornirà risorse per ottenere finanziamenti per il lancio, aiutando gli studenti a trovare programmi e sovvenzioni da istituzioni internazionali che supportano giovani scienziati e studenti nell&#39;invio dei loro satelliti nello spazio.",
+      "groundStation": "<strong>Sviluppo della stazione di terra:</strong> come costruire un&#39;antenna per comunicare con l&#39;Orbital Temple e altri satelliti."
+    }
+  },
+  "technology": {
+    "heading": "La tecnologia: satelliti PocketQube",
+    "paragraph1": "Gli studenti impareranno a lavorare con i satelliti <strong>PocketQube</strong> , un nanosatellite standard che misura appena <strong>5 cm³</strong> e pesa fino a <strong>250 g</strong> . Nonostante le loro dimensioni ridotte, i PocketQube sono strumenti potenti in grado di osservare, monitorare e comunicare la Terra.",
+    "paragraph2": "Questi satelliti compatti hanno numerose applicazioni concrete, dalla ricerca scientifica sui cambiamenti climatici alle comunicazioni intercontinentali. Essendo più piccoli e leggeri, sono più economici da costruire e lanciare, rendendo lo spazio più accessibile a studenti, ricercatori e artisti di tutto il mondo."
+  },
+  "globalAccess": {
+    "heading": "Accesso globale, partendo dal Sud del mondo",
+    "paragraph1": "Il corso sarà accessibile a chiunque <strong>abbia almeno 16 anni</strong> , in modo completamente <strong>gratuito</strong> . Inizieremo con contenuti in <strong>portoghese</strong> , <strong>spagnolo</strong> , <strong>inglese</strong> e <strong>hindi</strong> , con l&#39;intenzione di estenderli ad altre lingue man mano che il programma crescerà.",
+    "paragraph2": "La nostra missione inizia nel Sud del mondo e si estende al mondo intero, assicurando che la prossima generazione di esploratori spaziali provenga da ogni angolo della Terra."
+  },
+  "callToAction": {
+    "heading": "Aiutaci a realizzare questo progetto",
+    "content": "Questo programma educativo è attualmente in fase di sviluppo. Siamo alla ricerca di partner e donatori che condividano la nostra visione di democratizzare l&#39;accesso alla tecnologia spaziale. Se tu o la tua organizzazione desiderate sostenere questa iniziativa, visitate la nostra <a href=\"/support\">pagina di supporto</a> per scoprire le opportunità di partnership."
+  },
+  "imageAlt": "Satellite del tempio orbitale"
+}

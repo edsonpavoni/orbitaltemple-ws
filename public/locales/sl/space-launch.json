@@ -1,0 +1,16 @@
+{
+  "title": "Vesoljska izstrelitev - Orbitalni tempelj",
+  "heading": "Izstrelitev v vesolje",
+  "intro": "Orbitalni tempelj naj bi bil izstreljen z raketo PSLV (Polar Satellite Launch Vehicle) 28. novembra 2025 iz vesoljskega centra Satish Dhawan v Sriharikoti v Indiji.",
+  "partnership": "Izstrelitev Orbital Temple je partnerstvo med NewSpace India Limited (NSIL), podjetjem indijske vlade v okviru Ministrstva za vesolje, korporacije Antrix, in umetnikom. To sodelovanje predstavlja pomemben mejnik za umetnost v raziskovanju vesolja, saj združuje indijski vesoljski program z umetniško vizijo radikalne vključenosti.",
+  "risks": {
+    "heading": "Tveganja",
+    "paragraph1": "Satelit je bil zgrajen tako, da prenese ekstremne vibracijske pogoje in toplotne cikle ter je bil podvržen strogim testiranjem. Vendar pa izstrelitve v vesolje prinašajo inherentna tveganja. Če se satelit med izstrelitvijo ali uvajanjem poškoduje ali če ne vzpostavi komunikacije z našimi zemeljskimi postajami, bomo poskušali odpraviti morebitne težave. Satelit ima redundantne sisteme in rezervne protokole, zasnovane za povečanje možnosti za uspeh misije.",
+    "paragraph2": "Poleg tega lahko satelit ostane v orbiti manj kot 10 let, če atmosferski pogoji ali drugi dejavniki povzročijo zgodnejši razpad orbite. Čeprav smo ga zasnovali tako, da zdrži vsaj desetletje, je dejanska življenjska doba odvisna od pogojev, ki jih ne moremo v celoti nadzorovati.",
+    "paragraph3": "Če prva izstrelitev ne uspe ali če te misije ne bomo mogli izpolniti po načrtih, bomo raziskali alternativne poti naprej, vključno z drugim poskusom izstrelitve z razpoložljivim proračunom, partnerstvom z drugimi misijami ali dokumentiranjem poskusa kot dela pripovedi umetniškega dela o aspiracijah in omejitvah."
+  },
+  "imageAlts": {
+    "india": "Vesoljski center ISRO, Indija",
+    "satellite": "Orbitalni tempeljni satelit"
+  }
+}

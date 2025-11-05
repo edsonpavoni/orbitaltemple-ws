@@ -1,0 +1,16 @@
+{
+  "title": "Lanzamiento espacial - Templo orbital",
+  "heading": "Lanzamiento espacial",
+  "intro": "El lanzamiento del Templo Orbital está programado para realizarse a bordo de un PSLV (Vehículo de Lanzamiento de Satélites Polares) el 28 de noviembre de 2025 desde el Centro Espacial Satish Dhawan en Sriharikota, India.",
+  "partnership": "El lanzamiento de Orbital Temple es una colaboración entre NewSpace India Limited (NSIL), una empresa del Gobierno de la India dependiente del Departamento del Espacio, Antrix Corporation y el artista. Esta colaboración representa un hito importante para el arte en la exploración espacial, al aunar el programa espacial de la India con una visión artística de inclusión radical.",
+  "risks": {
+    "heading": "riesgos",
+    "paragraph1": "El satélite fue construido para soportar condiciones extremas de vibración y ciclos térmicos, y ha sido sometido a pruebas rigurosas. Sin embargo, los lanzamientos espaciales conllevan riesgos inherentes. Si el satélite sufre daños durante el lanzamiento o el despliegue, o si no logra establecer comunicación con nuestras estaciones terrestres, trabajaremos para diagnosticar y resolver cualquier problema. El satélite cuenta con sistemas redundantes y protocolos de respaldo diseñados para maximizar las probabilidades de éxito de la misión.",
+    "paragraph2": "Además, el satélite podría permanecer en órbita menos de 10 años si las condiciones atmosféricas u otros factores provocan una degradación orbital prematura. Si bien lo hemos diseñado para que dure al menos una década, su vida útil real depende de condiciones que no podemos controlar por completo.",
+    "paragraph3": "Si el primer lanzamiento fracasa, o si no podemos cumplir esta misión según lo planeado, exploraremos caminos alternativos, que potencialmente incluirán un segundo intento de lanzamiento con el presupuesto disponible, la colaboración con otras misiones o la documentación del intento como parte de la narrativa de la obra de arte sobre la aspiración y la limitación."
+  },
+  "imageAlts": {
+    "india": "Centro Espacial ISRO, India",
+    "satellite": "Satélite del Templo Orbital"
+  }
+}

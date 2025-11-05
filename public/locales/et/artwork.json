@@ -1,0 +1,31 @@
+{
+  "title": "Kunstiteos - Orbitaalne Tempel",
+  "heading": "Kunstiteos",
+  "intro": {
+    "paragraph1": "Orbitaaltempel on kunstilise missiooniga satelliit: mälestusmärk kosmoses, mis on avatud igale Maal elavale või elanud tundlikule olendile.",
+    "paragraph2": "Tehnoloogiliste vahendite abil saab igaüks saata templisse kellegi nime, olgu see siis surnud inimene, väga elusolev inimene või ükskõik milline olend, kes väärib mäletamist."
+  },
+  "sculpture": {
+    "heading": "Skulptuur",
+    "paragraph1": "Kunstiteosel on kolm omavahel seotud elementi: satelliit, mis on spetsiaalselt loodud miljardite nimede salvestamiseks; avalik skulptuur, mis vahetab satelliidiga teavet; ja veebisait, mille kaudu osalejad saadavad nimesid taevasse praegusest hetkest kuni surmani.",
+    "paragraph2": "Multidistsiplinaarse ettevõtmisena võib Orbitaalset Templit pidada kohaspetsiifiliseks skulptuuriks, mis asustab ruumi. See on ka Artsati projekt."
+  },
+  "antenna": {
+    "heading": "Antenn avaliku skulptuurina",
+    "paragraph1": "Antenn, mis ühendab meid kosmosega.",
+    "paragraph2": "Projekteerimisel on antenn, mis hakkab orbitaalsatelliidiga otseühenduses olema.",
+    "paragraph3": "Kuldse peegeldava pinnaga, mis peegeldab enda kohal olevat taevast, on see massilise stimulatsiooni (või meie suhte sellega, mis \"seal üleval\" on) lähtepunkt.",
+    "paragraph4": "Kuigi skulptuure ei paigaldata enamikus maailma paikades, saadavad meie Maast pärit raamid, mis praegu satelliiti juhivad, nimed iga läbipääsu korral.",
+    "paragraph5": "Aita seda visiooni oma linna ellu viia – paigalda antenniskulptuure, mis inspireerivad vestlusi kosmoseuuringute, kunsti ja meie ühise koha üle kosmoses. <a href=\"/support\">Lisateavet projekti toetamise kohta leiate siit</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitaalse Templi satelliit",
+    "riseNy": "Orbitaalne tempel Rise'is, New Yorgis",
+    "installation": "Clara Marquesi \"Orbitaalne tempel\"",
+    "antenna": "Orbitaalse templi antenn"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitaaltempel kosmoses. 3D-renderdus ettevõttelt RiseNY&Partners.",
+    "mercosul": "Orbitaalse templi installatsioon Mercosuli biennaalil Porto Alegres Brasiilias.<br> Foto autor Clara Marques."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Hogyan működik - Orbitális Templom",
+  "heading": "Hogyan működik",
+  "intro": "Az Orbitális Templom projekt három összekapcsolódó elemből áll, amelyek együttműködve neveket küldenek az űrben lévő templomba.",
+  "paragraph1": "A műhold körülbelül 525 km-es magasságban kering a Föld körül, és a neveket a memóriájában tárolja. A földi állomások kommunikálnak a műholddal az áthaladásai során, és továbbítják a felhasználók által a weboldalon keresztül beküldött neveket.",
+  "paragraph2": "Amikor beküldsz egy nevet, az bekerül egy várólistába, és a következő elérhető átvitel során továbbításra kerül a műholdra. E-mailben visszaigazolást kapsz, amikor a neved sikeresen felkerült az Orbitális Templomba.",
+  "imageAlt": "Orbitális templomrendszer diagramja"
+}

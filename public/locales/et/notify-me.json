@@ -1,0 +1,13 @@
+{
+  "title": "Olge teavitatud - Orbitaalne Tempel",
+  "heading": "Saage teada, kui see tõuseb",
+  "description": "28. novembril 2025 tõuseb Orbitaaltempel.<br> Jäta oma e-posti aadress ja me anname sulle teada, kui see ruumi jõuab.",
+  "form": {
+    "emailPlaceholder": "sinu@email.com",
+    "sendButton": "Saada",
+    "sendingButton": "Saadetakse...",
+    "successMessage": "Me jõuame teieni, kui see tõuseb.",
+    "errorMessage": "Midagi läks valesti. Palun proovi uuesti."
+  },
+  "backLink": "← Tagasi loenduri juurde"
+}

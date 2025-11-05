@@ -1,0 +1,31 @@
+{
+  "title": "A Obra de Arte - Templo Orbital",
+  "heading": "A Obra de Arte",
+  "intro": {
+    "paragraph1": "O Templo Orbital é um satélite com uma missão artística: um memorial no espaço sideral aberto a todos os seres sencientes que vivem ou viveram na Terra.",
+    "paragraph2": "Por meios tecnológicos, qualquer pessoa pode enviar o nome de alguém ao Templo, seja alguém que faleceu, uma pessoa viva ou qualquer ser que mereça ser lembrado."
+  },
+  "sculpture": {
+    "heading": "A escultura",
+    "paragraph1": "A obra de arte possui três elementos interdependentes: um satélite especialmente projetado para armazenar bilhões de nomes; uma escultura pública que troca informações com o satélite; e um site através do qual os participantes enviam os nomes, a partir de agora até o momento de seu falecimento, para o céu.",
+    "paragraph2": "Como um empreendimento multidisciplinar, o Templo Orbital pode ser considerado uma escultura site-specific, que ocupa o espaço. É também um projeto da Artsat."
+  },
+  "antenna": {
+    "heading": "A Antena como Escultura Pública",
+    "paragraph1": "Uma antena que nos conecta com o espaço sideral.",
+    "paragraph2": "Está sendo projetada uma antena que se comunicará diretamente com o satélite em órbita.",
+    "paragraph3": "Com uma superfície dourada refletora, que espelha o céu acima, é um ponto de partida para a estimulação em massa (ou para a nossa relação com o que está 'lá em cima').",
+    "paragraph4": "Embora as esculturas não estejam instaladas na maioria das partes do mundo, nosso sistema Frames from Earth, que atualmente controla o satélite, está enviando os nomes a cada passagem.",
+    "paragraph5": "Ajude a levar essa visão para sua cidade — instalando esculturas de antenas que inspiram conversas sobre exploração espacial, arte e nosso lugar compartilhado no cosmos. <a href=\"/support\">Saiba mais sobre como apoiar o projeto</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satélite do Templo Orbital",
+    "riseNy": "Templo Orbital em Rise NY",
+    "installation": "Templo Orbital por Clara Marques",
+    "antenna": "Antena do Templo Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Templo orbital no espaço. Renderização 3D por RiseNY&Partners.",
+    "mercosul": "Instalação do Templo Orbital na Bienal do Mercosul, em Porto Alegre, Brasil.<br> Foto de Clara Marques."
+  }
+}

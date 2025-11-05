@@ -1,0 +1,8 @@
+{
+  "title": "Comment ça marche - Temple orbital",
+  "heading": "Comment ça marche",
+  "intro": "Le projet du Temple Orbital se compose de trois éléments interconnectés qui fonctionnent ensemble pour envoyer des noms au temple dans l'espace.",
+  "paragraph1": "Le satellite orbite autour de la Terre à une altitude d'environ 525 km et stocke les noms dans sa mémoire. Des stations au sol communiquent avec le satellite lors de ses passages, transmettant les noms que les internautes ont soumis via le site web.",
+  "paragraph2": "Lorsque vous soumettez un nom, il est ajouté à une file d'attente et sera transmis au satellite lors du prochain passage disponible. Vous recevrez un courriel de confirmation une fois votre nom correctement téléchargé sur le Temple Orbital.",
+  "imageAlt": "Diagramme du système du temple orbital"
+}

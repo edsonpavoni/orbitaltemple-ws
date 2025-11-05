@@ -1,0 +1,16 @@
+{
+  "title": "Rumlancering - Orbitaltempel",
+  "heading": "Rumlancering",
+  "intro": "Orbital Temple er planlagt til at blive opsendt ombord på en PSLV (Polar Satellite Launch Vehicle) den 28. november 2025 fra Satish Dhawan Space Centre i Sriharikota, Indien.",
+  "partnership": "Opsendelsen af Orbital Temple er et partnerskab mellem NewSpace India Limited (NSIL), et indisk selskab underlagt Department of Space, Antrix Corporation, og kunstneren. Dette samarbejde repræsenterer en betydelig milepæl for kunst inden for rumforskning, der forener Indiens rumprogram med en kunstnerisk vision om radikal inklusion.",
+  "risks": {
+    "heading": "Risici",
+    "paragraph1": "Satellitten blev bygget til at modstå ekstreme vibrationsforhold og termiske cyklusser og har gennemgået grundige tests. Rumopsendelser indebærer dog iboende risici. Hvis satellitten beskadiges under opsendelse eller udsendelse, eller hvis den ikke kan etablere kommunikation med vores jordstationer, vil vi arbejde på at fejlfinde og løse eventuelle problemer. Satellitten har redundante systemer og backupprotokoller designet til at maksimere chancerne for missionssucces.",
+    "paragraph2": "Derudover kan satellitten forblive i kredsløb i mindre end 10 år, hvis atmosfæriske forhold eller andre faktorer forårsager tidligere orbital henfald. Selvom vi har designet den til at holde i mindst et årti, afhænger den faktiske levetid af forhold, vi ikke fuldt ud kan kontrollere.",
+    "paragraph3": "Hvis den første opsendelse mislykkes, eller hvis vi ikke er i stand til at gennemføre denne mission som planlagt, vil vi undersøge alternative veje fremad, potentielt inklusive et andet opsendelsesforsøg med tilgængeligt budget, partnerskab med andre missioner eller dokumentation af forsøget som en del af kunstværkets fortælling om aspiration og begrænsning."
+  },
+  "imageAlts": {
+    "india": "ISRO Rumcenter, Indien",
+    "satellite": "Orbital Temple Satellit"
+  }
+}

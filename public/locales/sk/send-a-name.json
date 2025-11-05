@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "keď vstúpite\ndo rituálu\nna odoslanie mena\ndo\norbitálneho chrámu\nvo vesmíre\nnadýchnite sa\n",
+    "button": "som pripravený"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "napíšte meno",
+    "subtitle": "vystúpi do Orbitálneho chrámu vo vesmíre.",
+    "placeholder": "meno",
+    "button": "nech to stúpa"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "napíšte svoj e-mail",
+    "subtitle": "takže dostanete správu, keď sa meno objaví na vzostupe.",
+    "placeholder": "váš e-mail",
+    "button": "je to hotové"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Načítava sa"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "meno\n{{name}}\nje teraz zaradené\ndo poradia na vzostup.\nkeď sa\nchrám vo vesmíre\nzarovná s\nnašou anténou\nna Zemi,\npošleme\nmeno\na vy dostanete\nsprávu."
   }
 }

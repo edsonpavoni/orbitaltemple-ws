@@ -1,0 +1,13 @@
+{
+  "title": "Būkite informuoti – Orbitinė šventykla",
+  "heading": "Būkite informuoti, kai pakils",
+  "description": "2025 m. lapkričio 28 d. pakils Orbitinė šventykla.<br> Palikite savo el. pašto adresą, ir mes jums pranešime, kai bus vietos.",
+  "form": {
+    "emailPlaceholder": "jūsų@el.paštas.com",
+    "sendButton": "Siųsti",
+    "sendingButton": "Siunčiama...",
+    "successMessage": "Mes jus pasieksime, kai jis pakils.",
+    "errorMessage": "Kažkas nepavyko. Bandykite dar kartą."
+  },
+  "backLink": "← Atgal į atgalinį skaičiavimą"
+}

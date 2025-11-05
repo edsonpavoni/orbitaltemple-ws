@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "saat Anda memasuki\nsebuah ritual\nuntuk mengirimkan sebuah nama\nke dalam\nkuil orbital\ndi luar angkasa\nambil\nnapas",
+    "button": "aku siap"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "ketik nama",
+    "subtitle": "itu akan naik ke Kuil Orbital di luar angkasa.",
+    "placeholder": "nama",
+    "button": "biarkan naik"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "ketik email Anda",
+    "subtitle": "jadi Anda mendapat pesan saat nama itu naik.",
+    "placeholder": "email Anda",
+    "button": "sudah selesai"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Memuat"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "Nama\n{{name}}\nkini sedang dalam antrean\nuntuk kenaikan.\nKetika\nkuil di angkasa\nsejajar dengan\nantena kita\ndi Bumi\nkita akan mengirimkan\nnama tersebut\ndan Anda akan menerima\nsebuah pesan."
   }
 }

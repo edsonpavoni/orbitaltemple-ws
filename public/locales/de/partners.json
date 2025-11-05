@@ -1,0 +1,50 @@
+{
+  "title": "Partner – Orbitaltempel",
+  "heading": "Partner",
+  "intro": "Orbital Temple verdankt sein Dasein der Großzügigkeit, dem Fachwissen und der Vision außergewöhnlicher Partner. Von der Entwicklung von Satelliten bis zum Erschaffen von Geschichten, von der Erschließung ferner Länder bis zum Verwirklichen von Träumen in Gold – jede Zusammenarbeit bringt diesen Tempel den Sternen näher.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Kommunikation, integrierte Erlebnisse und atemberaubende 3D-Renderings, die die Vision des Satelliten zum Leben erweckten, noch bevor er die Leere des Weltraums berührte."
+    },
+    "highestMantra": {
+      "name": "Unser höchstes Mantra",
+      "description": "Unter der Leitung von Sathi Roy wird der Orbital Temple mit Indiens spirituellen und künstlerischen Gemeinschaften vernetzt. Dadurch werden Wege für Spendenaktionen, kulturellen Austausch und eine Ausstellung auf der Art Basel im Anschluss an die Eröffnung im November 2025 geebnet."
+    },
+    "allToSpace": {
+      "name": "Alles ins Weltall",
+      "description": "Brasilianische Kleinsatelliten-Spezialisten. Vier Jahre Zusammenarbeit beim Aufbau einer Open-Source-Hardwareplattform und Pionierarbeit beim Transport von Kunstwerken aus dem globalen Süden in den Orbit."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indische Weltraumforschungsorganisation. Startanbieter für die PSLV-Mission, die den Orbitaltempel im November 2025 in eine sonnensynchrone Umlaufbahn bringen soll."
+    },
+    "mercosul": {
+      "name": "13. Mercosur-Biennale",
+      "description": "Porto Alegre, Brasilien. Kuratiert von Marcello Dantas mit den Assistenzkuratoren Laura Cattani, Munir Klamt, Tarsila Riso und Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Das Satellitenentwicklungsteam wurde während des II. ArtSat-Workshops gebildet. Koordiniert von Fabiane M. Borges, unter Anleitung von Lázaro Camargo, zusammen mit Ítalo Pinto Rodrigues, betreut von Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solid Concepts",
+      "description": "Unter der Leitung von Eduardo Dias. Sämtliche Arbeiten im Bereich 3D-Druck und Goldmikroguss für die skulpturale Kuppel verwandeln digitale Visionen in Realität aus Edelmetall."
+    },
+    "ideaSpace": {
+      "name": "Ideenraum",
+      "description": "Das brasilianische Bildungs-Startup entwickelt den Lehrplan des Quebrada-Weltraumprogramms, der für Gymnasiasten in ganz Brasilien eingesetzt werden soll."
+    }
+  },
+  "closing": "Interesse an einer Partnerschaft mit Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Melden Sie sich</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "Unser höchstes Mantra-Logo",
+    "allToSpace": "Alle ins Weltall-Logo",
+    "isro": "ISRO-Logo",
+    "mercosul": "Logo der 13. Mercosur-Biennale",
+    "inpe": "INPE ArtSat Workshop Logo",
+    "solidConcepts": "Solid Concepts Logo",
+    "ideaSpace": "Logo des Ideenraums"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Od artysty",
+  "opening": {
+    "question": "Kim jest ten facet, który proponuje budowę świątyni w kosmosie?",
+    "thanks": "Dziękuję za pytanie.",
+    "answer": "Krótka odpowiedź brzmi: jestem artystą. Dłuższa brzmi tak:"
+  },
+  "origin": {
+    "sao_paulo": "Urodziłem się na obrzeżach São Paulo, w dzielnicy, która wcześnie nauczyła mnie, co oznacza niebezpieczeństwo. Wielu moich szkolnych kolegów siedzi teraz w więzieniu. Mój ojczym też. Przemoc nie była czymś, o czym czytałem, to był świat, w którym musiałem się odnaleźć. I wiedziałem, że muszę uciec.",
+    "technology": "Technologia stała się moim sposobem na wyjście z biedy. Nauczyłem się programować i elektroniki jako nastolatek. Kod był językiem, który mógł mnie przenieść w inne miejsce. Praca z technologią była moją ucieczką od ubóstwa.",
+    "christianity": "Ale szukałem też przynależności, miłości, czegoś, w co mógłbym wierzyć. Znalazłem chrześcijaństwo, a raczej ono znalazło mnie. Zostałem zaakceptowany. Byłem kochany. Miałem wspólnotę. Nauczyłem się wybaczać, wierzyć, działać razem dla większego celu.",
+    "price": "Cena była jednak wysoka. Nauczyłem się też wielu rzeczy, których wciąż nie potrafię oduczyć. Więc i od tego uciekłem."
+  },
+  "searching": {
+    "walls": "Wiem, co robią mury. Czułem je. Byłem po obu stronach: trzymany na dystans i trzymany w zamknięciu. Potem nastąpiły lata poszukiwań czegoś, czego nie potrafiłem nazwać. Bóg umarł w tym czasie. Ten bóg, o którym mnie uczono, ten z zasadami, osądem i drzwiami, które otwierają się tylko przed niektórymi.",
+    "art": "Zacząłem tworzyć sztukę, aby zgłębiać te pytania: o intymność i technologię, o pamięć i śmierć, o to, kto zasługuje na niebo. Zacząłem budować maszyny, które na nowo wyobrażają sobie naszą relację z technologią, maszyny, które potrzebują twojego udziału, twojej obecności, twojego imienia, aby przekształcić się z metalu i kodu w coś żywego."
+  },
+  "pandemic": {
+    "intro": "Następnie pandemia dotarła do Brazylii.",
+    "government": "Kiedy szczepionki przeciwko COVID-19 zostały opóźnione, mój rząd negocjował łapówki w wysokości jednego dolara za dawkę. Promowali leki, o których powszechnie uważano, że są nieskuteczne, śmiejąc się, gdy ludzie umierali z trudem łapiąc oddech. Budziliśmy się każdego dnia z inną liczbą. Ile osób zmarło w ciągu ostatnich 24 godzin? Więcej, czy mniej niż oczekiwano?",
+    "war": "Połowa świata była przerażona, a druga połowa żyła w zaprzeczeniu. Toczyliśmy wojnę z wirusem i ze sobą nawzajem.",
+    "memorial": "Chciałem stworzyć przestrzeń dla zbiorowej żałoby, więc wspólnie z setkami ludzi stworzyłem Memorial Inumeráveis. Dzieło sztuki na styku sztuki i dziennikarstwa. Przeprowadziliśmy wywiady z rodzinami, które straciły kogoś bliskiego. Spisaliśmy historię życia osoby, którą stracili. Przekształciliśmy liczby w historie. Z tych historii powstały wiersze, piosenki, symfonie. Gwiazdy czytały te historie w telewizji ogólnopolskiej. Projekt dotarł do milionów odbiorców.",
+    "meaning": "Nie skala miała znaczenie, ale to, że każda historia była imieniem, życiem, czyimś niebem."
+  },
+  "discovery": {
+    "pattern": "Po ponad dziesięciu tysiącach rozmów o żałobie, zaczął wyłaniać się pewien schemat. Kiedy mówimy o kimś, kto zmarł, nie mówimy tylko dobrych rzeczy; wybieramy fragmenty jego historii, jakbyśmy pisali list polecający. Rekomendację dla strażnika raju. Robimy, co w naszej mocy, aby wysłać go do miejsca akceptacji, odpoczynku, szacunku i pamięci.",
+    "understanding": "I zrozumiałem coś, co zmieniło wszystko: zostaliśmy zranieni przez same świątynie, które zbudowaliśmy. Nasze przekonania o tym, kto zasługuje na niebo, bezpośrednio kształtują tych, których wykluczamy na Ziemi. Portugalscy kolonizatorzy w Brazylii wierzyli, że czarni ludzie nie mają duszy; to przekonanie uzasadniało niewolnictwo. Jeśli byłeś rdzennym mieszkańcem, jeśli urodziłeś się w niewłaściwym miejscu lub kochałeś niewłaściwą osobę, mówiono ci, że bramy nieba są dla ciebie zamknięte.",
+    "birth": "Tak narodziło się Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Żaden artysta nie może być prawdziwie świecki. Jesteśmy na zawsze związani z naszym wspólnym przodkiem, szamanem. Na początku istniała jaskinia. Ludzie malowali zwierzęta na ścianach nie po to, by je ozdabiać, lecz by przywoływać. Tańczyli, a jaskinia stała się świątynią. Szaman włada duchem rytuału; artysta włada aurą sztuki. Malujemy, rzeźbimy, kodujemy, projektujemy naszą wymarzoną przyszłość nie po to, by je ozdabiać, lecz by przywoływać. Wszelka sztuka jest duchowa, nawet jeśli twierdzi, że nią nie jest."
+  },
+  "space": {
+    "question": "Gdzie moglibyśmy zbudować świątynię bez murów? Gdzie żaden naród ani religia nie mogłyby się domagać. Gdzie moglibyśmy wyobrazić sobie siebie jako jedną grupę.",
+    "answer": "Przestrzeń.",
+    "description": "Partycypacyjny satelita artystyczny z Globalnego Południa. Świątynia na orbicie, która zaprasza wszystkich do wysłania swoich imion w kosmos, niezależnie od tego, kim są, gdzie się urodzili, kogo kochają i w co wierzą. Miejsce, gdzie radykalna inkluzja jest możliwa, na orbicie, ponad granicami.",
+    "mission": "Ta misja jest oparta na otwartym kodzie źródłowym. Każdy dokument techniczny, każda linijka kodu będzie dostępna bezpłatnie, aby inni artyści, inne społeczności i inne narody mogły budować własne satelity. Globalne Południe nie tylko uczestniczy w eksploracji kosmosu, ale wręcz ją przewodzi."
+  },
+  "closing": {
+    "answer": "Kim więc jest ten facet, który buduje świątynię w kosmosie? Ja jej nie buduję. Świątynię budują wszyscy, którzy decydują się wysłać imię, postrzegać je jako święte, urzeczywistniać je. Ja tylko proponuję. Ty ją budujesz, jeśli tak zdecydujesz.",
+    "signature": "Uprzejmie,",
+    "name": "Edson Pavoni"
+  }
+}

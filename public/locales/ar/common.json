@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "العمل الفني",
+    "sendAName": "أرسل اسمًا",
+    "fromTheArtist": "من الفنان",
+    "yetAnotherTemple": "ومعبد آخر؟",
+    "howItWorks": "كيف يعمل",
+    "spaceLaunch": "إطلاق الفضاء والمخاطر",
+    "briefHistory": "تاريخ موجز للفن في الفضاء",
+    "education": "التعليم والمصدر المفتوح",
+    "sustainability": "الاستدامة والحطام الفضائي",
+    "press": "الصحافة والإعلام",
+    "team": "فريق",
+    "partners": "الشركاء",
+    "support": "يدعم",
+    "technicalInfo": "المعلومات الفنية"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "شعيرة",
+    "ariaLabel": "أدخل الطقوس - أرسل اسمًا إلى معبد المداري"
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "المعبد المداري هو عمل فني لإدسون بافوني، تم إنشاؤه بالتعاون مع بيدرو كاليد، وجواو بيدرو بوليتو، وفيكتور بابتيستا وجواو فيكتور ألفيس، وأندريه بياجيوني، وفي كيه، وجوناثان كويروبينا، وغويلهيرم بوليخوس، وإدواردو دياس، وروبرتا سافيان روزا، وكلارا ماركيز، وساتي روي، وجميع أولئك الذين يواصلون إرسال الأسماء إلى هذا المعبد."
   }
 }

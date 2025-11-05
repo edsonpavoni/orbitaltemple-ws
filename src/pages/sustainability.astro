@@ -1,107 +1,13 @@
 ---
 import Base from "../layouts/BaseLayout.astro";
 import Footer from "../components/Footer.astro";
+import SustainabilityContent from "../components/SustainabilityContent";
 ---
 <Base title="Sustainability & Space Debris - Orbital Temple">
 
   <main class="artwork-page">
 
-    <!-- Main Title -->
-    <h1 class="artwork-title">
-      Sustainability
-    </h1>
-
-    <!-- Opening -->
-    <p class="body-text">
-      If art is to lead us into the future, it must demonstrate the values we want that future to hold.
-    </p>
-
-    <p class="body-text body-text--section-end">
-      We believe sustainability is not a constraint. It is a design principle. It is proof that ambition and responsibility can coexist.
-    </p>
-
-    <!-- Space Debris -->
-    <h2 class="section-heading">
-      Space Debris
-    </h2>
-
-    <p class="body-text">
-      Like all modern space projects, Orbital Temple is committed to responsible spaceflight. We have conducted comprehensive testing to ensure our satellite meets international standards for orbital safety and end-of-life disposal. This includes structural integrity testing, collision avoidance planning, and deorbiting protocols.
-    </p>
-
-    <p class="body-text">
-      Our satellite is designed to minimize the risk of becoming space debris. At the end of its operational life, it will follow established deorbiting procedures to ensure it does not remain as a hazard in orbit. We have coordinated with ISRO to ensure that our launch trajectory and orbital parameters comply with space debris mitigation guidelines set by international organizations including the Inter-Agency Space Debris Coordination Committee (IADC) and the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS).
-    </p>
-
-    <p class="body-text body-text--section-end">
-      The satellite has a planned orbital life of 10 years, after which it will safely re-enter Earth's atmosphere, leaving no debris in outer space. We are committed to occupying space in a sustainable way. The future of space exploration depends on our collective responsibility to keep orbital environments safe and accessible for generations to come.
-    </p>
-
-    <!-- Carbon Neutrality -->
-    <h2 class="section-heading">
-      Carbon Neutrality
-    </h2>
-
-    <p class="body-text body-text--section-end">
-      All carbon emissions will be neutralized, including the rocket launch and the fabrication of the satellite. We are working with verified carbon offset programs to ensure that this mission leaves no negative environmental footprint. Space exploration should not come at the cost of the planet we are leaving behind.
-    </p>
-
-    <!-- Open Source Hardware -->
-    <h2 class="section-heading">
-      Open Source Hardware
-    </h2>
-
-    <p class="body-text">
-      Sustainability is not just about what we do. It is about what we enable others to do. Every component of Orbital Temple is built using open-source hardware. The schematics, code, and design files will be freely available for anyone to study, modify, and build upon.
-    </p>
-
-    <p class="body-text body-text--section-end">
-      By making our technology open, we democratize access to space. We reduce waste by allowing others to learn from what we have already built. We believe knowledge should not be hoarded. It should be shared, so that the next generation can go further than we did.
-    </p>
-
-    <!-- Educational Impact -->
-    <h2 class="section-heading">
-      Educational Impact
-    </h2>
-
-    <p class="body-text">
-      The most sustainable investment is education. Orbital Temple's educational program aims to train thousands of teenagers from the Global South in satellite technology, breaking down the barriers that have kept space exploration exclusive to wealthy nations.
-    </p>
-
-    <p class="body-text body-text--section-end">
-      When we teach, we multiply impact. Every student who learns to build satellites becomes a force for change in their community. This is how we create a sustainable future for space exploration: by ensuring the next generation has the tools, knowledge, and confidence to participate.
-    </p>
-
-    <!-- Long-Term Thinking -->
-    <h2 class="section-heading">
-      A 10-Year Mission
-    </h2>
-
-    <p class="body-text">
-      Orbital Temple is not a moment. It is a decade. This mission is designed to function for 10 years, responding to names sent from every corner of the planet, serving as a living temple in the sky.
-    </p>
-
-    <p class="body-text body-text--section-end">
-      We are partnering with The Roy Foundation to build the infrastructure needed to sustain this vision: not just for launch day, but for the entire decade ahead. Sustainability means thinking beyond the immediate. It means building systems that last.
-    </p>
-
-    <!-- Art's Responsibility -->
-    <h2 class="section-heading">
-      Art's Responsibility
-    </h2>
-
-    <p class="body-text">
-      Art doesn't just reflect the future, it creates the imaginaries we follow to create it. If we want a future where space is accessible, where technology serves humanity, where resources are used responsibly, then art can help to show the way.
-    </p>
-
-    <p class="body-text body-text--section-end">
-      Orbital Temple is a demonstration that ambition, beauty, and responsibility are not in conflict. We are proving that you can launch a satellite into space while caring deeply about the impact you leave behind.
-    </p>
-
-    <!-- Satellite Image -->
-    <div style="margin-top: 6rem; margin-bottom: 4rem; max-width: 100%;">
-      <img src="/satellite/OT_site_0005.webp" alt="Orbital Temple Satellite" style="width: 100%; height: auto; border-radius: 8px; opacity: 0.9;" />
-    </div>
+    <SustainabilityContent client:only="react" />
 
     <!-- Footer -->
     <footer class="artwork-footer">

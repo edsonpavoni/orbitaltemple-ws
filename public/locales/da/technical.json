@@ -1,0 +1,17 @@
+{
+  "title": "Teknisk information - Orbitaltempel",
+  "heading": "Tekniske oplysninger",
+  "satellite": {
+    "heading": "Satellit",
+    "specs": "Dimensioner: 50x58x64 mm<br /> 1P PocketQube<br /> Vægt: 245 g<br /> Materialer: aluminium, guld, glasfiber og elektroniske komponenter.<br /> Bane: Højde 525 ± 25 km; hældning: SSO 97,6 ± 0,1°<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) drevet af ISRO"
+  },
+  "antenna": {
+    "heading": "Antenne/Skulptur",
+    "specs": "Dimensioner: 6 m (diameter) og 1,2 m (højde)<br /> Vægt: 46 kg<br /> Materialer: aluminium, epoxy spejlplade, gylden aluminiumskuppel ophængt i en stilladsstruktur."
+  },
+  "radio": {
+    "heading": "Radiospecifikationer",
+    "specs": "Downlink: 468,5 MHz<br /> Modulation: CSS<br /> Båndbredde: TBD"
+  },
+  "imageAlt": "Orbital Temple Satellit"
+}

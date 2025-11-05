@@ -1,0 +1,31 @@
+{
+  "title": "Donér til Orbital Temple",
+  "heading": "Færdiggør din donation",
+  "donatingTo": "Du donerer til:",
+  "chooseHow": "Vælg hvordan du ønsker at gennemføre din skattefradragsberettigede donation:",
+  "option1": {
+    "heading": "Mulighed 1: Donér online nu",
+    "description": "Gennemfør din donation med det samme ved hjælp af kreditkort, betalingskort eller andre online betalingsmetoder via vores sikre økonomiske sponsor, <strong>The Field</strong> . Du modtager en øjeblikkelig skattekvittering.",
+    "button": "Donér via The Field →"
+  },
+  "option2": {
+    "heading": "Mulighed 2: Bankindskud til Roy Foundation",
+    "description": "Foretag en direkte bankindbetaling eller bankoverførsel til <strong>The Roy Foundation</strong> , vores strategiske partner og økonomiske sponsor. Denne mulighed er ideel til større donationer eller internationale overførsler.",
+    "bankingInfo": "Bankoplysninger",
+    "fields": {
+      "accountName": "Kontonavn:",
+      "bankName": "Bankens navn:",
+      "accountNumber": "Kontonummer:",
+      "routingNumber": "Rutingsnummer:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Reference:"
+    },
+    "instructions": "Angiv venligst &quot; <strong>Orbital Temple - {donationType}</strong> &quot; i referencefeltet. Når du har gennemført din overførsel, bedes du sende os en e-mail på <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> med dine overførselsoplysninger for at modtage din skattekvittering.",
+    "button": "Kontakt os om indbetaling →"
+  },
+  "taxInfo": {
+    "heading": "Skattefradragsberettigede donationer",
+    "description": "Orbital Temple er et økonomisk sponsoreret projekt af <strong>The Field (Performance Zone Inc.)</strong> , en nonprofitorganisation <strong>under paragraf 501(c)(3)</strong> . Alle amerikanske bidrag er fradragsberettigede i det omfang, loven tillader det.",
+    "questions": "Spørgsmål? Kontakt os på <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "通知を受け取る - オービタル・テンプル",
+  "heading": "上昇時に通知を受け取る",
+  "description": "2025 年 11 月 28 日に軌道寺院が上昇します。<br>メールアドレスを残していただければ、宇宙に到着したらお知らせいたします。",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "送信",
+    "sendingButton": "送信中...",
+    "successMessage": "それが上昇したら、私たちはあなたに連絡します。",
+    "errorMessage": "問題が発生しました。もう一度お試しください。"
+  },
+  "backLink": "← カウントダウンに戻る"
+}

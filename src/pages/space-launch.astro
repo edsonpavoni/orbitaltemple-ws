@@ -1,51 +1,13 @@
 ---
 import Base from "../layouts/BaseLayout.astro";
 import Footer from "../components/Footer.astro";
+import SpaceLaunchContent from "../components/SpaceLaunchContent";
 ---
 <Base title="Space Launch - Orbital Temple">
 
   <main class="artwork-page">
 
-    <!-- Main Title -->
-    <h1 class="artwork-title">
-      Space Launch
-    </h1>
-
-    <!-- Content -->
-    <p class="body-text body-text--section-end">
-      The Orbital Temple is scheduled to be launched aboard a PSLV (Polar Satellite Launch Vehicle) on November 28th, 2025 from the Satish Dhawan Space Centre in Sriharikota, India.
-    </p>
-
-    <!-- Image -->
-    <figure class="artwork-image">
-      <img src="/launch/india.webp" alt="ISRO Space Center, India" />
-    </figure>
-
-    <p class="body-text body-text--section-end">
-      The Orbital Temple launch is a partnership between NewSpace India Limited (NSIL), <a href="https://www.isro.gov.in/" target="_blank" rel="noopener noreferrer">Indian Space Research Organisation (ISRO)</a>, <a href="https://www.ourhighestmantra.com/" target="_blank" rel="noopener noreferrer">OHM</a> and <a href="https://www.allto.space/" target="_blank" rel="noopener noreferrer">All to Space</a>. The satellite will be placed into a Sun-Synchronous Orbit at approximately 525 km altitude.
-    </p>
-
-    <!-- Risks Section -->
-    <h2 class="section-heading">
-      Risks
-    </h2>
-
-    <p class="body-text">
-      The satellite was built to endure extreme vibration, temperature shifts, and cosmic radiation. But the saying is true: space is hard. Many things can go wrong. The rocket could fail to deploy the satellite. The antenna might not unfold. The signal could never be acquired. A solar flare could disrupt communication. A single miscalculated spin could end its orbit early.
-    </p>
-
-    <p class="body-text">
-      Additionally, the satellite may stay in orbit for less than 10 years, or suffer malfunctions from causes we did not anticipate. Space is unpredictable, and even with rigorous testing and preparation, the unknown remains part of every space mission.
-    </p>
-
-    <p class="body-text body-text--section-end">
-      If the first launch fails, or if we are unable to accomplish this mission as planned, we will learn from our mistakes and launch a better version of the satellite. We will do that until we accomplish the mission of creating a temple in space.
-    </p>
-
-    <!-- Satellite Image -->
-    <div style="margin-top: 6rem; margin-bottom: 4rem; max-width: 100%;">
-      <img src="/satellite/OT_site_0010.webp" alt="Orbital Temple Satellite" style="width: 100%; height: auto; border-radius: 8px; opacity: 0.9;" />
-    </div>
+    <SpaceLaunchContent client:only="react" />
 
     <!-- Footer -->
     <footer class="artwork-footer">

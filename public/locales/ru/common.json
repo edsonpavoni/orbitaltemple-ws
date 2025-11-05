@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "произведение искусства",
+    "sendAName": "отправить имя",
+    "fromTheArtist": "от художника",
+    "yetAnotherTemple": "еще один храм?",
+    "howItWorks": "как это работает",
+    "spaceLaunch": "космический запуск и риски",
+    "briefHistory": "краткая история искусства в космосе",
+    "education": "образование и открытый исходный код",
+    "sustainability": "устойчивое развитие и космический мусор",
+    "press": "пресса и СМИ",
+    "team": "команда",
+    "partners": "партнеры",
+    "support": "поддерживать",
+    "technicalInfo": "техническая информация"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "ритуал",
+    "ariaLabel": "Примите участие в ритуале — отправьте имя в Орбитальный Храм."
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Орбитальный храм — это произведение Эдсона Павони, созданное в сотрудничестве с Педро Каледом, Жоао Педро Полито, Виктором Баптистой и Жоао Виктором Алвесом, Андре Бьяджони, ВК, Джонатаном Керубиной, Гильерме Бульехосом, Эдуардо Диасом, Робертой Савиан Роза, Кларой Маркес, Сати Рой и всеми теми, кто продолжает присылать имена этому храму."
   }
 }

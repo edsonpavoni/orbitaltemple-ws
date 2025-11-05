@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "의식에 들어가면서\n이름을\n우주의\n궤도 사원으로\n보내는\n의식에\n숨을\n들이쉬세요",
+    "button": "나는 준비됐어"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "이름을 입력하세요",
+    "subtitle": "그것은 우주의 궤도 사원으로 올라갈 것입니다.",
+    "placeholder": "이름",
+    "button": "올라가게 하세요"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "이메일을 입력하세요",
+    "subtitle": "이름이 올라가면 메시지를 받게 되는 거죠.",
+    "placeholder": "당신의 이메일",
+    "button": "그것은 완료되었습니다"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "로딩 중"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "이름\n{{name}}은(는) 지금\n상승 대기 중입니다.\n우주에 있는\n사원이\n지구에 있는\n우리의 안테나와\n일직선상에 놓이면\n우리는\n이름을\n보낼 것이고\n당신은\n메시지를 받을 것입니다."
   }
 }

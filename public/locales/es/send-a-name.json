@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "Al entrar\nen un ritual\npara enviar un nombre\nal\ntemplo orbital\nen el espacio\nrespira hondo",
+    "button": "Estoy listo"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "Escribe un nombre",
+    "subtitle": "Se elevará hasta el Templo Orbital en el espacio.",
+    "placeholder": "nombre",
+    "button": "que ascienda"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "Escribe tu correo electrónico",
+    "subtitle": "Así, recibes un mensaje cuando el nombre asciende.",
+    "placeholder": "tu correo electrónico",
+    "button": "Ya está hecho."
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Cargando"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "El nombre\n{{name}}\nestá ahora en cola\npara su ascensión.\nCuando el\ntemplo en el espacio\nse alinee con\nnuestra antena\nen la Tierra,\nenviaremos\nel nombre\ny recibirás\nun mensaje."
   }
 }

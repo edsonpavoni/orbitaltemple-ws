@@ -1,0 +1,77 @@
+{
+  "title": "Lyhyt historia avaruudessa tapahtuvasta taiteesta - Orbitaalitemppeli",
+  "heading": "Lyhyt historia avaruudessa tapahtuvasta taiteesta",
+  "intro": "Ensimmäisen onnistuneen tekoälyn laukaisemisen jälkeen vuonna <strong>1957</strong> yli kymmenentuhatta satelliittia on kiertänyt Maata. Tässä uudessa aikakaudessa taiteilijat ovat löytäneet tavan laajentaa työskentelyään, ja ulkoavaruudesta on tullut uudenlainen kanvas. Tämän myötä on herännyt perustavanlaatuisia kysymyksiä avaruustutkimuksen politiikasta – vaikka paljon muutakin on vielä käsittelemättä.",
+  "sections": {
+    "leonov": {
+      "text": "Ensimmäinen avaruudessa luotu taideteos oli piirros auringonnoususta Maan yllä, jonka teki venäläinen astronautti <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Aleksei Leonov</a></strong> Voshod 2 -luotaimella vuonna <strong>1965</strong> .",
+      "caption": "Ensimmäinen avaruudessa luotu taideteos ja Aleksei Leonovin sen piirtämiseen käyttämät lyijykynät. Kuva: Juri Gagarinin kosmonauttien koulutuskeskuksen museo"
+    },
+    "moonMuseum": {
+      "paragraph1": "Kolme vuotta myöhemmin <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Kuumuseossa</a></strong> laskeutui Kuuhun pienen pieni keraaminen lautanen, johon oli kaiverrettu kuusi Yhdysvaltain tuolloin merkittävintä taiteilijaa: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> ja <strong>Andy Warhol</strong> .",
+      "caption1": "Kuva Moon Museumista alkuperäisestä New York Timesin artikkelista. Peukalo peittää Warholin piirroksen.",
+      "paragraph2": "Warholin provosoiva panos – ylhäällä vasemmalla – teki tästä projektista haasteen viestintävälineille tuolloin.",
+      "caption2": "Kuva, jonka New York Times päätti julkaista, taideteos näkyy alla ja Andy Warholin piirros vasemmassa yläkulmassa."
+    },
+    "fallenAstronaut": {
+      "text": "Vuonna <strong>1971</strong> Apollo 15 -astronautti <strong>David Scott</strong> asetti Kuuhun pienikokoisen humanoidisen alumiiniveistoksen nimeltä <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Fallen Astronaut</a></strong> . Belgialainen taiteilija <strong>Paul Van Hoeydonck</strong> halusi tällä teoksella muistaa avaruustutkimuksen edistymisen myötä kuolleita astronautteja ja kosmonautteja.",
+      "caption": "Näkymä Hadley-Apenniinien laskeutumispaikalla kuuhun jätetystä muistolaatasta."
+    },
+    "pioneerVoyager": {
+      "text": "<strong>1970-luvulla</strong> sekä <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer-plaketit</a></strong> että <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager-luotaimet</a></strong> loivat uusia horisontteja avaruustaiteelle. Ne kuljettivat kullalla anodisoituja alumiiniplaketteja, joissa oli visuaalisia viestejä Maasta muille avaruusmatkailijoille, jotka saattaisivat löytää sen kaukaisessa tulevaisuudessa, ja kuvasivat ihmiselämää sen perustavanlaatuisimmissa elementeissä.",
+      "caption": "Pioneer 10- ja 11-luotainten laatat, jotka vietiin syvälle avaruuteen 1970-luvulla."
+    },
+    "dove": {
+      "text": "Vuonna <strong>1990</strong> Brasilia jätti jälkensä tälle alueelle <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17-</a></strong> satelliitilla, nerokkaalla ja runollisella voimalla varustetulla amatöörisatelliitilla. Vaikka sen luoja ei pitänyt itseään taiteilijana, se oli syvästi runollinen hanke: se nauhoitti lasten ääniä, jotka pyysivät rauhaa, ja välitti ne yli kahdelle tuhannelle radioamatöörille maailmanlaajuisesti, muuttaen uraauurtavan CubeSat-satelliitin kollektiiviseksi ääniteokseksi.",
+      "caption": "DOVE/OSCAR-17, Brasilian runollinen satelliitti, joka välittää lasten ääniä rauhan puolesta, 1990."
+    },
+    "lastPictures": {
+      "text": "Vuonna <strong>2012</strong> taiteilija <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> julkaisi <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;The Last Pictures&quot; -nimisen</a></strong> mikroetsatun levyn, joka sisältää 100 valokuvaa ja on kiinnitetty geostationaarisella kiertoradalla olevaan Echostar XVI -tietoliikennesatelliittiin. Sen on tarkoitus kestää miljardeja vuosia ja säilyä arkeologisena esineenä kaukaisessa tulevaisuudessa ihmiskunnan jälkeisenä aikana.",
+      "caption": "The Last Pictures, ihmiskunnan elinaikaa pidemmälle suunniteltu mikroetsattu levy, julkaistiin vuonna 2012."
+    },
+    "ulises": {
+      "text": "Vuonna <strong>2015</strong> <strong>Colectivo Espacial Mexicano</strong> (Meksikon avaruuskollektiivi) laukaisi avaruuteen <strong>Ulises I:n</strong> , nanosatelliitin, joka suunniteltiin konseptuaaliseksi oopperaksi taiteilija <strong>Juan José Díaz Infante Casasúsin</strong> ohjauksessa. Satelliitti vietiin stratosfääriin ilmapallolla Feria del Libro de Guadalajaran aikana. Satelliitti oli suunniteltu räjähtämään noin neljän tunnin kuluttua ja laskeutumaan laskuvarjolla.",
+      "caption": "Ulises I, Colectivo Espacial Mexicanon käsitteellinen satelliittiooppera."
+    },
+    "artsat": {
+      "text": "Ensimmäinen puhtaasti taiteellinen satelliitti laukaistiin avaruuteen vasta vuonna <strong>2014.</strong> Tokion yliopiston <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> -projekti lähetti Maahan paikkatietoa, jota käytettiin taideinstallaatioissa ja musiikin luomisessa.",
+      "caption1": "ARTSAT-1 Invaderin runko ja Maahan jääneet varaosat.",
+      "caption2": "missio [SPACE x ART] − beyond Cosmologies -näyttely Tokion nykytaiteen museossa"
+    },
+    "kac": {
+      "text": "Brasilialainen ja yhdysvaltalainen nykytaiteilija <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> on osallistunut avaruustaiteeseen yhteistyössä <strong>NASAn</strong> ja <strong>SpaceX:n</strong> kanssa. Hänen yhdessä ranskalaisen astronautin <strong>Thomas Pesquet&#39;n</strong> kanssa luomansa <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Inner Telescope&quot;</a></strong> ( <strong>2017</strong> ) -veistos syntyi <strong>kansainvälisellä avaruusasemalla</strong> .",
+      "caption": "Kansainvälisen avaruusaseman sisäteleskooppi, jonka loi ranskalainen astronautti Thomas Pesquet vuonna 2017."
+    },
+    "enoch": {
+      "text": "Vuonna <strong>2018</strong> kiertoradalle laukaistiin taideprojektina rakennettu passiivinen CubeSat. Bahamalaisen konseptitaiteilija <strong>Tavares Strachanin</strong> kehittämässä <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enochissa</a></strong> on 24 karaatin kultainen kanoppipurkki, jossa on ensimmäisen afroamerikkalaisen astronautin, <strong>Robert Henry Lawrence Jr.:n,</strong> rintakuva.",
+      "caption": "ENOCH (näyttelyyksikkö), 2015–2017. ⓒ Tavares Strachan, kuva ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Samana vuonna lanseerattiin myös <strong>Trevor Paglenin</strong> <strong>Orbital Reflector -teos</strong> , joka oli veistos toimimattomassa CubeSat-satelliitissa. Teos oli taiteellinen ele, jonka tarkoituksena oli muuttaa tapaamme nähdä paikkamme maailmassa. Sitä ei kuitenkaan käytetty oikein. Vaikka se ei koskaan avautunut suunnitellusti, se herätti elintärkeitä keskusteluja ja sai intohimoisia vastauksia tähtitieteilijöiltä, tiedemiehiltä, medialta, kouluttajilta, opiskelijoilta ja suurelta yleisöltä maailmanlaajuisesti osoittaen, että menestyvän taiteen ei tarvitse olla teknisesti menestynyttä.",
+      "caption": "Orbitaaliheijastimen digitaalinen renderöinti, 2018"
+    },
+    "others": {
+      "text": "Monet muut taiteilijat ovat antaneet panoksensa avaruustaiteen kentälle, ja jokainen tuo tutkimukseensa ainutlaatuisen näkökulman. Merkittäviä projekteja ovat <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pellin</a></strong> astronauttitaiteilijatutkimus, joka tutkii ihmisen suorituskykyä äärimmäisissä olosuhteissa; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandisin</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> -projekti, joka tarkastelee historiallisia ja nykyaikaisia avaruustutkimuskertomuksia; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahumin</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts-</a></strong> ohjelma, joka helpottaa taiteellisia mikropainovoimakokeita; ja <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthur Woodsin</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> -veistos, ensimmäinen Mir-asemalla avaruudessa esillä ollut veistos vuonna 1993."
+    },
+    "orbitalTemple": {
+      "text": "Vuonna <strong>2025</strong> , neljän vuoden tutkimus- ja kehitystyön jälkeen, brasilialainen taiteilija <strong>Edson Pavoni</strong> ja monialainen yhteistyökumppaniryhmä laukaisevat <strong>Orbital Templen</strong> , osallistavan taidesatelliitin, joka kutsuu kaikki maailmassa lähettämään nimiä kiertoradalle ja luomaan radikaalin osallistavan muistomerkin rajojen yli.",
+      "caption": "Orbital-temppeli Mercosul Bienalissa. Kuva: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Aleksei Leonovin piirustus ja lyijykynät",
+    "moonMuseum": "Kuumuseon keraaminen vohveli",
+    "moonMuseumWarhol": "Kuumuseon keraaminen vohveli, jossa näkyvät kaikki taideteokset",
+    "fallenAstronaut": "Kaatuneen astronautin muistomerkki Kuussa",
+    "pioneerPlaques": "Pioneerilaatat",
+    "dove": "WHERE/OSCAR-17-satelliitti",
+    "lastPictures": "Viimeiset kuvat -levy",
+    "ulises": "Ulises I -satelliitti",
+    "artsatInvader": "ARTSAT-1 Invader -satelliitin rakenne",
+    "artsatArt": "ARTSAT-1-datasta luotu taideteos",
+    "innerTelescope": "Eduardo Kacin sisäinen teleskooppi",
+    "enoch": "Tavares Strachanin ENOCH-näyttöyksikkö",
+    "orbitalReflector": "Trevor Paglenin kiertoradan heijastin",
+    "orbitalTemple": "Orbitaalisen temppelin satelliitti"
+  }
+}

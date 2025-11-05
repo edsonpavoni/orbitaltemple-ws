@@ -1,0 +1,43 @@
+{
+  "title": "Educație și sursă deschisă - Orbital Temple",
+  "heading": "Educație și sursă deschisă",
+  "intro": {
+    "paragraph1": "Toată tehnologia dezvoltată pentru misiunea Templul Orbital va fi <strong>open source</strong> și disponibilă online în <strong>portugheză</strong> , <strong>engleză</strong> , <strong>spaniolă</strong> și <strong>hindi</strong> , încurajând avansul explorării spațiului în <strong>țările din Sudul Global</strong> . Noile misiuni și proiecte pot folosi Templul Orbital ca bază pentru propriile experimente artistice sau științifice.",
+    "paragraph2": "Ca parte a misiunii sale educaționale, Orbital Temple va oferi un curs multilingv gratuit despre cum se construiește și se lansează un satelit. Va fi o oportunitate practică de a învăța despre tehnologia sateliților și de a o pune în practică. Oricine are peste <strong>16</strong> ani va putea să-și construiască propriul satelit, învățând despre istoria artei în spațiu, concepte fundamentale de electronică, mecanică și știință spațială, inclusiv cum să finanțezi proiecte și cum să construiești o antenă pentru a comunica cu sateliții aflați pe orbită."
+  },
+  "spaceGap": {
+    "heading": "De ce contează acest lucru: Decalajul spațial",
+    "paragraph1": "Termenul <strong>„decalaj spațial”</strong> se referă la diferența dintre națiunile dezvoltate care pot accesa oportunitățile tehnologice obținute prin explorarea spațiului și națiunile în curs de dezvoltare care nu au acces la aceste tehnologii. Țările din Sudul Global trebuie să plătească sume substanțiale guvernelor sau companiilor străine pentru accesul de bază la informațiile produse de tehnologiile satelitare.",
+    "paragraph2": "Tehnologia spațială oferă beneficii esențiale: sateliții ajută la combaterea exploatării forestiere ilegale, a pescuitului ilegal și a comerțului ilegal cu animale sălbatice, care reprezintă peste <strong>73 de miliarde de dolari pe an</strong> . Aceștia oferă informații esențiale despre climă, producția de apă și securitatea alimentară. Sateliții permit tehnici agricole și de irigare de precizie și ajută la prevenirea dezastrelor naturale. Industria spațială ar putea crea până la <strong>1 milion de locuri de muncă</strong> până în <strong>2030</strong> , însă aceste oportunități rămân inaccesibile pentru mulți din Sudul Global.",
+    "paragraph3": "Prin furnizarea de tehnologie și educație open-source, ne propunem să democratizăm accesul la spațiu și să împuternicim o nouă generație să viseze dincolo de cer."
+  },
+  "empowering": {
+    "heading": "Împuternicirea generației următoare",
+    "intro": "Vom învăța următoarea generație de exploratori spațiali cum să construiască și să lanseze propriii sateliți, acoperind subiecte esențiale, inclusiv:",
+    "topics": {
+      "history": "<strong>Istoria artei în spațiu:</strong> Înțelegerea liniei sateliților artistici și a operelor de artă spațiale.",
+      "concepts": "<strong>Concepte de bază:</strong> <strong>ArtSat</strong> (sateliți artistici), tehnologie spațială <strong>open source</strong> și <strong>Space Gap</strong> .",
+      "missions": "<strong>Misiuni spațiale:</strong> Cum să conceptualizezi și să proiectezi o misiune și cum să formezi o echipă pentru a o executa.",
+      "electronics": "<strong>Electronică în spațiu:</strong> Concepte fundamentale ale componentelor electronice care pot supraviețui și funcționa în mediul spațial.",
+      "mechanics": "<strong>Mecanica în spațiu:</strong> Înțelegerea cerințelor structurale și mecanice pentru proiectarea sateliților.",
+      "orbits": "<strong>Orbite și lansatoare:</strong> Diferite tipuri de orbite și cum să selectați furnizorii de lansare pentru misiunea dumneavoastră.",
+      "financing": "<strong>Strategii de finanțare:</strong> Cum să obțineți finanțare și resurse pentru lansarea satelitului. Cursul va oferi resurse pentru obținerea de finanțare pentru lansare, ajutând studenții să găsească programe și granturi de la instituții internaționale care sprijină tinerii oameni de știință și studenții în trimiterea sateliților lor în spațiu.",
+      "groundStation": "<strong>Dezvoltarea unei stații terestre:</strong> Cum se construiește o antenă pentru a comunica cu Templul Orbital și cu alți sateliți."
+    }
+  },
+  "technology": {
+    "heading": "Tehnologia: Sateliții PocketQube",
+    "paragraph1": "Studenții vor învăța să lucreze cu sateliții <strong>PocketQube</strong> , un standard de nanosatelit care măsoară doar <strong>5 cm³</strong> și cântărește până la <strong>250 g</strong> . În ciuda dimensiunilor lor reduse, sateliții PocketQube sunt instrumente puternice capabile de observarea, monitorizarea și comunicarea cu Pământul.",
+    "paragraph2": "Acești sateliți compacți au numeroase aplicații în lumea reală, de la cercetarea științifică privind schimbările climatice până la comunicarea intercontinentală. Deoarece sunt mai mici și mai ușori, sunt mai accesibili din punct de vedere al costurilor de construire și lansare, ceea ce face spațiul mai accesibil studenților, cercetătorilor și artiștilor din întreaga lume."
+  },
+  "globalAccess": {
+    "heading": "Acces global, începând din Sudul global",
+    "paragraph1": "Cursul va fi disponibil oricărei persoane <strong>cu vârsta de 16 ani sau peste</strong> , complet <strong>gratuit</strong> . Începem cu conținut în <strong>portugheză</strong> , <strong>spaniolă</strong> , <strong>engleză</strong> și <strong>hindi</strong> , cu planuri de extindere în alte limbi pe măsură ce programul se dezvoltă.",
+    "paragraph2": "Misiunea noastră începe în Sudul Global și se extinde la nivel mondial, asigurându-ne că următoarea generație de exploratori spațiali vine din toate colțurile Pământului."
+  },
+  "callToAction": {
+    "heading": "Ajutați-ne să facem acest lucru posibil",
+    "content": "Acest program educațional este în prezent în curs de dezvoltare. Căutăm parteneri și donatori care împărtășesc viziunea noastră de democratizare a accesului la tehnologia spațială. Dacă dumneavoastră sau organizația dumneavoastră doriți să sprijiniți această inițiativă, vă rugăm să vizitați <a href=\"/support\">pagina noastră de asistență</a> pentru a afla despre oportunitățile de parteneriat."
+  },
+  "imageAlt": "Satelitul Orbital Temple"
+}

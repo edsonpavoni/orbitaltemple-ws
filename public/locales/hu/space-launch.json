@@ -1,0 +1,16 @@
+{
+  "title": "Űrhajózási indítás - Orbitális templom",
+  "heading": "Űrhajózás",
+  "intro": "Az Orbitális Templomot a tervek szerint egy PSLV (Polar Satellite Launch Vehicle) fedélzetén indítják útjára az indiai Sriharikotában található Satish Dhawan Űrközpontból.",
+  "partnership": "Az Orbital Temple fellövése a NewSpace India Limited (NSIL), az indiai kormány Űrügyi Minisztérium alá tartozó vállalata, az Antrix Corporation és a művész partnerségében valósul meg. Ez az együttműködés jelentős mérföldkövet jelent az űrkutatás művészetében, egyesítve India űrprogramját a radikális befogadás művészeti víziójával.",
+  "risks": {
+    "heading": "Kockázatok",
+    "paragraph1": "A műholdat úgy építették, hogy elviselje a szélsőséges rezgési körülményeket és a hőciklusokat, és szigorú tesztelésen esett át. Az űrbe való indítások azonban kockázatokkal járnak. Ha a műhold megsérül az indítás vagy a telepítés során, vagy ha nem tud kommunikálni a földi állomásainkkal, dolgozunk a problémák elhárításán és megoldásán. A műhold redundáns rendszerekkel és tartalék protokollokkal rendelkezik, amelyeket úgy terveztek, hogy maximalizálják a küldetés sikerének esélyeit.",
+    "paragraph2": "Ezenkívül a műhold kevesebb mint 10 évig is pályán maradhat, ha a légköri viszonyok vagy más tényezők korábbi pálya-leépülést okoznak. Bár legalább egy évtizedes élettartamra terveztük, a tényleges élettartama olyan körülményektől függ, amelyeket nem tudunk teljes mértékben kontrollálni.",
+    "paragraph3": "Ha az első indítás kudarcot vall, vagy ha nem tudjuk a küldetést a tervek szerint végrehajtani, alternatív utakat fogunk megvizsgálni, beleértve egy második indítási kísérletet a rendelkezésre álló költségvetéssel, partnerséget más küldetésekkel, vagy a kísérlet dokumentálását a műalkotás törekvésekről és korlátokról szóló narratívájának részeként."
+  },
+  "imageAlts": {
+    "india": "ISRO Űrközpont, India",
+    "satellite": "Orbitális Templom Műhold"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Paaukokite Orbitinei šventyklai",
+  "heading": "Užbaikite savo auką",
+  "donatingTo": "Jūs aukojate:",
+  "chooseHow": "Pasirinkite, kaip norėtumėte atlikti mokesčių lengvatą aukojimui:",
+  "option1": {
+    "heading": "1 variantas: paaukokite internetu dabar",
+    "description": "Nedelsdami paaukokite naudodami kreditinę, debeto kortelę arba kitus internetinius mokėjimo būdus per mūsų saugų fiskalinį rėmėją <strong>„The Field“</strong> . Mokesčių kvitą gausite iš karto.",
+    "button": "Paaukokite per „The Field“ →"
+  },
+  "option2": {
+    "heading": "2 variantas: Banko indėlis į „Roy“ fondą",
+    "description": "Atlikite tiesioginį banko pavedimą arba pervedimą į <strong>„The Roy Foundation“</strong> – mūsų strateginį partnerį ir finansinį rėmėją. Šis variantas idealiai tinka didesnėms aukoms arba tarptautiniams pavedimams.",
+    "bankingInfo": "Bankininkystės informacija",
+    "fields": {
+      "accountName": "Paskyros pavadinimas:",
+      "bankName": "Banko pavadinimas:",
+      "accountNumber": "Sąskaitos numeris:",
+      "routingNumber": "Maršruto numeris:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Nuoroda:"
+    },
+    "instructions": "Nuorodos lauke nurodykite „ <strong>Orbital Temple - {donationType}</strong> “. Atlikę pavedimą, rašykite mums el. paštu <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ir nurodykite savo pavedimo duomenis, kad gautumėte mokesčių kvitą.",
+    "button": "Susisiekite su mumis dėl indėlio →"
+  },
+  "taxInfo": {
+    "heading": "Mokesčių lengvatos aukojimui",
+    "description": "„Orbital Temple“ yra finansiškai remiamas <strong>„The Field“ („Performance Zone Inc.“)</strong> , ne pelno siekiančios <strong>501(c)(3)</strong> organizacijos, projektas. Visos JAV įmokos yra atskaitomos nuo mokesčių tiek, kiek leidžia įstatymai.",
+    "questions": "Turite klausimų? Susisiekite su mumis el. paštu <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

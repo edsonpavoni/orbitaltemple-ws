@@ -1,110 +1,13 @@
 ---
 import Base from "../layouts/BaseLayout.astro";
 import Footer from "../components/Footer.astro";
+import ArtistContent from "../components/ArtistContent";
 ---
 <Base title="From the Artist - Orbital Temple">
 
   <main class="artwork-page">
 
-    <!-- Main Title -->
-    <h1 class="artwork-title">
-      From the Artist
-    </h1>
-
-    <!-- Content -->
-    <p class="body-text">
-      Who is this guy to propose a temple in space?
-    </p>
-
-    <p class="body-text">
-      Thanks for the question.
-    </p>
-
-    <p class="body-text">
-      The short answer is that I'm an artist. The long one is this:
-    </p>
-
-    <p class="body-text">
-      I was born in the outskirts of São Paulo, in a neighborhood that taught me early what danger means. Many of my school friends are in jail now. My step-father is in jail. Violence wasn't something I read about, it was the world I had to navigate. And I knew I needed to escape.
-    </p>
-
-    <p class="body-text">
-      Technology became my way out. I learned to program, learned electronics as a teenager. Code was a language that could take me somewhere else. Working with technology was my escape from poverty.
-    </p>
-
-    <p class="body-text">
-      But I was also searching for belonging, for love, for something to believe in. I found Christianity, or it found me. I was accepted. I was loved. I had a community. I learned to forgive, to believe, to move together for a greater purpose.
-    </p>
-
-    <p class="body-text">
-      The price, though, was high. I also learned many things I am still unlearning. So I escaped from that too.
-    </p>
-
-    <p class="body-text">
-      I know what walls do. I've felt them. I've been on both sides: kept out, kept in. What followed were years of searching for something I couldn't name. God died during those years. The god I'd been taught about, anyway, the one with rules and judgment and doors that only opened for some people.
-    </p>
-
-    <p class="body-text">
-      I started making art to explore these questions: about intimacy and technology, about memory and death, about who deserves heaven. I started building participatory machines that need your presence, your name, to transform from metal and code into something alive.
-    </p>
-
-    <p class="body-text">
-      Then the pandemic hit Brazil.
-    </p>
-
-    <p class="body-text">
-      When COVID vaccines were delayed, my government was negotiating kickbacks of one dollar per dose. They promoted medicine known to be ineffective, laughing while people died struggling to breathe. We woke up every day to a different number. How many people died in the last 24 hours? Was it more, or less than expected?
-    </p>
-
-    <p class="body-text">
-      Half of the world was scared, and another half was in denial. We were at war, with the virus and with each other.
-    </p>
-
-    <p class="body-text">
-      I wanted to create space for collective grief, so together with hundreds of people I created the Memorial Inumeráveis. An artwork at the intersection of art and journalism. We interviewed families who had lost someone. We wrote the life story of the person they lost. We transformed numbers into histories. Poems, songs, symphonies were made with those histories. Stars read those stories on national television. The project reached millions.
-    </p>
-
-    <p class="body-text">
-      What mattered wasn't the scale, it was that each story was a name, a life, someone's heaven.
-    </p>
-
-    <p class="body-text">
-      After more than ten thousand conversations with grief, a pattern started to emerge. When we talk about someone who has died, we don't just say good things; we select fragments of their story as if we're writing a letter of recommendation. A recommendation to the gatekeeper of paradise. We do our best to send them to a place of acceptance, rest, honor and memory.
-    </p>
-
-    <p class="body-text">
-      And I understood something that changed everything: We've been wounded by the very temples we built. Our beliefs about who deserves heaven directly shape who we accept or exclude on Earth. The Portuguese colonizers in Brazil believed Black people had no souls; that belief justified slavery.
-    </p>
-
-    <p class="body-text">
-      If you were indigenous, if you were born in the wrong place or loved the wrong person, you still, to this day, are told heaven's doors were closed to you. But those aren't heaven's doors; they're just gatekeepers deciding who belongs on Earth.
-    </p>
-
-    <p class="body-text">
-      That is how Orbital Temple was born. A temple with an open door. Every temple on Earth carries the history of who was kept out.
-    </p>
-
-    <p class="body-text">
-      Where could we build a temple with no walls? Where no nation or religion has authority. Where we could imagine ourselves as one group.
-    </p>
-
-    <p class="body-text">
-      Space.
-    </p>
-
-    <p class="body-text">
-      A participatory art satellite from the Global South. A temple in orbit that invites everyone to send their names to space, regardless of who they are, where they were born, who they love, what they believe. A place where radical inclusion is possible, in orbit, beyond borders.
-    </p>
-
-    <p class="body-text">
-      This is not a metaphor. The satellite is real, built over four years with engineers in Brazil. It launches November 28, 2025 from India. The technology is open source. The ritual is free. The invitation is sincere.
-    </p>
-
-    <p class="body-text body-text--section-end">
-      So who is this guy to build a temple in space? I'm not building it. The temple is built by everyone who decides to send a name, to see it as sacred, to make it real. I'm just the one proposing. You're the one building it if you decide to.<br><br>
-      Kindly,<br>
-      Edson Pavoni
-    </p>
+    <ArtistContent client:only="react" />
 
     <!-- Footer -->
     <footer class="artwork-footer">

@@ -1,0 +1,44 @@
+{
+  "title": "Fra kunstneren",
+  "opening": {
+    "question": "Hvem er denne fyr, der foreslår et tempel i rummet?",
+    "thanks": "Tak for spørgsmålet.",
+    "answer": "Det korte svar er, at jeg er kunstner. Det lange svar er dette:"
+  },
+  "origin": {
+    "sao_paulo": "Jeg blev født i udkanten af São Paulo, i et kvarter der tidligt lærte mig hvad fare vil sige. Mange af mine skolekammerater sidder i fængsel nu. Min stedfar sidder i fængsel. Vold var ikke noget jeg læste om, det var den verden jeg skulle navigere i. Og jeg vidste, at jeg var nødt til at flygte.",
+    "technology": "Teknologi blev min udvej. Jeg lærte at programmere, lærte elektronik som teenager. Kode var et sprog, der kunne føre mig et andet sted hen. At arbejde med teknologi var min flugt fra fattigdom.",
+    "christianity": "Men jeg søgte også tilhørsforhold, kærlighed, noget at tro på. Jeg fandt kristendommen, eller den fandt mig. Jeg blev accepteret. Jeg var elsket. Jeg havde et fællesskab. Jeg lærte at tilgive, at tro, at bevæge mig sammen mod et større formål.",
+    "price": "Prisen var dog høj. Jeg lærte også mange ting, som jeg stadig ikke lærer. Så jeg slap også fra det."
+  },
+  "searching": {
+    "walls": "Jeg ved, hvad mure gør. Jeg har følt dem. Jeg har været på begge sider: holdt ude, holdt inde. Det, der fulgte, var årevis med at søge efter noget, jeg ikke kunne navngive. Gud døde i de år. Den gud, jeg var blevet lært om, i hvert fald den med regler og dømmekraft og døre, der kun åbnede sig for nogle mennesker.",
+    "art": "Jeg begyndte at lave kunst for at udforske disse spørgsmål: om intimitet og teknologi, om hukommelse og død, om hvem der fortjener himlen. Jeg begyndte at bygge maskiner, der gentænker vores forhold til teknologi, maskiner, der har brug for din deltagelse, din tilstedeværelse, dit navn, for at forvandle sig fra metal og kode til noget levende."
+  },
+  "pandemic": {
+    "intro": "Så ramte pandemien Brasilien.",
+    "government": "Da COVID-vaccinerne blev forsinket, forhandlede min regering om provision på én dollar pr. dosis. De promoverede medicin, der blev anset for at være ineffektiv, og lo, mens folk døde, fordi de kæmpede med at trække vejret. Vi vågnede op hver dag til et nyt tal. Hvor mange mennesker døde i de sidste 24 timer? Var det flere eller færre end forventet?",
+    "war": "Halvdelen af verden var bange, og den anden halvdel fornægtede det. Vi var i krig, med virussen og med hinanden.",
+    "memorial": "Jeg ville skabe rum for kollektiv sorg, så sammen med hundredvis af mennesker skabte jeg Memorial Inumeráveis. Et kunstværk i krydsfeltet mellem kunst og journalistik. Vi interviewede familier, der havde mistet nogen. Vi skrev livshistorien om den person, de mistede. Vi forvandlede tal til historier. Digte, sange, symfonier blev lavet med disse historier. Stjerner læste disse historier på nationalt tv. Projektet nåede ud til millioner.",
+    "meaning": "Det, der betød noget, var ikke omfanget, det var, at hver historie var et navn, et liv, en persons himmel."
+  },
+  "discovery": {
+    "pattern": "Efter mere end ti tusind samtaler om sorg begyndte et mønster at tegne sig. Når vi taler om en person, der er død, siger vi ikke bare gode ting; vi udvælger fragmenter af deres historie, som om vi skriver et anbefalingsbrev. En anbefaling til paradisets portvogter. Vi gør vores bedste for at sende dem til et sted med accept, hvile, ære og minde.",
+    "understanding": "Og jeg forstod noget, der ændrede alt: Vi er blevet såret af selve de templer, vi byggede. Vores overbevisninger om, hvem der fortjener himlen, former direkte, hvem vi udelukker på Jorden. De portugisiske kolonister i Brasilien mente, at sorte mennesker ikke havde nogen sjæle; den tro retfærdiggjorde slaveri. Hvis du var indfødt, hvis du var født det forkerte sted eller elskede den forkerte person, fik du at vide, at himlens døre var lukket for dig.",
+    "birth": "Sådan blev Orbital Temple født."
+  },
+  "shaman": {
+    "secular": "Ingen kunstner kan være sandt sekulær. Vi er for evigt bundet til vores fælles forfader, shamanen. I begyndelsen var der en hule. Mennesker malede dyr på vægge, ikke for at dekorere, men for at påkalde. De dansede, og hulen blev et tempel. Shamanen besidder ritualets ånd; kunstneren besidder kunstens aura. Vi maler, vi skulpturerer, vi koder, vi designer vores ønskede fremtid, ikke for at dekorere, men for at påkalde. Al kunst er spirituel, selv når den hævder ikke at være det."
+  },
+  "space": {
+    "question": "Hvor kunne vi bygge et tempel uden mure? Hvor ingen nation eller religion kunne gøre krav på det. Hvor vi kunne forestille os selv som én gruppe.",
+    "answer": "Plads.",
+    "description": "En deltagerbaseret kunstsatellit fra det globale syd. Et tempel i kredsløb, der inviterer alle til at sende deres navne ud i rummet, uanset hvem de er, hvor de er født, hvem de elsker, hvad de tror på. Et sted, hvor radikal inklusion er mulig, i kredsløb, på tværs af grænser.",
+    "mission": "Denne mission er open source. Hvert teknisk dokument, hver linje kode vil være frit tilgængelig, så andre kunstnere, andre samfund og andre nationer kan bygge deres egne satellitter. Så det globale Syd deltager ikke bare i rumudforskning, men leder den."
+  },
+  "closing": {
+    "answer": "Så hvem er denne fyr til at bygge et tempel i rummet? Det er ikke mig, der bygger det. Templet bygges af alle, der beslutter sig for at sende et navn, for at se det som helligt, for at gøre det virkeligt. Det er bare mig, der foreslår det. Det er dig, der bygger det, hvis du beslutter dig for det.",
+    "signature": "Venligst,",
+    "name": "Edson Pavoni"
+  }
+}

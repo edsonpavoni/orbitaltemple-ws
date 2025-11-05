@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "예술 작품",
+    "sendAName": "이름을 보내다",
+    "fromTheArtist": "아티스트로부터",
+    "yetAnotherTemple": "또 다른 사원이 있나요?",
+    "howItWorks": "작동 원리",
+    "spaceLaunch": "우주 발사와 위험",
+    "briefHistory": "우주 예술의 간략한 역사",
+    "education": "교육 및 오픈 소스",
+    "sustainability": "지속 가능성과 우주 잔해",
+    "press": "언론 및 미디어",
+    "team": "팀",
+    "partners": "파트너",
+    "support": "지원하다",
+    "technicalInfo": "기술 정보"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "의례",
+    "ariaLabel": "의식에 참여하세요 - 궤도 사원에 이름을 보내세요"
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Orbital Temple은 Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy 및 이 사원에 계속해서 이름을 보내는 모든 사람들과 공동으로 제작한 Edson Pavoni의 작품입니다."
   }
 }

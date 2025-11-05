@@ -1,0 +1,61 @@
+{
+  "title": "Ekipa - Orbitalni tempelj",
+  "heading": "Ekipa",
+  "artist": "Edson Pavoni, umetnik",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Izvršni producent",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Letalsko in sistemsko inženirstvo",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista in João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronski inženiring",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Programska oprema",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Oblikovanje in arhitektura",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D-tiskanje",
+      "members": "Solid Concepts, pod vodstvom Eduarda Diasa"
+    },
+    "rendering": {
+      "heading": "3D-upodabljanje",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Raziskave",
+      "members": "Roberta Savian Rosa in Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produkcija razstav, fotografija in ustvarjanje vsebin",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Svileni sitotisk na razstavi",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Izobraževalni projekt",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Komunikacijska ekipa",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Posebna zahvala",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini in Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitalni tempeljni satelit"
+}

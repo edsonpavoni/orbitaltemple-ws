@@ -1,0 +1,44 @@
+{
+  "title": "De l'artiste",
+  "opening": {
+    "question": "Qui est donc cet homme pour proposer un temple dans l'espace ?",
+    "thanks": "Merci pour votre question.",
+    "answer": "En résumé, je suis artiste. Voici la réponse plus détaillée :"
+  },
+  "origin": {
+    "sao_paulo": "Je suis née dans la banlieue de São Paulo, dans un quartier qui m'a très tôt appris ce que signifie le danger. Beaucoup de mes camarades d'école sont aujourd'hui en prison. Mon beau-père y est aussi. La violence n'était pas un sujet de lecture, c'était le monde dans lequel j'ai dû évoluer. Et je savais que je devais m'enfuir.",
+    "technology": "La technologie a été ma porte de sortie. J'ai appris à programmer et à maîtriser l'électronique dès l'adolescence. Le code était un langage qui pouvait m'ouvrir des portes. Travailler dans le domaine de la technologie m'a permis d'échapper à la pauvreté.",
+    "christianity": "Mais je cherchais aussi un sentiment d'appartenance, de l'amour, quelque chose en quoi croire. J'ai trouvé le christianisme, ou plutôt, il m'a trouvé. J'ai été accepté. J'ai été aimé. J'ai trouvé une communauté. J'ai appris à pardonner, à croire, à œuvrer ensemble pour une cause plus grande.",
+    "price": "Le prix à payer était cependant élevé. J'ai aussi appris beaucoup de choses que je suis encore en train de désapprendre. Alors j'ai fui cela aussi."
+  },
+  "searching": {
+    "walls": "Je sais ce que font les murs. Je les ai sentis. J'ai été des deux côtés : exclue, enfermée. S'en sont suivies des années de recherche de quelque chose d'innommable. Dieu est mort pendant ces années. Du moins, le dieu qu'on m'avait enseigné, celui avec ses règles, ses jugements et ses portes qui ne s'ouvraient qu'à certains.",
+    "art": "J'ai commencé à créer pour explorer ces questions : l'intimité et la technologie, la mémoire et la mort, qui mérite le paradis. J'ai entrepris de concevoir des machines qui réinventent notre rapport à la technologie, des machines qui ont besoin de votre participation, de votre présence, de votre nom, pour se transformer de métal et de code en quelque chose de vivant."
+  },
+  "pandemic": {
+    "intro": "Puis la pandémie a frappé le Brésil.",
+    "government": "Lorsque les vaccins contre la COVID ont été retardés, mon gouvernement négociait des pots-de-vin d'un dollar par dose. Ils ont fait la promotion de médicaments reconnus inefficaces, riant aux éclats tandis que des gens mouraient en luttant pour respirer. Chaque jour, nous découvrions un nouveau chiffre. Combien de personnes étaient mortes au cours des dernières 24 heures ? Plus ou moins que prévu ?",
+    "war": "La moitié du monde avait peur, l'autre moitié refusait de voir la réalité en face. Nous étions en guerre, contre le virus et les uns contre les autres.",
+    "memorial": "Je souhaitais créer un espace de deuil collectif, et c'est ainsi qu'avec des centaines de personnes, j'ai créé le Mémorial Inumeráveis. Une œuvre à la croisée de l'art et du journalisme. Nous avons interviewé des familles endeuillées. Nous avons retracé la vie de la personne disparue. Nous avons transformé des chiffres en histoires. Des poèmes, des chansons, des symphonies ont été composés à partir de ces histoires. Des personnalités ont lu ces récits à la télévision nationale. Le projet a touché des millions de personnes.",
+    "meaning": "Ce qui importait, ce n'était pas l'ampleur, c'était que chaque histoire était un nom, une vie, le paradis de quelqu'un."
+  },
+  "discovery": {
+    "pattern": "Après plus de dix mille conversations avec le deuil, une tendance s'est dessinée. Quand on parle d'une personne disparue, on ne se contente pas de dire du bien ; on sélectionne des fragments de son histoire comme si l'on rédigeait une lettre de recommandation. Une recommandation adressée au gardien du paradis. On fait de notre mieux pour l'envoyer dans un lieu d'acceptation, de repos, d'honneur et de souvenir.",
+    "understanding": "Et j'ai compris quelque chose qui a tout changé : nous avons été blessés par les temples mêmes que nous avons construits. Nos croyances sur qui mérite le paradis déterminent directement qui nous excluons sur Terre. Les colonisateurs portugais au Brésil croyaient que les Noirs n'avaient pas d'âme ; cette croyance justifiait l'esclavage. Si vous étiez indigène, si vous étiez né au mauvais endroit ou si vous aimiez la mauvaise personne, on vous disait que les portes du paradis vous étaient fermées.",
+    "birth": "C’est ainsi que naquit Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Aucun artiste ne peut être véritablement laïque. Nous sommes à jamais liés à notre ancêtre commun, le chaman. À l'origine, il y avait une grotte. Les humains peignaient des animaux sur les parois, non pour décorer, mais pour invoquer. Ils dansaient, et la grotte devint un temple. Le chaman incarne l'esprit du rituel ; l'artiste incarne l'aura de l'art. Nous peignons, nous sculptons, nous programmons, nous concevons l'avenir que nous désirons, non pour décorer, mais pour invoquer. Tout art est spirituel, même lorsqu'il prétend le contraire."
+  },
+  "space": {
+    "question": "Où pourrions-nous bâtir un temple sans murs ? Un lieu où aucune nation ni religion ne pourrait s'approprier quoi que ce soit. Où pourrions-nous nous imaginer comme un seul et même groupe.",
+    "answer": "Espace.",
+    "description": "Un satellite d'art participatif venu des pays du Sud. Un temple en orbite qui invite chacun·e à envoyer son nom dans l'espace, sans distinction d'identité, d'origine, d'amour ou de croyance. Un lieu où l'inclusion radicale est possible, en orbite, par-delà les frontières.",
+    "mission": "Cette mission est à code source ouvert. Chaque document technique, chaque ligne de code sera librement accessible afin que d'autres artistes, d'autres communautés, d'autres nations puissent construire leurs propres satellites. Ainsi, les pays du Sud ne se contentent pas de participer à l'exploration spatiale, ils la pilotent."
+  },
+  "closing": {
+    "answer": "Alors, qui est cet individu qui construit un temple dans l'espace ? Ce n'est pas moi qui le construis. Le temple est construit par tous ceux qui décident d'y apposer un nom, de le considérer comme sacré, de le rendre réel. Je ne fais que proposer l'idée. C'est vous qui le construisez si vous le décidez.",
+    "signature": "Gentiment,",
+    "name": "Edson Pavoni"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A műalkotás - Orbitális templom",
+  "heading": "A műalkotás",
+  "intro": {
+    "paragraph1": "Az Orbital Temple egy művészi küldetésű műhold: egy emlékmű a világűrben, amely minden érző lény számára nyitva áll, aki a Földön él vagy élt.",
+    "paragraph2": "Technikai eszközök segítségével bárki elküldheti valakinek a nevét a Templomba, legyen az elhunyt, egy nagyon is élő személy, vagy bármely lény, aki megérdemli az emlékezetet."
+  },
+  "sculpture": {
+    "heading": "A szobor",
+    "paragraph1": "A műalkotás három egymástól függő elemből áll: egy kifejezetten névmilliárdok tárolására tervezett műholdból; egy köztéri szoborból, amely információt cserél a műholddal; és egy weboldalból, amelyen keresztül a résztvevők a neveket mostantól halálukig a mennybe küldik.",
+    "paragraph2": "Multidiszciplináris vállalkozásként az Orbital Temple helyspecifikus, a teret betöltő szobrászatnak tekinthető. Emellett az Artsat projektje is."
+  },
+  "antenna": {
+    "heading": "Az antenna mint köztéri szobor",
+    "paragraph1": "Egy antenna, ami összeköt minket a világűrrel.",
+    "paragraph2": "Egy olyan antennát terveznek, amely közvetlen kommunikációban fog állni a keringő műholddal.",
+    "paragraph3": "Arany fényvisszaverő felületével, amely tükrözi a felette lévő eget, kiindulópontja a tömeges stimulációnak (vagy a kapcsolatunknak azzal, ami „ott fent” van).",
+    "paragraph4": "Bár a szobrok a világ legtöbb részén nincsenek felszerelve, a műholdat jelenleg irányító Földről származó kereteink minden áthaladáskor elküldik a neveket.",
+    "paragraph5": "Segítsen megvalósítani ezt a víziót a városában – helyezzen el antennaszobrokat, amelyek párbeszédet inspirálnak az űrkutatásról, a művészetről és a kozmoszban elfoglalt közös helyünkről. <a href=\"/support\">Tudjon meg többet a projekt támogatásáról</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitális Templom Műhold",
+    "riseNy": "Orbital Templom Rise-ban, New York államban",
+    "installation": "Orbitális templom, Clara Marques",
+    "antenna": "Orbitális templomantenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitális templom az űrben. 3D renderelés a RiseNY&Partners-től.",
+    "mercosul": "Orbitális Templom installáció a Mercosul Biennálén, Porto Alegrében, Brazíliában.<br> Clara Marques fotója."
+  }
+}

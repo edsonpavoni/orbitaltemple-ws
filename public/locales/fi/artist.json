@@ -1,0 +1,44 @@
+{
+  "title": "Taiteilijalta",
+  "opening": {
+    "question": "Kuka tämä tyyppi on ehdottamaan temppeliä avaruuteen?",
+    "thanks": "Kiitos kysymyksestä.",
+    "answer": "Lyhyt vastaus on, että olen taiteilija. Pitkä vastaus on tämä:"
+  },
+  "origin": {
+    "sao_paulo": "Synnyin São Paulon laitamilla, kaupunginosassa, joka opetti minulle jo varhain, mitä vaara tarkoittaa. Monet koulukavereistani ovat nyt vankilassa. Isäpuolenikin on vankilassa. Väkivalta ei ollut asia, josta luin, se oli maailma, jossa minun piti navigoida. Ja tiesin, että minun oli paettava.",
+    "technology": "Teknologiasta tuli pakotieni. Opin ohjelmoimaan ja elektroniikkaa teini-ikäisenä. Koodi oli kieli, joka saattoi viedä minut jonnekin muualle. Teknologian parissa työskentely oli pakotieni köyhyydestä.",
+    "christianity": "Mutta etsin myös yhteenkuuluvuutta, rakkautta, jotakin, johon uskoa. Löysin kristinuskon, tai se löysi minut. Minut hyväksyttiin. Minua rakastettiin. Minulla oli yhteisö. Opin antamaan anteeksi, uskomaan, toimimaan yhdessä suuremman tarkoituksen saavuttamiseksi.",
+    "price": "Hinta oli kuitenkin korkea. Opin myös paljon asioita, joita olen vielä unohtanut. Joten vältin senkin."
+  },
+  "searching": {
+    "walls": "Tiedän, mitä muurit tekevät. Olen tuntenut ne. Olen ollut molemmilla puolilla: pidetty ulkona, pidetty sisällä. Seurasi vuosien etsintä jollekin, jota en osannut nimetä. Jumala kuoli noina vuosina. Ainakin se jumala, josta minulle oli opetettu, jolla oli säännöt ja harkintakyky ja ovet, jotka avautuivat vain joillekin ihmisille.",
+    "art": "Aloin tehdä taidetta tutkiakseni näitä kysymyksiä: intiimiydestä ja teknologiasta, muistoista ja kuolemasta, siitä, kuka ansaitsee taivaan. Aloin rakentaa koneita, jotka mullistavat suhteemme teknologiaan, koneita, jotka tarvitsevat osallistumistasi, läsnäoloasi, nimeäsi muuttuakseen metallista ja koodista joksikin eläväksi."
+  },
+  "pandemic": {
+    "intro": "Sitten pandemia iski Brasiliaan.",
+    "government": "Kun COVID-rokotteiden käyttöönottoa lykättiin, hallitukseni neuvotteli yhden dollarin palkkioista annosta kohden. He mainostivat tehottomaksi ymmärrettyjä lääkkeitä ja nauroivat ihmisten kuollessa hengitysvaikeuksien keskellä. Heräsimme joka päivä eri lukuun. Kuinka monta ihmistä kuoli viimeisen 24 tunnin aikana? Oliko se odotettua enemmän vai vähemmän?",
+    "war": "Puolet maailmasta oli peloissaan ja toinen puoli kielsi todellisuuden. Olimme sodassa viruksen ja toistemme kanssa.",
+    "memorial": "Halusin luoda tilaa kollektiiviselle surulle, joten loin yhdessä satojen ihmisten kanssa Memorial Inumeráveis -teoksen. Taiteen ja journalismin risteyskohdassa olevan taideteoksen. Haastattelimme perheitä, jotka olivat menettäneet jonkun. Kirjoitimme heidän menettämänsä henkilön elämäntarinan. Muokkasimme numerot historioiksi. Näistä historioista tehtiin runoja, lauluja ja sinfonioita. Tähdet lukivat näitä tarinoita valtakunnallisessa televisiossa. Projekti tavoitti miljoonia.",
+    "meaning": "Tärkeintä ei ollut mittakaava, vaan se, että jokainen tarina oli nimi, elämä, jonkun taivas."
+  },
+  "discovery": {
+    "pattern": "Yli kymmenentuhannen surukeskustelun jälkeen alkoi hahmottua tietty kaava. Kun puhumme jostakusta, joka on kuollut, emme sano vain hyviä asioita; valitsemme osia heidän tarinastaan aivan kuin kirjoittaisimme suosituskirjettä. Suositusta paratiisin portinvartijalle. Teemme parhaamme lähettääksemme heidät hyväksynnän, levon, kunnioituksen ja muiston paikkaan.",
+    "understanding": "Ja ymmärsin jotakin, mikä muutti kaiken: Meitä ovat haavoittaneet ne samat temppelit, joita itse rakennamme. Uskomuksemme siitä, kuka ansaitsee taivaan, muokkaavat suoraan sitä, kenet suljemme pois maan päältä. Portugalilaiset siirtomaavaltaajat Brasiliassa uskoivat, ettei mustilla ihmisillä ole sielua; tämä uskomus oikeutti orjuuden. Jos olit alkuperäiskansojen edustaja, jos olit syntynyt väärään paikkaan tai rakastanut väärää ihmistä, sinulle kerrottiin, että taivaan ovet olivat sinulta kiinni.",
+    "birth": "Näin Orbital Temple syntyi."
+  },
+  "shaman": {
+    "secular": "Yksikään taiteilija ei voi olla aidosti maallinen. Olemme ikuisesti sidoksissa yhteiseen esi-isäämme, shamaaniin. Alussa oli luola. Ihmiset maalasivat eläimiä seinille, eivät koristellakseen, vaan loihtiakseen. He tanssivat, ja luolasta tuli temppeli. Shamaani kantaa rituaalin henkeä; taiteilija kantaa taiteen auraa. Me maalaamme, veistämme, koodaamme, suunnittelemme haluamamme tulevaisuuden, emme koristellaksemme, vaan loihtiaksemme. Kaikki taide on hengellistä, vaikka se väittäisikin, ettei se ole."
+  },
+  "space": {
+    "question": "Minne voisimme rakentaa muurittoman temppelin? Minne mikään kansakunta tai uskonto ei voisi vaatia itseltään lupaa. Minne voisimme kuvitella itsemme yhtenä ryhmänä.",
+    "answer": "Avaruus.",
+    "description": "Osallistava taidesatelliitti globaalista etelästä. Kiertoradalla oleva temppeli, joka kutsuu kaikki lähettämään nimensä avaruuteen riippumatta siitä, keitä he ovat, missä he ovat syntyneet, ketä he rakastavat tai mihin he uskovat. Paikka, jossa radikaali osallisuus on mahdollista, kiertoradalla, rajojen yli.",
+    "mission": "Tämä tehtävä on avoimen lähdekoodin. Jokainen tekninen dokumentti, jokainen koodirivi on vapaasti saatavilla, jotta muut taiteilijat, muut yhteisöt ja muut kansakunnat voivat rakentaa omia satelliittejaan. Joten globaali etelä ei ainoastaan osallistu avaruustutkimukseen, vaan johtaa sitä."
+  },
+  "closing": {
+    "answer": "Kuka tämä tyyppi sitten on rakentamaan temppelin avaruuteen? Minä en sitä rakenna. Temppelin rakentavat kaikki, jotka päättävät lähettää nimen, pitää sitä pyhänä, tehdä siitä todellisen. Minä olen vain ehdottaja. Sinä olet se, joka sen rakentaa, jos päätät niin.",
+    "signature": "Ystävällisesti,",
+    "name": "Edson Pavoni"
+  }
+}

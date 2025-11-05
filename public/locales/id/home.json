@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "Kuil Orbital",
+    "subtitle": "adalah sebuah karya seni dan satelit,\nyang bertujuan menjadi kuil inklusif yang radikal,\ndi tempat yang tak terjangkau oleh dinding mana pun."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "upacara"
+  },
+  "cta": {
+    "link": "Namun, kuil lainnya?",
+    "arrowAlt": "anak panah"
+  },
+  "dome": {
+    "alt": "Kubah"
   }
 }

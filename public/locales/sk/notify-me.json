@@ -1,0 +1,13 @@
+{
+  "title": "Buďte upozornení - Orbital Temple",
+  "heading": "Dostaňte upozornenie, keď vyjde slnko",
+  "description": "28. novembra 2025 Orbitálny chrám vzostúpi.<br> Zanechajte nám svoj e-mail a my vám dáme vedieť, kedy sa to dostane do voľného priestoru.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Odoslať",
+    "sendingButton": "Odosielanie...",
+    "successMessage": "Dostaneme sa k vám, keď bude stúpať.",
+    "errorMessage": "Niečo sa pokazilo. Skúste to znova."
+  },
+  "backLink": "← Späť na odpočítavanie"
+}

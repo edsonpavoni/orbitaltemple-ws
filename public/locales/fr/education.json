@@ -1,0 +1,43 @@
+{
+  "title": "Éducation et logiciels libres - Temple orbital",
+  "heading": "Éducation et logiciels libres",
+  "intro": {
+    "paragraph1": "Toutes les technologies développées pour la mission Orbital Temple seront <strong>libres de droits</strong> et disponibles en ligne en <strong>portugais</strong> , <strong>anglais</strong> , <strong>espagnol</strong> et <strong>hindi</strong> , favorisant ainsi le développement de l&#39;exploration spatiale dans les <strong>pays du Sud</strong> . De nouvelles missions et de nouveaux projets pourront utiliser Orbital Temple comme base pour leurs propres expériences artistiques ou scientifiques.",
+    "paragraph2": "Dans le cadre de sa mission éducative, Orbital Temple proposera un cours multilingue gratuit sur la construction et le lancement de satellites. Ce sera l&#39;occasion de découvrir concrètement la technologie satellitaire et de la mettre en pratique. Toute personne âgée de plus de <strong>16</strong> ans pourra construire son propre satellite et apprendre l&#39;histoire de l&#39;art spatial, les concepts fondamentaux de l&#39;électronique, de la mécanique et des sciences spatiales, notamment le financement de projets et la construction d&#39;une antenne pour communiquer avec les satellites en orbite."
+  },
+  "spaceGap": {
+    "heading": "Pourquoi c'est important : L'écart spatial",
+    "paragraph1": "L&#39;expression <strong>« fracture spatiale »</strong> désigne le fossé entre les pays développés, qui ont accès aux opportunités technologiques offertes par l&#39;exploration spatiale, et les pays en développement, qui n&#39;y ont pas accès. Les pays du Sud doivent verser des sommes considérables à des gouvernements ou des entreprises étrangères pour obtenir un accès de base aux informations produites par les technologies satellitaires.",
+    "paragraph2": "Les technologies spatiales offrent des avantages essentiels : les satellites contribuent à lutter contre l’exploitation forestière illégale, la pêche illégale et le commerce illégal d’espèces sauvages, qui représentent plus de <strong>73 milliards de dollars par an</strong> . Ils fournissent des informations cruciales sur le climat, la production d’eau et la sécurité alimentaire. Les satellites permettent des techniques d’irrigation et agricoles de précision et contribuent à la prévention des catastrophes naturelles. L’industrie spatiale pourrait créer jusqu’à <strong>un million d’emplois</strong> d’ici <strong>2030</strong> , mais ces opportunités restent inaccessibles à de nombreuses personnes dans les pays du Sud.",
+    "paragraph3": "En fournissant des technologies et une éducation libres, nous visons à démocratiser l'accès à l'espace et à donner à une nouvelle génération les moyens de rêver au-delà du ciel."
+  },
+  "empowering": {
+    "heading": "Donner aux générations futures les moyens d'agir",
+    "intro": "Nous enseignerons à la prochaine génération d'explorateurs spatiaux comment construire et lancer leurs propres satellites, en abordant des sujets essentiels tels que :",
+    "topics": {
+      "history": "<strong>Histoire de l&#39;art dans l&#39;espace :</strong> Comprendre la généalogie des satellites artistiques et des œuvres d&#39;art spatiales.",
+      "concepts": "<strong>Concepts clés :</strong> <strong>ArtSat</strong> (satellites artistiques), technologie spatiale <strong>Open Source</strong> et le <strong>fossé spatial</strong> .",
+      "missions": "<strong>Missions spatiales :</strong> comment conceptualiser et concevoir une mission, et comment constituer une équipe pour la réaliser.",
+      "electronics": "<strong>L&#39;électronique dans l&#39;espace :</strong> Concepts fondamentaux des composants électroniques capables de survivre et de fonctionner dans l&#39;environnement spatial.",
+      "mechanics": "<strong>La mécanique spatiale :</strong> comprendre les exigences structurelles et mécaniques de la conception des satellites.",
+      "orbits": "<strong>Orbites et lanceurs :</strong> Différents types d’orbites et comment choisir les fournisseurs de services de lancement pour votre mission.",
+      "financing": "<strong>Stratégies de financement :</strong> Comment obtenir les fonds et les ressources nécessaires au lancement de votre satellite. Ce cours vous fournira des ressources pour financer votre lancement et vous aidera à trouver des programmes et des subventions auprès d’institutions internationales qui soutiennent les jeunes scientifiques et les étudiants dans l’envoi de leurs satellites dans l’espace.",
+      "groundStation": "<strong>Développement d&#39;une station au sol :</strong> Comment construire une antenne pour communiquer avec le Temple Orbital et d&#39;autres satellites."
+    }
+  },
+  "technology": {
+    "heading": "La technologie : les satellites PocketQube",
+    "paragraph1": "Les étudiants apprendront à utiliser les satellites <strong>PocketQube</strong> , des nanosatellites standard mesurant seulement <strong>5 cm³</strong> et pesant jusqu&#39;à <strong>250 g</strong> . Malgré leur petite taille, les PocketQubes sont des outils puissants capables d&#39;observation, de surveillance et de communication avec la Terre.",
+    "paragraph2": "Ces satellites compacts ont de nombreuses applications concrètes, allant de la recherche scientifique sur le changement climatique aux communications intercontinentales. Plus petits et plus légers, ils sont plus abordables à construire et à lancer, rendant ainsi l'espace plus accessible aux étudiants, aux chercheurs et aux artistes du monde entier."
+  },
+  "globalAccess": {
+    "heading": "L'accès mondial, en commençant par le Sud global",
+    "paragraph1": "Ce cours est accessible <strong>gratuitement</strong> à toute personne <strong>âgée de 16 ans et plus</strong> . Nous proposons pour le moment des contenus en <strong>portugais</strong> , <strong>espagnol</strong> , <strong>anglais</strong> et <strong>hindi</strong> , et prévoyons d&#39;ajouter d&#39;autres langues au fur et à mesure du développement du programme.",
+    "paragraph2": "Notre mission commence dans les pays du Sud et s'étend au monde entier, afin de garantir que la prochaine génération d'explorateurs spatiaux provienne des quatre coins du globe."
+  },
+  "callToAction": {
+    "heading": "Aidez-nous à y parvenir",
+    "content": "Ce programme éducatif est en cours d&#39;élaboration. Nous recherchons des partenaires et des donateurs qui partagent notre vision d&#39;un accès démocratisé aux technologies spatiales. Si vous ou votre organisation souhaitez soutenir cette initiative, veuillez consulter notre <a href=\"/support\">page de soutien</a> pour découvrir les possibilités de partenariat."
+  },
+  "imageAlt": "Satellite du Temple Orbital"
+}

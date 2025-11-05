@@ -1,0 +1,31 @@
+{
+  "title": "Faites un don au Temple Orbital",
+  "heading": "Finalisez votre don",
+  "donatingTo": "Vous faites un don à :",
+  "chooseHow": "Choisissez comment vous souhaitez effectuer votre don déductible d'impôt :",
+  "option1": {
+    "heading": "Option 1 : Faites un don en ligne dès maintenant",
+    "description": "Finalisez votre don immédiatement par carte bancaire ou tout autre moyen de paiement en ligne via notre partenaire fiscal sécurisé, <strong>The Field</strong> . Vous recevrez un reçu fiscal instantanément.",
+    "button": "Faire un don via The Field →"
+  },
+  "option2": {
+    "heading": "Option 2 : Virement bancaire à la Fondation Roy",
+    "description": "Vous pouvez effectuer un virement bancaire direct à <strong>la Fondation Roy</strong> , notre partenaire stratégique et organisme de parrainage fiscal. Cette option est idéale pour les dons importants ou les transferts internationaux.",
+    "bankingInfo": "Informations bancaires",
+    "fields": {
+      "accountName": "Nom du compte:",
+      "bankName": "Nom de la banque :",
+      "accountNumber": "Numéro de compte:",
+      "routingNumber": "Numéro de routage :",
+      "swift": "SWIFT/BIC :",
+      "reference": "Référence:"
+    },
+    "instructions": "Veuillez indiquer «<strong> Orbital Temple - {donationType}</strong> » dans le champ Référence. Une fois votre virement effectué, veuillez nous envoyer un courriel à <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> avec les détails de votre virement afin de recevoir votre reçu fiscal.",
+    "button": "Nous contacter à propos du dépôt →"
+  },
+  "taxInfo": {
+    "heading": "Dons déductibles d'impôt",
+    "description": "Orbital Temple est un projet bénéficiant du soutien financier de <strong>The Field (Performance Zone Inc.)</strong> , une organisation à but non lucratif <strong>(501(c)(3))</strong> . Tous les dons effectués aux États-Unis sont déductibles d&#39;impôt dans la mesure permise par la loi.",
+    "questions": "Des questions ? Contactez-nous à l’ <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">adresse gabriela.veiga@orbitaltemptle.art</a>"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Informações técnicas - Templo Orbital",
+  "heading": "Informações técnicas",
+  "satellite": {
+    "heading": "Satélite",
+    "specs": "Dimensões: 50x58x64 mm<br /> 1P PocketQube<br /> Peso: 245 g<br /> Materiais: alumínio, ouro, fibra de vidro e componentes eletrônicos.<br /> Órbita: Altitude 525 ± 25 km; inclinação: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura",
+    "specs": "Dimensões: 6 m (diâmetro) e 1,2 m (altura)<br /> Peso: 46 kg<br /> Materiais: alumínio, placa espelhada de epóxi, cúpula de alumínio dourado suspensa por uma estrutura de andaimes."
+  },
+  "radio": {
+    "heading": "Especificações de rádio - Catálogo da NASA:",
+    "specs": "A definir. Downlink: 437 MHz<br /> Chamada: Status: CRONOGRAMA PARA 2025"
+  },
+  "imageAlt": "Diagrama de informações técnicas"
+}

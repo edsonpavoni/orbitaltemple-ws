@@ -1,0 +1,13 @@
+{
+  "title": "Fiți notificat - Templul Orbital",
+  "heading": "Fii notificat când se ridică",
+  "description": "Pe 28 noiembrie 2025, Templul Orbital se va înălța.<br> Lăsați-ne adresa dvs. de e-mail și vă vom anunța când ajunge în spațiu.",
+  "form": {
+    "emailPlaceholder": "adresa@ta.email.com",
+    "sendButton": "Trimite",
+    "sendingButton": "Se trimite...",
+    "successMessage": "Vom ajunge la tine când se va înălța.",
+    "errorMessage": "Ceva nu a mers bine. Vă rugăm să încercați din nou."
+  },
+  "backLink": "← Înapoi la numărătoare inversă"
+}

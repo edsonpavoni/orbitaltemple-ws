@@ -1,0 +1,31 @@
+{
+  "title": "Taideteos - Orbitaalitemppeli",
+  "heading": "Taideteos",
+  "intro": {
+    "paragraph1": "Orbital Temple on satelliitti, jolla on taiteellinen tehtävä: muistomerkki avaruudessa, joka on avoin kaikille Maassa eläville tai eläneille tunteville olennoille.",
+    "paragraph2": "Teknologisten keinojen avulla kuka tahansa voi lähettää temppeliin jonkun nimen, olipa kyseessä sitten kuollut henkilö, elossa oleva henkilö tai kuka tahansa olento, joka ansaitsee muistamisen."
+  },
+  "sculpture": {
+    "heading": "Veistos",
+    "paragraph1": "Taideteoksessa on kolme toisistaan riippuvaista elementtiä: satelliitti, joka on erityisesti suunniteltu tallentamaan miljardeja nimiä; julkinen veistos, joka vaihtaa tietoja satelliitin kanssa; ja verkkosivusto, jonka kautta osallistujat lähettävät nimet taivaaseen tästä hetkestä kuolemaansa asti.",
+    "paragraph2": "Monialaisena hankkeena Orbital Templeä voidaan pitää paikkasidonnaisena, tilaa hallitsevana veistoksena. Se on myös Artsatin projekti."
+  },
+  "antenna": {
+    "heading": "Antenni julkisena veistoksena",
+    "paragraph1": "Antenni, joka yhdistää meidät avaruuteen.",
+    "paragraph2": "Suunnitteilla on antenni, joka on suorassa yhteydessä kiertoradalla kiertävään satelliittiin.",
+    "paragraph3": "Kultaisen heijastavan pinnan ansiosta, joka peilaa yläpuolella olevaa taivasta, se on lähtökohta massastimulaatiolle (tai suhteellemme siihen, mitä \"tuolla ylhäällä\" on).",
+    "paragraph4": "Vaikka veistoksia ei ole asennettu useimpiin osiin maailmaa, satelliittia tällä hetkellä ohjaavat Frames from Earth -järjestelmämme lähettävät nimet jokaisen läpikulun yhteydessä.",
+    "paragraph5": "Auta tuomaan tämä visio kaupunkiisi – asenna antenniveistoksia, jotka inspiroivat keskustelua avaruustutkimuksesta, taiteesta ja yhteisestä paikastamme kosmoksessa. <a href=\"/support\">Lue lisää projektin tukemisesta</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitaalisen temppelin satelliitti",
+    "riseNy": "Orbitaalitemppeli Rise NY:ssä",
+    "installation": "Orbitaalitemppeli, kirjoittanut Clara Marques",
+    "antenna": "Orbitaalinen temppeliantenni"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitaalitemppeli avaruudessa. 3D-renderöinti: RiseNY&Partners.",
+    "mercosul": "Orbitaalitemppelin installaatio Mercosulin biennaalissa Porto Alegressa, Brasiliassa.<br> Kuva: Clara Marques."
+  }
+}

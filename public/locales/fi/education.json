@@ -1,0 +1,43 @@
+{
+  "title": "Koulutus ja avoin lähdekoodi - Orbital Temple",
+  "heading": "Koulutus ja avoin lähdekoodi",
+  "intro": {
+    "paragraph1": "Kaikki Orbital Temple -tehtävää varten kehitetty teknologia on <strong>avoimen lähdekoodin</strong> ja saatavilla verkossa <strong>portugaliksi</strong> , <strong>englanniksi</strong> , <strong>espanjaksi</strong> ja <strong>hindiksi</strong> , mikä edistää avaruustutkimuksen edistymistä <strong>globaalissa etelässä</strong> . Uudet tehtävät ja projektit voivat käyttää Orbital Templeä omien taiteellisten tai tieteellisten kokeidensa pohjana.",
+    "paragraph2": "Osana koulutustehtäväänsä Orbital Temple tarjoaa ilmaisen monikielisen kurssin satelliitin rakentamisesta ja laukaisusta. Se on käytännönläheinen tilaisuus oppia satelliittiteknologiasta ja soveltaa sitä käytännössä. Kuka tahansa yli <strong>16</strong> -vuotias voi rakentaa oman satelliittinsa ja oppia avaruustaiteen historiasta, elektroniikan, mekaniikan ja avaruustieteen peruskäsitteistä, mukaan lukien projektien rahoittaminen ja antennin rakentaminen kiertoradalla olevien satelliittien kanssa kommunikointia varten."
+  },
+  "spaceGap": {
+    "heading": "Miksi tämä on tärkeää: Avaruusaukko",
+    "paragraph1": "Termi <strong>&quot;avaruusaukko&quot;</strong> viittaa kuiluun kehittyneiden maiden, joilla on pääsy avaruustutkimuksen tarjoamiin teknologisiin mahdollisuuksiin, ja kehitysmaiden, joilla ei ole pääsyä näihin teknologioihin, välillä. Etelän maiden on maksettava huomattavia summia ulkomaisille hallituksille tai yrityksille satelliittiteknologioiden tuottaman tiedon peruskäytöstä.",
+    "paragraph2": "Avaruusteknologia tarjoaa kriittisiä etuja: satelliitit auttavat torjumaan laitonta metsähakkuuta, laitonta kalastusta ja laitonta villieläinkauppaa, joiden arvo on yli <strong>73 miljardia dollaria vuodessa</strong> . Ne tarjoavat olennaista tietoa ilmastosta, vedentuotannosta ja ruokaturvasta. Satelliitit mahdollistavat tarkat kastelu- ja maataloustekniikat sekä auttavat ehkäisemään luonnonkatastrofeja. Avaruusteollisuus voisi luoda jopa <strong>miljoona työpaikkaa</strong> vuoteen <strong>2030</strong> mennessä, mutta nämä mahdollisuudet ovat edelleen monien ulottumattomissa globaalissa etelässä.",
+    "paragraph3": "Tarjoamalla avoimen lähdekoodin teknologiaa ja koulutusta pyrimme demokratisoimaan avaruuden saatavuutta ja antamaan uudelle sukupolvelle mahdollisuuden unelmoida taivaan tuolla puolen."
+  },
+  "empowering": {
+    "heading": "Seuraavan sukupolven voimaannuttaminen",
+    "intro": "Opetamme seuraavan sukupolven avaruustutkijoille, kuinka rakentaa ja laukaista omia satelliittejaan. Opetamme myös keskeisiä aiheita, kuten:",
+    "topics": {
+      "history": "<strong>Avaruuden taiteen historia:</strong> Taiteellisten satelliittien ja avaruudessa tehtyjen taideteosten historian ymmärtäminen.",
+      "concepts": "<strong>Keskeiset käsitteet:</strong> <strong>ArtSat</strong> (taiteelliset satelliitit), <strong>avoimen lähdekoodin</strong> avaruusteknologia ja <strong>Space Gap</strong> .",
+      "missions": "<strong>Avaruuslennot:</strong> Kuinka ideoida ja suunnitella tehtävä ja kuinka muodostaa tiimi sen toteuttamiseksi.",
+      "electronics": "<strong>Elektroniikka avaruudessa:</strong> Avaruusympäristössä selviytyvien ja toimivien elektronisten komponenttien peruskäsitteet.",
+      "mechanics": "<strong>Avaruuden mekaniikka:</strong> Satelliittisuunnittelun rakenteellisten ja mekaanisten vaatimusten ymmärtäminen.",
+      "orbits": "<strong>Kiertoradat ja kantoraketit:</strong> Erilaiset kiertoradat ja kuinka valita laukaisupalveluntarjoajat tehtävääsi varten.",
+      "financing": "<strong>Rahoitusstrategiat:</strong> Kuinka varmistaa rahoitus ja resurssit satelliitin laukaisemiseksi. Kurssi tarjoaa resursseja laukaisurahoituksen hankkimiseen ja auttaa opiskelijoita löytämään kansainvälisten instituutioiden ohjelmia ja apurahoja, jotka tukevat nuoria tutkijoita ja opiskelijoita satelliittien lähettämisessä avaruuteen.",
+      "groundStation": "<strong>Maa-aseman kehittäminen:</strong> Kuinka rakentaa antenni kommunikoimaan Orbitaalitemppelin ja muiden satelliittien kanssa."
+    }
+  },
+  "technology": {
+    "heading": "Teknologia: PocketQube-satelliitit",
+    "paragraph1": "Opiskelijat oppivat työskentelemään <strong>PocketQube</strong> -satelliittien kanssa, jotka ovat vain <strong>5 cm³:n</strong> kokoisia ja jopa <strong>250 g:n</strong> painoisia nanosatelliittistandardeja. Pienestä koostaan huolimatta PocketQube-satelliitit ovat tehokkaita työkaluja Maan havainnointiin, valvontaan ja kommunikointiin.",
+    "paragraph2": "Näillä kompakteilla satelliiteilla on lukuisia tosielämän sovelluksia ilmastonmuutoksen tieteellisestä tutkimuksesta mannertenväliseen viestintään. Koska ne ovat pienempiä ja kevyempiä, niiden rakentaminen ja laukaisu on edullisempaa, mikä tekee avaruudesta helpommin saavutettavan opiskelijoille, tutkijoille ja taiteilijoille maailmanlaajuisesti."
+  },
+  "globalAccess": {
+    "heading": "Globaali pääsy, alkaen globaalista etelästä",
+    "paragraph1": "Kurssi on kaikkien <strong>16-vuotiaiden ja sitä vanhempien</strong> saatavilla täysin <strong>ilmaiseksi</strong> . Aloitamme <strong>portugaliksi</strong> , <strong>espanjaksi</strong> , <strong>englanniksi</strong> ja <strong>hindiksi</strong> tarkoitetulla sisällöllä, ja suunnitelmamme on laajentaa sitä muille kielille ohjelman kasvaessa.",
+    "paragraph2": "Missiomme alkaa globaalista etelästä ja ulottuu muualle maailmaan varmistaen, että seuraavan sukupolven avaruusmatkailijoita tulee maapallon joka kolkasta."
+  },
+  "callToAction": {
+    "heading": "Auta meitä toteuttamaan tämä",
+    "content": "Tämä koulutusohjelma on parhaillaan kehitteillä. Etsimme kumppaneita ja lahjoittajia, jotka jakavat visiomme avaruusteknologian saatavuuden demokratisoinnista. Jos sinä tai organisaatiosi haluatte tukea tätä aloitetta, käykää <a href=\"/support\">tukisivullamme</a> saadaksesi lisätietoja kumppanuusmahdollisuuksista."
+  },
+  "imageAlt": "Orbitaalisen temppelin satelliitti"
+}

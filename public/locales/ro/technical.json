@@ -1,0 +1,17 @@
+{
+  "title": "Informații tehnice - Orbital Temple",
+  "heading": "Informații tehnice",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Dimensiuni: 50x58x64 mm<br /> 1P PocketQube<br /> Greutate: 245 g<br /> Materiale: aluminiu, aur, fibră de sticlă și componente electronice.<br /> Orbită: Altitudine 525 ± 25 km; înclinație: SSO 97,6 ± 0,1°<br /> Lansator: PSLV (Vehicul de Lansare a Sateliților Polari) operat de ISRO"
+  },
+  "antenna": {
+    "heading": "Antenă/Sculptură",
+    "specs": "Dimensiuni: 6 m (diametru) și 1,2 m (înălțime)<br /> Greutate: 46 kg<br /> Materiale: aluminiu, placă oglindită epoxidică, cupolă aurie din aluminiu suspendată printr-o structură de schelă."
+  },
+  "radio": {
+    "heading": "Specificații radio",
+    "specs": "Legătură descendentă: 468,5 MHz<br /> Modulație: CSS<br /> Lățime de bandă: TBD"
+  },
+  "imageAlt": "Satelitul Orbital Temple"
+}

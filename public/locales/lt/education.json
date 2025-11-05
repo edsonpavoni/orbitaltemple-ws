@@ -1,0 +1,43 @@
+{
+  "title": "Švietimas ir atvirojo kodo programos – Orbital Temple",
+  "heading": "Švietimas ir atvirojo kodo",
+  "intro": {
+    "paragraph1": "Visos Orbitinės šventyklos misijai sukurtos technologijos bus <strong>atvirojo kodo</strong> ir prieinamos internete <strong>portugalų</strong> , <strong>anglų</strong> , <strong>ispanų</strong> ir <strong>hindi</strong> kalbomis, taip skatinant kosmoso tyrinėjimų pažangą <strong>Pietų pusrutulyje</strong> . Naujos misijos ir projektai gali naudoti Orbitinę šventyklą kaip savo meninių ar mokslinių eksperimentų pagrindą.",
+    "paragraph2": "Vykdydama savo edukacinę misiją, „Orbital Temple“ siūlys nemokamą daugiakalbį kursą, kaip sukonstruoti ir paleisti palydovą. Tai bus praktinė galimybė susipažinti su palydovų technologijomis ir jas pritaikyti praktikoje. Kiekvienas vyresnis nei <strong>16</strong> metų asmuo galės sukonstruoti savo palydovą, sužinoti apie kosmoso meno istoriją, pagrindines elektronikos, mechanikos ir kosmoso mokslo sąvokas, įskaitant tai, kaip finansuoti projektus ir kaip sukonstruoti anteną ryšiui su orbitoje esančiais palydovais."
+  },
+  "spaceGap": {
+    "heading": "Kodėl tai svarbu: erdvės spraga",
+    "paragraph1": "Terminas <strong>„kosmoso spraga“</strong> reiškia skirtumą tarp išsivysčiusių šalių, kurios gali naudotis technologinėmis galimybėmis, atsirandančiomis tyrinėjant kosmosą, ir besivystančių šalių, kurios neturi prieigos prie šių technologijų. Pietų pusrutulio šalys turi mokėti dideles sumas užsienio vyriausybėms ar įmonėms už pagrindinę prieigą prie palydovinių technologijų sukurtos informacijos.",
+    "paragraph2": "Kosmoso technologijos teikia itin svarbių privalumų: palydovai padeda kovoti su neteisėta miško kirtimu, neteisėta žvejyba ir neteisėta prekyba laukiniais gyvūnais, o tai sudaro daugiau nei <strong>73 mlrd. dolerių per metus</strong> . Jie teikia esminę informaciją apie klimatą, vandens gamybą ir aprūpinimą maistu. Palydovai leidžia taikyti tikslius drėkinimo ir žemės ūkio metodus bei padeda užkirsti kelią stichinėms nelaimėms. Kosmoso pramonė iki <strong>2030 m.</strong> galėtų sukurti iki <strong>1 mln. darbo vietų</strong> , tačiau šios galimybės daugeliui Pietų pusrutulyje vis dar nepasiekiamos.",
+    "paragraph3": "Teikdami atvirojo kodo technologijas ir švietimą, siekiame demokratizuoti prieigą prie kosmoso ir suteikti naujajai kartai galimybę svajoti už dangaus ribų."
+  },
+  "empowering": {
+    "heading": "Įgalinant kitą kartą",
+    "intro": "Mes išmokysime naujos kartos kosmoso tyrinėtojus, kaip konstruoti ir paleisti savo palydovus, aptardami esmines temas, įskaitant:",
+    "topics": {
+      "history": "<strong>Kosmoso meno istorija:</strong> meninių palydovų ir kosmoso meno kūrinių kilmės supratimas.",
+      "concepts": "<strong>Pagrindinės koncepcijos:</strong> <strong>„ArtSat“</strong> (meniniai palydovai), <strong>atvirojo kodo</strong> kosmoso technologijos ir „ <strong>Space Gap“</strong> .",
+      "missions": "<strong>Kosmoso misijos:</strong> kaip sugalvoti ir suplanuoti misiją ir kaip suformuoti komandą jai įgyvendinti.",
+      "electronics": "<strong>Elektronika kosmose:</strong> pagrindinės elektroninių komponentų, kurie gali išlikti ir veikti kosmoso aplinkoje, sąvokos.",
+      "mechanics": "<strong>Mechanika kosmose:</strong> palydovų projektavimo konstrukcinių ir mechaninių reikalavimų supratimas.",
+      "orbits": "<strong>Orbitos ir paleidimo įrenginiai:</strong> skirtingi orbitų tipai ir kaip pasirinkti paleidimo paslaugų teikėjus savo misijai.",
+      "financing": "<strong>Finansavimo strategijos:</strong> kaip gauti finansavimą ir išteklius palydovo paleidimui. Kurso metu bus suteikti ištekliai, kaip gauti finansavimą jūsų paleidimui, padedant studentams rasti programas ir dotacijas iš tarptautinių institucijų, kurios remia jaunus mokslininkus ir studentus siunčiant savo palydovus į kosmosą.",
+      "groundStation": "<strong>Antžeminės stoties kūrimas:</strong> kaip sukurti anteną ryšiui su Orbitine šventykla ir kitais palydovais."
+    }
+  },
+  "technology": {
+    "heading": "Technologija: „PocketQube“ palydovai",
+    "paragraph1": "Studentai išmoks dirbti su <strong>„PocketQube“</strong> palydovais – nanopalydovo standartu, kurio matmenys vos <strong>5 cm³</strong> , o svoris – iki <strong>250 g</strong> . Nepaisant mažo dydžio, „PocketQube“ yra galingi įrankiai, galintys stebėti Žemę, kontroliuoti jos veikimą ir bendrauti.",
+    "paragraph2": "Šie kompaktiški palydovai turi daugybę praktinių pritaikymų – nuo mokslinių klimato kaitos tyrimų iki tarpžemyninio ryšio. Kadangi jie yra mažesni ir lengvesni, juos pigiau pastatyti ir paleisti, todėl kosmosas tampa prieinamesnis studentams, tyrėjams ir menininkams visame pasaulyje."
+  },
+  "globalAccess": {
+    "heading": "Visuotinė prieiga, pradedant nuo pietinių šalių",
+    "paragraph1": "Kursas bus prieinamas visiems <strong>16 metų ir vyresniems</strong> , visiškai <strong>nemokamai</strong> . Pradžioje turinys bus teikiamas <strong>portugalų</strong> , <strong>ispanų</strong> , <strong>anglų</strong> ir <strong>hindi</strong> kalbomis, o programai augant, planuojame plėstis į kitas kalbas.",
+    "paragraph2": "Mūsų misija prasideda pietiniuose pusrutuliuose ir tęsiasi po visą pasaulį, užtikrinant, kad kita kosmoso tyrinėtojų karta būtų kilusi iš visų Žemės kampelių."
+  },
+  "callToAction": {
+    "heading": "Padėkite mums tai įgyvendinti",
+    "content": "Ši edukacinė programa šiuo metu kuriama. Ieškome partnerių ir rėmėjų, kurie pritartų mūsų vizijai demokratizuoti prieigą prie kosmoso technologijų. Jei jūs ar jūsų organizacija norėtumėte paremti šią iniciatyvą, apsilankykite mūsų <a href=\"/support\">paramos puslapyje</a> ir sužinokite apie partnerystės galimybes."
+  },
+  "imageAlt": "Orbitinės šventyklos palydovas"
+}

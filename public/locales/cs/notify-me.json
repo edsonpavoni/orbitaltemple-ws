@@ -1,0 +1,13 @@
+{
+  "title": "Buďte upozorněni - Orbitální chrám",
+  "heading": "Dostávejte upozornění, když stoupá",
+  "description": "28. listopadu 2025 Orbitální chrám vznese vzhůru.<br> Zanechte svůj e-mail a my vám dáme vědět, až dorazí do volného prostoru.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Poslat",
+    "sendingButton": "Odesílání...",
+    "successMessage": "Dostaneme se k tobě, až to vystoupí.",
+    "errorMessage": "Něco se pokazilo. Zkuste to prosím znovu."
+  },
+  "backLink": "← Zpět na odpočítávání"
+}

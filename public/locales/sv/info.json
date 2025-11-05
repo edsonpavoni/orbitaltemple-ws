@@ -1,0 +1,17 @@
+{
+  "title": "Teknisk information - Orbitaltempel",
+  "heading": "Teknisk information",
+  "satellite": {
+    "heading": "Satellit",
+    "specs": "Mått: 50x58x64 mm<br /> 1P PocketQube<br /> Vikt: 245 g<br /> Material: aluminium, guld, glasfiber och elektroniska komponenter.<br /> Omloppsbana: Höjd 525 ± 25 km; lutning: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenn/Skulptur",
+    "specs": "Mått: 6 m (diameter) och 1,2 m (höjd)<br /> Vikt: 46 kg<br /> Material: aluminium, epoxibelagd spegelskiva, gyllene aluminiumkupol upphängd i en byggnadsställning."
+  },
+  "radio": {
+    "heading": "Radiospecifikationer NASA-katalog:",
+    "specs": "Nedlänk fastställs senare: 437 MHz<br /> Utlysning: Status: SCHEMA FÖR 2025"
+  },
+  "imageAlt": "Teknisk informationsdiagram"
+}

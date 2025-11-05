@@ -1,0 +1,13 @@
+{
+  "title": "Bodite obveščeni - Orbitalni tempelj",
+  "heading": "Bodite obveščeni, ko vzide",
+  "description": "28. novembra 2025 se bo Orbitalni tempelj povzpel.<br> Pustite svoj e-poštni naslov in obvestili vas bomo, kdaj prispe v prostor.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Pošlji",
+    "sendingButton": "Pošiljanje ...",
+    "successMessage": "Dosegli te bomo, ko se bo vzpenjalo.",
+    "errorMessage": "Nekaj je šlo narobe. Poskusite znova."
+  },
+  "backLink": "← Nazaj na odštevanje"
+}

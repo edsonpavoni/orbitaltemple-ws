@@ -1,0 +1,77 @@
+{
+  "title": "Brief History of Art in Space - Orbital Temple",
+  "heading": "Brief History of Art in Space",
+  "intro": "Ever since the first successful launch of an artificial satellite in <strong>1957</strong>, over ten thousand satellites have come to orbit around Earth. In this new era, artists have found a way to expand their practice and outer space has become a new kind of canvas. With that, fundamental questions about the politics of space exploration have arised - though a lot more ground has yet to be covered.",
+  "sections": {
+    "leonov": {
+      "text": "The first artwork created in space was a drawing of a sunrise over Earth, made by Russian astronaut <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexei Leonov</a></strong> whilst on board of the Voskhod 2 in <strong>1965</strong>.",
+      "caption": "The first piece of art created in space, and the pencils Alexei Leonov used to draw it. Photo: Museum of the Yuri Gagarin Cosmonaut Training Centre"
+    },
+    "moonMuseum": {
+      "paragraph1": "Three years later, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Museum</a></strong>, a miniscule ceramic plate supposedly landed on the Moon with inscriptions by six of the most prominent artists in the US at the time: <strong>Robert Rauschenberg</strong>, <strong>David Novros</strong>, <strong>John Chamberlain</strong>, <strong>Claes Oldenburg</strong>, <strong>Forrest Myers</strong> and <strong>Andy Warhol</strong>.",
+      "caption1": "Image of the Moon Museum from the original New York Times article. The thumb obscures Warhol's drawing.",
+      "paragraph2": "Warhol's provocative contribution - top left - made this project a challenge for communication media at the time.",
+      "caption2": "The image the New York Times chose to publish, with the artwork visible below and Andy Warhol's drawing in the top left corner."
+    },
+    "fallenAstronaut": {
+      "text": "In <strong>1971</strong>, a small scale humanoid aluminum sculpture called <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Fallen Astronaut</a></strong> was placed on the Moon by Apollo 15 astronaut <strong>David Scott</strong>. Belgian artist <strong>Paul Van Hoeydonck</strong> intended, with this piece, to commemorate the astronauts and cosmonauts who have died in the advancement of space exploration.",
+      "caption": "View of Commemorative plaque left on moon at Hadley-Apennine landing site."
+    },
+    "pioneerVoyager": {
+      "text": "In the <strong>1970's</strong>, both the <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> and the <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> set new horizons for art in space. Carrying gold-anodized aluminum plaques with visual messages from Earth to any other spacefarers that might find it in the distant future, they depicted human life in its most fundamental elements.",
+      "caption": "Pioneer 10 and 11 plaques, carried into deep space in the 1970s."
+    },
+    "dove": {
+      "text": "In <strong>1990</strong>, Brazil left its mark on this territory with <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong>, an ingenious amateur satellite of great poetic power. Although its creator did not consider himself an artist, it was a profoundly poetic endeavor: it recorded children's voices asking for peace and transmitted them to more than two thousand radio amateurs worldwide, transforming a pioneering CubeSat into a collective sound work.",
+      "caption": "DOVE/OSCAR-17, Brazil's poetic satellite transmitting children's voices for peace, 1990."
+    },
+    "lastPictures": {
+      "text": "In <strong>2012</strong>, artist <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> launched <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">\"The Last Pictures\"</a></strong>, a micro-etched disc containing 100 photographs attached to the Echostar XVI communications satellite in geostationary orbit. Designed to last billions of years, it is meant to outlast human civilization as an archaeological artifact for the distant future.",
+      "caption": "The Last Pictures, a micro-etched disc designed to outlast humanity, launched in 2012."
+    },
+    "ulises": {
+      "text": "In <strong>2015</strong>, the <strong>Colectivo Espacial Mexicano</strong> (Mexican Space Collective) launched <strong>Ulises I</strong>, a nanosatellite conceived as a conceptual opera under the direction of artist <strong>Juan José Díaz Infante Casasús</strong>. The satellite was carried to the stratosphere on a balloon during the Feria del Libro de Guadalajara. Designed to explode at approximately four hours and descend by parachute.",
+      "caption": "Ulises I, a conceptual opera satellite by Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "It was not until <strong>2014</strong> that the first purely artistic satellite was launched. The University of Tokyo's <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> project sent spatial data to Earth that was used in art installations and music creation.",
+      "caption1": "ARTSAT-1 Invader framework and spare parts that remained on Earth.",
+      "caption2": "mission [SPACE x ART] − beyond Cosmologies exhibition held at the Museum of Contemporary Art Tokyo"
+    },
+    "kac": {
+      "text": "Brazilian and American contemporary artist <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> has contributed to space art through collaborations with <strong>NASA</strong> and <strong>SpaceX</strong>. His <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">\"Inner Telescope\"</a></strong> (<strong>2017</strong>), created with French astronaut <strong>Thomas Pesquet</strong>, resulted in a sculpture made aboard the <strong>International Space Station</strong>.",
+      "caption": "Inner Telescope on the International Space Station, created with French astronaut Thomas Pesquet, 2017."
+    },
+    "enoch": {
+      "text": "In <strong>2018</strong>, a passive CubeSat built as an art project was launched into orbit. Developed by bahamian conceptual artist <strong>Tavares Strachan</strong>, <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> contains a 24-karat-gold canopic jar with a bust of the first African-American astronaut, <strong>Robert Henry Lawrence Jr</strong>.",
+      "caption": "ENOCH (display unit), 2015-2017. ⓒ Tavares Strachan, photo ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "In that same year, <strong>Trevor Paglen's</strong> <strong>Orbital Reflector</strong> was also launched as a sculpture housed in a nonfunctional CubeSat. The work was an artistic gesture intended to change the way we see our place in the world. It was not deployed correctly. Although it never opened as designed, it sparked vital conversations and drew passionate responses from astronomers, scientists, media outlets, educators, students, and the general public worldwide, demonstrating that successful art need not be technically successful.",
+      "caption": "Digital Rendering of Orbital Reflector, 2018"
+    },
+    "others": {
+      "text": "Many other artists have contributed to the field of space art, each bringing unique perspectives in their research. Notable projects include <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pell's</a></strong> astronaut artist research exploring human performance in extreme environments; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandis's</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> project examining historical and contemporary space exploration narratives; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahum's</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> program facilitating artistic microgravity experiments; and <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthur Woods's</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> sculpture, the first sculpture exhibited in space aboard the Mir station in 1993."
+    },
+    "orbitalTemple": {
+      "text": "In <strong>2025</strong>, after 4 years of research and development, Brazilian artist <strong>Edson Pavoni</strong> and a multidisciplinary group of collaborators will launch <strong>Orbital Temple</strong>, a participatory art satellite that invites anyone in the world to send names to orbit, creating a radically inclusive memorial beyond borders.",
+      "caption": "Orbital Temple at the Mercosul Bienal. Photo: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Alexei Leonov's drawing and pencils",
+    "moonMuseum": "Moon Museum ceramic wafer",
+    "moonMuseumWarhol": "Moon Museum ceramic wafer showing all artworks",
+    "fallenAstronaut": "Fallen Astronaut memorial on the Moon",
+    "pioneerPlaques": "Pioneer plaques",
+    "dove": "DOVE/OSCAR-17 satellite",
+    "lastPictures": "The Last Pictures disc",
+    "ulises": "Ulises I satellite",
+    "artsatInvader": "ARTSAT-1 Invader satellite structure",
+    "artsatArt": "Artwork created from ARTSAT-1 data",
+    "innerTelescope": "Eduardo Kac's Inner Telescope",
+    "enoch": "Tavares Strachan's ENOCH display unit",
+    "orbitalReflector": "Trevor Paglen's Orbital Reflector",
+    "orbitalTemple": "Orbital Temple Satellite"
+  }
+}

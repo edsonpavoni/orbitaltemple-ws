@@ -1,0 +1,43 @@
+{
+  "title": "Oktatás és nyílt forráskódú szoftverek - Orbital Temple",
+  "heading": "Oktatás és nyílt forráskódú",
+  "intro": {
+    "paragraph1": "Az Orbital Temple küldetéshez kifejlesztett összes technológia <strong>nyílt forráskódú</strong> lesz, és online elérhető lesz <strong>portugál</strong> , <strong>angol</strong> , <strong>spanyol</strong> és <strong>hindi</strong> nyelven, elősegítve az űrkutatás fejlődését a <strong>globális Délen</strong> . Az új küldetések és projektek az Orbital Templomot saját művészeti vagy tudományos kísérleteik alapjaként használhatják.",
+    "paragraph2": "Oktatási küldetésének részeként az Orbital Temple ingyenes, többnyelvű tanfolyamot kínál a műholdak építéséről és felbocsátásáról. Ez egy gyakorlati lehetőség lesz a műholdas technológia megismerésére és a gyakorlatba ültetésére. Bárki, aki <strong>16</strong> év feletti, megépítheti saját műholdját, miközben megismerkedik az űrművészet történetével, az elektronika, a mechanika és az űrtudomány alapvető fogalmaival, beleértve a projektek finanszírozásának módját és az antenna építését a pályán keringő műholdakkal való kommunikációhoz."
+  },
+  "spaceGap": {
+    "heading": "Miért fontos ez: A térbeli rés",
+    "paragraph1": "Az <strong>„űrrés”</strong> kifejezés a fejlett, az űrkutatás által kínált technológiai lehetőségekhez hozzáférő országok és a fejlődő, ezen technológiákhoz nem férő országok közötti szakadékra utal. A globális Dél országainak jelentős összegeket kell fizetniük külföldi kormányoknak vagy vállalatoknak a műholdas technológiák által előállított információkhoz való alapvető hozzáférésért.",
+    "paragraph2": "Az űrtechnológia kritikus előnyöket biztosít: a műholdak segítenek az illegális fakitermelés, az illegális halászat és az illegális vadon élő állatok kereskedelme elleni küzdelemben, amelyek <strong>évente több mint 73 milliárd dollárt</strong> képviselnek. Alapvető információkat szolgáltatnak az éghajlatról, a víztermelésről és az élelmezésbiztonságról. A műholdak lehetővé teszik a precíziós öntözési és mezőgazdasági technikák alkalmazását, és segítenek megelőzni a természeti katasztrófákat. Az űripar akár <strong>1 millió munkahelyet</strong> is teremthet <strong>2030</strong> -ra, mégis ezek a lehetőségek a globális Dél sokak számára továbbra sem elérhetőek.",
+    "paragraph3": "Nyílt forráskódú technológia és oktatás biztosításával célunk az űrhöz való hozzáférés demokratizálása, és egy új generáció felhatalmazása arra, hogy az égen túl is álmodhasson."
+  },
+  "empowering": {
+    "heading": "A következő generáció felhatalmazása",
+    "intro": "Megtanítjuk a következő generációs űrkutatókat, hogyan építsenek és indítsanak fel saját műholdakat, olyan lényeges témákat érintve, mint:",
+    "topics": {
+      "history": "<strong>Az űrművészet története:</strong> A művészi műholdak és az űrbe telepített műalkotások eredetének megértése.",
+      "concepts": "<strong>Alapfogalmak:</strong> <strong>ArtSat</strong> (művészeti műholdak), <strong>nyílt forráskódú</strong> űrtechnológia és a <strong>Space Gap</strong> .",
+      "missions": "<strong>Űrküldetések:</strong> Hogyan kell elképzelni és megtervezni egy küldetést, és hogyan kell csapatot alakítani a végrehajtásához.",
+      "electronics": "<strong>Elektronika az űrben:</strong> Az elektronikus alkatrészek alapvető koncepciói, amelyek képesek túlélni és működni az űrben.",
+      "mechanics": "<strong>Mechanika az űrben:</strong> A műholdak tervezésének szerkezeti és mechanikai követelményeinek megértése.",
+      "orbits": "<strong>Orbitális pályák és hordozórakéták:</strong> Különböző típusú pályák és hogyan válasszunk indítóállomásokat a küldetésünkhöz.",
+      "financing": "<strong>Finanszírozási stratégiák:</strong> Hogyan biztosítsunk finanszírozást és erőforrásokat a műhold felbocsátásához. A kurzus forrásokat biztosít a felbocsátás finanszírozásához, segítve a hallgatókat abban, hogy nemzetközi intézményektől származó programokat és támogatásokat találjanak, amelyek támogatják a fiatal tudósokat és diákokat műholdaik űrbe juttatásában.",
+      "groundStation": "<strong>Földi állomás fejlesztése:</strong> Hogyan építsünk antennát az Orbitális Templommal és más műholdakkal való kommunikációhoz."
+    }
+  },
+  "technology": {
+    "heading": "A technológia: PocketQube műholdak",
+    "paragraph1": "A diákok megtanulják, hogyan kell dolgozni <strong>a PocketQube</strong> műholdakkal, amelyek egy mindössze <strong>5 cm³</strong> méretű és legfeljebb <strong>250 g</strong> súlyú nanoszatellit szabvány. Kis méretük ellenére a PocketQube-ok hatékony eszközök, amelyek képesek a Föld megfigyelésére, monitorozására és kommunikációjára.",
+    "paragraph2": "Ezeknek a kompakt műholdaknak számos valós alkalmazásuk van, az éghajlatváltozással kapcsolatos tudományos kutatásoktól kezdve az interkontinentális kommunikációig. Mivel kisebbek és könnyebbek, megfizethetőbb megépíteni és felbocsátani őket, így az űr könnyebben elérhető a diákok, kutatók és művészek számára világszerte."
+  },
+  "globalAccess": {
+    "heading": "Globális hozzáférés, a globális Délről kiindulva",
+    "paragraph1": "A kurzus <strong>16 éves vagy annál idősebb</strong> személyek számára teljesen <strong>ingyenesen</strong> elérhető lesz. Kezdésként <strong>portugál</strong> , <strong>spanyol</strong> , <strong>angol</strong> és <strong>hindi</strong> nyelvű tartalommal indulunk, és a program bővülésével további nyelvekre is tervezzük bővíteni.",
+    "paragraph2": "Küldetésünk a globális Délen kezdődik, és az egész világra kiterjed, biztosítva, hogy az űrkutatók következő generációja a Föld minden szegletéből érkezzen."
+  },
+  "callToAction": {
+    "heading": "Segítsen nekünk, hogy ez megtörténjen",
+    "content": "Ez az oktatási program jelenleg fejlesztés alatt áll. Olyan partnereket és adományozókat keresünk, akik osztják az űrtechnológiához való hozzáférés demokratizálásáról alkotott elképzelésünket. Ha Ön vagy szervezete támogatni szeretné ezt a kezdeményezést, kérjük, látogasson el <a href=\"/support\">a támogatási oldalunkra,</a> ahol tájékozódhat a partnerségi lehetőségekről."
+  },
+  "imageAlt": "Orbitális Templom Műhold"
+}

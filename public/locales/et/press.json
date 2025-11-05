@@ -1,0 +1,138 @@
+{
+  "title": "Pressi- ja meediatööd - Orbitaaltempel",
+  "heading": "Pressi- ja meedia",
+  "pressContact": {
+    "heading": "Pressikontakt",
+    "content": "Pressipäringute, intervjuude ja meediapäringute korral:<br /> <strong>Meiliaadress:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Veebisait:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Projektist",
+    "paragraph1": "Orbitaaltempel on kunstiteos ja satelliit, mille eesmärk on olla radikaalselt kaasav tempel, mis on ehitatud kohtadesse, kuhu ükski müür ei ulatu. Projekti autor on Brasiilia kunstnik Edson Pavoni, kes lõi Inumeráveise memoriaali, mis jõudis COVID-pandeemia ajal iga kuuenda brasiillase juurde. Projekt kutsub inimesi üle maailma saatma kellegi nime, keda nad soovivad mäletada. Need nimed edastatakse orbiidil olevale satelliidile, luues kollektiivse memoriaali.",
+    "paragraph2": "246 keeles kättesaadava veebisaidi kaudu saavad osalejad osaleda uut tüüpi rituaalides. Orbitaaltempel uurib kaasatuse, mälu ja meie ühise inimlikkuse teemasid, seades kahtluse alla, miks ükski füüsiline tempel Maal ei saa tõeliselt kõiki vastu võtta, ning pakkudes välja kosmose kui ainsat kohta, kus radikaalne kaasatus võiks eksisteerida."
+  },
+  "aboutArtist": {
+    "heading": "Kunstniku kohta",
+    "paragraph1": "<strong>Edson Pavoni</strong> on Brasiilia kunstnik, kelle teekond algas São Paulo tänavatel, kus vaesuse ja vägivalla kontekst kujundas tema noorusaastaid. Riigis, kus kristlus pakkus teed eemale tänavatest, narkootikumidest ja vägivallast, leidis Pavoni pelgupaiga usus – teema, mis hiljem, kui temast sai religioosse väärkohtlemise kriitik, mõjutas tema kunstipraktikat.",
+    "paragraph2": "2020. aastal, COVID-19 pandeemia ajal, lõi Pavoni kunsti ja ajakirjanduse ristumiskohas kunstiteose <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Inumeráveis“ (loendamatu)</a></strong> . Projekti raames intervjueeriti tuhandeid peresid ja kirjutati lugusid pandeemias hukkunutest, luues ruumi, kus mälu ületas numbrid ja statistika. Nende lugude põhjal loodi luuletusi, laule ja sümfooniaid. Ajalehed lõid nimede ja lugude põhjal kaaned. Kõik Brasiilia staarid, nagu Oscariga pärjatud Fernanda Torres, ning staarid nagu Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo ja Lazaro Ramos ning paljud teised, lugesid neid lugusid riiklikus televisioonis. Projekt jõudis 32 miljoni inimeseni, iga neljanda Brasiilia täiskasvanuni. Sellest sai tervendamise võrgustik, kollektiivne mälestusmärk mälule.",
+    "paragraph3": "Pärast enam kui kümmet tuhandet leinaga täidetud vestlust ilmnes muster: kui räägime kellestki, kes on surnud, valime tema loost katkendeid, justkui kirjutaksime soovituskirja paradiisi väravavahile. Anname endast parima, et saata nad sinna, mida meie arvates on taevas. See töö sütitas uue arusaama: meie uskumused selle kohta, kes väärib taevast, kujundavad otseselt seda, keda me Maal vastu võtame või välistame. Portugali kolonisaatorid Brasiilias uskusid, et mustanahalistel pole hinge; see uskumus õigustas orjust. Kui sa olid põliselanik, kui sa sündisid vales kohas või armastasid valet inimest, öeldakse sulle tänaseni, et taeva uksed olid sinu ees suletud. Kas on olemas tulevikuvisioon, mida ei täitu tagasilükkamine?",
+    "paragraph4": "Nii sündiski Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Peamised faktid",
+    "artist": "<strong>Kunstnik:</strong> Edson Pavoni (Brasiilia)",
+    "projectType": "<strong>Projekti tüüp:</strong> Satelliidikunst, kohaspetsiifiline, ruumipõhine, veebipõhine rituaal",
+    "launchDate": "<strong>Turuletoomise kuupäev:</strong> 28. november 2025",
+    "launchLocation": "<strong>Stardikoht:</strong> Satish Dhawani kosmosekeskus, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satelliit:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbiit:</strong> 525 km kõrgusel, Päikesega sünkroonis",
+    "participation": "<strong>Osalemine:</strong> tasuta, avatud kõigile üle maailma",
+    "namesSent": {
+      "heading": "<strong>Orbiidile saadetud nimed:</strong>",
+      "caption": "<em>Andmebaasist uuendatud reaalajas loendur • Viimati värskendatud: {kuupäev}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Auhinnad ja tunnustus",
+    "mercosul": {
+      "title": "<strong>13. Mercosuri biennaal</strong> (2022)",
+      "location": "Pórto Alegre, Brasiilia",
+      "curator": "Marcelo Dantase kureeritud"
+    },
+    "lumen": {
+      "title": "<strong>Lumeni auhind 2022 - tuleviku auhind</strong>",
+      "status": "Pika nimekirja"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 võistlus</strong>",
+      "award": "Võitja - ArtSat kategooria",
+      "org": "Brasiilia Kosmoseuuringute Instituudi (INPE) edendatud"
+    }
+  },
+  "team": {
+    "heading": "Meeskond",
+    "content": "Orbital Temple on loodud koostöös järgmistega: Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzgal, Tati Pegal, Tati Pedro. Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ja kõik need, kes jätkavad sellele templile nimede soovitamist."
+  },
+  "pressCoverage": {
+    "heading": "Esitletud / Pressiteates",
+    "paragraph1": "<em>Pressikajastus ja artiklid lisatakse niipea, kui need on saadaval. Uusimate värskenduste saamiseks võtke ühendust meie pressimeeskonnaga.</em>",
+    "paragraph2": "Varasemate näituste ja eksponaatide hulka kuuluvad ettekanded 13. Mercosuli bienaalil, Lumeni auhinna tunnustus ja Brasiilia Kosmoseuuringute Instituudi (INPE) valik."
+  },
+  "images": {
+    "heading": "Kõrgresolutsioonilised pildid pressi tarbeks",
+    "intro": "Kõik pildid on toimetuslikuks kasutamiseks saadaval. Klõpsake mis tahes pildil, et alla laadida kõrgresolutsiooniline fail.",
+    "installationPhotos": {
+      "heading": "Orbitaalse templi fotod",
+      "credit": "Palun viidata allikale: \"Foto autor: Clara Marques / Edson Pavoni, Orbital Temple'i nõusolekul\"",
+      "view01": "Paigaldusvaade 01<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (1,4 MB)",
+      "view02": "Paigaldusvaade 02<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (2,9 MB)",
+      "view03": "Paigaldusvaade 03<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (11 MB)",
+      "view04": "Paigaldusvaade 04<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (3,4 MB)",
+      "view05": "Paigaldusvaade 05<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (3,3 MB)",
+      "view06": "Paigaldusvaade 06<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (3,7 MB)",
+      "view07": "Paigaldusvaade 07<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (3,4 MB)",
+      "view08": "Paigaldusvaade 08<br /> Foto: Clara Marques<br /> ↓ Laadi alla kõrgresolutsiooniga (2,7 MB)",
+      "satelliteDesign": "Satelliidi disain<br /> ↓ Laadi alla",
+      "antennaSculpture": "Antenn/Skulptuur<br /> ↓ Laadi alla"
+    },
+    "renders": {
+      "heading": "Orbitaalse templi renderdused",
+      "credit": "Orbitaaltempli kontseptuaalsed 3D-renderdused. Palun viidata autorile: \"3D-renderdus RiseNY&Partnersilt / Edson Pavoni, Orbitaaltempli nõusolekul\"",
+      "render01": "3D-renderdus 01<br /> RiseNY&amp;Partnerid<br /> ↓ Laadi alla kõrgresolutsiooniga (10 MB)",
+      "render02": "3D-renderdus 02<br /> RiseNY&amp;Partnerid<br /> ↓ Laadi alla kõrgresolutsiooniga (5,9 MB)",
+      "render03": "3D-renderdus 03<br /> RiseNY&amp;Partnerid<br /> ↓ Laadi alla kõrgresolutsiooniga (5,2 MB)",
+      "render04": "3D-renderdus 04<br /> RiseNY&amp;Partnerid<br /> ↓ Laadi alla kõrgresolutsiooniga (11 MB)",
+      "render05": "3D-renderdus 05<br /> RiseNY&amp;Partnerid<br /> ↓ Laadi alla kõrgresolutsiooniga (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Kunstniku fotod",
+      "photo1": "Foto 1<br /> ↓ Laadi alla kõrgresolutsiooniga",
+      "photo2": "Foto 2<br /> ↓ Laadi alla kõrgresolutsiooniga"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy fotod",
+      "photo1": "Foto 1<br /> ↓ Laadi alla kõrgresolutsiooniga (843 KB)",
+      "photo2": "Foto 2<br /> ↓ Laadi alla kõrgresolutsiooniga (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tehnilised andmed",
+    "satellite": {
+      "heading": "Satelliit",
+      "dimensions": "Mõõtmed: 50 x 58 x 64 mm",
+      "classification": "Klassifikatsioon: 1P PocketQube",
+      "weight": "Kaal: 245 g",
+      "materials": "Materjalid: alumiinium, kuld, klaaskiud, elektroonikakomponendid",
+      "orbit": "Orbiit: kõrgus 525 ± 25 km; kalle: SSO 97,6 ± 0,1°",
+      "launch": "Turuletoomine: 28. november 2025 ISRO kaudu Indias"
+    },
+    "antenna": {
+      "heading": "Antenn/Skulptuur",
+      "dimensions": "Mõõtmed: läbimõõt 6 m x kõrgus 1,2 m",
+      "weight": "Kaal: 46 kg",
+      "materials": "Materjalid: alumiinium, epoksüüdpeegliga plaat, tellingukonstruktsiooni külge riputatud kuldne alumiiniumkuppel"
+    },
+    "radio": {
+      "heading": "Raadio spetsifikatsioonid",
+      "downlink": "Allaling: 437 MHz",
+      "status": "Käivitamise staatus: planeeritud 28. november 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Lisaressursid",
+    "artwork": "→ Vaata kunstiteose dokumentatsiooni",
+    "howItWorks": "→ Kuidas see toimib",
+    "technicalInfo": "→ Tehniline teave",
+    "spaceLaunch": "→ Kosmosekäivituse teave",
+    "ritual": "→ Koge rituaali"
+  },
+  "imageAlts": {
+    "installation": "Edson Pavoni orbitaaltempli installatsioon",
+    "satelliteDesign": "Orbitaalse templi satelliidi disain",
+    "antenna": "Orbitaalse templi antenni skulptuur",
+    "render": "Orbitaalse templi 3D-renderdus ettevõttelt RiseNY&Partners",
+    "edsonPortrait": "Edson Pavoni portree",
+    "sathiPortrait": "Sathi Roy portree",
+    "lumenPrize": "Lumeni auhind",
+    "mercosulBienal": "Mercosuri biennaal"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Kestävä kehitys ja avaruusjätteet - Orbital Temple",
+  "heading": "Kestävä kehitys",
+  "intro": {
+    "paragraph1": "Jos taiteen on määrä johdattaa meidät tulevaisuuteen, se ei voi sivuuttaa kohtaamiamme kriisejä – ympäristön romahdusta, sosiaalista eriarvoisuutta ja avaruusromun kasvavaa haastetta. Orbital Temple on suunniteltu nämä realiteetit mielessä pitäen ja pyrkien olemaan vastuullinen läsnäolo sekä Maassa että kiertoradalla.",
+    "paragraph2": "Uskomme, että kestävyys ei ole rajoite, vaan olennainen osa taiteellista visiotamme. Jokainen materiaaleja, kiertoratoja ja toimintaa koskeva päätös heijastaa sitoutumistamme jättämään sekä Maan että avaruuden paremmiksi kuin ne löysimme."
+  },
+  "spaceDebris": {
+    "heading": "Avaruusromu",
+    "paragraph1": "Avaruusromu on yksi avaruustutkimuksen polttavimmista haasteista. Tuhannet lakkautetut satelliitit ja niiden fragmentit kiertävät Maata, uhkaten aktiivisia tehtäviä ja luoden ketjureaktion, joka voi tehdä tietyistä kiertoradoista käyttökelvottomia.",
+    "paragraph2": "Orbital Temple käsittelee tätä monella tapaa:",
+    "list": {
+      "orbit": "<strong>Auringon kanssa synkroninen kiertorata 525 km:n korkeudessa:</strong> Tämä korkeus varmistaa, että luonnollinen ilmakehän vastus saa satelliitin palaamaan Maan ilmakehään noin 10 vuoden kuluessa, missä se palaa kokonaan. Emme tuota pitkäaikaisia kiertoradan roskia.",
+      "size": "<strong>PocketQube-muotoilu:</strong> Vain 50 × 58 × 64 mm:n ja 245 g:n kokoinen satelliitti on riittävän pieni höyrystyäkseen kokonaan palatessaan avaruuteen jättämättä roskia Maan pinnalle.",
+      "responsibility": "<strong>Ei suunniteltua vanhenemista:</strong> Toisin kuin kaupalliset satelliitit, jotka voidaan hylätä, Orbital Temple on suunniteltu poistumaan kiertoradalta luonnollisesti, mikä täyttää vastuullisen avaruustoiminnan kansainväliset ohjeet."
+    },
+    "paragraph3": "Valitsemalla matalan Maan kiertoradan ja kompaktin rakenteen varmistamme, että Orbital Templen läsnäolo avaruudessa on väliaikainen ja saastuttamaton."
+  },
+  "carbonNeutrality": {
+    "heading": "Hiilineutraalius",
+    "content": "Kaikki Orbital Templeen liittyvät hiilidioksidipäästöt – mukaan lukien satelliittien valmistus, laukaisu, maa-asemien toiminta, verkkosivustojen ylläpito ja tiimien matkustaminen – kompensoidaan täysin todennettujen hiilidioksidipäästöjen ohjelmien kautta. Olemme sitoutuneet tekemään tästä tehtävästä ilmastoneutraalin."
+  },
+  "openSource": {
+    "heading": "Avoimen lähdekoodin laitteisto",
+    "paragraph1": "Kestävä kehitys tarkoittaa myös tiedon hukkaamatta jättämistä. Jokainen Orbital Templen tekninen osa – kytkentäkaaviot, koodi, tietoliikenneprotokollat ja rakennusmenetelmät – julkaistaan avoimen lähdekoodin dokumentaationa.",
+    "paragraph2": "Tämä antaa tuleville avaruuslentojamme mahdollisuuden rakentaa työmme pohjalle sen sijaan, että ne aloitettaisiin tyhjästä, mikä vähentää tarpeetonta tutkimusta ja kehitystä. Se demokratisoi avaruusteknologian saatavuutta, erityisesti etelän yhteisöille, jotka ovat historiallisesti olleet avaruustutkimuksen ulkopuolella."
+  },
+  "educational": {
+    "heading": "Koulutusvaikutus",
+    "paragraph1": "Ilmainen monikielinen koulutusohjelmamme opettaa opiskelijoille maailmanlaajuisesti satelliittien rakentamista ja laukaisua, keskittyen erityisesti globaaliin etelään. Antamalla seuraavan sukupolven avaruusteknologiaosaamiseen autamme kuromaan umpeen \"avaruusaukkoa\" ja luomaan mahdollisuuksia, joita muuten ei olisi.",
+    "paragraph2": "Tämä koulutustehtävä on itsessään kestävän kehityksen muoto – investoimista ihmisiin ja yhteisöihin pysyvän muutoksen luomiseksi satelliitin elinkaaren jälkeen."
+  },
+  "tenYear": {
+    "heading": "10 vuoden missio",
+    "paragraph1": "Orbital Temple on suunniteltu vuosikymmenen mittaiseen tehtävään, ei lyhyeen julkisuustemppuun. Kymmenen vuoden aikana satelliitti kiertää Maata noin 50 000 kertaa, saa nimet ja toimii muistutuksena siitä, että avaruus voi olla yhteistä ja kaikkien saatavilla olevaa.",
+    "paragraph2": "Tehtävänsä päätyttyä satelliitti luonnollisesti poistuu kiertoradaltaan ja palaa, jättäen jälkeensä vain osallistujien muistot ja dokumentit."
+  },
+  "artsResponsibility": {
+    "heading": "Taiteen vastuu",
+    "paragraph1": "Taide on aina ollut aikansa peili, heijastaen arvojamme ja pyrkimyksiämme. Ilmastokriisin ja kasvavan eriarvoisuuden aikakaudella uskomme, että taiteilijoilla on vastuu luoda teoksia, jotka eivät ainoastaan kommentoi näitä kysymyksiä, vaan käsittelevät niitä aktiivisesti.",
+    "paragraph2": "Orbital Temple on pyrkimyksemme luoda taideteos, joka on radikaali osallistavuudessaan, vastuullinen ympäristövaikutuksissaan ja antelias jakaessaan tietämystään maailmalle. Se on taidetta, joka kutsuu kaikki osallistumaan samalla kunnioittaen hauraita järjestelmiä – ympäristöä ja kiertorataa – jotka mahdollistavat elämän ja tutkimusmatkailun."
+  },
+  "imageAlt": "Orbitaalisen temppelin satelliitti"
+}

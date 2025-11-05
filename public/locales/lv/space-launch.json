@@ -1,0 +1,16 @@
+{
+  "title": "Kosmosa palaišana - orbitālais templis",
+  "heading": "Kosmosa palaišana",
+  "intro": "Orbitālā templis tiks palaists ar PSLV (Polārā satelītu palaišanas raķeti) 2025. gada 28. novembrī no Satiša Dhavana kosmosa centra Sriharikotā, Indijā.",
+  "partnership": "Orbitālā tempļa atklāšana ir partnerība starp NewSpace India Limited (NSIL), Indijas valdības uzņēmumu Kosmosa departamenta pakļautībā, Antrix Corporation un mākslinieku. Šī sadarbība ir nozīmīgs pagrieziena punkts mākslā kosmosa izpētē, apvienojot Indijas kosmosa programmu ar radikālas iekļautības māksliniecisko vīziju.",
+  "risks": {
+    "heading": "Riski",
+    "paragraph1": "Satelīts tika uzbūvēts, lai izturētu ekstremālus vibrācijas apstākļus un termiskos ciklus, un ir izturējis stingras pārbaudes. Tomēr kosmosa palaišana ir saistīta ar riskiem. Ja satelīts tiek bojāts palaišanas vai izvietošanas laikā vai ja tam neizdodas izveidot sakarus ar mūsu zemes stacijām, mēs strādāsim, lai novērstu problēmas un atrisinātu tās. Satelītam ir rezerves sistēmas un rezerves protokoli, kas izstrādāti, lai palielinātu misijas panākumu iespējas.",
+    "paragraph2": "Turklāt satelīts var palikt orbītā mazāk nekā 10 gadus, ja atmosfēras apstākļi vai citi faktori izraisa agrāku orbītas sabrukšanu. Lai gan mēs to esam projektējuši tā, lai tas kalpotu vismaz desmit gadus, faktiskais kalpošanas laiks ir atkarīgs no apstākļiem, kurus mēs nevaram pilnībā kontrolēt.",
+    "paragraph3": "Ja pirmais starts neizdosies vai ja mēs nevarēsim izpildīt šo misiju, kā plānots, mēs izpētīsim alternatīvus ceļus uz priekšu, iespējams, iekļaujot otro starta mēģinājumu ar pieejamo budžetu, partnerību ar citām misijām vai mēģinājuma dokumentēšanu kā daļu no mākslas darba stāstījuma par centieniem un ierobežojumiem."
+  },
+  "imageAlts": {
+    "india": "ISRO kosmosa centrs, Indija",
+    "satellite": "Orbitālā tempļa satelīts"
+  }
+}

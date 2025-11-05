@@ -1,0 +1,50 @@
+{
+  "title": "Partnerzy - Orbital Temple",
+  "heading": "Wzmacniacz",
+  "intro": "Orbital Temple istnieje dzięki hojności, doświadczeniu i wizji niezwykłych partnerów. Od projektowania satelitów po tworzenie narracji, od otwierania drzwi w odległych krainach po odlewanie marzeń w złocie – każda współpraca przybliża tę świątynię do gwiazd.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikacja, zintegrowane doświadczenia i oszałamiające obrazy 3D, które ożywiły wizję satelity, zanim jeszcze dotknął on próżni kosmicznej."
+    },
+    "highestMantra": {
+      "name": "Nasza najwyższa mantra",
+      "description": "Pod kierownictwem Sathi Roya, Orbital Temple łączy się ze społecznością duchową i artystyczną Indii. Otwiera możliwości zbierania funduszy, wymiany kulturalnej i wystawy Art Basel po jej otwarciu w listopadzie 2025 roku."
+    },
+    "allToSpace": {
+      "name": "Wszystko w kosmos",
+      "description": "Brazylijscy specjaliści od małych satelitów. Cztery lata współpracy przy tworzeniu platformy sprzętowej open source i pionierskim procesie wysyłania dzieł sztuki na orbitę z Globalnego Południa."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indyjska Organizacja Badań Kosmicznych. Dostawca usług startowych dla misji PSLV, która w listopadzie 2025 r. wyniesie satelitę Orbital Temple na orbitę heliosynchroniczną."
+    },
+    "mercosul": {
+      "name": "13. Biennale Mercosur",
+      "description": "Porto Alegre, Brazylia. Kuratorem jest Marcello Dantas wraz z asystentkami kuratorów Laurą Cattani, Munirem Klamtem, Tarsilią Riso i Carolliną Lauriano."
+    },
+    "inpe": {
+      "name": "Warsztaty INPE / ArtSat",
+      "description": "Zespół zajmujący się rozwojem satelity powstał podczas II Warsztatów ArtSat. Koordynatorem jest Fabiane M. Borges, kierownictwo: Lázaro Camargo, współpraca: Ítalo Pinto Rodrigues, nadzór: Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solidne koncepcje",
+      "description": "Pod kierownictwem Eduardo Diasa. Druk 3D i mikroodlewy ze złota dla rzeźbiarskiej kopuły, przekształcając cyfrowe marzenia w rzeczywistość z metali szlachetnych."
+    },
+    "ideaSpace": {
+      "name": "Przestrzeń Pomysłów",
+      "description": "Brazylijski startup edukacyjny opracowuje program nauczania Quebrada Space Program, gotowy do wdrożenia w szkołach średnich w całej Brazylii."
+    }
+  },
+  "closing": "Jesteś zainteresowany współpracą z Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Skontaktuj się z nami</a> .",
+  "imageAlts": {
+    "riseNy": "Logo RiseNY&Partners",
+    "highestMantra": "Nasze logo z najwyższą mantrą",
+    "allToSpace": "Logo „Wszystko w kosmosie”",
+    "isro": "Logo ISRO",
+    "mercosul": "Logo 13. Biennale Mercosuru",
+    "inpe": "Logo warsztatu INPE ArtSat",
+    "solidConcepts": "Logo Solid Concepts",
+    "ideaSpace": "Logo Idea Space"
+  }
+}

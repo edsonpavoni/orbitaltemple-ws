@@ -1,0 +1,31 @@
+{
+  "title": "Fai una donazione al Tempio Orbitale",
+  "heading": "Completa la tua donazione",
+  "donatingTo": "Stai donando a:",
+  "chooseHow": "Scegli come desideri completare la tua donazione deducibile dalle tasse:",
+  "option1": {
+    "heading": "Opzione 1: Dona online ora",
+    "description": "Completa subito la tua donazione utilizzando carta di credito, carta di debito o altri metodi di pagamento online tramite il nostro sponsor fiscale sicuro, <strong>The Field</strong> . Riceverai immediatamente una ricevuta fiscale.",
+    "button": "Dona tramite The Field →"
+  },
+  "option2": {
+    "heading": "Opzione 2: Deposito bancario alla Fondazione Roy",
+    "description": "Effettua un deposito bancario diretto o un bonifico bancario a <strong>The Roy Foundation</strong> , il nostro partner strategico e sponsor fiscale. Questa opzione è ideale per donazioni più consistenti o trasferimenti internazionali.",
+    "bankingInfo": "Informazioni bancarie",
+    "fields": {
+      "accountName": "Nome utente:",
+      "bankName": "Nome della banca:",
+      "accountNumber": "Numero di conto:",
+      "routingNumber": "Numero di routing:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Riferimento:"
+    },
+    "instructions": "Si prega di includere &quot; <strong>Orbital Temple - {donationType}</strong> &quot; nel campo causale. Dopo aver completato il bonifico, inviateci un&#39;e-mail a <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> con i dettagli del bonifico per ricevere la ricevuta fiscale.",
+    "button": "Contattaci per il deposito →"
+  },
+  "taxInfo": {
+    "heading": "Donazioni deducibili dalle tasse",
+    "description": "Orbital Temple è un progetto finanziato fiscalmente da <strong>The Field (Performance Zone Inc.)</strong> , un&#39;organizzazione no-profit <strong>501(c)(3)</strong> . Tutti i contributi statunitensi sono deducibili dalle tasse nella misura consentita dalla legge.",
+    "questions": "Domande? Contattaci a <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "title": "プレス＆メディア - Orbital Temple",
+  "heading": "報道・メディア",
+  "pressContact": {
+    "heading": "プレス連絡先",
+    "content": "報道関係のお問い合わせ、インタビュー、メディアのリクエストについては、以下までご連絡ください。<br /><strong>メールアドレス:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /><strong>ウェブサイト:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "プロジェクトについて",
+    "paragraph1": "軌道寺院は、壁の届かない場所に建てられる、根本的に包括的な寺院となることを目指したアート作品であり、衛星でもあります。新型コロナウイルス感染症のパンデミック中にブラジル人の6人に1人が訪れた「イヌメラベイス記念碑」を制作したブラジル人アーティスト、エドソン・パヴォーニが制作したこのプロジェクトでは、世界中の人々に、追悼したい人の名前を送ってもらいます。集められた名前は軌道上の衛星に送信され、集合的な追悼の場が作られます。",
+    "paragraph2": "246言語に対応したウェブサイトを通じて、参加者は新たな儀式に参加します。「オービタル・テンプル」は、包摂、記憶、そして私たちが共有する人間性というテーマを探求し、地球上の物理的な寺院が真にすべての人を歓迎できない理由を問いかけ、宇宙こそがラディカルな包摂性が存在する唯一の場所であると提唱します。"
+  },
+  "aboutArtist": {
+    "heading": "アーティストについて",
+    "paragraph1": "<strong>エドソン・パヴォーニ</strong>はブラジル出身のアーティストです。彼の旅はサンパウロの路上で始まりました。貧困と暴力という環境が彼の幼少期を形作りました。キリスト教が路上、麻薬、暴力から逃れる道を与えてくれたこの国で、パヴォーニは信仰に安らぎを見出しました。このテーマは、後に宗教的虐待の批判者となった彼が、芸術活動の根底に据えることになります。",
+    "paragraph2": "2020年、COVID-19パンデミックの最中、パヴォーニはアートとジャーナリズムの交差点にあるアート作品<strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">「Inumeráveis（無数）」</a></strong>を制作しました。このプロジェクトでは、何千もの家族にインタビューを行い、パンデミックで亡くなった人々の物語を書き記すことで、記憶が数字や統計を超える空間を創り出しました。それらの物語から詩、歌、交響曲が作られました。新聞は名前と経歴を使って表紙を作成しました。オスカー受賞者のフェルナンダ・トーレス、セルトン・メロ、エヴァ・ウィルマ、カミラ・ピタンガ、デボラ・セッコ、タイス・アラウージョ、ラサロ・ラモスといったブラジルのスターたち、そしてその他多くのスターが、国営テレビでそれらの物語を読みました。このプロジェクトは3,200万人、ブラジルの成人の4人に1人に届きました。それは癒しのネットワークとなり、記憶の集合的な記念碑となりました。",
+    "paragraph3": "悲しみを抱える人々との1万回以上の対話を経て、あるパターンが浮かび上がりました。亡くなった人について話すとき、私たちはまるで天国の門番に推薦状を書くかのように、その人の物語を断片的に選び出すのです。私たちは、その人を私たちが信じる天国へと送ろうと、あらゆる手を尽くします。この作業を通して、新たな理解が生まれました。誰が天国にふさわしいかという私たちの信念は、地球上で誰を受け入れ、誰を排除するかを直接形作るのです。ブラジルのポルトガル人入植者たちは、黒人には魂がないと信じていました。その信念は奴隷制を正当化しました。もしあなたが先住民だったり、間違った場所に生まれたり、間違った人を愛したりしたなら、今日に至るまで天国への扉は閉ざされていると言われ続けるのです。拒絶によって満たされない未来像などあるのでしょうか？",
+    "paragraph4": "こうしてオービタル・テンプルが誕生しました。"
+  },
+  "keyFacts": {
+    "heading": "重要な事実",
+    "artist": "<strong>アーティスト:</strong> Edson Pavoni (ブラジル)",
+    "projectType": "<strong>プロジェクトの種類:</strong>衛星アート作品、宇宙におけるサイトスペシフィック、ウェブベースの儀式",
+    "launchDate": "<strong>打ち上げ日:</strong> 2025年11月28日",
+    "launchLocation": "<strong>打ち上げ場所：</strong>インド、スリハリコタのサティシュ・ダワン宇宙センター（ISRO）",
+    "satellite": "<strong>衛星:</strong> 1P PocketQube、50x58x64mm、245g",
+    "orbit": "<strong>軌道：</strong>高度525km、太陽同期",
+    "participation": "<strong>参加費：</strong>無料、世界中誰でも参加可能",
+    "namesSent": {
+      "heading": "<strong>軌道に送られた名前:</strong>",
+      "caption": "<em>データベースからライブカウントが更新されました • 最終更新日: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "受賞歴と表彰",
+    "mercosul": {
+      "title": "<strong>第13回メルコスールビエンナーレ</strong>（2022年）",
+      "location": "ポルトアレグレ、ブラジル",
+      "curator": "キュレーター：マルセロ・ダンタス"
+    },
+    "lumen": {
+      "title": "<strong>ルーメン賞 2022 - 未来賞</strong>",
+      "status": "最終候補"
+    },
+    "cubeDesign": {
+      "title": "<strong>キューブデザイン2021コンペティション</strong>",
+      "award": "優勝者 - ArtSat部門",
+      "org": "ブラジル宇宙研究所（INPE）が推進"
+    }
+  },
+  "team": {
+    "heading": "チーム",
+    "content": "Orbital Temple は、Sathi Roy、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister とのコラボレーションにより作成されました。 Pedro Vidigal、Tatiane Putti、Rafael Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace、そしてこの寺院の名前を提案し続けているすべての人々。"
+  },
+  "pressCoverage": {
+    "heading": "特集記事 / 報道",
+    "paragraph1": "<em>報道や特集記事は、準備が整い次第、随時追加されます。最新情報については、広報チームまでお問い合わせください。</em>",
+    "paragraph2": "これまでの展示や企画には、第 13 回メルコスール・ビエンナーレでの発表、ルーメン賞の表彰、ブラジル宇宙研究所 (INPE) による選出などがあります。"
+  },
+  "images": {
+    "heading": "報道向け高解像度画像",
+    "intro": "すべての画像は編集用途にご利用いただけます。画像をクリックすると高解像度ファイルをダウンロードできます。",
+    "installationPhotos": {
+      "heading": "軌道寺院の写真",
+      "credit": "クレジットをお願いします：「写真：クララ・マルケス / エドソン・パヴォーニ、オービタル・テンプル提供」",
+      "view01": "インスタレーションビュー 01<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（1.4 MB）",
+      "view02": "インスタレーションビュー 02<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（2.9 MB）",
+      "view03": "インスタレーションビュー 03<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（11MB）",
+      "view04": "インスタレーションビュー 04<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（3.4 MB）",
+      "view05": "インスタレーションビュー 05<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（3.3 MB）",
+      "view06": "インスタレーションビュー 06<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（3.7 MB）",
+      "view07": "インスタレーションビュー 07<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（3.4 MB）",
+      "view08": "インスタレーションビュー 08<br />写真: クララ・マルケス<br />↓高解像度版をダウンロード（2.7 MB）",
+      "satelliteDesign": "衛星設計<br />↓ダウンロード",
+      "antennaSculpture": "アンテナ/彫刻<br />↓ダウンロード"
+    },
+    "renders": {
+      "heading": "軌道寺院のレンダリング",
+      "credit": "オービタル・テンプルのコンセプト3Dレンダリング。クレジット表記：\"3Dレンダリング：RiseNY&Partners / 提供：Edson Pavoni, Orbital Temple\"",
+      "render01": "3Dレンダリング01<br />ライズNY＆パートナーズ<br />↓高解像度版をダウンロード（10MB）",
+      "render02": "3Dレンダリング02<br />ライズNY＆パートナーズ<br />↓高解像度版をダウンロード（5.9 MB）",
+      "render03": "3Dレンダリング03<br />ライズNY＆パートナーズ<br />↓高解像度版をダウンロード（5.2 MB）",
+      "render04": "3Dレンダリング 04<br />ライズNY＆パートナーズ<br />↓高解像度版をダウンロード（11 MB）",
+      "render05": "3Dレンダリング05<br />ライズNY＆パートナーズ<br />↓高解像度版をダウンロード（13 MB）"
+    },
+    "artistPhotos": {
+      "heading": "アーティスト写真",
+      "photo1": "写真1<br /> ↓高解像度版をダウンロード",
+      "photo2": "写真2<br /> ↓高解像度版をダウンロード"
+    },
+    "sathiPhotos": {
+      "heading": "サティ・ロイの写真",
+      "photo1": "写真1<br /> ↓高解像度版をダウンロード（843 KB）",
+      "photo2": "写真2<br /> ↓高解像度版をダウンロード（1.8 MB）"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "技術仕様",
+    "satellite": {
+      "heading": "衛星",
+      "dimensions": "寸法: 50 x 58 x 64 mm",
+      "classification": "分類: 1P ポケットキューブ",
+      "weight": "重量: 245g",
+      "materials": "材質: アルミニウム、金、グラスファイバー、電子部品",
+      "orbit": "軌道：高度525±25km、傾斜角：SSO97.6±0.1°",
+      "launch": "打ち上げ：2025年11月28日、インド宇宙研究機関（ISRO）経由"
+    },
+    "antenna": {
+      "heading": "アンテナ/彫刻",
+      "dimensions": "寸法：直径6m×高さ1.2m",
+      "weight": "体重: 46 kg",
+      "materials": "材料: アルミニウム、エポキシ樹脂ミラーボード、足場構造に吊り下げられた金色のアルミニウムドーム"
+    },
+    "radio": {
+      "heading": "無線仕様",
+      "downlink": "ダウンリンク: 437 MHz",
+      "status": "打ち上げ状況: 2025年11月28日予定"
+    }
+  },
+  "additionalResources": {
+    "heading": "追加リソース",
+    "artwork": "→ アートワークのドキュメントを見る",
+    "howItWorks": "→ 仕組み",
+    "technicalInfo": "→ 技術情報",
+    "spaceLaunch": "→ 宇宙打ち上げ情報",
+    "ritual": "→ 儀式を体験する"
+  },
+  "imageAlts": {
+    "installation": "エドソン・パヴォーニによるオービタル・テンプル・インスタレーション",
+    "satelliteDesign": "軌道寺院衛星設計",
+    "antenna": "軌道寺院アンテナ彫刻",
+    "render": "RiseNY&Partnersによるオービタル・テンプルの3Dレンダリング",
+    "edsonPortrait": "エドソン・パヴォーニのポートレート",
+    "sathiPortrait": "サティ・ロイの肖像",
+    "lumenPrize": "ルーメン賞",
+    "mercosulBienal": "メルコスールビエンナーレ"
+  }
+}

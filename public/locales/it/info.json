@@ -1,0 +1,17 @@
+{
+  "title": "Informazioni tecniche - Tempio orbitale",
+  "heading": "Informazioni tecniche",
+  "satellite": {
+    "heading": "Satellitare",
+    "specs": "Dimensioni: 50x58x64 mm<br /> 1P PocketQube<br /> Peso: 245 gr<br /> Materiali: alluminio, oro, fibra di vetro e componenti elettronici.<br /> Orbita: Altitudine 525 ± 25 km; inclinazione: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Scultura",
+    "specs": "Dimensioni: 6 m (diametro) e 1,2 m (altezza)<br /> Peso: 46 kg<br /> Materiali: alluminio, pannello specchiato in resina epossidica, cupola in alluminio dorato sospesa tramite una struttura a ponteggio."
+  },
+  "radio": {
+    "heading": "Specifiche radio Catalogo NASA:",
+    "specs": "TBD Downlink: 437 MHz<br /> Chiamata: Stato: PROGRAMMA PER IL 2025"
+  },
+  "imageAlt": "Diagramma delle informazioni tecniche"
+}

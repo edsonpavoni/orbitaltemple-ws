@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "als je deelneemt aan\neen ritueel\nom een naam te sturen\nnaar de\norbitale tempel\nin de ruimte\nhaal\neen adem",
+    "button": "ik ben klaar"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "typ een naam",
+    "subtitle": "het zal opstijgen naar de Orbitale Tempel in de ruimte.",
+    "placeholder": "naam",
+    "button": "laat het opstijgen"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "typ uw e-mailadres",
+    "subtitle": "zodat je een bericht krijgt als de naam stijgt.",
+    "placeholder": "uw e-mailadres",
+    "button": "het is gedaan"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Bezig met laden"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "De naam\n{{name}}\nstaat nu in de wachtrij\nvoor ascensie.\nWanneer de\ntempel in de ruimte\nuitgelijnd is met\nonze antenne\nop aarde\nzullen we\nde naam\nverzenden en ontvang je\neen bericht."
   }
 }

@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "καθώς μπαίνετε σε\nμια τελετουργία\nγια να στείλετε ένα όνομα\nστον\nτροχιακό ναό\nστο διάστημα\nπάρτε\nμια ανάσα",
+    "button": "είμαι έτοιμος"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "πληκτρολογήστε ένα όνομα",
+    "subtitle": "θα ανέλθει στον Τροχιακό Ναό στο διάστημα.",
+    "placeholder": "όνομα",
+    "button": "άφησέ το να ανέβει"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "πληκτρολογήστε το email σας",
+    "subtitle": "έτσι ώστε να λαμβάνετε ένα μήνυμα όταν το όνομα ανεβαίνει.",
+    "placeholder": "το email σας",
+    "button": "τελείωσε"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Φόρτωση"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "Το όνομα\n{{name}}\nέχει πλέον τεθεί σε ουρά\nγια ανάληψη.\nόταν ο\nναός στο διάστημα\nευθυγραμμιστεί με\nτην κεραία μας\nστη Γη\nθα στείλουμε\nτο όνομα\nκαι θα λάβετε\nένα μήνυμα."
   }
 }

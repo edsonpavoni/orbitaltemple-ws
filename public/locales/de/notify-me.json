@@ -1,0 +1,13 @@
+{
+  "title": "Benachrichtigung erhalten – Orbitaltempel",
+  "heading": "Lassen Sie sich benachrichtigen, wenn es steigt",
+  "description": "Am 28. November 2025 wird der Orbitaltempel aufsteigen.<br> Hinterlassen Sie Ihre E-Mail-Adresse, und wir benachrichtigen Sie, sobald die Kapsel im Weltraum angekommen ist.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Schicken",
+    "sendingButton": "Wird gesendet...",
+    "successMessage": "Wir werden Sie erreichen, sobald es aufgestiegen ist.",
+    "errorMessage": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "backLink": "← Zurück zum Countdown"
+}

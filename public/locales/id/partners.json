@@ -1,0 +1,50 @@
+{
+  "title": "Mitra - Kuil Orbital",
+  "heading": "Mitra",
+  "intro": "Orbital Temple hadir berkat kemurahan hati, keahlian, dan visi para mitra yang luar biasa. Mulai dari merekayasa satelit hingga menyusun narasi, dari membuka pintu di negeri-negeri terpencil hingga menuangkan mimpi ke dalam emas, setiap kolaborasi membawa kuil ini lebih dekat ke bintang-bintang.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikasi, pengalaman terpadu, dan citra render 3D yang menakjubkan yang menghidupkan visi satelit sebelum menyentuh ruang hampa."
+    },
+    "highestMantra": {
+      "name": "Mantra Tertinggi Kami",
+      "description": "Dipimpin oleh Sathi Roy, Orbital Temple menghubungkan komunitas spiritual dan seni India. Membuka jalur penggalangan dana, pertukaran budaya, dan pameran Art Basel setelah peluncurannya pada November 2025."
+    },
+    "allToSpace": {
+      "name": "Semua ke Luar Angkasa",
+      "description": "Spesialis satelit kecil Brasil. Empat tahun kolaborasi membangun platform perangkat keras sumber terbuka dan merintis proses pengiriman karya seni ke orbit dari belahan bumi selatan."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organisasi Penelitian Antariksa India. Penyedia peluncuran untuk misi PSLV yang membawa Orbital Temple ke orbit sinkron matahari pada November 2025."
+    },
+    "mercosul": {
+      "name": "Biennale Mercosur ke-13",
+      "description": "Porto Alegre, Brasil. Dikurasi oleh Marcello Dantas dengan asisten kurator Laura Cattani, Munir Klamt, Tarsila Riso, dan Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Lokakarya INPE / ArtSat",
+      "description": "Tim pengembangan satelit dibentuk pada Workshop ArtSat II. Dikoordinasikan oleh Fabiane M. Borges, diinstruksikan oleh Lázaro Camargo, berkolaborasi oleh Ítalo Pinto Rodrigues, diawasi oleh Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Konsep Padat",
+      "description": "Dipimpin oleh Eduardo Dias. Semua proses pencetakan 3D dan pengecoran mikro emas digunakan untuk kubah pahatan ini, mengubah mimpi digital menjadi kenyataan dari logam mulia."
+    },
+    "ideaSpace": {
+      "name": "Ruang Ide",
+      "description": "Perusahaan rintisan pendidikan Brasil mengembangkan kurikulum Program Luar Angkasa Quebrada, siap diterapkan pada siswa sekolah menengah atas di seluruh Brasil."
+    }
+  },
+  "closing": "Tertarik bermitra dengan Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Hubungi kami</a> .",
+  "imageAlts": {
+    "riseNy": "Logo RiseNY&Partners",
+    "highestMantra": "Logo Mantra Tertinggi Kami",
+    "allToSpace": "Logo Semua ke Luar Angkasa",
+    "isro": "Logo ISRO",
+    "mercosul": "Logo Biennial Mercosur ke-13",
+    "inpe": "Logo Lokakarya Seni INPE",
+    "solidConcepts": "Logo Konsep Padat",
+    "ideaSpace": "Logo Ruang Ide"
+  }
+}

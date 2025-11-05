@@ -1,0 +1,31 @@
+{
+  "title": "Umetniško delo - Orbitalni tempelj",
+  "heading": "Umetniško delo",
+  "intro": {
+    "paragraph1": "Orbitalni tempelj je satelit z umetniškim poslanstvom: spomenik v vesolju, odprt za vsako čuteče bitje, ki živi ali je živelo na Zemlji.",
+    "paragraph2": "S tehnološkimi sredstvi lahko kdorkoli v tempelj pošlje ime nekoga, bodisi nekoga, ki je umrl, osebe, ki je še vedno živa, bodisi katerega koli bitja, ki si zasluži spomin."
+  },
+  "sculpture": {
+    "heading": "Skulptura",
+    "paragraph1": "Umetniško delo ima tri soodvisne elemente: satelit, posebej zasnovan za shranjevanje milijard imen; javno skulpturo, ki si izmenjuje informacije s satelitom; in spletno stran, prek katere udeleženci pošiljajo imena v nebesa, od zdaj do svoje smrti.",
+    "paragraph2": "Kot multidisciplinarni podvig lahko Orbitalni tempelj obravnavamo kot skulpturo, specifično za lokacijo, ki naseljuje prostor. Je tudi projekt Artsata."
+  },
+  "antenna": {
+    "heading": "Antena kot javna skulptura",
+    "paragraph1": "Antena, ki nas povezuje z vesoljem.",
+    "paragraph2": "V fazi načrtovanja je antena, ki bo v neposredni komunikaciji z orbitalnim satelitom.",
+    "paragraph3": "Z zlato odsevno površino, ki zrcali nebo nad seboj, je izhodišče za množično stimulacijo (ali naš odnos do tega, kar je \"tam zgoraj\").",
+    "paragraph4": "Čeprav skulpture niso nameščene v večini delov sveta, naši Frames from Earth, ki trenutno nadzorujejo satelit, pošiljajo imena ob vsakem prehodu.",
+    "paragraph5": "Pomagajte uresničiti to vizijo v svojem mestu – postavite antenske skulpture, ki spodbujajo pogovore o raziskovanju vesolja, umetnosti in našem skupnem mestu v vesolju. <a href=\"/support\">Več o podpori projektu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitalni tempeljni satelit",
+    "riseNy": "Orbitalni tempelj v Riseu, New York",
+    "installation": "Orbitalni tempelj, Clara Marques",
+    "antenna": "Orbitalna tempeljska antena"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitalni tempelj v vesolju. 3D-upodobitev: RiseNY&Partners.",
+    "mercosul": "Postavitev Orbitalnega templja na bienalu Mercosul v Porto Alegreju v Braziliji.<br> Fotografija Clare Marques."
+  }
+}

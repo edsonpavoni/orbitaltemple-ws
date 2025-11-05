@@ -1,0 +1,50 @@
+{
+  "title": "파트너 - 오비탈 템플",
+  "heading": "파트너",
+  "intro": "오비탈 템플은 뛰어난 파트너들의 관대함, 전문성, 그리고 비전을 통해 존재합니다. 위성 제작부터 이야기 만들기, 머나먼 땅의 문을 여는 것부터 금으로 꿈을 빚어내는 것까지, 모든 협업은 이 템플을 별에 더욱 가까이 다가가게 합니다.",
+  "partners": {
+    "riseNy": {
+      "name": "라이즈NY&파트너스",
+      "description": "통신, 통합된 경험, 그리고 놀라운 3D 렌더링 영상은 위성이 우주의 공허에 닿기도 전에 그 비전을 현실로 구현했습니다."
+    },
+    "highestMantra": {
+      "name": "우리의 가장 높은 만트라",
+      "description": "사티 로이가 이끄는 오비탈 템플은 인도의 영적, 예술 공동체와 연결됩니다. 2025년 11월 출범 이후 기금 모금, 문화 교류, 그리고 아트 바젤 전시로 이어지는 길을 열어줄 것입니다."
+    },
+    "allToSpace": {
+      "name": "모두 우주로",
+      "description": "브라질 소형 위성 전문가들이 4년간 협력하여 오픈 소스 하드웨어 플랫폼을 구축하고 남반구에서 예술 작품을 궤도에 올리는 과정을 개척했습니다."
+    },
+    "isro": {
+      "name": "이스라엘 산업자원부",
+      "description": "인도 우주 연구 기구(ISRO). 2025년 11월 오비탈 템플(Orbital Temple)을 태양 동기 궤도로 운반하는 PSLV 임무의 발사 공급자."
+    },
+    "mercosul": {
+      "name": "제13회 메르코수르 비엔날레",
+      "description": "브라질 포르투알레그레. 보조 큐레이터 Laura Cattani, Munir Klamt, Tarsila Riso 및 Carollina Lauriano와 함께 Marcello Dantas가 큐레이팅했습니다."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat 워크숍",
+      "description": "II ArtSat 워크샵 중에 위성 개발 팀이 구성되었습니다. Fabiane M. Borges의 코디네이터, Lázaro Camargo의 지시, Ítalo Pinto Rodrigues의 협업, Walter Abrahão dos Santos의 감독."
+    },
+    "solidConcepts": {
+      "name": "견고한 개념",
+      "description": "에두아르도 디아스가 이끄는 이 프로젝트는 3D 프린팅과 금 미세 주조를 통해 조각적인 돔을 제작하는 데 사용되었으며, 디지털 꿈을 귀중한 금속으로 현실화했습니다."
+    },
+    "ideaSpace": {
+      "name": "아이디어 스페이스",
+      "description": "브라질 전역의 고등학생에게 적용될 케브라다 우주 프로그램 커리큘럼을 개발 중인 브라질 교육 스타트업입니다."
+    }
+  },
+  "closing": "Orbital Temple과 파트너십을 맺고 싶으신가요? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">문의해 주세요</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners 로고",
+    "highestMantra": "우리의 가장 높은 만트라 로고",
+    "allToSpace": "All to Space 로고",
+    "isro": "ISRO 로고",
+    "mercosul": "제13회 메르코수르 비엔날레 로고",
+    "inpe": "INPE ArtSat 워크숍 로고",
+    "solidConcepts": "솔리드 컨셉츠 로고",
+    "ideaSpace": "아이디어 스페이스 로고"
+  }
+}

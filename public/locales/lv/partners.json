@@ -1,0 +1,50 @@
+{
+  "title": "Partneri - Orbitālais templis",
+  "heading": "Partneri",
+  "intro": "Orbitālais templis pastāv, pateicoties ārkārtēju partneru dāsnumam, zināšanām un vīzijai. No satelītu inženierijas līdz stāstu veidošanai, no durvju atvēršanas tālās zemēs līdz sapņu liešanai zeltā, katra sadarbība tuvina šo templi zvaigznēm.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikācija, integrēta pieredze un satriecoši 3D renderējuma attēli, kas atdzīvināja satelīta redzējumu, pirms tas jebkad pieskārās kosmosa tukšumam."
+    },
+    "highestMantra": {
+      "name": "Mūsu augstākā mantra",
+      "description": "Sathi Roy vadībā Orbital Temple savieno Indijas garīgās un mākslinieciskās kopienas. Pēc izstādes atklāšanas 2025. gada novembrī tiek atvērtas iespējas līdzekļu piesaistei, kultūras apmaiņai un Art Basel izstādei."
+    },
+    "allToSpace": {
+      "name": "Viss kosmosā",
+      "description": "Brazīlijas mazo satelītu speciālisti. Četru gadu sadarbība atvērtā pirmkoda aparatūras platformas izveidē un mākslas darbu nosūtīšanas orbītā no globālajiem dienvidiem procesa pionierdarbs."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indijas Kosmosa pētniecības organizācija. PSLV misijas palaišanas nodrošinātājs, kas 2025. gada novembrī nogādās Orbitālo templi Saules sinhronajā orbītā."
+    },
+    "mercosul": {
+      "name": "13. Mercosur biennāle",
+      "description": "Porto Alegre, Brazīlija. Kurators Marčello Dantass kopā ar kuratora asistentiem Lauru Kattani, Muniru Klamtu, Tarsilu Riso un Kerolīnu Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat darbnīca",
+      "description": "Satelītu izstrādes komanda tika izveidota II ArtSat semināra laikā. Koordinē Fabiane M. Borges, instruējis Lāzaro Kamargo, sadarbojies Italo Pinto Rodrigess, uzrauga Valters Abrahão dos Santoss."
+    },
+    "solidConcepts": {
+      "name": "Stabilas koncepcijas",
+      "description": "Eduardo Diasa vadībā. Visi skulpturālā kupola 3D drukāšanas un zelta mikroliešanas darbi, pārveidojot digitālos sapņus dārgmetāla realitātē."
+    },
+    "ideaSpace": {
+      "name": "Ideju telpa",
+      "description": "Brazīlijas izglītības jaunuzņēmums, kas izstrādā Quebrada kosmosa programmas mācību programmu, kas ir gatava piemērošanai vidusskolēniem visā Brazīlijā."
+    }
+  },
+  "closing": "Vai vēlaties sadarboties ar Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Sazinieties ar mums</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners logotips",
+    "highestMantra": "Mūsu augstākās mantras logotips",
+    "allToSpace": "Viss kosmosam Logo",
+    "isro": "ISRO logotips",
+    "mercosul": "13. Mercosur biennāles logotips",
+    "inpe": "INPE ArtSat darbnīcas logotips",
+    "solidConcepts": "Solid Concepts logotips",
+    "ideaSpace": "Ideju telpas logotips"
+  }
+}

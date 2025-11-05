@@ -1,24 +1,24 @@
 {
   "breathing": {
-    "text": "as you enter\na ritual\n\nto send a name\ninto the\norbital temple\nin space\n\ntake\na breath",
-    "button": "I'm ready"
+    "text": "kui sisened\nrituaali,\net saata nimi\nkosmoses asuvasse\norbitaalsesse templisse\nhinga\nsisse",
+    "button": "Ma olen valmis"
   },
   "nameInput": {
-    "title": "type a name",
-    "subtitle": "it will rise to the Orbital Temple in space.",
-    "placeholder": "name",
-    "button": "let it ascend"
+    "title": "sisesta nimi",
+    "subtitle": "see tõuseb kosmoses asuvasse Orbitaaltemplisse.",
+    "placeholder": "nimi",
+    "button": "lase sel tõusta"
   },
   "emailInput": {
-    "title": "type your email",
-    "subtitle": "so you get a message when the name ascends.",
-    "placeholder": "your email",
-    "button": "it is done"
+    "title": "sisesta oma e-posti aadress",
+    "subtitle": "nii et saate teate, kui nimi üles kerkib.",
+    "placeholder": "teie e-posti aadress",
+    "button": "see on tehtud"
   },
   "loading": {
-    "alt": "Loading"
+    "alt": "Laadimine"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "Nimi\n{{name}}\non nüüd järjekorras\nülestõusmiseks.\nKui\nkosmoses olev tempel\njoondub\nmeie\nMaa antenniga\nsaadame\nnime\nja te saate\nsõnumi."
   }
 }

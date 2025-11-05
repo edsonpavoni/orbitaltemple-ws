@@ -1,0 +1,44 @@
+{
+  "title": "Sürdürülebilirlik ve Uzay Enkazı - Orbital Temple",
+  "heading": "Sürdürülebilirlik",
+  "intro": {
+    "paragraph1": "Sanat bizi geleceğe taşıyacaksa, karşı karşıya olduğumuz krizleri -çevresel çöküş, toplumsal eşitsizlik ve uzay çöplerinin giderek artan tehdidi- görmezden gelemez. Orbital Temple, bu gerçekleri göz önünde bulundurarak tasarlandı ve hem Dünya'da hem de yörüngede sorumlu bir varlık olmayı hedefliyor.",
+    "paragraph2": "Sürdürülebilirliğin bir kısıtlama değil, sanatsal vizyonumuzun vazgeçilmez bir parçası olduğuna inanıyoruz. Malzemeler, yörüngeler ve operasyonlarla ilgili her karar, hem Dünya'yı hem de uzayı bulduğumuzdan daha iyi bir şekilde bırakma taahhüdümüzü yansıtıyor."
+  },
+  "spaceDebris": {
+    "heading": "Uzay Enkazı",
+    "paragraph1": "Uzay çöpleri, uzay araştırmalarının karşı karşıya olduğu en acil zorluklardan biridir. Binlerce işlevsiz uydu ve parça Dünya yörüngesinde dolaşıyor, aktif görevleri tehdit ediyor ve belirli yörüngeleri kullanılamaz hale getirebilecek bir zincirleme etki yaratıyor.",
+    "paragraph2": "Orbital Temple bu konuyu birkaç şekilde ele alıyor:",
+    "list": {
+      "orbit": "<strong>525 km&#39;de Güneş&#39;e eşzamanlı yörünge:</strong> Bu irtifa, doğal atmosfer direncinin uydunun yaklaşık 10 yıl içinde Dünya atmosferine yeniden girmesine ve orada tamamen yanmasına neden olacağını garanti eder. Uzun vadeli yörünge enkazına katkıda bulunmuyoruz.",
+      "size": "<strong>PocketQube tasarımı:</strong> Sadece 50×58×64 mm boyutlarında ve 245 g ağırlığında olan uydu, yeniden giriş sırasında tamamen buharlaşabilecek kadar küçük ve Dünya yüzeyinde hiçbir kalıntı bırakmıyor.",
+      "responsibility": "<strong>Planlı eskime yok:</strong> Terk edilebilecek ticari uyduların aksine, Orbital Temple doğal olarak yörüngeden çıkmak üzere tasarlandı ve sorumlu uzay faaliyetleri için uluslararası yönergeleri yerine getirdi."
+    },
+    "paragraph3": "Alçak bir Dünya yörüngesi ve kompakt bir tasarım seçerek, Orbital Temple'ın uzaydaki varlığının geçici ve kirletici olmamasını sağlıyoruz."
+  },
+  "carbonNeutrality": {
+    "heading": "Karbon Nötrlüğü",
+    "content": "Orbital Temple ile ilişkili tüm karbon emisyonları (uydu üretimi, fırlatma, yer istasyonu operasyonları, web sitesi barındırma ve ekip seyahatleri dahil) doğrulanmış karbon kredisi programları aracılığıyla tamamen telafi edilecektir. Bu misyonu iklim açısından nötr hale getirmeye kararlıyız."
+  },
+  "openSource": {
+    "heading": "Açık Kaynaklı Donanım",
+    "paragraph1": "Sürdürülebilirlik aynı zamanda bilgi israfı yapmamak anlamına da gelir. Orbital Temple'ın tüm teknik yönleri (şemalar, kodlar, iletişim protokolleri ve yapım yöntemleri) açık kaynaklı dokümanlar olarak yayınlanacaktır.",
+    "paragraph2": "Bu, gelecekteki görevlerin sıfırdan başlamak yerine çalışmalarımız üzerine inşa edilmesini sağlayarak gereksiz araştırma ve geliştirmeleri azaltır. Özellikle tarihsel olarak uzay araştırmalarından dışlanmış Küresel Güney toplulukları için uzay teknolojisine erişimi demokratikleştirir."
+  },
+  "educational": {
+    "heading": "Eğitimsel Etki",
+    "paragraph1": "Ücretsiz çok dilli eğitim programımız, dünyanın dört bir yanındaki öğrencilere, özellikle Küresel Güney'e odaklanarak uydu inşa etmeyi ve fırlatmayı öğretiyor. Gelecek nesillere uzay teknolojisi becerileri kazandırarak, \"Uzay Açığı\"nı kapatmaya ve başka türlü mümkün olmayacak fırsatlar yaratmaya katkıda bulunuyoruz.",
+    "paragraph2": "Bu eğitim misyonu başlı başına bir sürdürülebilirlik biçimidir; uydunun ömrünün ötesinde kalıcı değişim yaratmak için insanlara ve topluluklara yatırım yapmaktır."
+  },
+  "tenYear": {
+    "heading": "10 Yıllık Bir Misyon",
+    "paragraph1": "Orbital Temple, kısa bir tanıtım gösterisi için değil, on yıllık bir görev için tasarlandı. Uydu, on yıl boyunca Dünya yörüngesinde yaklaşık 50.000 kez dönecek, isimler alacak ve uzayın herkesin erişebileceği ortak bir alan olabileceğini hatırlatacak.",
+    "paragraph2": "Görevi tamamlandıktan sonra uydu doğal olarak yörüngeden çıkacak ve yanacak, geride sadece katılanların anıları ve belgeleri kalacak."
+  },
+  "artsResponsibility": {
+    "heading": "Sanatın Sorumluluğu",
+    "paragraph1": "Sanat, her zaman zamanının bir aynası olmuş, değerlerimizi ve özlemlerimizi yansıtmıştır. İklim krizi ve artan eşitsizlik çağında, sanatçıların bu konulara sadece yorum yapmakla kalmayıp, aynı zamanda bunları aktif olarak ele alan eserler yaratma sorumluluğuna sahip olduğuna inanıyoruz.",
+    "paragraph2": "Orbital Temple, kapsayıcılığıyla radikal, çevresel etkisinde sorumluluk sahibi ve bilgisini dünyayla paylaşma konusunda cömert bir sanat eseri yaratma çabamızdır. Bu sanat, yaşamı ve keşfi mümkün kılan kırılgan çevresel ve yörüngesel sistemlere saygı duyarak herkesi katılıma davet eder."
+  },
+  "imageAlt": "Orbital Temple Uydusu"
+}

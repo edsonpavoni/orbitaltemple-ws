@@ -1,0 +1,61 @@
+{
+  "title": "Komanda - Orbitālais templis",
+  "heading": "Komanda",
+  "artist": "Edsons Pavoni, mākslinieks",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Izpildproducents",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aviācijas un sistēmu inženierija",
+      "members": "Pedro Kaleds, Žoau Pedro Polito, Viktors Baptista un Žoau Viktors Alvess"
+    },
+    "electronic": {
+      "heading": "Elektronikas inženierija",
+      "members": "Andrē Biagioni, Žoau Pedro Polito un VK"
+    },
+    "software": {
+      "heading": "Programmatūra",
+      "members": "Džonatans Kerubina"
+    },
+    "design": {
+      "heading": "Dizains un arhitektūra",
+      "members": "Giljerme Buljehoss"
+    },
+    "printing": {
+      "heading": "3D drukāšana",
+      "members": "Solid Concepts Eduardo Diasa vadībā"
+    },
+    "rendering": {
+      "heading": "3D renderēšana",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Pētījumi",
+      "members": "Roberta Saviana Rosa un Klāra Markesa"
+    },
+    "exhibition": {
+      "heading": "Izstāžu producēšana, fotografēšana un satura veidošana",
+      "members": "Klāra Markesa"
+    },
+    "silkScreen": {
+      "heading": "Izstādes sietspiede",
+      "members": "Dafne Alvesa"
+    },
+    "educational": {
+      "heading": "Izglītības projekts",
+      "members": "Ideju telpa"
+    },
+    "communication": {
+      "heading": "Komunikācijas komanda",
+      "members": "Flavio Vidigals, Andrē Holcmeisters, Pedro Vidigals, Tatjana Puti, Rafaels Fernandess, Bruna Kairo"
+    },
+    "specialThanks": {
+      "heading": "Īpašs paldies",
+      "members": "Gabriela Veiga, Marčello Dantass, Anne Valsa, Matiass Kamposs Abads, Semjuels Levijs, Bella Nardīni un Leja Peningtone"
+    }
+  },
+  "credits": "Edsons Pavoni, Sati Rojs, Pedro Kaleds, Žoau Pedro Polito, Viktors Baptista, Žoau Viktors Alvešs, Andrē Bjadžioni, VK, Džonatans Kverubina, Gilherms Buljejoss, Eduardo Diass, Roberta Saviana Rosa, Klāra Markesa, Dafne Alvesa, Flavio Vidigals, Peadro Vidigals, Andrē Holcgali Fernandes, Bruna Cairo, Conceitos Solidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitālā tempļa satelīts"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "팀 - 오비탈 템플",
+  "heading": "팀",
+  "artist": "에드슨 파보니, 예술가",
+  "roles": {
+    "executiveProducer": {
+      "heading": "총괄 프로듀서",
+      "members": "사티 로이"
+    },
+    "aerospace": {
+      "heading": "항공우주 및 시스템 공학",
+      "members": "페드로 칼레드, 주앙 페드로 폴리토, 빅토르 밥티스타, 주앙 빅토르 알베스"
+    },
+    "electronic": {
+      "heading": "전자공학",
+      "members": "안드레 비아지오니, 주앙 페드로 폴리토, VK"
+    },
+    "software": {
+      "heading": "소프트웨어",
+      "members": "조나단 케루비나"
+    },
+    "design": {
+      "heading": "디자인 및 건축",
+      "members": "길례르메 불레호스"
+    },
+    "printing": {
+      "heading": "3D 프린팅",
+      "members": "Eduardo Dias의 리더십 하에 Solid Concepts"
+    },
+    "rendering": {
+      "heading": "3D 렌더링",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "연구",
+      "members": "로베르타 사비안 로사 & 클라라 마르케스"
+    },
+    "exhibition": {
+      "heading": "전시 제작, 사진 및 콘텐츠 제작",
+      "members": "클라라 마르케스"
+    },
+    "silkScreen": {
+      "heading": "전시회 실크스크린",
+      "members": "다프네 알베스"
+    },
+    "educational": {
+      "heading": "교육 프로젝트",
+      "members": "아이디어스페이스"
+    },
+    "communication": {
+      "heading": "커뮤니케이션 팀",
+      "members": "플라비오 비디갈, 안드레 홀츠마이스터, 페드로 비디갈, 타티아네 푸티, 라파엘 페르난데스, 브루나 카이로"
+    },
+    "specialThanks": {
+      "heading": "특별 감사",
+      "members": "가브리엘라 베이가, 마르첼로 단타스, 앤 발스, 마티아스 캄포스 아바드, 사무엘 레비, 벨라 나르디니, 리 페닝턴"
+    }
+  },
+  "credits": "에드손 파보니, 사티 로이, 페드로 칼레드, 주앙 페드로 폴리토, 빅터 밥티스타, 주앙 빅터 알베스, 앙드레 비아지오니, VK, 조나단 퀘루비나, 길예르메 불예호스, 에두아르도 디아스, 로베르타 사비앙 로사, 클라라 마르케스, 다프네 알베스, 플라비오 비디갈, 안드레 홀츠마이스터, 페드로 비디갈, 타티아네 푸티, 라파엘 페르난데스, 브루나 카이로, 솔리드 컨셉스, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "궤도 사원 위성"
+}

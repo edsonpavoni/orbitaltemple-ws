@@ -1,0 +1,44 @@
+{
+  "title": "Sostenibilità e detriti spaziali - Orbital Temple",
+  "heading": "Sostenibilità",
+  "intro": {
+    "paragraph1": "Se l'arte deve guidarci verso il futuro, non può ignorare le crisi che affrontiamo: il collasso ambientale, le disuguaglianze sociali e la crescente sfida dei detriti spaziali. Orbital Temple è progettato tenendo conto di queste realtà, con l'obiettivo di essere una presenza responsabile sia sulla Terra che in orbita.",
+    "paragraph2": "Crediamo che la sostenibilità non sia un vincolo, ma una parte essenziale della nostra visione artistica. Ogni decisione su materiali, orbite e operazioni riflette il nostro impegno a lasciare la Terra e lo spazio migliori di come li abbiamo trovati."
+  },
+  "spaceDebris": {
+    "heading": "detriti spaziali",
+    "paragraph1": "I detriti spaziali rappresentano una delle sfide più urgenti per l'esplorazione spaziale. Migliaia di satelliti e frammenti inutilizzati orbitano attorno alla Terra, minacciando le missioni attive e creando un effetto a cascata che potrebbe rendere inutilizzabili alcune orbite.",
+    "paragraph2": "Orbital Temple affronta questo problema in diversi modi:",
+    "list": {
+      "orbit": "<strong>Orbita eliosincrona a 525 km:</strong> questa altitudine garantisce che la naturale resistenza atmosferica farà sì che il satellite rientri nell&#39;atmosfera terrestre entro circa 10 anni, dove brucerà completamente. Non stiamo contribuendo alla formazione di detriti orbitali a lungo termine.",
+      "size": "<strong>Design del PocketQube:</strong> con dimensioni di soli 50×58×64 mm e un peso di 245 g, il satellite è sufficientemente piccolo da vaporizzarsi completamente durante il rientro, senza lasciare detriti sulla superficie terrestre.",
+      "responsibility": "<strong>Nessuna obsolescenza programmata:</strong> a differenza dei satelliti commerciali che potrebbero essere abbandonati, Orbital Temple è progettato per uscire dall&#39;orbita in modo naturale, rispettando le linee guida internazionali per un&#39;attività spaziale responsabile."
+    },
+    "paragraph3": "Scegliendo un'orbita terrestre bassa e un design compatto, garantiamo che la presenza di Orbital Temple nello spazio sia temporanea e non inquinante."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralità del carbonio",
+    "content": "Tutte le emissioni di carbonio associate a Orbital Temple, tra cui la produzione del satellite, il lancio, le operazioni della stazione di terra, l'hosting del sito web e i viaggi del team, saranno completamente compensate attraverso programmi di crediti di carbonio verificati. Ci impegniamo a rendere questa missione climaticamente neutrale."
+  },
+  "openSource": {
+    "heading": "Hardware open source",
+    "paragraph1": "Sostenibilità significa anche non sprecare conoscenza. Ogni aspetto tecnico di Orbital Temple – schemi, codice, protocolli di comunicazione e metodi di costruzione – sarà pubblicato come documentazione open source.",
+    "paragraph2": "Ciò consente alle missioni future di basarsi sul nostro lavoro anziché partire da zero, riducendo così la ridondanza di ricerca e sviluppo. Democratizza inoltre l'accesso alla tecnologia spaziale, in particolare per le comunità del Sud del mondo che sono state storicamente escluse dall'esplorazione spaziale."
+  },
+  "educational": {
+    "heading": "Impatto educativo",
+    "paragraph1": "Il nostro programma educativo multilingue gratuito insegna agli studenti di tutto il mondo come costruire e lanciare satelliti, con particolare attenzione al Sud del mondo. Fornendo alla prossima generazione competenze in tecnologia spaziale, contribuiamo a colmare il \"divario spaziale\" e a creare opportunità che altrimenti non esisterebbero.",
+    "paragraph2": "Questa missione educativa è di per sé una forma di sostenibilità: investire nelle persone e nelle comunità per creare un cambiamento duraturo che vada oltre la durata di vita del satellite."
+  },
+  "tenYear": {
+    "heading": "Una missione decennale",
+    "paragraph1": "Orbital Temple è progettato per una missione decennale, non per una breve trovata pubblicitaria. Nell'arco di dieci anni, il satellite orbiterà attorno alla Terra circa 50.000 volte, ricevendo nomi e servendo a ricordare che lo spazio può essere un bene comune, accessibile a tutti.",
+    "paragraph2": "Una volta conclusa la missione, il satellite uscirà naturalmente dall'orbita e brucerà, senza lasciare traccia se non nei ricordi e nella documentazione di coloro che vi hanno partecipato."
+  },
+  "artsResponsibility": {
+    "heading": "La responsabilità dell'arte",
+    "paragraph1": "L'arte è sempre stata uno specchio del suo tempo, riflettendo i nostri valori e le nostre aspirazioni. In un'epoca di crisi climatica e crescente disuguaglianza, crediamo che gli artisti abbiano la responsabilità di creare opere che non si limitino a commentare questi problemi, ma li affrontino attivamente.",
+    "paragraph2": "\"Orbital Temple\" è il nostro tentativo di creare un'opera d'arte radicale nella sua inclusività, responsabile nel suo impatto ambientale e generosa nel condividere la sua conoscenza con il mondo. È un'arte che invita tutti a partecipare, nel rispetto dei fragili sistemi – ambientali e orbitali – che rendono possibili la vita e l'esplorazione."
+  },
+  "imageAlt": "Satellite del tempio orbitale"
+}

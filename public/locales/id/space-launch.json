@@ -1,0 +1,16 @@
+{
+  "title": "Peluncuran Luar Angkasa - Kuil Orbital",
+  "heading": "Peluncuran Luar Angkasa",
+  "intro": "Orbital Temple dijadwalkan diluncurkan dengan menggunakan PSLV (Polar Satellite Launch Vehicle) pada tanggal 28 November 2025 dari Pusat Antariksa Satish Dhawan di Sriharikota, India.",
+  "partnership": "Peluncuran Orbital Temple merupakan kerja sama antara NewSpace India Limited (NSIL), sebuah Perusahaan Pemerintah India di bawah Departemen Antariksa, Antrix Corporation, dan sang seniman. Kolaborasi ini merupakan tonggak penting bagi seni dalam eksplorasi antariksa, yang menyatukan program antariksa India dengan visi artistik inklusivitas radikal.",
+  "risks": {
+    "heading": "Risiko",
+    "paragraph1": "Satelit ini dirancang untuk bertahan dalam kondisi getaran ekstrem dan siklus termal, serta telah menjalani pengujian yang ketat. Namun, peluncuran luar angkasa memiliki risiko yang melekat. Jika satelit rusak selama peluncuran atau penempatan, atau jika gagal berkomunikasi dengan stasiun bumi kami, kami akan berupaya memecahkan masalah dan menyelesaikannya. Satelit ini memiliki sistem redundan dan protokol cadangan yang dirancang untuk memaksimalkan peluang keberhasilan misi.",
+    "paragraph2": "Selain itu, satelit dapat bertahan di orbit kurang dari 10 tahun jika kondisi atmosfer atau faktor lain menyebabkan peluruhan orbit lebih awal. Meskipun kami telah merancangnya untuk bertahan setidaknya satu dekade, masa pakainya yang sebenarnya bergantung pada kondisi yang tidak dapat kami kendalikan sepenuhnya.",
+    "paragraph3": "Jika peluncuran pertama gagal, atau jika kami tidak dapat menyelesaikan misi ini sesuai rencana, kami akan mengeksplorasi jalur alternatif ke depan, berpotensi termasuk upaya peluncuran kedua dengan anggaran yang tersedia, kemitraan dengan misi lain, atau dokumentasi upaya tersebut sebagai bagian dari narasi karya seni tentang aspirasi dan keterbatasan."
+  },
+  "imageAlts": {
+    "india": "Pusat Antariksa ISRO, India",
+    "satellite": "Satelit Kuil Orbital"
+  }
+}

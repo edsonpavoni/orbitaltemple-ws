@@ -1,0 +1,13 @@
+{
+  "title": "Bildirim Alın - Orbital Temple",
+  "heading": "Yükseldiğinde Bildirim Alın",
+  "description": "28 Kasım 2025&#39;te Orbital Tapınağı yükselecek.<br> E-postanızı bırakın, uzaya ulaştığında size haber verelim.",
+  "form": {
+    "emailPlaceholder": "e-postanız.com",
+    "sendButton": "Göndermek",
+    "sendingButton": "Gönderiliyor...",
+    "successMessage": "Yükseldiğinde sana ulaşacağız.",
+    "errorMessage": "Bir sorun oluştu. Lütfen tekrar deneyin."
+  },
+  "backLink": "← Geri sayıma geri dön"
+}

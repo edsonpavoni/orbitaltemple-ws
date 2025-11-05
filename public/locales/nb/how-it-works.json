@@ -1,0 +1,8 @@
+{
+  "title": "Slik fungerer det - Orbitaltempel",
+  "heading": "Hvordan det fungerer",
+  "intro": "Orbital Temple-prosjektet består av tre sammenkoblede elementer som samarbeider for å sende navn til tempelet i rommet.",
+  "paragraph1": "Satellitten går i bane rundt jorden i en høyde av omtrent 525 km og lagrer navnene i minnet. Bakkestasjoner kommuniserer med satellitten under passeringene og overfører navnene som folk har sendt inn via nettstedet.",
+  "paragraph2": "Når du sender inn et navn, blir det lagt til i en kø og overført til satellitten under neste tilgjengelige pass. Du vil motta en e-postbekreftelse når navnet ditt er lastet opp til Orbital Temple.",
+  "imageAlt": "Diagram over orbitalt tempelsystem"
+}

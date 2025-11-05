@@ -1,0 +1,13 @@
+{
+  "title": "Wees op de hoogte - Orbitale Tempel",
+  "heading": "Krijg een melding wanneer het stijgt",
+  "description": "Op 28 november 2025 zal de Orbital Temple verrijzen.<br> Laat uw e-mailadres achter, dan laten wij u weten wanneer het beschikbaar is.",
+  "form": {
+    "emailPlaceholder": "uw@email.com",
+    "sendButton": "Versturen",
+    "sendingButton": "Verzenden...",
+    "successMessage": "Wij zullen je bereiken als het stijgt.",
+    "errorMessage": "Er is iets misgegaan. Probeer het opnieuw."
+  },
+  "backLink": "← Terug naar aftellen"
+}

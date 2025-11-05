@@ -1,0 +1,16 @@
+{
+  "title": "Ruimtelancering - Orbitale Tempel",
+  "heading": "Ruimtelancering",
+  "intro": "De Orbital Temple wordt naar verwachting op 28 november 2025 gelanceerd met een PSLV (Polar Satellite Launch Vehicle) vanaf het Satish Dhawan Space Centre in Sriharikota, India.",
+  "partnership": "De lancering van de Orbital Temple is een samenwerking tussen NewSpace India Limited (NSIL), een bedrijf van de Indiase overheid dat valt onder het Department of Space, Antrix Corporation, en de kunstenaar. Deze samenwerking vormt een belangrijke mijlpaal voor kunst in de ruimtevaart en brengt India's ruimtevaartprogramma samen met een artistieke visie op radicale inclusiviteit.",
+  "risks": {
+    "heading": "Risico's",
+    "paragraph1": "De satelliet is gebouwd om extreme trillingen en thermische cycli te weerstaan en heeft strenge tests ondergaan. Ruimtelanceringen brengen echter inherente risico's met zich mee. Als de satelliet tijdens de lancering of inzet beschadigd raakt, of als er geen verbinding tot stand kan worden gebracht met onze grondstations, zullen we ons inspannen om eventuele problemen op te sporen en op te lossen. De satelliet beschikt over redundante systemen en back-upprotocollen die zijn ontworpen om de kans op een succesvolle missie te maximaliseren.",
+    "paragraph2": "Bovendien kan de satelliet minder dan 10 jaar in een baan om de aarde blijven als atmosferische omstandigheden of andere factoren een eerder verval van de baan veroorzaken. Hoewel we hem hebben ontworpen om minstens tien jaar mee te gaan, hangt de werkelijke levensduur af van omstandigheden die we niet volledig kunnen beheersen.",
+    "paragraph3": "Als de eerste lancering mislukt of als we deze missie niet volgens plan kunnen volbrengen, zullen we alternatieve wegen verkennen. Mogelijk doen we dit met een tweede lanceringspoging binnen het beschikbare budget, werken we samen met andere missies of documenteren we de poging als onderdeel van het verhaal van het kunstwerk over ambitie en beperkingen."
+  },
+  "imageAlts": {
+    "india": "ISRO Ruimtevaartcentrum, India",
+    "satellite": "Orbitale Tempel Satelliet"
+  }
+}

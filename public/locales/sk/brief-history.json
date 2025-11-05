@@ -1,0 +1,77 @@
+{
+  "title": "Stručná história umenia vo vesmíre - Orbitálny chrám",
+  "heading": "Stručná história umenia vo vesmíre",
+  "intro": "Od prvého úspešného vypustenia umelej družice v <strong>roku 1957</strong> sa na obežnú dráhu Zeme dostalo viac ako desaťtisíc družíc. V tejto novej ére umelci našli spôsob, ako rozšíriť svoju prax a vesmír sa stal novým druhom plátna. S tým sa objavili základné otázky o politike prieskumu vesmíru – hoci je ešte potrebné preskúmať oveľa viac.",
+  "sections": {
+    "leonov": {
+      "text": "Prvým umeleckým dielom vytvoreným vo vesmíre bola kresba východu slnka nad Zemou, ktorú namaľoval ruský astronaut <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexej Leonov</a></strong> počas letu na palube lode Voskhod 2 v <strong>roku 1965</strong> .",
+      "caption": "Prvé umelecké dielo vytvorené vo vesmíre a ceruzky, ktoré Alexej Leonov použil na jeho kreslenie. Foto: Múzeum Výcvikového centra kozmonautov Jurija Gagarina"
+    },
+    "moonMuseum": {
+      "paragraph1": "O tri roky neskôr, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Múzeum Mesiaca</a></strong> , miniatúrny keramický tanier údajne pristál na Mesiaci s nápismi od šiestich najvýznamnejších umelcov v USA tej doby: <strong>Roberta Rauschenberga</strong> , <strong>Davida Novrosa</strong> , <strong>Johna Chamberlaina</strong> , <strong>Claesa Oldenburga</strong> , <strong>Forresta Myersa</strong> a <strong>Andyho Warhola</strong> .",
+      "caption1": "Obrázok Múzea Mesiaca z pôvodného článku v New York Times. Palec zakrýva Warholovu kresbu.",
+      "paragraph2": "Warholov provokatívny príspevok – vľavo hore – urobil z tohto projektu výzvu pre komunikačné médiá tej doby.",
+      "caption2": "Obrázok, ktorý sa denník New York Times rozhodol publikovať, s umeleckým dielom viditeľným pod ním a kresbou Andyho Warhola v ľavom hornom rohu."
+    },
+    "fallenAstronaut": {
+      "text": "V <strong>roku 1971</strong> astronaut misie Apollo 15 <strong>David Scott</strong> umiestnil na Mesiac malú humanoidnú hliníkovú sochu s názvom <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Padlý astronaut</a></strong> . Belgický umelec <strong>Paul van Hoeydonck</strong> chcel týmto dielom pripomenúť astronautov a kozmonautov, ktorí zahynuli pri pokroku v prieskume vesmíru.",
+      "caption": "Pohľad na pamätnú tabuľu zanechanú na Mesiaci na mieste pristátia Hadley-Apennine."
+    },
+    "pioneerVoyager": {
+      "text": "V <strong>70. rokoch 20. storočia</strong> stanovili <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> aj <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> nové horizonty pre umenie vo vesmíre. Prenášali zlatom eloxované hliníkové plakety s vizuálnymi odkazmi zo Zeme pre všetkých ostatných vesmírnych cestovateľov, ktorí by ju mohli nájsť v ďalekej budúcnosti, a zobrazovali ľudský život v jeho najzákladnejších prvkoch.",
+      "caption": "Plakety Pioneer 10 a 11, prenesené do hlbokého vesmíru v 70. rokoch 20. storočia."
+    },
+    "dove": {
+      "text": "V <strong>roku 1990</strong> zanechala Brazília na tomto území svoju stopu s <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , dômyselným amatérskym satelitom s veľkou poetickou silou. Hoci sa jeho tvorca nepovažoval za umelca, išlo o hlboko poetický počin: nahral detské hlasy prosiace o mier a odovzdal ich viac ako dvom tisíckam rádioamatérov po celom svete, čím premenil priekopnícky CubeSat na kolektívne zvukové dielo.",
+      "caption": "DOVE/OSCAR-17, brazílsky poetický satelit vysielajúci detské hlasy za mier, 1990."
+    },
+    "lastPictures": {
+      "text": "V <strong>roku 2012</strong> umelec <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> predstavil <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">„Posledné obrázky“</a></strong> , mikroleptaný disk obsahujúci 100 fotografií pripojených ku komunikačnému satelitu Echostar XVI na geostacionárnej obežnej dráhe. Je navrhnutý tak, aby vydržal miliardy rokov, a má prežiť ľudskú civilizáciu ako archeologický artefakt pre vzdialenú budúcnosť.",
+      "caption": "The Last Pictures, mikroleptaný disk navrhnutý tak, aby prežil ľudstvo, bol uvedený na trh v roku 2012."
+    },
+    "ulises": {
+      "text": "V <strong>roku 2015</strong> vypustil <strong>Colectivo Espacial Mexicano</strong> (Mexický vesmírny kolektív) nanosatelit <strong>Ulises I</strong> , koncipovaný ako koncepčná opera pod vedením umelca <strong>Juana José Díaza Infante Casasúsa</strong> . Satelit bol vynesený do stratosféry balónom počas Feria del Libro de Guadalajara. Bol navrhnutý tak, aby explodoval približne po štyroch hodinách a zostúpil na padáku.",
+      "caption": "Ulises I, konceptuálna satelitná opera od Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Až v <strong>roku 2014</strong> bol vypustený prvý čisto umelecký satelit. Projekt <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> Tokijskej univerzity poslal na Zem priestorové dáta, ktoré sa použili v umeleckých inštaláciách a tvorbe hudby.",
+      "caption1": "Rámec a náhradné diely ARTSAT-1 Invader, ktoré zostali na Zemi.",
+      "caption2": "Výstava misia [SPACE x ART] − Beyond Cosmologies v Múzeu súčasného umenia v Tokiu"
+    },
+    "kac": {
+      "text": "Brazílsky a americký súčasný umelec <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> prispel k vesmírnemu umeniu prostredníctvom spolupráce s <strong>NASA</strong> a <strong>SpaceX</strong> . Jeho <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">dielo „Vnútorný teleskop“</a></strong> ( <strong>2017</strong> ), vytvorené s francúzskym astronautom <strong>Thomasom Pesquetom</strong> , vyústilo do sochy vytvorenej na palube <strong>Medzinárodnej vesmírnej stanice</strong> .",
+      "caption": "Vnútorný teleskop na Medzinárodnej vesmírnej stanici, vytvorený s francúzskym astronautom Thomasom Pesquetom, 2017."
+    },
+    "enoch": {
+      "text": "V <strong>roku 2018</strong> bol na obežnú dráhu vypustený pasívny CubeSat postavený ako umelecký projekt. <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> , vyvinutý bahamským konceptuálnym umelcom <strong>Tavaresom Strachanom</strong> , obsahuje kanopu z 24-karátového zlata s bustou prvého afroamerického astronauta <strong>Roberta Henryho Lawrencea ml</strong> .",
+      "caption": "ENOCH (výstavná jednotka), 2015 – 2017. ⓒ Tavares Strachan, foto ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "V tom istom roku bol predstavený aj <strong>Orbitálny reflektor</strong> <strong>Trevora Paglena</strong> ako socha umiestnená v nefunkčnom CubeSate. Dielo bolo umeleckým gestom, ktorého cieľom bolo zmeniť spôsob, akým vnímame svoje miesto vo svete. Nebolo však správne rozmiestnené. Hoci sa nikdy neotvorilo podľa návrhu, vyvolalo dôležité diskusie a vyvolalo vášnivé reakcie astronómov, vedcov, médií, pedagógov, študentov a širokej verejnosti na celom svete, čím dokázalo, že úspešné umenie nemusí byť nutne technicky úspešné.",
+      "caption": "Digitálne vykreslenie orbitálneho reflektora, 2018"
+    },
+    "others": {
+      "text": "Do oblasti vesmírneho umenia prispelo mnoho ďalších umelcov, pričom každý z nich priniesol do svojho výskumu jedinečné perspektívy. Medzi významné projekty patrí výskum umelkyne <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pellovej</a></strong> o astronautkách, ktorý skúma ľudské správanie v extrémnych prostrediach; projekt <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandisovej s názvom</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> skúmajúci historické a súčasné príbehy o prieskume vesmíru; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahumov</a></strong> program <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> , ktorý umožňuje umelecké experimenty s mikrogravitáciou; a socha <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthura Woodsa s</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">názvom Cosmic Dancer</a></strong> , prvá socha vystavená vo vesmíre na palube stanice Mir v roku 1993."
+    },
+    "orbitalTemple": {
+      "text": "V <strong>roku 2025</strong> , po 4 rokoch výskumu a vývoja, brazílsky umelec <strong>Edson Pavoni</strong> a multidisciplinárna skupina spolupracovníkov vypustia <strong>Orbital Temple</strong> , participatívny umelecký satelit, ktorý pozýva kohokoľvek na svete, aby poslal mená na obežnú dráhu a vytvoril tak radikálne inkluzívny pamätník za hranicami.",
+      "caption": "Orbitálny chrám na bienále Mercosul. Foto: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Kresba a ceruzky Alexeja Leonova",
+    "moonMuseum": "Keramická oblátka Múzea Mesiaca",
+    "moonMuseumWarhol": "Keramická oblátka v Múzeu Mesiaca, kde sú vystavené všetky umelecké diela",
+    "fallenAstronaut": "Pamätník padlým astronautom na Mesiaci",
+    "pioneerPlaques": "Pioneerské plakety",
+    "dove": "Satelit WHERE/OSCAR-17",
+    "lastPictures": "Disk Posledné obrázky",
+    "ulises": "Satelit Ulises I.",
+    "artsatInvader": "Štruktúra satelitu ARTSAT-1 Invader",
+    "artsatArt": "Umelecké dielo vytvorené z údajov ARTSAT-1",
+    "innerTelescope": "Vnútorný ďalekohľad Eduarda Kaca",
+    "enoch": "Zobrazovacia jednotka ENOCH od Tavaresa Strachana",
+    "orbitalReflector": "Orbitálny reflektor Trevora Paglena",
+    "orbitalTemple": "Orbitálny chrámový satelit"
+  }
+}

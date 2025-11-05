@@ -1,0 +1,61 @@
+{
+  "title": "Tím - Orbitálny chrám",
+  "heading": "Tím",
+  "artist": "Edson Pavoni, umelec",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Výkonný producent",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Letecké a systémové inžinierstvo",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista a João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronické inžinierstvo",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Softvér",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Dizajn a architektúra",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D tlač",
+      "members": "Solid Concepts pod vedením Eduarda Diasa"
+    },
+    "rendering": {
+      "heading": "3D vykresľovanie",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Výskum",
+      "members": "Roberta Savian Rosa a Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produkcia výstav, fotografia a tvorba obsahu",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Sieťotlač na výstave",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Vzdelávací projekt",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Komunikačný tím",
+      "members": "Hrajú: Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Špeciálne poďakovanie",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini a Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Ra Tatia Putigal, Andre Holz Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbitálny chrámový satelit"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Do artista",
+  "opening": {
+    "question": "Quem é esse cara para propor um templo no espaço?",
+    "thanks": "Obrigado pela pergunta.",
+    "answer": "A resposta curta é que sou artista. A resposta longa é esta:"
+  },
+  "origin": {
+    "sao_paulo": "Nasci na periferia de São Paulo, em um bairro que me ensinou desde cedo o que significa perigo. Muitos dos meus amigos da escola estão presos agora. Meu padrasto está preso. A violência não era algo sobre o qual eu lia, era o mundo em que eu tinha que navegar. E eu sabia que precisava escapar.",
+    "technology": "A tecnologia se tornou minha saída. Aprendi a programar e a entender eletrônica na adolescência. O código era uma linguagem que me permitia ir além. Trabalhar com tecnologia foi minha fuga da pobreza.",
+    "christianity": "Mas eu também buscava um senso de pertencimento, amor, algo em que acreditar. Encontrei o cristianismo, ou ele me encontrou. Fui aceita. Fui amada. Tinha uma comunidade. Aprendi a perdoar, a acreditar, a caminhar juntos por um propósito maior.",
+    "price": "O preço, porém, foi alto. Também aprendi muitas coisas que ainda estou desaprendendo. Então, escapei disso também."
+  },
+  "searching": {
+    "walls": "Eu sei o que as paredes fazem. Eu as senti. Já estive dos dois lados: impedido de entrar, impedido de sair. O que se seguiu foram anos de busca por algo que eu não conseguia nomear. Deus morreu durante esses anos. O deus sobre o qual me ensinaram, pelo menos, aquele com regras, julgamento e portas que só se abriam para algumas pessoas.",
+    "art": "Comecei a fazer arte para explorar essas questões: sobre intimidade e tecnologia, sobre memória e morte, sobre quem merece o paraíso. Comecei a construir máquinas que reinventam nossa relação com a tecnologia, máquinas que precisam da sua participação, da sua presença, do seu nome, para se transformarem de metal e código em algo vivo."
+  },
+  "pandemic": {
+    "intro": "Então veio a pandemia no Brasil.",
+    "government": "Quando as vacinas contra a COVID-19 atrasaram, meu governo negociava propinas de um dólar por dose. Promoviam medicamentos que sabidamente eram ineficazes, rindo enquanto pessoas morriam lutando para respirar. Acordávamos todos os dias com um número diferente. Quantas pessoas morreram nas últimas 24 horas? Foi mais ou menos do que o esperado?",
+    "war": "Metade do mundo estava com medo, e a outra metade estava em negação. Estávamos em guerra, contra o vírus e uns contra os outros.",
+    "memorial": "Eu queria criar um espaço para o luto coletivo, então, junto com centenas de pessoas, criei o Memorial Inumeráveis. Uma obra de arte na interseção entre arte e jornalismo. Entrevistamos famílias que haviam perdido alguém. Escrevemos a história de vida da pessoa que perderam. Transformamos números em histórias. Poemas, canções e sinfonias foram criados a partir dessas histórias. Celebridades leram essas histórias na televisão nacional. O projeto alcançou milhões de pessoas.",
+    "meaning": "O que importava não era a escala, mas sim que cada história era um nome, uma vida, o paraíso de alguém."
+  },
+  "discovery": {
+    "pattern": "Após mais de dez mil conversas com o luto, um padrão começou a surgir. Quando falamos de alguém que morreu, não dizemos apenas coisas boas; selecionamos fragmentos de sua história como se estivéssemos escrevendo uma carta de recomendação. Uma recomendação para o guardião do paraíso. Fazemos o possível para enviá-los a um lugar de aceitação, descanso, honra e memória.",
+    "understanding": "E eu entendi algo que mudou tudo: fomos feridos pelos próprios templos que construímos. Nossas crenças sobre quem merece o paraíso moldam diretamente quem excluímos na Terra. Os colonizadores portugueses no Brasil acreditavam que os negros não tinham alma; essa crença justificava a escravidão. Se você fosse indígena, se nascesse no lugar errado ou amasse a pessoa errada, diziam que as portas do paraíso estavam fechadas para você.",
+    "birth": "Foi assim que nasceu o Templo Orbital."
+  },
+  "shaman": {
+    "secular": "Nenhum artista pode ser verdadeiramente secular. Estamos para sempre ligados ao nosso ancestral comum, o xamã. No princípio, havia uma caverna. Os humanos pintavam animais nas paredes não para decorar, mas para invocar. Eles dançavam, e a caverna se tornou um templo. O xamã exerce o espírito do ritual; o artista exerce a aura da arte. Pintamos, esculpimos, programamos, projetamos o futuro que desejamos não para decorar, mas para invocar. Toda arte é espiritual, mesmo quando afirma o contrário."
+  },
+  "space": {
+    "question": "Onde poderíamos construir um templo sem paredes? Onde nenhuma nação ou religião pudesse reivindicar. Onde pudéssemos nos imaginar como um só grupo.",
+    "answer": "Espaço.",
+    "description": "Um satélite de arte participativa do Sul Global. Um templo em órbita que convida todos a enviarem seus nomes para o espaço, independentemente de quem sejam, onde nasceram, quem amam ou no que acreditam. Um lugar onde a inclusão radical é possível, em órbita, além das fronteiras.",
+    "mission": "Esta missão é de código aberto. Cada documento técnico, cada linha de código estará disponível gratuitamente para que outros artistas, outras comunidades e outras nações possam construir seus próprios satélites. Assim, o Sul Global não apenas participa da exploração espacial, mas a lidera."
+  },
+  "closing": {
+    "answer": "Então, quem é esse cara para construir um templo no espaço? Eu não estou construindo. O templo é construído por todos que decidem enviar um nome, considerá-lo sagrado, torná-lo real. Eu sou apenas aquele que propõe. Você é quem o constrói, se assim o desejar.",
+    "signature": "Gentilmente,",
+    "name": "Edson Pavoni"
+  }
+}

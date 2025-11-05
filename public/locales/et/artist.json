@@ -1,0 +1,44 @@
+{
+  "title": "Kunstnikult",
+  "opening": {
+    "question": "Kes see tüüp on, et pakub välja templi kosmosesse ehitamise?",
+    "thanks": "Tänan küsimuse eest.",
+    "answer": "Lühike vastus on, et ma olen kunstnik. Pikk vastus on see:"
+  },
+  "origin": {
+    "sao_paulo": "Ma sündisin São Paulo äärelinnas, naabruskonnas, mis õpetas mulle varakult, mida oht tähendab. Paljud mu koolikaaslased on nüüd vanglas. Mu kasuisa on vangis. Vägivald ei olnud midagi, millest ma lugesin, see oli maailm, milles ma pidin navigeerima. Ja ma teadsin, et mul on vaja põgeneda.",
+    "technology": "Tehnoloogiast sai minu väljapääs. Teismelisena õppisin programmeerima ja elektroonikat. Kood oli keel, mis võis mind kuhugi mujale viia. Tehnoloogiaga töötamine oli minu pääsetee vaesusest.",
+    "christianity": "Aga ma otsisin ka kuuluvust, armastust, midagi, millesse uskuda. Ma leidsin kristluse või see leidis mind. Mind võeti vastu. Mind armastati. Mul oli kogukond. Ma õppisin andestama, uskuma, koos liikuma suurema eesmärgi nimel.",
+    "price": "Hind oli aga kõrge. Õppisin ka palju asju, mida ma siiani unustan. Nii et ma pääsesin ka sellest."
+  },
+  "searching": {
+    "walls": "Ma tean, mida müürid teevad. Ma olen neid tundnud. Ma olen olnud mõlemal poolel: mind on hoitud väljas, mind on hoitud sees. Sellele järgnesid aastad, mil ma otsisin midagi, millele ma nime ei osanud. Jumal suri nende aastate jooksul. Jumal, kellest mulle oli õpetatud, vähemalt see, kellel olid reeglid ja otsustusvõime ning uksed, mis avanesid ainult mõnele inimesele.",
+    "art": "Hakkasin kunsti looma, et uurida neid küsimusi: intiimsuse ja tehnoloogia, mälu ja surma kohta, selle kohta, kes väärib taevast. Hakkasin ehitama masinaid, mis mõtlevad ümber meie suhte tehnoloogiaga, masinaid, mis vajavad sinu osalemist, sinu kohalolekut, sinu nime, et muutuda metallist ja koodist millekski elavaks."
+  },
+  "pandemic": {
+    "intro": "Seejärel tabas Brasiiliat pandeemia.",
+    "government": "Kui COVID-vaktsiinidega viivitati, pidas minu valitsus läbirääkimisi ühe dollari suuruse altkäemaksu eest doosi kohta. Nad propageerisid ravimeid, mida peeti ebaefektiivseks, naersid, samal ajal kui inimesed surid hingamisraskustes. Ärkasime iga päev erineva numbri peale. Mitu inimest suri viimase 24 tunni jooksul? Kas see oli oodatust rohkem või vähem?",
+    "war": "Pool maailma oli hirmul ja teine pool eitas olukorda. Me olime sõjas, nii viiruse kui ka üksteisega.",
+    "memorial": "Tahtsin luua ruumi kollektiivsele leinale, seega lõin koos sadade inimestega mälestusmärgi Inumeráveis. See on kunsti ja ajakirjanduse kokkupuutepunkt. Intervjueerisime perekondi, kes olid kellegi kaotanud. Kirjutasime kaotatud inimese eluloo. Muutsime numbrid ajalooks. Nende lugude põhjal loodi luuletusi, laule ja sümfooniaid. Staarid lugesid neid lugusid riiklikus televisioonis. Projekt jõudis miljoniteni.",
+    "meaning": "Oluline polnud mastaap, vaid see, et iga lugu oli nimi, elu, kellegi taevas."
+  },
+  "discovery": {
+    "pattern": "Pärast enam kui kümmet tuhandet leinaja üle peetud vestlust hakkas tekkima muster. Kui me räägime surnud inimesest, siis me ei ütle lihtsalt häid asju; me valime tema loost katkendeid, justkui kirjutaksime soovituskirja. Soovitust paradiisi väravavahile. Me anname endast parima, et saata ta kohta, kus teda aktsepteeritakse, kus teda hoitakse puhkamas, kus teda austatakse ja kus teda mäletatakse.",
+    "understanding": "Ja ma mõistsin midagi, mis muutis kõike: meid on haavanud just needsamad templid, mida me ehitasime. Meie uskumused sellest, kes väärib taevast, kujundavad otseselt seda, keda me Maal välja jätame. Portugali koloniseerijad Brasiilias uskusid, et mustanahalistel pole hinge; see uskumus õigustas orjust. Kui sa olid põliselanik, kui sa sündisid vales kohas või armastasid valet inimest, öeldi sulle, et taeva uksed on sinu ees suletud.",
+    "birth": "Nii sündiski Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Ükski kunstnik ei saa olla tõeliselt ilmalik. Me oleme igaveseks seotud oma ühise esivanema, šamaaniga. Alguses oli koobas. Inimesed maalisid seintele loomi mitte kaunistamiseks, vaid esilekutsumiseks. Nad tantsisid ja koopast sai tempel. Šamaanil on rituaalide vaim; kunstnikul on kunsti aura. Me maalime, me skulpteerime, me kodeerime, me kujundame oma soovitud tulevikku mitte kaunistamiseks, vaid esilekutsumiseks. Kogu kunst on vaimne, isegi kui see väidab end olevat vaimne."
+  },
+  "space": {
+    "question": "Kuhu me saaksime ehitada templi ilma müürideta? Kuhu ükski rahvas ega religioon ei saaks sellele pretendeerida. Kuhu me saaksime end ette kujutada ühtse rühmana.",
+    "answer": "Kosmos.",
+    "description": "Lõunapoolkeralt pärit osaluspõhine kunstisatelliit. Orbiidil olev tempel, mis kutsub kõiki saatma oma nime kosmosesse, olenemata sellest, kes nad on, kus nad on sündinud, keda nad armastavad või millesse nad usuvad. Koht, kus radikaalne kaasatus on võimalik orbiidil, piiride taga.",
+    "mission": "See missioon on avatud lähtekoodiga. Iga tehniline dokument, iga koodirida on vabalt kättesaadav, et teised kunstnikud, teised kogukonnad, teised riigid saaksid ehitada oma satelliite. Seega globaalne lõuna mitte ainult ei osale kosmoseuuringutes, vaid juhib neid."
+  },
+  "closing": {
+    "answer": "Kes see tüüp siis on, et ehitab kosmosesse templi? Mina seda ei ehita. Templi ehitavad kõik, kes otsustavad saata nime, pidada seda pühaks, muuta selle reaalseks. Mina olen lihtsalt see, kes ettepaneku teeb. Sina oled see, kes selle ehitab, kui sa otsustad seda teha.",
+    "signature": "Palun,",
+    "name": "Edson Pavoni"
+  }
+}

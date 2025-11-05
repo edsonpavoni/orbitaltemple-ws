@@ -1,0 +1,17 @@
+{
+  "title": "Teknik Bilgi - Orbital Temple",
+  "heading": "Teknik Bilgiler",
+  "satellite": {
+    "heading": "Uydu",
+    "specs": "Boyutlar: 50x58x64 mm<br /> 1P PocketQube<br /> Ağırlık: 245 gr<br /> Malzemeler: alüminyum, altın, fiberglas ve elektronik bileşenler.<br /> Yörünge: Yükseklik 525 ± 25 km; eğim: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Anten/Heykel",
+    "specs": "Boyutlar: 6 m (çap) e 1,2 m (yükseklik)<br /> Ağırlık: 46 kg<br /> Malzemeler: alüminyum, epoksi aynalı levha, iskele yapısıyla asılı duran altın rengi alüminyum kubbe."
+  },
+  "radio": {
+    "heading": "Radyo Özellikleri NASA-Katalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Çağrı: Durum: 2025 İÇİN TAKVİM"
+  },
+  "imageAlt": "Teknik Bilgi Diyagramı"
+}

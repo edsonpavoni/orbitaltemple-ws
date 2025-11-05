@@ -1,0 +1,8 @@
+{
+  "title": "Cum funcționează - Orbital Temple",
+  "heading": "Cum funcționează",
+  "intro": "Proiectul Templului Orbital constă din trei elemente interconectate care lucrează împreună pentru a trimite nume templului din spațiu.",
+  "paragraph1": "Satelitul orbitează Pământul la o altitudine de aproximativ 525 km, stocând numele în memoria sa. Stațiile terestre comunică cu satelitul în timpul trecerilor sale, transmițând numele pe care oamenii le-au trimis prin intermediul site-ului web.",
+  "paragraph2": "Când trimiteți un nume, acesta se alătură unei liste de așteptare și va fi transmis satelitului în timpul următoarei treceri disponibile. Veți primi un e-mail de confirmare când numele dvs. a fost încărcat cu succes în Templul Orbital.",
+  "imageAlt": "Diagrama sistemului templar orbital"
+}

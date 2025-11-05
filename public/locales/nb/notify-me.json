@@ -1,0 +1,13 @@
+{
+  "title": "Bli varslet – Orbital Temple",
+  "heading": "Få beskjed når den stiger",
+  "description": "Den 28. november 2025 vil Orbitaltempelet stige opp.<br> Legg igjen e-postadressen din, så gir vi deg beskjed når den når plassen.",
+  "form": {
+    "emailPlaceholder": "din@epost.com",
+    "sendButton": "Sende",
+    "sendingButton": "Sender...",
+    "successMessage": "Vi når deg når den stiger.",
+    "errorMessage": "Noe gikk galt. Prøv igjen."
+  },
+  "backLink": "← Tilbake til nedtellingen"
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Uddannelse og åben kildekode - Orbital Temple",
+  "heading": "Uddannelse og åben kildekode",
+  "intro": {
+    "paragraph1": "Al teknologi, der udvikles til Orbital Temple-missionen, vil være <strong>open source</strong> og tilgængelig online på <strong>portugisisk</strong> , <strong>engelsk</strong> , <strong>spansk</strong> og <strong>hindi</strong> , hvilket fremmer rumforskningens fremskridt i det <strong>globale syd</strong> . Nye missioner og projekter kan bruge Orbital Temple som fundament for deres egne kunstneriske eller videnskabelige eksperimenter.",
+    "paragraph2": "Som en del af sin uddannelsesmission vil Orbital Temple tilbyde et gratis flersproget kursus i, hvordan man bygger og opsender en satellit. Det vil være en praktisk mulighed for at lære om satellitteknologi og omsætte den til praksis. Alle over <strong>16</strong> år vil kunne bygge deres egen satellit og lære om rumkunstens historie, grundlæggende koncepter inden for elektronik, mekanik og rumvidenskab, herunder hvordan man finansierer projekter, og hvordan man bygger en antenne til at kommunikere med satellitter i kredsløb."
+  },
+  "spaceGap": {
+    "heading": "Hvorfor dette er vigtigt: Rumgabet",
+    "paragraph1": "Udtrykket <strong>&quot;rumkløften&quot;</strong> refererer til kløften mellem udviklede nationer, der kan få adgang til de teknologiske muligheder, der opnås gennem rumforskning, og udviklingslande, der mangler adgang til disse teknologier. Lande i det globale syd skal betale betydelige beløb til udenlandske regeringer eller virksomheder for grundlæggende adgang til information produceret af satellitteknologier.",
+    "paragraph2": "Rumteknologi giver afgørende fordele: Satellitter hjælper med at bekæmpe ulovlig skovhugst, ulovligt fiskeri og ulovlig handel med vilde dyr, hvilket repræsenterer mere end <strong>73 milliarder dollars om året</strong> . De leverer vigtig information om klima, vandproduktion og fødevaresikkerhed. Satellitter muliggør præcis kunstvanding og landbrugsteknikker og hjælper med at forhindre naturkatastrofer. Rumindustrien kan skabe op til <strong>1 million job</strong> inden <strong>2030</strong> , men disse muligheder er stadig utilgængelige for mange i det globale syd.",
+    "paragraph3": "Ved at tilbyde open source-teknologi og -uddannelse sigter vi mod at demokratisere adgangen til rummet og give en ny generation mulighed for at drømme ud over himlen."
+  },
+  "empowering": {
+    "heading": "Styrkelse af den næste generation",
+    "intro": "Vi vil lære den næste generation af rumfarere, hvordan man bygger og opsender deres egne satellitter, og dække vigtige emner, herunder:",
+    "topics": {
+      "history": "<strong>Kunsthistorie i rummet:</strong> Forståelse af kunstneriske satellitters og rumbaserede kunstværkers afstamning.",
+      "concepts": "<strong>Kernekoncepter:</strong> <strong>ArtSat</strong> (kunstneriske satellitter), <strong>open source</strong> -rumteknologi og <strong>rumgabet</strong> .",
+      "missions": "<strong>Rummissioner:</strong> Hvordan man konceptualiserer og designer en mission, og hvordan man danner et team til at udføre den.",
+      "electronics": "<strong>Elektronik i rummet:</strong> Grundlæggende koncepter for elektroniske komponenter, der kan overleve og fungere i rummiljøet.",
+      "mechanics": "<strong>Mekanik i rummet:</strong> Forståelse af de strukturelle og mekaniske krav til satellitdesign.",
+      "orbits": "<strong>Baner og løfteraketter:</strong> Forskellige typer baner og hvordan du vælger opsendelsesudbydere til din mission.",
+      "financing": "<strong>Finansieringsstrategier:</strong> Sådan sikrer du finansiering og ressourcer til at opsende din satellit. Kurset vil give ressourcer til at opnå finansiering til din opsendelse og hjælpe studerende med at finde programmer og tilskud fra internationale institutioner, der støtter unge forskere og studerende i at sende deres satellitter ud i rummet.",
+      "groundStation": "<strong>Udvikling af jordstationer:</strong> Sådan bygger du en antenne til at kommunikere med Orbital Temple og andre satellitter."
+    }
+  },
+  "technology": {
+    "heading": "Teknologien: PocketQube-satellitter",
+    "paragraph1": "Studerende vil lære at arbejde med <strong>PocketQube</strong> -satellitter, en nanosatellitstandard, der kun måler <strong>5 cm³</strong> og vejer op til <strong>250 g</strong> . Trods deres lille størrelse er PocketQubes effektive værktøjer, der er i stand til jordobservation, overvågning og kommunikation.",
+    "paragraph2": "Disse kompakte satellitter har adskillige anvendelser i den virkelige verden, lige fra videnskabelig forskning i klimaforandringer til interkontinental kommunikation. Fordi de er mindre og lettere, er de mere overkommelige i pris at bygge og opsende, hvilket gør rummet mere tilgængeligt for studerende, forskere og kunstnere verden over."
+  },
+  "globalAccess": {
+    "heading": "Global adgang, startende fra det globale syd",
+    "paragraph1": "Kurset vil være tilgængeligt for alle <strong>på 16 år og derover</strong> , helt <strong>gratis</strong> . Vi starter med indhold på <strong>portugisisk</strong> , <strong>spansk</strong> , <strong>engelsk</strong> og <strong>hindi</strong> , med planer om at udvide til flere sprog, efterhånden som programmet vokser.",
+    "paragraph2": "Vores mission begynder i det globale syd og strækker sig til hele verden for at sikre, at den næste generation af rumfarere kommer fra alle hjørner af Jorden."
+  },
+  "callToAction": {
+    "heading": "Hjælp os med at få dette til at ske",
+    "content": "Dette uddannelsesprogram er i øjeblikket under udvikling. Vi søger partnere og donorer, der deler vores vision om at demokratisere adgangen til rumteknologi. Hvis du eller din organisation gerne vil støtte dette initiativ, kan du besøge vores <a href=\"/support\">supportside</a> for at få mere at vide om partnerskabsmuligheder."
+  },
+  "imageAlt": "Orbital Temple Satellit"
+}

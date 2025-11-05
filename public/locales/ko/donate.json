@@ -1,0 +1,31 @@
+{
+  "title": "오비탈 템플에 기부하세요",
+  "heading": "기부 완료",
+  "donatingTo": "귀하께서 기부하시는 곳:",
+  "chooseHow": "세금 공제 대상 기부금을 어떻게 처리할지 선택하세요.",
+  "option1": {
+    "heading": "옵션 1: 지금 온라인으로 기부하세요",
+    "description": "안전한 재정 후원사인 <strong>The Field를</strong> 통해 신용카드, 직불카드 또는 기타 온라인 결제 수단을 사용하여 즉시 기부를 완료하세요. 즉시 세금 영수증을 받으실 수 있습니다.",
+    "button": "The Field를 통해 기부하세요 →"
+  },
+  "option2": {
+    "heading": "옵션 2: 로이 재단에 은행 입금",
+    "description": "전략적 파트너이자 재정 후원사인 <strong>로이 재단(The Roy Foundation)</strong> 으로 직접 은행 입금이나 송금을 해주세요. 이 방법은 고액 기부나 해외 송금에 적합합니다.",
+    "bankingInfo": "은행 정보",
+    "fields": {
+      "accountName": "계정 이름:",
+      "bankName": "은행명:",
+      "accountNumber": "계좌번호:",
+      "routingNumber": "라우팅 번호:",
+      "swift": "SWIFT/BIC:",
+      "reference": "참조:"
+    },
+    "instructions": "참고란에 &quot; <strong>Orbital Temple - {donationType}</strong> &quot;을 입력해 주세요. 송금 완료 후, <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> 로 송금 정보를 보내주시면 세금 영수증을 받으실 수 있습니다.",
+    "button": "입금에 관해 문의하기 →"
+  },
+  "taxInfo": {
+    "heading": "세금 공제 기부",
+    "description": "오비탈 템플은 <strong>501(c)(3)</strong> 비영리 단체인 <strong>필드(퍼포먼스 존 주식회사)</strong> 의 재정 지원을 받는 프로젝트입니다. 모든 미국 기부금은 법이 허용하는 한도 내에서 세금 공제 혜택을 받을 수 있습니다.",
+    "questions": "문의사항이 있으신가요? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> 로 연락주세요."
+  }
+}

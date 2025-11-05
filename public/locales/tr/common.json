@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "sanat eseri",
+    "sendAName": "bir isim gönder",
+    "fromTheArtist": "sanatçıdan",
+    "yetAnotherTemple": "bir başka tapınak mı?",
+    "howItWorks": "nasıl çalışır",
+    "spaceLaunch": "uzay fırlatma ve riskler",
+    "briefHistory": "uzayda sanatın kısa tarihi",
+    "education": "eğitim ve açık kaynak",
+    "sustainability": "sürdürülebilirlik ve uzay çöpü",
+    "press": "basın ve medya",
+    "team": "takım",
+    "partners": "ortaklar",
+    "support": "Destek",
+    "technicalInfo": "teknik bilgi"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "ritüel",
+    "ariaLabel": "Ritüele katılın - Orbital Tapınağa bir isim gönderin"
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Orbital Tapınağı, Edson Pavoni'nin Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy ve bu tapınağa isim göndermeye devam eden herkesin işbirliğiyle yarattığı bir sanat eseridir."
   }
 }

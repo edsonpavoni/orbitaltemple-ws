@@ -1,0 +1,13 @@
+{
+  "title": "Soyez informé - Temple orbital",
+  "heading": "Soyez averti lorsqu'il monte",
+  "description": "Le 28 novembre 2025, le Temple Orbital s&#39;élèvera.<br> Laissez votre adresse e-mail et nous vous informerons lorsqu&#39;elle atteindra l&#39;espace.",
+  "form": {
+    "emailPlaceholder": "votre@email.com",
+    "sendButton": "Envoyer",
+    "sendingButton": "Envoi...",
+    "successMessage": "Nous vous contacterons lorsqu'il sera monté.",
+    "errorMessage": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "backLink": "← Retour au compte à rebours"
+}

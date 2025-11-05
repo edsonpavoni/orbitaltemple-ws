@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "Orbitálny chrám",
+    "subtitle": "je umelecké dielo a zároveň satelit,\nktorého cieľom je byť radikálnym inkluzívnym chrámom,\nna mieste, kam sa žiadna stena nedostane."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "rituál"
+  },
+  "cta": {
+    "link": "A čo, ďalší chrám?",
+    "arrowAlt": "šíp"
+  },
+  "dome": {
+    "alt": "Kupola"
   }
 }

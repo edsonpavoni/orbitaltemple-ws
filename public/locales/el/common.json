@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "το έργο τέχνης",
+    "sendAName": "στείλε ένα όνομα",
+    "fromTheArtist": "από τον καλλιτέχνη",
+    "yetAnotherTemple": "κι άλλος ναός;",
+    "howItWorks": "πώς λειτουργεί",
+    "spaceLaunch": "εκτόξευση στο διάστημα και κίνδυνοι",
+    "briefHistory": "σύντομη ιστορία της τέχνης στο διάστημα",
+    "education": "εκπαίδευση και ανοιχτός κώδικας",
+    "sustainability": "βιωσιμότητα και διαστημικά απόβλητα",
+    "press": "τύπος και μέσα ενημέρωσης",
+    "team": "ομάδα",
+    "partners": "συνεργάτες",
+    "support": "υποστήριξη",
+    "technicalInfo": "τεχνικές πληροφορίες"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "τελετουργία",
+    "ariaLabel": "Μπείτε στο τελετουργικό - Στείλτε ένα όνομα στον Τροχιακό Ναό"
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Το Orbital Temple είναι ένα έργο τέχνης του Edson Pavoni, που δημιουργήθηκε σε συνεργασία με τους Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, και όλους αυτούς που στέλνουν στους Savian Rosa, Claray. ναός."
   }
 }

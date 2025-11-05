@@ -1,0 +1,31 @@
+{
+  "title": "L'opera d'arte - Tempio orbitale",
+  "heading": "L'opera d'arte",
+  "intro": {
+    "paragraph1": "Orbital Temple è un satellite con una missione artistica: un memoriale nello spazio aperto a ogni essere senziente che vive o ha vissuto sulla Terra.",
+    "paragraph2": "Grazie alla tecnologia, chiunque può inviare il nome di qualcuno al Tempio, che sia qualcuno che è scomparso, una persona ancora in vita o qualsiasi essere che merita di essere ricordato."
+  },
+  "sculpture": {
+    "heading": "La scultura",
+    "paragraph1": "L'opera d'arte è composta da tre elementi interdipendenti: un satellite progettato appositamente per memorizzare miliardi di nomi; una scultura pubblica che scambia informazioni con il satellite; e un sito web attraverso il quale i partecipanti inviano i nomi, da ora fino alla loro scomparsa, al cielo.",
+    "paragraph2": "In quanto progetto multidisciplinare, Orbital Temple può essere considerato una scultura site-specific, che abita lo spazio. È anche un progetto Artsat."
+  },
+  "antenna": {
+    "heading": "L'antenna come scultura pubblica",
+    "paragraph1": "Un'antenna che ci collega allo spazio.",
+    "paragraph2": "È in fase di progettazione un'antenna che sarà in comunicazione diretta con il satellite orbitale.",
+    "paragraph3": "Con una superficie riflettente dorata, che rispecchia il cielo sovrastante, è un punto di partenza per la stimolazione di massa (o per il nostro rapporto con ciò che sta \"lassù\").",
+    "paragraph4": "Sebbene le sculture non siano installate nella maggior parte del mondo, i nostri Frames dalla Terra, che attualmente controllano il satellite, inviano i nomi a ogni passaggio.",
+    "paragraph5": "Aiutaci a portare questa visione nella tua città, installando sculture di antenne che ispirino dibattiti sull&#39;esplorazione spaziale, l&#39;arte e il nostro posto comune nel cosmo. <a href=\"/support\">Scopri di più su come sostenere il progetto</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite del tempio orbitale",
+    "riseNy": "Tempio orbitale a Rise NY",
+    "installation": "Tempio orbitale di Clara Marques",
+    "antenna": "Antenna orbitale del tempio"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempio orbitale nello spazio. Rendering 3D di RiseNY&Partners.",
+    "mercosul": "Installazione Orbital Temple alla Mercosul Biennial, a Porto Alegre, Brasile.<br> Foto di Clara Marques."
+  }
+}

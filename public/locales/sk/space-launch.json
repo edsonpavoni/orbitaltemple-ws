@@ -1,0 +1,16 @@
+{
+  "title": "Štart do vesmíru - Orbitálny chrám",
+  "heading": "Štart do vesmíru",
+  "intro": "Orbitálny chrám by mal byť vypustený na palube PSLV (Polar Satellite Launch Vehicle) 28. novembra 2025 z vesmírneho strediska Satish Dhawan v Sriharikote v Indii.",
+  "partnership": "Štart rakety Orbital Temple je partnerstvom medzi spoločnosťou NewSpace India Limited (NSIL), indickou vládnou spoločnosťou spadajúcou pod Ministerstvo vesmíru, Antrix Corporation, a umelcom. Táto spolupráca predstavuje významný míľnik pre umenie v oblasti prieskumu vesmíru, spája indický vesmírny program s umeleckou víziou radikálnej inklúzie.",
+  "risks": {
+    "heading": "Riziká",
+    "paragraph1": "Satelit bol skonštruovaný tak, aby odolal extrémnym vibračným podmienkam a tepelným cyklom a prešiel prísnym testovaním. Štarty do vesmíru však so sebou prinášajú inherentné riziká. Ak sa satelit počas štartu alebo nasadenia poškodí, alebo ak sa mu nepodarí nadviazať komunikáciu s našimi pozemnými stanicami, budeme pracovať na odstraňovaní problémov a ich vyriešení. Satelit má redundantné systémy a záložné protokoly navrhnuté tak, aby maximalizovali šance na úspech misie.",
+    "paragraph2": "Okrem toho môže satelit zostať na obežnej dráhe menej ako 10 rokov, ak atmosférické podmienky alebo iné faktory spôsobia skorší úpadok na obežnej dráhe. Hoci sme ho navrhli tak, aby vydržal aspoň desať rokov, skutočná životnosť závisí od podmienok, ktoré nemôžeme úplne ovplyvniť.",
+    "paragraph3": "Ak prvý štart zlyhá alebo ak nebudeme schopní splniť túto misiu podľa plánu, preskúmame alternatívne cesty vpred, prípadne vrátane druhého pokusu o štart s dostupným rozpočtom, partnerstva s inými misiami alebo dokumentácie pokusu ako súčasti naratívu umeleckého diela o ašpiráciách a obmedzeniach."
+  },
+  "imageAlts": {
+    "india": "Vesmírne stredisko ISRO, India",
+    "satellite": "Orbitálny chrámový satelit"
+  }
+}

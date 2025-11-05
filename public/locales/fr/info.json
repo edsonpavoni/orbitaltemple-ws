@@ -1,0 +1,17 @@
+{
+  "title": "Informations techniques - Temple orbital",
+  "heading": "Informations techniques",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Dimensions : 50 x 58 x 64 mm<br /> PocketQube 1P<br /> Poids : 245 g<br /> Matériaux : aluminium, or, fibre de verre et composants électroniques.<br /> Orbite : Altitude 525 ± 25 km ; inclinaison : SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenne/Sculpture",
+    "specs": "Dimensions : 6 m (diamètre) et 1,2 m (hauteur)<br /> Poids : 46 kg<br /> Matériaux : aluminium, panneau miroir époxy, dôme en aluminium doré suspendu à une structure d&#39;échafaudage."
+  },
+  "radio": {
+    "heading": "Spécifications radio du catalogue NASA :",
+    "specs": "Liaison descendante à déterminer : 437 MHz<br /> Appel : Statut : CALENDRIER POUR 2025"
+  },
+  "imageAlt": "Diagramme d'informations techniques"
+}

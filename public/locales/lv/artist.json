@@ -1,0 +1,44 @@
+{
+  "title": "No mākslinieka",
+  "opening": {
+    "question": "Kas ir šis puisis, kas ierosina templi kosmosā?",
+    "thanks": "Paldies par jautājumu.",
+    "answer": "Īsā atbilde ir tāda, ka esmu mākslinieks. Garā atbilde ir šāda:"
+  },
+  "origin": {
+    "sao_paulo": "Es piedzimu Sanpaulu nomalē, rajonā, kas man jau agri iemācīja, ko nozīmē briesmas. Daudzi mani skolas draugi tagad atrodas cietumā. Mans patēvs ir cietumā. Vardarbība nebija kaut kas tāds, par ko es lasīju, tā bija pasaule, kurā man bija jāorientējas. Un es zināju, ka man ir jābēg.",
+    "technology": "Tehnoloģijas kļuva par manu izeju. Pusaudža gados es iemācījos programmēt, elektroniku. Kods bija valoda, kas varēja mani aizvest kaut kur citur. Darbs ar tehnoloģijām bija mana izeja no nabadzības.",
+    "christianity": "Bet es arī meklēju piederību, mīlestību, kaut ko, kam ticēt. Es atradu kristietību, vai arī tā atrada mani. Mani pieņēma. Mani mīlēja. Man bija kopiena. Es iemācījos piedot, ticēt, kopā virzīties augstāka mērķa vārdā.",
+    "price": "Tomēr cena bija augsta. Es arī iemācījos daudzas lietas, ko joprojām aizmirstu. Tāpēc es arī no tā izvairījos."
+  },
+  "searching": {
+    "walls": "Es zinu, ko dara sienas. Esmu tās jutis. Esmu bijis abās pusēs: turēts ārpusē, turēts iekšā. Sekoja gadi, meklējot kaut ko tādu, ko nevarēju nosaukt vārdā. Dievs šajos gados nomira. Dievs, par kuru man bija mācīts, vismaz tas, kuram bija noteikumi, spriedums un durvis, kas atvērās tikai dažiem cilvēkiem.",
+    "art": "Es sāku radīt mākslu, lai izpētītu šos jautājumus: par intimitāti un tehnoloģijām, par atmiņu un nāvi, par to, kurš ir pelnījis debesis. Es sāku veidot mašīnas, kas pārdomā mūsu attiecības ar tehnoloģijām, mašīnas, kurām nepieciešama jūsu līdzdalība, jūsu klātbūtne, jūsu vārds, lai tās no metāla un koda pārveidotos par kaut ko dzīvu."
+  },
+  "pandemic": {
+    "intro": "Tad Brazīliju skāra pandēmija.",
+    "government": "Kad COVID vakcīnas tika atliktas, mana valdība vienojās par viena dolāra atmaksu par devu. Viņi reklamēja zāles, kas tika uzskatītas par neefektīvām, smejoties, kamēr cilvēki mira, cīnoties ar elpošanu. Katru dienu mēs pamodāmies ar atšķirīgu skaitli. Cik cilvēku nomira pēdējo 24 stundu laikā? Vai tas bija vairāk vai mazāk, nekā gaidīts?",
+    "war": "Puse pasaules bija nobijusies, bet otra puse noliedza notikušo. Mēs bijām karā – gan ar vīrusu, gan viens ar otru.",
+    "memorial": "Es vēlējos radīt telpu kolektīvām sērām, tāpēc kopā ar simtiem cilvēku es radīju Memorial Inumeráveis. Mākslas darbu, kas apvieno mākslu un žurnālistiku. Mēs intervējām ģimenes, kuras bija zaudējušas kādu cilvēku. Mēs uzrakstījām zaudētā cilvēka dzīvesstāstu. Mēs pārveidojām skaitļus vēsturē. Ar šiem stāstiem tika radīti dzejoļi, dziesmas, simfonijas. Zvaigznes lasīja šos stāstus nacionālajā televīzijā. Projekts sasniedza miljonus.",
+    "meaning": "Svarīgs nebija mērogs, bet gan tas, ka katrs stāsts bija vārds, dzīve, kāda cilvēka paradīze."
+  },
+  "discovery": {
+    "pattern": "Pēc vairāk nekā desmit tūkstošiem sarunu ar sērām sāka iezīmēties noteikts modelis. Kad mēs runājam par kādu mirušu cilvēku, mēs ne tikai sakām labas lietas; mēs atlasām fragmentus no viņa stāsta, it kā rakstītu ieteikuma vēstuli. Ieteikumu paradīzes vārtu sargam. Mēs darām visu iespējamo, lai nosūtītu viņu uz pieņemšanas, atpūtas, goda un piemiņas vietu.",
+    "understanding": "Un es sapratu kaut ko tādu, kas visu mainīja: mūs ir ievainojuši paši tempļi, ko esam uzcēluši. Mūsu uzskati par to, kurš ir pelnījis debesis, tieši nosaka to, kuru mēs uz Zemes izslēdzam. Portugāļu kolonizatori Brazīlijā uzskatīja, ka melnādainajiem cilvēkiem nav dvēseļu; šī pārliecība attaisnoja verdzību. Ja tu esi pamatiedzīvotājs, ja esi dzimis nepareizajā vietā vai mīlējis nepareizo cilvēku, tev tika teikts, ka debesu durvis tev ir slēgtas.",
+    "birth": "Tā radās Orbitālais templis."
+  },
+  "shaman": {
+    "secular": "Neviens mākslinieks nevar būt patiesi laicīgais. Mēs esam uz visiem laikiem saistīti ar savu kopīgo senci, šamani. Iesākumā bija ala. Cilvēki gleznoja dzīvniekus uz sienām nevis dekorēšanai, bet gan piesaukšanai. Viņi dejoja, un ala kļuva par templi. Šamanis iemieso rituāla garu; mākslinieks iemieso mākslas auru. Mēs gleznojam, mēs skulptējam, mēs programmējam, mēs veidojam savu vēlamo nākotni nevis dekorēšanai, bet piesaukšanai. Visa māksla ir garīga, pat ja tā apgalvo, ka tāda nav."
+  },
+  "space": {
+    "question": "Kur mēs varētu uzcelt templi bez sienām? Kur neviena tauta vai reliģija nevarētu pretendēt. Kur mēs varētu iedomāties sevi kā vienu grupu.",
+    "answer": "Kosmoss.",
+    "description": "Līdzdalības mākslas satelīts no Globālajiem Dienvidiem. Templis orbītā, kas aicina ikvienu sūtīt savus vārdus kosmosā neatkarīgi no tā, kas viņš ir, kur dzimis, ko mīl, kam tic. Vieta, kur iespējama radikāla iekļaušana orbītā, pāri robežām.",
+    "mission": "Šī misija ir atvērtā koda. Katrs tehniskais dokuments, katra koda rinda būs brīvi pieejama, lai citi mākslinieki, citas kopienas, citas valstis varētu būvēt savus satelītus. Tātad Globālie Dienvidi ne tikai piedalās kosmosa izpētē, bet arī vada to."
+  },
+  "closing": {
+    "answer": "Tātad, kas ir šis puisis, lai celtu templi kosmosā? Es to nebūvēju. Templi ceļ ikviens, kurš nolemj nosūtīt vārdu, uzskatīt to par svētu, padarīt to reālu. Es tikai ierosinu. Tu esi tas, kurš to būvē, ja tu tā nolemsi.",
+    "signature": "Laipni lūdzam,",
+    "name": "Edsons Pavoni"
+  }
+}

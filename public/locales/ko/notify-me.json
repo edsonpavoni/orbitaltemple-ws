@@ -1,0 +1,13 @@
+{
+  "title": "알림 받기 - 오비탈 템플",
+  "heading": "상승하면 알림을 받으세요",
+  "description": "2025년 11월 28일, 궤도 사원이 상승할 것입니다.<br> 이메일 주소를 남겨주세요. 우주에 도착하면 알려드리겠습니다.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "보내다",
+    "sendingButton": "배상...",
+    "successMessage": "그것이 올라가면 우리는 당신에게 도달할 것입니다.",
+    "errorMessage": "문제가 발생했습니다. 다시 시도해 주세요."
+  },
+  "backLink": "← 카운트다운으로 돌아가기"
+}

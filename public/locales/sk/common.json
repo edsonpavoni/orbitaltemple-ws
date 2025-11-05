@@ -1,14 +1,25 @@
 {
-  "menu": {
-    "home": "Home",
-    "sendName": "Send a Name",
-    "about": "About"
+  "nav": {
+    "theArtwork": "umelecké dielo",
+    "sendAName": "poslať meno",
+    "fromTheArtist": "od umelca",
+    "yetAnotherTemple": "ešte jeden chrám?",
+    "howItWorks": "ako to funguje",
+    "spaceLaunch": "štart do vesmíru a riziká",
+    "briefHistory": "Stručná história umenia vo vesmíre",
+    "education": "vzdelávanie a open source",
+    "sustainability": "udržateľnosť a vesmírny odpad",
+    "press": "tlač a médiá",
+    "team": "tím",
+    "partners": "partneri",
+    "support": "podpora",
+    "technicalInfo": "technické informácie"
   },
   "ritual": {
-    "label": "ritual",
-    "ariaLabel": "Enter the ritual - Send a name to the Orbital Temple"
+    "label": "rituál",
+    "ariaLabel": "Vstúpte do rituálu - Pošlite meno do Orbitálneho chrámu"
   },
   "footer": {
-    "credits": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, and all those who continue to send names to this temple."
+    "credits": "Orbitálny chrám je umelecké dielo Edsona Pavoniho, vytvorené v spolupráci s Pedrom Kaledom, João Pedro Politom, Victorom Baptistom a Joãom Victorom Alvesom, Andrém Biagionim, VK, Jonathanom Querubinom, Guilhermom Bullejosom, Eduardom Diasom, Robertou Savian Rosou, Clarou Marques, Sathi Royom a všetkými tými, ktorí naďalej posielajú mená tomuto chrámu."
   }
 }

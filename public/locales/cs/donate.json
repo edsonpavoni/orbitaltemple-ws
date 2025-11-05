@@ -1,0 +1,31 @@
+{
+  "title": "Darujte Orbitálnímu chrámu",
+  "heading": "Dokončete svůj dar",
+  "donatingTo": "Přispíváte:",
+  "chooseHow": "Vyberte si, jak chcete dokončit svůj daňově uznatelný dar:",
+  "option1": {
+    "heading": "Možnost 1: Darujte online nyní",
+    "description": "Dokončete svůj dar ihned kreditní kartou, debetní kartou nebo jinými online platebními metodami prostřednictvím našeho zabezpečeného fiskálního sponzora, <strong>The Field</strong> . Okamžitě obdržíte daňový doklad.",
+    "button": "Darujte přes The Field →"
+  },
+  "option2": {
+    "heading": "Možnost 2: Bankovní vklad na účet Nadace Roy",
+    "description": "Proveďte přímý bankovní vklad nebo bankovní převod na <strong>účet Nadace Roy</strong> , našeho strategického partnera a finančního sponzora. Tato možnost je ideální pro větší dary nebo mezinárodní převody.",
+    "bankingInfo": "Bankovní informace",
+    "fields": {
+      "accountName": "Název účtu:",
+      "bankName": "Název banky:",
+      "accountNumber": "Číslo účtu:",
+      "routingNumber": "Směrovací číslo:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Odkaz:"
+    },
+    "instructions": "Do referenčního pole uveďte prosím „ <strong>Orbital Temple - {donationType}</strong> “. Po dokončení převodu nám zašlete e-mail s údaji o převodu na adresu <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> , abyste obdrželi daňový doklad.",
+    "button": "Kontaktujte nás ohledně vkladu →"
+  },
+  "taxInfo": {
+    "heading": "Daňově uznatelné dary",
+    "description": "Orbital Temple je finančně sponzorovaný projekt organizace <strong>The Field (Performance Zone Inc.)</strong> , neziskové organizace <strong>dle paragrafu 501(c)(3)</strong> . Veškeré příspěvky z USA jsou daňově uznatelné v rozsahu povoleném zákonem.",
+    "questions": "Máte otázky? Kontaktujte nás na adrese <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

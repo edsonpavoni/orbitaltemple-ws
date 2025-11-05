@@ -1,0 +1,31 @@
+{
+  "title": "Lahjoita Orbital Templelle",
+  "heading": "Viimeistele lahjoituksesi",
+  "donatingTo": "Lahjoitat kohteelle:",
+  "chooseHow": "Valitse, miten haluat tehdä verovähennyskelpoisen lahjoituksesi:",
+  "option1": {
+    "heading": "Vaihtoehto 1: Lahjoita verkossa nyt",
+    "description": "Suorita lahjoituksesi välittömästi luotto- tai pankkikortilla tai muilla verkkomaksutavoilla turvallisen finanssisponsorimme <strong>The Fieldin</strong> kautta. Saat välittömästi verokuitin.",
+    "button": "Lahjoita The Fieldin kautta →"
+  },
+  "option2": {
+    "heading": "Vaihtoehto 2: Pankkitalletus Roy-säätiölle",
+    "description": "Tee suora pankkisiirto tai tilisiirto <strong>Roy-säätiölle</strong> , strategiselle kumppanillemme ja taloudelliselle sponsorillemme. Tämä vaihtoehto sopii erinomaisesti suuremmille lahjoituksille tai kansainvälisille siirroille.",
+    "bankingInfo": "Pankkitiedot",
+    "fields": {
+      "accountName": "Tilin nimi:",
+      "bankName": "Pankin nimi:",
+      "accountNumber": "Tilinumero:",
+      "routingNumber": "Reititysnumero:",
+      "swift": "SWIFT/BIC-koodi:",
+      "reference": "Viite:"
+    },
+    "instructions": "Kirjoita viitekenttään &quot; <strong>Orbital Temple - {donationType}</strong> &quot;. Kun olet tehnyt siirtosi, lähetä meille sähköpostia osoitteeseen <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ja kerro siirtotietosi saadaksesi verokuitin.",
+    "button": "Ota yhteyttä Tietoa talletuksesta →"
+  },
+  "taxInfo": {
+    "heading": "Verovähennyskelpoinen lahjoitus",
+    "description": "Orbital Temple on <strong>The Fieldin (Performance Zone Inc.)</strong> taloudellisesti rahoittama projekti. The Field on voittoa tavoittelematon <strong>501(c)(3)</strong> -organisaatio. Kaikki Yhdysvaltojen lahjoitukset ovat verovähennyskelpoisia lain sallimissa rajoissa.",
+    "questions": "Kysymyksiä? Ota yhteyttä osoitteeseen <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "تاريخ موجز للفن في الفضاء - معبد المداري",
+  "heading": "تاريخ موجز للفن في الفضاء",
+  "intro": "منذ الإطلاق الناجح لأول قمر صناعي عام <strong>١٩٥٧</strong> ، دار أكثر من عشرة آلاف قمر صناعي حول الأرض. في هذا العصر الجديد، وجد الفنانون سبيلاً لتوسيع نطاق أعمالهم، وأصبح الفضاء الخارجي لوحة فنية جديدة. مع ذلك، برزت أسئلة جوهرية حول سياسات استكشاف الفضاء، وإن كان لا يزال هناك الكثير مما يجب تناوله.",
+  "sections": {
+    "leonov": {
+      "text": "كان أول عمل فني تم إنشاؤه في الفضاء عبارة عن رسم لشروق الشمس فوق الأرض، رسمه رائد الفضاء الروسي <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">أليكسي ليونوف</a></strong> أثناء وجوده على متن مركبة فوسخود 2 في <strong>عام 1965</strong> .",
+      "caption": "أول عمل فني أُنتج في الفضاء، وأقلام الرصاص التي استخدمها أليكسي ليونوف لرسمه. الصورة: متحف مركز يوري غاغارين لتدريب رواد الفضاء."
+    },
+    "moonMuseum": {
+      "paragraph1": "بعد ثلاث سنوات، تم <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">افتتاح متحف القمر</a></strong> ، وهو عبارة عن لوحة خزفية صغيرة من المفترض أنها هبطت على القمر تحمل نقوشًا من قبل ستة من أبرز الفنانين في الولايات المتحدة في ذلك الوقت: <strong>روبرت راوشنبرج</strong> ، <strong>ديفيد نوفروس</strong> ، <strong>جون تشامبرلين</strong> ، <strong>كلايس أولدنبورج</strong> ، <strong>فوريست مايرز</strong> <strong>وأندي وارهول</strong> .",
+      "caption1": "صورة لمتحف القمر من مقال نيويورك تايمز الأصلي. يُخفي الإبهام رسم وارهول.",
+      "paragraph2": "لقد كان مساهمة وارهول الاستفزازية - أعلى اليسار - سبباً في جعل هذا المشروع تحدياً لوسائل الاتصال في ذلك الوقت.",
+      "caption2": "الصورة التي اختارت صحيفة نيويورك تايمز نشرها، مع العمل الفني المرئي في الأسفل ورسم آندي وارهول في الزاوية اليسرى العليا."
+    },
+    "fallenAstronaut": {
+      "text": "في <strong>عام ١٩٧١</strong> ، نُصب على سطح القمر تمثال صغير الحجم من الألمنيوم على شكل إنسان يُدعى <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;رائد الفضاء الساقط&quot;</a></strong> من قِبل رائد فضاء أبولو ١٥، <strong>ديفيد سكوت</strong> . أراد الفنان البلجيكي <strong>بول فان هويدونك</strong> ، من خلال هذه القطعة، إحياء ذكرى رواد الفضاء الذين ضحوا بحياتهم في سبيل تقدم استكشاف الفضاء.",
+      "caption": "منظر للوحة التذكارية الموجودة على سطح القمر في موقع هبوط هادلي-أبينيني."
+    },
+    "pioneerVoyager": {
+      "text": "في <strong>سبعينيات القرن العشرين</strong> ، مهدت كلٌّ من <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">لوحات الرواد</a></strong> <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ومسباري فوييجر</a></strong> آفاقًا جديدةً للفن في الفضاء. حملت هذه اللوحات لوحاتٍ من الألومنيوم المُؤكسد بالذهب، تحمل رسائل بصرية من الأرض إلى أي رواد فضاء آخرين قد يجدونها في المستقبل البعيد، فصوّرت الحياة البشرية في أبسط عناصرها.",
+      "caption": "لوحتا بايونير 10 و11، تم نقلهما إلى الفضاء العميق في سبعينيات القرن العشرين."
+    },
+    "dove": {
+      "text": "في <strong>عام ١٩٩٠</strong> ، تركت البرازيل بصمتها على هذه المنطقة مع <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> ، وهو قمر صناعي هواة مبتكر ذو قوة شعرية هائلة. مع أن مُبتكره لم يكن فنانًا، إلا أنه كان مسعىً شعريًا بامتياز: فقد سجّل أصوات أطفال يطالبون بالسلام، ونقلها إلى أكثر من ألفي هاوٍ لاسلكي حول العالم، محولًا قمرًا صناعيًا مكعبًا رائدًا إلى عمل صوتي جماعي.",
+      "caption": "DOVE/OSCAR-17، القمر الصناعي الشعري البرازيلي الذي يبث أصوات الأطفال من أجل السلام، 1990."
+    },
+    "lastPictures": {
+      "text": "في <strong>عام ٢٠١٢</strong> ، أطلق الفنان <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">تريفور باغلن</a></strong> <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;الصور الأخيرة&quot;</a></strong> ، وهو قرصٌ دقيقٌّ يحتوي على ١٠٠ صورة، مُثبّت على قمر الاتصالات إيكوستار ١٦ في مداره الجغرافي الثابت. صُمّم القرص ليدوم مليارات السنين، ويُفترض أن يبقى بعد زوال الحضارة الإنسانية كقطعة أثرية تُخلّد في المستقبل البعيد.",
+      "caption": "\"الصور الأخيرة\"، وهو قرص محفور بدقة متناهية مصمم ليبقى بعد رحيل البشرية، تم إطلاقه في عام 2012."
+    },
+    "ulises": {
+      "text": "في <strong>عام ٢٠١٥</strong> ، أطلقت مجموعة الفضاء المكسيكية ( <strong>Colectivo Espacial Mexicano</strong> ) القمر الصناعي النانوي <strong>&quot;أوليسيس ١&quot;</strong> ، الذي صُمم كأوبرا مفاهيمية تحت إشراف الفنان <strong>خوان خوسيه دياز إنفانتي كاساسوس</strong> . حُمل القمر الصناعي إلى طبقة الستراتوسفير على متن منطاد خلال معرض غوادالاخارا للكتاب. صُمم لينفجر بعد حوالي أربع ساعات ويهبط بالمظلة.",
+      "caption": "Ulises I، أوبرا فضائية مفاهيمية من تأليف Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "لم يُطلق أول قمر صناعي فني بحت إلا في <strong>عام ٢٠١٤.</strong> أرسل مشروع <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> التابع لجامعة طوكيو بيانات مكانية إلى الأرض استُخدمت في المنشآت الفنية والإبداع الموسيقي.",
+      "caption1": "إطار ARTSAT-1 Invader وقطع الغيار التي بقيت على الأرض.",
+      "caption2": "مهمة [الفضاء x الفن] - معرض ما وراء علم الكونيات الذي أقيم في متحف الفن المعاصر في طوكيو"
+    },
+    "kac": {
+      "text": "ساهم الفنان البرازيلي الأمريكي المعاصر <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">إدواردو كاك</a></strong> في فن الفضاء من خلال تعاونه مع <strong>ناسا</strong> <strong>وسبيس إكس</strong> . وقد نتج عن عمله <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;التلسكوب الداخلي&quot;</a></strong> ( <strong>2017</strong> )، الذي صممه بالتعاون مع رائد الفضاء الفرنسي <strong>توماس بيسكيه</strong> ، منحوتة نُفذت على متن <strong>محطة الفضاء الدولية</strong> .",
+      "caption": "التلسكوب الداخلي على متن محطة الفضاء الدولية، الذي تم إنشاؤه مع رائد الفضاء الفرنسي توماس بيسكيت، عام 2017."
+    },
+    "enoch": {
+      "text": "في <strong>عام ٢٠١٨</strong> ، أُطلق إلى مداره قمر صناعي سلبي، بُني كمشروع فني. طوّر الفنان المفاهيمي الباهامي <strong>تافاريس ستراشان</strong> ، <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">قمر إينوك، وهو</a></strong> يحتوي على جرة كانوبية من الذهب عيار ٢٤ قيراطًا تحمل تمثالًا نصفيًا لأول رائد فضاء أمريكي من أصل أفريقي، <strong>روبرت هنري لورانس الابن</strong> .",
+      "caption": "إينوك (وحدة العرض)، 2015-2017. ⓒ تافاريس ستراشان، الصورة ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "في العام نفسه، أُطلق <strong>عاكس</strong> <strong>تريفور باغلن</strong> المداري كتمثال داخل قمر صناعي مكعب غير عامل. كان هذا العمل بادرة فنية تهدف إلى تغيير نظرتنا إلى مكانتنا في العالم. لم يُنشر بشكل صحيح. ورغم أنه لم يُفتح كما صُمم، إلا أنه أثار نقاشات حيوية وردود فعل حماسية من علماء الفلك والعلماء ووسائل الإعلام والمعلمين والطلاب وعامة الناس حول العالم، مُثبتًا أن الفن الناجح لا يشترط النجاح التقني.",
+      "caption": "عرض رقمي للعاكس المداري، ٢٠١٨"
+    },
+    "others": {
+      "text": "ساهم العديد من الفنانين الآخرين في مجال فن الفضاء، حيث قدّم كلٌّ منهم منظورًا فريدًا في أبحاثه. من بين المشاريع البارزة بحث <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">سارة جين بيل،</a></strong> الفنانة الرائدة في مجال الفضاء، الذي يستكشف الأداء البشري في بيئات قاسية؛ ومشروع <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">أغنيس ماير-برانديس &quot;</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">مون غوس أنالوغ&quot;</a></strong> الذي يتناول سرديات استكشاف الفضاء التاريخية والمعاصرة؛ وبرنامج <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ناحوم &quot;</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">أسترو آرتس&quot;</a></strong> الذي يُسهّل التجارب الفنية في مجال الجاذبية الصغرى؛ ومنحوتة <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;الراقصة الكونية</a></strong> <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot; لآرثر وودز</a></strong> ، وهي أول منحوتة عُرضت في الفضاء على متن محطة مير عام ١٩٩٣."
+    },
+    "orbitalTemple": {
+      "text": "في <strong>عام 2025</strong> ، وبعد 4 سنوات من البحث والتطوير، سيطلق الفنان البرازيلي <strong>إدسون بافوني</strong> ومجموعة متعددة التخصصات من المتعاونين <strong>معبد Orbital Temple</strong> ، وهو قمر صناعي فني تشاركي يدعو أي شخص في العالم لإرسال أسماء إلى المدار، مما يؤدي إلى إنشاء نصب تذكاري شامل جذريًا يتجاوز الحدود.",
+      "caption": "المعبد المداري في Mercosul Bienal. الصورة: كلارا ماركيز"
+    }
+  },
+  "imageAlts": {
+    "leonov": "رسومات وأقلام أليكسي ليونوف",
+    "moonMuseum": "رقاقة سيراميك متحف القمر",
+    "moonMuseumWarhol": "رقاقة سيراميك من متحف القمر تعرض جميع الأعمال الفنية",
+    "fallenAstronaut": "نصب تذكاري لرائد الفضاء الساقط على القمر",
+    "pioneerPlaques": "لوحات الرواد",
+    "dove": "القمر الصناعي WHERE/OSCAR-17",
+    "lastPictures": "قرص الصور الأخيرة",
+    "ulises": "قمر أوليسيس الأول",
+    "artsatInvader": "هيكل القمر الصناعي ARTSAT-1 Invader",
+    "artsatArt": "عمل فني تم إنشاؤه من بيانات ARTSAT-1",
+    "innerTelescope": "تلسكوب إدواردو كاك الداخلي",
+    "enoch": "وحدة عرض ENOCH من تصميم Tavares Strachan",
+    "orbitalReflector": "عاكس تريفور باجلين المداري",
+    "orbitalTemple": "القمر الصناعي المداري للمعبد"
+  }
+}

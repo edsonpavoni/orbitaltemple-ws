@@ -1,0 +1,77 @@
+{
+  "title": "우주 예술의 간략한 역사 - 오비탈 템플",
+  "heading": "우주 예술의 간략한 역사",
+  "intro": "<strong>1957</strong> 년 최초의 인공위성 발사에 성공한 이후, 만 개가 넘는 위성이 지구 궤도를 돌았습니다. 이 새로운 시대에 예술가들은 자신의 작업을 확장할 방법을 찾았고, 우주는 새로운 유형의 캔버스가 되었습니다. 이와 함께 우주 탐사의 정치학에 대한 근본적인 질문들이 제기되었지만, 아직 다루어야 할 영역은 훨씬 더 많습니다.",
+  "sections": {
+    "leonov": {
+      "text": "우주에서 만들어진 최초의 예술 작품은 <strong>1965년</strong> 러시아 우주인 <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">알렉세이 레오노프가</a></strong> 보스호트 2호에 탑승한 동안 그린 지구 위의 일출 그림이었습니다.",
+      "caption": "우주에서 만들어진 최초의 예술 작품과 알렉세이 레오노프가 그 작품을 그리는 데 사용한 연필. 사진: 유리 가가린 우주비행사 훈련 센터 박물관"
+    },
+    "moonMuseum": {
+      "paragraph1": "3년 후, 달에 착륙한 것으로 추정되는 아주 작은 세라믹 접시인 <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">문 뮤지엄이</a></strong> 건립되었는데, 그 접시 안에는 당시 미국에서 가장 저명한 예술가 6인인 <strong>로버트 라우센버그</strong> , <strong>데이비드 노브로스</strong> , <strong>존 체임벌린</strong> , <strong>클래스 올덴버그</strong> , <strong>포레스트 마이어스</strong> , <strong>앤디 워홀의</strong> 글이 새겨져 있었습니다.",
+      "caption1": "뉴욕 타임스 원본 기사에 나온 달 박물관 이미지. 엄지손가락이 워홀의 그림을 가린다.",
+      "paragraph2": "워홀의 도발적인 기여(왼쪽 위)로 인해 이 프로젝트는 당시 커뮤니케이션 매체에 대한 도전이 되었습니다.",
+      "caption2": "뉴욕 타임즈가 게재하기로 선택한 이미지로, 아래에 작품이 보이고 왼쪽 상단 모서리에 앤디 워홀의 그림이 있습니다."
+    },
+    "fallenAstronaut": {
+      "text": "<strong>1971</strong> 년, 아폴로 15호 우주비행사 <strong>데이비드 스콧</strong> 은 <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&#39;추락한 우주비행사&#39;</a></strong> 라는 이름의 작은 인간형 알루미늄 조각품을 달에 설치했습니다. 벨기에 예술가 <strong>폴 반 호이동크는</strong> 이 작품을 통해 우주 탐사의 발전 과정에서 목숨을 잃은 우주비행사들을 기리고자 했습니다.",
+      "caption": "해들리-아펜니노 착륙 지점의 달에 남겨진 기념패의 모습."
+    },
+    "pioneerVoyager": {
+      "text": "<strong>1970년대</strong> , <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">파이오니어 명판</a></strong> 과 <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">보이저 탐사선은</a></strong> 우주 예술의 새로운 지평을 열었습니다. 먼 미래에 지구를 발견할지도 모르는 다른 우주인들에게 지구에서 보내는 시각적 메시지를 담은 금도금 알루미늄 명판을 운반하며, 이 명판들은 인간 삶의 가장 근본적인 요소들을 묘사했습니다.",
+      "caption": "1970년대에 먼 우주로 운반된 파이어니어 10호와 11호의 기념패."
+    },
+    "dove": {
+      "text": "<strong>1990년</strong> , 브라질은 뛰어난 시적 힘을 지닌 독창적인 아마추어 위성 <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> 로 이 지역에 큰 족적을 남겼습니다. 비록 스스로를 예술가라고 생각하지 않았지만, 이 위성은 심오한 시적 시도였습니다. 평화를 기원하는 아이들의 목소리를 녹음하여 전 세계 2천 명이 넘는 아마추어 무선사에게 전송함으로써, 선구적인 큐브샛을 집단적인 사운드 작품으로 탈바꿈시켰습니다.",
+      "caption": "DOVE/OSCAR-17, 1990년 평화를 위한 어린이들의 목소리를 전송하는 브라질의 시적 위성."
+    },
+    "lastPictures": {
+      "text": "<strong>2012년</strong> , 예술가 <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">트레버 패글런은</a></strong> 정지 궤도에 있는 에코스타 XVI 통신 위성에 부착된 100장의 사진이 담긴 미세 에칭 디스크 <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;마지막 사진들(The Last Pictures)&quot;을</a></strong> 발사했습니다. 수십억 년 동안 지속되도록 설계된 이 디스크는 인류 문명보다 더 오래 지속될 것이며, 먼 미래의 고고학적 유물로 남을 것입니다.",
+      "caption": "인류보다 더 오래 지속되도록 설계된 미세 에칭 디스크인 '더 라스트 픽처스'는 2012년에 출시되었습니다."
+    },
+    "ulises": {
+      "text": "<strong>2015</strong> 년, 멕시코 우주 단체 콜렉티보 에스파시알 <strong>멕시카노(Colectivo Espacial Mexicano</strong> )는 예술가 후안 호세 디아스 인판테 카사수스 <strong>(Juan José Díaz Infante Casasús</strong> )의 감독 하에 개념 오페라 형태로 구상된 나노위성 <strong>울리세스 1호</strong> (Ulises I)를 발사했습니다. 이 위성은 과달라하라 축제 기간 동안 풍선을 타고 성층권까지 운반되었습니다. 약 4시간 후에 폭발하여 낙하산으로 하강하도록 설계되었습니다.",
+      "caption": "Colectivo Espacial Mexicano의 개념 위성 오페라 Ulises I."
+    },
+    "artsat": {
+      "text": "순수 예술 위성이 최초로 발사된 것은 <strong>2014년</strong> 이 되어서였습니다. 도쿄대학교의 <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 인베이더</a></strong> 프로젝트는 공간 데이터를 지구로 전송하여 미술 설치와 음악 창작에 활용했습니다.",
+      "caption1": "지구에 남아 있던 ARTSAT-1 인베이더 프레임워크와 예비 부품.",
+      "caption2": "미션 [SPACE x ART] - Beyond Cosmologies 전시, 도쿄 현대 미술관 개최"
+    },
+    "kac": {
+      "text": "브라질과 미국의 현대 미술가 <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">에두아르도 카츠는</a></strong> <strong>NASA</strong> 및 <strong>SpaceX</strong> 와의 협업을 통해 우주 예술에 기여해 왔습니다. 프랑스 우주인 <strong>토마 페스케</strong> 와 함께 제작한 그의 <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Inner Telescope&quot;</a></strong> ( <strong>2017</strong> )는 <strong>국제 우주 정거장</strong> 에서 제작된 조각품으로 탄생했습니다.",
+      "caption": "프랑스 우주인 토마 페스케와 함께 2017년에 만든 국제 우주 정거장의 내부 망원경."
+    },
+    "enoch": {
+      "text": "<strong>2018년</strong> , 예술 프로젝트로 제작된 수동 큐브샛이 궤도에 진입했습니다. 바하마의 개념 예술가 <strong>타바레스 스트라</strong> 찬이 개발한 <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">에녹에는</a></strong> 최초의 아프리카계 미국인 우주비행사 <strong>로버트 헨리 로렌스 주니어</strong> 의 흉상이 담긴 24캐럿 금 카노푸스 단지가 들어 있습니다.",
+      "caption": "에녹(전시실), 2015-2017. ⓒ 타바레스 스트라찬, 사진 ⓒ 뮤지엄 어소시에이츠/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "같은 해, <strong>트레버 페글렌의</strong> <strong>궤도 반사경(Orbital Reflector)</strong> 또한 작동하지 않는 큐브샛에 탑재된 조각품으로 발사되었습니다. 이 작품은 우리가 세상에서 우리의 위치를 바라보는 방식을 바꾸고자 하는 예술적 시도였습니다. 하지만 제대로 배치되지는 않았습니다. 비록 의도한 대로 발사되지는 않았지만, 전 세계 천문학자, 과학자, 언론, 교육자, 학생, 그리고 일반 대중으로부터 중요한 논의를 불러일으키고 열렬한 반응을 이끌어냈습니다. 이는 성공적인 예술이 반드시 기술적으로 성공할 필요는 없다는 것을 보여주었습니다.",
+      "caption": "2018년 궤도 반사경의 디지털 렌더링"
+    },
+    "others": {
+      "text": "우주 예술 분야에는 다른 많은 예술가들이 각자의 연구에 고유한 관점을 더해 기여해 왔습니다. 대표적인 프로젝트로는 <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">사라 제인 펠의</a></strong> 극한 환경에서의 인간 활동을 탐구하는 우주인 예술가 연구, <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">아그네스 마이어-브랜디스의</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">우주 탐사에 대한 역사적, 현대적 서사를 탐구하는 문 구스 아날로그</a></strong> 프로젝트, <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">나훔의</a></strong> 예술적 무중력 실험을 지원하는 <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">아스트로아트</a></strong> 프로그램, 그리고 1993년 미르 우주 정거장에 전시된 최초의 조각 작품인 <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">아서 우즈의</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">코스믹 댄서</a></strong> 조각 등이 있습니다."
+    },
+    "orbitalTemple": {
+      "text": "<strong>2025년</strong> , 브라질 예술가 <strong>에드손 파보니</strong> 와 여러 분야의 협업자들이 4년간의 연구와 개발을 거쳐 <strong>Orbital Temple을 발사할 예정입니다. Orbital Temple은</strong> 전 세계 누구나 이름을 궤도로 보내 국경을 초월한 근본적으로 포괄적인 기념관을 만드는 참여형 예술 위성입니다.",
+      "caption": "Mercosul Bienal의 궤도 사원. 사진: 클라라 마르케스"
+    }
+  },
+  "imageAlts": {
+    "leonov": "알렉세이 레오노프의 그림과 연필",
+    "moonMuseum": "문 박물관 세라믹 웨이퍼",
+    "moonMuseumWarhol": "모든 예술 작품을 보여주는 문 박물관 세라믹 웨이퍼",
+    "fallenAstronaut": "달에 있는 추락한 우주인 기념비",
+    "pioneerPlaques": "개척자 기념패",
+    "dove": "WHERE/OSCAR-17 위성",
+    "lastPictures": "The Last Pictures 디스크",
+    "ulises": "울리세스 1세 위성",
+    "artsatInvader": "ARTSAT-1 Invader 위성 구조",
+    "artsatArt": "ARTSAT-1 데이터로 생성된 아트워크",
+    "innerTelescope": "에두아르도 카츠의 내부 망원경",
+    "enoch": "타바레스 스트라칸의 ENOCH 디스플레이 장치",
+    "orbitalReflector": "트레버 패글렌의 궤도 반사경",
+    "orbitalTemple": "궤도 사원 위성"
+  }
+}

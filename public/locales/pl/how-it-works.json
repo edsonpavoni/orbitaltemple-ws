@@ -1,0 +1,8 @@
+{
+  "title": "Jak to działa - Orbital Temple",
+  "heading": "Jak to działa",
+  "intro": "Projekt Orbital Temple składa się z trzech powiązanych ze sobą elementów, które współpracując ze sobą, wysyłają nazwy do świątyni w kosmosie.",
+  "paragraph1": "Satelita krąży wokół Ziemi na wysokości około 525 km, zapisując nazwy w swojej pamięci. Stacje naziemne komunikują się z satelitą podczas przelotów, przesyłając nazwy przesłane przez użytkowników za pośrednictwem strony internetowej.",
+  "paragraph2": "Po przesłaniu imienia i nazwiska, zostanie ono umieszczone w kolejce i przesłane do satelity podczas najbliższego dostępnego przelotu. Otrzymasz potwierdzenie e-mailem, gdy Twoje imię i nazwisko zostanie pomyślnie przesłane do Świątyni Orbitalnej.",
+  "imageAlt": "Schemat układu świątyni orbitalnej"
+}

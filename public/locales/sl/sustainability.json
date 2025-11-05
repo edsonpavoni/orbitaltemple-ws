@@ -1,0 +1,44 @@
+{
+  "title": "Trajnost in vesoljski odpadki - Orbitalni tempelj",
+  "heading": "Trajnost",
+  "intro": {
+    "paragraph1": "Če nas umetnost želi voditi v prihodnost, ne sme prezreti kriz, s katerimi se soočamo – okoljskega kolapsa, družbene neenakosti in vse večjega izziva vesoljskih odpadkov. Orbitalni tempelj je zasnovan s temi realnostmi v mislih in si prizadeva biti odgovorna prisotnost tako na Zemlji kot v orbiti.",
+    "paragraph2": "Verjamemo, da trajnost ni omejitev, temveč bistveni del naše umetniške vizije. Vsaka odločitev o materialih, orbitah in delovanju odraža našo zavezanost, da Zemljo in vesolje pustimo v boljši obliki, kot smo ju našli."
+  },
+  "spaceDebris": {
+    "heading": "Vesoljski odpadki",
+    "paragraph1": "Vesoljski odpadki so eden najnujnejših izzivov, s katerimi se sooča raziskovanje vesolja. Okoli Zemlje kroži na tisoče nedelujočih satelitov in njihovih fragmentov, kar ogroža aktivne misije in ustvarja kaskadni učinek, zaradi katerega bi nekatere orbite lahko postale neuporabne.",
+    "paragraph2": "Orbitalni tempelj to obravnava na več načinov:",
+    "list": {
+      "orbit": "<strong>Sončno sinhrona orbita na 525 km:</strong> Ta višina zagotavlja, da bo naravni atmosferski upor povzročil, da se bo satelit v približno 10 letih vrnil v Zemljino atmosfero, kjer bo popolnoma zgorel. Ne prispevamo k dolgoročnim orbitalnim odpadkom.",
+      "size": "<strong>Zasnova PocketQube:</strong> S svojimi dimenzijami le 50 × 58 × 64 mm in težo 245 g je satelit dovolj majhen, da se med ponovnim vstopom v atmosfero popolnoma izhlapi, ne da bi na Zemljini površini pustil nobene delce.",
+      "responsibility": "<strong>Brez načrtovane zastarelosti:</strong> Za razliko od komercialnih satelitov, ki jih je mogoče opustiti, je Orbital Temple zasnovan tako, da se iz orbite umakne naravno, kar izpolnjuje mednarodne smernice za odgovorno vesoljsko dejavnost."
+    },
+    "paragraph3": "Z izbiro nizke Zemljine orbite in kompaktne zasnove zagotavljamo, da je prisotnost Orbital Temple v vesolju začasna in ne onesnažuje okolja."
+  },
+  "carbonNeutrality": {
+    "heading": "Ogljična nevtralnost",
+    "content": "Vse emisije ogljika, povezane z Orbitalnim templjem – vključno s proizvodnjo satelitov, izstrelitvijo, delovanjem zemeljske postaje, gostovanjem spletnih strani in potovanji ekipe – bodo v celoti izravnane s preverjenimi programi ogljičnih kreditov. Zavezani smo k podnebni nevtralnosti te misije."
+  },
+  "openSource": {
+    "heading": "Strojna oprema odprte kode",
+    "paragraph1": "Trajnost pomeni tudi, da ne zapravljamo znanja. Vsi tehnični vidiki Orbital Temple – sheme, koda, komunikacijski protokoli in metode gradnje – bodo objavljeni kot odprtokodna dokumentacija.",
+    "paragraph2": "To omogoča, da prihodnje misije gradijo na našem delu, namesto da začnejo iz nič, s čimer se zmanjša odvečna raziskava in razvoj. Demokratizira dostop do vesoljske tehnologije, zlasti za skupnosti na globalnem jugu, ki so bile zgodovinsko izključene iz raziskovanja vesolja."
+  },
+  "educational": {
+    "heading": "Izobraževalni vpliv",
+    "paragraph1": "Naš brezplačni večjezični izobraževalni program uči študente po vsem svetu, kako graditi in izstreljevati satelite, s poudarkom na globalnem jugu. Z opolnomočenjem naslednje generacije z vesoljskimi tehnologijami prispevamo k zapolnitvi \"vesoljske vrzeli\" in ustvarjanju priložnosti, ki sicer ne bi obstajale.",
+    "paragraph2": "To izobraževalno poslanstvo je samo po sebi oblika trajnosti – vlaganje v ljudi in skupnosti za ustvarjanje trajnih sprememb, ki presegajo življenjsko dobo satelita."
+  },
+  "tenYear": {
+    "heading": "Desetletna misija",
+    "paragraph1": "Orbitalni tempelj je zasnovan za desetletno misijo in ne za kratkotrajno reklamno potezo. V desetih letih bo satelit približno 50.000-krat obkrožil Zemljo, pri čemer bo dobil imena in služil kot opomnik, da je vesolje lahko skupno dobro, dostopno vsem.",
+    "paragraph2": "Po zaključku misije bo satelit naravno izstopil iz orbite in zgorel, ne da bi pustil sledi, razen v spominih in dokumentaciji tistih, ki so sodelovali."
+  },
+  "artsResponsibility": {
+    "heading": "Odgovornost umetnosti",
+    "paragraph1": "Umetnost je vedno bila ogledalo svojega časa, odražala je naše vrednote in težnje. V dobi podnebne krize in naraščajoče neenakosti verjamemo, da imajo umetniki odgovornost ustvarjati dela, ki se teh vprašanj ne le odzovejo, temveč jih aktivno obravnavajo.",
+    "paragraph2": "Orbitalni tempelj je naš poskus ustvarjanja umetniškega dela, ki je radikalno v svoji vključujočem pristopu, odgovorno v svojem vplivu na okolje in radodarno pri deljenju svojega znanja s svetom. To je umetnost, ki vabi vse k sodelovanju, hkrati pa spoštuje krhke sisteme – okoljske in orbitalne – ki omogočajo življenje in raziskovanje."
+  },
+  "imageAlt": "Orbitalni tempeljni satelit"
+}

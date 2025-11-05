@@ -1,0 +1,8 @@
+{
+  "title": "Cómo funciona - Templo Orbital",
+  "heading": "Cómo funciona",
+  "intro": "El proyecto del Templo Orbital consta de tres elementos interconectados que trabajan juntos para enviar nombres al templo en el espacio.",
+  "paragraph1": "El satélite orbita la Tierra a una altitud aproximada de 525 km, almacenando los nombres en su memoria. Las estaciones terrestres se comunican con el satélite durante sus pasadas, transmitiendo los nombres que las personas han enviado a través del sitio web.",
+  "paragraph2": "Al enviar un nombre, este se añade a una cola y se transmitirá al satélite en el próximo paso disponible. Recibirás un correo electrónico de confirmación cuando tu nombre se haya cargado correctamente al Templo Orbital.",
+  "imageAlt": "Diagrama del sistema de templos orbitales"
+}

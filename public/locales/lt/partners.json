@@ -1,0 +1,50 @@
+{
+  "title": "Partneriai – Orbitinė šventykla",
+  "heading": "Partneriai",
+  "intro": "Orbitinė šventykla egzistuoja dėl nepaprastų partnerių dosnumo, patirties ir vizijos. Nuo palydovų inžinerijos iki istorijų kūrimo, nuo durų atvėrimo tolimose žemėse iki svajonių liejimo auksu – kiekvienas bendradarbiavimas priartina šią šventyklą prie žvaigždžių.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY ir partneriai",
+      "description": "Bendravimas, integruota patirtis ir stulbinantys 3D vaizdai, kurie įkūnijo palydovo viziją dar prieš jam pasiekiant kosmoso tuštumą."
+    },
+    "highestMantra": {
+      "name": "Mūsų aukščiausia mantra",
+      "description": "Sathi Roy vadovaujamas projektas sujungia Orbitalinę šventyklą su Indijos dvasinėmis ir meninėmis bendruomenėmis. Atveria kelius lėšų rinkimui, kultūriniams mainams ir Art Basel parodai po jos atidarymo 2025 m. lapkritį."
+    },
+    "allToSpace": {
+      "name": "Viskas į kosmosą",
+      "description": "Brazilijos mažųjų palydovų specialistai. Ketveri metai bendradarbiavimo kuriant atvirojo kodo techninės įrangos platformą ir pradedant meno kūrinių siuntimą į orbitą iš Pietų pasaulio."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indijos kosmoso tyrimų organizacija. PSLV misijos, kuri 2025 m. lapkritį iškels Orbitinę šventyklą į Saulės sinchroninę orbitą, paleidimo paslaugų teikėja."
+    },
+    "mercosul": {
+      "name": "13-oji Mercosur bienalė",
+      "description": "Porto Alegrė, Brazilija. Kuruoja Marcello Dantas su kuratorėmis Laura Cattani, Munir Klamt, Tarsila Riso ir Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat seminaras",
+      "description": "Palydovų kūrimo komanda susiformavo II ArtSat seminaro metu. Koordinavo Fabiane M. Borges, instruktavo Lázaro Camargo, bendradarbiavo Ítalo Pinto Rodrigues, prižiūri Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Tvirtos koncepcijos",
+      "description": "Vadovauja Eduardo Dias. Visi skulptūrinio kupolo 3D spausdinimo ir aukso mikroliejimo darbai, skaitmenines svajones paverčiantys tauriųjų metalų realybe."
+    },
+    "ideaSpace": {
+      "name": "Idėjų erdvė",
+      "description": "Brazilijos švietimo startuolis, kuriantis „Quebrada Space“ programos mokymo programą, kuri bus paruošta taikyti vidurinių mokyklų mokiniams visoje Brazilijoje."
+    }
+  },
+  "closing": "Domina partnerystė su „Orbital Temple“? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Susisiekite</a> .",
+  "imageAlts": {
+    "riseNy": "„RiseNY&Partners“ logotipas",
+    "highestMantra": "Mūsų aukščiausios mantros logotipas",
+    "allToSpace": "„All to Space“ logotipas",
+    "isro": "ISRO logotipas",
+    "mercosul": "13-osios Mercosur bienalės logotipas",
+    "inpe": "INPE ArtSat dirbtuvių logotipas",
+    "solidConcepts": "„Solid Concepts“ logotipas",
+    "ideaSpace": "Idėjų erdvės logotipas"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Kosminis paleidimas – Orbitinė šventykla",
+  "heading": "Kosminis paleidimas",
+  "intro": "Orbitinė šventykla planuojama paleisti PSLV (poliarinės palydovų paleidimo raketa) 2025 m. lapkričio 28 d. iš Satish Dhawan kosmoso centro Sriharikotoje, Indijoje.",
+  "partnership": "Orbitinės šventyklos paleidimas yra Indijos vyriausybės bendrovės prie Kosmoso departamento „NewSpace India Limited“ (NSIL), „Antrix Corporation“ ir menininko partnerystė. Šis bendradarbiavimas yra svarbus kosmoso tyrinėjimų meno etapas, sujungiantis Indijos kosmoso programą su radikalaus įtraukumo menine vizija.",
+  "risks": {
+    "heading": "Rizika",
+    "paragraph1": "Palydovas buvo sukurtas taip, kad atlaikytų ekstremalias vibracijos sąlygas ir terminius ciklus, ir buvo griežtai išbandytas. Tačiau kosminiai paleidimai yra susiję su neišvengiama rizika. Jei palydovas būtų pažeistas paleidimo ar dislokavimo metu arba jei jam nepavyktų užmegzti ryšio su mūsų antžeminėmis stotimis, mes stengsimės pašalinti triktis ir išspręsti visas problemas. Palydovas turi atsargines sistemas ir atsarginius protokolus, sukurtus siekiant maksimaliai padidinti misijos sėkmės tikimybę.",
+    "paragraph2": "Be to, palydovas gali išbūti orbitoje trumpiau nei 10 metų, jei atmosferos sąlygos ar kiti veiksniai sukels ankstesnį orbitos suirimą. Nors jį suprojektavome taip, kad jis tarnautų bent dešimtmetį, tikroji jo eksploatavimo trukmė priklauso nuo sąlygų, kurių negalime visiškai kontroliuoti.",
+    "paragraph3": "Jei pirmasis paleidimas nepavyks arba jei negalėsime įvykdyti šios misijos taip, kaip planuota, nagrinėsime alternatyvius kelius, galbūt įtraukdami antrąjį paleidimo bandymą su turimu biudžetu, partnerystę su kitomis misijomis arba bandymo dokumentavimą kaip meno kūrinio pasakojimo apie siekius ir apribojimus dalį."
+  },
+  "imageAlts": {
+    "india": "ISRO kosmoso centras, Indija",
+    "satellite": "Orbitinės šventyklos palydovas"
+  }
+}

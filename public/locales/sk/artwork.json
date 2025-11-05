@@ -1,0 +1,31 @@
+{
+  "title": "Umelecké dielo - Orbitálny chrám",
+  "heading": "Umelecké dielo",
+  "intro": {
+    "paragraph1": "Orbitálny chrám je satelit s umeleckým poslaním: pamätník vo vesmíre otvorený každej vnímajúcej bytosti, ktorá žije alebo žila na Zemi.",
+    "paragraph2": "Prostredníctvom technologických prostriedkov môže ktokoľvek poslať do Chrámu meno niekoho, či už niekoho, kto zomrel, človeka, ktorý je stále nažive, alebo akejkoľvek bytosti, ktorá si zaslúži byť pripomenutá."
+  },
+  "sculpture": {
+    "heading": "Socha",
+    "paragraph1": "Umelecké dielo má tri vzájomne závislé prvky: satelit špeciálne navrhnutý na ukladanie miliárd mien; verejnú sochu, ktorá si vymieňa informácie so satelitom; a webovú stránku, prostredníctvom ktorej účastníci posielajú mená do neba odteraz až do svojej smrti.",
+    "paragraph2": "Ako multidisciplinárny projekt možno Orbital Temple považovať za sochu špecifickú pre dané miesto, ktorá obýva priestor. Je to tiež projekt Artsat."
+  },
+  "antenna": {
+    "heading": "Anténa ako verejná socha",
+    "paragraph1": "Anténa, ktorá nás spája s vesmírom.",
+    "paragraph2": "Navrhuje sa anténa, ktorá bude v priamom spojení s orbitálnym satelitom.",
+    "paragraph3": "So zlatým reflexným povrchom, ktorý odráža oblohu nad ním, je východiskovým bodom pre masovú stimuláciu (alebo náš vzťah k tomu, čo je „tam hore“).",
+    "paragraph4": "Hoci sochy nie sú nainštalované vo väčšine častí sveta, naše zariadenia Frames from Earth, ktoré v súčasnosti ovládajú satelit, posielajú ich mená pri každom prelete.",
+    "paragraph5": "Pomôžte priniesť túto víziu do vášho mesta – inštalujte anténne sochy, ktoré inšpirujú diskusie o prieskume vesmíru, umení a našom spoločnom mieste vo vesmíre. <a href=\"/support\">Získajte viac informácií o podpore projektu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbitálny chrámový satelit",
+    "riseNy": "Orbitálny chrám v Rise, NY",
+    "installation": "Orbitálny chrám od Clary Marquesovej",
+    "antenna": "Orbitálna chrámová anténa"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitálny chrám vo vesmíre. 3D vykreslenie od RiseNY&Partners.",
+    "mercosul": "Inštalácia Orbitálneho chrámu na bienále Mercosul v Porto Alegre v Brazílii.<br> Fotografia od Clary Marquesovej."
+  }
+}

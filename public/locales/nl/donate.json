@@ -1,0 +1,31 @@
+{
+  "title": "Doneer aan Orbital Temple",
+  "heading": "Maak uw donatie compleet",
+  "donatingTo": "U doneert aan:",
+  "chooseHow": "Kies hoe u uw belastingaftrekbare donatie wilt voltooien:",
+  "option1": {
+    "heading": "Optie 1: Doneer nu online",
+    "description": "Betaal direct met uw creditcard, betaalpas of andere online betaalmethoden via onze beveiligde financiële sponsor, <strong>The Field</strong> . U ontvangt direct een belastingbewijs.",
+    "button": "Doneer via The Field →"
+  },
+  "option2": {
+    "heading": "Optie 2: Bankstorting bij The Roy Foundation",
+    "description": "Doe een directe bankstorting of overschrijving naar <strong>The Roy Foundation</strong> , onze strategische partner en fiscale sponsor. Deze optie is ideaal voor grotere donaties of internationale overschrijvingen.",
+    "bankingInfo": "Bankgegevens",
+    "fields": {
+      "accountName": "Accountnaam:",
+      "bankName": "Banknaam:",
+      "accountNumber": "Rekeningnummer:",
+      "routingNumber": "Routingnummer:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referentie:"
+    },
+    "instructions": "Vermeld &quot; <strong>Orbital Temple - {donationType}</strong> &quot; in het referentieveld. Nadat u uw overschrijving heeft voltooid, kunt u ons een e-mail sturen op <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> met uw overschrijvingsgegevens om uw belastingbewijs te ontvangen.",
+    "button": "Neem contact met ons op over storten →"
+  },
+  "taxInfo": {
+    "heading": "Belastingaftrekbare giften",
+    "description": "Orbital Temple is een fiscaal gesponsord project van <strong>The Field (Performance Zone Inc.)</strong> , een non-profitorganisatie <strong>met 501(c)(3)</strong> -status. Alle Amerikaanse bijdragen zijn fiscaal aftrekbaar voor zover wettelijk toegestaan.",
+    "questions": "Vragen? Neem contact met ons op via <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

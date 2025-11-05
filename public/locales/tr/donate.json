@@ -1,0 +1,31 @@
+{
+  "title": "Orbital Temple'a bağış yapın",
+  "heading": "Bağışınızı Tamamlayın",
+  "donatingTo": "Şuraya bağış yapıyorsunuz:",
+  "chooseHow": "Vergi indirimine tabi bağışınızı nasıl tamamlamak istediğinizi seçin:",
+  "option1": {
+    "heading": "Seçenek 1: Şimdi Çevrimiçi Bağış Yapın",
+    "description": "Güvenli mali sponsorumuz <strong>The Field</strong> aracılığıyla kredi kartı, banka kartı veya diğer çevrimiçi ödeme yöntemlerini kullanarak bağışınızı hemen tamamlayın. Anında vergi makbuzunuzu alacaksınız.",
+    "button": "The Field aracılığıyla bağış yapın →"
+  },
+  "option2": {
+    "heading": "Seçenek 2: Roy Vakfı'na Banka Mevduatı",
+    "description": "Stratejik ortağımız ve mali sponsorumuz olan <strong>Roy Vakfı&#39;na</strong> doğrudan banka havalesi veya banka havalesi yoluyla bağışta bulunabilirsiniz. Bu seçenek, büyük bağışlar veya uluslararası transferler için idealdir.",
+    "bankingInfo": "Bankacılık Bilgileri",
+    "fields": {
+      "accountName": "Hesap Adı:",
+      "bankName": "Banka Adı:",
+      "accountNumber": "Hesap Numarası:",
+      "routingNumber": "Yönlendirme Numarası:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referans:"
+    },
+    "instructions": "Lütfen referans alanına &quot; <strong>Orbital Temple - {donationType}</strong> &quot; yazın. Transferinizi tamamladıktan sonra, vergi makbuzunuzu almak için transfer bilgilerinizle birlikte <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> adresine e-posta gönderin.",
+    "button": "Mevduat Hakkında Bizimle İletişime Geçin →"
+  },
+  "taxInfo": {
+    "heading": "Vergiden Düşülebilir Bağış",
+    "description": "Orbital Temple, <strong>501(c)(3)</strong> kar amacı gütmeyen bir kuruluş olan <strong>The Field&#39;ın (Performance Zone Inc.)</strong> mali olarak desteklediği bir projedir. ABD&#39;deki tüm bağışlar, yasaların izin verdiği ölçüde vergi indirimine tabidir.",
+    "questions": "Sorularınız mı var? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> adresinden bize ulaşın."
+  }
+}

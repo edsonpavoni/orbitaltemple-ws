@@ -1,0 +1,50 @@
+{
+  "title": "Partnerji - Orbitalni tempelj",
+  "heading": "Partnerji",
+  "intro": "Orbitalni tempelj obstaja zaradi velikodušnosti, strokovnega znanja in vizije izjemnih partnerjev. Od inženiringa satelitov do ustvarjanja zgodb, od odpiranja vrat v oddaljene dežele do ulivanja sanj v zlato, vsako sodelovanje ta tempelj približa zvezdam.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikacija, integrirane izkušnje in osupljive 3D-slike, ki so oživile vizijo satelita, še preden se je dotaknil praznine vesolja."
+    },
+    "highestMantra": {
+      "name": "Naša najvišja mantra",
+      "description": "Pod vodstvom Sathi Roy povezuje Orbitalni tempelj z indijskimi duhovnimi in umetniškimi skupnostmi. Odpira poti do zbiranja sredstev, kulturne izmenjave in razstave Art Basel po otvoritvi novembra 2025."
+    },
+    "allToSpace": {
+      "name": "Vse v vesolje",
+      "description": "Brazilski specialisti za male satelite. Štiri leta sodelovanja pri gradnji odprtokodne strojne platforme in pionirskem postopku pošiljanja umetnosti v orbito z globalnega juga."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indijska organizacija za vesoljske raziskave. Izstrelitveni ponudnik za misijo PSLV, ki bo Orbital Temple novembra 2025 ponesla v sončno sinhrono orbito."
+    },
+    "mercosul": {
+      "name": "13. bienale Mercosurja",
+      "description": "Porto Alegre, Brazilija. Kustosi Marcello Dantas s pomočniki kustosov Laura Cattani, Munir Klamt, Tarsila Riso in Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Delavnica INPE / ArtSat",
+      "description": "Skupina za razvoj satelitov je nastala med II ArtSat delavnico. Koordinira Fabiane M. Borges, inštruira Lázaro Camargo, sodeluje Ítalo Pinto Rodrigues, nadzoruje Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Trdni koncepti",
+      "description": "Vodil ga je Eduardo Dias. Vsa dela na 3D-tiskanju in mikrolitju zlata za kiparsko kupolo spreminjajo digitalne sanje v resničnost iz plemenitih kovin."
+    },
+    "ideaSpace": {
+      "name": "Prostor idej",
+      "description": "Brazilsko zagonsko podjetje za izobraževalni program razvija učni načrt vesoljskega programa Quebrada, pripravljen za uporabo pri srednješolcih po vsej Braziliji."
+    }
+  },
+  "closing": "Vas zanima sodelovanje z Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Stopite v stik z nami</a> .",
+  "imageAlts": {
+    "riseNy": "Logotip RiseNY&Partners",
+    "highestMantra": "Logotip naše najvišje mantre",
+    "allToSpace": "Logotip Vse v vesolje",
+    "isro": "Logotip ISRO",
+    "mercosul": "Logotip 13. bienala Mercosurja",
+    "inpe": "Logotip delavnice INPE ArtSat",
+    "solidConcepts": "Logotip podjetja Solid Concepts",
+    "ideaSpace": "Logotip prostora za ideje"
+  }
+}

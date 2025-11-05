@@ -1,0 +1,61 @@
+{
+  "title": "Team - Tempio Orbitale",
+  "heading": "Squadra",
+  "artist": "Edson Pavoni, artist",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Produttore esecutivo",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Ingegneria aerospaziale e dei sistemi",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ingegneria elettronica",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Design e architettura",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Stampa 3D",
+      "members": "Solid Concepts, sotto la guida di Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rendering 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Ricerca",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produzione di mostre, fotografia e creazione di contenuti",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Serigrafia della mostra",
+      "members": "Dafne Alves"
+    },
+    "educational": {
+      "heading": "Progetto educativo",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Team di comunicazione",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Ringraziamenti speciali",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satellite del tempio orbitale"
+}

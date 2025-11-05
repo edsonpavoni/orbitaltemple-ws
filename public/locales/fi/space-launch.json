@@ -1,0 +1,16 @@
+{
+  "title": "Avaruuslaukaisu - Orbitaalinen temppeli",
+  "heading": "Avaruuslaukaisu",
+  "intro": "Kiertoradan temppeli on määrä laukaista PSLV:llä (Polar Satellite Launch Vehicle) 28. marraskuuta 2025 Satish Dhawanin avaruuskeskuksesta Sriharikotasta, Intiasta.",
+  "partnership": "Orbitaalitemppelin laukaisu on Intian avaruusministeriön alaisen NewSpace India Limitedin (NSIL) ja Antrix Corporationin sekä taiteilijan yhteistyöhanke. Tämä yhteistyö on merkittävä virstanpylväs avaruustutkimuksen taiteelle, sillä se yhdistää Intian avaruusohjelman radikaalin osallistavuuden taiteelliseen visioon.",
+  "risks": {
+    "heading": "Riskit",
+    "paragraph1": "Satelliitti on rakennettu kestämään äärimmäisiä tärinäolosuhteita ja lämpötilavaihteluita, ja se on käynyt läpi tiukat testit. Avaruuslaukaisuihin liittyy kuitenkin luonnostaan riskejä. Jos satelliitti vaurioituu laukaisun tai käyttöönoton aikana tai jos se ei saa yhteyttä maa-asemiimme, pyrimme vianmääritykseen ja mahdollisten ongelmien ratkaisemiseen. Satelliitissa on redundantteja järjestelmiä ja varaprotokollia, jotka on suunniteltu maksimoimaan tehtävän onnistumisen mahdollisuudet.",
+    "paragraph2": "Lisäksi satelliitti voi pysyä kiertoradalla alle 10 vuotta, jos ilmakehän olosuhteet tai muut tekijät aiheuttavat kiertoradan aikaisemman hajoamisen. Vaikka olemme suunnitelleet sen kestävän vähintään vuosikymmenen, todellinen käyttöikä riippuu olosuhteista, joita emme voi täysin hallita.",
+    "paragraph3": "Jos ensimmäinen laukaisu epäonnistuu tai jos emme pysty suorittamaan tätä tehtävää suunnitellusti, tutkimme vaihtoehtoisia etenemistapoja, mahdollisesti mukaan lukien toisen laukaisuyrityksen käytettävissä olevalla budjetilla, kumppanuuden muiden tehtävien kanssa tai yrityksen dokumentoinnin osana taideteoksen kertomusta pyrkimyksistä ja rajoituksista."
+  },
+  "imageAlts": {
+    "india": "ISRO-avaruuskeskus, Intia",
+    "satellite": "Orbitaalisen temppelin satelliitti"
+  }
+}

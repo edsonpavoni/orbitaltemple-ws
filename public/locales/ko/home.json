@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Orbital Temple",
-    "subtitle": "is an artwork and a satellite,\naiming to be a radical inclusive temple,\nin a place where no wall can reach."
-  },
-  "cta": {
-    "link": "Yet, another temple?",
-    "arrowAlt": "arrow"
-  },
-  "dome": {
-    "alt": "Dome"
+    "title": "오비탈 템플",
+    "subtitle": "예술 작품이자 위성이며,\n어떤 벽도 닿을 수 없는 곳에 급진적이고 포용적인 사원이 되는 것을 목표로 합니다."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "의례"
+  },
+  "cta": {
+    "link": "또 다른 사원이요?",
+    "arrowAlt": "화살"
+  },
+  "dome": {
+    "alt": "둥근 천장"
   }
 }

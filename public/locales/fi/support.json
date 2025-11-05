@@ -1,0 +1,167 @@
+{
+  "title": "Tue Orbital Templeä - Liity mukaan tehtävään",
+  "heading": "Tue Orbital Templeä",
+  "vision": "<strong>Orbital Temple</strong> laukaistaan <strong>Intiasta</strong> <strong>ISRO-</strong> raketilla <strong>28. marraskuuta 2025.</strong> Se on osallistava taidesatelliitti etelästä, radikaalin osallisuuden muistomerkki, koulutusalusta ja katalysaattori globaalille keskustelulle pyhän tulevaisuudesta teknologian, tekoälyn ja avaruustutkimuksen aikakaudella.",
+  "videoCaption": "Orbitaalitemppelin videoesittely, 1 min.",
+  "accomplished": {
+    "heading": "Mitä olemme saavuttaneet",
+    "content": "Neljän vuoden tutkimus- ja kehitystyön jälkeen tehtävä on valmis. Olemme saaneet satelliitin <strong>laitteisto- ja ohjelmistokehityksen</strong> päätökseen, läpäisseet lentohyväksyntää varten vaadittavat <strong>viralliset ravistelutestit</strong> ja saaneet päätökseen sopimuksemme ISRO:n kanssa. Satelliitti on rakennettu. Teknologia toimii. Laukaisu on sallittu."
+  },
+  "funding": {
+    "heading": "Rahoituksen edistyminen",
+    "raised": "kasvatettu",
+    "of": "jostakin",
+    "goal": "tavoite",
+    "button": "Tue tehtävää"
+  },
+  "needs": {
+    "heading": "Mihin tarvitsemme tukea",
+    "intro": "Tämän historiallisen tehtävän suorittamiseksi ja sen vaikutuksen maksimoimiseksi tarvitsemme tukea viidelle kriittiselle osa-alueelle:",
+    "launch": {
+      "title": "ISRO:n laukaisukustannukset:"
+    },
+    "travel": {
+      "title": "Taiteilijan matka Intiaan:"
+    },
+    "carbon": {
+      "title": "Hiilidioksidipäästöjen kompensointiohjelma:"
+    },
+    "education": {
+      "title": "Koulutusohjelma:"
+    },
+    "docPreProd": {
+      "title": "Dokumentin esituotanto:"
+    },
+    "docProd": {
+      "title": "Dokumenttituotanto:"
+    }
+  },
+  "decade": {
+    "heading": "Edessä oleva vuosikymmen",
+    "intro": "Tämä tehtävä ei pääty 28. marraskuuta 2025. Se on vasta alku.",
+    "paragraph1": "Seuraavat <strong>10 vuotta</strong> tämä satelliitti kiertää Maata ja vastaa planeetan joka kolkasta lähetettyihin nimiin. Koulutusohjelman tavoitteena on kouluttaa <strong>tuhansia teini-ikäisiä</strong> satelliittiteknologiassa ja murtaa näin etelän <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">avaruusaukko</a> . Dokumentti tavoittaa <strong>miljoonia ihmisiä</strong> maailmanlaajuisesti ja herättää keskustelua yhteenkuuluvuudesta, muistamisesta ja pyhästä.",
+    "paragraph2": "Orbital Temple tekee yhteistyötä <strong>Sathi Royn</strong> ja <strong>Roy-säätiön</strong> kanssa tehdäkseen tästä vuosikymmenen mittaisesta visiosta kulttuurisesti merkittävän. Roy-säätiö on voittoa tavoittelematon järjestö, joka on omistautunut laajentamaan henkisen koulutuksen, emotionaalisen parantamisen ja tietoisuustyökalujen saatavuutta alipalvelluille yhteisöille maailmanlaajuisesti yhdistäen muinaisen viisauden ja modernin teknologian luodakseen tietoisemman, verkostoituneemman ja myötätuntoisemman maailman. Yhdessä rakennamme infrastruktuuria varmistaaksemme, että Orbital Temppelistä tulee kestävä liike, joka tavoittaa yhteisöjä ympäri maailmaa.",
+    "paragraph3": "Tukesi ei rahoita vain laukaisua; se luo liikkeen, joka kaikuu vuosikymmenen ajan ja inspiroi seuraavan sukupolven avaruustaiteilijoita ja -insinöörejä."
+  },
+  "waysToSupport": {
+    "heading": "Tukikeinot",
+    "individualDonations": {
+      "heading": "Yksityiset lahjoitukset",
+      "intro": "Liity mukaan missioon sinulle sopivalla tasolla. Yksittäiset tukijat ovat tämän historiallisen projektin perusta.",
+      "orbitalFriend": {
+        "title": "Orbitaaliystävä",
+        "benefits": "Saat: Nimen verkkosivuston kunnialistalla · Henkilökohtaisen kiertoratatodistuksen satelliitin laukaisun yhteydessä · Kiitoshyvityksen · Verovähennyskelpoisen kuitin",
+        "button": "Tee verovähennyskelpoinen lahjoitus"
+      },
+      "satelliteSupporter": {
+        "title": "Satelliittitukija",
+        "benefits": "Saat: Kaikki Orbital Friend -edut · Ainutlaatuisen satelliittiseurantasovelluksen käyttöoikeuden · Artistin kiitosvideoviestin · Verovähennyskelpoisen kuitin",
+        "button": "Tee verovähennyskelpoinen lahjoitus"
+      },
+      "spaceAdvocate": {
+        "title": "Avaruusasianajaja",
+        "benefits": "Saat: Kaikki satelliittitukijan edut · Nimi painettuna asiakirjojen luottotiedoissa · Kutsu yksityiseen asiakirjojen näytökseen · Neljännesvuosittaiset päivitykset tiimiltä · Verovähennyskelpoinen kuitti",
+        "button": "Tee verovähennyskelpoinen lahjoitus"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Rahoita tiettyä komponenttia",
+    "intro": "Lahjoituksesi rahoittaa suoraan tiettyjä hankkeen osa-alueita. Valitse se, mikä puhuttelee sinua, tai yhdistä useita luodaksesi suuremman vaikutuksen.",
+    "launch": {
+      "title": "Rahoita avaruuslaukaisua",
+      "description": "<strong>ISRO-</strong> raketin laukaisun todelliset kustannukset <strong>28. marraskuuta 2025.</strong> Tämä lähettää Orbital Templen kiertoradalle, missä se pysyy vuosikymmenen ajan osallistavana taidesatelliittina ja taivaallisena temppelinä, johon kuka tahansa voi päästä maailmassa.",
+      "benefits": "Saat: \"Laukaisusponsorin\" tittelin · Esittelyssä kaikissa lehdistötiedotteissa · Dokumenttielokuvan tunnustus ruudulla · VIP-pääsyn laukaisutapahtumiin · Osallistu neljännesvuosittaisiin videopuheluihin Edsonin ja missiotiimin kanssa · Todistuksen, joka sisältää satelliitin kiertoratatiedot · Verovähennyskelpoisen kuitin",
+      "button": "Tee verovähennyskelpoinen lahjoitus"
+    },
+    "travel": {
+      "title": "Rahoita taiteilijan matkaa Intiaan",
+      "description": "Taiteilija Edson Pavonin ja hänen ydintiiminsä matka-, majoitus- ja tuotantokulut lanseerausta <strong>Intiassa 28. marraskuuta 2025</strong> todistamassa. Tämä matka on välttämätön dokumenttielokuvien kuvaamisen, medianäkyvyyden ja globaalin etelän edustamisen kannalta tänä historiallisena hetkenä.",
+      "benefits": "Saat: Henkilökohtaisen kiitoksen taiteilijalta · Pääsy kulissien taakse -dokumenttiin · Nimi dokumenttien luottotiedoissa · Verovähennyskelpoinen kuitti",
+      "button": "Tee verovähennyskelpoinen lahjoitus"
+    },
+    "carbon": {
+      "title": "Rahoita hiilidioksidipäästöjen kompensointiohjelmaa",
+      "description": "Kaikki hiilidioksidipäästöt neutraloidaan, mukaan lukien raketin laukaisu ja satelliitin rakentaminen. Työskentelemme varmennettujen hiilidioksidipäästöjen kompensointiohjelmien kanssa varmistaaksemme, ettei tämä hanke jätä negatiivista ympäristöjalanjälkeä.",
+      "benefits": "Saat: Nimen verkkosivuston kunnialuettelossa · Henkilökohtaisen todistuksen · Verovähennyskelpoisen kuitin",
+      "button": "Tee verovähennyskelpoinen lahjoitus"
+    },
+    "education": {
+      "title": "Rahoita koulutusohjelmaa",
+      "description": "Kehittää ja käynnistää kattavan monikielisen kurssin, jolla opetetaan etelän teini-ikäisille satelliittien rakentamista. Sisältää opetussuunnitelman kehittämisen, videotuotannon, alustan ylläpidon ja ensimmäisen vuoden apurahat heikommassa asemassa oleville opiskelijoille. Luo kestävän infrastruktuurin avaruusopetukselle.",
+      "benefits": "Saat: \"Koulutuksen perustajasponsori\" -tunnustuksen · Nimellesi myönnettyjä stipendejä · Esittelyä koulutusmateriaaleissa · Tapaa ensimmäinen stipendisi rahoittama opiskelijaryhmä (virtuaalisesti tai henkilökohtaisesti) · Dokumenttielokuvasegmentti · Puhumismahdollisuuden lanseeraustilaisuuksissa · Verovähennyskelpoisen kuitin",
+      "button": "Tee verovähennyskelpoinen lahjoitus"
+    },
+    "docPreProd": {
+      "title": "Rahoita dokumentin esituotantoa",
+      "description": "Rahoita <strong>&quot;Mikä tekee temppelistä?&quot;</strong> -dokumentin alkuvaihe. Sisältää kaksi syvähaastattelua <strong>Intiassa</strong> ajatusjohtajien ja hengellisten toimijoiden kanssa, pienen kuvausryhmän matkat ja tuotannon sekä esituotantomateriaalin editoinnin. Tämä vaihe luo pohjan dokumentille ja vahvistaa sen luovan suunnan.",
+      "benefits": "Saat: Aputuottajan nimen · Dokumenttielokuvan lopputekstien yhteydessä maininnan · Esituotantomateriaalin yksityisnäytöksen · Kulissien taakse -pääsyn · Verovähennyskelpoisen kuitin",
+      "button": "Tee verovähennyskelpoinen lahjoitus"
+    },
+    "docProd": {
+      "title": "Rahoita dokumenttituotantoa",
+      "description": "<strong>&quot;Mikä tekee temppelistä?&quot;</strong> -dokumentin täydellinen tuotanto ja jälkituotanto. Dokumentti käsittelee taiteen, teknologian ja pyhän yhtymäkohtia. Sisältää kuvauksia useissa maissa, lisähaastatteluja ajatusjohtajien kanssa, kattavan editoinnin, värimäärittelyn, äänisuunnittelun ja ensi-illat <strong>Intiassa</strong> ja <strong>New Yorkissa</strong> .",
+      "benefits": "Saat: Vastaavan tuottajan tunnustuksen · Esiintyminen alkuteksteissä · Yksityisnäytös vieraillesi · Kutsut maailmanensi-iltaan (molemmissa kaupungeissa) · Yksityisillallinen Edsonin ja dokumenttiohjaajan kanssa ennen ensi-iltaa · Pääsy kulissien taakse · Verovähennyskelpoinen kuitti",
+      "button": "Tee verovähennyskelpoinen lahjoitus"
+    },
+    "artCollector": {
+      "title": "Ryhdy ainoaksi Orbitaalitemppelin taidekeräilijäksi",
+      "imageAlt": "Orbitaalitemppelin installaatio Mercosulin biennaalissa",
+      "imageCaption": "Orbital-temppeli 13. Mercosul-biennaalissa Porto Alegressa. Kuva Clara Marques.",
+      "paragraph1": "Tätä tehtävää varten rakennettiin kolme identtistä satelliittia. <strong>Yksi</strong> laukaistaan avaruuteen 28. marraskuuta 2025. <strong>Yksi</strong> kiertää museonäyttelyissä ympäri maailmaa. <strong>Yksi</strong> on varattu anteliaalle keräilijälle, joka haluaa rahoittaa tämän vision ja omistaa palan avaruustaidehistoriaa.",
+      "paragraph2": "Tämä ei ole kopio; se on yksi kolmesta alkuperäisestä satelliitista. Täysin <strong>toimiva avaruusalus</strong> , joka on myös <strong>veistos</strong> . Satelliitin mitat ovat <strong>5 cm³</strong> ja paino <strong>245 g</strong> , ja sen kupu on tehty <strong>kullasta</strong> .",
+      "paragraph3": "Tämä on <strong>1/1-taideteos</strong> .",
+      "paragraph4": "Keräilijänä saat saman installaation, joka luotiin <strong>13. Mercosulin biennaalille</strong> . Kyseessä on täydellinen museologinen näyttely, joka esittelee satelliittia sekä taiteena että teknologiana. Installaatiota on esitelty merkittävillä kansainvälisillä tapahtumapaikoilla, ja se edustaa avaruustaiteen esittelyn korkeinta tasoa.",
+      "paragraph5": "Tukesi auttaa rahoittamaan koko vision: laukaisun, koulutusohjelman ja dokumentin, joka herättää maailmanlaajuista keskustelua pyhyydestä teknologian, tekoälyn ja avaruustutkimuksen aikakaudella. Nimesi kietoutuu pysyvästi tähän historialliseen tehtävään.",
+      "button": "Kysy tästä mahdollisuudesta"
+    }
+  },
+  "gratitude": {
+    "heading": "Kiitollisin mielin tukijoillemme",
+    "intro": "Orbital Templen mahdollistavat instituutiot, yksilöt ja radikaalin osallisuuden kannattajat, jotka ymmärtävät, että taide luo huomisen mielikuvia.",
+    "pearmill": {
+      "title": "Perustajajäsen Kannattaja",
+      "description": "Pearmill on yksi Yhdysvaltojen nopeimmin kasvavista suorituskykyyn keskittyvistä markkinointitoimistoista. Se on ryhmä suunnittelijoita, markkinoijia ja insinöörejä, jotka työskentelevät yhdessä auttaakseen kasvattamaan joitakin maailman ikonisimmista startup-yrityksistä. Heidän avokätinen tukensa mahdollisti Orbital Temple -tiimille kriittisten komponenttien ostamisen ja avoimen lähdekoodin laitteiston kehittämisen, joka mahdollistaa tämän satelliittitehtävän."
+    },
+    "yourName": "Nimesi voisi olla tässä. Liity mukaan luomaan historiaa."
+  },
+  "people": {
+    "heading": "Tämän tehtävän takana olevat ihmiset",
+    "intro": "Orbital Temple on 10 vuoden sitoumus. Sitä johtavat kaksi ihmistä, jotka ovat viettäneet elämänsä yhdistäen taidetta, teknologiaa ja ihmisten välisiä yhteyksiä ja jotka rakentavat infrastruktuuria tämän vision ylläpitämiseksi tulevana vuosikymmenenä.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Taiteilija ja teknologiayritys",
+      "paragraph1": "Edson on taiteilija ja teknologian asiantuntija, joka tutkii ihmisen intiimiyttä taiteen ja teknologian yhtymäkohdissa. Hänen työskentelynsä kattaa arkkitehtonisia installaatioita, runoutta, valokuvausta ja satelliittiteknologiaa.",
+      "paragraph2": "Hänen töitään on ollut esillä 13. Mercosulin biennaalissa (Brasilia), IX kansainvälisessä biennaalissa (Uzbekistan) ja NTU Global Digital Art Prize -palkinnossa (Singapore).",
+      "paragraph3": "Hänellä on yli <strong>20 vuoden kokemus taiteen ja teknologian alalta</strong> ja hän on työskennellyt luovien tiimien kanssa <strong>vuoden 2016 Rion olympialaisissa</strong> ja <strong>Inter American Development Bankissa</strong> . Proxxima Magazine nimesi hänet yhdeksi <strong>50 innovatiivisimmasta brasilialaisesta ammattilaisesta</strong> , hän sai kaksi peräkkäistä <strong>IF Design Awards -palkintoa</strong> (2017–2018) ja oli <strong>Lumen Prize Futures Award</strong> -finalisti. Hänen töitään on ollut esillä kahdessa biennaalissa ja esillä <strong>Ludwig Nykytaiteen museossa</strong> (Budapest), <strong>Inhotim-instituutissa</strong> (Brasilia) ja <strong>Design and Fashion Museumissa</strong> (Lissabon). Näyttelyitä on ollut New Yorkissa, Pekingissä, Singaporessa, Dubaissa, Rio de Janeirossa ja muissa kaupungeissa."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Roy-säätiön perustaja ja strateginen osakas",
+      "paragraph1": "Sathi on <strong>The Roy Foundationin perustaja. The Roy Foundation</strong> on voittoa tavoittelematon järjestö, joka on omistautunut laajentamaan henkisen koulutuksen, emotionaalisen parantamisen ja tietoisuustyökalujen saatavuutta alipalvelluille yhteisöille ympäri maailmaa. Säätiö tekee yhteistyötä koulujen, kulttuurilaitosten ja paikallisten organisaatioiden kanssa jakaakseen tekoälypohjaisia hyvinvointityökaluja, yhteisöopetussuunnitelmia ja mediaa, jotka inspiroivat muutokseen.",
+      "paragraph2": "Sathilla on neurotieteen, valmennuksen ja johtajuuden tausta, ja hän on rakentanut ja johtanut tiimejä Pohjois-Amerikassa ja Intiassa, ja hänen vuotuinen myyntinsä oli yhdessä yrityksessä <strong>600 miljoonaa dollaria</strong> . Hän on myös digitaaliseen ajatteluun keskittyvän hengellisen liikkeen <strong>OHM</strong> :n perustaja, <strong>SUTE</strong> :n (digitaalinen tekoälypohjainen toimistoalusta) perustajajäsen ja toimii <strong>RISE Global Creativen</strong> neuvonantajana ja globaalina kasvupäällikkönä.",
+      "paragraph3": "Bengalilais-amerikkalaisena naisena, joka yhdistää itämaisia ja länsimaisia filosofioita, Sathi tuo ainutlaatuisen näkökulman 2000-luvun henkisiin ja taiteellisiin liikkeisiin. Kasvavan <strong>yli 65 000 seuraajan</strong> verkostonsa ja yli <strong>40 miljoonan verkkonäyttökerran</strong> ansiosta hän rakentaa globaaleja yhteisöjä, jotka yhdistävät ihmisiä kulttuuristen ja henkisten kuilujen yli."
+    },
+    "together": "Yhdessä Roy-säätiön kanssa rakennamme 10-vuotista missiota, joka yhdistää taiteen, teknologian, koulutuksen ja pyhän. Missio alkaa satelliitin laukaisusta 28. marraskuuta 2025 ja jatkuu liikkeellä, joka tavoittaa alipalveltuja yhteisöjä maailmanlaajuisesti ja inspiroi seuraavaa sukupolvea."
+  },
+  "join": {
+    "heading": "Liity mukaan",
+    "content": "Satelliitti on rakennettu. Teknologia on valmis. Laukaisupäivä on asetettu: <strong>28. marraskuuta 2025.</strong> Nyt on oikea hetki liittyä mukaan missioon, joka mullistaa taiteen mahdollisuudet, mahdollisuudet ja mahdollisuudet palvella.",
+    "fundSpecific": {
+      "heading": "Rahoita tiettyä osaa tai tule perustajaosakkaaksi",
+      "description": "Valitse yksi yllä olevista rahoitusmahdollisuuksista, kysy taidekeräilijäksi ryhtymisestä tai keskustele räätälöidystä sponsoroinnista, joka on linjassa visiosi kanssa.",
+      "button": "Ota yhteyttä aloittaaksesi →"
+    },
+    "generalDonation": {
+      "heading": "Tee verovähennyskelpoinen lahjoitus",
+      "description": "Kaikki lahjoitukset, suuret tai pienet, tukevat tehtäväämme ja ovat verovähennyskelpoisia taloudellisen sponsorimme The Fieldin kautta.",
+      "button": "Lahjoita The Fieldin kautta →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Verovähennyskelpoinen lahjoitus",
+    "paragraph1": "Orbital Temple on <strong>The Fieldin (Performance Zone Inc.)</strong> taloudellisesti rahoittama projekti. The Field on New Yorkissa toimiva voittoa tavoittelematon <strong>501(c)(3)</strong> -organisaatio. Kaikki Yhdysvaltojen lahjoitukset ovat verovähennyskelpoisia lain sallimissa rajoissa.",
+    "paragraph2": "<strong>Kenttä</strong><br> 75 Maiden Lane, huoneisto 906<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Kun teet lahjoituksen shekillä, tee maksu <strong>Performance Zone Inc:</strong> lle ja lisää muistiin: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

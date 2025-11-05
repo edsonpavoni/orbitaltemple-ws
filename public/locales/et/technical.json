@@ -1,0 +1,17 @@
+{
+  "title": "Tehniline info - Orbitaaltempel",
+  "heading": "Tehniline teave",
+  "satellite": {
+    "heading": "Satelliit",
+    "specs": "Mõõtmed: 50x58x64 mm<br /> 1P PocketQube<br /> Kaal: 245 g<br /> Materjalid: alumiinium, kuld, klaaskiud ja elektroonikakomponendid.<br /> Orbiit: kõrgus 525 ± 25 km; kalle: SSO 97,6 ± 0,1°<br /> Kanderakett: PSLV (Polar Satellite Launch Vehicle), mida haldab ISRO"
+  },
+  "antenna": {
+    "heading": "Antenn/Skulptuur",
+    "specs": "Mõõtmed: 6 m (läbimõõt) ja 1,2 m (kõrgus)<br /> Kaal: 46 kg<br /> Materjalid: alumiinium, epoksüüdpeegliga kaetud plaat, tellingukonstruktsiooni külge riputatud kuldne alumiiniumkuppel."
+  },
+  "radio": {
+    "heading": "Raadio spetsifikatsioonid",
+    "specs": "Allaling: 468,5 MHz<br /> Modulatsioon: CSS<br /> Ribalaius: Määramata"
+  },
+  "imageAlt": "Orbitaalse Templi satelliit"
+}
