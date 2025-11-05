@@ -1,0 +1,138 @@
+{
+  "title": "Premsa i mitjans de comunicació - Orbital Temple",
+  "heading": "Premsa i mitjans de comunicació",
+  "pressContact": {
+    "heading": "Contacte de premsa",
+    "content": "Per a consultes de premsa, entrevistes i sol·licituds dels mitjans de comunicació:<br /> <strong>Correu electrònic:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Lloc web:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Sobre el projecte",
+    "paragraph1": "El Temple Orbital és una obra d'art i un satèl·lit que pretén ser un temple radicalment inclusiu, construït on no hi arriben els murs. Creat per l'artista brasiler Edson Pavoni, l'artista darrere del Memorial Inumeravéis que va arribar a 1 de cada 6 brasilers durant la pandèmia de la COVID-19, el projecte convida persones d'arreu del món a enviar el nom d'algú que vulguin recordar. Aquests noms es transmeten a un satèl·lit en òrbita, creant un memorial col·lectiu.",
+    "paragraph2": "A través d'un lloc web disponible en 136 idiomes, els participants participen en un nou tipus de ritual. El Temple Orbital explora temes d'inclusió, memòria i la nostra humanitat compartida, qüestionant per què cap temple físic a la Terra pot acollir realment tothom i proposant l'espai com l'únic lloc on pot existir una inclusió radical."
+  },
+  "aboutArtist": {
+    "heading": "Sobre l'artista",
+    "paragraph1": "<strong>Edson Pavoni</strong> és un artista brasiler el viatge del qual va començar als carrers de São Paulo, on un context de pobresa i violència va marcar els seus primers anys. En un país on el cristianisme oferia un camí per allunyar-se dels carrers, les drogues i la violència, Pavoni va trobar refugi en la fe, un tema que més tard, quan es va convertir en crític de l&#39;abús religiós, influiria en la seva pràctica artística.",
+    "paragraph2": "El 2020, durant la pandèmia de la COVID-19, Pavoni va crear <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (innumerables)</a></strong> , una obra d&#39;art a la intersecció de l&#39;art i el periodisme. El projecte va entrevistar milers de famílies i va escriure històries de les persones que van perdre la pandèmia, creant un espai on la memòria transcendia els números i les estadístiques. Es van fer poemes, cançons i simfonies amb aquestes històries. Els diaris van crear portades utilitzant els noms i les històries. Totes les estrelles brasileres com la guanyadora d&#39;un Oscar Fernanda Torres, i estrelles com Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo i Lázaro Ramos, i tantes altres, van llegir aquestes històries a la televisió nacional. El projecte va arribar a 32 milions de persones, un de cada quatre adults brasilers. Es va convertir en una xarxa de curació, un monument col·lectiu a la memòria.",
+    "paragraph3": "Després de més de deu mil converses amb dol, va sorgir un patró: quan parlem d'algú que ha mort, seleccionem fragments de la seva història com si escrivíssim una carta de recomanació al guardià del paradís. Fem tot el possible per enviar-los al que creiem que és el cel. Aquest treball va impulsar una nova comprensió: les nostres creences sobre qui mereix el cel configuren directament qui acceptem o excloem a la Terra. Els colonitzadors portuguesos del Brasil creien que els negres no tenien ànima; aquesta creença justificava l'esclavitud. Si eres indígena, si vas néixer al lloc equivocat o estimaves la persona equivocada, encara, avui dia, et diuen que les portes del cel estaven tancades per a tu. Hi ha una visió del futur que no s'ompli de rebuig?",
+    "paragraph4": "Així va néixer Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Dades clau",
+    "artist": "<strong>Artista:</strong> Edson Pavoni (Brasil)",
+    "projectType": "<strong>Tipus de projecte:</strong> Obra d&#39;art de satèl·lit, específica del lloc a l&#39;espai, ritual basat en la web",
+    "launchDate": "<strong>Data de llançament:</strong> 28 de novembre de 2025",
+    "launchLocation": "<strong>Lloc de llançament:</strong> Centre Espacial Satish Dhawan, Sriharikota, Índia (ISRO)",
+    "satellite": "<strong>Satèl·lit:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Òrbita:</strong> 525 km d&#39;altitud, heliosíncrona",
+    "participation": "<strong>Participació:</strong> Gratuïta, oberta a tothom a nivell mundial",
+    "namesSent": {
+      "heading": "<strong>Noms enviats a l&#39;òrbita:</strong>",
+      "caption": "<em>Recompte en directe actualitzat des de la base de dades • Última actualització: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Premis i reconeixements",
+    "mercosul": {
+      "title": "<strong>13a Biennal del Mercosur</strong> (2022)",
+      "location": "Porto Alegre, Brasil",
+      "curator": "Comissariat per Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Premi Lumen 2022 - Premi Futures</strong>",
+      "status": "Llistat curt"
+    },
+    "cubeDesign": {
+      "title": "<strong>Concurs de disseny de cubs 2021</strong>",
+      "award": "Guanyador - Categoria ArtSat",
+      "org": "Promogut per l'Institut Brasiler d'Investigació Espacial (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Equip",
+    "content": "Orbital Temple es crea en col·laboració amb Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Tairo Fertiane Solid, RiseNY&Partners, IdeaSpace i tots aquells que continuen suggerint noms per a aquest temple."
+  },
+  "pressCoverage": {
+    "heading": "Destacat a / Cobertura de premsa",
+    "paragraph1": "<em>S&#39;afegiran reportatges i informació de premsa a mesura que estiguin disponibles. Per obtenir les darreres actualitzacions, poseu-vos en contacte amb el nostre equip de premsa.</em>",
+    "paragraph2": "Entre les exposicions i presentacions anteriors s'inclouen presentacions a la 13a Biennal del Mercosur, el reconeixement del Premi Lumen i la selecció per part de l'Institut Brasiler d'Investigació Espacial (INPE)."
+  },
+  "images": {
+    "heading": "Imatges d'alta resolució per a ús de premsa",
+    "intro": "Totes les imatges estan disponibles per a ús editorial. Feu clic a qualsevol imatge per descarregar el fitxer d'alta resolució.",
+    "installationPhotos": {
+      "heading": "Fotos del Temple Orbital",
+      "credit": "Si us plau, crèdit: \"Fotografia de Clara Marques / Cortesia d'Edson Pavoni, Orbital Temple\"",
+      "view01": "Vista d&#39;instal·lació 01<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (1,4 MB)",
+      "view02": "Vista d&#39;instal·lació 02<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (2,9 MB)",
+      "view03": "Vista d&#39;instal·lació 03<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (11 MB)",
+      "view04": "Vista d&#39;instal·lació 04<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (3,4 MB)",
+      "view05": "Vista d&#39;instal·lació 05<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (3,3 MB)",
+      "view06": "Vista d&#39;instal·lació 06<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (3,7 MB)",
+      "view07": "Vista d&#39;instal·lació 07<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (3,4 MB)",
+      "view08": "Vista d&#39;instal·lació 08<br /> Foto: Clara Marques<br /> ↓ Descarrega alta resolució (2,7 MB)",
+      "satelliteDesign": "Disseny de satèl·lits<br /> ↓ Descarrega",
+      "antennaSculpture": "Antena/Escultura<br /> ↓ Descarrega"
+    },
+    "renders": {
+      "heading": "Renders de Temple Orbital",
+      "credit": "Representacions conceptuals en 3D del Temple Orbital. Si us plau, crèdit: \"Renderització 3D de RiseNY&Partners / Cortesia d'Edson Pavoni, Temple Orbital\"",
+      "render01": "Renderització 3D 01<br /> RiseNY i socis<br /> ↓ Descarrega alta resolució (10 MB)",
+      "render02": "Renderització 3D 02<br /> RiseNY i socis<br /> ↓ Descarrega alta resolució (5,9 MB)",
+      "render03": "Renderització 3D 03<br /> RiseNY i socis<br /> ↓ Descarrega alta resolució (5,2 MB)",
+      "render04": "Renderització 3D 04<br /> RiseNY i socis<br /> ↓ Descarrega alta resolució (11 MB)",
+      "render05": "Renderització 3D 05<br /> RiseNY i socis<br /> ↓ Descarregar alta resolució (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Fotos d'artistes",
+      "photo1": "Foto 1<br /> ↓ Descarregar alta resolució",
+      "photo2": "Foto 2<br /> ↓ Descarregar alta resolució"
+    },
+    "sathiPhotos": {
+      "heading": "Fotos de Sathi Roy",
+      "photo1": "Foto 1<br /> ↓ Descarregar Alta resolució (843 KB)",
+      "photo2": "Foto 2<br /> ↓ Descarrega alta resolució (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Especificacions tècniques",
+    "satellite": {
+      "heading": "Satèl·lit",
+      "dimensions": "Dimensions: 50 x 58 x 64 mm",
+      "classification": "Classificació: 1P PocketQube",
+      "weight": "Pes: 245 g",
+      "materials": "Materials: Alumini, or, fibra de vidre, components electrònics",
+      "orbit": "Òrbita: Altitud 525 ± 25 km; Inclinació: SSO 97,6 ± 0,1°",
+      "launch": "Llançament: 28 de novembre de 2025 via ISRO, Índia"
+    },
+    "antenna": {
+      "heading": "Antena/Escultura",
+      "dimensions": "Dimensions: 6 m de diàmetre x 1,2 m d'alçada",
+      "weight": "Pes: 46 kg",
+      "materials": "Materials: Alumini, tauler amb mirall epoxi, cúpula d'alumini daurat suspesa a través de l'estructura de bastida"
+    },
+    "radio": {
+      "heading": "Especificacions de la ràdio",
+      "downlink": "Enllaç descendent: 437 MHz",
+      "status": "Estat del llançament: Programat per al 28 de novembre de 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Recursos addicionals",
+    "artwork": "→ Veure documentació d'obres d'art",
+    "howItWorks": "→ Com funciona",
+    "technicalInfo": "→ Informació tècnica",
+    "spaceLaunch": "→ Informació sobre llançaments espacials",
+    "ritual": "→ Experimenta el ritual"
+  },
+  "imageAlts": {
+    "installation": "Instal·lació del Temple Orbital per Edson Pavoni",
+    "satelliteDesign": "Disseny del satèl·lit Orbital Temple",
+    "antenna": "Escultura de l'antena del temple orbital",
+    "render": "Renderització 3D del Temple Orbital per RiseNY&Partners",
+    "edsonPortrait": "Retrat d'Edson Pavoni",
+    "sathiPortrait": "Retrat de Sathi Roy",
+    "lumenPrize": "Premi Lumen",
+    "mercosulBienal": "Biennal del Mercosur"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "title": "Tsigira Orbital Tembere - Join the Mission",
+  "heading": "Tsigira Orbital Tembere",
+  "vision": "Musi <strong>waMbudzi 28, 2025</strong> , <strong>Orbital Tembere</strong> ichatanga kubva <strong>kuIndia</strong> ichipinda <strong>neISRO</strong> roketi. Setiraiti yehunyanzvi inobatanidzwa kubva kuGlobal South, chiyeuchidzo chekubatanidzwa kwakanyanya, chikuva chedzidzo, uye chinokonzeresa kutaurirana kwepasirese nezveramangwana revatsvene muzera rehunyanzvi, AI uye kuongorora nzvimbo.",
+  "videoCaption": "Orbital Tembere vhidhiyo sumo, 1 min.",
+  "accomplished": {
+    "heading": "Zvataita",
+    "content": "Mushure memakore mana ekutsvaga nekusimudzira, mishoni yakagadzirira. Isu takapedza <strong>Hardware uye software kuvandudza</strong> setiraiti, takapasa <strong>zviri pamutemo shaker bvunzo</strong> dzinodiwa kuti zviite chitupa, uye tapedza chibvumirano chedu neISRO. Iyo satellite yakagadzirwa. Iyo tekinoroji inoshanda. Isu takabvumidzwa kutanga."
+  },
+  "funding": {
+    "heading": "Funding Progress",
+    "raised": "kusimudzwa kwe",
+    "of": "ye",
+    "goal": "chinangwa",
+    "button": "Tsigira Mission"
+  },
+  "needs": {
+    "heading": "Zvatinoda Tsigiro",
+    "intro": "Kuti tipedze basa iri renhoroondo uye nekuwedzera maitiro aro, tinoda rutsigiro rwezvikamu zvishanu zvakakosha:",
+    "launch": {
+      "title": "ISRO Kutangisa Mari:"
+    },
+    "travel": {
+      "title": "Artist Rwendo kuenda kuIndia:"
+    },
+    "carbon": {
+      "title": "Carbon Offset chirongwa:"
+    },
+    "education": {
+      "title": "Chirongwa Chekudzidzisa:"
+    },
+    "docPreProd": {
+      "title": "Documentary Pre-Production:"
+    },
+    "docProd": {
+      "title": "Documentary Production:"
+    }
+  },
+  "decade": {
+    "heading": "Gumi Riri Mberi",
+    "intro": "Basa iri haripere musi waMbudzi 28, 2025. Richangotanga.",
+    "paragraph1": "Kwemakore <strong>gumi</strong> anotevera, setiraiti iyi ichatenderera Pasi, ichipindura mazita anotumirwa kubva kumakona ese epasi. Chirongwa chedzidzo chine chinangwa chekudzidzisa <strong>zviuru zvevechiri kuyaruka</strong> mune tekinoroji yesatellite, kutyora <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Space Gap</a> yeGlobal South. Iyo documentary ichasvika <strong>mamirioni</strong> pasi rese, ichimutsa nhaurirano pamusoro pekuva, ndangariro, uye zvitsvene.",
+    "paragraph2": "Orbital Temple inodyidzana neSathi <strong>Roy</strong> neThe <strong>Roy Foundation</strong> kuita kuti chiono chemakore gumi ichi chikoshese tsika nemagariro. Iyo Roy Foundation isangano risingabatsiri rakazvipira kuwedzera mukana wekuwana dzidzo yemweya, kuporeswa kwemanzwiro, uye maturusi ekuziva kunharaunda dzisina kuchengetedzwa pasi rese, kubatanidza huchenjeri hwekare uye tekinoroji yemazuva ano kugadzira nyika inoziva, yakabatana, uye ine tsitsi. Tose, tiri kuvaka zvivakwa kuitira kuti Orbital Temple ive sangano rinogara richisvika munharaunda pasi rose.",
+    "paragraph3": "Rutsigiro rwako harungope mari yekuvhurwa; inogadzira kufamba kunozonzwika kwemakore gumi uye kukurudzira chizvarwa chinotevera chemuchadenga maartist uye mainjiniya."
+  },
+  "waysToSupport": {
+    "heading": "Nzira dzekutsigira",
+    "individualDonations": {
+      "heading": "Mipiro Yemunhu Mumwe nomumwe",
+      "intro": "Join the mishoni pamwero unoshanda kwauri. Vatsigiri vega ndivo hwaro hwechirongwa ichi chenhoroondo.",
+      "orbitalFriend": {
+        "title": "Orbital Shamwari",
+        "benefits": "Unogashira: Zita pawebhusaiti runyoro rwekukudzwa · Chitupa chakasarudzika kana setiraiti yavhurwa · Documentary mazvita chikwereti · Risiti inobvisirwa Mutero",
+        "button": "Ita Mutero Unobviswa Mupiro"
+      },
+      "satelliteSupporter": {
+        "title": "Satellite Mutsigiri",
+        "benefits": "Unogashira: Zvese mabhenefiti eShamwari yeOrbital · Exclusive satellite yekutevera app kuwana · Artist ndatenda meseji yevhidhiyo · Risiti inobviswa mutero",
+        "button": "Ita Mutero Unobviswa Mupiro"
+      },
+      "spaceAdvocate": {
+        "title": "Space Advocate",
+        "benefits": "Unogashira: Ese mabhenefiti eSatellite Mutsigiri · Zita rakadhindwa mune zvinyorwa zvinyorwa · Kukokwa kune yakavanzika zvinyorwa zvekuongororwa · Zvigadziro zvekota kubva kuchikwata · Risiti inobvisirwa Mutero",
+        "button": "Ita Mutero Unobviswa Mupiro"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Mari yakanangana nechikamu",
+    "intro": "Mupiro wako unotsigira zvakananga zvikamu zvemishoni. Sarudza izvo zvinotaura kwauri, kana kusanganisa akawanda kuti ugadzire yakakura kukanganisa.",
+    "launch": {
+      "title": "Mari yeSpace Launch",
+      "description": "Iyo chaiyo yekutanga inodhura mukati <strong>meISRO</strong> roketi musi <strong>waNovember 28, 2025</strong> . Izvi zvinotumira Orbital Tembere kupinda orbit, uko ichagara kwemakore gumi seyakabatana art setiraiti uye temberi mudenga, inosvikika kune chero munhu ari munyika.",
+      "benefits": "Unogashira: \"Launch Sponsor\" zita · Inoratidzwa mune zvese zvinoburitswa zvenhau · Pa-screen zvinyorwa zvekubvuma · VIP kuwana kuvhura zviitiko · Joinha makota matatu evhidhiyo mafoni naEdson uye timu yemamishinari · Chitupa chine satellite orbital data · Risiti inobviswa Mutero",
+      "button": "Ita Mutero Unobviswa Mupiro"
+    },
+    "travel": {
+      "title": "Mari yerwendo rweArtist kuenda kuIndia",
+      "description": "Kufamba, pekugara, uye mutengo wekugadzira wemuimbi Edson Pavoni nechikwata chepakati kuti vaone kutangwa muIndia <strong>muna Mbudzi 28, 2025</strong> . Rwendo urwu rwakakosha pakutorwa kwemafirimu, kuburitswa kwenhau, uye kumiririra Global South panguva ino ine nhoroondo.",
+      "benefits": "Unogashira: Ndatenda zvangu kubva kumuimbi · Kuseri-kwe-zviratidziro kuwana zvinyorwa · Zita mune zvinyorwa zvinyorwa · Risiti inobviswa mutero",
+      "button": "Ita Mutero Unobviswa Mupiro"
+    },
+    "carbon": {
+      "title": "Mari yeCarbon Offset Chirongwa",
+      "description": "Zvese zvinoburitsa kabhoni zvichave zvisina kwazvakarerekera, kusanganisira kuvhurwa kweroketi uye kugadzirwa kwesatellite. Tiri kushanda neakasimbiswa kabhoni offset zvirongwa kuti ive nechokwadi chekuti mishoni iyi inosiya isina kunaka kwenzvimbo.",
+      "benefits": "Iwe unogashira: Zita muwebhusaiti yekukudza roll · Sitifiketi yakasarudzika · Mutero-inobviswa risiti",
+      "button": "Ita Mutero Unobviswa Mupiro"
+    },
+    "education": {
+      "title": "Mari yeChirongwa Chedzidzo",
+      "description": "Gadzira uye tanga iyo yakazara mitauro yakawanda yekudzidzisa vechidiki veGlobal South maitiro ekugadzira masatellite. Inosanganisira kuvandudzwa kwekharikhulamu, kugadzirwa kwevhidhiyo, kutambira chikuva, uye gore rekutanga rekufunda kwevadzidzi vasina kuchengetedzwa. Inogadzira zvivakwa zvenguva refu zvedzidzo yemuchadenga.",
+      "benefits": "Unogamuchira: \"Dzidzo Yevanotsigira Sponsor\" kucherechedzwa · Scholarships muzita rako · Inowanikwa mune zvekudzidzisa · Sangana neboka rekutanga revadzidzi rako rekufunda rinotsigirwa nemari (chaiyo kana mumunhu) · Documentary feature segment · Mukana wekutaura pazviitiko zvekuparura · Risiti inobvisirwa Mutero",
+      "button": "Ita Mutero Unobviswa Mupiro"
+    },
+    "docPreProd": {
+      "title": "Mari yeDocumentary Pre-Production",
+      "description": "Mari yechikamu chekutanga che <strong>&quot;Chii Chinoita Temberi?&quot;</strong> documentary. Inosanganisira kuitisa 2 kubvunzurudza kwakadzama <strong>muIndia</strong> nevatungamiriri vanofunga uye varapi vezvemweya, kufamba kwevashandi vashoma uye kugadzira, uye kugadzirisa kwepamberi kugadzirwa kwemifananidzo. Ichi chikamu chinomisikidza hwaro hwegwaro uye inosimbisa gwara rekugadzira.",
+      "benefits": "Unogashira: Associate Producer chikwereti · Zita mune zvinyorwa zvinyorwa · Kuongororwa kwepachivande kwe pre-kugadzirwa footage · Kuseri-kwezviitiko kuwana · Risiti inobvisirwa Mutero",
+      "button": "Ita Mutero Unobviswa Mupiro"
+    },
+    "docProd": {
+      "title": "Mari yeDocumentary Production",
+      "description": "Kugadzirwa kwakakwana uye mushure mekugadzirwa kwe <strong>&quot;Chii Chinoita Temberi?&quot;</strong> , chinyorwa chezvinyorwa chinoongorora mharadzano yehunyanzvi, tekinoroji, uye zvinoera. Inosanganisira kutora mafirimu munyika dzakawanda, kubvunzurudzwa kwakawedzerwa nevatungamiriri vepfungwa, kugadzirisa kwakazara, kugadzika kwemavara, dhizaini yekurira, uye kutariswa kwekutanga <strong>muIndia</strong> <strong>neNYC</strong> .",
+      "benefits": "Unogashira: Executive Producer chikwereti · Inoratidzwa mukuvhura makiredhiti · Kuongororwa kwakavanzika kwevaenzi vako · Kukokwa kweWorld premiere (madhorobha ese) · Chisvusvuro chepachivande naEdson uye documentary director isati yatanga · Kuseri-kwe-kuona-kusvika · Risiti inobvisirwa Mutero",
+      "button": "Ita Mutero Unobviswa Mupiro"
+    },
+    "artCollector": {
+      "title": "Iva Wega Orbital Temberi Art Collector",
+      "imageAlt": "Kuiswa kweTemberi yeOrbital paMercosul Biennial",
+      "imageCaption": "Temberi yeOrbital pa13th Mercosul Biennial, Porto Alegre. Mufananidzo naClara Marques.",
+      "paragraph1": "Maseneti matatu akafanana akavakirwa chinangwa ichi. <strong>Imwe</strong> ichatanga kuenda muchadenga musi waMbudzi 28, 2025. <strong>Mumwe</strong> anofamba kuenda kumashoo emumuseum pasi rese. <strong>Imwe</strong> yakachengeterwa muunganidzi ane rupo anoda kubhadhara chiono ichi uye ane chidimbu chenzvimbo art nhoroondo.",
+      "paragraph2": "Uyu hausi mufananidzo; ndeimwe yemasatelliti matatu ekutanga. <strong>Chipenga chinoshanda</strong> zvizere chiri zvakare <strong>chivezwa</strong> . Satellite inoyera <strong>5cm³</strong> uye inorema <strong>245g</strong> , ine dome rakagadzirwa <strong>negoridhe</strong> .",
+      "paragraph3": "Iyi i <strong>1/1 artwork</strong> .",
+      "paragraph4": "Semuunganidzi, iwe unogashira kuisirwa kwakafanana kwakagadzirirwa iyo <strong>13th Mercosul Biennial</strong> , yakazara museological inoratidzira inoratidza iyo setiraiti sezvese hunyanzvi uye tekinoroji. Uku kuisirwa kwakaratidzwa munzvimbo huru dzepasirese uye inomiririra yakakwira mwero wenzvimbo art yekuratidzira.",
+      "paragraph5": "Rutsigiro rwako runobatsira kutsigira chiono chese: kutanga, chirongwa chedzidzo, uye zvinyorwa zvinomutsa nhaurirano dzepasirese nezvezvitsvene muzera rehunyanzvi, AI uye kuongorora nzvimbo. Zita rako rinova rakapindirana zvachose neiyi nhoroondo mishoni.",
+      "button": "Bvunza NezveMukana Uyu"
+    }
+  },
+  "gratitude": {
+    "heading": "Nekutenda kune Vatsigiri Vedu",
+    "intro": "Orbital Temberi inogoneka nemasangano, vanhu, uye vatendi mukubatanidzwa kwakanyanya vanonzwisisa kuti hunyanzvi hunogadzira fungidziro dzemangwana.",
+    "pearmill": {
+      "title": "Mutsigiri wekutanga",
+      "description": "Pearmill ndeimwe yeanokurumidza kukurumidza kushambadzira masangano ekushambadzira muUS, boka revagadziri, vatengesi, uye mainjiniya anoshanda pamwechete kubatsira kusimudzira mamwe ekutanga ekutanga epasirese. Rutsigiro rwavo rwerupo rwakagonesa timu yeOrbital Tembere kutenga zvinhu zvakakosha uye kugadzira iyo yakavhurika-sosi hardware inoita kuti iyi setiraiti mishoni igoneke."
+    },
+    "yourName": "Zita rako rinogona kunge riri pano. Sangana nesu mukugadzira nhoroondo."
+  },
+  "people": {
+    "heading": "Vanhu Vari Kuseri kweMisheni Iyi",
+    "intro": "Orbital Tembere kuzvipira kwemakore gumi. Inotungamirwa nevanhu vaviri vakapedza hupenyu hwavo vachibatanidza hunyanzvi, tekinoroji, uye kubatana kwevanhu, uye vari kuvaka zvivakwa zvekuchengetedza chiono ichi kwemakore gumi ari mberi.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Artist & Tekinoroji",
+      "paragraph1": "Edson inyanzvi uye tekinoroji anoongorora hukama hwevanhu pamharadzano yehunyanzvi uye tekinoroji. Chiitiko chake chinosanganisira zvivakwa zvekuvaka, nhetembo, kutora mafoto, uye tekinoroji yesatellite.",
+      "paragraph2": "Basa rake rakaratidzwa pa13th Mercosul Biennial (Brazil), IX International Biennale (Uzbekistan), uye NTU Global Digital Art Prize (Singapore).",
+      "paragraph3": "Neanopfuura <strong>makore makumi maviri mundima yehunyanzvi uye tekinoroji</strong> , akashanda nezvikwata zvekugadzira <strong>zve2016 Rio Olympics</strong> neInter <strong>American Development Bank</strong> . Akanzi mumwe wemakumi <strong>mashanu ehunyanzvi hwekuBrazilian nyanzvi</strong> neProxxima Magazine, akagamuchira maviri akateedzana <strong>IF Design Awards</strong> (2017-2018) uye aive mufainari <strong>weLumen Prize Futures Award</strong> . Basa rake rakaratidzwa mumakumi maviri emakore uye rakaratidzwa kuLudwig <strong>Museum yeContemporary Art</strong> (Budapest), <strong>Inhotim Institute</strong> (Brazil), uye <strong>Dhizaini neFashoni Museum</strong> (Lisbon), ine kuratidzwa muNew York, Beijing, Singapore, Dubai, Rio de Janeiro, nemamwe maguta."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Muvambi, The Roy Foundation & Strategic Partner",
+      "paragraph1": "Sathi ndiye muvambi weThe <strong>Roy Foundation</strong> , iyo isiri purofiti yakatsaurirwa kuwedzera mukana wekuwana dzidzo yemweya, kuporeswa kwemanzwiro, uye maturusi ekuziva kunharaunda dzisina kuchengetedzwa pasirese. Nheyo idzi dzinodyidzana nezvikoro, masangano etsika, uye masangano emunharaunda kugovera maturusi eAI-powered hutano, kosi yenharaunda, uye midhiya inokurudzira shanduko.",
+      "paragraph2": "Nekumashure mune neuroscience, kudzidzisa, uye hutungamiriri, Sathi akavaka uye akatungamira zvikwata kuNorth America neIndia, achigadzira <strong>mazana matanhatu emamiriyoni emadhora</strong> mukutengesa kwegore pane imwe bhizinesi. Ndiyewo muvambi <strong>weOHM</strong> , dijitari-yekutanga kufamba pamweya, Co-Muvambi <strong>weSUTE</strong> (dhijitari AI-inofambiswa nehofisi chikuva), uye anoshanda seAdvisor uye Global Head of Growth <strong>yeRISE Global Creative</strong> .",
+      "paragraph3": "Semukadzi wechiBengali-America anobatanidza huzivi hwekuMabvazuva nekuMadokero, Sathi anounza maonero akasiyana ekufamba kwemweya uye kwehunyanzvi muzana ramakore re21. Netiweki iri kukura yevateveri <strong>zviuru makumi matanhatu neshanu</strong> uye anopfuura <strong>mamirioni makumi mana ekuona pamhepo</strong> , ari kuvaka nharaunda dzepasirese dzinobatana mukupesana kwetsika nezvemweya."
+    },
+    "together": "Pamwe chete neThe Roy Foundation, tiri kuvaka shumiro yemakore gumi iyo inobatanidza hunyanzvi, tekinoroji, dzidzo, uye zvitsvene, kutanga nekuburitswa kwesatellite musi waMbudzi 28, 2025, uye kuenderera mberi nesangano richasvika nharaunda dzisina kuchengetedzwa pasi rose uye kukurudzira chizvarwa chinotevera."
+  },
+  "join": {
+    "heading": "Join Us",
+    "content": "Iyo satellite yakagadzirwa. Iyo tekinoroji yakagadzirira. Zuva rekutanga rakaiswa: <strong>Mbudzi 28, 2025</strong> . Ino inguva yekujoinha mishoni inofungidzira zvakare izvo art inogona kuita, kwainogona kuenda, uye ndiani waanogona kushandira.",
+    "fundSpecific": {
+      "heading": "Mari Yakananga Chikamu kana Iva Mubatsiri Wekutanga",
+      "description": "Sarudza imwe yemikana yemari iri pamusoro, bvunza nezvekuva muunganidzi wehunyanzvi, kana kurukura nezve tsika yekutsigira inoenderana nechiono chako.",
+      "button": "Bata Isu Kuti Utange →"
+    },
+    "generalDonation": {
+      "heading": "Ita Mutero-Unobviswa Mupiro",
+      "description": "Mipiro yese, mikuru kana diki, inotsigira mishoni uye inobviswa mutero kuburikidza nemubatsiri wedu wemari, Munda.",
+      "button": "Ipa kuburikidza neMunda →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Mutero-Deductible Kupa",
+    "paragraph1": "Orbital Tembere ipurojekiti inotsigirwa nemari yeThe <strong>Field (Performance Zone Inc.)</strong> , <strong>i501 (c) (3)</strong> isiri purofiti sangano yakavakirwa muNew York. Mipiro yese yeUS inobvisirwa mutero kusvika pamwero unobvumidzwa nemutemo.",
+    "paragraph2": "<strong>Munda</strong><br> 75 Maiden Lane, Suite 906<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Paunenge uchipa mipiro necheki, ndapota ita kuti ubhadharwe <strong>kuPerformance Zone Inc.</strong> ine memo: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

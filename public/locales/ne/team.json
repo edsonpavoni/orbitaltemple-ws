@@ -1,0 +1,61 @@
+{
+  "title": "टोली - अर्बिटल टेम्पल",
+  "heading": "टोली",
+  "artist": "एडसन पावोनी, कलाकार",
+  "roles": {
+    "executiveProducer": {
+      "heading": "कार्यकारी निर्माता",
+      "members": "साथी रोय"
+    },
+    "aerospace": {
+      "heading": "एयरोस्पेस र सिस्टम्स इन्जिनियरिङ",
+      "members": "पेड्रो कालेड, जोआओ पेड्रो पोलिटो, भिक्टर ब्याप्टिस्टा र जोआओ भिक्टर अल्वेस"
+    },
+    "electronic": {
+      "heading": "इलेक्ट्रोनिक इन्जिनियरिङ",
+      "members": "André Biagioni, João Pedro Polito र VK"
+    },
+    "software": {
+      "heading": "सफ्टवेयर",
+      "members": "जोनाथन चेरुबिना"
+    },
+    "design": {
+      "heading": "डिजाइन र वास्तुकला",
+      "members": "गिलहेर्मे बुलेजोस"
+    },
+    "printing": {
+      "heading": "थ्रीडी प्रिन्टिङ",
+      "members": "एडुआर्डो डायसको नेतृत्वमा ठोस अवधारणाहरू"
+    },
+    "rendering": {
+      "heading": "थ्रीडी रेन्डरिङ",
+      "members": "Guilherme Bullejos र RiseNy & Partners"
+    },
+    "research": {
+      "heading": "अनुसन्धान",
+      "members": "रोबर्टा सेभियन रोजा र क्लारा मार्क्स"
+    },
+    "exhibition": {
+      "heading": "प्रदर्शनी उत्पादन, फोटोग्राफी र सामग्री निर्माण",
+      "members": "क्लारा मार्क्स"
+    },
+    "silkScreen": {
+      "heading": "प्रदर्शनीको रेशम स्क्रिनिङ",
+      "members": "डाफ्ने अल्भेस"
+    },
+    "educational": {
+      "heading": "शैक्षिक परियोजना",
+      "members": "आइडियास्पेस"
+    },
+    "communication": {
+      "heading": "सञ्चार टोली",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "विशेष धन्यवाद",
+      "members": "गेब्रिएला भेइगा, मार्सेलो डान्टास, एनी भल्स, माटियास क्याम्पोस अबाद, शमूएल लेवी, बेला नार्डिनी, र लेह पेनिंगटन"
+    }
+  },
+  "credits": "एडसन पावोनी, साथी रोय, पेड्रो कालेड, जोआओ पेड्रो पोलिटो, भिक्टर बाप्टिस्टा, जोआओ भिक्टर अल्वेस, आन्द्रे बियागियोनी, वीके, जोनाथन क्वेरुबिना, गुइल्हेर्मे बुलेजोस, एडुआर्डो डायस, रोबर्टा सेभियन रोजा, क्लारा मार्क्स, डाफ्ने अल्वेस, फ्लेभियो होल्वे, आन्द्रे विडिगाल, फ्लेभियो होल्वे, आन्द्रे विडिएर, आन्द्रे विडिएर। Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY & Partners, IdeaSpace",
+  "imageAlt": "कक्षीय मन्दिर उपग्रह"
+}

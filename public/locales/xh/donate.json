@@ -1,0 +1,31 @@
+{
+  "title": "Nikela kwiTempile ye-Orbital",
+  "heading": "Gcwalisa uMnikelo Wakho",
+  "donatingTo": "Unikela ku:",
+  "chooseHow": "Khetha indlela ongathanda ukugqiba ngayo umnikelo wakho otsalwa irhafu:",
+  "option1": {
+    "heading": "Inketho 1: Nikela kwi-Intanethi ngoku",
+    "description": "Gcwalisa umnikelo wakho ngoko nangoko usebenzisa ikhadi letyala, ikhadi lebhanki, okanye ezinye iindlela zokuhlawula kwi-intanethi ngomxhasi wethu wemali okhuselekileyo, <strong>The Field</strong> . Uya kufumana irisithi yerhafu ngoko nangoko.",
+    "button": "Nikela ngeNdawo →"
+  },
+  "option2": {
+    "heading": "Ukhetho lwesi-2: Idiphozithi yeBhanki kwiRoy Foundation",
+    "description": "Yenza idiphozithi yebhanki ngokuthe ngqo okanye utshintshe ucingo kwi <strong>-Roy Foundation</strong> , iqabane lethu lobuchule kunye nomxhasi wemali. Olu khetho lufanelekile kwiminikelo emikhulu okanye ukudluliselwa kwamanye amazwe.",
+    "bankingInfo": "Ulwazi lweBhanki",
+    "fields": {
+      "accountName": "Igama le-akhawunti:",
+      "bankName": "Igama leBhanki:",
+      "accountNumber": "Inombolo ye-akhawunti:",
+      "routingNumber": "Inamba ejikelezayo:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Isalathiso:"
+    },
+    "instructions": "Nceda uquke i-&quot; <strong>Orbital Temple - {donationType}</strong> &quot; kwindawo yereferensi. Emva kokugqiba ukudluliselwa kwakho, sithumele i-imeyile <a href=\"mailto:sathi.roy@orbitaltemple.art\">ku-sathi.roy@orbitaltemple.art</a> kunye neenkcukacha zakho zokudlulisa ukuze ufumane irisithi yakho yerhafu.",
+    "button": "Qhagamshelana nathi malunga neDipozithi →"
+  },
+  "taxInfo": {
+    "heading": "Tax-Deductible Giving",
+    "description": "ITempile ye-Orbital yiprojekthi exhaswa ngemali ye-Fiscally <strong>(Performance Zone Inc.)</strong> , i- <strong>501(c)(3)</strong> yombutho ongenzi nzuzo. Yonke iminikelo yase-US itsalwa irhafu ngokomthetho.",
+    "questions": "Imibuzo? Qhagamshelana nathi apha <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

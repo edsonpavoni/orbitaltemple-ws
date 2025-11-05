@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "cum ingressus es\nritum\nad nomen mittendum\nin\ntemplum orbitale\nin spatio\nrespira\n",
+    "button": "Paratus sum"
+  },
+  "nameInput": {
+    "title": "nomen scribe",
+    "subtitle": "ad Templum Orbitale in spatio ascendet.",
+    "placeholder": "nomen",
+    "button": "ascendat"
+  },
+  "emailInput": {
+    "title": "inscriptionem electronicam tuam scribe",
+    "subtitle": "ita nuntium accipis cum nomen ascendit.",
+    "placeholder": "epistula tua electronica",
+    "button": "factum est"
+  },
+  "loading": {
+    "alt": "Onus"
+  },
+  "success": {
+    "text": "Nomen\n{{name}}\nnunc in ascensione paratum est.\nCum\ntemplum in spatio\ncongruet, cum\nantenna nostra\nin Terra\nnomen mittemus\net nuntium accipies."
+  }
+}

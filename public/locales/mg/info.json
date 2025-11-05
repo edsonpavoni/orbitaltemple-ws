@@ -1,0 +1,17 @@
+{
+  "title": "Info Teknika - Tempoly Orbital",
+  "heading": "Info teknika",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Habe: 50x58x64 mm<br /> 1P PocketQube<br /> lanja: 245 g<br /> Fitaovana: aluminium, volamena, fiberglass, ary singa elektronika.<br /> Orbit: 525 ± 25 km; fironany: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Sculpture",
+    "specs": "Habe: 6 m (savaivony) e 1.2m (haavo)<br /> lanja: 46 kg<br /> Fitaovana: aliminioma, birao fitaratra epoxy, dome aluminium volamena mihantona amin&#39;ny alàlan&#39;ny rafitra scaffolding."
+  },
+  "radio": {
+    "heading": "Radio Specs NASA-Catalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Antso: Status: FANDAHARANA HO AN&#39;NY 2025"
+  },
+  "imageAlt": "Diagram Info Teknika"
+}

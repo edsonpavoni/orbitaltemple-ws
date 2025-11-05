@@ -1,0 +1,61 @@
+{
+  "title": "Egbe - Orbital Temple",
+  "heading": "Egbe",
+  "artist": "Edson Pavoni, olorin",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Alase o nse",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Imọ-ẹrọ Itanna",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Oniru ati Architecture",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D Printing",
+      "members": "Awọn imọran ti o lagbara, labẹ idari Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D Rendering",
+      "members": "Guilherme Bullejos & RiseNy & Awọn alabaṣepọ"
+    },
+    "research": {
+      "heading": "Iwadi",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Iṣẹjade aranse, fọtoyiya & Ṣiṣẹda akoonu",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Afihan Silk waworan",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Eko Project",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Ẹgbẹ ibaraẹnisọrọ",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "O ṣeun pataki",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, ati Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Holzmeister, Andre Holzmeister Bruna Cairo, Conceitos Sólidos, RiseNY&Awọn alabaṣiṣẹpọ, IdeaSpace",
+  "imageAlt": "Orbital Temple Satellite"
+}

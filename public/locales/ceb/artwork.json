@@ -1,0 +1,31 @@
+{
+  "title": "Ang Artwork - Orbital nga Templo",
+  "heading": "Ang Artwork",
+  "intro": {
+    "paragraph1": "Ang Orbital Temple usa ka satellite nga adunay artistikong misyon: usa ka handumanan sa kawanangan nga bukas sa matag buhi nga binuhat nga nagpuyo o nagpuyo sa Yuta.",
+    "paragraph2": "Pinaagi sa teknolohiya, ang bisan kinsa makapadala sa ngalan sa usa ka tawo ngadto sa Templo, bisan kinsa nga namatay, usa ka tawo nga buhi kaayo, o bisan kinsa nga binuhat nga angayan nga hinumduman."
+  },
+  "sculpture": {
+    "heading": "Ang Sculpture",
+    "paragraph1": "Ang artwork adunay tulo ka co-dependent nga mga elemento: usa ka satellite ilabi na nga gidisenyo aron tipigan ang binilyon nga mga ngalan; usa ka public sculpture nga nagbayloay og impormasyon sa satellite; ug usa ka website diin ang mga partisipante nagpadala sa mga ngalan, gikan karon hangtod sila namatay, ngadto sa langit.",
+    "paragraph2": "Isip usa ka multidisciplinary nga paningkamot, ang Orbital Temple mahimong isipon nga usa ka site-sculpture nga eskultura, nagpuyo nga luna. Usa usab kini ka proyekto sa Artsat."
+  },
+  "antenna": {
+    "heading": "Ang Antenna Ingon Usa ka Pampublikong Sculpture",
+    "paragraph1": "Usa ka antenna nga nagkonektar kanato sa kawanangan.",
+    "paragraph2": "Gidisenyo ang usa ka antenna nga direktang makigkomunikar sa orbital satellite.",
+    "paragraph3": "Uban sa usa ka bulawan nga nagpabanaag nga nawong, nga nagsalamin sa langit sa ibabaw niini, kini usa ka punto sa pagsugod alang sa mass stimulation (o ang atong relasyon sa kung unsa ang 'naa sa taas').",
+    "paragraph4": "Samtang ang mga eskultura wala ma-install sa kadaghanan nga bahin sa kalibutan, ang among mga Frame gikan sa Yuta, nga karon nagkontrol sa satellite, nagpadala sa mga ngalan sa matag passthrough.",
+    "paragraph5": "Tabangi nga madala kini nga panan-awon sa imong siyudad—pagbutang ug antenna sculpture nga makapadasig sa mga panag-istoryahanay bahin sa eksplorasyon sa kawanangan, arte, ug sa among gipaambit nga dapit sa uniberso. <a href=\"/support\">Pagkat-on og dugang mahitungod sa pagsuporta sa proyekto</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite",
+    "riseNy": "Orbital Temple sa Rise NY",
+    "installation": "Orbital Temple ni Clara Marques",
+    "antenna": "Orbital Temple Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital nga Templo sa kawanangan. 3D rendering ni RiseNY&Partners.",
+    "mercosul": "Pag-instalar sa Orbital Temple sa Mercosul Biennial, sa Porto Alegre, Brazil.<br> Litrato ni Clara Marques."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Malumalu Orbital",
+    "subtitle": "o se faatufugaga ma se satelite,\nfa'amoemoe e avea ma malumalu fa'apitoa e aofia ai,\ni se nofoaga e le mafai ona oo i ai se pa."
+  },
+  "ritual": {
+    "label": "sauniga"
+  },
+  "cta": {
+    "link": "Ae, o se isi malumalu?",
+    "arrowAlt": "aū"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

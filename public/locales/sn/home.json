@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital Temple",
+    "subtitle": "ibasa remifananidzo uye satellite,\ntichivavarira kuve temberi inosanganisirwa,\npanzvimbo isingasviki rusvingo."
+  },
+  "ritual": {
+    "label": "tsika"
+  },
+  "cta": {
+    "link": "Asi, imwe temberi?",
+    "arrowAlt": "museve"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

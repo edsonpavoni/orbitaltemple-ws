@@ -1,0 +1,44 @@
+{
+  "title": "Ón Ealaíontóir",
+  "opening": {
+    "question": "Cé hé an fear seo a mholfaidh teampall sa spás?",
+    "thanks": "Go raibh maith agat as an gceist.",
+    "answer": "Is é an freagra gairid ná gur ealaíontóir mé. Seo an freagra fada:"
+  },
+  "origin": {
+    "sao_paulo": "Rugadh mé i mbruachbhailte São Paulo, i gcomharsanacht a mhúin dom go luath cad is brí le contúirt. Tá go leor de mo chairde scoile i bpríosún anois. Tá mo leasathair i bpríosún. Ní raibh an foréigean ina rud a léigh mé faoi, ba é an domhan a raibh orm nascleanúint a dhéanamh ann. Agus bhí a fhios agam go raibh orm éalú.",
+    "technology": "Ba í an teicneolaíocht mo bhealach amach. D'fhoghlaim mé conas cláir a scríobh, d'fhoghlaim mé leictreonaic mar dhéagóir. Teanga ab ea an cód a d'fhéadfadh mé a thabhairt áit éigin eile. Ba í an obair leis an teicneolaíocht mo bhealach amach ón mbochtaineacht.",
+    "christianity": "Ach bhí mé ag cuardach muintearais freisin, grá, rud éigin le creidiúint ann. Fuair mé an Chríostaíocht, nó fuair sí mé. Glacadh liom. Tugadh grá dom. Bhí pobal agam. D'fhoghlaim mé maithiúnas a thabhairt, creidiúint, bogadh le chéile ar son críche níos mó.",
+    "price": "Bhí an praghas ard, áfach. D'fhoghlaim mé go leor rudaí atá fós le foghlaim agam. Mar sin d'éalaigh mé uaidh sin freisin."
+  },
+  "searching": {
+    "walls": "Tá a fhios agam cad a dhéanann ballaí. Bhraith mé iad. Bhí mé ar an dá thaobh: coinnithe amach, coinnithe istigh. Ina dhiaidh sin, bhí blianta ag cuardach rud nach raibh mé in ann a ainmniú. Fuair Dia bás le linn na mblianta sin. An dia a múineadh dom faoi, ar aon nós, an ceann a raibh rialacha agus breithiúnas agus doirse aige nach n-osclaíodh ach do dhaoine áirithe.",
+    "art": "Thosaigh mé ag déanamh ealaíne chun na ceisteanna seo a iniúchadh: faoi dhlúthchaidreamh agus teicneolaíocht, faoi chuimhne agus bás, faoi cé atá tuillte ag neamh. Thosaigh mé ag tógáil meaisíní a ath-shamhlaíonn ár gcaidreamh le teicneolaíocht, meaisíní a bhfuil do rannpháirtíocht, do láithreacht, d’ainm ag teastáil uathu, chun claochlú ó mhiotal agus cód go rud éigin beo."
+  },
+  "pandemic": {
+    "intro": "Ansin bhuail an paindéim an Bhrasaíl.",
+    "government": "Nuair a cuireadh moill ar vacsaíní COVID, bhí mo rialtas ag idirbheartú aisíocaíochtaí dollar amháin in aghaidh an dáileog. Chuir siad chun cinn leigheas a thuigeadh a bheith neamhéifeachtach, ag gáire agus daoine ag fáil bháis ag streachailt le hanálú. Dhúisíomar gach lá le huimhir dhifriúil. Cé mhéad duine a fuair bás le 24 uair an chloig anuas? An raibh sé níos mó, nó níos lú ná mar a bhíothas ag súil leis?",
+    "war": "Bhí leath an domhain scanraithe, agus bhí an leath eile ag séanadh. Bhíomar i gcogadh, leis an víreas agus lena chéile.",
+    "memorial": "Bhí fonn orm spás a chruthú don bhrón comhchoiteann, agus mar sin, i gcomhar le na céadta duine, chruthaigh mé an Memorial Inumeráveis. Saothar ealaíne ag crosbhóthar na healaíne agus na hiriseoireachta. Rinneamar agallamh le teaghlaigh a chaill duine éigin. Scríobhamar scéal saoil an duine a chaill siad. Rinneamar stair de na huimhreacha. Rinneadh dánta, amhráin, simfónacha leis na stair sin. Léigh réaltaí na scéalta sin ar an teilifís náisiúnta. Shroich an tionscadal na milliúin.",
+    "meaning": "Ní hé an scála a bhí tábhachtach, ach gur ainm, saol, neamh duine éigin a bhí i ngach scéal."
+  },
+  "discovery": {
+    "pattern": "Tar éis níos mó ná deich míle comhrá faoi bhrón, thosaigh patrún ag teacht chun cinn. Nuair a labhraímid faoi dhuine atá básaithe, ní hamháin go ndeirimid rudaí maithe; roghnaímid blúirí dá scéal amhail is dá mba litir mholta a bhíomar ag scríobh. Moladh chuig geataire na bparthas. Déanaimid ár ndícheall iad a sheoladh chuig áit ghlactha, scíthe, onóra agus cuimhne.",
+    "understanding": "Agus thuig mé rud a d’athraigh gach rud: Tá gortú déanta orainn ag na teampaill chéanna a thógamar. Múnlaíonn ár gcreideamh faoi cé atá tuillte ag neamh cé a eisiamhann muid ar Domhan. Chreid na coilínithe Portaingéalacha sa Bhrasaíl nach raibh anam ag daoine Gorma; bhí an creideamh sin ina údar maith le sclábhaíocht. Má bhí tú dúchasach, má rugadh tú san áit mhícheart nó má bhí grá agat don duine mícheart, dúradh leat go raibh doirse na bhflaitheas dúnta duit.",
+    "birth": "Sin mar a rugadh Teampall Orbital."
+  },
+  "shaman": {
+    "secular": "Ní féidir le haon ealaíontóir a bheith fíor-shaolta. Táimid ceangailte go deo lenár sinsear coiteann, an seamán. Ar dtús, bhí uaimh ann. Phéinteáil daoine ainmhithe ar bhallaí ní le maisiú, ach le hiarracht. Damhsaigh siad, agus rinneadh teampall den uaimh. Tá spiorad an deasghnátha i seilbh an seamáin; tá aura na healaíne i seilbh an ealaíontóra. Péinteálaimid, dealbhaímid, códaímid, dearaimid ár dtodhchaí inmhianaithe ní le maisiú, ach le hiarracht. Tá gach ealaín spioradálta, fiú nuair a mhaíonn sí nach bhfuil."
+  },
+  "space": {
+    "question": "Cá bhféadfaimis teampall a thógáil gan bhallaí? I gcás nach bhféadfadh aon náisiún ná reiligiún éileamh a dhéanamh air. I gcás inar féidir linn sinn féin a shamhlú mar ghrúpa amháin.",
+    "answer": "Spás.",
+    "description": "Satailít ealaíne rannpháirteach ón Deisceart Domhanda. Teampall i bhfithis a thugann cuireadh do gach duine a n-ainmneacha a sheoladh chuig an spás, beag beann ar cé hiad, cá rugadh iad, cé a bhfuil grá acu dó, cad a chreideann siad. Áit ina bhfuil cuimsiú radacach indéanta, i bhfithis, thar theorainneacha.",
+    "mission": "Is misean foinse oscailte é seo. Beidh gach doiciméad teicniúil, gach líne cóid ar fáil saor in aisce ionas gur féidir le healaíontóirí eile, pobail eile, náisiúin eile a satailítí féin a thógáil. Mar sin ní hamháin go nglacann an Deisceart Domhanda páirt i dtaiscéalaíocht spáis, ach bíonn sé i gceannas air."
+  },
+  "closing": {
+    "answer": "Cé hé an fear seo le teampall a thógáil sa spás? Nílim á thógáil. Tógtar an teampall ag gach duine a chinneann ainm a sheoladh, é a fheiceáil mar rud naofa, é a dhéanamh fíor. Is mise an té atá ag moladh. Is tusa an té atá á thógáil má shocraíonn tú é sin a dhéanamh.",
+    "signature": "Le cineáltas,",
+    "name": "Edson Pavoni"
+  }
+}

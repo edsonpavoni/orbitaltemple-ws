@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "le faatufugaga",
+    "sendAName": "auina atu se igoa",
+    "fromTheArtist": "mai le tusiata",
+    "yetAnotherTemple": "ae, se isi malumalu?",
+    "howItWorks": "pe faapefea ona galue",
+    "spaceLaunch": "avanoa avanoa ma tulaga lamatia",
+    "briefHistory": "talafaasolopito puupuu o faatufugaga i le vanimonimo",
+    "education": "a'oa'oga & tatala fa'apogai",
+    "sustainability": "gafataulimaina ma otaota o avanoa",
+    "press": "fa'asalalau & fa'asalalauga",
+    "team": "'au",
+    "partners": "paaga",
+    "support": "lagolago",
+    "technicalInfo": "fa'amatalaga fa'apitoa"
+  },
+  "ritual": {
+    "label": "sauniga",
+    "ariaLabel": "Ulufale i le sauniga - Auina atu se igoa i le Malumalu Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple o se faatufugaga a Edson Pavoni, na faia i le galulue faatasi ma Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ma i latou uma o loo faaauau pea ona auina atu igoa i lenei malumalu."
+  }
+}

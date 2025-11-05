@@ -1,0 +1,61 @@
+{
+  "title": "Gulu - Orbital Temple",
+  "heading": "Gulu",
+  "artist": "Edson Pavoni, artist",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Executive Producer",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Electronic Engineering",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Mapulogalamu",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Mapangidwe ndi Zomangamanga",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Kusindikiza kwa 3D",
+      "members": "Solid Concepts, motsogozedwa ndi Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Kutulutsa kwa 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Kafukufuku",
+      "members": "Roberta Savian Rosa ndi Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Kupanga Ziwonetsero, Kujambula & Kupanga Zinthu",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Chiwonetsero cha Silk Screening",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Pulojekiti ya Maphunziro",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Communication Team",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Zikomo mwapadera",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni; Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satellite ya Orbital Temple"
+}

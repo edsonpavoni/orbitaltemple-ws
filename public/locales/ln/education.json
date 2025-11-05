@@ -1,0 +1,43 @@
+{
+  "title": "Éducation & Source Ouverte - Temple ya Orbital",
+  "heading": "Éducation & Source Ouverte",
+  "intro": {
+    "paragraph1": "Teknolozi nyonso oyo esalemi mpo na mission ya Tempelo ya Orbital ekozala na <strong>source ouverte</strong> mpe ekozala na internet na <strong>portugais</strong> , <strong>anglais</strong> , <strong>espagnol</strong> , mpe <strong>hindi</strong> , kolendisa bokoli ya bolukiluki ya espace na <strong>Sud mondial</strong> . Ba missions mpe ba projets ya sika ekoki kosalela Orbital Temple lokola fondation mpo na ba expériences artistiques to scientifiques na bango moko.",
+    "paragraph2": "Lokola eteni ya mission na yango ya mateya, Orbital Temple ekopesa cours ya ofele ya minoko mingi na ndenge ya kotonga mpe ko lancer satellite. Ekozala libaku ya maboko mpo na koyekola na ntina ya tekiniki ya satellite mpe kotia yango na misala. Moto nyonso oyo azali na mbula koleka <strong>16</strong> akozala na makoki ya kotonga satellite na ye moko, koyekola histoire ya art na espace, ba concepts fondamentaux ya électronique, mécanique mpe science spatiale, y compris ndenge ya ko financer ba projets mpe ndenge ya kotonga antenne mpo na ko communiquer na ba satellites na orbite."
+  },
+  "spaceGap": {
+    "heading": "Mpo na nini likambo oyo ezali na ntina: Esika oyo ezali na esika",
+    "paragraph1": "Liloba <strong>&quot;Espace spatial&quot;</strong> ezali kolobela bokabwani kati ya bikolo oyo ekoli oyo ekoki kozwa mabaku ya tekiniki oyo ezwami na nzela ya bolukiluki ya esika, mpe bikolo oyo ezali naino na bokei liboso oyo ezangi nzela ya kozwa mayele wana. Bikolo oyo ezali na Sud mondial esengeli kofuta mbongo mingi na baguvernema to bakompanyi ya bapaya mpo na kozwa sango ya moboko oyo esalemi na ba technologies ya satellite.",
+    "paragraph2": "Teknolozi ya etando epesaka matomba ya ntina mingi: ba satellites esalisaka mpo na kobundisa kokata banzete na ndenge oyo epekisami, koboma mbisi na ndenge oyo epekisami, mpe mombongo ya banyama ya zamba oyo eyokani te na mibeko, oyo ezali koleka <strong>dolare miliare 73 na mbula</strong> . Bazali kopesa makambo ya ntina mingi na ntina na klima, kobimisama ya mai, mpe kozanga bilei. Ba satellites epesaka nzela na irrigation précision mpe ba techniques ya bilanga, mpe esalisaka mpo na kopekisa makama ya nature. Industrie spatiale ekoki ko créer jusqu’à <strong>1 million d’emplois</strong> par <strong>2030</strong> , pourtant ba opportunités wana etikali inaccessible na batu mingi na Sud mondial.",
+    "paragraph3": "Na kopesaka technologie ya source ouverte mpe mateya, tozali na mokano ya ko démocratiser accès na espace mpe kopesa makoki na génération ya sika ya ko lota koleka lola."
+  },
+  "empowering": {
+    "heading": "Kopesa nguya na Nkola oyo ekoya",
+    "intro": "Tokoteya nkola ekoya ya ba explorateurs spatiaux ndenge ya kotonga pe ko lancer ba satellites na bango moko, oyo etali ba sujets essentiels dont :",
+    "topics": {
+      "history": "<strong>Histoire ya art na espace :</strong> Kososola lignée ya ba satellites artistiques na ba oeuvres d’art basées na espace.",
+      "concepts": "<strong>Makanisi ya ntina:</strong> <strong>ArtSat</strong> (ba satellites artistiques), technologie spatiale <strong>ya Open Source</strong> , mpe <strong>Space Gap</strong> .",
+      "missions": "<strong>Mission spatiale :</strong> Ndenge ya ko conceptualiser pe ko conçoivre mission, pe ndenge ya kosala équipe pona ko exécuter yango.",
+      "electronics": "<strong>Électronique na espace :</strong> Ba concepts fondamentales ya ba composants électroniques oyo ekoki kobika pe ko fonctionner na environnement spatial.",
+      "mechanics": "<strong>Mécanique na espace :</strong> Kososola masengi ya structure pe mécanique pona conception ya satellite.",
+      "orbits": "<strong>Orbites mpe ba lanceurs:</strong> Lolenge ndenge na ndenge ya ba orbites mpe ndenge ya kopona ba fournisseurs ya lancement mpo na mission na yo.",
+      "financing": "<strong>Ba stratégies ya financement :</strong> Ndenge ya kozua misolo pe ba ressources pona ko lancer satellite na yo. Cours ekopesa ba ressources pona kozua misolo pona lancement na yo, ko aider ba élèves bazua ba programmes pe ba dons ya ba institutions internationales oyo esungaka ba jeunes scientifiques pe ba étudiants na kotinda ba satellites na bango na espace.",
+      "groundStation": "<strong>Développement ya station terrestre:</strong> Ndenge ya kotonga antenne pona ko communiquer na Temple Orbital pe ba satellites misusu."
+    }
+  },
+  "technology": {
+    "heading": "Teknolozi: Ba satellites ya PocketQube",
+    "paragraph1": "Bayekoli bakoyekola kosala na ba satellites <strong>PocketQube</strong> , norme ya nanosatellite oyo ezali kaka na <strong>5cm3</strong> mpe na kilo ya <strong>250g</strong> . Atako bonene na yango ezali moke, PocketQubes ezali bisaleli ya nguya oyo ekoki kotala Mabele, kolandela, mpe kosolola.",
+    "paragraph2": "Ba satellites compacts wana ezali na ba applications ebele ya mokili ya solo, kobanda na ba recherches scientifiques na changement climatique tii na communication intercontinental. Lokola ezali mike mpe pɛpɛlɛ, ezali na ntalo moke mpo na kotonga mpe kobwaka yango, mpe yango esalaka ete bana-kelasi, balukiluki mpe bato ya mayele na mokili mobimba bázwa esika mingi."
+  },
+  "globalAccess": {
+    "heading": "Accès mondial, Kobanda na Sud ya mokili mobimba",
+    "paragraph1": "Liteya yango ekozala mpo na moto nyonso <strong>oyo azali na mbula 16 to koleka</strong> , <strong>ofele</strong> mpenza . Tozali kobanda na makambo na <strong>Portugais</strong> , <strong>Espagnol</strong> , <strong>Anglais</strong> , mpe <strong>Hindi</strong> , na mikano ya kopanzana na minoko mosusu lokola programme ezali kokola.",
+    "paragraph2": "Mission na biso ebandi na Sud mondial mpe epanzani na mokili mobimba, kosala ete nkola ekoya ya ba exploreurs spatiaux ewuta na ba coins nionso ya Mabele."
+  },
+  "callToAction": {
+    "heading": "Bosunga Biso Tosala Oyo Esalema",
+    "content": "Programme oyo ya éducation ezali kosalama sikoyo. Tozali koluka ba partenaires mpe ba donateurs oyo bakabolaka vision na biso ya ko démocratiser accès na technologie spatiale. Soki yo to ebongiseli na yo olingi kosunga mwango oyo, tosengi okende na <a href=\"/support\">lokasa na biso ya lisungi</a> mpo na koyeba mabaku ya boyokani."
+  },
+  "imageAlt": "Satellite ya Tempelo ya Orbital"
+}

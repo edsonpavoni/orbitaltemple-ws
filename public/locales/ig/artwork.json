@@ -1,0 +1,31 @@
+{
+  "title": "Ihe osise - Orbital Temple",
+  "heading": "Ihe osise",
+  "intro": {
+    "paragraph1": "Templelọ nsọ Orbital bụ satịlaịtị nwere ọrụ nka: ihe ncheta dị na mbara igwe mepere emepe nye onye ọ bụla dị ndụ ma ọ bụ biri n'ụwa.",
+    "paragraph2": "Site na nkà na ụzụ, onye ọ bụla nwere ike iziga aha mmadụ n'ụlọ nsọ, ma ọ bụ onye nwụrụ anwụ, onye dị ndụ nke ukwuu, ma ọ bụ ihe ọ bụla kwesịrị icheta."
+  },
+  "sculpture": {
+    "heading": "Ihe ọkpụkpụ",
+    "paragraph1": "Ihe osise a nwere ihe atọ jikọrọ aka: satịlaịtị emebere nke ọma iji chekwaa ọtụtụ ijeri aha; ihe oyiyi ọha na eze na-eji satịlaịtị na-agbanwe ozi; na webụsaịtị nke ndị sonyere na-eziga aha, site ugbu a ruo mgbe ha gafere, gaa n'eluigwe.",
+    "paragraph2": "Dị ka ihe omume multidisciplinary, Orbital Temple nwere ike ịre dị ka ihe oyiyi saịtị, ebe obibi. Ọ bụkwa ọrụ Artsat."
+  },
+  "antenna": {
+    "heading": "Antenna Dị ka Ọha Ọha",
+    "paragraph1": "Antenna na-ejikọta anyị na oghere dị n'èzí.",
+    "paragraph2": "A na-emepụta antenna nke ga-enwe mkparịta ụka ozugbo na satịlaịtị orbital.",
+    "paragraph3": "N'elu ihe na-egbuke egbuke nke ọla edo, na-egosipụta elu igwe n'elu ya, ọ bụ mmalite maka mkpali uka (ma ọ bụ mmekọrịta anyị na ihe dị 'n'ebe ahụ').",
+    "paragraph4": "Ọ bụ ezie na a naghị etinye ihe ọkpụkpụ ahụ n'ọtụtụ akụkụ nke ụwa, Frames anyị sitere na Ụwa, bụ ndị na-achịkwa satịlaịtị ugbu a, na-eziga aha na passthrough ọ bụla.",
+    "paragraph5": "Nyere aka weta ọhụụ a n&#39;obodo gị-ịwụnye ihe ọkpụkpụ antenna na-akpali mkparịta ụka gbasara nyocha oghere, nka na ebe anyị na-ekerịta na mbara igwe. <a href=\"/support\">Mụtakwuo maka ịkwado ọrụ a</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite Temple Orbital",
+    "riseNy": "Orbital Temple na Rise NY",
+    "installation": "Orbital Temple nke Clara Marques dere",
+    "antenna": "Antenna Temple Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Temple dị na mbara igwe. Ihe ngosi 3D sitere na RiseNY&Partners.",
+    "mercosul": "Nrụnye Temple Orbital na Mercosul Biennial, na Porto Alegre, Brazil.<br> Foto nke Clara Marques."
+  }
+}

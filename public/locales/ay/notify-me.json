@@ -1,0 +1,13 @@
+{
+  "title": "Yatiyatäñapawa - Templo Orbital",
+  "heading": "Kunapachatï sartaski ukhajj yatiyatäñapawa",
+  "description": "28 uru noviembre phaxsit 2025 maranx Templo Orbital ukaw jilxattani.<br> Correo electrónico ukar jaytañamawa, ukat kunapachas espacio ukar purini uk yatiyapxäma.",
+  "form": {
+    "emailPlaceholder": "ukax@email.com ukaruw qillqt’asi",
+    "sendButton": "Apayaña",
+    "sendingButton": "Ukax mä...",
+    "successMessage": "Kunapachatï makhatkani ukhajj jumanakaruw puriñäni.",
+    "errorMessage": "Kunas jan waliruw puriwayi. Ukhamaraki, mayampi yant’apxañani."
+  },
+  "backLink": "← Jakhuwi kutt’aña"
+}

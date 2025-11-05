@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "hojii aartii sana",
+    "sendAName": "maqaa ergaa",
+    "fromTheArtist": "artistii irraa",
+    "yetAnotherTemple": "taʼus, mana qulqullummaa kan biraa?",
+    "howItWorks": "akkamitti akka hojjetu",
+    "spaceLaunch": "hawaa furguggifamuu fi balaa",
+    "briefHistory": "seenaa gabaabaa aartii hawaa keessatti",
+    "education": "barnoota & madda banaa",
+    "sustainability": "itti fufiinsa fi caccabaa hawaa",
+    "press": "press & miidiyaa",
+    "team": "garee",
+    "partners": "michoota ta’an",
+    "support": "deeggarsa",
+    "technicalInfo": "odeeffannoo teeknikaa"
+  },
+  "ritual": {
+    "label": "sirna",
+    "ariaLabel": "Sirna seena - Maqaa gara Mana Qulqullummaa Orbitaalaatti ergi"
+  },
+  "footer": {
+    "credits": "Orbital Temple hojii aartii Edson Pavoni yoo ta'u, Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, fi warra mana qulqullummaa kanaaf maqaa erguu itti fufan hunda waliin ta'uun kan uumamedha."
+  }
+}

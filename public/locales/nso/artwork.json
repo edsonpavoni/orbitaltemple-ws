@@ -1,0 +1,31 @@
+{
+  "title": "Mošomo wa Bokgabo - Tempele ya Orbital",
+  "heading": "Mošomo wa Bokgabo",
+  "intro": {
+    "paragraph1": "Orbital Temple ke sathalaete yeo e nago le thomo ya bokgabo: segopotšo sebakeng sa ka ntle seo se buletšwego sephedi se sengwe le se sengwe seo se nago le maikutlo seo se phelago goba se phetšego Lefaseng.",
+    "paragraph2": "Ka mekgwa ya theknolotši, mang le mang a ka romela leina la motho yo mongwe Tempeleng, e ka ba motho yo a hlokofetšego, motho yo a phelago kudu, goba sephedi sefe goba sefe seo se swanelwago ke go gopolwa."
+  },
+  "sculpture": {
+    "heading": "Sebopego sa go Betlwa",
+    "paragraph1": "Mošomo wa bokgabo o na le dilo tše tharo tšeo di ithekgilego ka tšona: sathalaete yeo e hlametšwego ka mo go kgethegilego go boloka maina a dimilione tše dikete; seswantšho sa setšhaba seo se fapantšhago tshedimošo le sathalaete; le weposaete yeo ka yona batšwasehlabelo ba romelago maina, go tloga bjale go fihla ge a hlokofala, legodimong.",
+    "paragraph2": "Bjalo ka maiteko a dikarolo tše dintši, Tempele ya Orbital e ka tšewa e le seswantšho se se betlilwego ka lefelo le itšego, yeo e dulago sebaka. Gape ke projeke ya Artsat."
+  },
+  "antenna": {
+    "heading": "Antena Bjalo ka Seswantšho sa Setšhaba",
+    "paragraph1": "Antena yeo e re kgokaganyago le sebaka sa ka ntle.",
+    "paragraph2": "Go hlangwa eriele yeo e tlago go ba kgokaganong e lebanyago le sathalaete ya go dikologa.",
+    "paragraph3": "Ka bokagodimo bja gauta bjo bo bonagatšago, bjo bo bonagatšago leratadima ka godimo ga lona, ke ntlha ya mathomo ya tlhohleletšo ya boima (goba kamano ya rena le seo se lego ‘godimo kua’).",
+    "paragraph4": "Le ge diswantšho tše di betlilwego di sa tsenywa dikarolong tše dintši tša lefase, Diforeime tša rena go tšwa Lefaseng, tšeo ga bjale di laolago sathalaete, di romela maina ka go feta mo gongwe le mo gongwe.",
+    "paragraph5": "Thuša go tliša pono ye motseng wa gago—go tsenya diswantšho tše di betlilwego tša di- antenna tšeo di hlohleletšago dipoledišano mabapi le go nyakišiša sebakabakeng, bokgabo le lefelo leo re le abelanago cosmos. <a href=\"/support\">Ithute ka botlalo ka ga go thekga projeke</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Sathalaete ya Tempele ya Orbital",
+    "riseNy": "Tempele ya Orbital ka Rise NY",
+    "installation": "Tempele ya Orbital ka Clara Marques",
+    "antenna": "Antena ya Tempele ya Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempele ya Orbital sebakabakeng. 3D phetolelo ke RiseNY & Balekane.",
+    "mercosul": "Go hlongwa ga Tempele ya Orbital go Mercosul Biennial, kua Porto Alegre, Brazil.<br> Seswantšho ka Clara Marques."
+  }
+}

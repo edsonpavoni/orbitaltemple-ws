@@ -1,0 +1,44 @@
+{
+  "title": "Tso Nutala la gbɔ",
+  "opening": {
+    "question": "Amekae nye ŋutsu sia be wòado gbedoxɔ aɖe tutu ɖe yamenutome?",
+    "thanks": "Akpe na wò ɖe biabia la ta.",
+    "answer": "Ŋuɖoɖo kpuiae nye be nutalae menye. Edidi lae nye esi:"
+  },
+  "origin": {
+    "sao_paulo": "Wodzim le São Paulo ƒe gbɔto, le nuto aɖe si me wofia nusi afɔku fiam le gɔmedzedzea me. Xɔ̃nye siwo le suku la dometɔ geɖe le gaxɔ me fifia. Fofonye si nye tɔgbuinye le gaxɔ me. Ŋutasẽnuwɔwɔ menye nusi ŋu mexlẽ nu tsoe o, ke boŋ xexe si me wòle be mazɔ le ye. Eye menya be ehiã be masi.",
+    "technology": "Mɔ̃ɖaŋununya va zu nye mɔ si dzi mato ado le eme. Mesrɔ̃ ɖoɖowɔwɔ, mesrɔ̃ elektrɔnikmɔ̃wo esime menye ƒewuivi. Code nye gbegbɔgblɔ si ate ŋu akplɔm ayi teƒe bubu. Dɔwɔwɔ kple mɔ̃ɖaŋununyae nye nye sisi tso ahedada me.",
+    "christianity": "Gake menɔ ame ŋutɔ tɔ, lɔlɔ̃, nane si dzi maxɔ ase hã dim.Meke ɖe Kristotɔnyenye ŋu, alo eke ɖe ŋunye. Woxɔm. Wolɔ̃m vevie. Nuto aɖe nɔ asinye. Mesrɔ̃ alesi matsɔe ake, axɔe ase, aʋuʋu ɖekae hena taɖodzinu si lolo wu.",
+    "price": "Gake ga si woxena ɖe eta la lolo ŋutɔ. Mesrɔ̃ nu geɖe hã siwo nyemele srɔ̃m haɖe o. Eyata mesi le ema hã nu."
+  },
+  "searching": {
+    "walls": "Menya nusi gliwo wɔna. Mese wo gɔme kpɔ. Menɔ akpa evea siaa: meɖe asi le eŋu, meyi edzi nɔ eme.Nusi kplɔe ɖoe nye ƒe geɖe siwo metsɔ di nane si nyemate ŋu ayɔ o. Mawu ku le ƒe mawo me. Mawu si ŋu wofia nu tsoe, le mɔ sia mɔ nu, amesi si sewo kple ʋɔnudɔdrɔ̃ kple ʋɔtru siwo ʋuna na ame aɖewo ko le.",
+    "art": "Medze aɖaŋudɔwo wɔwɔ gɔme be madzro biabia siawo me: ku ɖe ƒomedodo kplikplikpli kple mɔ̃ɖaŋununya ŋu, ku ɖe ŋkuɖoɖonudzi kple ku ŋu, ku ɖe amesi dze na dziƒo ŋu. Medze mɔ̃ siwo gbugbɔa míaƒe ƒomedodo kple mɔ̃ɖaŋununya le susu me, mɔ̃ siwo hiã wò gomekpɔkpɔ, wò anyinɔnɔ, wò ŋkɔ, be woatrɔ tso ga kple kɔpi me azu nane si le agbe la tutu gɔme."
+  },
+  "pandemic": {
+    "intro": "Emegbe dɔvɔ̃a va dze Brazil dzi.",
+    "government": "Esi wohe COVID ƒe atikewɔmɔnuwo ɖe megbe la, nye dziɖuɖua nɔ nu ƒom tso ga home si nye dɔlar ɖeka ƒe agbɔsɔsɔme ɖeka ŋu. Wodo atikewɔwɔ si gɔme wose be mewɔa dɔ o ɖe ŋgɔ, wokoa nu esime amewo kuna esime wole agbagba dzem be yewoagbɔ. Míefɔna gbesiagbe le xexlẽme vovovo me. Ame nenie ku le gaƒoƒo 24 siwo va yi me? Ðe wòsɔ gbɔ wu alesi wokpɔ mɔe, alo mede nenema oa?",
+    "war": "Vɔvɔ̃ ɖo xexeame ƒe afã, eye afã bubu hã nɔ gbegbe me. Míenɔ aʋa wɔm, kple dɔlékuia kpakple mía nɔewo.",
+    "memorial": "Medi be mawɔ teƒe na nuxaxa le ƒuƒoƒo me, eyata mewɔ ɖeka kple ame alafa geɖe míewɔ Ŋkuɖodzi Inumeráveis. Nutata aɖe si le aɖaŋudɔ kple nyadzɔdzɔŋlɔlawo ƒe tsatsam. Míebia gbe ƒome siwo me ame aɖe ku. Míeŋlɔ ame si wobu la ƒe agbemeŋutinya. Míetrɔ xexlẽdzesiwo wozu ŋutinyawo. Wotsɔ ŋutinya mawo wɔ hakpanyawo, hadzidziwo, saŋkuƒoƒo. Ɣletiviwo xlẽa ŋutinya mawo le dukɔa ƒe television dzi. Dɔa ɖo ame miliɔn geɖe gbɔ.",
+    "meaning": "Nusi le vevie menye dzidzenua o, ke boŋ enye be ŋutinya ɖesiaɖe nye ŋkɔ, agbe, ame aɖe ƒe dziƒo."
+  },
+  "discovery": {
+    "pattern": "Le dzeɖoɖo siwo wu akpe ewo kple nuxaxa megbe la, kpɔɖeŋu aɖe te dodo. Ne míele nu ƒom tso ame aɖe si ku ŋu la, menye nya nyuiwo koe míegblɔna o; míetiaa woƒe ŋutinya kakɛwo abe ɖe míele kafukafugbalẽ ŋlɔm ene. Kafukafu aɖe na paradiso ƒe agbonudzɔla. Míewɔa míaƒe ŋutete ɖesiaɖe be míaɖo wo ɖe teƒe si woaxɔ wo, aɖi ɖe eme, woade bubu wo ŋu eye woaɖo ŋku wo dzi.",
+    "understanding": "Eye mese nane si trɔ nusianu gɔme: Gbedoxɔ siwo tututu míetu la xɔ abi na mí. Míaƒe dzixɔse siwo ku ɖe amesiwo dze na dziƒo ŋu la trɔa asi le amesiwo míeɖena ɖa le Anyigba dzi ŋu tẽ. Portugaltɔ siwo xɔ anyigbaa le Brazil xɔe se be luʋɔ aɖeke mele Ameyibɔwo si o; dzixɔse ma na kluvinyenye sɔ. Ne anyigbadzitɔ nènye, ne wodzi wò le teƒe si mesɔ o alo nèlɔ̃ ame gbegblẽ la, wogblɔ na wò be wotu dziƒo ƒe ʋɔtruwo na wò.",
+    "birth": "Aleae wodzi Orbital Gbedoxɔae."
+  },
+  "shaman": {
+    "secular": "Nutala aɖeke mate ŋu anye xexemenunyala ŋutɔŋutɔ o. Míebla ɖe mía tɔgbui ɖeka, si nye afakala la ŋu tegbee. Le gɔmedzedzea me la, agado aɖe nɔ afima. Amegbetɔwo ta lãwo ɖe gliwo dzi menye be woatsɔ aɖo atsyɔ̃ na wo o, ke boŋ be woatsɔ ayɔ woe. Woɖu ɣe, eye agado la zu gbedoxɔ. Afakala la zãa kɔnuwɔwɔ ƒe gbɔgbɔ; nutala la zãa aɖaŋudɔ ƒe aura. Míetaa nu, kpa, míewɔa kɔpi, míewɔa míaƒe etsɔme si míedi la ƒe nɔnɔmetata menye be míatsɔ aɖo atsyɔ̃ o, ke boŋ be míayɔe. Aɖaŋudɔwo katã nye gbɔgbɔmenuwo, ne wogblɔ be menye nenemae o gɔ̃ hã."
+  },
+  "space": {
+    "question": "Afikae míate ŋu atu gbedoxɔ si me gli aɖeke mele o? Afisi dukɔ alo subɔsubɔha aɖeke mate ŋu agblɔ le o. Afisi míate ŋu akpɔ mía ɖokui le susu me abe ƒuƒoƒo ɖeka ene.",
+    "answer": "Teƒe gbadza.",
+    "description": "Aɖaŋudɔwo ƒe satelait si me wokpɔa gome le tso Xexeame Katã ƒe Anyiehe. Gbedoxɔ si le tsatsam si kpea amesiame be wòaɖo eƒe ŋkɔ ɖe yamenutome, eɖanye amesi wonye, afisi wodzi wo le, amesi wolɔ̃, nusi dzi woxɔ se o. Teƒe si woate ŋu axɔ amewo katã ɖe eme vevie le, le ɣletinyigba dzi, le liƒowo godo.",
+    "mission": "Dɔdasi sia nye esi woate ŋu azã faa. Mɔ̃ɖaŋununya ŋuti nuŋlɔɖi ɖesiaɖe, kɔda ƒe fli ɖesiaɖe anɔ anyi faa ale be nutala bubuwo, nuto bubuwo, dukɔ bubuwo nateŋu atu woawo ŋutɔ ƒe satelaitwo. Eyata menye ɖeko Xexeame Katã ƒe Anyiehe kpɔa gome le yamenutome didi me ko o, ke boŋ exɔa ŋgɔ."
+  },
+  "closing": {
+    "answer": "Eyata amekae nye ŋutsu sia be wòatu gbedoxɔ le yamenutome? Menye ɖe mele etum o. Amesiame si ɖoe be yeaɖo ŋkɔ aɖe ɖa, be yeakpɔe be ele kɔkɔe, be yeazu nu ŋutɔŋutɔe tu gbedoxɔa. Nye koe nye amesi le biabiam. Wòe nye amesi le etum ne ètso nya me be yeawɔe.",
+    "signature": "Dɔmenyotɔe,",
+    "name": "Edson Pavoni ye nye esia"
+  }
+}

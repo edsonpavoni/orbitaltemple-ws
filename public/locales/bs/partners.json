@@ -1,0 +1,50 @@
+{
+  "title": "Partneri - Orbitalni hram",
+  "heading": "Partneri",
+  "intro": "Orbitalni hram postoji zahvaljujući velikodušnosti, stručnosti i viziji izvanrednih partnera. Od inženjeringa satelita do stvaranja narativa, od otvaranja vrata u dalekim zemljama do livenja snova u zlato, svaka saradnja približava ovaj hram zvijezdama.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikacija, integrirana iskustva i zapanjujuće 3D renderirane slike koje su oživjele viziju satelita prije nego što je ikada dotaknuo prazninu svemira."
+    },
+    "highestMantra": {
+      "name": "Naša najviša mantra",
+      "description": "Predvođeno od strane Sathi Roy, povezivanje Orbital Templea s indijskim duhovnim i umjetničkim zajednicama. Otvara puteve prikupljanja sredstava, kulturne razmjene i izložbe Art Basel nakon pokretanja u novembru 2025."
+    },
+    "allToSpace": {
+      "name": "Sve u svemir",
+      "description": "Brazilski stručnjaci za male satelite. Četiri godine saradnje na izgradnji hardverske platforme otvorenog koda i pionirskog procesa slanja umjetnosti u orbitu s globalnog Juga."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indijska organizacija za istraživanje svemira. Lansirna kompanija za misiju PSLV koja će Orbitalni hram nositi u sunčevo-sinhronu orbitu u novembru 2025."
+    },
+    "mercosul": {
+      "name": "13. bijenale Mercosura",
+      "description": "Porto Alegre, Brazil. Kustos je Marcello Dantas sa pomoćnicima kustosa Laura Cattani, Munir Klamt, Tarsila Riso i Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat radionica",
+      "description": "Tim za razvoj satelita formiran je tokom II ArtSat radionice. Koordinira Fabiane M. Borges, podučava Lázaro Camargo, sarađuje Ítalo Pinto Rodrigues, nadgleda Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Čvrsti koncepti",
+      "description": "Predvođen Eduardom Diasom. Sav rad na 3D printanju i mikrolijevanju zlata za skulpturalnu kupolu, pretvarajući digitalne snove u stvarnost od plemenitih metala."
+    },
+    "ideaSpace": {
+      "name": "Prostor za ideje",
+      "description": "Brazilski obrazovni startup razvija nastavni plan i program Svemirskog programa Quebrada, spreman za primjenu na srednjoškolce širom Brazila."
+    }
+  },
+  "closing": "Zainteresovani ste za partnerstvo sa Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Kontaktirajte nas</a> .",
+  "imageAlts": {
+    "riseNy": "Logotip RiseNY&Partners",
+    "highestMantra": "Logo naše najviše mantre",
+    "allToSpace": "Logo \"Sve u svemir\"",
+    "isro": "Logotip ISRO-a",
+    "mercosul": "Logo 13. bijenala Mercosura",
+    "inpe": "Logo INPE ArtSat radionice",
+    "solidConcepts": "Logotip Solid Concepts",
+    "ideaSpace": "Logo Idea Space-a"
+  }
+}

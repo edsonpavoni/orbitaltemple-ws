@@ -1,0 +1,17 @@
+{
+  "title": "Fa'amatalaga Fa'atekinisi - Malumalu Orbital",
+  "heading": "Fa'amatalaga Fa'atekinisi",
+  "satellite": {
+    "heading": "Satelite",
+    "specs": "Fua: 50x58x64 mm<br /> 1P PocketQube<br /> mamafa: 245 gr<br /> Mea: alumini, auro, fiberglass, ma mea faaeletonika.<br /> Ta&#39;amilosaga: Maualuluga 525 ± 25 km; fa&#39;alogona: SSO 97.6 ± 0.1°<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) fa&#39;atautaia e ISRO"
+  },
+  "antenna": {
+    "heading": "Antenna/Vatagata",
+    "specs": "Lua: 6m (diamita) e 1.2m (maualuga)<br /> Mamafa: 46 kg<br /> Mea: alumini, laupapa fa&#39;ata epoxy, fa&#39;aumu alumini auro o lo&#39;o fa&#39;apipi&#39;iina i se fausaga fa&#39;a."
+  },
+  "radio": {
+    "heading": "Leitio Fa'amatalaga",
+    "specs": "So&#39;otaga i lalo: 468.5 MHz<br /> Suiga: CSS<br /> Alalautele: TBD"
+  },
+  "imageAlt": "Satelite Malumalu Orbital"
+}

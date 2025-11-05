@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "loko u nghena\nnkhuvo wa mukhuva\nku rhumela vito\nku nghena eka\ntempele ya orbital\nexibakabakeni\nteka\nku hefemula",
+    "button": "ndzi lunghekile"
+  },
+  "nameInput": {
+    "title": "thayipa vito",
+    "subtitle": "yi ta tlakuka yi ya eTempeleni ya Orbital exibakabakeni.",
+    "placeholder": "vito",
+    "button": "a yi tlhandluke"
+  },
+  "emailInput": {
+    "title": "thayipa email ya wena",
+    "subtitle": "kutani u kuma rungula loko vito ri tlhandluka.",
+    "placeholder": "email ya wena",
+    "button": "swi endliwile"
+  },
+  "loading": {
+    "alt": "Ku layicha"
+  },
+  "success": {
+    "text": "vito ra kona\n{{vito}}\nsweswi yi fole layini\nku tlhandluka.\nloko ku\ntempele exibakabakeni\naligns, na\nantenna ya hina\neMisaveni\nhi ta rhumela\nvito ra kona\nnaswona u ta amukela\nrungula."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Uzinzo kunye neNdawo yeNdawo-iTempile ye-Orbital",
+  "heading": "Uzinzo",
+  "intro": {
+    "paragraph1": "Ukuba ubugcisa buza kusikhokelela kwixesha elizayo, abunakuzibetha ngoyaba iingxaki esijamelana nazo—ukuwohloka kwemekobume, ukungalingani kwezentlalo nocelomngeni olwandayo lwenkunkuma yasesibhakabhakeni. ITempile ye-Orbital iyilwe ngezi nyani engqondweni, ijolise ekubeni bubukho obunenkathalo eMhlabeni nakwi-orbit.",
+    "paragraph2": "Sikholelwa ukuba uzinzo ayisosithintelo kodwa yinxalenye ebalulekileyo yombono wethu wobugcisa. Sonke isigqibo malunga nemathiriyeli, i-orbits, kunye nokusebenza sibonisa ukuzibophelela kwethu ekushiyeni zombini uMhlaba kunye nendawo ngcono kunokuba sizifumene."
+  },
+  "spaceDebris": {
+    "heading": "Inkunkuma yeSithuba",
+    "paragraph1": "Inkunkuma yasesithubeni ngomnye weyona mingeni inzima ejongene nokuphononongwa kwendawo. Amawakawaka eesathelayithi ezingasebenziyo kunye namaqhekeza ajikeleza uMhlaba, esongela imisebenzi esebenzayo kunye nokudala umphumo we-cascade onokwenza iindlela ezithile zokujikeleza zingasebenziseki.",
+    "paragraph2": "Itempile ye-Orbital ilungisa oku ngeendlela ezininzi:",
+    "list": {
+      "orbit": "<strong>I-sun-synchronous orbit kwi-525 km:</strong> Lo mphakamo uqinisekisa ukutsalwa kwe-atmospheri yendalo kuya kubangela ukuba isathelayithi iphinde ingene kwiatmosfera yoMhlaba kwisithuba esimalunga ne-10 leminyaka, apho iya kutsha ngokupheleleyo. Asifaki galelo kububutyobo bexesha elide be-orbital.",
+      "size": "<strong>Uyilo lwePocketQube:</strong> Kwi-50 × 58 × 64mm kunye ne-245g kuphela, isathelayithi incinci ngokwaneleyo ukuba ibe ngumphunga ngokupheleleyo ngexesha lokungena kwakhona, ingashiyi nkunkuma emhlabeni.",
+      "responsibility": "<strong>Akukho kuphelelwa kucetyiweyo:</strong> Ngokungafaniyo neesathelayithi zorhwebo ezinokushiywa, iTempile ye-Orbital yenzelwe ukujikeleza ngokwendalo, izalisekisa izikhokelo zamazwe ngamazwe zomsebenzi onoxanduva lwasemajukujukwini."
+    },
+    "paragraph3": "Ngokukhetha i-orbit yoMhlaba ephantsi kunye noyilo oluhlangeneyo, siqinisekisa ukuba ubukho beTempile ye-Orbital esithubeni bokwexeshana kwaye ayingcolisi."
+  },
+  "carbonNeutrality": {
+    "heading": "Ukungathathi hlangothi kweCarbon",
+    "content": "Konke ukukhutshwa kwekhabhoni ehambelana neTempile ye-Orbital-kubandakanywa nokuveliswa kwesathelayithi, ukuqaliswa, ukusebenza kwesikhululo esisezantsi, ukusingathwa kwewebhusayithi, kunye nokuhamba kweqela-kuya kupheliswa ngokupheleleyo ngeenkqubo zekhredithi zekhabhoni eziqinisekisiweyo. Sizimisele ukwenza lo mnqophiso ungathathi hlangothi."
+  },
+  "openSource": {
+    "heading": "Vula umthombo wezixhobo zekhompyutha",
+    "paragraph1": "Uzinzo lukwathetha ukungamoshi ulwazi. Yonke inkalo yobugcisa ye-Orbital Temple-schematics, ikhowudi, iiprothokholi zonxibelelwano, kunye neendlela zokwakha-ziya kupapashwa njengamaxwebhu omthombo ovulekileyo.",
+    "paragraph2": "Oku kuvumela ubufundisi bexesha elizayo ukuba bakhe phezu komsebenzi wethu endaweni yokuqalisa ekuqaleni, ukunciphisa uphando nophuhliso olungafunekiyo. Ivumela ukufikelela kubuchwepheshe basemajukujukwini, ingakumbi kuluntu olukuMzantsi weHlabathi obekade lungabandakanywa ngokwembali kuphononongo lwasesibhakabhakeni."
+  },
+  "educational": {
+    "heading": "Impembelelo yezemfundo",
+    "paragraph1": "Inkqubo yethu yasimahla yokufundisa ngeelwimi ezininzi ifundisa abafundi kwihlabathi liphela indlela yokwakha nokuphehlelela iisathelayithi, kugxilwe kwiGlobal South. Ngokuxhobisa isizukulwana esilandelayo ngezakhono zobuchwephesha basemajukujukwini, sinegalelo ekuvaleni i-\"Space Gap\" kunye nokudala amathuba ebengayi kubakho.",
+    "paragraph2": "Lo msebenzi wokufundisa wona ngokwawo luhlobo lozinzo-utyalo-mali ebantwini nakuluntu ukudala utshintsho oluhlala luhleli ngaphaya kwexesha lokuphila kwesathelayithi."
+  },
+  "tenYear": {
+    "heading": "Uthumo lweminyaka eli-10",
+    "paragraph1": "ITempile ye-Orbital yenzelwe uthumo lweshumi leminyaka elide, hayi into emfutshane yokwazisa uluntu. Ngaphezulu kweminyaka elishumi, isathelayithi iya kujikeleza uMhlaba malunga namaxesha angama-50,000, ifumana amagama kwaye isebenza njengesikhumbuzo sokuba indawo inokuba yinto eqhelekileyo, efikelelekayo kubo bonke.",
+    "paragraph2": "Emva kokuba injongo yayo iqukunjelwe, isathelayithi ngokwemvelo iya kunqumla i-orbit kwaye itshise, ingashiyi mkhondo ngaphandle kweenkumbulo nakumaxwebhu abo bathathe inxaxheba."
+  },
+  "artsResponsibility": {
+    "heading": "Uxanduva loBugcisa",
+    "paragraph1": "Ubugcisa buhlala busisipili sexesha laso, bubonisa ixabiso kunye neminqweno yethu. Kweli xesha lentlekele yemozulu kunye nokungalingani okukhulayo, sikholelwa ukuba amagcisa anoxanduva lokudala umsebenzi onganikeli nje amagqabantshintshi ngale miba kodwa ojongene nawo.",
+    "paragraph2": "Itempile ye-Orbital yinzame yethu yokwenza umsebenzi wobugcisa obalaseleyo ekubandakanyekeni kwawo, unoxanduva kwimpembelelo yawo yokusingqongileyo, kunye nesisa ekwabelaneni ngolwazi lwawo nehlabathi. Bubugcisa obumema wonke umntu ukuba athathe inxaxheba ngelixa ehlonipha iinkqubo ezibuthathaka-zendalo kunye ne-orbital-ezenza ubomi kunye nokuhlola kwenzeke."
+  },
+  "imageAlt": "ISathelayithi yeTempile yeOrbital"
+}

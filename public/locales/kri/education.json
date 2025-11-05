@@ -1,0 +1,43 @@
+{
+  "title": "Edukeshon & Opin Sos - Ɔrbital Tɛmpl",
+  "heading": "Edukeshon & Opin Sos",
+  "intro": {
+    "paragraph1": "Ɔl di teknɔlɔji we dɛn dɔn mek fɔ di Ɔbital Tɛmpl mishɔn go bi <strong>opin sɔs</strong> ɛn dɛn go de na di intanɛt insay <strong>Pɔtyugis</strong> , <strong>Inglish</strong> , <strong>Spanish</strong> , ɛn <strong>Hindi</strong> , we go mek di spes ɛksplɔrɔshɔn go bifo na di <strong>Globɛl Sawt</strong> . Nyu mishɔn ɛn prɔjek dɛn kin yuz Ɔbital Tɛmpl as fawndeshɔn fɔ dɛn yon atis ɔ sayɛns ɛkspiriɛns.",
+    "paragraph2": "As pat pan in edyukeshɔn mishɔn, Ɔbital Tɛmpl go gi fri kɔs fɔ bɔku langwej dɛn bɔt aw fɔ bil ɛn lanch sataylayt. I go bi chans fɔ lan bɔt sataylayt tɛknɔlɔji ɛn put am na prɔsis. Ɛnibɔdi we dɔn pas <strong>16</strong> ia go ebul fɔ bil in yon sataylayt, lan bɔt di istri bɔt art na spes, di men kɔnsɛpt dɛn fɔ ilɛktroniks, mɛkaniks ɛn spɛs sayɛns, inklud aw fɔ faynans prɔjek ɛn aw fɔ bil ɛntena fɔ kɔmyuniket wit sataylayt dɛn we de ɔbit."
+  },
+  "spaceGap": {
+    "heading": "Wetin Mek Dis Impɔtant: Di Space Gap",
+    "paragraph1": "Di wɔd <strong>&quot;Space Gap&quot;</strong> de tɔk bɔt di difrɛns bitwin divɛlɔp neshɔn dɛn we kin gɛt di tɛknɔlɔjik chans dɛn we dɛn kin gɛt tru spɛs ɛksplɔrɔshɔn, ɛn divɛlɔp neshɔn dɛn we nɔ gɛt akses to dɛn teknɔlɔji ya. Di kɔntri dɛn we de na di Globɛl Sawt fɔ pe bɔku mɔni to fɔrina gɔvmɛnt ɔ kɔmni dɛn fɔ mek dɛn gɛt di bɛsis akses to infɔmeshɔn we sataylayt tɛnkɔlɔji dɛn de mek.",
+    "paragraph2": "Space teknɔlɔji de gi impɔtant bɛnifit dɛn: sataylayt dɛn de ɛp fɔ fɛt fɔ kɔt tik dɛn we nɔ rayt, fɔ fishin we nɔ rayt, ɛn fɔ sɛl wayl animal dɛn we nɔ rayt, we ripresent pas <strong>73 bilyɔn dɔla ɛvri ia</strong> . Dɛn kin gi impɔtant tin dɛn bɔt di klaymat, di we aw dɛn de mek wata, ɛn aw dɛn go gɛt tin fɔ it. Sataylayt dɛn kin mek pɔsin ebul fɔ wata di wata ɛn fɔ mek agrikalchɔral wok fayn fayn wan, ɛn i kin ɛp fɔ mek di bad bad tin dɛn nɔ apin. Di spɛs industri kin mek <strong>1 milyɔn wok dɛn</strong> bay <strong>2030</strong> , yet dɛn chans ya stil nɔ izi fɔ bɔku pipul dɛn na di Globɛl Sawt.",
+    "paragraph3": "We wi de gi opin-sɔs tɛknɔlɔji ɛn ɛdyukeshɔn, wi aim fɔ dimokrasi akses to spɛs ɛn gi pawa to nyu jɛnɛreshɔn fɔ drim pas di skay."
+  },
+  "empowering": {
+    "heading": "Empowering di Nɛks Jɛnɛreshɔn",
+    "intro": "Wi go tich di nɛks jɛnɛreshɔn we de fɛn di spes aw fɔ bil ɛn lanch dɛn yon sataylayt, we go tɔk bɔt impɔtant tɔpik dɛn we inklud:",
+    "topics": {
+      "history": "<strong>Istri bɔt art na spes:</strong> Ɔndastand di laynej fɔ atis sataylayt ɛn spɛs-based artwok.",
+      "concepts": "<strong>Di men kɔnsɛpt dɛn:</strong> <strong>ArtSat</strong> (atistik sataylayt dɛn), <strong>Open Source</strong> spɛs teknɔlɔji, ɛn di <strong>Space Gap</strong> .",
+      "missions": "<strong>Space missions:</strong> Aw fɔ kɔnsɛpt ɛn disayn wan mishɔn, ɛn aw fɔ mek wan tim fɔ ɛksɛkutiv am.",
+      "electronics": "<strong>Ilɛktronik na spɛs:</strong> Fɔndamɛnt kɔnsɛpt dɛn fɔ ilɛktronik kɔmpɔnɛnt dɛn we kin liv ɛn wok na di spɛs ɛnvayrɔmɛnt.",
+      "mechanics": "<strong>Mɛkaniks na spes:</strong> Ɔndastand di strɔkchɔral ɛn mɛkanikal rikwaymɛnt fɔ sataylayt dizayn.",
+      "orbits": "<strong>Ɔbit ɛn lanch:</strong> Difrɛn kayn ɔbit ɛn aw fɔ pik lanch prɔvayda fɔ yu mishɔn.",
+      "financing": "<strong>Faynɛns strateji:</strong> Aw fɔ sikyurɛt fɔnd ɛn risɔs fɔ lanch yu sataylayt. Di kɔs go gi risɔs fɔ gɛt mɔni fɔ yu lanch, ɛp studɛnt dɛn fɔ fɛn program ɛn grant frɔm intanashɔnal institiushɔn dɛn we de sɔpɔt yɔŋ sayɛnsman ɛn studɛnt dɛn fɔ sɛn dɛn sataylayt dɛn na di spes.",
+      "groundStation": "<strong>Grɔn steshɔn divɛlɔpmɛnt:</strong> Aw fɔ bil ɛntena fɔ tɔk to di Ɔbital Tɛmpl ɛn ɔda sataylayt dɛn."
+    }
+  },
+  "technology": {
+    "heading": "Di Teknɔlɔji: PocketQube Sataylayt dɛn",
+    "paragraph1": "Di studɛnt dɛn go lan fɔ wok wit <strong>PocketQube</strong> sataylayt, we na wan nanosatellit standad we gɛt jɔs <strong>5cm3</strong> ɛn we we <strong>250g</strong> . Pan ɔl we dɛn smɔl, PocketQubes na pawaful tin dɛn we ebul fɔ wach di wɔl, wach, ɛn tɔk to pipul dɛn.",
+    "paragraph2": "Dɛn kɔmpakt sataylayt ya gɛt bɔku rial wɔl aplikeshɔn dɛn, frɔm sayɛns risach bɔt klaymɛt chenj to intakɔntinɛntal kɔmyunikeshɔn. Bikɔs dɛn smɔl ɛn layt, dɛn kin ebul fɔ bil ɛn lanch dɛn, ɛn dis kin mek studɛnt dɛn, pipul dɛn we de du risach, ɛn atis dɛn ɔlsay na di wɔl ebul fɔ gɛt ples."
+  },
+  "globalAccess": {
+    "heading": "Globɛl Akses, Start frɔm di Globɛl Sawt",
+    "paragraph1": "Di kɔs go de fɔ ɛnibɔdi we <strong>ol 16 ia ɔ pas dat</strong> , <strong>ɛn dɛn nɔ go pe fɔ am</strong> ɔl . Wi de bigin wit tin dɛn we de insay <strong>Pɔtyugis</strong> , <strong>Spanish</strong> , <strong>Inglish</strong> , ɛn <strong>Hindi</strong> , wit plan fɔ mek wi go ebul fɔ tɔk mɔ to ɔda langwej dɛn as di program de gro.",
+    "paragraph2": "Wi mishɔn bigin na di Globɛl Sawt ɛn i de go ɔlsay na di wɔl, fɔ mek shɔ se di nɛks jɛnɛreshɔn we de fɛn di spes kɔmɔt na ɔl di kɔna dɛn na di wɔl."
+  },
+  "callToAction": {
+    "heading": "Ɛp Wi Fɔ Mek Dis Apin",
+    "content": "Dis edyukeshɔn program de divɛlɔp naw. Wi de luk fɔ patna ɛn dona dɛn we de sheb wi vishɔn fɔ dimokrasi akses to spɛs tɛknɔlɔji. If yu ɔ yu ɔganayzeshɔn want fɔ sɔpɔt dis wok, duya go na wi <a href=\"/support\">sɔpɔt pej</a> fɔ lan bɔt di chans dɛn we pɔsin kin gɛt fɔ wok wit ɔda pipul dɛn."
+  },
+  "imageAlt": "Orbital Tempul Sataylayt"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Balekane - Tempele ea Orbital",
+  "heading": "Balekane",
+  "intro": "Orbital Temple e teng ka ho fana, boitsebelo le pono ea balekane ba makatsang. Ho tloha ho lisathelaete tsa boenjiniere ho ea ho ho qapa lipale, ho tloha ho bula mamati linaheng tse hōle ho isa ho lahlela litoro ka khauta, tšebelisano e 'ngoe le e' ngoe e atametsa tempele ena haufi le linaleli.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY & Balekane",
+      "description": "Puisano, liphihlelo tse kopaneng le 3D e fanang ka litšoantšo tse phelisang pono ea sathelaete pele e ama sebaka se se nang letho."
+    },
+    "highestMantra": {
+      "name": "Mantra ea rona e Phahameng ka ho Fetisisa",
+      "description": "E etelletsoe pele ke Sathi Roy, e hokahanyang Tempele ea Orbital le lichaba tsa India tsa moea le tsa bonono. Ho bula litsela tsa ho bokella chelete, phapanyetsano ea setso, le pontšo ea Art Basel ka mor'a ho qala ka November 2025."
+    },
+    "allToSpace": {
+      "name": "Tsohle ho Sebaka",
+      "description": "Litsebi tse nyane tsa sathelaete tsa Brazil. Lilemo tse 'ne tsa tšebelisano-'moho ho aha sethala se bulehileng sa lisebelisoa tsa lisebelisoa le ho bula mokhoa oa ho romella bonono ho orbit ho tsoa Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Mokhatlo oa Indian Space Research. Mofani oa ho tsebisa thomo ea PSLV e tsamaisang Tempele ea Orbital ho ea ho orbit ea letsatsi ka Pulungoana 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. E hlophisitsoe ke Marcello Dantas ka mothusi oa bahlokomeli Laura Cattani, Munir Klamt, Tarsila Riso, le Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Sehlopha sa nts'etsopele sa satellite se thehiloe nakong ea II ArtSat Workshop. E hokahanngoa ke Fabiane M. Borges, ea laetsoeng ke Lázaro Camargo, ea sebelisanang le Ítalo Pinto Rodrigues, e tsamaisoang ke Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Maikutlo a Tiileng",
+      "description": "E etelletsoe pele ke Eduardo Dias. Mesebetsi eohle ea khatiso ea 3D le khauta e nyane ea khauta bakeng sa dome e betliloeng, e fetolang litoro tsa dijithale hore e be 'nete ea tšepe ea bohlokoa."
+    },
+    "ideaSpace": {
+      "name": "Mohopolo Space",
+      "description": "Ho qala thuto ea Brazil ho nts'etsapele kharikhulamo ea Quebrada Space Program, e seng e loketse ho sebelisoa ho baithuti ba likolo tse phahameng ho pholletsa le Brazil."
+    }
+  },
+  "closing": "Na o khahlehela ho sebelisana &#39;moho le Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Finyella</a> .",
+  "imageAlts": {
+    "riseNy": "Letšoao la RiseNY&Partners",
+    "highestMantra": "Letšoao la rona la Mantra le Phahameng ka ho Fetisisa",
+    "allToSpace": "All to Space Logo",
+    "isro": "ISRO Logo",
+    "mercosul": "Letšoao la bo13 la Mercosur Biennial",
+    "inpe": "INPE ArtSat Workshop Logo",
+    "solidConcepts": "Letšoao la maikutlo a tiileng",
+    "ideaSpace": "Idea Space Logo"
+  }
+}

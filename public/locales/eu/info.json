@@ -1,0 +1,17 @@
+{
+  "title": "Informazio teknikoa - Orbital Temple",
+  "heading": "Informazio teknikoa",
+  "satellite": {
+    "heading": "Satelitea",
+    "specs": "Neurriak: 50x58x64 mm<br /> 1P PocketQube<br /> Pisua: 245 g<br /> Materialak: aluminioa, urrea, beira-zuntzezkoa eta osagai elektronikoak.<br /> Orbita: Altitudea 525 ± 25 km; inklinazioa: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antena/Eskultura",
+    "specs": "Neurriak: 6 m (diametroa) eta 1,2 m (altuera)<br /> Pisua: 46 kg<br /> Materialak: aluminioa, epoxi ispiludun taula, aldamio-egitura batetik zintzilik dagoen urrezko aluminiozko kupula."
+  },
+  "radio": {
+    "heading": "Irratiaren zehaztapenak NASA-Katalogoa:",
+    "specs": "Zehazteke beheranzko lotura: 437 MHz<br /> Deialdia: Egoera: 2025ERAKO EGUTEGIA"
+  },
+  "imageAlt": "Informazio teknikoaren diagrama"
+}

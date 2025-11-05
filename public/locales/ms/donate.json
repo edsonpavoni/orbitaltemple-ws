@@ -1,0 +1,31 @@
+{
+  "title": "Derma kepada Kuil Orbital",
+  "heading": "Lengkapkan Derma Anda",
+  "donatingTo": "Anda menderma kepada:",
+  "chooseHow": "Pilih cara anda ingin melengkapkan derma boleh ditolak cukai anda:",
+  "option1": {
+    "heading": "Pilihan 1: Derma Dalam Talian Sekarang",
+    "description": "Lengkapkan derma anda dengan segera menggunakan kad kredit, kad debit atau kaedah pembayaran dalam talian lain melalui penaja fiskal selamat kami, <strong>The Field</strong> . Anda akan menerima resit cukai segera.",
+    "button": "Derma melalui The Field →"
+  },
+  "option2": {
+    "heading": "Pilihan 2: Deposit Bank ke Yayasan Roy",
+    "description": "Buat deposit bank terus atau pindahan kawat kepada <strong>The Roy Foundation</strong> , rakan kongsi strategik dan penaja fiskal kami. Pilihan ini sesuai untuk derma yang lebih besar atau pemindahan antarabangsa.",
+    "bankingInfo": "Maklumat Perbankan",
+    "fields": {
+      "accountName": "Nama Akaun:",
+      "bankName": "Nama Bank:",
+      "accountNumber": "Nombor Akaun:",
+      "routingNumber": "Nombor Laluan:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Rujukan:"
+    },
+    "instructions": "Sila sertakan &quot; <strong>Orbital Temple - {donationType}</strong> &quot; dalam medan rujukan. Selepas melengkapkan pemindahan anda, e-mel kami di <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> dengan butiran pemindahan anda untuk menerima resit cukai anda.",
+    "button": "Hubungi Kami Mengenai Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Pemberian Boleh Potong Cukai",
+    "description": "Orbital Temple ialah projek tajaan fiskal <strong>The Field (Performance Zone Inc.)</strong> , sebuah organisasi bukan untung <strong>501(c)(3)</strong> . Semua sumbangan AS boleh ditolak cukai setakat yang dibenarkan oleh undang-undang.",
+    "questions": "Soalan? Hubungi kami di <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

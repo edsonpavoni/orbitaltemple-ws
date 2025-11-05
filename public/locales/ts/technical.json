@@ -1,0 +1,17 @@
+{
+  "title": "Vuxokoxoko bya Xithekiniki - Tempele ya Orbital",
+  "heading": "Vuxokoxoko bya Xithekiniki",
+  "satellite": {
+    "heading": "Sathelayiti",
+    "specs": "Swipimelo: 50x58x64 mm<br /> 1P XikhwamaQube<br /> Ndzilo: 245 gr<br /> Switirhisiwa: aluminiyamu, nsuku, fiberglass ni swiphemu swa elektroniki.<br /> Ku rhendzeleka: Ku tlakuka ka 525 ± 25 km; ku rhelela: SSO 97.6 ± 0.1°<br /> Xihahampfhuka: PSLV (Polar Satellite Launch Vehicle) leyi fambisiwaka hi ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Xifaniso xo vatliwa",
+    "specs": "Swipimelo: 6 m (dyayimeta) e 1.2m (ku leha) .<br /> Ndzilo: 46 kg<br /> Switirhisiwa: aluminium, epoxy mirrored board, golden aluminium dome leyi hayekiweke hi xivumbeko xa scaffolding."
+  },
+  "radio": {
+    "heading": "Swihlawulekisi swa Radio",
+    "specs": "Xihlanganisi xa le hansi: 468.5 MHz<br /> Ku cinca-cinca ka swilo: CSS<br /> Ku anama ka bandwidth: TBD"
+  },
+  "imageAlt": "Sathelayiti ya Tempele ya Orbital"
+}

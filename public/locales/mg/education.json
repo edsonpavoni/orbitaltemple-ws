@@ -1,0 +1,43 @@
+{
+  "title": "Education & Open Source - Tempoly Orbital",
+  "heading": "Education & Open Source",
+  "intro": {
+    "paragraph1": "Ny teknolojia rehetra novolavolaina ho an&#39;ny iraka orbital Temple dia ho <strong>loharano misokatra</strong> ary azo jerena amin&#39;ny Internet amin&#39;ny <strong>teny portiogey</strong> , <strong>anglisy</strong> , <strong>espaniola</strong> ary <strong>hindi</strong> , hampiroborobo ny fandrosoan&#39;ny fitrandrahana habakabaka ao amin&#39;ny <strong>Global South</strong> . Ny iraka sy ny tetikasa vaovao dia afaka mampiasa ny Tempoly Orbital ho fototry ny andrana ara-javakanto na siantifika azy manokana.",
+    "paragraph2": "Amin&#39;ny maha-ampahany amin&#39;ny iraka fanabeazana azy, ny Tempoly Orbital dia hanolotra fampianarana amin&#39;ny fiteny maro samihafa momba ny fananganana sy fandefasana zanabolana. Ho fahafahana an-tanana hianarana momba ny teknolojia zanabolana sy hampihatra izany. Na iza na iza mihoatra ny <strong>16</strong> taona dia afaka manangana zanabolana manokana, mianatra momba ny tantaran&#39;ny zavakanto eny amin&#39;ny habakabaka, foto-kevitra fototra momba ny elektronika, ny mekanika ary ny siansa momba ny habakabaka, anisan&#39;izany ny fomba hamatsiana tetikasa sy ny fomba fananganana antenne hifandraisana amin&#39;ny zanabolana amin&#39;ny orbit."
+  },
+  "spaceGap": {
+    "heading": "Nahoana no zava-dehibe izany: Ny elanelana amin'ny habaka",
+    "paragraph1": "Ny teny hoe <strong>&quot;Space Gap&quot;</strong> dia manondro ny fisarahana eo amin&#39;ireo firenena mandroso izay afaka miditra amin&#39;ny fahafahana ara-teknolojia azo amin&#39;ny alàlan&#39;ny fitrandrahana habakabaka, sy ireo firenena an-dalam-pandrosoana izay tsy mahazo ireo teknolojia ireo. Ireo firenena ao amin&#39;ny Global South dia tsy maintsy mandoa vola be amin&#39;ny governemanta na orinasa vahiny mba hahazoana fampahalalana fototra vokarin&#39;ny teknolojia zanabolana.",
+    "paragraph2": "Manome tombony lehibe ny teknolojian&#39;ny habakabaka: manampy amin&#39;ny ady amin&#39;ny fitrandrahana tsy ara-dalàna, ny jono tsy ara-dalàna, ary ny varotra bibidia tsy ara-dalàna ny zanabolana, izay mitentina <strong>73 lavitrisa dolara mahery isan-taona</strong> . Manome fampahalalana ilaina momba ny toetr&#39;andro, ny famokarana rano ary ny fiarovana ara-tsakafo izy ireo. Ny zanabolana dia ahafahana manondraka tsara sy teknika momba ny fambolena, ary manampy amin&#39;ny fisorohana ny loza voajanahary. Ny indostrian&#39;ny habakabaka dia mety hamorona <strong>asa hatramin&#39;ny 1 tapitrisa</strong> amin&#39;ny <strong>2030</strong> , saingy mbola tsy azon&#39;ny maro idirana amin&#39;ny Global South ireo fahafahana ireo.",
+    "paragraph3": "Amin'ny alàlan'ny fanomezana teknolojia sy fanabeazana loharano misokatra, mikendry ny hanao demokratika ny fidirana amin'ny habaka izahay ary hanome hery ny taranaka vaovao hanonofy mihoatra ny lanitra."
+  },
+  "empowering": {
+    "heading": "Fanomezana hery ny taranaka manaraka",
+    "intro": "Hampianatra ny taranaka mpandinika ny habakabaka izahay ny fomba hananganana sy hanombohana ny zanabolanany manokana, mirakitra lohahevitra tena ilaina ao anatin'izany:",
+    "topics": {
+      "history": "<strong>Tantaran&#39;ny zavakanto eny amin&#39;ny habakabaka:</strong> Fahatakarana ny firafitry ny zanabolana ara-javakanto sy ny zavakanto mifototra amin&#39;ny habakabaka.",
+      "concepts": "<strong>Hevitra fototra:</strong> <strong>ArtSat</strong> (satsety ara-kanto), teknolojian&#39;ny habaka <strong>Open Source</strong> , ary ny <strong>Space Gap</strong> .",
+      "missions": "<strong>Misiona an-habakabaka:</strong> Ahoana ny fomba fiheverana sy famolavolana iraka, ary ny fomba hananganana ekipa hanatanteraka izany.",
+      "electronics": "<strong>Electronics amin&#39;ny habakabaka:</strong> Hevitra fototra momba ny singa elektronika izay afaka miaina sy miasa amin&#39;ny tontolo iainana.",
+      "mechanics": "<strong>Mekanika amin&#39;ny habakabaka:</strong> Fahatakarana ny fepetra ara-drafitra sy mekanika amin&#39;ny famolavolana zanabolana.",
+      "orbits": "<strong>Orbit sy mpandefa:</strong> karazana orbit samihafa sy ny fomba hifidianana mpamatsy fandefasana ho an&#39;ny irakao.",
+      "financing": "<strong>Paikady famatsiam-bola:</strong> Ahoana ny fiarovana ny famatsiam-bola sy ny loharanon-karena hanombohana ny zanabolanao. Ny fampianarana dia hanome loharano hahazoana famatsiam-bola ho an&#39;ny fanombohana anao, manampy ireo mpianatra hahita programa sy fanomezana avy amin&#39;ny andrim-panjakana iraisam-pirenena izay manohana ireo mpahay siansa sy mpianatra tanora amin&#39;ny fandefasana ny zanabolanany eny amin&#39;ny habakabaka.",
+      "groundStation": "<strong>Fampandrosoana ny toby ambanin&#39;ny tany:</strong> Ahoana ny fananganana antenne hifandraisana amin&#39;ny Tempoly Orbital sy ny zanabolana hafa."
+    }
+  },
+  "technology": {
+    "heading": "Ny Teknolojia: PocketQube Satellites",
+    "paragraph1": "Hianatra hiasa miaraka amin&#39;ny zanabolana <strong>PocketQube</strong> ny mpianatra, fenitra nanosatellite mirefy <strong>5cm³</strong> fotsiny ary milanja hatramin&#39;ny <strong>250g</strong> . Na dia kely aza ny habeny, PocketQubes dia fitaovana matanjaka afaka mijery ny tany, manara-maso ary mifandray.",
+    "paragraph2": "Ireo zanabolana kely ireo dia manana fampiharana amin'ny tontolo tena izy, manomboka amin'ny fikarohana siantifika momba ny fiovan'ny toetr'andro ka hatramin'ny fifandraisana iraisam-pirenena. Satria kely kokoa sy maivana kokoa izy ireo, dia mora kokoa ny manangana sy manomboka, ka mahatonga ny toerana ho azon'ny mpianatra, ny mpikaroka ary ny mpanakanto manerantany."
+  },
+  "globalAccess": {
+    "heading": "Global Access, manomboka amin'ny Global South",
+    "paragraph1": "Ny fampianarana dia ho azon&#39;ny olona <strong>16 taona no ho miakatra</strong> , <strong>maimaimpoana</strong> tanteraka. Manomboka amin&#39;ny votoaty amin&#39;ny <strong>teny Portiogey</strong> , <strong>Espaniola</strong> , <strong>Anglisy</strong> , ary <strong>Hindi</strong> , miaraka amin&#39;ny fikasana hanitatra amin&#39;ny fiteny fanampiny rehefa mitombo ny fandaharana.",
+    "paragraph2": "Manomboka any amin'ny Global South ny iraka ataontsika ary miitatra eran'izao tontolo izao, miantoka fa avy amin'ny vazan-tany rehetra ny taranaka manaraka ny habakabaka."
+  },
+  "callToAction": {
+    "heading": "Ampio izahay hanao izany",
+    "content": "Ao anatin’ny fampandrosoana ity fandaharam-pampianarana ity amin’izao fotoana izao. Mitady mpiara-miombon&#39;antoka sy mpamatsy vola izahay izay mizara ny vinay amin&#39;ny fanalefahana ny fidirana amin&#39;ny teknolojian&#39;ny habakabaka. Raha te hanohana ity hetsika ity ianao na ny fikambananao dia tsidiho azafady <a href=\"/support\">ny pejy fanohananay</a> mba hianarana momba ny fahafahana miara-miasa."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

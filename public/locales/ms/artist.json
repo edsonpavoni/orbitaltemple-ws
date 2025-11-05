@@ -1,0 +1,44 @@
+{
+  "title": "Daripada Artis",
+  "opening": {
+    "question": "Siapa lelaki ini untuk mencadangkan kuil di angkasa lepas?",
+    "thanks": "Terima kasih atas soalan.",
+    "answer": "Jawapan ringkasnya ialah saya seorang artis. Yang panjang adalah ini:"
+  },
+  "origin": {
+    "sao_paulo": "Saya dilahirkan di pinggir São Paulo, di kawasan kejiranan yang mengajar saya awal tentang bahaya. Ramai kawan sekolah saya di penjara sekarang. Bapa tiri saya di penjara. Keganasan bukanlah sesuatu yang saya baca, ia adalah dunia yang perlu saya tempuh. Dan saya tahu saya perlu melarikan diri.",
+    "technology": "Teknologi menjadi jalan keluar saya. Saya belajar memprogram, belajar elektronik semasa remaja. Kod ialah bahasa yang boleh membawa saya ke tempat lain. Bekerja dengan teknologi adalah pelarian saya daripada kemiskinan.",
+    "christianity": "Tetapi saya juga sedang mencari kepunyaan, cinta, sesuatu untuk dipercayai. Saya menemui agama Kristian, atau ia menemui saya. saya diterima. Saya disayangi. Saya mempunyai komuniti. Saya belajar memaafkan, mempercayai, bergerak bersama untuk tujuan yang lebih besar.",
+    "price": "Harganya, bagaimanapun, adalah tinggi. Saya juga belajar banyak perkara yang masih belum saya pelajari. Jadi saya melarikan diri dari itu juga."
+  },
+  "searching": {
+    "walls": "Saya tahu apa yang dinding lakukan. Saya telah merasakan mereka. Saya berada di kedua-dua belah pihak: dijauhkan, disimpan di dalam. Apa yang diikuti ialah bertahun-tahun mencari sesuatu yang tidak dapat saya namakan. Tuhan mati pada tahun-tahun itu. Tuhan yang saya telah diajar, bagaimanapun, yang mempunyai peraturan dan penghakiman dan pintu yang hanya dibuka untuk sesetengah orang.",
+    "art": "Saya mula membuat seni untuk meneroka soalan ini: tentang keintiman dan teknologi, tentang ingatan dan kematian, tentang siapa yang layak mendapat syurga. Saya mula membina mesin yang membayangkan semula hubungan kami dengan teknologi, mesin yang memerlukan penyertaan anda, kehadiran anda, nama anda, untuk mengubah daripada logam dan kod menjadi sesuatu yang hidup."
+  },
+  "pandemic": {
+    "intro": "Kemudian wabak melanda Brazil.",
+    "government": "Apabila vaksin COVID ditangguhkan, kerajaan saya sedang merundingkan sogokan sebanyak satu dolar bagi setiap dos. Mereka mempromosikan ubat yang difahamkan tidak berkesan, ketawa manakala orang mati bergelut untuk bernafas. Kami bangun setiap hari dengan nombor yang berbeza. Berapa ramai orang yang mati dalam 24 jam yang lalu? Adakah ia lebih, atau kurang daripada yang dijangkakan?",
+    "war": "Separuh daripada dunia takut, dan separuh lagi menafikan. Kami berperang, dengan virus dan antara satu sama lain.",
+    "memorial": "Saya mahu mencipta ruang untuk kesedihan kolektif, jadi bersama-sama dengan ratusan orang saya mencipta Memorial Inumeráveis. Karya seni di persimpangan seni dan kewartawanan. Kami menemu bual keluarga yang telah kehilangan seseorang. Kami menulis kisah hidup orang yang mereka hilang. Kami mengubah nombor menjadi sejarah. Puisi, lagu, simfoni dibuat dengan sejarah tersebut. Bintang membaca cerita itu di televisyen nasional. Projek itu mencecah berjuta-juta.",
+    "meaning": "Apa yang penting bukanlah skala, tetapi setiap cerita adalah nama, kehidupan, syurga seseorang."
+  },
+  "discovery": {
+    "pattern": "Selepas lebih daripada sepuluh ribu perbualan dengan kesedihan, corak mula muncul. Apabila kita bercakap tentang seseorang yang telah meninggal dunia, kita tidak hanya mengatakan perkara yang baik; kami memilih serpihan cerita mereka seolah-olah kami sedang menulis surat cadangan. Cadangan kepada penjaga pintu syurga. Kami melakukan yang terbaik untuk menghantar mereka ke tempat penerimaan, rehat, penghormatan dan ingatan.",
+    "understanding": "Dan saya memahami sesuatu yang mengubah segala-galanya: Kami telah terluka oleh kuil yang kami bina. Kepercayaan kita tentang siapa yang layak mendapat syurga secara langsung membentuk siapa yang kita kecualikan di Bumi. Penjajah Portugis di Brazil percaya orang kulit hitam tidak mempunyai jiwa; kepercayaan itu membenarkan perhambaan. Jika anda orang asli, jika anda dilahirkan di tempat yang salah atau mencintai orang yang salah, anda diberitahu pintu syurga tertutup untuk anda.",
+    "birth": "Itulah bagaimana Kuil Orbital dilahirkan."
+  },
+  "shaman": {
+    "secular": "Tiada artis yang benar-benar sekular. Kami selamanya terikat dengan nenek moyang kami, bomoh. Pada mulanya, terdapat sebuah gua. Manusia melukis haiwan di dinding bukan untuk menghias, tetapi untuk memohon. Mereka menari, dan gua itu menjadi kuil. Bomoh itu menggunakan semangat ritual; artis itu menggunakan aura seni. Kami melukis, kami mengukir, kami kod, kami merancang masa depan yang kami inginkan bukan untuk menghias, tetapi untuk memohon. Semua seni adalah rohani, walaupun ia mendakwa tidak begitu."
+  },
+  "space": {
+    "question": "Di manakah kita boleh membina sebuah kuil tanpa dinding? Di mana tiada bangsa atau agama boleh menuntut. Di mana kita boleh membayangkan diri kita sebagai satu kumpulan.",
+    "answer": "Angkasa.",
+    "description": "Satelit seni penyertaan dari Global South. Kuil di orbit yang menjemput semua orang untuk menghantar nama mereka ke angkasa, tidak kira siapa mereka, di mana mereka dilahirkan, siapa yang mereka cintai, apa yang mereka percayai. Tempat di mana kemasukan radikal boleh dilakukan, di orbit, di luar sempadan.",
+    "mission": "Misi ini adalah sumber terbuka. Setiap dokumen teknikal, setiap baris kod akan tersedia secara percuma supaya artis lain, komuniti lain, negara lain boleh membina satelit mereka sendiri. Jadi Global South bukan sahaja mengambil bahagian dalam penerokaan angkasa lepas, tetapi memimpinnya."
+  },
+  "closing": {
+    "answer": "Jadi siapa lelaki ini untuk membina kuil di angkasa? Saya tidak membinanya. Kuil itu dibina oleh setiap orang yang memutuskan untuk menghantar nama, untuk melihatnya sebagai suci, untuk menjadikannya nyata. Saya sahaja yang meminang. Anda yang membinanya jika anda membuat keputusan.",
+    "signature": "Mohon,",
+    "name": "Edson Pavoni"
+  }
+}

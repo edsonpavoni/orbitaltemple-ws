@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "karya seni",
+    "sendAName": "ngirim ngaran",
+    "fromTheArtist": "ti artis",
+    "yetAnotherTemple": "acan, candi sejen?",
+    "howItWorks": "kumaha gawéna",
+    "spaceLaunch": "peluncuran spasi jeung resiko",
+    "briefHistory": "sajarah ringkes seni di spasi",
+    "education": "atikan & open source",
+    "sustainability": "kelestarian jeung lebu spasi",
+    "press": "pencét & média",
+    "team": "tim",
+    "partners": "mitra",
+    "support": "rojongan",
+    "technicalInfo": "inpo teknis"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Lebetkeun ritual - Kirim nami ka Kuil Orbital"
+  },
+  "footer": {
+    "credits": "Kuil Orbital mangrupikeun karya seni ku Edson Pavoni, didamel kolaborasi sareng Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, sareng sadaya jalma anu terus ngirim nami kuil ieu."
+  }
+}

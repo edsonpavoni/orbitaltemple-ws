@@ -1,0 +1,44 @@
+{
+  "title": "Mula sa Artista",
+  "opening": {
+    "question": "Sino ang taong ito para magmungkahi ng templo sa kalawakan?",
+    "thanks": "Salamat sa tanong.",
+    "answer": "Ang maikling sagot ay isa akong artista. Ang mahaba ay ito:"
+  },
+  "origin": {
+    "sao_paulo": "Ipinanganak ako sa labas ng São Paulo, sa isang lugar na maagang nagturo sa akin kung ano ang ibig sabihin ng panganib. Marami sa mga kaibigan ko sa paaralan ang nasa kulungan ngayon. Ang aking step-father ay nasa kulungan. Ang karahasan ay hindi isang bagay na nabasa ko, ito ang mundo na kailangan kong i-navigate. At alam kong kailangan kong tumakas.",
+    "technology": "Teknolohiya ang naging daan ko. Natuto akong magprogram, natuto ng electronics noong teenager pa ako. Ang code ay isang wika na maaaring maghatid sa akin sa ibang lugar. Ang pagtatrabaho sa teknolohiya ay ang pagtakas ko sa kahirapan.",
+    "christianity": "Ngunit naghahanap din ako ng pag-aari, para sa pag-ibig, para sa isang bagay na paniniwalaan. Natagpuan ko ang Kristiyanismo, o natagpuan ako nito. tinanggap ako. minahal ako. Nagkaroon ako ng komunidad. Natuto akong magpatawad, maniwala, kumilos nang sama-sama para sa mas malaking layunin.",
+    "price": "Ang presyo, gayunpaman, ay mataas. Marami rin akong natutunan na hindi ko pa rin natututunan. Kaya nakatakas din ako doon."
+  },
+  "searching": {
+    "walls": "Alam ko kung ano ang ginagawa ng mga pader. Naramdaman ko na sila. Ako ay nasa magkabilang panig: itinago, itinago. Ang sumunod ay mga taon ng paghahanap ng isang bagay na hindi ko matukoy. Namatay ang Diyos sa mga taong iyon. Ang diyos na itinuro sa akin, gayon pa man, ang may mga tuntunin at paghatol at mga pintuan na nagbubukas lamang para sa ilang tao.",
+    "art": "Nagsimula akong gumawa ng sining upang tuklasin ang mga tanong na ito: tungkol sa pagpapalagayang-loob at teknolohiya, tungkol sa memorya at kamatayan, tungkol sa kung sino ang karapat-dapat sa langit. Nagsimula akong bumuo ng mga makina na muling nag-iimagine ng ating kaugnayan sa teknolohiya, mga makina na nangangailangan ng iyong pakikilahok, iyong presensya, iyong pangalan, upang mabago mula sa metal at code sa isang bagay na buhay."
+  },
+  "pandemic": {
+    "intro": "Pagkatapos ay tumama ang pandemya sa Brazil.",
+    "government": "Noong naantala ang mga bakuna sa COVID, ang aking gobyerno ay nakikipag-usap sa mga kickback na isang dolyar bawat dosis. Nag-promote sila ng gamot na naunawaan na hindi epektibo, tumatawa habang ang mga tao ay namatay na hirap huminga. Araw-araw kaming nagising sa ibang numero. Ilang tao ang namatay sa huling 24 na oras? Mas marami ba ito, o mas mababa kaysa sa inaasahan?",
+    "war": "Kalahati ng mundo ay natakot, at kalahati pa ay nasa pagtanggi. Kami ay nasa digmaan, kasama ang virus at sa isa't isa.",
+    "memorial": "Nais kong lumikha ng puwang para sa sama-samang kalungkutan, kaya kasama ang daan-daang tao ay nilikha ko ang Memorial Inumeráveis. Isang likhang sining sa intersection ng sining at pamamahayag. Ininterbyu namin ang mga pamilyang nawalan ng isang tao. Isinulat namin ang kwento ng buhay ng taong nawala sa kanila. Binago namin ang mga numero sa mga kasaysayan. Ang mga tula, kanta, symphony ay ginawa gamit ang mga kasaysayang iyon. Binasa ng mga bituin ang mga kuwentong iyon sa pambansang telebisyon. Umabot ng milyon ang proyekto.",
+    "meaning": "Ang mahalaga ay hindi ang sukat, ito ay ang bawat kuwento ay isang pangalan, isang buhay, langit ng isang tao."
+  },
+  "discovery": {
+    "pattern": "Matapos ang higit sa sampung libong pag-uusap na may kalungkutan, nagsimulang lumitaw ang isang pattern. Kapag pinag-uusapan natin ang tungkol sa isang taong namatay, hindi lang tayo nagsasalita ng magagandang bagay; pumipili kami ng mga fragment ng kanilang kwento na parang nagsusulat kami ng isang liham ng rekomendasyon. Isang rekomendasyon sa bantay-pinto ng paraiso. Ginagawa namin ang aming makakaya upang ipadala sila sa isang lugar ng pagtanggap, pahinga, karangalan at alaala.",
+    "understanding": "At naunawaan ko ang isang bagay na nagpabago sa lahat: Nasugatan tayo sa mismong mga templong itinayo natin. Ang aming mga paniniwala tungkol sa kung sino ang karapat-dapat sa langit ay direktang humuhubog sa kung sino ang hindi namin isasama sa Earth. Naniniwala ang mga mananakop na Portuges sa Brazil na walang kaluluwa ang mga Itim; ang paniniwalang iyon ay nagbigay-katwiran sa pagkaalipin. Kung ikaw ay katutubo, kung ikaw ay ipinanganak sa maling lugar o nagmahal sa maling tao, sinabi sa iyo na ang mga pintuan ng langit ay sarado sa iyo.",
+    "birth": "Iyan ay kung paano ipinanganak ang Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Walang artista ang maaaring maging tunay na sekular. Tayo ay nakatali magpakailanman sa ating karaniwang ninuno, ang shaman. Sa simula, mayroong isang kweba. Ang mga tao ay nagpinta ng mga hayop sa mga dingding hindi upang palamutihan, ngunit upang tawagan. Nagsayaw sila, at naging templo ang kuweba. Ang shaman ay nagtataglay ng diwa ng ritwal; ang artista ay may aura ng sining. Kami ay nagpinta, kami ay naglilok, kami ay nagko-code, kami ay nagdidisenyo ng aming ninanais na kinabukasan hindi upang palamutihan, ngunit upang tawagan. Ang lahat ng sining ay espirituwal, kahit na sinasabing hindi ito."
+  },
+  "space": {
+    "question": "Saan tayo magtatayo ng templo na walang pader? Kung saan walang bansa o relihiyon ang maaaring umangkin. Kung saan maiisip natin ang ating sarili bilang isang grupo.",
+    "answer": "kalawakan.",
+    "description": "Isang participatory art satellite mula sa Global South. Isang templo sa orbit na nag-iimbita sa lahat na ipadala ang kanilang mga pangalan sa kalawakan, hindi alintana kung sino sila, kung saan sila ipinanganak, kung sino ang kanilang mahal, kung ano ang kanilang pinaniniwalaan. Isang lugar kung saan posible ang radikal na pagsasama, sa orbit, sa kabila ng mga hangganan.",
+    "mission": "Ang misyon na ito ay open source. Ang bawat teknikal na dokumento, bawat linya ng code ay malayang magagamit upang ang ibang mga artista, iba pang komunidad, iba pang mga bansa ay makakagawa ng kanilang sariling mga satellite. Kaya ang Global South ay hindi lamang lumalahok sa paggalugad sa kalawakan, ngunit pinangungunahan ito."
+  },
+  "closing": {
+    "answer": "Kaya sino ang taong ito para magtayo ng templo sa kalawakan? Hindi ko ito itinatayo. Ang templo ay itinayo ng lahat na nagpasya na magpadala ng isang pangalan, upang makita ito bilang sagrado, upang gawin itong totoo. Ako na lang ang magpo-propose. Ikaw ang magtatayo nito kung magpasya ka.",
+    "signature": "mabait,",
+    "name": "Edson Pavoni"
+  }
+}

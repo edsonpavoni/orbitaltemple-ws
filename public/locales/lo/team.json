@@ -1,0 +1,61 @@
+{
+  "title": "ທີມງານ - ວັດ Orbital",
+  "heading": "ທີມງານ",
+  "artist": "Edson Pavoni, ນັກສິລະປິນ",
+  "roles": {
+    "executiveProducer": {
+      "heading": "ຜູ້ຜະລິດບໍລິຫານ",
+      "members": "ຊາທິລາດ"
+    },
+    "aerospace": {
+      "heading": "ວິສະວະກຳອະວະກາດ ແລະລະບົບ",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista ແລະ João Victor Alves"
+    },
+    "electronic": {
+      "heading": "ວິສະວະກໍາອີເລັກໂທຣນິກ",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "ຊອບແວ",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "ການອອກແບບ ແລະສະຖາປັດຕະຍະກຳ",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "ການພິມ 3 ມິຕິ",
+      "members": "ແນວຄວາມຄິດທີ່ແຂງ, ພາຍໃຕ້ການນໍາພາຂອງ Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "ການສະແດງພາບ 3 ມິຕິ",
+      "members": "Guilherme Bullejos & RiseNy&ຄູ່ຮ່ວມງານ"
+    },
+    "research": {
+      "heading": "ຄົ້ນຄ້ວາ",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "ການຜະລິດງານວາງສະແດງ, ການຖ່າຍຮູບ & ການສ້າງເນື້ອຫາ",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "ການຄັດເລືອກຜ້າໄຫມຂອງງານວາງສະແດງ",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "ໂຄງການການສຶກສາ",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "ທີມງານສື່ສານ",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "ຂອບໃຈພິເສດ",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, ແລະ Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Pedrosa, Clara Marques, Daphne Alves, Flavio André Vidimegalister Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "ດາວທຽມວັດ Orbital"
+}

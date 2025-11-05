@@ -1,0 +1,50 @@
+{
+  "title": "Hevkar - Perestgeha Orbital",
+  "heading": "Hevkar",
+  "intro": "Perestgeha Orbital bi saya comerdî, pisporî û vîzyona hevkarên bêhempa heye. Ji endezyariya peykan bigire heya çêkirina çîrokan, ji vekirina deriyan li welatên dûr bigire heya çêkirina xewnan di zêr de, her hevkariyek vê perestgehê nêzîkî stêrkan dike.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Danûstandin, ezmûnên yekgirtî û wêneyên renderkirina 3D yên ecêb ku dîtina peykê berî ku bigihîje valahiya fezayê, zindî kirin."
+    },
+    "highestMantra": {
+      "name": "Mantra me ya herî bilind",
+      "description": "Bi rêberiya Sathi Roy, Orbital Perestgeh bi civakên giyanî û hunerî yên Hindistanê ve girêdide. Piştî destpêkirina Mijdara 2025an, rêyên berhevkirina pereyan, danûstandina çandî û pêşangeheke Art Basel vedike."
+    },
+    "allToSpace": {
+      "name": "Hemû bo fezayê",
+      "description": "Pisporên peykên piçûk ên Brezîlyayî. Çar sal hevkarî ji bo avakirina platformek alavên çavkaniya vekirî û pêşengiya pêvajoya şandina hunerê ji Başûrê Cîhanê bo fezayê."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Rêxistina Lêkolînên Fezayê ya Hindistanê. Pêşkêşvanê firînê ji bo mîsyona PSLV-ê ku Orbital Temple di Mijdara 2025-an de hildigire orbîta rojê-senkron."
+    },
+    "mercosul": {
+      "name": "13emîn Bienala Mercosurê",
+      "description": "Porto Alegre, Brezîlya. Ji hêla Marcello Dantas ve digel alîkarên kurator Laura Cattani, Munir Klamt, Tarsila Riso, û Carolina Lauriano ve hatî çêkirin."
+    },
+    "inpe": {
+      "name": "Komxebata INPE / ArtSat",
+      "description": "Tîma pêşkeftina satelîtê di Atolyeya II ArtSat de hate damezrandin. Ji hêla Fabiane M. Borges ve hatî rêve kirin, ji hêla Lázaro Camargo ve hatî rêve kirin, ji hêla Ítalo Pinto Rodrigues ve hatî hevkarî kirin, bi çavdêriya Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Têgehên Sabît",
+      "description": "Bi serokatiya Eduardo Dias. Hemû çapkirina 3D û mîkrorijandina zêr ji bo qubeya peykersaziyê dixebite, xewnên dîjîtal vediguherîne rastiya metalên hêja."
+    },
+    "ideaSpace": {
+      "name": "Cihê Ramanan",
+      "description": "Startupeke perwerdehiyê ya Brezîlyayî bernameya fezayê ya Quebrada pêş dixe, ku amade ye ji bo xwendekarên lîseyê li seranserê Brezîlyayê were sepandin."
+    }
+  },
+  "closing": "Dixwazin bi Orbital Temple re hevkariyê bikin? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Têkilî daynin</a> .",
+  "imageAlts": {
+    "riseNy": "Logoya RiseNY&Partners",
+    "highestMantra": "Logoya Me ya Mantra ya Herî Bilind",
+    "allToSpace": "Logoya Hemûyan bo Fezayê",
+    "isro": "Logoya ISRO",
+    "mercosul": "Logoya 13emîn Bienala Mercosurê",
+    "inpe": "Logoya Atolyeya INPE ArtSat",
+    "solidConcepts": "Logoya Solid Concepts",
+    "ideaSpace": "Logoya Idea Space"
+  }
+}

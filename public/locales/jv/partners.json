@@ -1,0 +1,50 @@
+{
+  "title": "Mitra - Candi Orbital",
+  "heading": "mitra",
+  "intro": "Candi Orbital ana liwat kemurahan, keahlian, lan visi mitra sing luar biasa. Saka satelit teknik nganti nggawe narasi, saka mbukak lawang ing negara sing adoh nganti nggawe impen ing emas, saben kolaborasi ndadekake candhi iki luwih cedhak karo lintang.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY & Partners",
+      "description": "Komunikasi, pengalaman terintegrasi lan gambar 3D sing nggumunake sing ndadekake visi satelit kasebut urip sadurunge nyentuh ruang kosong."
+    },
+    "highestMantra": {
+      "name": "Mantra paling dhuwur kita",
+      "description": "Dipimpin dening Sathi Roy, nyambungake Kuil Orbital karo komunitas spiritual lan seni India. Mbukak jalur kanggo penggalangan dana, ijol-ijolan budaya, lan pameran Art Basel sawise diluncurake November 2025."
+    },
+    "allToSpace": {
+      "name": "Kabeh menyang Space",
+      "description": "Spesialis satelit cilik Brasil. Patang taun kolaborasi mbangun platform hardware open source lan dadi perintis proses ngirim seni menyang orbit saka Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organisasi Riset Luar Angkasa India. Bukak panyedhiya kanggo misi PSLV sing nggawa Kuil Orbital menyang orbit sun-sinkron ing November 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur biennial",
+      "description": "Porto Alegre, Brasil. Dikurasi dening Marcello Dantas karo asisten kurator Laura Cattani, Munir Klamt, Tarsila Riso, lan Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Tim pangembangan satelit dibentuk sajrone Workshop ArtSat II. Koordinasi dening Fabiane M. Borges, dilatih dening Lázaro Camargo, dikolaborasi dening Ítalo Pinto Rodrigues, diawasi dening Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Konsep Solid",
+      "description": "Dipimpin déning Eduardo Dias. Kabeh printing 3D lan pengecoran mikro emas bisa digunakake kanggo kubah patung, ngowahi impen digital dadi kasunyatan logam mulia."
+    },
+    "ideaSpace": {
+      "name": "Ruang Ide",
+      "description": "Wiwitan pendidikan Brasil ngembangake kurikulum Program Angkasa Quebrada, siap ditrapake kanggo siswa sekolah menengah ing Brasil."
+    }
+  },
+  "closing": "Tertarik kanggo partner karo Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Tekan metu</a> .",
+  "imageAlts": {
+    "riseNy": "Logo RiseNY&Partners",
+    "highestMantra": "Logo Mantra Paling Dhuwur Kita",
+    "allToSpace": "Kabeh menyang Space Logo",
+    "isro": "Logo ISRO",
+    "mercosul": "Logo Mercosur Biennial kaping 13",
+    "inpe": "Logo Bengkel INPE ArtSat",
+    "solidConcepts": "Logo Konsep Solid",
+    "ideaSpace": "Logo Space Idea"
+  }
+}

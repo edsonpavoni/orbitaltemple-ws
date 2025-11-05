@@ -1,0 +1,17 @@
+{
+  "title": "Maklumat Teknikal - Kuil Orbital",
+  "heading": "Maklumat Teknikal",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Dimensi: 50x58x64 mm<br /> 1P PocketQube<br /> Berat: 245 gr<br /> Bahan: aluminium, emas, gentian kaca, dan komponen elektronik.<br /> Orbit: Ketinggian 525 ± 25 km; kecenderungan: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antena/Arca",
+    "specs": "Dimensi: 6 m (diameter) e 1.2m (tinggi)<br /> Berat: 46 kg<br /> Bahan: aluminium, papan cermin epoksi, kubah aluminium emas yang digantung melalui struktur perancah."
+  },
+  "radio": {
+    "heading": "Spesifikasi Radio Katalog NASA:",
+    "specs": "TBD Downlink: 437 MHz<br /> Panggilan: Status: JADUAL UNTUK 2025"
+  },
+  "imageAlt": "Gambarajah Maklumat Teknikal"
+}

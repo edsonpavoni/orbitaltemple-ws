@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "sa imong pagsulod\nusa ka ritwal\nsa pagpadala ug ngalan\nngadto sa\norbital nga templo\nsa kawanangan\nkuhaa\nusa ka gininhawa",
+    "button": "andam ko"
+  },
+  "nameInput": {
+    "title": "type ug ngalan",
+    "subtitle": "mosaka kini sa Orbital Temple sa kawanangan.",
+    "placeholder": "ngalan",
+    "button": "pasagdi nga mosaka"
+  },
+  "emailInput": {
+    "title": "i-type ang imong email",
+    "subtitle": "para makadawat ka ug mensahe kung mosaka ang ngalan.",
+    "placeholder": "imong email",
+    "button": "nahuman na"
+  },
+  "loading": {
+    "alt": "Nagkarga"
+  },
+  "success": {
+    "text": "ang ngalan\n{{ngalan}}\ngipila na karon\npara sa pagkayab.\nsa dihang ang\ntemplo sa kawanangan\naligns, uban sa\namong antenna\nsa Yuta\nipadala namo\nang ngalan\nug makadawat ka\nusa ka mensahe."
+  }
+}

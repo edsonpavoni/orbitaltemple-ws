@@ -1,0 +1,44 @@
+{
+  "title": "Sustenibilità è Detriti Spaziali - Orbital Temple",
+  "heading": "Sustenibilità",
+  "intro": {
+    "paragraph1": "Sè l'arte ci vole à guidà versu l'avvene, ùn pò micca ignurà e crisi chì affruntemu - u crollu ambientale, l'ineguaglianza suciale è a sfida crescente di i detriti spaziali. U Tempiu Orbitale hè cuncipitu cù queste realtà in mente, cù l'obiettivu di esse una presenza rispunsevule sia nantu à a Terra sia in orbita.",
+    "paragraph2": "Credemu chì a sustenibilità ùn hè micca una limitazione ma una parte essenziale di a nostra visione artistica. Ogni decisione riguardu à i materiali, l'orbite è l'operazioni riflette u nostru impegnu à lascià a Terra è u spaziu megliu di ciò chì l'avemu trovu."
+  },
+  "spaceDebris": {
+    "heading": "Detriti Spaziali",
+    "paragraph1": "I detriti spaziali sò unu di i sfidi più urgenti chì l'esplorazione spaziale affrunta. Migliaia di satelliti è frammenti disfunti orbitanu intornu à a Terra, minaccendu e missioni attive è creendu un effettu cascata chì puderia rende certe orbite inutilizabili.",
+    "paragraph2": "Orbital Temple affronta questu in parechji modi:",
+    "list": {
+      "orbit": "<strong>Orbita eliosincrona à 525 km:</strong> Questa altitudine assicura chì a resistenza atmosferica naturale farà chì u satellitu rientri in l&#39;atmosfera terrestre in circa 10 anni, induve si brusgiarà cumpletamente. Ùn cuntribuemu micca à i detriti orbitali à longu andà.",
+      "size": "<strong>Cuncepimentu PocketQube:</strong> Cù solu 50 × 58 × 64 mm è 245 g, u satellitu hè abbastanza chjucu per vaporizassi cumpletamente durante u rientru, senza lascià detriti nantu à a superficia di a Terra.",
+      "responsibility": "<strong>Nisuna obsolescenza pianificata:</strong> À u cuntrariu di i satelliti cummerciali chì ponu esse abbandunati, Orbital Temple hè cuncipitu per deorbità naturalmente, rispettendu e linee guida internaziunali per un&#39;attività spaziale responsabile."
+    },
+    "paragraph3": "Scegliendu un'orbita terrestre bassa è un cuncepimentu compactu, assicuremu chì a presenza di u Tempiu Orbitale in u spaziu sia tempuranea è micca inquinante."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralità di u carbone",
+    "content": "Tutte l'emissioni di carbone assuciate à Orbital Temple - cumprese a fabricazione di satelliti, u lanciu, l'operazioni di e stazioni terrestri, l'ospitu di siti web è i viaghji di a squadra - saranu cumpletamente compensate per mezu di prugrammi di creditu di carbone verificati. Semu impegnati à fà di sta missione una missione climaticamente neutra."
+  },
+  "openSource": {
+    "heading": "Hardware Open Source",
+    "paragraph1": "A sustenibilità significa ancu ùn sprecà micca a cunniscenza. Ogni aspettu tecnicu di Orbital Temple - schemi, codice, protokolli di cumunicazione è metudi di custruzzione - serà publicatu cum'è documentazione open source.",
+    "paragraph2": "Questu permette à e missioni future di custruisce nantu à u nostru travagliu invece di principià da zero, riducendu a ricerca è u sviluppu ridondanti. Democratizeghja l'accessu à a tecnulugia spaziale, in particulare per e cumunità di u Sud Globale chì sò state storicamente escluse da l'esplorazione spaziale."
+  },
+  "educational": {
+    "heading": "Impattu Educativu",
+    "paragraph1": "U nostru prugramma educativu multilingue gratuitu insegna à i studienti di u mondu sanu cumu custruisce è lancià satelliti, cù una attenzione particulare à u Sud Globale. Dendu à a prossima generazione cumpetenze in tecnulugia spaziale, cuntribuemu à chjude u \"Space Gap\" è à creà opportunità chì altrimenti ùn esisterebbenu micca.",
+    "paragraph2": "Sta missione educativa hè ella stessa una forma di sustenibilità - investendu in e persone è in e cumunità per creà cambiamenti durevuli al di là di a durata di vita di u satellitu."
+  },
+  "tenYear": {
+    "heading": "Una missione di 10 anni",
+    "paragraph1": "U Tempiu Orbitale hè cuncipitu per una missione di dece anni, micca una breve battuta publicitaria. In dece anni, u satellitu orbiterà intornu à a Terra circa 50.000 volte, ricevendu nomi è servendu da ricordu chì u spaziu pò esse un bè cumunu, accessibile à tutti.",
+    "paragraph2": "Dopu à a fine di a so missione, u satellitu si deorbitarà naturalmente è si brusgiarà, senza lascià alcuna traccia, fora di i ricordi è a ducumentazione di quelli chì anu participatu."
+  },
+  "artsResponsibility": {
+    "heading": "A rispunsabilità di l'arte",
+    "paragraph1": "L'arte hè sempre stata un specchiu di u so tempu, riflettendu i nostri valori è aspirazioni. In un'epica di crisa climatica è di crescente disuguaglianza, credemu chì l'artisti anu a rispunsabilità di creà opere chì ùn si limitanu micca à cummentà sti prublemi, ma chì li affrontanu attivamente.",
+    "paragraph2": "U Tempiu Orbitale hè u nostru tentativu di creà un'opera d'arte chì sia radicale in a so inclusività, rispunsevule in u so impattu ambientale, è generosa in a spartera di a so cunniscenza cù u mondu. Hè un'arte chì invita tutti à participà rispettendu i sistemi fragili - ambientali è orbitali - chì rendenu pussibule a vita è l'esplorazione."
+  },
+  "imageAlt": "Satellite Orbitale di u Tempiu"
+}

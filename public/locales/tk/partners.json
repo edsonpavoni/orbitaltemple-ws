@@ -1,0 +1,50 @@
+{
+  "title": "Hyzmatdaşlar - Orbital ybadathanasy",
+  "heading": "Hyzmatdaşlar",
+  "intro": "Orbital ybadathanasy sahylyk, tejribe we adatdan daşary hyzmatdaşlaryň görüşi arkaly bar. In engineeringenerçilik emeli hemralaryndan başlap, kyssa ýasamaklyga, uzak ýurtlarda gapylary açmakdan başlap, altyna arzuw etmeklige çenli her bir hyzmatdaşlyk bu ybadathanany ýyldyzlara ýakynlaşdyrýar.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY we hyzmatdaşlar",
+      "description": "Sputnikiň kosmos boşlugyna degmezden ozal görüşini janlandyran aragatnaşyk, toplumlaýyn tejribeler we ajaýyp 3D şekillendiriş şekilleri."
+    },
+    "highestMantra": {
+      "name": "Iň beýik mantramyz",
+      "description": "Sathi Roýyň ýolbaşçylygynda Orbital ybadathanasyny Hindistanyň ruhy we sungat jemgyýetleri bilen birleşdirýär. 2025-nji ýylyň noýabr aýynda açylandan soň ýygnamak, medeni alyş-çalyş we Art Bazel sergisine ýol açmak."
+    },
+    "allToSpace": {
+      "name": "Hemmesi kosmosa",
+      "description": "Braziliýanyň kiçi hemra hünärmenleri. Dört ýyllyk hyzmatdaşlyk açyk çeşme enjam platformasyny gurmak we Global Günortadan orbitada sungaty ibermek üçin başlangyç."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Hindi kosmos gözleg guramasy. 2025-nji ýylyň noýabr aýynda Orbital ybadathanasyny gün-sinhron orbita alyp barýan PSLV missiýasy üçin üpjün ediji."
+    },
+    "mercosul": {
+      "name": "13-nji Merkosur Biennial",
+      "description": "Porto Alegre, Braziliýa. Marselo Dantas, kömekçi kuratorlar Laura Cattani, Munir Klamt, Tarsila Riso we Karolina Lauriano bilen bilelikde."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat ussahanasy",
+      "description": "Sputnik ösüş topary II ArtSat ussahanasynda döredildi. Lazaro Kamargo tarapyndan görkezilen Fabiane M. Borges, Walter Abrahão dos Santos tarapyndan ýolbaşçylyk edilýän alotalo Pinto Rodrigues bilen bilelikde işleýär."
+    },
+    "solidConcepts": {
+      "name": "Gaty düşünjeler",
+      "description": "Eduardo Dias tarapyndan ýolbaşçylyk edildi. 3D çap we altyn mikro guýma heýkeltaraş gümmez üçin işleýär, sanly düýşleri gymmatly metal hakykatyna öwürýär."
+    },
+    "ideaSpace": {
+      "name": "Ideýa giňişligi",
+      "description": "Braziliýadaky orta mekdep okuwçylaryna ulanylmaga taýyn bolan Quebrada kosmos maksatnamasynyň okuw meýilnamasyny düzýän Braziliýa bilim başlangyjy."
+    }
+  },
+  "closing": "Orbital Temple bilen hyzmatdaşlyk etmek isleýärsiňizmi? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Çyk</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY & Partners logo",
+    "highestMantra": "Iň ýokary mantranyň nyşany",
+    "allToSpace": "Hemmesi kosmos nyşany",
+    "isro": "ISRO nyşany",
+    "mercosul": "13-nji Merkosur iki ýyllyk logosy",
+    "inpe": "INPE ArtSat ussahanasynyň nyşany",
+    "solidConcepts": "Gaty düşünjeler nyşany",
+    "ideaSpace": "Ideýa giňişliginiň nyşany"
+  }
+}

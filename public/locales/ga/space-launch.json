@@ -1,0 +1,16 @@
+{
+  "title": "Seoladh Spáis - Teampall Fithiseach",
+  "heading": "Seoladh Spáis",
+  "intro": "Tá sé sceidealaithe go lainseálfar an Teampall Fithiseach ar bord PSLV (Feithicil Lainseála Satailíte Polar) ar an 28 Samhain, 2025 ó Ionad Spáis Satish Dhawan i Sriharikota, san India.",
+  "partnership": "Is comhpháirtíocht idir NewSpace India Limited (NSIL), Cuideachta de chuid Rialtas na hIndia faoi Roinn Spáis, Antrix Corporation, agus an t-ealaíontóir é seoladh an Orbital Temple. Is cloch mhíle shuntasach í an chomhoibriú seo don ealaín i dtaiscéalaíocht spáis, ag tabhairt le chéile clár spáis na hIndia le fís ealaíonta de chuimsiú radacach.",
+  "risks": {
+    "heading": "Rioscaí",
+    "paragraph1": "Tógadh an satailít chun seasamh in aghaidh dálaí creathadh agus timthriallta teirmeacha foircneacha, agus rinneadh tástáil dhian uirthi. Mar sin féin, bíonn rioscaí ag baint le lainseálacha spáis. Má dhéantar damáiste don satailít le linn lainseála nó imscartha, nó mura n-éiríonn léi cumarsáid a bhunú lenár stáisiúin talún, oibreoimid chun aon fhadhbanna a réiteach agus a fhabhtcheartú. Tá córais iomarcacha agus prótacail chúltaca ag an satailít atá deartha chun na seansanna ratha misean a uasmhéadú.",
+    "paragraph2": "Ina theannta sin, d’fhéadfadh an satailít fanacht i bhfithis ar feadh níos lú ná 10 mbliana má bhíonn meath fithiseach níos luaithe mar thoradh ar dhálaí atmaisféaracha nó fachtóirí eile. Cé gur dhearamar é chun go mairfidh sé deich mbliana ar a laghad, braitheann an saolré iarbhír ar dhálaí nach féidir linn a rialú go hiomlán.",
+    "paragraph3": "Mura n-éiríonn leis an gcéad lainseáil, nó mura bhfuilimid in ann an misean seo a chur i gcrích mar a bhí beartaithe, déanfaimid iniúchadh ar bhealaí eile chun cinn, lena n-áirítear b'fhéidir iarracht lainseála eile leis an mbuiséad atá ar fáil, comhpháirtíocht le misin eile, nó doiciméadú na hiarrachta mar chuid d'insint na saothar ealaíne faoi uaillmhian agus teorannú."
+  },
+  "imageAlts": {
+    "india": "Ionad Spáis ISRO, an India",
+    "satellite": "Satailít Teampaill Fithiseach"
+  }
+}

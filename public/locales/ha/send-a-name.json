@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "yayin da kuke shiga\nwata al'ada\n\naika suna\ncikin cikin\nOrbital haikali\na sarari\n\ndauka\nnumfashi",
+    "button": "na shirya"
+  },
+  "nameInput": {
+    "title": "rubuta suna",
+    "subtitle": "zai tashi zuwa Haikali na Orbital a sararin samaniya.",
+    "placeholder": "suna",
+    "button": "bari ya hau"
+  },
+  "emailInput": {
+    "title": "rubuta imel ɗin ku",
+    "subtitle": "don haka za ku sami sako lokacin da sunan ya hau.",
+    "placeholder": "imel ɗin ku",
+    "button": "ana yi"
+  },
+  "loading": {
+    "alt": "Ana lodawa"
+  },
+  "success": {
+    "text": "sunan\n{{suna}}\nyanzu an yi layi\ndomin hawan Yesu zuwa sama.\n\nlokacin da\nhaikali a sarari\ndaidaita, da\neriyanmu\na Duniya\n\nza mu aika\nsunan\nkuma za ku karba\nsako."
+  }
+}

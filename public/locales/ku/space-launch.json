@@ -1,0 +1,16 @@
+{
+  "title": "Destpêkirina fezayê - Perestgeha Orbital",
+  "heading": "Vegerandina fezayê",
+  "intro": "Biryar e ku Perestgeha Orbital di 28ê Mijdara 2025an de li ser PSLV (Polar Satellite Launch Wesayît) ji Navenda Fezayê ya Satish Dhawan li Sriharikota, Hindistanê were firandin.",
+  "partnership": "Pêşkêşkirina Perestgeha Orbital hevkariyek di navbera NewSpace India Limited (NSIL), Şirketek Hikûmeta Hindistanê ya di bin Wezareta Fezayê de, Şîrketa Antrix, û hunermend de ye. Ev hevkarî ji bo hunerê di keşfa fezayê de qonaxek girîng temsîl dike, bernameya fezayê ya Hindistanê bi vîzyonek hunerî ya tevlêbûna radîkal re tîne cem hev.",
+  "risks": {
+    "heading": "Rîsk",
+    "paragraph1": "Peyk ji bo ku li hember şert û mercên lerizîna dijwar û çerxên germî bisekine hatiye çêkirin û ceribandinên dijwar derbas kiriye. Lêbelê, firînên fezayê xetereyên xwerû hildigirin. Ger peyk di dema firîn an belavkirinê de zirar bibîne, an jî heke ew nikaribe bi stasyonên me yên erdê re têkiliyê deyne, em ê ji bo çareserkirina her pirsgirêkê bixebitin. Peyk xwedî pergalên zêde û protokolên yedek e ku ji bo zêdekirina şansê serkeftina mîsyonê hatine çêkirin.",
+    "paragraph2": "Herwiha, heke şert û mercên atmosferîk an faktorên din bibin sedema hilweşîna zûtir a orbitê, dibe ku peyk ji 10 salan kêmtir di rêgehê de bimîne. Her çend me ew ji bo herî kêm deh salan sêwirandibe jî, temenê wê yê rastîn bi şert û mercên ku em bi tevahî nikarin kontrol bikin ve girêdayî ye.",
+    "paragraph3": "Eger firîna yekem bi ser nekeve, an jî em nikaribin vê mîsyonê wekî ku hatiye plankirin bi cih bînin, em ê rêyên alternatîf ên pêşveçûnê bikolin, dibe ku hewldanek firîna duyemîn bi budceya berdest, hevkariya bi mîsyonên din re, an belgekirina hewldanê wekî beşek ji vegotina hunerî ya li ser armanc û sînordarkirinê di nav xwe de bigirin."
+  },
+  "imageAlts": {
+    "india": "Navenda Fezayê ya ISRO, Hindistan",
+    "satellite": "Peyka Perestgeha Orbital"
+  }
+}

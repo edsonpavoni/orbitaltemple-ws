@@ -1,0 +1,31 @@
+{
+  "title": "Dona ad Templum Orbitale",
+  "heading": "Donum Tuum Perfice",
+  "donatingTo": "Donas ad:",
+  "chooseHow": "Elige quomodo donationem tuam a vectigalibus deducendam complere velis:",
+  "option1": {
+    "heading": "Optio Prima: Dona Nunc Per Interrete",
+    "description": "Donationem tuam statim perficias utens charta credita, charta debita, vel aliis modis solutionis interretialis per sponsorem fiscalem nostrum tutum, <strong>The Field</strong> . Statim accipies acceptilationem fiscalem.",
+    "button": "Dona per The Field →"
+  },
+  "option2": {
+    "heading": "Optio II: Depositum Argentarium ad Fundationem Roy",
+    "description": "Depositum argentarium directum vel translationem pecuniae per telegraphum ad <strong>Fundationem Roy</strong> , socium nostrum strategicum et sponsorem fiscalem, fac. Haec optio aptissima est maioribus donationibus vel translationibus internationalibus.",
+    "bankingInfo": "Informationes Argentariae",
+    "fields": {
+      "accountName": "Nomen Rationis:",
+      "bankName": "Nomen Argentariae:",
+      "accountNumber": "Numerus Rationis:",
+      "routingNumber": "Numerus Itineris:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referentia:"
+    },
+    "instructions": "Quaeso, &quot; <strong>Templum Orbitale - {donationType}</strong> &quot; in agro referentiae include. Post translationem perfectam, nobis inscriptionem electronicam ad <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> cum singulis translationis mitte ut acceptilationem fiscalem accipias.",
+    "button": "Contacta Nos De Deposito →"
+  },
+  "taxInfo": {
+    "heading": "Donationes Deducibiles a Tributis",
+    "description": "Templum Orbitale est proiectum fiscaliter sustentatum a <strong>The Field (Performance Zone Inc.)</strong> , organizatione non lucrativa <strong>501(c)(3)</strong> . Omnes contributiones Americanae deduci possunt a vectigalibus quantum lex permittit.",
+    "questions": "Quaestiones habes? Nobis scribe ad <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art.</a>"
+  }
+}

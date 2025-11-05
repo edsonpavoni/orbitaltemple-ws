@@ -1,0 +1,43 @@
+{
+  "title": "Ebyenjigiriza & Open Source - Yeekaalu ya Orbital",
+  "heading": "Ebyenjigiriza & Open Source",
+  "intro": {
+    "paragraph1": "Tekinologiya yenna akoleddwa mu bubaka bwa Orbital Temple ajja kuba wa <strong>nsibuko enzigule</strong> era nga asangibwa ku mutimbagano mu <strong>Lupotugo</strong> , <strong>Olungereza</strong> , <strong>Olusipeyini</strong> , <strong>n&#39;Oluhindu</strong> , okutumbula okutumbula okunoonyereza mu bwengula mu <strong>Global South</strong> . Mission ne pulojekiti empya zisobola okukozesa Orbital Temple ng’omusingi gw’okugezesa kwabwe okw’ekikugu oba okwa ssaayansi.",
+    "paragraph2": "Ng’omu ku bubaka bwayo obw’okusomesa, Orbital Temple egenda kuwa omusomo ogw’obwereere ogw’ennimi nnyingi ku ngeri y’okuzimba n’okusimbula setilayiti. Gujja kuba mukisa gwa mikono okuyiga ku tekinologiya wa setilayiti n’okukiteeka mu nkola. Omuntu yenna asussa emyaka <strong>16</strong> ajja kusobola okwekolera setilayiti ye, okuyiga ebyafaayo by’ebifaananyi mu bwengula, ensonga enkulu ez’ebyuma, makanika ne ssaayansi w’omu bwengula, omuli engeri y’okusasulamu pulojekiti n’engeri y’okuzimba antenna okuwuliziganya ne setilayiti eziri mu nkulungo."
+  },
+  "spaceGap": {
+    "heading": "Lwaki Kino Kikulu: Ekituli mu bwengula",
+    "paragraph1": "Ekigambo <strong>&quot;Space Gap&quot;</strong> kitegeeza enjawukana wakati w&#39;amawanga agaakulaakulana agasobola okufuna emikisa gya tekinologiya egifunibwa nga gayita mu kunoonyereza mu bwengula, n&#39;amawanga agakyakula agatalina tekinologiya ono. Amawanga agali mu Global South galina okusasula ssente nnyingi eri gavumenti oba amakampuni ag’ebweru olw’okufuna amawulire agasookerwako agakolebwa tekinologiya wa setilayiti.",
+    "paragraph2": "Tekinologiya w’omu bwengula atuwa emigaso mingi: setilayiti ziyamba okulwanyisa okutema emiti mu ngeri emenya amateeka, envuba emenya amateeka, n’okusuubula ebisolo by’omu nsiko mu ngeri emenya amateeka, ebikiikirira <strong>obuwumbi bwa ddoola obusoba mu 73 buli mwaka</strong> . Ziwa amawulire amakulu agakwata ku mbeera y’obudde, okukola amazzi, n’okufuna emmere. Setilayiti zisobozesa okufukirira mu ngeri entuufu n’obukodyo bw’ebyobulimi, era ziyamba okutangira obutyabaga obw’obutonde. The space industry could create up to <strong>1 million jobs</strong> by <strong>2030</strong> , naye emikisa gino gikyalina nga tegituukirirwa bangi mu Global South.",
+    "paragraph3": "Nga tuwa tekinologiya ow’ensibuko enzigule n’okusomesa, tuluubirira okufuula enkola y’okutuuka mu bwengula mu demokulasiya n’okutumbula omulembe omupya okuloota okusukka eggulu."
+  },
+  "empowering": {
+    "heading": "Okuwa Omulembe oguddako amaanyi",
+    "intro": "Tugenda kuyigiriza omulembe oguddako ogw’abanoonyereza mu bwengula engeri y’okuzimba n’okusimbula sseetilayiti zaabwe, nga tukwata ku nsonga enkulu omuli:",
+    "topics": {
+      "history": "<strong>Ebyafaayo by’ebifaananyi mu bwengula:</strong> Okutegeera olunyiriri lwa setilayiti ez’ekikugu n’ebintu ebikolebwa mu bwengula.",
+      "concepts": "<strong>Endowooza enkulu:</strong> <strong>ArtSat</strong> (setilayiti ez’ekikugu), tekinologiya w’omu bwengula <strong>eya Open Source</strong> , ne <strong>Space Gap</strong> .",
+      "missions": "<strong>Emisomo gy’omu bwengula:</strong> Engeri y’okuteekateeka n’okukola dizayini y’omulimu, n’engeri y’okukolamu ttiimu okugutuukiriza.",
+      "electronics": "<strong>Ebyuma mu bwengula:</strong> Endowooza enkulu ez’ebitundu by’ebyuma ebisobola okuwangaala n’okukola mu mbeera y’obwengula.",
+      "mechanics": "<strong>Makanika mu bwengula:</strong> Okutegeera ebyetaago by’enzimba n’ebyuma mu kukola dizayini ya setilayiti.",
+      "orbits": "<strong>Enkulungo n’enkulungo:</strong> Ebika by’enkulungo ez’enjawulo n’engeri y’okulondamu abawa okusimbula ku misoni yo.",
+      "financing": "<strong>Enkola z’ensimbi:</strong> Engeri y’okufunamu ensimbi n’ebikozesebwa okusimbula setilayiti yo. Omusomo guno gugenda kuwa ebikozesebwa okufuna ssente z’okutongoza kwo, okuyamba abayizi okufuna pulogulaamu n’ensimbi okuva mu matendekero g’ensi yonna agawagira bannassaayansi abato n’abayizi mu kusindika setilayiti zaabwe mu bwengula.",
+      "groundStation": "<strong>Enkulaakulana ya siteegi y’oku ttaka:</strong> Engeri y’okuzimba antenna okuwuliziganya ne Orbital Temple ne satellite endala."
+    }
+  },
+  "technology": {
+    "heading": "Tekinologiya: Setilayiti za PocketQube",
+    "paragraph1": "Abayizi bagenda kuyiga okukola ne setilayiti <strong>za PocketQube</strong> , omutindo gwa nanosatellite ogupima <strong>5cm3</strong> zokka ate nga zizitowa okutuuka ku <strong>250g</strong> . Wadde nga ntono, PocketQubes bikozesebwa bya maanyi ebisobola okwetegereza Ensi, okulondoola, n’okuwuliziganya.",
+    "paragraph2": "Setilayiti zino entono zirina enkozesa nnyingi mu nsi entuufu, okuva ku kunoonyereza kwa ssaayansi ku nkyukakyuka y’obudde okutuuka ku mpuliziganya wakati wa ssemazinga. Olw’okuba ntono ate nga nnyangu, zibeera za bbeeyi okuzimba n’okutongoza, ekifuula ekifo okutuukirirwa abayizi, abanoonyereza n’abayiiya mu nsi yonna."
+  },
+  "globalAccess": {
+    "heading": "Okutuuka ku nsi yonna, Okutandikira ku Global South",
+    "paragraph1": "Omusomo guno gugenda kubeerawo eri omuntu yenna <strong>ow&#39;emyaka 16 n&#39;okudda waggulu</strong> , <strong>ku bwereere</strong> ddala . Tutandise n’ebirimu mu <strong>Lupotugo</strong> , <strong>Olusipeyini</strong> , <strong>Olungereza</strong> , <strong>n’Oluhindu</strong> , nga tulina enteekateeka z’okugaziya ku nnimi endala nga pulogulaamu eno ekula.",
+    "paragraph2": "Omulimu gwaffe gutandikira mu Global South ne gutuuka mu nsi yonna, okulaba ng’omulembe oguddako ogw’abanoonyereza mu bwengula guva mu nsonda zonna ez’Ensi."
+  },
+  "callToAction": {
+    "heading": "Tuyambe Kino Kibeerewo",
+    "content": "Enteekateeka eno ey’okusomesa mu kiseera kino eri mu nkulaakulana. Tunoonya abakolagana n’abawaayo obuyambi abagabana okwolesebwa kwaffe okw’okufuula tekinologiya ow’omu bwengula mu ngeri ya demokulasiya. Bw’oba ggwe oba ekibiina kyo mwagala okuwagira enteekateeka eno, genda ku <a href=\"/support\">mukutu gwaffe ogw’obuyambi</a> okumanya ku mikisa gy’okukolagana."
+  },
+  "imageAlt": "Satellite ya Yeekaalu ey’enkulungo"
+}

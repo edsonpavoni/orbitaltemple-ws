@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "an obair-ealain",
+    "sendAName": "cuir ainm",
+    "fromTheArtist": "bhon neach-ealain",
+    "yetAnotherTemple": "teampall eile fhathast?",
+    "howItWorks": "mar a tha e ag obair",
+    "spaceLaunch": "cur air bhog fànais agus cunnartan",
+    "briefHistory": "eachdraidh ghoirid ealain ann an àite",
+    "education": "foghlam & stòr fosgailte",
+    "sustainability": "seasmhachd agus sprùilleach fànais",
+    "press": "preas & meadhanan",
+    "team": "sgioba",
+    "partners": "com-pàirtichean",
+    "support": "taic",
+    "technicalInfo": "fiosrachadh teicnigeach"
+  },
+  "ritual": {
+    "label": "deas-ghnàth",
+    "ariaLabel": "Cuir a-steach an deas-ghnàth - Cuir ainm chun Teampall Orbital"
+  },
+  "footer": {
+    "credits": "Is e obair ealain le Edson Pavoni a th’ ann an Orbital Temple, a chaidh a chruthachadh ann an co-obrachadh le Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, agus a h-uile duine a tha a’ leantainn air adhart a’ cur ainmean chun an teampaill seo."
+  }
+}

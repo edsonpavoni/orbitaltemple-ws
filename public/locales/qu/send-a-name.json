@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "yaykusqaykiman hina\nhuk ritual\nsutita apachinapaq\nchayman\norbital nisqa yupaychana wasi\nespaciopi\nhapiy\nhuk samay",
+    "button": "listoñam kachkani"
+  },
+  "nameInput": {
+    "title": "sutita qillqay",
+    "subtitle": "chaymi wicharinqa Orbital Temploman espaciopi.",
+    "placeholder": "suti",
+    "button": "wicharichun"
+  },
+  "emailInput": {
+    "title": "correo electrónico nisqayki qillqay",
+    "subtitle": "chaymi suti wichariptin huk willakuyta chaskinki.",
+    "placeholder": "correo electrónico nisqayki",
+    "button": "ruwasqañam"
+  },
+  "loading": {
+    "alt": "Cargando"
+  },
+  "success": {
+    "text": "suti\n{{suti}}\nkunanqa filapi kachkan\nwicharinapaq.\nmaypachachus chay\ntemplo espaciopi\nalinea, con\nantenanchikta\nPachamamapi\nkachamusaqku\nsuti\nhinaspa chaskinkichis\nhuk willakuy."
+  }
+}

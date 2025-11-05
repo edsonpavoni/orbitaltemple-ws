@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Te temepara Orbital",
+    "subtitle": "he mahi toi me te amiorangi,\ne whai ana kia noho hei whare karakia whakauru nui,\ni te wahi e kore e taea e te taiepa te tae atu."
+  },
+  "ritual": {
+    "label": "tikanga"
+  },
+  "cta": {
+    "link": "Heoi ano, tetahi atu whare tapu?",
+    "arrowAlt": "pere"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

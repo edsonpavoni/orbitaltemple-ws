@@ -1,0 +1,31 @@
+{
+  "title": "Bexş bike bo Perestgeha Orbital",
+  "heading": "Bexşa xwe temam bike",
+  "donatingTo": "Hûn bexş dikin bo:",
+  "chooseHow": "Hilbijêre ka tu çawa dixwazî bexşa xwe ya ji bacê kêmkirî temam bikî:",
+  "option1": {
+    "heading": "Vebijêrka 1: Niha Serhêl Bexş Bikin",
+    "description": "Bi karanîna karta krediyê, karta debîtê, an rêbazên din ên dravdana serhêl, bi rêya sponsora me ya ewle ya darayî, <strong>The Field</strong> , bexşa xwe tavilê temam bikin. Hûn ê tavilê wergirtina bacê bistînin.",
+    "button": "Bi rêya The Field bexş bike →"
+  },
+  "option2": {
+    "heading": "Vebijêrka 2: Depozîta Bankê bo Weqfa Roy",
+    "description": "Depozîteke rasterast a bankê an veguhestineke bankî bo <strong>Weqfa Roy</strong> , hevkarê me yê stratejîk û sponsorê darayî, bikin. Ev vebijêrk ji bo bexşên mezintir an veguhestinên navneteweyî îdeal e.",
+    "bankingInfo": "Agahiyên Bankayê",
+    "fields": {
+      "accountName": "Navê Hesabê:",
+      "bankName": "Navê Bankê:",
+      "accountNumber": "Hejmara Hesabê:",
+      "routingNumber": "Hejmara Rêwîtiyê:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Balkêşî:"
+    },
+    "instructions": "Ji kerema xwe &quot; <strong>Orbital Perestgeh - {donationType}</strong> &quot; di qada referansê de binivîsin. Piştî ku veguhestina xwe temam kir, ji bo wergirtina fatûreya baca xwe, agahdariya veguhestina xwe bi e-nameyek ji me re bişînin <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art.</a>",
+    "button": "Têkilî bi me re bikin Derbarê Depozîto →"
+  },
+  "taxInfo": {
+    "heading": "Bexşandina Kêmkirina Bacê",
+    "description": "Orbital Temple projeyek ji hêla darayî ve ya <strong>The Field (Performance Zone Inc.)</strong> ye, ku rêxistinek ne-qezenc a <strong>501(c)(3)</strong> ye. Hemû beşdarîyên Dewletên Yekbûyî yên Amerîkayê heta radeya ku qanûn destûrê dide ji bacê tên derxistin.",
+    "questions": "Pirsên we hene? Bi me re têkilî daynin li <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

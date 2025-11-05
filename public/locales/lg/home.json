@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Yeekaalu ya Orbital",
+    "subtitle": "ye mulimu gw’emikono era nga setilayiti, .\nnga baluubirira okuba yeekaalu erimu abantu bonna, .\nmu kifo awatali bbugwe ayinza kutuuka."
+  },
+  "ritual": {
+    "label": "omukolo"
+  },
+  "cta": {
+    "link": "Naye, yeekaalu endala?",
+    "arrowAlt": "akasaale"
+  },
+  "dome": {
+    "alt": "Dome (Dome) nga"
+  }
+}

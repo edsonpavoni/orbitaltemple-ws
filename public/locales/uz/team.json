@@ -1,0 +1,61 @@
+{
+  "title": "Jamoa - Orbital ibodatxonasi",
+  "heading": "Jamoa",
+  "artist": "Edson Pavoni, rassom",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Ijrochi prodyuser",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerokosmik va tizim muhandisligi",
+      "members": "Pedro Kaled, João Pedro Polito, Viktor Baptista va João Viktor Alves"
+    },
+    "electronic": {
+      "heading": "Elektron muhandislik",
+      "members": "André Biagioni, João Pedro Polito va VK"
+    },
+    "software": {
+      "heading": "Dasturiy ta'minot",
+      "members": "Jonatan Cherubina"
+    },
+    "design": {
+      "heading": "Dizayn va arxitektura",
+      "members": "Gilyerme Bulyexos"
+    },
+    "printing": {
+      "heading": "3D bosib chiqarish",
+      "members": "Eduardo Dias boshchiligida Solid Concepts"
+    },
+    "rendering": {
+      "heading": "3D renderlash",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Tadqiqot",
+      "members": "Roberta Savian Rosa va Klara Markes"
+    },
+    "exhibition": {
+      "heading": "Ko'rgazma ishlab chiqarish, suratga olish va kontent yaratish",
+      "members": "Klara Markes"
+    },
+    "silkScreen": {
+      "heading": "Ko'rgazmaning ipak ekrani",
+      "members": "Dafna Alves"
+    },
+    "educational": {
+      "heading": "Ta'lim loyihasi",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Aloqa jamoasi",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatyan Putti, Rafael Fernandes, Bruna Qohira"
+    },
+    "specialThanks": {
+      "heading": "Maxsus rahmat",
+      "members": "Gabriela Veyga, Marcello Dantas, Enn Valls, Matias Kampos Abad, Samuel Levi, Bella Nardini va Ley Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, Joau Viktor Alves, Andre Biagioni, VK, Jonatan Kerubina, Gilyerme Bulyexos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Vigal Alves, Flav Pedroi, Andregal Vidiome Tatyane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbital Temple sun'iy yo'ldoshi"
+}

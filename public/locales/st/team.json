@@ -1,0 +1,61 @@
+{
+  "title": "Sehlopha - Tempele ea Orbital",
+  "heading": "Sehlopha",
+  "artist": "Edson Pavoni, moetsi oa litšoantšo",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Moetsi oa Phethahatso",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Boenjiniere ba Elektronike",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Moralo le Mehaho",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Khatiso ea 3D",
+      "members": "Mehopolo e tiileng, tlasa boetapele ba Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D Rendering",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Patlisiso",
+      "members": "Roberta Savian Rosa le Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Tlhahiso ea Lipontšo, Litšoantšo le Tlhahiso ea Litaba",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Pontšo ea Silika Screening",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Morero oa Thuto",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Sehlopha sa Lipuisano",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Liteboho tse khethehileng",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidizmelo Putti, Andre Pedro Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satellite ea Tempele ea Orbital"
+}

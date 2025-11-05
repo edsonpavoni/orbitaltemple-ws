@@ -1,0 +1,17 @@
+{
+  "title": "Texniki məlumat - Orbital Məbədi",
+  "heading": "Texniki məlumat",
+  "satellite": {
+    "heading": "Peyk",
+    "specs": "Ölçüləri: 50x58x64 mm<br /> 1P PocketQube<br /> Çəkisi: 245 qr<br /> Materiallar: alüminium, qızıl, fiberglas və elektron komponentlər.<br /> Orbit: Hündürlük 525 ± 25 km; meyl: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Heykəltəraşlıq",
+    "specs": "Ölçülər: 6 m (diametr) və 1.2 m (hündürlük)<br /> Çəkisi: 46 kq<br /> Materiallar: alüminium, epoksi güzgülü lövhə, iskele strukturundan asılmış qızılı alüminium günbəz."
+  },
+  "radio": {
+    "heading": "Radio Xüsusiyyətləri NASA-Kataloq:",
+    "specs": "TBD aşağı əlaqə: 437 MHz<br /> Zəng: Vəziyyət: 2025-CƏQİBƏ"
+  },
+  "imageAlt": "Texniki məlumat diaqramı"
+}

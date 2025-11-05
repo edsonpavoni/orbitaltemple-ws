@@ -1,0 +1,167 @@
+{
+  "title": "Piştgiriya Perestgeha Orbitalê bikin - Tevlî Mîsyonê bibin",
+  "heading": "Piştgiriya Perestgeha Orbital",
+  "vision": "Di <strong>28ê Mijdara 2025an</strong> de, <strong>Orbital Temple</strong> dê ji <strong>Hindistanê</strong> bi roketek <strong>ISROyê</strong> were firandin. Peykek hunerî ya beşdar ji Başûrê Cîhanê, ew abîdeyek ji bo tevlêbûna radîkal, platformek ji bo perwerdehiyê û katalîzatorek ji bo gotûbêjên gerdûnî li ser pêşeroja pîroz di serdema teknolojiyê, AI û keşifkirina fezayê de ye.",
+  "videoCaption": "Vîdyoya danasîna Perestgeha Orbital, 1 deqe.",
+  "accomplished": {
+    "heading": "Tiştê ku me bi dest xistiye",
+    "content": "Piştî çar salan lêkolîn û pêşveçûnê, mîsyon amade ye. Me <strong>pêşveçûna hardware û nermalavê</strong> ji bo peykê temam kir, <strong>testên fermî yên lerzînê yên</strong> ku ji bo sertîfîkaya firînê hewce ne derbas kirin, û peymana xwe bi ISRO re temam kir. Peyk hatiye çêkirin. Teknolojî dixebite. Em ji bo firînê destûr wergirtine."
+  },
+  "funding": {
+    "heading": "Pêşveçûna Fînansekirinê",
+    "raised": "bilindkirî ji",
+    "of": "ji",
+    "goal": "armanc",
+    "button": "Piştgiriya Mîsyonê bikin"
+  },
+  "needs": {
+    "heading": "Ji bo çi em hewceyê piştgiriyê ne",
+    "intro": "Ji bo ku em vê mîsyona dîrokî biqedînin û bandora wê herî zêde bikin, em ji bo pênc pêkhateyên girîng piştgiriyê hewce dikin:",
+    "launch": {
+      "title": "Mesrefên destpêkirina ISRO:"
+    },
+    "travel": {
+      "title": "Rêwîtiya Hunermend bo Hindistanê:"
+    },
+    "carbon": {
+      "title": "Bernameya Telafîkirina Karbonê:"
+    },
+    "education": {
+      "title": "Bernameya Perwerdehiyê:"
+    },
+    "docPreProd": {
+      "title": "Berhemanîna Belgefîlmê:"
+    },
+    "docProd": {
+      "title": "Berhemanîna Belgefîlmê:"
+    }
+  },
+  "decade": {
+    "heading": "Dehsala Pêşerojê",
+    "intro": "Ev mîsyon di 28ê Mijdara 2025an de bi dawî nabe. Ew tenê dest pê dike.",
+    "paragraph1": "Di <strong>10 salên</strong> bê de, ev peyk dê li dora Erdê bigere, û bersiva navên ku ji her goşeyekî cîhanê têne şandin bide. Armanca bernameya perwerdehiyê ew e ku <strong>bi hezaran ciwanan</strong> di teknolojiya peykê de perwerde bike, û <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Valahiya Fezayê</a> ji bo Başûrê Cîhanê bişkîne. Belgefîlm dê bigihîje <strong>bi mîlyonan kesan</strong> li çaraliyê cîhanê, û dê sohbetên li ser aîdiyet, bîranîn û pîroziyê bide destpêkirin.",
+    "paragraph2": "Orbital Temple bi <strong>Sathi Roy</strong> û <strong>Weqfa Roy</strong> re hevkariyê dike da ku vê vîzyona dehsalî ji hêla çandî ve girîng bike. Weqfa Roy rêxistinek ne-qezenc e ku ji bo berfirehkirina gihîştina perwerdehiya giyanî, şîfaya hestyarî û amûrên hişmendiyê ji bo civakên bêxizmet li çaraliyê cîhanê veqetandî ye, şehrezayiya kevnar û teknolojiya nûjen bi hev re girêdide da ku cîhanek hişmendtir, girêdayî û dilovantir biafirîne. Bi hev re, em binesaziyê ava dikin da ku piştrast bikin ku Orbital Temple dibe tevgerek mayînde ku bigihîje civakên li çaraliyê cîhanê.",
+    "paragraph3": "Piştgiriya we ne tenê fînansekirina firînekê ye; ew tevgerekê diafirîne ku dê deh salan deng vede û nifşê pêşerojê yê hunermend û endezyarên fezayê îlham bike."
+  },
+  "waysToSupport": {
+    "heading": "Rêbazên Piştgiriyê",
+    "individualDonations": {
+      "heading": "Bexşên Takekesî",
+      "intro": "Di asteke ku ji we re guncaw be de tevlî mîsyonê bibin. Piştgirên takekesî bingeha vê projeya dîrokî ne.",
+      "orbitalFriend": {
+        "title": "Hevalê Orbital",
+        "benefits": "Hûn distînin: Nav li ser navnîşa rûmetê ya malperê · Sertîfîkaya orbitalê ya kesane dema ku peyk tê avêtin · Krediya spasdariyê ya belgeyî · Wergirtina ku ji bacê tê derxistin",
+        "button": "Bexşek ji Bacê Kêmkirî Bikin"
+      },
+      "satelliteSupporter": {
+        "title": "Piştgirekî Peykê",
+        "benefits": "Hûn distînin: Hemû feydeyên Orbital Friend · Gihîştina sepanê şopandina satelîtê ya taybet · Peyama vîdyoyî ya spasdariya hunermend · Wergirtina ku ji bacê tê derxistin",
+        "button": "Bexşek ji Bacê Kêmkirî Bikin"
+      },
+      "spaceAdvocate": {
+        "title": "Parêzerê Fezayê",
+        "benefits": "Hûn distînin: Hemû feydeyên Piştgiriya Peykê · Navê çapkirî di krediyên belgefîlmê de · Vexwendname ji bo pêşandana belgefîlmê ya taybet · Nûvekirinên sê mehan carekê ji tîmê · Wergirtina ku ji bacê tê derxistin",
+        "button": "Bexşek ji Bacê Kêmkirî Bikin"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Parçeyek Taybetî Fînans Bikin",
+    "intro": "Beşdariya we rasterast aliyên taybetî yên mîsyonê fînanse dike. Tiştê ku bi we re diaxive hilbijêrin, an jî gelek tiştan bikin yek da ku bandorek mezintir biafirînin.",
+    "launch": {
+      "title": "Fînansekirina Veguhestina Fezayê",
+      "description": "Mesrefa rastîn a firînê li ser roketa <strong>ISRO</strong> di <strong>28ê Mijdara 2025an</strong> de. Ev yek Orbital Perestgehê dişîne orbitê, li wir ew ê deh salan wekî peykek hunerî ya beşdar û perestgehek li ezmanan bimîne, ku ji bo her kesê li cîhanê gihîştî be.",
+      "benefits": "Hûn distînin: Sernavê \"Sponsorê Destpêkirinê\" · Di hemî daxuyaniyên çapemeniyê de tê nîşandan · Pejirandina belgefîlmê li ser ekranê · Gihîştina VIP ji bo bûyerên destpêkirinê · Tevlî bangên vîdyoyê yên sê mehan carekê bi Edson û tîmê mîsyonê re bibin · Sertîfîkayek bi daneyên orbîtalê yên satelîtê · Wergirtina ji bacê kêmkirî",
+      "button": "Bexşek ji Bacê Kêmkirî Bikin"
+    },
+    "travel": {
+      "title": "Fînansekirina rêwîtiya hunermend bo Hindistanê",
+      "description": "Mesrefên rêwîtî, mayîn û hilberînê ji bo hunermend Edson Pavoni û tîmê sereke ji bo şahidiya destpêkirina fîlmê li <strong>Hindistanê di 28ê Mijdara 2025an de</strong> . Ev rêwîtî ji bo kişandina belgefîlman, veguheztina medyayê û temsîlkirina Başûrê Cîhanê di vê kêliya dîrokî de pir girîng e.",
+      "benefits": "Hûn distînin: Spasiya şexsî ji hunermend · Gihîştina belgefîlmên li pişt perdê · Nav di kredîyên belgefîlmê de · Wergirtina ku ji bacê tê derxistin",
+      "button": "Bexşek ji Bacê Kêmkirî Bikin"
+    },
+    "carbon": {
+      "title": "Bernameya Telafîkirina Karbonê Fînans bike",
+      "description": "Hemû emisyonên karbonê, tevî firandina roketan û çêkirina peykê, dê bên bêbandorkirin. Em bi bernameyên telafîkirina karbonê yên piştrastkirî re dixebitin da ku piştrast bikin ku ev mîsyon şopek neyînî li ser jîngehê nahêle.",
+      "benefits": "Hûn distînin: Nav di navnîşa rûmetê ya malperê de · Sertîfîkaya kesane · Wergirtina ji bacê kêmkirî",
+      "button": "Bexşek ji Bacê Kêmkirî Bikin"
+    },
+    "education": {
+      "title": "Bernameya Perwerdehiyê Fînans Bike",
+      "description": "Kursa pirzimanî ya temam a ku fêrî ciwanên Başûrê Cîhanî dike û çawa peykên peykê çêdikin, pêş dixe û dide destpêkirin. Pêşxistina mûfredatê, hilberîna vîdyoyê, mazûvaniya platformê, û sala yekem a bursan ji bo xwendekarên bêxizmet vedihewîne. Binesaziyek mayînde ji bo perwerdehiya fezayê diafirîne.",
+      "benefits": "Hûn van tiştan distînin: Nasnameya \"Sponsorê Damezrîner ê Perwerdehiyê\" · Bursên bi navê we · Di materyalên perwerdehiyê de hatine nîşandan · Yekem koma xwendekarên ku ji hêla bursa we ve hatine fînansekirin bibînin (virtual an bi awayekî rasterast) · Beşa belgefîlmê ya taybetmendî · Derfeta axaftinê di çalakiyên destpêkirinê de · Wergirtina ji bacê kêmkirî",
+      "button": "Bexşek ji Bacê Kêmkirî Bikin"
+    },
+    "docPreProd": {
+      "title": "Pêş-hilberîna Belgefîlmê Fînans Bike",
+      "description": "Qonaxa destpêkê ya belgefîlma <strong>&quot;Çi Perestgehekê Dike?&quot;</strong> fînanse bike. Di nav xwe de 2 hevpeyvînên kûr li <strong>Hindistanê</strong> bi rêberên ramanê û pratîsyenên giyanî, rêwîtî û hilberîn bi ekîbeke piçûk, û sererastkirina dîmenên pêş-hilberînê hene. Ev qonax bingeha belgefîlmê ava dike û rêça afirîner piştrast dike.",
+      "benefits": "Hûn distînin: Krediya Hevkarê Hilberîner · Nav di kredîyên belgefîlmê de · Pêşandana taybet a dîmenên pêş-hilberînê · Gihîştina pişt perdê · Wergirtina ku ji bacê tê derxistin",
+      "button": "Bexşek ji Bacê Kêmkirî Bikin"
+    },
+    "docProd": {
+      "title": "Fînansekirina Berhemanîna Belgefîlman",
+      "description": "Berhemhênan û piştî-berhemhênana temam a <strong>&quot;What Makes a Perestgehê?&quot;</strong> , belgefîlma dirêj a ku li ser hevgirêdana huner, teknolojiyê û pîroziyê vedikole. Fîlm kişandina fîlm li gelek welatan, hevpeyvînên zêdetir bi rêberên ramanê re, edîtoriya berfireh, rêzkirina rengan, sêwirana deng, û pêşandanên pêşîn li <strong>Hindistan</strong> û <strong>NYC</strong> vedihewîne.",
+      "benefits": "Hûn distînin: Kredîya Hilberînerê Rêveber · Di kredîyên vekirinê de cih digire · Nîşandana taybet ji bo mêvanên we · Vexwendnameyên ji bo pêşandana cîhanî (her du bajar) · Şîva taybet bi Edson û derhênerê belgefîlmê re berî pêşandanê · Gihîştina li pişt perdê · Wergirtina ji bacê kêmkirî",
+      "button": "Bexşek ji Bacê Kêmkirî Bikin"
+    },
+    "artCollector": {
+      "title": "Bibe Tekane Berhevkarê Hunerê Perestgeha Orbital",
+      "imageAlt": "Sazkirina Perestgeha Orbital li Mercosul Bienal",
+      "imageCaption": "Perestgeha Orbital li 13th Mercosul Biennial, Porto Alegre. Wêne ji hêla Clara Marques ve.",
+      "paragraph1": "Ji bo vê mîsyonê sê peykên wekhev hatin çêkirin. <strong>Yek ji wan</strong> dê di 28ê Mijdara 2025an de ber bi fezayê ve biçe. <strong>Yek ji wan</strong> diçe pêşangehên muzexaneyên li çaraliyê cîhanê. <strong>Yek ji wan</strong> ji bo koleksiyonerekî comerd tê veqetandin ku dixwaze vê vîzyonê fînanse bike û bibe xwediyê perçeyek dîroka hunera fezayê.",
+      "paragraph2": "Ev ne kopiyek e; ew yek ji sê peykên orîjînal e. <strong>Keştiyeke fezayê ya bi temamî fonksiyonel e</strong> ku di heman demê de <strong>peyker</strong> e. Peyk <strong>5 cm³</strong> e û <strong>245 g</strong> giran e, qubeya wê ji <strong>zêr</strong> hatiye çêkirin.",
+      "paragraph3": "Ev <strong>berhemeke hunerî ya 1/1</strong> e.",
+      "paragraph4": "Wekî koleksiyoner, hûn ê heman sazkirina ku ji bo <strong>13emîn Bienala Mercosul</strong> hatî çêkirin bistînin, pêşangehek muzeyî ya bêkêmasî ku peykê hem wekî huner û hem jî wekî teknolojiyê nîşan dide. Ev sazkirin li deverên navneteweyî yên girîng hatiye pêşandan û standarda herî bilind a pêşkêşkirina hunera fezayê temsîl dike.",
+      "paragraph5": "Piştgiriya we alîkariya fînansekirina tevahiya vîzyonê dike: destpêkirin, bernameya perwerdehiyê, û belgefîlma ku dê di serdema teknolojiyê, AI û keşifkirina fezayê de nîqaşên gerdûnî li ser tiştên pîroz bide destpêkirin. Navê we bi domdarî bi vê mîsyona dîrokî ve girêdayî dibe.",
+      "button": "Li ser vê derfetê bipirsin"
+    }
+  },
+  "gratitude": {
+    "heading": "Bi spasdarî ji bo piştgirên me",
+    "intro": "Perestgeha Orbital bi saya sazî, kes û bawermendên bi tevlêbûna radîkal ên ku fêm dikin ku huner xeyalên sibê diafirîne, gengaz dibe.",
+    "pearmill": {
+      "title": "Piştgirekî Damezrîner",
+      "description": "Pearmill yek ji ajansên kirrûbirra performansê ye ku herî zû mezin dibe li Dewletên Yekbûyî, komek ji sêwiraner, kirrûbirr û endezyaran pêk tê ku bi hev re dixebitin da ku alîkariya mezinbûna hin ji destpêkên herî îkonîk ên cîhanê bikin. Piştgiriya wan a comerd hişt ku tîma Orbital Temple pêkhateyên krîtîk bikire û alavên çavkaniya vekirî yên ku vê mîsyona peykê gengaz dike pêşve bibe."
+    },
+    "yourName": "Dibe ku navê te li vir be. Tevlî me bibin di afirandina dîrokê de."
+  },
+  "people": {
+    "heading": "Kesên Li Pişt Vê Mîsyonê",
+    "intro": "Orbital Temple pabendbûnek 10 salan e. Ew ji hêla du kesan ve tê rêvebirin ku jiyana xwe ji bo girêdana huner, teknolojiyê û têkiliyên mirovan derbas kirine, û yên ku binesaziyê ava dikin da ku vê vîzyonê ji bo deh salên pêş de bidomînin.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Hunermend û Teknolog",
+      "paragraph1": "Edson hunermend û teknologek e ku nêzîkatiya mirovan di navbera huner û teknolojiyê de vedikole. Pratîka wî sazkirinên mîmarî, helbest, wênekêşî û teknolojiya satelîtê digire nav xwe.",
+      "paragraph2": "Berhemên wî di 13emîn Bienala Mercosul (Brezîlya), IX Bienala Navneteweyî (Ozbekistan), û NTU Global Digital Art Prize (Singapûr) de hatine pêşandan.",
+      "paragraph3": "Bi zêdetirî <strong>20 salan di warê huner û teknolojiyê de</strong> , wî bi tîmên afirîner re ji bo <strong>Olîmpiyadên Rio 2016</strong> û <strong>Banka Pêşveçûnê ya Navneteweyî ya Amerîkî</strong> xebitî. Ji hêla Kovara Proxxima ve wekî yek ji <strong>50 pisporên Brezîlyayî yên herî nûjen</strong> hate hilbijartin, wî du caran li pey hev <strong>Xelatên Sêwirana IF</strong> (2017-2018) wergirt û fînalîstê <strong>Xelata Lumen Prize Futures</strong> bû. Karên wî di du du salan de hatine pêşandan û li <strong>Muzexaneya Hunerê ya Hemdem a Ludwig</strong> (Budapest), <strong>Enstîtuya Inhotim</strong> (Brezîlya), û <strong>Muzexaneya Sêwiran û Modayê</strong> (Lîzbon) hatine pêşkêş kirin, bi pêşangehên li New York, Pekîn, Sîngapûr, Dubaî, Rio de Janeiro û bajarên din."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Damezrîner, Weqfa Roy & Hevkarê Stratejîk",
+      "paragraph1": "Sathi damezrênera <strong>Weqfa Roy</strong> e, rêxistineke neqezenc e ku ji bo berfirehkirina gihîştina perwerdehiya giyanî, şîfaya hestyarî û amûrên hişmendiyê ji bo civakên bêxizmet li çaraliyê cîhanê veqetandî ye. Weqf bi dibistanan, saziyên çandî û rêxistinên herêmî re hevkariyê dike da ku amûrên tenduristiyê yên bi hêza AI, mûfredata civakê û medyaya ku veguherînê îlham dide belav bike.",
+      "paragraph2": "Sathi, bi paşxaneyek di warê zanistên mejî, rahênan û serokatiyê de, li seranserê Amerîkaya Bakur û Hindistanê tîm ava kiriye û rêve biriye, û di yek projeyê de salane <strong>600 mîlyon dolar</strong> firotan qezenc kiriye. Ew her weha damezrênera <strong>OHM</strong> ye, tevgereke giyanî ya pêşî ya dîjîtal, Hev-Damezrênera <strong>SUTE</strong> (platformeke nivîsgehê ya dîjîtal a bi AI-ê ve tê rêvebirin), û wekî Şêwirmend û Seroka Mezinbûnê ya Cîhanî ji bo <strong>RISE Global Creative</strong> kar dike.",
+      "paragraph3": "Wekî jineke Bengalî-Amerîkî ku pirek di navbera felsefeyên Rojhilat û Rojava de çêdike, Sathi perspektîfek bêhempa tîne tevgerên ruhanî û hunerî yên sedsala 21an. Bi toreke ku ji <strong>65,000+ şopîner</strong> û zêdetirî <strong>40 mîlyon bandorên serhêl</strong> zêde dibe, ew civakên gerdûnî ava dike ku li ser cudahîyên çandî û ruhanî ve girêdide."
+    },
+    "together": "Em bi hev re digel Weqfa Roy, mîsyonek 10-salî ava dikin ku huner, teknolojî, perwerde û tiştên pîroz bi hev ve girêdide, bi şandina satelîtê di 28ê Mijdara 2025an de dest pê dike, û bi tevgerek berdewam dike ku dê bigihîje civakên bêxizmet ên li çaraliyê cîhanê û îlhama nifşê pêşerojê bide."
+  },
+  "join": {
+    "heading": "Tevlî me bibin",
+    "content": "Peyk hatiye çêkirin. Teknolojî amade ye. Dîroka firînê hatiye destnîşankirin: <strong>28ê Mijdara 2025an</strong> . Ev kêliya tevlîbûna mîsyonekê ye ku ji nû ve xeyal dike ka huner dikare çi bike, dikare biçe ku derê, û dikare xizmeta kê bike.",
+    "fundSpecific": {
+      "heading": "Parçeyek Taybetî Fînans Bikin an Bibin Hevkarê Damezrîner",
+      "description": "Yek ji derfetên fînansekirinê yên li jor hilbijêre, li ser koleksiyonerê hunerê bipirse, an jî li ser sponsorgeriyek xwerû ku bi vîzyona te re li hev dike nîqaş bike.",
+      "button": "Ji bo destpêkirinê bi me re têkilî daynin →"
+    },
+    "generalDonation": {
+      "heading": "Beşdariyek ji Bacê Kêmkirî Bikin",
+      "description": "Hemû beşdarî, mezin çi biçûk, piştgiriyê didin mîsyonê û bi rêya sponsora me ya darayî, The Field, ji bacê tên derxistin.",
+      "button": "Bi rêya The Field bexş bike →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Bexşandina Kêmkirina Bacê",
+    "paragraph1": "Orbital Temple projeyek ji hêla darayî ve ya <strong>The Field (Performance Zone Inc.)</strong> ye, ku rêxistinek ne-qezenc a <strong>501(c)(3)</strong> ye û navenda wê li New Yorkê ye. Hemû beşdariyên Dewletên Yekbûyî yên Amerîkayê heta radeya ku qanûn destûrê dide ji bacê tên derxistin.",
+    "paragraph2": "<strong>Zevî</strong><br> 75 Maiden Lane, Odeya 906<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Dema ku hûn bi çekê beşdarî dikin, ji kerema xwe bi notê ji bo <strong>Performance Zone Inc.</strong> bidin: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Mai ka Artist",
+  "opening": {
+    "question": "ʻO wai kēia kanaka nāna e hoʻolālā i ka luakini ma ke ākea?",
+    "thanks": "Mahalo no ka nīnau.",
+    "answer": "ʻO ka pane pōkole he mea pena au. ʻO ka lōʻihi kēia:"
+  },
+  "origin": {
+    "sao_paulo": "Ua hānau ʻia au ma waho o São Paulo, ma kahi kaiāulu i aʻo mua iaʻu i ke ʻano o ka pilikia. Nui koʻu mau hoa kula i loko o ka hale paʻahao i kēia manawa. Aia koʻu makua kāne i loko o ka hale paʻahao. ʻAʻole ʻo ka hoʻomāinoino kahi mea aʻu i heluhelu ai, ʻo ia ka honua aʻu e hoʻokele ai. A maopopo iaʻu he pono iaʻu e pakele.",
+    "technology": "Ua lilo ka ʻenehana i koʻu ala i waho. Ua aʻo au i ka papahana, aʻo i ka uila i koʻu wā ʻōpio. He ʻōlelo ʻo Code i hiki ke lawe iaʻu i kahi ʻē. ʻO ka hana ʻana me ka ʻenehana koʻu pakele mai ka ʻilihune.",
+    "christianity": "Akā, ke ʻimi nei au i ka pili ʻana, i ke aloha, i mea e manaʻoʻiʻo ai. Ua ʻae ʻia au. Aloha au. He kaiāulu koʻu. Ua aʻo au e kala aku, e manaʻoʻiʻo, e neʻe pū no kahi kumu nui aʻe.",
+    "price": "ʻO ke kumukūʻai naʻe, ua kiʻekiʻe. Ua aʻo au i nā mea he nui aʻu e aʻo ʻole nei. No laila ua pakele au mai kēlā."
+  },
+  "searching": {
+    "walls": "ʻIke wau i ka hana a nā pā. Ua ʻike au iā lākou. Ua hele au ma nā ʻaoʻao ʻelua: mālama ʻia i waho, mālama ʻia i loko. Ua make ke Akua ia mau makahiki. ʻO ke akua i aʻo ʻia mai iaʻu, ʻo ia ka mea me nā lula a me ka hoʻoponopono a me nā puka i wehe wale ʻia no kekahi poʻe.",
+    "art": "Ua hoʻomaka wau e hana kiʻi no ka ʻimi ʻana i kēia mau nīnau: pili i ka pilina a me ka ʻenehana, e pili ana i ka hoʻomanaʻo a me ka make, e pili ana i ka mea e pono ai ka lani. Ua hoʻomaka wau e kūkulu i nā mīkini e hoʻomaʻamaʻa hou i kā mākou pilina me ka ʻenehana, nā mīkini e pono ai kou komo ʻana, kou alo, kou inoa, e hoʻololi mai ka metala a me ke code i mea ola."
+  },
+  "pandemic": {
+    "intro": "A laila paʻi ka maʻi maʻi ma Brazil.",
+    "government": "I ka wā i hoʻopaneʻe ʻia ai nā lāʻau lapaʻau COVID, ke kūkākūkā nei koʻu aupuni i nā kickbacks o hoʻokahi kālā no ka nui. Hoʻolaha lākou i ka lāʻau lapaʻau i hoʻomaopopo ʻia ʻaʻole maikaʻi, ʻakaʻaka ʻoiai ua make ka poʻe e hakakā nei e hanu. Ua ala mākou i kēlā me kēia lā i kahi helu ʻokoʻa. ʻEhia ka poʻe i make i nā hola he 24 i hala? Ua ʻoi aku paha, a i ʻole ma mua o ka mea i manaʻo ʻia?",
+    "war": "Ua makau ka hapalua o ka honua, a ua hoole kekahi hapa. Aia mākou i ke kaua, me ka maʻi maʻi a me kekahi.",
+    "memorial": "Makemake au e hana i wahi no ke kaumaha hui, no laila, me nā haneli o ka poʻe aʻu i hana ai i ka Memorial Inumeráveis. He hana noʻeau ma ka hui ʻana o ke kiʻi a me ka nūpepa. Ua nīnauele mākou i nā ʻohana i nalowale kekahi. Ua kākau mākou i ka moʻolelo ola o ke kanaka i nalowale. Ua hoʻololi mākou i nā helu i mau moʻolelo. Ua hana ʻia nā mele, nā mele, nā symphonies me ia mau moʻolelo. Heluhelu nā hōkū i kēlā mau moʻolelo ma ke kīwī aupuni. Ua hiki ka papahana i nā miliona.",
+    "meaning": "ʻO ka mea nui, ʻaʻole ia ka paona, ʻo kēlā me kēia moʻolelo he inoa, he ola, he lani o kekahi."
+  },
+  "discovery": {
+    "pattern": "Ma hope o ka ʻumi kaukani kamaʻilio ʻana me ke kaumaha, ua hoʻomaka ke ʻano e puka mai. Ke kamaʻilio mākou no kekahi mea i make, ʻaʻole mākou e ʻōlelo i nā mea maikaʻi; koho mākou i nā ʻāpana o kā lākou moʻolelo me he mea lā ke kākau nei mākou i kahi leka kākoʻo. He olelo paipai i ke kiai puka o ka paradaiso. Hana mākou i kā mākou maikaʻi loa e hoʻouna iā lākou i kahi o ka ʻae, hoʻomaha, hanohano a me ka hoʻomanaʻo.",
+    "understanding": "A maopopo iaʻu kekahi mea i hoʻololi i nā mea a pau: Ua hōʻeha mākou i nā luakini a mākou i kūkulu ai. ʻO kā mākou mau manaʻoʻiʻo e pili ana i ka mea kūpono i ka lani e hoʻohālikelike pololei i ka mea a mākou e haʻalele ai ma ka Honua. Ua manaʻo ka poʻe ʻEleʻele ʻaʻohe ʻuhane o ka poʻe Pukiki ma Brazil; ʻO kēlā manaʻoʻiʻo i hoʻāpono i ka hoʻoluhi. Inā he ʻōiwi ʻoe, inā i hānau ʻia ʻoe ma kahi hewa a i aloha ʻole i ke kanaka hewa, ua ʻōlelo ʻia ʻoe ua pani ʻia nā puka o ka lani iā ʻoe.",
+    "birth": "Pēlā i hānau ʻia ai ka luakini ʻo Orbital."
+  },
+  "shaman": {
+    "secular": "ʻAʻole hiki ke lilo i mea hana kiʻi kiʻi maoli. Ua paʻa mau mākou i ko mākou kupuna maʻamau, ka shaman. I kinohi, he ana. Ua pena nā kānaka i nā holoholona ma nā paia ʻaʻole no ka hoʻonani, akā no ke kāhea ʻana. Hula lakou, a lilo ke ana i heiau. Hoʻohana ka shaman i ka ʻuhane o ka hoʻomana; ʻO ka mea pena kiʻi e hoʻohana i ka aura o ke akamai. Paʻi mākou, kālai mākou, hoʻopaʻa inoa mākou, hoʻolālā mākou i ko mākou wā e makemake ai ʻaʻole e hoʻonani, akā e kāhea. He ʻuhane ke kiʻi a pau, ʻoiai ke ʻōlelo nei ʻaʻole."
+  },
+  "space": {
+    "question": "Ma hea mākou e kūkulu ai i ka luakini me ka pā ʻole? Kahi hiki ʻole i ka lāhui a me ka hoʻomana ke koi. Ma kahi e hiki ai iā mākou ke noʻonoʻo iā mākou iho he hui hoʻokahi.",
+    "answer": "Space.",
+    "description": "He kiʻi ukali mai ka Global South. He luakini ma ka orbit e kono ana i nā mea a pau e hoʻouna i ko lākou mau inoa i ka lewa, me ka nānā ʻole ʻo wai lākou, kahi i hānau ʻia ai lākou, ka mea a lākou e aloha ai, ka mea a lākou e manaʻoʻiʻo ai. He wahi e hiki ai ke hoʻokomo radical, ma ka orbit, ma waho o nā palena.",
+    "mission": "He kumu hāmama kēia misionari. ʻO kēlā me kēia palapala ʻenehana, kēlā me kēia laina code e loaʻa manuahi i hiki i nā mea pena kiʻi, nā kaiāulu ʻē aʻe, nā lāhui ʻē aʻe ke kūkulu i kā lākou mau satelite ponoʻī. No laila, ʻaʻole komo wale ka Global South i ka ʻimi ʻana i ka lewa, akā ke alakaʻi nei."
+  },
+  "closing": {
+    "answer": "No laila ʻo wai kēia kanaka e kūkulu i ka luakini ma ke ākea? ʻAʻole wau e kūkulu nei. Kūkulu ʻia ka luakini e nā mea a pau e hoʻoholo e hoʻouna i kahi inoa, e ʻike ʻia he laʻa, e hana maoli ai. ʻO wau wale nō ke noi aku nei. ʻO ʻoe ka mea nāna e kūkulu inā hoʻoholo ʻoe.",
+    "signature": "E ʻoluʻolu,",
+    "name": "Edson Pavoni"
+  }
+}

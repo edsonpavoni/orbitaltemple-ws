@@ -1,0 +1,50 @@
+{
+  "title": "Socis - Temple Orbital",
+  "heading": "Socis",
+  "intro": "El Temple Orbital existeix gràcies a la generositat, l'experiència i la visió de socis extraordinaris. Des de l'enginyeria de satèl·lits fins a la creació de narratives, des de l'obertura de portes en terres llunyanes fins a la plasmació de somnis en or, cada col·laboració apropa aquest temple a les estrelles.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY i socis",
+      "description": "Comunicació, experiències integrades i impressionants imatges renderitzades en 3D que van donar vida a la visió del satèl·lit abans que toqués el buit de l'espai."
+    },
+    "highestMantra": {
+      "name": "El nostre mantra més elevat",
+      "description": "Liderat per Sathi Roy, connectant el Temple Orbital amb les comunitats espirituals i artístiques de l'Índia. Obrint vies per a la recaptació de fons, l'intercanvi cultural i una exposició d'Art Basel després del llançament del novembre de 2025."
+    },
+    "allToSpace": {
+      "name": "Tot a l'espai",
+      "description": "Especialistes brasilers en petits satèl·lits. Quatre anys de col·laboració construint una plataforma de maquinari de codi obert i sent pioners en el procés d'enviar art a l'òrbita des del Sud Global."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organització Índia de Recerca Espacial. Proveïdor de llançaments per a la missió PSLV que portarà Orbital Temple a l'òrbita heliosíncrona el novembre de 2025."
+    },
+    "mercosul": {
+      "name": "13a Biennal del Mercosur",
+      "description": "Porto Alegre, Brasil. Comissariada per Marcello Dantas amb els comissaris assistents Laura Cattani, Munir Klamt, Tarsila Riso i Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Taller INPE / ArtSat",
+      "description": "L'equip de desenvolupament de satèl·lits es va formar durant el II Taller ArtSat. Coordinat per Fabiane M. Borges, instruït per Lázaro Camargo, col·laborat per Ítalo Pinto Rodrigues, supervisat per Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Conceptes sòlids",
+      "description": "Liderat per Eduardo Dias. Tot el treball d'impressió 3D i microfosa d'or per a la cúpula escultòrica, transformant somnis digitals en realitat de metalls preciosos."
+    },
+    "ideaSpace": {
+      "name": "Espai d'idees",
+      "description": "Startup educativa brasilera que desenvolupa el currículum del Programa Espacial Quebrada, llest per ser aplicat a estudiants de secundària de tot el Brasil."
+    }
+  },
+  "closing": "T&#39;interessa associar-te amb Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Contacta&#39;ns</a> .",
+  "imageAlts": {
+    "riseNy": "Logotip de RiseNY&Partners",
+    "highestMantra": "El nostre logotip de mantra més elevat",
+    "allToSpace": "Logotip de Tot a l'Espai",
+    "isro": "Logotip de l'ISRO",
+    "mercosul": "Logotip de la 13a Biennal del Mercosur",
+    "inpe": "Logotip del taller INPE ArtSat",
+    "solidConcepts": "Logotip de Solid Concepts",
+    "ideaSpace": "Logotip de l'espai d'idees"
+  }
+}

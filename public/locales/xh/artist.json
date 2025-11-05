@@ -1,0 +1,44 @@
+{
+  "title": "Ukusuka kuMculi",
+  "opening": {
+    "question": "Ngubani lo mfo ukuba acebise itempile esithubeni?",
+    "thanks": "Enkosi ngombuzo.",
+    "answer": "Impendulo emfutshane kukuba ndiligcisa. Inde yile:"
+  },
+  "origin": {
+    "sao_paulo": "Ndazalelwa kwindawo engaphandle kweSão Paulo, kwindawo eyandifundisa ndiselula oko kuthethwa yingozi. Uninzi lwabahlobo bam basesikolweni basentolongweni ngoku. Utata wam osentolongweni. Ubundlobongela yayingeyonto endandiyifunda, yayilihlabathi ekwakufuneka ndihambe ngalo. Kwaye ndaqonda ukuba kufuneka ndibaleke.",
+    "technology": "Itekhnoloji yaba yindlela yam yokuphuma. Ndafunda ukwenza inkqubo, ndafunda i-elektroniki ndikwishumi elivisayo. Ikhowudi yayilulwimi olwalunokundisa kwenye indawo. Ukusebenza ngobuchwephesha yayikukubaleka kwam ubuhlwempu.",
+    "christianity": "Kodwa ndandifuna nokuba ngowam, uthando, into endikholelwa kuyo. Ndabufumana ubuKristu, okanye bandifumana. Ndamkelwa. Ndandithandwa. Ndandinoluntu. Ndafunda ukuxolela, ukukholelwa, ukuhamba kunye ngenjongo enkulu.",
+    "price": "Ixabiso, nangona, laliphezulu. Kwakhona ndifunde izinto ezininzi endisazifundileyo. Ngoko nam ndasinda kuloo nto."
+  },
+  "searching": {
+    "walls": "Ndiyazazi izinto ezenziwa ngamadonga. Ndibavile. Ndibe kumacala omabini: ndagcinwa ngaphandle, ndagcinwa ngaphakathi. Okulandelayo yaba yiminyaka yokukhangela into endingenakuyibiza ngegama. UThixo wafa ngaloo minyaka. Uthixo endandifundiswe ngaye, nangona kunjalo, lowo unemithetho nesigwebo neengcango ezivulekele abantu abathile kuphela.",
+    "art": "Ndaqala ukwenza ubugcisa ukuphonononga le mibuzo: malunga nobudlelwane obusondeleyo kunye neteknoloji, malunga nenkumbulo kunye nokufa, malunga nokuba ngubani ofanelwe izulu. Ndaqala ukwakha oomatshini abacinga ngokutsha ubudlelwane bethu kunye neteknoloji, oomatshini abafuna inxaxheba yakho, ubukho bakho, igama lakho, ukuguqula isinyithi kunye nekhowudi ibe yinto ephilayo."
+  },
+  "pandemic": {
+    "intro": "Emva koko ubhubhane wabetha eBrazil.",
+    "government": "Xa izitofu zokugonya ze-COVID zalibaziseka, urhulumente wam wayethethathethana ngokukhabela idola enye ngedosi nganye. Bakhuthaze amayeza ekuqondwa ukuba awasebenzi, ehleka ngelixa abantu besifa besokola ukuphefumla. Sasivuka yonke imihla kwinani elahlukileyo. Bangaphi abantu ababhubhileyo kwiiyure ezingama-24 ezidlulileyo? Ngaba ibingaphezulu, okanye ibingaphantsi kunoko bekulindelwe?",
+    "war": "Isiqingatha sehlabathi sasisoyika, yaye esinye isiqingatha sasikhanyela. Sasisemfazweni, sinentsholongwane yaye omnye nomnye.",
+    "memorial": "Bendifuna ukwenza indawo yentlungu edibeneyo, ke kunye namakhulu abantu ndiyile iSikhumbuzo i-Inumeráveis. Umsebenzi wobugcisa ekudibaneni kobugcisa nobuntatheli. Sadlan’ indlebe neentsapho ezilahlekelwe ngumntu. Sabhala ibali lobomi bomntu abaphulukene nabo. Saguqula amanani abe ziimbali. Imibongo, iingoma, iisymphonies zenziwe kunye nezo mbali. Iinkwenkwezi zawafunda loo mabali kumabonwakude wesizwe. Lo msebenzi ufikelele kwizigidi.",
+    "meaning": "Eyona nto yayibalulekile yayingengomlinganiselo, yayikukuba ibali ngalinye ligama, ubomi, izulu lomntu."
+  },
+  "discovery": {
+    "pattern": "Emva kweencoko ezingaphezu kwamawaka alishumi ngentlungu, umzekelo waqala ukuvela. Xa sithetha ngomntu ofileyo, asithethi nje izinto ezilungileyo; sikhetha iziqwenga zebali labo ngokungathi sibhala ileta yengcebiso. Ingcebiso kumgcini-sango weparadesi. Senza konke okusemandleni ethu ukuba sibathumele kwindawo yokwamkelwa, yokuphumla, yembeko neyenkumbulo.",
+    "understanding": "Kwaye Ndaqonda into eyatshintsha yonke into: Sonzakaliswe zezona tempile sizakhayo. Iinkolelo zethu malunga nokuba ngubani ofanelwe yizulu ngqo ukuba ngubani ongabandakanyiyo eMhlabeni. Amakoloniyali angamaPhuthukezi eBrazil ayekholelwa ukuba abantu abaMnyama babengenayo imiphefumlo; loo nkolelo yayibuthethelela ubukhoboka. Ukuba wawungowomthonyama, ukuba wazalelwa kwindawo engafanelekanga okanye uthanda umntu ongalunganga, wawuxelelwa ukuba iingcango zezulu zivaliwe kuwe.",
+    "birth": "Yazalwa ngaloo ndlela ke iTempile yeOrbital."
+  },
+  "shaman": {
+    "secular": "Alikho igcisa elinokuba ngookwenyani ngokwenene. Sibotshelelwe ngonaphakade kukhokho wethu sonke, i-shaman. Ekuqaleni, kwakukho umqolomba. Abantu bapeyinta izilwanyana ezindongeni ukuba bangazihombisi, kodwa bazibongoze. Baxhentsa, waza umqolomba waba yitempile. I-shaman isebenzisa umoya wesiko; igcisa liphethe i-aura yobugcisa. Sipeyinta, siqingqa, sibhala ikhowudi, siyila ikamva lethu elinqwenelekayo ukuba singahombisi, kodwa sibongoze. Bonke ubugcisa bubomoya, nangona bubanga ukuba akunjalo."
+  },
+  "space": {
+    "question": "Sasinokwakha phi itempile engenazindonga? Apho kungekho hlanga okanye unqulo olunokuthi lubekho. Apho sinokuzithelekelela njengeqela elinye.",
+    "answer": "Isithuba.",
+    "description": "Isathelayithi yobugcisa ethatha inxaxheba evela kwiGlobal South. Itempile ejikelezayo imema wonke umntu ukuba athumele amagama akhe emajukujukwini, nokuba bangoobani na, bazalwa phi, bathanda bani, bakholelwa ntoni. Indawo apho ukubandakanywa okugqibeleleyo kunokwenzeka, kwi-orbit, ngaphaya kwemida.",
+    "mission": "Lo msebenzi ngumthombo ovulekileyo. Onke amaxwebhu obugcisa, umgca ngamnye wekhowudi uya kufumaneka ngokukhululekileyo ukuze amanye amagcisa, olunye uluntu, ezinye izizwe zizakhele ezazo iisathelayithi. Ngoko ke iGlobal South ayithathi nxaxheba nje ekuphononongweni kwendawo, kodwa iyayikhokela."
+  },
+  "closing": {
+    "answer": "Ngubani ke lo mfo wokwakha itempile esithubeni? Andiyakhi. Itempile yakhiwa nguye wonke umntu ogqiba ukuthumela igama, ukuyibona njengengcwele, ukuyenza yokwenene. Ndim nje ocebisayo. Nguwe oyakhayo ukuba ugqibe.",
+    "signature": "Ngobubele,",
+    "name": "Edson Pavoni"
+  }
+}

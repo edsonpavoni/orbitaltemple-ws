@@ -1,0 +1,138 @@
+{
+  "title": "Press & Media - Candi Orbital",
+  "heading": "Press & Media",
+  "pressContact": {
+    "heading": "Tekan Kontak",
+    "content": "Kanggo pitakon pers, wawancara, lan panjaluk media:<br /> <strong>Email:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>situs web:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Babagan Proyek",
+    "paragraph1": "Kuil Orbital minangka karya seni lan satelit sing tujuane dadi candhi sing kalebu radikal, dibangun ing ngendi tembok ora bisa tekan. Digawe dening seniman Brasil Edson Pavoni, seniman ing mburi Inumeráveis Memorial sing tekan 1 ing saben 6 wong Brasil sajrone pandemi COVID, proyek kasebut ngajak wong-wong saka saindenging jagad ngirim jeneng wong sing pengin dieling-eling. Jeneng-jeneng kasebut dikirim menyang satelit ing orbit, nggawe peringatan kolektif.",
+    "paragraph2": "Liwat situs web sing kasedhiya ing 136 basa, para peserta melu ritual anyar. Kuil Orbital nylidiki tema inklusi, memori, lan kamanungsan kita bebarengan, takon kenapa ora ana candhi fisik ing Bumi sing bisa nampani kabeh wong, lan ngusulake papan minangka siji-sijine papan sing bisa ana inklusivitas radikal."
+  },
+  "aboutArtist": {
+    "heading": "Babagan Artis",
+    "paragraph1": "<strong>Edson Pavoni</strong> minangka seniman Brasil sing lelungan diwiwiti ing lurung-lurung ing São Paulo, ing ngendi konteks kemiskinan lan kekerasan mbentuk taun-taun awal. Ing negara ngendi agama Kristen nawakake dalan adoh saka lurung-lurung, obat-obatan, lan panganiaya, Pavoni nemokake pengungsi ing iman, tema sing mengko, nalika dheweke dadi kritikus penyalahgunaan agama, ngandhani laku seni.",
+    "paragraph2": "Ing taun 2020, nalika pandemi COVID-19, Pavoni nggawe <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (ora kaetung)</a></strong> , karya seni ing persimpangan seni lan jurnalisme. Proyek kasebut diwawancarai ewonan kulawarga lan nulis crita babagan wong-wong sing ilang saka pandemi, nggawe papan ing ngendi memori ngluwihi nomer lan statistik. Geguritan, tembang, lan simfoni digawe nganggo crita kasebut. Koran digawe tutup nggunakake jeneng lan sajarah. Kabeh bintang Brasil kaya Fernanda Torres sing menang Oscar, lan bintang kaya Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo lan Lazaro Ramos, lan akeh liyane sing maca crita kasebut ing televisi nasional. Proyèk iki tekan 32 yuta wong, siji saka papat wong diwasa Brasil. Dadi jaringan penyembuhan, monumen kolektif kanggo memori.",
+    "paragraph3": "Sawise luwih saka sepuluh ewu obrolan kanthi susah, pola muncul: nalika kita ngomong babagan wong sing wis tilar donya, kita milih potongan-potongan critane kaya-kaya nulis surat rekomendasi kanggo penjaga gerbang swarga. Kita nindakake sing paling apik kanggo ngirim wong-wong mau menyang apa sing kita yakini minangka swarga. Karya iki nyebabake pemahaman anyar: Kapercayan kita babagan sapa sing pantes swarga langsung mbentuk sapa sing kita tampa utawa ora kalebu ing Bumi. Penjajah Portugis ing Brasil percaya wong ireng ora duwe jiwa; kapercayan kasebut mbenerake perbudakan. Yen sampeyan wong pribumi, yen sampeyan lair ing papan sing salah utawa tresna marang wong sing salah, sampeyan isih, nganti saiki, dikandhani lawang swarga ditutup kanggo sampeyan. Apa ana visi masa depan sing ora kebak dening penolakan?",
+    "paragraph4": "Mangkene carane Candi Orbital lair."
+  },
+  "keyFacts": {
+    "heading": "Fakta Kunci",
+    "artist": "<strong>Artis:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Jinis Proyek:</strong> Karya seni satelit, situs khusus ing papan, ritual basis web",
+    "launchDate": "<strong>Tanggal Bukak:</strong> 28 November 2025",
+    "launchLocation": "<strong>Lokasi Peluncuran:</strong> Pusat Angkasa Satish Dhawan, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satelit:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km dhuwur, Sun-sinkron",
+    "participation": "<strong>Partisipasi:</strong> Gratis, mbukak kanggo kabeh wong ing saindenging jagad",
+    "namesSent": {
+      "heading": "<strong>Jeneng sing dikirim menyang Orbit:</strong>",
+      "caption": "<em>Cacah langsung dianyari saka database • Paling anyar dianyari: {tanggal}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Penghargaan & Penghargaan",
+    "mercosul": {
+      "title": "<strong>13th Mercosur Biennial</strong> (2022)",
+      "location": "Porto Alegre, Brasil",
+      "curator": "Curated dening Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Prize 2022 - Futures Award</strong>",
+      "status": "Dhaptar dawa"
+    },
+    "cubeDesign": {
+      "title": "<strong>Kompetisi CubeDesign 2021</strong>",
+      "award": "Pemenang - Kategori ArtSat",
+      "org": "Dipromosikan dening Institut Riset Luar Angkasa Brasil (INPE)"
+    }
+  },
+  "team": {
+    "heading": "tim",
+    "content": "Kuil Orbital digawe kanthi kolaborasi karo Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Holzmegal, Andre Holzme Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, lan kabeh sing terus menehi saran jeneng kanggo candhi iki."
+  },
+  "pressCoverage": {
+    "heading": "Ditampilake Ing / Cakupan Pencet",
+    "paragraph1": "<em>Jangkoan penet lan fitur bakal ditambahake nalika kasedhiya. Kanggo nganyari paling anyar, hubungi tim pers kita.</em>",
+    "paragraph2": "Pameran lan fitur sadurunge kalebu presentasi ing Mercosul Bienal kaping 13, pengakuan saka Lumen Prize, lan pilihan dening Institut Riset Angkasa Brasil (INPE)."
+  },
+  "images": {
+    "heading": "Gambar Resolusi Dhuwur kanggo Gunakake Pencet",
+    "intro": "Kabeh gambar kasedhiya kanggo nggunakake editorial. Klik gambar apa wae kanggo ngundhuh file resolusi dhuwur.",
+    "installationPhotos": {
+      "heading": "Foto Candi Orbit",
+      "credit": "Mangga kredit: \"Foto dening Clara Marques / Courtesy of Edson Pavoni, Orbital Temple\"",
+      "view01": "Tampilan Instalasi 01<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (1,4 MB)",
+      "view02": "Tampilan Instalasi 02<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (2,9 MB)",
+      "view03": "Tampilan Instalasi 03<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (11 MB)",
+      "view04": "Tampilan Instalasi 04<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,4 MB)",
+      "view05": "Tampilan Instalasi 05<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,3 MB)",
+      "view06": "Tampilan Instalasi 06<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,7 MB)",
+      "view07": "Tampilan Instalasi 07<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (3,4 MB)",
+      "view08": "Tampilan Instalasi 08<br /> Foto: Clara Marques<br /> ↓ Unduh Resolusi Tinggi (2,7 MB)",
+      "satelliteDesign": "Desain Satelit<br /> ↓ Ngundhuh",
+      "antennaSculpture": "Antena / Patung<br /> ↓ Ngundhuh"
+    },
+    "renders": {
+      "heading": "Orbital Temple Renders",
+      "credit": "Rendering 3D Konseptual Candi Orbital. Mangga kredit: \"Rendering 3D dening RiseNY&Partners / Courtesy of Edson Pavoni, Orbital Temple\"",
+      "render01": "Rendering 3D 01<br /> RiseNY &amp; Partners<br /> ↓ Unduh Resolusi Tinggi (10 MB)",
+      "render02": "Rendering 3D 02<br /> RiseNY &amp; Partners<br /> ↓ Unduh Resolusi Tinggi (5,9 MB)",
+      "render03": "Rendering 3D 03<br /> RiseNY &amp; Partners<br /> ↓ Unduh Resolusi Tinggi (5,2 MB)",
+      "render04": "Rendering 3D 04<br /> RiseNY &amp; Partners<br /> ↓ Unduh Resolusi Tinggi (11 MB)",
+      "render05": "Rendering 3D 05<br /> RiseNY &amp; Partners<br /> ↓ Unduh Resolusi Tinggi (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Foto Artis",
+      "photo1": "Foto 1<br /> ↓ Unduh Resolusi Tinggi",
+      "photo2": "Foto 2<br /> ↓ Unduh Resolusi Tinggi"
+    },
+    "sathiPhotos": {
+      "heading": "Foto Sathi Roy",
+      "photo1": "Foto 1<br /> ↓ Unduh Resolusi Tinggi (843 KB)",
+      "photo2": "Foto 2<br /> ↓ Unduh Resolusi Tinggi (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Spesifikasi Teknis",
+    "satellite": {
+      "heading": "Satelit",
+      "dimensions": "Ukuran: 50 x 58 x 64 mm",
+      "classification": "Klasifikasi: 1P PocketQube",
+      "weight": "Bobot: 245g",
+      "materials": "Bahan: Aluminium, emas, fiberglass, komponen elektronik",
+      "orbit": "Orbit: Altitude 525 ± 25 km; Kemiringan: SSO 97.6 ± 0.1°",
+      "launch": "Bukak: 28 November 2025 liwat ISRO, India"
+    },
+    "antenna": {
+      "heading": "Antena / Patung",
+      "dimensions": "Ukuran: 6m diameter x 1.2m dhuwur",
+      "weight": "Bobot: 46 kg",
+      "materials": "Bahan: Aluminium, papan cermin epoksi, kubah aluminium emas sing digantung liwat struktur perancah"
+    },
+    "radio": {
+      "heading": "Spesifikasi Radio",
+      "downlink": "Downlink: 437 MHz",
+      "status": "Status Bukak: Dijadwal 28 November 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Sumber Daya Tambahan",
+    "artwork": "→ Deleng Dokumentasi Karya Seni",
+    "howItWorks": "→ Cara Kerjane",
+    "technicalInfo": "→ Informasi Teknis",
+    "spaceLaunch": "→ Informasi Bukak Angkasa",
+    "ritual": "→ Ngalami Ritual"
+  },
+  "imageAlts": {
+    "installation": "Instalasi Orbital Temple dening Edson Pavoni",
+    "satelliteDesign": "Desain Satelit Candi Orbital",
+    "antenna": "Patung Antena Candi Orbit",
+    "render": "Orbital Temple 3D Rendering dening RiseNY&Partners",
+    "edsonPortrait": "Potret Edson Pavoni",
+    "sathiPortrait": "Potret Sathi Roy",
+    "lumenPrize": "Hadiah Lumen",
+    "mercosulBienal": "Mercosur biennial"
+  }
+}

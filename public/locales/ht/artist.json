@@ -1,0 +1,44 @@
+{
+  "title": "Soti nan Atis la",
+  "opening": {
+    "question": "Ki moun nèg sa a pou pwopoze yon tanp nan espas?",
+    "thanks": "Mèsi pou kesyon an.",
+    "answer": "Repons kout la se ke mwen se yon atis. Repons long lan se sa a:"
+  },
+  "origin": {
+    "sao_paulo": "Mwen fèt nan katye periferik São Paulo a, nan yon katye ki te montre m byen bonè sa danje vle di. Anpil nan zanmi lekòl mwen yo nan prizon kounye a. Bòpè mwen nan prizon. Vyolans pa t yon bagay mwen te li sou li, se te mond mwen te oblije navige ladan l. Epi mwen te konnen mwen te bezwen chape.",
+    "technology": "Teknoloji te vin tounen yon mwayen pou m soti. Mwen te aprann pwograme, mwen te aprann elektwonik lè m te adolesan. Kòd te yon langaj ki te ka mennen m yon lòt kote. Travay ak teknoloji te chape m anba povrete.",
+    "christianity": "Men, mwen t ap chèche tou yon santiman apatenans, yon lanmou, yon bagay pou m kwè ladan l. Mwen te jwenn Krisyanis, oubyen li te jwenn mwen. Yo te aksepte m. Yo te renmen m. Mwen te gen yon kominote. Mwen te aprann padone, kwè, avanse ansanm pou yon pi gwo objektif.",
+    "price": "Men pri a te wo. Mwen te aprann anpil bagay tou m ap toujou bliye. Donk mwen te chape anba sa tou."
+  },
+  "searching": {
+    "walls": "Mwen konnen sa miray fè. Mwen santi yo. Mwen te sou tou de bò: bloke deyò, bloke anndan. Sa ki te swiv se te plizyè ane ap chèche yon bagay mwen pa t ka nonmen. Bondye te mouri pandan ane sa yo. Bondye yo te anseye m sou li a, kanmenm, sila a ki gen règ ak jijman ak pòt ki sèlman louvri pou kèk moun.",
+    "art": "Mwen te kòmanse kreye atizay pou m eksplore kesyon sa yo: sou entimite ak teknoloji, sou memwa ak lanmò, sou ki moun ki merite syèl la. Mwen te kòmanse konstwi machin ki reimajine relasyon nou ak teknoloji, machin ki bezwen patisipasyon w, prezans ou, non w, pou transfòme soti nan metal ak kòd an yon bagay vivan."
+  },
+  "pandemic": {
+    "intro": "Apre sa, pandemi an te frape Brezil.",
+    "government": "Lè yo te pran reta pou vaksen COVID yo, gouvènman mwen an t ap negosye yon dola pou chak dòz. Yo t ap fè pwomosyon pou medikaman yo te konprann ki pa efikas, yo t ap ri pandan moun t ap mouri ak difikilte pou respire. Nou te reveye chak jou ak yon chif diferan. Konbyen moun ki te mouri nan 24 dènye èdtan yo? Èske se te plis oswa mwens pase sa yo te espere?",
+    "war": "Mwatye nan mond lan te pè, e yon lòt mwatye te nan refi. Nou te nan lagè, ak viris la e youn ak lòt.",
+    "memorial": "Mwen te vle kreye espas pou lapenn kolektif, se konsa ansanm ak plizyè santèn moun mwen te kreye Memorial Inumeráveis la. Yon zèv atistik nan entèseksyon atizay ak jounalis. Nou te fè entèvyou ak fanmi ki te pèdi yon moun. Nou te ekri istwa lavi moun yo te pèdi a. Nou te transfòme chif an istwa. Nou te fè powèm, chante, senfoni ak istwa sa yo. Zetwal yo te li istwa sa yo sou televizyon nasyonal. Pwojè a te rive jwenn plizyè milyon moun.",
+    "meaning": "Sa ki te enpòtan se pa t echèl la, se te ke chak istwa te yon non, yon lavi, syèl yon moun."
+  },
+  "discovery": {
+    "pattern": "Apre plis pase dis mil konvèsasyon ak lapenn, yon modèl te kòmanse parèt. Lè nou pale de yon moun ki mouri, nou pa sèlman di bon bagay; nou chwazi fragman nan istwa yo kòmsi nou t ap ekri yon lèt rekòmandasyon. Yon rekòmandasyon pou gadyen paradi a. Nou fè tout sa nou kapab pou nou voye yo nan yon kote pou yo aksepte yo, repoze yo, onore yo epi sonje yo.",
+    "understanding": "Epi mwen te konprann yon bagay ki te chanje tout bagay: Nou te blese pa tanp nou te bati yo menm. Kwayans nou sou ki moun ki merite syèl la fòme dirèkteman moun nou eskli sou Latè. Kolonizatè Pòtigè yo nan Brezil te kwè moun Nwa yo pa t gen nanm; kwayans sa a te jistifye esklavaj. Si ou te endijèn, si ou te fèt nan move kote a oswa ou te renmen move moun nan, yo te di ou pòt syèl la te fèmen pou ou.",
+    "birth": "Se konsa Orbital Temple te fèt."
+  },
+  "shaman": {
+    "secular": "Pa gen okenn atis ki ka vrèman sekilye. Nou lye pou tout tan ak zansèt komen nou an, chaman an. Nan kòmansman, te gen yon gwòt. Moun te pentire bèt sou mi yo pa pou dekore, men pou envoke. Yo te danse, epi gwòt la te vin tounen yon tanp. Chaman an gen lespri rituèl la; atis la gen lespri atizay la. Nou pentire, nou eskilte, nou kode, nou desine avni nou vle a pa pou dekore, men pou envoke. Tout atizay se espirityèl, menm lè li pretann li pa espirityèl."
+  },
+  "space": {
+    "question": "Ki kote nou ta ka bati yon tanp san miray? Kote okenn nasyon oswa relijyon pa ta ka reklame tèt yo. Kote nou ta ka imajine tèt nou kòm yon sèl gwoup.",
+    "answer": "Espas.",
+    "description": "Yon satelit atistik patisipatif ki soti nan Sid Mondyal la. Yon tanp an òbit ki envite tout moun voye non yo nan espas, kèlkeswa moun yo ye, kote yo fèt, moun yo renmen, sa yo kwè. Yon kote kote enklizyon radikal posib, an òbit, pi lwen pase fwontyè yo.",
+    "mission": "Misyon sa a se yon sous ouvè. Chak dokiman teknik, chak liy kòd pral disponib gratis pou lòt atis, lòt kominote, lòt nasyon ka konstwi pwòp satelit pa yo. Konsa, Sid Mondyal la pa sèlman patisipe nan eksplorasyon espas, men li dirije li."
+  },
+  "closing": {
+    "answer": "Ki moun nèg sa a ye pou bati yon tanp nan espas? Se pa mwen ki bati l. Se tout moun ki deside voye yon non ki bati tanp lan, pou wè l kòm sakre, pou fè l reyèl. Se mwen menm sèlman k ap pwopoze a. Se ou menm k ap bati l si ou deside fè sa.",
+    "signature": "Tanpri,",
+    "name": "Edson Pavoni"
+  }
+}

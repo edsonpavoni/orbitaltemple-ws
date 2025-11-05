@@ -1,0 +1,77 @@
+{
+  "title": "He korero poto mo nga mahi toi i te mokowhiti - Te temepara o Orbital",
+  "heading": "He korero poto mo nga mahi toi i te mokowhiti",
+  "intro": "Mai i te whakarewanga angitu tuatahi o te amiorangi horihori i te <strong>tau 1957</strong> , neke atu i te tekau mano nga amiorangi kua tae mai ki te huri i te whenua. I tenei wa hou, kua kitea e nga kaitoi he huarahi ki te whakawhānui ake i a raatau mahi, a, kua noho te waahi o waho hei momo waaawa hou. I runga i tera, kua ara ake nga patai matua mo nga mahi torangapu mo te torotoro mokowhiti - ahakoa he maha nga waahi kaore ano kia kapi.",
+  "sections": {
+    "leonov": {
+      "text": "Ko te mahi toi tuatahi i hangaia i te waahi ko te tuhi o te whitinga o te ra ki runga i te whenua, i mahia e te kairangi rererangi a Ruhia <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Alexei Leonov</a></strong> i a ia i runga i te waka Voskhod 2 i te <strong>tau 1965</strong> .",
+      "caption": "Ko te mahi toi tuatahi i hangaia i te waahi, me nga pene i whakamahia e Alexei Leonov hei tuhi. Whakaahua: Museum of the Yuri Gagarin Cosmonaut Training Centre"
+    },
+    "moonMuseum": {
+      "paragraph1": "E toru nga tau i muri mai, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Museum</a></strong> , he pereti miniscule ceramic e kiia ana i tau ki runga i te Marama me nga tuhinga e ono o nga tohunga toi rongonui i te US i taua wa: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> me <strong>Andy Warhol</strong> .",
+      "caption1": "Whakaahua o te Moon Museum mai i te tuhinga taketake o New York Times. Ka whakapouritia e te koromatua te tuhi a Warhol.",
+      "paragraph2": "Na te koha whakapouri a Warhol - maui ki runga - na tenei kaupapa he wero mo te hunga panui korero i tera wa.",
+      "caption2": "Ko te ahua i whiriwhiria e te New York Times ki te whakaputa, me nga mahi toi e kitea ana i raro me te tuhi a Andy Warhol ki te kokonga maui o runga."
+    },
+    "fallenAstronaut": {
+      "text": "I te <strong>tau 1971</strong> , i tukuna he whakairo konumohe humanoid iti e kiia nei ko <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Fallen Astronaut</a></strong> ki runga i te Marama e Apollo 15 a <strong>David Scott</strong> . Ko te kaitoi Beletita <strong>a Paul Van Hoeydonck</strong> i whakaaro, me tenei waahanga, ki te whakamaumahara i nga kaitarairangi me nga kaitarai i mate i te ahunga whakamua o te torotoro atea.",
+      "caption": "Tirohanga o te tohu whakamaumahara i mahue ki te marama i te taunga o Hadley-Apennine."
+    },
+    "pioneerVoyager": {
+      "text": "I te <strong>tekau tau atu i 1970</strong> , ko nga <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> me te <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> i whakatakoto nga waahi hou mo nga mahi toi i te waahi. Ko te kawe i nga tohu konumohe whakakoura-koura me nga panui ataata mai i te whenua ki etahi atu tangata mokowhiti ka kitea pea i nga wa e heke mai nei, e whakaatu ana ratou i te oranga o te tangata i roto i ona mea tino nui.",
+      "caption": "Pioneer 10 and 11 plaques, he mea kawe ki te waahi hohonu i nga tau 1970."
+    },
+    "dove": {
+      "text": "I te <strong>tau 1990</strong> , ka waiho e Brazil tona tohu ki runga i tenei rohe me <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , he amiorangi runaruna mohio o te mana nui o te waiata. Ahakoa kaore tana kaihanga i kii he kaitoi ia, he mahi poikiri nui: i hopukina nga reo o nga tamariki e tono ana kia mau te rongo, ka tukuna atu ki te neke atu i te rua mano nga kaiwhakangungu reo irirangi puta noa i te ao, ka huri i te CubeSat paionia hei mahi tangi tahi.",
+      "caption": "DOVE/OSCAR-17, te peretiteni pehepehe no Beresilia o te faatae i te reo o te mau tamarii no te hau, 1990."
+    },
+    "lastPictures": {
+      "text": "I te <strong>tau 2012</strong> , ka whakarewahia e te kaitoi <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Trevor Paglen</a></strong> <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Ko nga Pikitia Whakamutunga&quot;</a></strong> , he kōpae whakairo moroiti kei roto nga whakaahua 100 e piri ana ki te amiorangi whakawhitiwhiti Echostar XVI i roto i te orbit geostationary. I hoahoatia mo nga piriona tau, ko te tikanga kia roa atu i te ao tangata hei taonga whaipara tangata mo nga ra kei mua.",
+      "caption": "Ko nga Pikitia Whakamutunga, he kōpae whakairo moroiti i hangaia kia ora ake i te tangata, i whakarewahia i te tau 2012."
+    },
+    "ulises": {
+      "text": "I <strong>te 2015</strong> , i whakarewahia e te <strong>Colectivo Espacial Mexicano</strong> (Mexican Space Collective) <strong>Ulises I</strong> , he nanosatellite i whakaarohia hei opera ariā i raro i te tohutohu a te kaitoi <strong>Juan José Díaz Infante Casasús</strong> . I kawea te amiorangi ki te stratosphere i runga i te poihau i te wa o te Feria del Libro de Guadalajara. I hoahoatia kia pahū i te wha haora ka heke ma te parachute.",
+      "caption": "Ulises I, he opera amiorangi ariā na Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Tae noa ki <strong>te tau 2014</strong> ka whakarewahia te peerangi toi tuatahi. I tukuna e te kaupapa <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> o Te Whare Wananga o Tokyo nga raraunga mokowhiti ki te whenua i whakamahia ki nga whakaurunga toi me te hanga puoro.",
+      "caption1": "ARTSAT-1 Ko te anga Invader me nga waahanga e manawapa i noho ki te whenua.",
+      "caption2": "misioni [SPACE x ART] − i tua atu o te whakaaturanga Cosmologies i tu ki te Whare Taonga Toi o Naianei Tokyo"
+    },
+    "kac": {
+      "text": "Ko te tohunga toi o Brazil me Amerika <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Eduardo Kac</a></strong> i whai waahi ki nga mahi toi mokowhiti ma te mahi tahi me <strong>NASA</strong> me <strong>SpaceX</strong> . Ko tana <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Inner Telescope&quot;</a></strong> ( <strong>2017</strong> ), i hangaia me te kairangirangi French <strong>a Thomas Pesquet</strong> , i puta mai he whakairo i hangaia i runga i te <strong>International Space Station</strong> .",
+      "caption": "Inner Telescope i runga i te Teihana Mokowhiti o te Ao, i hangaia me te kairangirangi Wīwī a Thomas Pesquet, 2017."
+    },
+    "enoch": {
+      "text": "I <strong>te tau 2018</strong> , he CubeSat hāngū i hangaia hei kaupapa toi i whakarewahia ki te orbit. I whakawhanakehia e te kaitoi ariā Bahamian <strong>Tavares Strachan</strong> , kei roto i <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Enoka</a></strong> he oko 24-karat-koura me te pupuhi o te tangata tuatahi o Awherika-Amerika, <strong>a Robert Henry Lawrence Jr.</strong>",
+      "caption": "ENOCH (wae whakaatu), 2015-2017. ⓒ Tavares Strachan, whakaahua ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "I taua tau ano, i whakarewahia ano <strong>te Orbital Reflector</strong> <strong>a Trevor Paglen</strong> hei whakairo kei roto i te CubeSat kore mahi. He tohu toi te mahi hei whakarereke i te ahua o to tatou waahi ki te ao. Kaore i tika te whakatakoto. Ahakoa kaore i whakatuwherahia i runga i te hoahoa, i whakaohooho nga korerorero nui me te whakahoki mai i nga urupare a nga kaitoro arorangi, nga kaiputaiao, nga whare panui, nga kaiwhakaako, nga akonga, me te iwi whanui puta noa i te ao, e whakaatu ana ko nga mahi toi angitu kaore e tika kia angitu i te hangarau.",
+      "caption": "Whakaaturanga Mamati o te Whakaata Orbital, 2018"
+    },
+    "others": {
+      "text": "He maha atu nga kaitoi kua whai waahi ki te waahi toi mokowhiti, he tirohanga motuhake i roto i a raatau rangahau. Ko nga kaupapa rongonui ko te rangahau kaitoi <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Sarah Jane Pell</a></strong> e torotoro ana i nga mahi a te tangata i roto i nga taiao tino kino; Ko te kaupapa <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Agnes Meyer-Brandis</a></strong> e tirotiro ana i nga korero o mua me nga korero mokowhiti o naianei; Ko te kaupapa <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Nahum</a></strong> e whakahaere ana i nga whakamatautau toi moroiti; me te whakairo a <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Arthur Woods</a></strong> , te whakairo tuatahi i whakaatuhia ki te mokowhiti i runga i te teihana Mir i te tau 1993."
+    },
+    "orbitalTemple": {
+      "text": "I roto i <strong>te 2025</strong> , i muri i nga tau 4 o te rangahau me te whakawhanaketanga, ka whakarewahia e te kaitoi Brazilia <strong>a Edson Pavoni</strong> me te roopu mahi maha o nga hoa mahi <strong>Orbital Temple</strong> , he peerangi toi whakauru e kii ana i nga tangata katoa o te ao ki te tuku ingoa ki te orbit, me te hanga i tetahi tohu whakamaumaharatanga i tua atu o nga rohe.",
+      "caption": "Orbital Temple i te Mercosul Bienal. Whakaahua: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Ko te tuhi me nga pene a Alexei Leonov",
+    "moonMuseum": "Marama Museum angiangi uku",
+    "moonMuseumWarhol": "Moon Museum te angiangi uku e whakaatu ana i nga mahi toi katoa",
+    "fallenAstronaut": "Ko te whakamaumaharatanga a Astronaut i te Marama",
+    "pioneerPlaques": "Nga tohu paionia",
+    "dove": "WHERE/OSCAR-17 amiorangi",
+    "lastPictures": "Ko te kōpae Pikitia Whakamutunga",
+    "ulises": "Ulises I amiorangi",
+    "artsatInvader": "ARTSAT-1 Invader hanganga amiorangi",
+    "artsatArt": "He mahi toi i hangaia mai i te raraunga ARTSAT-1",
+    "innerTelescope": "Eduardo Kac's Inner Telescope",
+    "enoch": "Ko te waahanga whakaatu ENOCH a Tavares Strachan",
+    "orbitalReflector": "Te Whakaata Orbital a Trevor Paglen",
+    "orbitalTemple": "Orbital Temple Satellite"
+  }
+}

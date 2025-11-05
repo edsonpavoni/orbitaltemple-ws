@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Ithempeli le-Orbital",
+    "subtitle": "umsebenzi wobuciko kanye nesathelayithi,\nihlose ukuba yithempeli elihlanganisa wonke umuntu,\nendaweni lapho udonga olungafinyeleli khona."
+  },
+  "ritual": {
+    "label": "isiko"
+  },
+  "cta": {
+    "link": "Nokho, elinye ithempeli?",
+    "arrowAlt": "umcibisholo"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

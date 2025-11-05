@@ -1,0 +1,138 @@
+{
+  "title": "Stampa è Media - Orbital Temple",
+  "heading": "Stampa è Media",
+  "pressContact": {
+    "heading": "Cuntattu di stampa",
+    "content": "Per dumande di stampa, interviste è richieste di i media:<br /> <strong>E-mail:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Situ web:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "À propositu di u prugettu",
+    "paragraph1": "U Tempiu Orbitale hè un'opera d'arte è un satellitu chì hà per scopu d'esse un tempiu radicalmente inclusivu, custruitu induve nisun muru pò ghjunghje. Creatu da l'artista brasilianu Edson Pavoni, l'artista daretu à u Memoriale Inumeravéis chì hà righjuntu 1 brasilianu nantu à 6 durante a pandemia di COVID, u prugettu invita e persone di u mondu sanu à mandà u nome di qualchissia chì volenu ricurdà. Quessi nomi sò trasmessi à un satellitu in orbita, creendu un memoriale cullettivu.",
+    "paragraph2": "Attraversu un situ web dispunibule in 136 lingue, i participanti s'impegnanu in un novu tipu di rituale. U Tempiu Orbitale esplora temi d'inclusione, di memoria è di a nostra umanità cumuna, dumandendu si perchè nisun tempiu fisicu nant'à a Terra pò veramente accoglie tutti, è pruponendu u spaziu cum'è l'unicu locu induve puderia esiste una inclusività radicale."
+  },
+  "aboutArtist": {
+    "heading": "À propositu di l'artista",
+    "paragraph1": "<strong>Edson Pavoni</strong> hè un artista brasilianu chì u so viaghju hà cuminciatu in e strade di São Paulo, induve un cuntestu di miseria è viulenza hà furmatu i so primi anni. In un paese induve u Cristianesimu offria una strada luntanu da e strade, a droga è a viulenza, Pavoni hà trovu rifugiu in a fede, un tema chì dopu, quandu hè diventatu criticu di l&#39;abusu religiosu, hà influenzatu a so pratica artistica.",
+    "paragraph2": "In u 2020, durante a pandemia di COVID-19, Pavoni hà creatu <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (innumerabili)</a></strong> , un&#39;opera d&#39;arte à l&#39;intersezione di l&#39;arte è di u ghjurnalismu. U prugettu hà intervistatu migliaia di famiglie è hà scrittu storie di quelli persi per via di a pandemia, creendu un spaziu induve a memoria hà trascendutu i numeri è e statistiche. Puesie, canzoni è sinfonie sò state fatte cù quelle storie. I ghjurnali anu creatu cupertine aduprendu i nomi è e storie. Tutte e stelle brasiliane cum&#39;è Fernanda Torres, vincitrice di l&#39;Oscar, è stelle cum&#39;è Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo è Lazaro Ramos, è tanti altri anu lettu quelle storie in televisione naziunale. U prugettu hà righjuntu 32 milioni di persone, un adultu brasilianu nantu à quattru. Hè diventatu una rete di guarigione, un munumentu cullettivu à a memoria.",
+    "paragraph3": "Dopu à più di dece mila cunversazione cù u dolu, hè apparsu un mudellu: quandu parlemu di qualchissia chì hè mortu, selezziunamu frammenti di a so storia cum'è s'è no scrivessimu una lettera di raccomandazione à u guardianu di u paradisu. Facemu u nostru megliu per mandalli in ciò chì credemu esse u celu. Stu travagliu hà suscitatu una nova capiscitura: e nostre credenze nantu à quale merita u celu formanu direttamente quale accettemu o escludimu nantu à a Terra. I culunizatori portoghesi in Brasile credevanu chì i neri ùn avianu micca anima; sta credenza ghjustificava a schiavitù. Sè vo erate indigenu, sè vo site natu in u locu sbagliatu o avete amatu a persona sbagliata, vi dicenu sempre, finu à oghje, chì e porte di u celu eranu chjuse per voi. Ci hè una visione di u futuru chì ùn hè micca piena di rifiutu?",
+    "paragraph4": "Cusì hè natu Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Fatti chjave",
+    "artist": "<strong>Artista:</strong> Edson Pavoni (Brasile)",
+    "projectType": "<strong>Tipu di prughjettu:</strong> Opera d&#39;arte satellitare, specificu per u situ in u spaziu, rituale basatu annantu à u web",
+    "launchDate": "<strong>Data di lanciu:</strong> 28 di nuvembre di u 2025",
+    "launchLocation": "<strong>Locu di lanciu:</strong> Centru Spaziale Satish Dhawan, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbita:</strong> 525 km d&#39;altitudine, eliosincrona",
+    "participation": "<strong>Participazione:</strong> Gratuita, aperta à tutti in u mondu sanu",
+    "namesSent": {
+      "heading": "<strong>Nomi mandati in orbita:</strong>",
+      "caption": "<em>Contu in diretta aghjurnatu da a basa di dati • Ultima aghjurnazione: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Premii è Riconoscimenti",
+    "mercosul": {
+      "title": "<strong>13a Biennale di u Mercosur</strong> (2022)",
+      "location": "Porto Alegre, Brasile",
+      "curator": "A cura di Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Premiu Lumen 2022 - Premiu Futures</strong>",
+      "status": "Lista longa"
+    },
+    "cubeDesign": {
+      "title": "<strong>Cuncorsu CubeDesign 2021</strong>",
+      "award": "Vincitore - Categoria ArtSat",
+      "org": "Prumuvutu da l'Istitutu Brasilianu di Ricerca Spaziale (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Squadra",
+    "content": "Orbital Temple hè stata creata in cullaburazione cù Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Cairn, Fertianan Solid, Pedro Pudigal, Rafael RiseNY&Partners, IdeaSpace, è tutti quelli chì cuntinueghjanu à suggerisce nomi per stu tempiu."
+  },
+  "pressCoverage": {
+    "heading": "Prisentatu in / Cupertura di stampa",
+    "paragraph1": "<em>A cupertura è l&#39;articuli di stampa seranu aghjunti appena dispunibili. Per l&#39;ultime aghjurnamenti, cuntattate a nostra squadra di stampa.</em>",
+    "paragraph2": "Frà e mostre è e caratteristiche precedenti ci sò presentazioni à a 13a Biennale di u Mercosul, u ricunniscimentu di u Premiu Lumen è a selezzione di l'Istitutu Brasilianu di Ricerca Spaziale (INPE)."
+  },
+  "images": {
+    "heading": "Immagini à alta risoluzione per usu di stampa",
+    "intro": "Tutte l'imagine sò dispunibili per usu editoriale. Cliccate nant'à una imagine per scaricà u schedariu d'alta risoluzione.",
+    "installationPhotos": {
+      "heading": "Foto di u Tempiu Orbitale",
+      "credit": "Per piacè, credite: \"Foto di Clara Marques / Cortesia di Edson Pavoni, Orbital Temple\"",
+      "view01": "Vista di l&#39;installazione 01<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (1.4 MB)",
+      "view02": "Vista di l&#39;installazione 02<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (2.9 MB)",
+      "view03": "Vista di l&#39;installazione 03<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (11 MB)",
+      "view04": "Vista di l&#39;installazione 04<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (3.4 MB)",
+      "view05": "Vista di l&#39;installazione 05<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (3.3 MB)",
+      "view06": "Vista di l&#39;installazione 06<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (3,7 MB)",
+      "view07": "Vista di l&#39;installazione 07<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (3.4 MB)",
+      "view08": "Vista di l&#39;installazione 08<br /> Foto: Clara Marques<br /> ↓ Scaricà Alta Risoluzione (2.7 MB)",
+      "satelliteDesign": "Cuncepimentu di satelliti<br /> ↓ Scaricà",
+      "antennaSculpture": "Antenna/Scultura<br /> ↓ Scaricà"
+    },
+    "renders": {
+      "heading": "Rendering di u Tempiu Orbitale",
+      "credit": "Rendering 3D cuncettuali di u Tempiu Orbitale. Per piacè, credite: \"Rendering 3D da RiseNY&Partners / Cortesia di Edson Pavoni, Tempiu Orbitale\"",
+      "render01": "Rendering 3D 01<br /> RiseNY&amp;Partenarii<br /> ↓ Scaricà Alta Risoluzione (10 MB)",
+      "render02": "Rendering 3D 02<br /> RiseNY&amp;Partenarii<br /> ↓ Scaricà Alta Risoluzione (5.9 MB)",
+      "render03": "Rendering 3D 03<br /> RiseNY&amp;Partenarii<br /> ↓ Scaricà Alta Risoluzione (5.2 MB)",
+      "render04": "Rendering 3D 04<br /> RiseNY&amp;Partenarii<br /> ↓ Scaricà Alta Risoluzione (11 MB)",
+      "render05": "Rendering 3D 05<br /> RiseNY&amp;Partenarii<br /> ↓ Scaricà Alta Risoluzione (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Foto d'artista",
+      "photo1": "Foto 1<br /> ↓ Scaricate in Alta Risoluzione",
+      "photo2": "Foto 2<br /> ↓ Scaricate in Alta Risoluzione"
+    },
+    "sathiPhotos": {
+      "heading": "Ritratti di Sathi Roy",
+      "photo1": "Foto 1<br /> ↓ Scaricà Alta Risoluzione (843 KB)",
+      "photo2": "Foto 2<br /> ↓ Scaricà Alta Risoluzione (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Specifiche tecniche",
+    "satellite": {
+      "heading": "Satellite",
+      "dimensions": "Dimensioni: 50 x 58 x 64 mm",
+      "classification": "Classificazione: 1P PocketQube",
+      "weight": "Pesu: 245 g",
+      "materials": "Materiali: Aluminiu, oru, fibra di vetru, cumpunenti elettronichi",
+      "orbit": "Orbita: Altitudine 525 ± 25 km; Inclinazione: SSO 97,6 ± 0,1°",
+      "launch": "Lanciu: 28 di nuvembre di u 2025 via ISRO, India"
+    },
+    "antenna": {
+      "heading": "Antenna/Scultura",
+      "dimensions": "Dimensioni: 6 m di diametru x 1,2 m d'altezza",
+      "weight": "Pesu: 46 kg",
+      "materials": "Materiali: Alluminiu, pannellu specchiatu epossidu, cupola in aluminiu doratu sospesa à traversu a struttura di l'impalcatura"
+    },
+    "radio": {
+      "heading": "Specifiche di a radio",
+      "downlink": "Discendenza: 437 MHz",
+      "status": "Statu di lanciu: Previstu u 28 di nuvembre di u 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Risorse supplementari",
+    "artwork": "→ Vede a ducumentazione di l'opere d'arte",
+    "howItWorks": "→ Cumu funziona",
+    "technicalInfo": "→ Infurmazioni tecniche",
+    "spaceLaunch": "→ Infurmazioni di lanciu spaziale",
+    "ritual": "→ Sperimentate u Rituale"
+  },
+  "imageAlts": {
+    "installation": "Installazione di u Tempiu Orbitale da Edson Pavoni",
+    "satelliteDesign": "Cuncepimentu di u Satellite di u Tempiu Orbitale",
+    "antenna": "Scultura di l'antenna di u tempiu orbitale",
+    "render": "Rendering 3D di u Tempiu Orbitale da RiseNY&Partners",
+    "edsonPortrait": "Ritrattu di Edson Pavoni",
+    "sathiPortrait": "Ritrattu di Sathi Roy",
+    "lumenPrize": "Premiu Lumen",
+    "mercosulBienal": "Biennale di u Mercosur"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Com-pàirtichean - Teampall Orbital",
+  "heading": "Com-pàirtichean",
+  "intro": "Tha Teampall Orbital ann tro fhialaidheachd, eòlas agus lèirsinn chom-pàirtichean air leth. Bho bhith a’ innleadaireachd saidealan gu bhith a’ cruthachadh sgeulachdan, bho bhith a’ fosgladh dhorsan ann an dùthchannan fad às gu bhith a’ tilgeil aislingean ann an òr, bidh gach co-obrachadh a’ toirt an teampall seo nas fhaisge air na reultan.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Com-pàirtichean",
+      "description": "Conaltradh, eòlasan amalaichte agus ìomhaighean iongantach 3D a thug sealladh an t-saideal beò mus do bhean e ri beàrn an fhànais a-riamh."
+    },
+    "highestMantra": {
+      "name": "Am Mantra as Àirde againn",
+      "description": "Air a stiùireadh le Sathi Roy, a’ ceangal Teampall Orbital ri coimhearsnachdan spioradail is ealanta na h-Innseachan. A’ fosgladh shlighean gu togail-airgid, iomlaid chultarail, agus taisbeanadh Art Basel às dèidh a’ chuir air bhog san t-Samhain 2025."
+    },
+    "allToSpace": {
+      "name": "Uile gu Fànais",
+      "description": "Eòlaichean saidealan beaga à Brasil. Ceithir bliadhna de cho-obrachadh a’ togail àrd-ùrlar bathar-cruaidh stòr fosgailte agus a’ stiùireadh a’ phròiseis gus ealain a chuir gu orbit bhon Deas Cruinneil."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Buidheann Rannsachaidh Fànais Innseanach. Solaraiche cur air bhog airson misean PSLV a’ giùlan Orbital Temple gu orbit sioncronaich grèine san t-Samhain 2025."
+    },
+    "mercosul": {
+      "name": "13mh Biennal Mercosur",
+      "description": "Porto Alegre, Brazil. Air a ghlèidheadh le Marcello Dantas le leas-ghlèidhearan Laura Cattani, Munir Klamt, Tarsila Riso, agus Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Bùth-obrach INPE / ArtSat",
+      "description": "Chaidh an sgioba leasachaidh saideal a chruthachadh aig àm Bùth-obrach II ArtSat. Air a cho-òrdanachadh le Fabiane M. Borges, air a stiùireadh le Lázaro Camargo, air a cho-obrachadh le Ítalo Pinto Rodrigues, fo stiùir Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Bun-bheachdan Soladach",
+      "description": "Air a stiùireadh le Eduardo Dias. A h-uile clò-bhualadh 3D agus obair micro-thilgeadh òir airson a’ chruinneach snaidhte, ag atharrachadh aislingean didseatach gu fìrinn meatailt luachmhor."
+    },
+    "ideaSpace": {
+      "name": "Àite Beachdan",
+      "description": "Companaidh foghlaim ùr à Brasil a’ leasachadh curraicealam Prògram Fànais Quebrada, deiseil airson a chur an sàs le oileanaich àrd-sgoile air feadh Brasil."
+    }
+  },
+  "closing": "A bheil ùidh agad ann an com-pàirteachas le Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Cuir fios thugainn</a> .",
+  "imageAlts": {
+    "riseNy": "Suaicheantas RiseNY&Partners",
+    "highestMantra": "Suaicheantas ar Mantra as Àirde",
+    "allToSpace": "Suaicheantas Uile gu Fànais",
+    "isro": "Suaicheantas ISRO",
+    "mercosul": "Suaicheantas 13mh Dà-bhliadhnail Mercosur",
+    "inpe": "Suaicheantas Bùth-obrach INPE ArtSat",
+    "solidConcepts": "Suaicheantas Bun-bheachdan Soladach",
+    "ideaSpace": "Suaicheantas Àite Beachdan"
+  }
+}

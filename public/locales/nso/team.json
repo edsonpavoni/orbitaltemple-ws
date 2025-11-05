@@ -1,0 +1,61 @@
+{
+  "title": "Sehlopha - Tempele ya Orbital",
+  "heading": "Sehlopha",
+  "artist": "Edson Pavoni, motaki",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Motšweletšiphethiši",
+      "members": "Sathi Roy o ile a re"
+    },
+    "aerospace": {
+      "heading": "Boentšenere bja Sefofane & Ditshepedišo",
+      "members": "Pedro Kaled, João Pedro Polito, Mofenyi Baptista & João Mofenyi Alves"
+    },
+    "electronic": {
+      "heading": "Boentšeneare bja Elektroniki",
+      "members": "André Biagioni, J o ao P d e d e d o P o r o l i t o & V K"
+    },
+    "software": {
+      "heading": "Softewere",
+      "members": "Jonathan Kerubina"
+    },
+    "design": {
+      "heading": "Moralo le Boagi",
+      "members": "Guilherme Bullejos o ile a hlokomela"
+    },
+    "printing": {
+      "heading": "Go Gatiša ka 3D",
+      "members": "Dikgopolo tše di Tiilego, ka fase ga boetapele bja Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Phetolelo ya 3D",
+      "members": "Guilherme Bullejos & RiseNy & Balekane"
+    },
+    "research": {
+      "heading": "Dinyakišišo",
+      "members": "Roberta Savian Rosa & Klara Marques, ba ile ba hlokomela"
+    },
+    "exhibition": {
+      "heading": "Tšweletšo ya Dipontšho, Go tšea Diswantšho & Tlholo ya Diteng",
+      "members": "Klara Marques o ile a hlokomela"
+    },
+    "silkScreen": {
+      "heading": "Pontšo ya Silika Screening",
+      "members": "Daphne Alves o ile a hlokomela"
+    },
+    "educational": {
+      "heading": "Protšeke ya Thuto",
+      "members": "Sebaka sa Dikgopolo"
+    },
+    "communication": {
+      "heading": "Sehlopha sa Kgokagano",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, ba bangwe"
+    },
+    "specialThanks": {
+      "heading": "Ditebogo tše di Kgethegilego",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Mofenyi Baptista, João Mofenyi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Dikgopolo tše di Tiilego, RiseNY & Balekane, IdeaSpace",
+  "imageAlt": "Sathalaete ya Tempele ya Orbital"
+}

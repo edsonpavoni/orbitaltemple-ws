@@ -1,0 +1,31 @@
+{
+  "title": "San'at asari - Orbital ibodatxonasi",
+  "heading": "San'at asari",
+  "intro": {
+    "paragraph1": "Orbital ibodatxonasi - bu badiiy missiyaga ega sun'iy yo'ldosh: Yerda yashovchi yoki yashagan har bir jonzot uchun ochiq kosmosdagi yodgorlik.",
+    "paragraph2": "Texnologik vositalar orqali har kim Ma'badga kimningdir ismini yuborishi mumkin, yo vafot etgan, juda tirik odam yoki esda qolishga loyiq har qanday mavjudot."
+  },
+  "sculpture": {
+    "heading": "Haykal",
+    "paragraph1": "San'at asari uchta o'zaro bog'liq elementga ega: sun'iy yo'ldosh, ayniqsa milliardlab nomlarni saqlash uchun mo'ljallangan; sun'iy yo'ldosh bilan ma'lumot almashinadigan ommaviy haykal; va veb-sayt orqali ishtirokchilar ismlarini hozirdan to vafot etgunlaricha jannatga yuboradilar.",
+    "paragraph2": "Ko'p tarmoqli ish sifatida, Orbital Temple kosmosda yashovchi saytga xos haykal deb hisoblanishi mumkin. Bu ham Artsat loyihasidir."
+  },
+  "antenna": {
+    "heading": "Antenna jamoat haykali sifatida",
+    "paragraph1": "Bizni kosmos bilan bog'laydigan antenna.",
+    "paragraph2": "Orbital sun'iy yo'ldosh bilan bevosita aloqada bo'ladigan antenna ishlab chiqilmoqda.",
+    "paragraph3": "Ustidagi osmonni aks ettiruvchi oltin aks ettiruvchi sirt bilan u ommaviy rag'batlantirish uchun boshlang'ich nuqtadir (yoki \"tepadagi\" narsalarga bo'lgan munosabatimiz).",
+    "paragraph4": "Haykallar dunyoning aksariyat qismlarida o'rnatilmagan bo'lsa-da, bizning sun'iy yo'ldoshni boshqarayotgan \"Yerdan kadrlar\" har bir o'tish joyida nomlarni yubormoqda.",
+    "paragraph5": "Kosmosni o&#39;rganish, san&#39;at va kosmosdagi umumiy joyimiz haqida suhbatlarga ilhomlantiruvchi antenna haykallarini o&#39;rnatish - bu tasavvurni shahringizga olib kelishga yordam bering. <a href=\"/support\">Loyihani qo&#39;llab-quvvatlash haqida ko&#39;proq bilib oling</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple sun'iy yo'ldoshi",
+    "riseNy": "Nyu-Yorkdagi Rise orbital ibodatxonasi",
+    "installation": "Klara Markesning orbital ibodatxonasi",
+    "antenna": "Orbital ibodatxona antennasi"
+  },
+  "imageCaptions": {
+    "riseNy": "Kosmosdagi orbital ibodatxona. RiseNY&Partners tomonidan 3D renderlash.",
+    "mercosul": "Braziliyaning Porto-Alegre shahridagi Merkosul biennalesida orbital ibodatxona o&#39;rnatilishi.<br> Klara Markes surati."
+  }
+}

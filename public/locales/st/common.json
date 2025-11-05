@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "mosebetsi oa bonono",
+    "sendAName": "romela lebitso",
+    "fromTheArtist": "ho tsoa ho moetsi oa litšoantšo",
+    "yetAnotherTemple": "leha ho le joalo, tempele e 'ngoe?",
+    "howItWorks": "kamoo e sebetsang kateng",
+    "spaceLaunch": "ho qala sebaka le likotsi",
+    "briefHistory": "histori e khuts'oane ea bonono sebakeng",
+    "education": "thuto & mohloli o bulehileng",
+    "sustainability": "moshoelella le maloanlahla a sebaka",
+    "press": "tobetsa & media",
+    "team": "sehlopha",
+    "partners": "balekane",
+    "support": "tshehetso",
+    "technicalInfo": "lintlha tsa tekheniki"
+  },
+  "ritual": {
+    "label": "moetlo",
+    "ariaLabel": "Kenya moetlo - Romela lebitso ho Orbital Temple"
+  },
+  "footer": {
+    "credits": "Orbital Temple ke setšoantšo sa Edson Pavoni, se entsoeng ka tšebelisano 'moho le Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy ba tsoelang pele ho romela mabitso tempeleng ena."
+  }
+}

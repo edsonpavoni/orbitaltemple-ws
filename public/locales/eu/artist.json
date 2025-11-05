@@ -1,0 +1,44 @@
+{
+  "title": "Artistaren eskutik",
+  "opening": {
+    "question": "Nor da tipo hau espazioan tenplu bat proposatzeko?",
+    "thanks": "Eskerrik asko galderagatik.",
+    "answer": "Erantzun laburra artista naizela da. Erantzun luzea hau da:"
+  },
+  "origin": {
+    "sao_paulo": "São Pauloko kanpoaldean jaio nintzen, arriskuak zer esan nahi duen txikitatik erakutsi zidan auzo batean. Nire eskolako lagun asko kartzelan daude orain. Nire aitaordea kartzelan dago. Indarkeria ez zen irakurtzen nuen zerbait, nabigatu behar nuen mundua zen. Eta banekien ihes egin behar nuela.",
+    "technology": "Teknologia izan zen nire irteera. Programatzen ikasi nuen, elektronika ikasi nuen nerabezaroan. Kodea beste nonbaitera eraman ninduen hizkuntza bat zen. Teknologiarekin lan egitea izan zen pobreziatik ihes egiteko nire ihesbidea.",
+    "christianity": "Baina baita ere bilatzen ari nintzen pertenentzia, maitasuna, sinesteko zerbait. Kristautasuna aurkitu nuen, edo hark aurkitu ninduen. Onartu egin ninduten. Maitatu egin ninduten. Komunitate bat nuen. Barkatzen ikasi nuen, sinesten, helburu handiago baten alde elkarrekin mugitzen.",
+    "price": "Prezioa, ordea, altua izan zen. Oraindik desikasten ari naizen gauza asko ere ikasi nituen. Beraz, horretatik ere ihes egin nuen."
+  },
+  "searching": {
+    "walls": "Badakit zer egiten duten hormek. Sentitu ditut. Bi aldeetan egon naiz: kanpoan, barruan. Ondoren, urteak eman nituen izendatu ezin nuen zerbaiten bila. Jainkoa urte horietan hil zen. Irakatsi zidaten jainkoa, behintzat, arauak, epaia eta pertsona batzuentzat bakarrik irekitzen ziren ateak zituena.",
+    "art": "Artea sortzen hasi nintzen galdera hauek aztertzeko: intimitateari eta teknologiari buruz, memoriari eta heriotzari buruz, nork merezi duen zerua. Teknologiarekin dugun harremana berriro imajinatzen duten makinak eraikitzen hasi nintzen, zure parte-hartzea, zure presentzia, zure izena behar dituzten makinak, metal eta kodetik zerbait bizidun bihurtzeko."
+  },
+  "pandemic": {
+    "intro": "Orduan pandemiak Brasil jo zuen.",
+    "government": "COVID txertoak atzeratu zirenean, nire gobernuak dosi bakoitzeko dolar bateko komisioak negoziatzen ari zen. Eraginkortasunik gabeko sendagaiak sustatzen zituzten, jendea arnasa hartzeko arazoak zituela hiltzen zen bitartean barre egiten zuten. Egunero zenbaki desberdin batekin esnatzen ginen. Zenbat pertsona hil ziren azken 24 orduetan? Espero baino gehiago edo gutxiago izan zen?",
+    "war": "Munduaren erdia beldurtuta zegoen, eta beste erdia ukazioan. Gerran geunden, birusarekin eta elkarrekin.",
+    "memorial": "Dolu kolektiborako espazioa sortu nahi nuen, beraz, ehunka pertsonekin batera Memorial Inumeráveis sortu nuen. Artearen eta kazetaritzaren arteko bidegurutzean dagoen artelan bat. Norbait galdu zuten familiak elkarrizketatu genituen. Galdu zuten pertsonaren bizitza istorioa idatzi genuen. Zenbakiak historia bihurtu genituen. Poemak, abestiak, sinfoniak sortu ziren historia horiekin. Izarrek istorio horiek irakurri zituzten telebista nazionalean. Proiektua milioika pertsonarengana iritsi zen.",
+    "meaning": "Garrantzitsuena ez zen eskala, istorio bakoitza izen bat, bizitza bat, norbaiten zerua zela baizik."
+  },
+  "discovery": {
+    "pattern": "Hamar mila elkarrizketa baino gehiago izan ondoren, doluarekin, eredu bat agertzen hasi zen. Hil den norbaiti buruz hitz egiten dugunean, ez ditugu gauza onak bakarrik esaten; haien istorioaren zatiak hautatzen ditugu, gomendio gutun bat idazten ariko bagina bezala. Paradisuko atezainarentzako gomendio bat. Ahal dugun guztia egiten dugu onarpen, atseden, ohore eta oroimen leku batera bidaltzeko.",
+    "understanding": "Eta dena aldatu zuen zerbait ulertu nuen: eraiki ditugun tenpluek zauritu gaituzte. Zerua nork merezi duenari buruzko gure sinesmenek zuzenean moldatzen dute Lurrean nor baztertzen dugun. Brasilgo kolonizatzaile portugaldarrek uste zuten beltzek ez zutela arimarik; sinesmen horrek esklabutza justifikatzen zuen. Indigena bazinen, leku okerrean jaio bazinen edo pertsona okerra maite bazenuen, zeruko ateak itxita zeudela esaten zizuten.",
+    "birth": "Horrela jaio zen Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Ezin da artistarik benetan laikoa izan. Betiko lotuta gaude gure arbaso komunera, xamanera. Hasieran, kobazulo bat zegoen. Gizakiek animaliak margotzen zituzten hormetan, ez apaintzeko, baizik eta deitzeko. Dantzatu egin zuten, eta kobazuloa tenplu bihurtu zen. Xamanak erritualaren espiritua darabil; artistak artearen aura darabil. Margotzen dugu, eskultzen dugu, kodetzen dugu, gure etorkizun nahi duguna diseinatzen dugu, ez apaintzeko, baizik eta deitzeko. Arte guztia espirituala da, ez dela hala aldarrikatzen duenean ere."
+  },
+  "space": {
+    "question": "Non eraiki genezake hormarik gabeko tenplu bat? Non ez dagoen nazio edo erlijio batek bere burua aldarrikatu ezin dezakeen. Non geure burua talde bakar gisa imajina genezakeen.",
+    "answer": "Espazioa.",
+    "description": "Hegoalde Globaleko arte satelite parte-hartzaile bat. Orbitan dagoen tenplu bat, non den, non jaio den, nor maite duen, zer sinesten duen kontuan hartu gabe, edonork bere izena espaziora bidaltzera gonbidatzen duen. Orbitan, mugak gaindituz, inklusio erradikala posible den leku bat.",
+    "mission": "Misio hau kode irekikoa da. Dokumentu tekniko guztiak, kode lerro guztiak doan eskuragarri egongo dira, beste artista batzuek, beste komunitate batzuek, beste nazio batzuek beren sateliteak eraiki ahal izateko. Beraz, Hegoalde Globalak ez du espazioaren esplorazioan parte hartzen bakarrik, baizik eta gidatzen du."
+  },
+  "closing": {
+    "answer": "Beraz, nor da tipo hau espazioan tenplu bat eraikitzeko? Ez dut nik eraikiko. Tenplua izen bat bidaltzea erabakitzen duen orok eraikitzen du, sakratutzat hartu, erreala izan dadin. Ni naiz proposatzen duena besterik ez. Zu zara eraikitzen duena, erabakitzen baduzu.",
+    "signature": "Atsegin handiz,",
+    "name": "Edson Pavoni"
+  }
+}

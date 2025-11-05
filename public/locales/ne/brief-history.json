@@ -1,0 +1,77 @@
+{
+  "title": "अन्तरिक्षमा कलाको संक्षिप्त इतिहास - कक्षीय मन्दिर",
+  "heading": "अन्तरिक्षमा कलाको संक्षिप्त इतिहास",
+  "intro": "<strong>१९५७</strong> मा कृत्रिम उपग्रहको पहिलो सफल प्रक्षेपण पछि, दस हजार भन्दा बढी उपग्रहहरू पृथ्वीको वरिपरि परिक्रमा गरिसकेका छन्। यस नयाँ युगमा, कलाकारहरूले आफ्नो अभ्यास विस्तार गर्ने तरिका फेला पारेका छन् र बाह्य अन्तरिक्ष एक नयाँ प्रकारको क्यानभास बनेको छ। यससँगै, अन्तरिक्ष अन्वेषणको राजनीतिको बारेमा आधारभूत प्रश्नहरू उठेका छन् - यद्यपि अझै धेरै कुराहरू समेट्न बाँकी छ।",
+  "sections": {
+    "leonov": {
+      "text": "अन्तरिक्षमा सिर्जना गरिएको पहिलो कलाकृति पृथ्वीमाथि सूर्योदयको रेखाचित्र थियो, जुन रूसी अन्तरिक्ष यात्री <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">एलेक्सी लियोनोभले</a></strong> <strong>१९६५</strong> मा भोस्खोड २ मा सवार हुँदा बनाएका थिए।",
+      "caption": "अन्तरिक्षमा सिर्जना गरिएको पहिलो कलाकृति, र यसलाई चित्रण गर्न एलेक्सी लियोनोभले प्रयोग गरेका पेन्सिलहरू। तस्बिर: युरी गागारिन अन्तरिक्षयान प्रशिक्षण केन्द्रको संग्रहालय"
+    },
+    "moonMuseum": {
+      "paragraph1": "तीन वर्ष पछि, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">मुन म्युजियम</a></strong> , एउटा सानो सिरेमिक प्लेट, जुन त्यतिबेला अमेरिकाका छ जना प्रमुख कलाकारहरू: <strong>रोबर्ट राउस्चेनबर्ग</strong> , <strong>डेभिड नोभरोस</strong> , <strong>जोन चेम्बरलेन</strong> , <strong>क्लेस ओल्डेनबर्ग</strong> , <strong>फरेस्ट मायर्स</strong> र <strong>एन्डी वारहोल</strong> द्वारा शिलालेखहरू सहित चन्द्रमामा अवतरण भएको मानिन्छ।",
+      "caption1": "न्यूयोर्क टाइम्सको मूल लेखबाट लिइएको चन्द्र संग्रहालयको तस्बिर। औंलाले वारहोलको रेखाचित्रलाई अस्पष्ट बनाउँछ।",
+      "paragraph2": "वारहोलको उत्तेजक योगदान - माथिल्लो बायाँ - ले यस परियोजनालाई त्यतिबेला सञ्चार माध्यमको लागि चुनौती बनायो।",
+      "caption2": "न्यूयोर्क टाइम्सले प्रकाशित गर्न रोजेको तस्बिर, तल कलाकृति देखिने र माथिल्लो बायाँ कुनामा एन्डी वारहोलको रेखाचित्र।"
+    },
+    "fallenAstronaut": {
+      "text": "<strong>१९७१</strong> मा, अपोलो १५ अन्तरिक्ष यात्री <strong>डेभिड स्कटले</strong> चन्द्रमामा <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">फलेन एस्ट्रोनट</a></strong> नामक सानो स्तरको मानवोदित एल्युमिनियम मूर्तिकला राखेका थिए। बेल्जियमका कलाकार <strong>पल भान होयडोनकले</strong> यस टुक्राको साथ, अन्तरिक्ष अन्वेषणको प्रगतिमा मृत्यु भएका अन्तरिक्ष यात्रीहरू र अन्तरिक्ष यात्रीहरूको सम्झना गर्न चाहन्थे।",
+      "caption": "हेडली-एपेनिन अवतरण स्थलमा चन्द्रमामा छोडिएको स्मारक पट्टिकाको दृश्य।"
+    },
+    "pioneerVoyager": {
+      "text": "<strong>१९७० को</strong> दशकमा, <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">पायोनियर प्लेक्स</a></strong> र <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">भोएजर प्रोब्स</a></strong> दुवैले अन्तरिक्षमा कलाको लागि नयाँ क्षितिजहरू सेट गरे। पृथ्वीबाट दृश्य सन्देशहरू सहितको सुन-एनोडाइज्ड एल्युमिनियम प्लेक्सहरू टाढाको भविष्यमा फेला पार्न सक्ने अन्य कुनै पनि अन्तरिक्ष यात्रीहरूलाई बोकेर, तिनीहरूले मानव जीवनलाई यसको सबैभन्दा आधारभूत तत्वहरूमा चित्रण गरे।",
+      "caption": "१९७० को दशकमा गहिरो अन्तरिक्षमा लगिएका पायोनियर १० र ११ प्लेकहरू।"
+    },
+    "dove": {
+      "text": "<strong>१९९०</strong> मा, ब्राजिलले यस क्षेत्रमा आफ्नो छाप छोड्यो <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-१७</a></strong> , एक उत्कृष्ट काव्यात्मक शक्तिको प्रतिभाशाली शौकिया उपग्रह। यद्यपि यसको निर्माताले आफूलाई कलाकार ठान्नुभएन, यो एक गहिरो काव्यात्मक प्रयास थियो: यसले शान्तिको लागि प्रार्थना गर्ने बालबालिकाको आवाज रेकर्ड गर्‍यो र तिनीहरूलाई विश्वभरका दुई हजार भन्दा बढी रेडियो शौकियाहरूमा प्रसारित गर्‍यो, जसले एक अग्रगामी क्यूबस्याटलाई सामूहिक ध्वनि कार्यमा रूपान्तरण गर्‍यो।",
+      "caption": "डोभ/ओस्कर-१७, ब्राजिलको काव्यात्मक उपग्रह जसले शान्तिको लागि बालबालिकाको आवाज प्रसारण गर्दछ, १९९०।"
+    },
+    "lastPictures": {
+      "text": "<strong>२०१२</strong> मा, कलाकार <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ट्रेभर प्याग्लेनले</a></strong> <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;द लास्ट पिक्चर्स&quot;</a></strong> प्रक्षेपण गरे, जुन भूस्थिर कक्षमा इकोस्टार XVI सञ्चार उपग्रहमा संलग्न १०० तस्बिरहरू भएको माइक्रो-एच्ड डिस्क हो। अरबौं वर्ष टिक्नको लागि डिजाइन गरिएको, यो टाढाको भविष्यको लागि पुरातात्विक कलाकृतिको रूपमा मानव सभ्यतालाई पछाडि पार्नको लागि हो।",
+      "caption": "मानवतालाई पछि पार्न डिजाइन गरिएको माइक्रो-एच्ड डिस्क, द लास्ट पिक्चर्स, २०१२ मा सुरु गरिएको थियो।"
+    },
+    "ulises": {
+      "text": "<strong>२०१५</strong> मा, <strong>कोलेक्टिभो एस्पेसियल मेक्सिकोनो</strong> (मेक्सिकन स्पेस कलेक्टिभ) ले कलाकार <strong>जुआन जोसे डियाज इन्फान्टे कासाससको</strong> निर्देशनमा एक अवधारणात्मक ओपेराको रूपमा कल्पना गरिएको न्यानोस्याटेलाइट <strong>उलिसेस I</strong> प्रक्षेपण गर्‍यो। फेरिया डेल लिब्रो डे ग्वाडालाजाराको समयमा उपग्रहलाई बेलुनमा स्ट्र्याटोस्फियरमा लगिएको थियो। लगभग चार घण्टामा विस्फोट हुन र प्यारासुटबाट तल झर्ने गरी डिजाइन गरिएको।",
+      "caption": "Ulises I, Colectivo Espacial Mexicano द्वारा एक अवधारणात्मक उपग्रह ओपेरा।"
+    },
+    "artsat": {
+      "text": "<strong>२०१४</strong> मा मात्र पहिलो विशुद्ध कलात्मक उपग्रह प्रक्षेपण गरिएको थियो। टोकियो विश्वविद्यालयको <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> परियोजनाले पृथ्वीमा स्थानिक डेटा पठायो जुन कला स्थापना र संगीत सिर्जनामा प्रयोग गरिन्थ्यो।",
+      "caption1": "ARTSAT-1 आक्रमणकारी फ्रेमवर्क र पृथ्वीमा रहेका स्पेयर पार्ट्स।",
+      "caption2": "मिशन [SPACE x ART] - टोकियोको समकालीन कला संग्रहालयमा आयोजित ब्रह्माण्डभन्दा बाहिरको प्रदर्शनी"
+    },
+    "kac": {
+      "text": "ब्राजिलियन र अमेरिकी समकालीन कलाकार <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">एडुआर्डो काकले</a></strong> <strong>NASA</strong> र <strong>SpaceX</strong> सँगको सहकार्य मार्फत अन्तरिक्ष कलामा योगदान पुर्‍याएका छन्। फ्रान्सेली अन्तरिक्ष यात्री <strong>थोमस पेस्केटसँग</strong> मिलेर सिर्जना गरिएको उनको <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;इनर टेलिस्कोप&quot;</a></strong> ( <strong>२०१७</strong> ) को परिणामस्वरूप <strong>अन्तर्राष्ट्रिय अन्तरिक्ष स्टेशनमा</strong> एउटा मूर्तिकला बन्यो।",
+      "caption": "फ्रान्सेली अन्तरिक्ष यात्री थोमस पेस्केट, २०१७ द्वारा सिर्जना गरिएको अन्तर्राष्ट्रिय अन्तरिक्ष स्टेशनमा भित्री टेलिस्कोप।"
+    },
+    "enoch": {
+      "text": "<strong>२०१८</strong> मा, कला परियोजनाको रूपमा निर्मित निष्क्रिय क्यूबस्याटलाई कक्षामा प्रक्षेपण गरिएको थियो। बहामियन वैचारिक कलाकार <strong>टाभरेस स्ट्र्याचनद्वारा</strong> विकसित, <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">हनोकमा</a></strong> पहिलो अफ्रिकी-अमेरिकी अन्तरिक्ष यात्री, <strong>रोबर्ट हेनरी लरेन्स जूनियरको</strong> बस्ट सहितको २४-क्यारेट-सुनौलो क्यानोपिक जार छ।",
+      "caption": "ENOCH (प्रदर्शन एकाइ), २०१५-२०१७। ⓒ टाभरेस स्ट्र्याचन, तस्बिर ⓒ संग्रहालय सहयोगीहरू/LACMA।"
+    },
+    "orbitalReflector": {
+      "text": "त्यही वर्ष, <strong>ट्रेभर प्याग्लेनको</strong> <strong>अर्बिटल रिफ्लेक्टर</strong> पनि एक गैर-कार्यात्मक क्यूबस्याटमा राखिएको मूर्तिकलाको रूपमा सुरु गरिएको थियो। यो काम संसारमा हाम्रो स्थान हेर्ने तरिका परिवर्तन गर्ने उद्देश्यले गरिएको एक कलात्मक इशारा थियो। यो सही तरिकाले तैनाथ गरिएको थिएन। यद्यपि यो कहिल्यै डिजाइन गरिएको रूपमा खोलिएको थिएन, यसले महत्त्वपूर्ण कुराकानीहरू सुरु गर्‍यो र खगोलविद्हरू, वैज्ञानिकहरू, मिडिया आउटलेटहरू, शिक्षकहरू, विद्यार्थीहरू र विश्वव्यापी रूपमा आम जनताबाट भावुक प्रतिक्रियाहरू आकर्षित गर्‍यो, जसले सफल कला प्राविधिक रूपमा सफल हुनु आवश्यक छैन भनेर प्रदर्शन गर्‍यो।",
+      "caption": "अर्बिटल रिफ्लेक्टरको डिजिटल रेन्डरिङ, २०१८"
+    },
+    "others": {
+      "text": "धेरै अन्य कलाकारहरूले अन्तरिक्ष कलाको क्षेत्रमा योगदान पुर्‍याएका छन्, प्रत्येकले आफ्नो अनुसन्धानमा अद्वितीय दृष्टिकोण ल्याएका छन्। उल्लेखनीय परियोजनाहरूमा <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">सारा जेन पेलको</a></strong> अन्तरिक्ष यात्री कलाकार अनुसन्धान चरम वातावरणमा मानव प्रदर्शनको अन्वेषण; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">एग्नेस मेयर-ब्रान्डिसको</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">मुन गुज एनालग</a></strong> परियोजनाले ऐतिहासिक र समकालीन अन्तरिक्ष अन्वेषण कथाहरूको जाँच गर्ने; कलात्मक सूक्ष्म गुरुत्वाकर्षण प्रयोगहरूलाई सहजीकरण गर्ने <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">नहुमको</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">एस्ट्रोआर्ट्स</a></strong> कार्यक्रम; र <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">आर्थर वुड्सको</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ब्रह्माण्डीय नृत्यांगना</a></strong> मूर्तिकला, १९९३ मा मिर स्टेशनमा अन्तरिक्षमा प्रदर्शन गरिएको पहिलो मूर्तिकला समावेश छ।"
+    },
+    "orbitalTemple": {
+      "text": "<strong>२०२५</strong> मा, ४ वर्षको अनुसन्धान र विकास पछि, ब्राजिलियन कलाकार <strong>एडसन पावोनी</strong> र सहयोगीहरूको बहु-अनुशासनात्मक समूहले <strong>अर्बिटल टेम्पल</strong> प्रक्षेपण गर्नेछन्, एक सहभागी कला उपग्रह जसले संसारका जो कोहीलाई पनि कक्षामा नाम पठाउन आमन्त्रित गर्दछ, जसले सीमाभन्दा बाहिर मौलिक रूपमा समावेशी स्मारक सिर्जना गर्दछ।",
+      "caption": "Mercosul Bienal मा अर्बिटल मन्दिर। फोटो: क्लारा मार्क्स"
+    }
+  },
+  "imageAlts": {
+    "leonov": "एलेक्सी लियोनोभको रेखाचित्र र पेन्सिलहरू",
+    "moonMuseum": "मुन म्युजियम सिरेमिक वेफर",
+    "moonMuseumWarhol": "सबै कलाकृतिहरू देखाउँदै मुन म्युजियम सिरेमिक वेफर",
+    "fallenAstronaut": "चन्द्रमामा खसेका अन्तरिक्ष यात्रीको स्मारक",
+    "pioneerPlaques": "अग्रगामी फलकहरू",
+    "dove": "WHERE/OSCAR-१७ उपग्रह",
+    "lastPictures": "द लास्ट पिक्चर्स डिस्क",
+    "ulises": "युलिसेस I उपग्रह",
+    "artsatInvader": "ARTSAT-1 आक्रमणकारी उपग्रह संरचना",
+    "artsatArt": "ARTSAT-1 डेटाबाट सिर्जना गरिएको कलाकृति",
+    "innerTelescope": "एडुआर्डो काकको भित्री टेलिस्कोप",
+    "enoch": "टाभरेस स्ट्र्याचनको ENOCH डिस्प्ले युनिट",
+    "orbitalReflector": "ट्रेभर प्याग्लेनको अर्बिटल रिफ्लेक्टर",
+    "orbitalTemple": "कक्षीय मन्दिर उपग्रह"
+  }
+}

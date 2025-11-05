@@ -1,0 +1,43 @@
+{
+  "title": "Educació i codi obert - Orbital Temple",
+  "heading": "Educació i codi obert",
+  "intro": {
+    "paragraph1": "Tota la tecnologia desenvolupada per a la missió Orbital Temple serà <strong>de codi obert</strong> i estarà disponible en línia en <strong>portuguès</strong> , <strong>anglès</strong> , <strong>castellà</strong> i <strong>hindi</strong> , cosa que fomentarà l&#39;avanç de l&#39;exploració espacial al <strong>Sud Global</strong> . Les noves missions i projectes poden utilitzar Orbital Temple com a base per als seus propis experiments artístics o científics.",
+    "paragraph2": "Com a part de la seva missió educativa, Orbital Temple oferirà un curs multilingüe gratuït sobre com construir i llançar un satèl·lit. Serà una oportunitat pràctica per aprendre sobre la tecnologia dels satèl·lits i posar-la en pràctica. Qualsevol persona major de <strong>16</strong> anys podrà construir el seu propi satèl·lit, aprenent sobre la història de l&#39;art a l&#39;espai, conceptes fonamentals d&#39;electrònica, mecànica i ciència espacial, incloent-hi com finançar projectes i com construir una antena per comunicar-se amb satèl·lits en òrbita."
+  },
+  "spaceGap": {
+    "heading": "Per què això importa: la bretxa espacial",
+    "paragraph1": "El terme <strong>&quot;bretxa espacial&quot;</strong> fa referència a la divisió entre les nacions desenvolupades que poden accedir a les oportunitats tecnològiques obtingudes a través de l&#39;exploració espacial i les nacions en desenvolupament que no tenen accés a aquestes tecnologies. Els països del Sud Global han de pagar quantitats substancials a governs o empreses estrangeres per l&#39;accés bàsic a la informació produïda per les tecnologies de satèl·lit.",
+    "paragraph2": "La tecnologia espacial ofereix beneficis crítics: els satèl·lits ajuden a combatre la tala il·legal, la pesca il·legal i el comerç il·legal de fauna salvatge, que representen més de <strong>73.000 milions de dòlars anuals</strong> . Proporcionen informació essencial sobre el clima, la producció d&#39;aigua i la seguretat alimentària. Els satèl·lits permeten tècniques de reg i agricultura de precisió, i ajuden a prevenir desastres naturals. La indústria espacial podria crear fins a <strong>1 milió de llocs de treball</strong> el <strong>2030</strong> , però aquestes oportunitats continuen sent inaccessibles per a molts al Sud Global.",
+    "paragraph3": "En proporcionar tecnologia i educació de codi obert, pretenem democratitzar l'accés a l'espai i capacitar una nova generació per somiar més enllà del cel."
+  },
+  "empowering": {
+    "heading": "Empoderar la propera generació",
+    "intro": "Ensenyarem a la propera generació d'exploradors espacials com construir i llançar els seus propis satèl·lits, cobrint temes essencials com ara:",
+    "topics": {
+      "history": "<strong>Història de l&#39;art a l&#39;espai:</strong> comprensió del llinatge dels satèl·lits artístics i les obres d&#39;art espacials.",
+      "concepts": "<strong>Conceptes bàsics:</strong> <strong>ArtSat</strong> (satèl·lits artístics), tecnologia espacial <strong>de codi obert</strong> i la <strong>Space Gap</strong> .",
+      "missions": "<strong>Missions espacials:</strong> Com conceptualitzar i dissenyar una missió i com formar un equip per executar-la.",
+      "electronics": "<strong>Electrònica a l&#39;espai:</strong> conceptes fonamentals dels components electrònics que poden sobreviure i funcionar en l&#39;entorn espacial.",
+      "mechanics": "<strong>Mecànica a l&#39;espai:</strong> comprensió dels requisits estructurals i mecànics per al disseny de satèl·lits.",
+      "orbits": "<strong>Òrbites i llançadors:</strong> Diferents tipus d&#39;òrbites i com seleccionar proveïdors de llançament per a la vostra missió.",
+      "financing": "<strong>Estratègies de finançament:</strong> Com obtenir finançament i recursos per llançar el vostre satèl·lit. El curs proporcionarà recursos per obtenir finançament per al vostre llançament, ajudant els estudiants a trobar programes i beques d&#39;institucions internacionals que donin suport a joves científics i estudiants en l&#39;enviament dels seus satèl·lits a l&#39;espai.",
+      "groundStation": "<strong>Desenvolupament d&#39;una estació terrestre:</strong> Com construir una antena per comunicar-se amb el Temple Orbital i altres satèl·lits."
+    }
+  },
+  "technology": {
+    "heading": "La tecnologia: Satèl·lits PocketQube",
+    "paragraph1": "Els estudiants aprendran a treballar amb els satèl·lits <strong>PocketQube</strong> , un estàndard de nanosatèl·lits que mesura només <strong>5 cm³</strong> i pesa fins a <strong>250 g</strong> . Malgrat la seva petita mida, els PocketQube són eines potents capaces d&#39;observar, monitoritzar i comunicar-se amb la Terra.",
+    "paragraph2": "Aquests satèl·lits compactes tenen nombroses aplicacions al món real, des de la investigació científica sobre el canvi climàtic fins a la comunicació intercontinental. Com que són més petits i lleugers, són més assequibles de construir i llançar, cosa que fa que l'espai sigui més accessible per a estudiants, investigadors i artistes de tot el món."
+  },
+  "globalAccess": {
+    "heading": "Accés global, començant des del Sud global",
+    "paragraph1": "El curs estarà disponible per a qualsevol persona <strong>major de 16 anys</strong> , completament <strong>gratuït</strong> . Comencem amb contingut en <strong>portuguès</strong> , <strong>castellà</strong> , <strong>anglès</strong> i <strong>hindi</strong> , amb plans d&#39;ampliar-lo a més idiomes a mesura que el programa creixi.",
+    "paragraph2": "La nostra missió comença al Sud Global i s'estén al món, garantint que la propera generació d'exploradors espacials provingui de tots els racons de la Terra."
+  },
+  "callToAction": {
+    "heading": "Ajudeu-nos a fer-ho possible",
+    "content": "Aquest programa educatiu està actualment en desenvolupament. Busquem socis i donants que comparteixin la nostra visió de democratitzar l&#39;accés a la tecnologia espacial. Si vosaltres o la vostra organització voleu donar suport a aquesta iniciativa, visiteu la nostra <a href=\"/support\">pàgina de suport</a> per obtenir informació sobre les oportunitats de col·laboració."
+  },
+  "imageAlt": "Satèl·lit orbital del Temple"
+}

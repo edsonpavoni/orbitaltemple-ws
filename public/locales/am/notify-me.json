@@ -1,0 +1,13 @@
+{
+  "title": "እንዲያውቁት ያድርጉ - የምሕዋር ቤተመቅደስ",
+  "heading": "ሲነሳ ያሳውቁ",
+  "description": "እ.ኤ.አ. በኖቬምበር 28፣ 2025፣ የምህዋር ቤተመቅደስ ወደ ላይ ይወጣል።<br> ኢሜልዎን ይተዉት እና ወደ ጠፈር ሲደርስ እንነግርዎታለን።",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "ላክ",
+    "sendingButton": "በመላክ ላይ...",
+    "successMessage": "ሲወጣ እናገኝሃለን።",
+    "errorMessage": "የሆነ ችግር ተፈጥሯል። እባክዎ እንደገና ይሞክሩ።"
+  },
+  "backLink": "← ወደ ቆጠራ ተመለስ"
+}

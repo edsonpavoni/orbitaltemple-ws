@@ -1,0 +1,13 @@
+{
+  "title": "Maabisuhan - Orbital Temple",
+  "heading": "Maabisuhan Kapag Ito ay Tumaas",
+  "description": "Sa Nobyembre 28, 2025, aakyat ang Orbital Temple.<br> Iwanan ang iyong e-mail, at sasabihin namin sa iyo kapag umabot na ito sa espasyo.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Ipadala",
+    "sendingButton": "Ipinapadala...",
+    "successMessage": "Aabot kami sa iyo kapag ito ay umakyat.",
+    "errorMessage": "Nagkaproblema. Pakisubukang muli."
+  },
+  "backLink": "← Bumalik sa countdown"
+}

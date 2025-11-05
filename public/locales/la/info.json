@@ -1,0 +1,17 @@
+{
+  "title": "Informationes Technicae - Templum Orbitale",
+  "heading": "Informationes Technicae",
+  "satellite": {
+    "heading": "Satelles",
+    "specs": "Dimensiones: 50x58x64 mm<br /> 1P PocketQube<br /> Pondus: 245 grammata<br /> Materiae: aluminium, aurum, fibra vitrea, et partes electronicae.<br /> Orbita: Altitudo 525 ± 25 km; inclinatio: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Sculptura",
+    "specs": "Dimensiones: 6 m (diametro) et 1.2 m (altitudo)<br /> Pondus: 46 kg<br /> Materiae: aluminium, tabula epoxy speculata, tholus aluminii aurei per structuram machinae ligneae suspensus."
+  },
+  "radio": {
+    "heading": "Specificationes Radiophonicae NASA-Catalogus:",
+    "specs": "Nexus Descendens Determinatus: 437 MHz<br /> Convocatio: Status: HORARIUM PRO ANNO 2025"
+  },
+  "imageAlt": "Diagramma Informationis Technicae"
+}

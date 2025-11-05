@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "งานศิลปะ",
+    "sendAName": "ส่งชื่อ",
+    "fromTheArtist": "จากศิลปิน",
+    "yetAnotherTemple": "แล้ววัดอีกแห่งล่ะ?",
+    "howItWorks": "มันทำงานอย่างไร",
+    "spaceLaunch": "การปล่อยยานอวกาศและความเสี่ยง",
+    "briefHistory": "ประวัติศาสตร์โดยย่อของศิลปะในอวกาศ",
+    "education": "การศึกษาและโอเพ่นซอร์ส",
+    "sustainability": "ความยั่งยืนและเศษซากในอวกาศ",
+    "press": "สื่อมวลชน",
+    "team": "ทีม",
+    "partners": "พันธมิตร",
+    "support": "สนับสนุน",
+    "technicalInfo": "ข้อมูลทางเทคนิค"
+  },
+  "ritual": {
+    "label": "พิธีกรรม",
+    "ariaLabel": "เข้าสู่พิธีกรรม - ส่งชื่อไปยังวิหารออร์บิทัล"
+  },
+  "footer": {
+    "credits": "Orbital Temple เป็นงานศิลปะโดย Edson Pavoni ซึ่งสร้างขึ้นโดยความร่วมมือกับ Pedro Kaled, João Pedro Polito, Victor Baptista และ João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy และทุกคนที่ยังคงส่งชื่อมาที่วัดแห่งนี้"
+  }
+}

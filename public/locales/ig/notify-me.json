@@ -1,0 +1,13 @@
+{
+  "title": "Mara ọkwa - Temple Orbital",
+  "heading": "Ga-amara gị ọkwa mgbe ọ na-ebili",
+  "description": "Na Nọvemba 28, 2025, Templelọ nsọ Orbital ga-arịgo.<br> Hapụ ozi-e gị, anyị ga-agwa gị mgbe ọ ruru oghere.",
+  "form": {
+    "emailPlaceholder": "gị@email.com",
+    "sendButton": "Ziga",
+    "sendingButton": "Na-eziga...",
+    "successMessage": "Anyị ga-erute gị mgbe ọ rịgoro.",
+    "errorMessage": "Ọ nwere ihe adịghị mma. Biko nwaa ọzọ."
+  },
+  "backLink": "← Back to countdown"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "團隊 - 軌道神殿",
+  "heading": "團隊",
+  "artist": "艾德森‧帕沃尼，藝術家",
+  "roles": {
+    "executiveProducer": {
+      "heading": "執行製片人",
+      "members": "薩蒂·羅伊"
+    },
+    "aerospace": {
+      "heading": "航空航太與系統工程",
+      "members": "佩德羅·卡萊德、若昂·佩德羅·波利托、維克多·巴普蒂斯塔和若昂·維克多·阿爾維斯"
+    },
+    "electronic": {
+      "heading": "電子工程",
+      "members": "安德烈·比亞吉奧尼 (André Biagioni)、若昂·佩德羅·波利托 (João Pedro Polito) 和 VK"
+    },
+    "software": {
+      "heading": "軟體",
+      "members": "喬納森·切魯比納"
+    },
+    "design": {
+      "heading": "設計與建築",
+      "members": "吉列爾梅·布列霍斯"
+    },
+    "printing": {
+      "heading": "3D列印",
+      "members": "Solid Concepts，由 Eduardo Dias 領導"
+    },
+    "rendering": {
+      "heading": "3D渲染",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "研究",
+      "members": "羅伯塔·薩維安·羅莎和克拉拉·馬克斯"
+    },
+    "exhibition": {
+      "heading": "展覽製作、攝影及內容創作",
+      "members": "克拉拉·馬克斯"
+    },
+    "silkScreen": {
+      "heading": "展覽的網版印刷",
+      "members": "達芙妮·阿爾維斯"
+    },
+    "educational": {
+      "heading": "教育項目",
+      "members": "創意空間"
+    },
+    "communication": {
+      "heading": "溝通團隊",
+      "members": "弗拉維奧·維迪加爾、安德烈·霍爾茲邁斯特、佩德羅·維迪加爾、塔蒂安·普蒂、拉斐爾·費爾南德斯、布魯納·開羅"
+    },
+    "specialThanks": {
+      "heading": "特別鳴謝",
+      "members": "加布里埃拉·維加、馬塞洛·丹塔斯、安妮·瓦爾斯、馬蒂亞斯·坎波斯·阿巴德、塞繆爾·利維、貝拉·納爾迪尼和利·彭寧頓"
+    }
+  },
+  "credits": "艾德森·帕沃尼、薩蒂·羅伊、佩德羅·卡萊德、若昂·佩德羅·波利托、維克多·巴普蒂斯塔、若昂·維克多·阿爾維斯、安德烈·比亞吉奧尼、VK、喬納森·奎魯比納、吉列爾姆·布列霍斯、愛德華多·迪亞斯、羅伯塔·薩維安·羅莎、克拉拉·馬克斯、達芙妮·阿爾維斯、弗拉維奧·維迪加爾、安德烈·霍爾茲梅斯特、佩德羅·維迪加爾、塔蒂安Putti、Rafael Fernandes、Bruna Cairo、Conceitos Sólidos、RiseNY&Partners、IdeaSpace",
+  "imageAlt": "軌道神殿衛星"
+}

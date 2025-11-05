@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbita-tenplua",
+    "subtitle": "artelan bat eta satelite bat da,\ntenplu erradikal eta inklusibo bat izateko helburua duena,\nhorma iristen ez den leku batean."
+  },
+  "ritual": {
+    "label": "erritual"
+  },
+  "cta": {
+    "link": "Hala ere, beste tenplu bat?",
+    "arrowAlt": "gezia"
+  },
+  "dome": {
+    "alt": "Kupula"
+  }
+}

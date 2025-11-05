@@ -1,0 +1,50 @@
+{
+  "title": "Mga Kasosyo - Templo sa Orbital",
+  "heading": "Mga kauban",
+  "intro": "Ang Orbital Temple anaa pinaagi sa pagkamanggihatagon, kahanas, ug panan-awon sa talagsaon nga mga kauban. Gikan sa mga satelayt sa engineering hangtod sa paghimog mga asoy, gikan sa pag-abli sa mga pultahan sa lagyong kayutaan hangtod sa paghulma sa mga damgo sa bulawan, ang matag kolaborasyon nagdala niini nga templo nga mas duol sa mga bituon.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Komunikasyon, integrated nga mga kasinatian ug makabungog nga 3D render imagery nga nagdala sa panan-awon sa satellite sa kinabuhi sa wala pa kini makahikap sa kahaw-ang sa kawanangan."
+    },
+    "highestMantra": {
+      "name": "Ang Atong Labing Taas nga Mantra",
+      "description": "Gipangunahan ni Sathi Roy, nga nagkonektar sa Orbital Temple sa mga espiritwal ug artistikong komunidad sa India. Pag-abli sa mga agianan sa pagkolekta sa pondo, pagbinayloay sa kultura, ug usa ka exhibition sa Art Basel pagkahuman sa paglansad sa Nobyembre 2025."
+    },
+    "allToSpace": {
+      "name": "Tanan sa Space",
+      "description": "Mga espesyalista sa gamay nga satellite sa Brazil. Upat ka tuig nga kolaborasyon sa pagtukod sa usa ka open source hardware platform ug pagpayunir sa proseso sa pagpadala sa art ngadto sa orbit gikan sa Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indian Space Research Organization. Ilunsad ang provider alang sa PSLV nga misyon nga nagdala sa Orbital Temple ngadto sa sun-synchronous orbit sa Nobyembre 2025."
+    },
+    "mercosul": {
+      "name": "Ika-13 nga Mercosur Biennial",
+      "description": "Mga dapit nga gitawag Porto Alegre sa Brasil. Gi-curate ni Marcello Dantas uban sa mga assistant curators nga sila Laura Cattani, Munir Klamt, Tarsila Riso, ug Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Ang satellite development team naporma atol sa II ArtSat Workshop. Gi-coordinate ni Fabiane M. Borges, gimandoan ni Lázaro Camargo, gitambayayongan ni Ítalo Pinto Rodrigues, gidumala ni Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solid nga mga Konsepto",
+      "description": "Gipangunahan ni Eduardo Dias. Ang tanan nga 3D nga pag-imprenta ug bulawan nga micro casting nagtrabaho alang sa sculptural dome, nagbag-o sa digital nga mga damgo ngadto sa bililhon nga metal nga kamatuoran."
+    },
+    "ideaSpace": {
+      "name": "Ideya nga Luna",
+      "description": "Ang pagsugod sa edukasyon sa Brazil nagpalambo sa kurikulum sa Quebrada Space Program, andam nga magamit sa mga estudyante sa high school sa tibuuk Brazil."
+    }
+  },
+  "closing": "Interesado nga makigtambayayong sa Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Ipaabot</a> .",
+  "imageAlts": {
+    "riseNy": "Logo sa RiseNY&Partners",
+    "highestMantra": "Ang Atong Labing Taas nga Logo sa Mantra",
+    "allToSpace": "Tanan sa Space Logo",
+    "isro": "Logo sa ISRO",
+    "mercosul": "Ika-13 nga Mercosur Biennial Logo",
+    "inpe": "Logo sa INPE ArtSat Workshop",
+    "solidConcepts": "Solid nga Konsepto Logo",
+    "ideaSpace": "Logo sa Ideya nga Space"
+  }
+}

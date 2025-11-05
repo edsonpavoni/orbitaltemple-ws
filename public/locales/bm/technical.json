@@ -1,0 +1,17 @@
+{
+  "title": "Technique Info - Alabatoso Orbital",
+  "heading": "Info Tekniki",
+  "satellite": {
+    "heading": "Sateliti fɛ",
+    "specs": "A bonya ye milimɛtɛrɛ 50x58x64 ye<br /> 1P PocketQube ye<br /> Kisɛya: 245 gr<br /> Fɛn minnu bɛ kɛ: aliminiyɔmu, sanu, fibre de verre ani ɛntɛrinɛti yɔrɔw.<br /> Yɛlɛma: A janya ye bam 525 ± 25 ye; jiginni : SSO 97,6 ± 0,1°<br /> Lanceur : PSLV (Polar Satellite Launch Vehicle) min bɛ baara kɛ ni ISRO ye"
+  },
+  "antenna": {
+    "heading": "Antɛni/Jɛkulu",
+    "specs": "A bonya: mɛtɛrɛ 6 (a cɛmancɛ) e mɛtɛrɛ 1,2 (janya) .<br /> A girinya ye kilo 46 ye<br /> Fɛn minnu bɛ kɛ : aliminiyɔmu, pankurun min bɛ ni epoyi ye, aliminiyɔmu sanu doni min sirilen bɛ sɛgɛsɛgɛlikɛlan dɔ fɛ."
+  },
+  "radio": {
+    "heading": "Arajo ka ɲɛfɔli",
+    "specs": "Jiginni-yɔrɔ: 468,5 MHz<br /> Modulation: CSS (CSS) ye<br /> Bandwidth: TBD ye"
+  },
+  "imageAlt": "Sateliti min bɛ wele ko Orbital Temple"
+}

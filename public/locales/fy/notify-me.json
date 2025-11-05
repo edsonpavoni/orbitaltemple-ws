@@ -1,0 +1,13 @@
+{
+  "title": "Wês op 'e hichte - Orbital Temple",
+  "heading": "Wês op 'e hichte as it omheech giet",
+  "description": "Op 28 novimber 2025 sil de Orbital Temple opstige.<br> Lit jo e-postadres achter, en wy sille jo fertelle wannear&#39;t it yn &#39;e romte komt.",
+  "form": {
+    "emailPlaceholder": "dyn@e-post.com",
+    "sendButton": "Stjoere",
+    "sendingButton": "Ferstjoere...",
+    "successMessage": "Wy sille jo berikke as it omheech giet.",
+    "errorMessage": "Der gie wat mis. Besykje it nochris."
+  },
+  "backLink": "← Werom nei ôftelling"
+}

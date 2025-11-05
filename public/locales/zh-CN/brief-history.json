@@ -1,0 +1,77 @@
+{
+  "title": "太空艺术简史——轨道神庙",
+  "heading": "太空艺术简史",
+  "intro": "自<strong>1957年</strong>首次成功发射人造卫星以来，已有超过一万颗卫星进入地球轨道。在这个新时代，艺术家们找到了拓展艺术实践的新途径，外太空也成为了他们新的画布。随之而来的是，关于太空探索政治的根本性问题也随之出现——尽管还有许多领域尚待探索。",
+  "sections": {
+    "leonov": {
+      "text": "第一件在太空创作的艺术作品是俄罗斯宇航员<strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">阿列克谢·列昂诺夫</a></strong>于<strong>1965 年</strong>乘坐上升 2 号飞船时绘制的地球日出图。",
+      "caption": "这是第一幅在太空创作的艺术作品，以及阿列克谢·列昂诺夫绘制这幅作品时使用的铅笔。图片来源：尤里·加加林宇航员训练中心博物馆"
+    },
+    "moonMuseum": {
+      "paragraph1": "三年后， <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">月球博物馆</a></strong>，一块据称落在月球上的微型陶瓷盘，上面有当时美国六位最杰出的艺术家的题词：<strong>罗伯特·劳森伯格</strong>、<strong>大卫·诺夫罗斯</strong>、<strong>约翰·张伯伦</strong>、<strong>克拉斯·奥尔登堡</strong>、<strong>福雷斯特·迈尔斯</strong>和<strong>安迪·沃霍尔</strong>。",
+      "caption1": "这张月球博物馆的图片来自《纽约时报》的原文。拇指遮住了沃霍尔的画作。",
+      "paragraph2": "沃霍尔极具挑衅性的贡献（左上角）使这个项目对当时的传播媒体来说是一个挑战。",
+      "caption2": "《纽约时报》选择刊登的图片，下方可见艺术作品，左上角是安迪·沃霍尔的素描。"
+    },
+    "fallenAstronaut": {
+      "text": "<strong>1971</strong>年，阿波罗15号宇航员<strong>大卫·斯科特</strong>将一座名为<strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“陨落的宇航员”</a></strong>的小型人形铝制雕塑放置在月球上。比利时艺术家<strong>保罗·范·霍伊登克</strong>创作这件作品的目的是为了纪念那些在太空探索事业中牺牲的宇航员和航天员。",
+      "caption": "在哈德利-亚平宁着陆点留在月球上的纪念牌匾的景象。"
+    },
+    "pioneerVoyager": {
+      "text": "<strong>20世纪70年代</strong>， <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">先驱者号探测器</a></strong>和<strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">旅行者号探测器</a></strong>都为太空艺术开辟了新的天地。它们携带镀金铝制铭牌，上面刻有来自地球的视觉信息，传递给未来可能发现它们的任何其他太空旅行者，描绘了人类生活最基本的元素。",
+      "caption": "20 世纪 70 年代，先驱者 10 号和 11 号探测器携带的铭牌进入了深空。"
+    },
+    "dove": {
+      "text": "<strong>1990年</strong>，巴西凭借<strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong>卫星在这个领域留下了浓墨重彩的一笔。这颗精巧的业余卫星极具诗意力量。尽管它的创造者并不认为自己是艺术家，但这却是一次意义深远的诗意尝试：它记录了孩子们祈求和平的声音，并将这些声音传输给全球两千多名业余无线电爱好者，将一颗开创性的立方体卫星变成了一件集体声音作品。",
+      "caption": "DOVE/OSCAR-17，巴西的诗意卫星，传递儿童的和平之声，1990 年。"
+    },
+    "lastPictures": {
+      "text": "<strong>2012年</strong>，艺术家<strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">特雷弗·帕格伦</a></strong>推出了名为<strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“最后的影像”的作品</a></strong>，这是一张微蚀刻光盘，内含100张照片，被安装在地球同步轨道上的Echostar XVI通信卫星上。该作品的设计寿命可达数十亿年，旨在作为一件考古文物，在遥远的未来超越人类文明的存续。",
+      "caption": "《最后的影像》是一张微蚀刻光盘，旨在比人类存在的时间更长，于 2012 年发行。"
+    },
+    "ulises": {
+      "text": "<strong>2015年</strong>，墨西哥太空集体（ <strong>Colectivo Espacial Mexicano</strong> ）发射了<strong>“乌利塞斯一号”（Ulises I）</strong> ，这是一颗由艺术家<strong>胡安·何塞·迪亚兹·因凡特·卡萨苏斯（Juan José Díaz Infante Casasús）</strong>指导创作的纳米卫星，其设计理念源于一场概念歌剧。这颗卫星在瓜达拉哈拉书展（Feria del Libro de Guadalajara）期间由气球送入平流层。它的设计寿命约为四小时，之后将爆炸并借助降落伞下降。",
+      "caption": "《尤里塞斯一世》，Colectivo Espacial Mexicano 创作的概念卫星歌剧。"
+    },
+    "artsat": {
+      "text": "直到<strong>2014年</strong>，第一颗纯粹用于艺术用途的卫星才发射升空。东京大学的<strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong>项目向地球发送了空间数据，这些数据被用于艺术装置和音乐创作。",
+      "caption1": "ARTSAT-1“入侵者”卫星框架和留在地球上的备用零件。",
+      "caption2": "[SPACE x ART]——超越宇宙论展览在东京当代艺术博物馆举行"
+    },
+    "kac": {
+      "text": "巴西裔美国当代艺术家<strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">爱德华多·卡茨</a></strong>通过与美国国家航空航天局<strong>（NASA）</strong>和太空<strong>探索技术公司（SpaceX）</strong>的合作，为太空艺术做出了贡献。他与法国宇航员<strong>托马斯·佩斯凯</strong>共同创作的<strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">《内部望远镜》</a></strong> （ <strong>2017</strong> ）是一件在<strong>国际空间站</strong>上制作完成的雕塑作品。",
+      "caption": "国际空间站内部望远镜，由法国宇航员托马斯·佩斯凯于 2017 年建造。"
+    },
+    "enoch": {
+      "text": "<strong>2018 年</strong>，一颗作为艺术项目建造的被动式立方体卫星被发射到轨道上。这颗名为<strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong>的卫星由巴哈马概念艺术家<strong>Tavares Strachan</strong>开发，内部装有一个 24K 金的卡诺皮克罐，罐内有第一位非裔美国宇航员<strong>Robert Henry Lawrence Jr.</strong>的半身像。",
+      "caption": "ENOCH（展示单元），2015-2017 年。ⓒ Tavares Strachan，照片 ⓒ Museum Associates/LACMA。"
+    },
+    "orbitalReflector": {
+      "text": "同年，<strong>特雷弗·帕格伦的</strong><strong>“轨道反射器”</strong>也作为一件雕塑作品被发射升空，它被安置在一个非功能性的立方体卫星中。这件作品旨在通过艺术表达改变我们看待自身在世界中所处位置的方式。然而，它的部署并不顺利。尽管它从未按设计正常展开，但它引发了重要的讨论，并引起了全球天文学家、科学家、媒体、教育工作者、学生和公众的热烈反响，这表明成功的艺术作品并不一定需要在技术上取得成功。",
+      "caption": "2018年轨道反射器数字渲染图"
+    },
+    "others": {
+      "text": "许多其他艺术家也为太空艺术领域做出了贡献，他们各自在研究中带来了独特的视角。值得一提的项目包括： <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">莎拉·简·佩尔的</a></strong>宇航员艺术家研究，探索人类在极端环境下的表现； <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">艾格尼丝·迈耶-布兰迪斯的</a></strong><strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“月鹅模拟”</a></strong>项目，审视了历史和当代太空探索叙事； <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">纳胡姆的</a></strong><strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“太空艺术”</a></strong>项目，促进了微重力环境下的艺术实验；以及<strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">亚瑟·伍兹的</a></strong>雕塑作品<strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“宇宙舞者</a></strong>”，这是1993年在和平号空间站上展出的首个太空雕塑作品。"
+    },
+    "orbitalTemple": {
+      "text": "<strong>2025 年</strong>，经过 4 年的研究和开发，巴西艺术家<strong>埃德森·帕沃尼 (Edson Pavoni)</strong>和一群跨学科的合作者将推出<strong>“轨道神庙”(Orbital Temple)</strong> ，这是一个参与式艺术卫星，邀请世界各地的人们将名字发送到轨道上，从而创建一个超越国界的、具有彻底包容性的纪念碑。",
+      "caption": "Mercosul 双年展上的轨道圣殿。照片：克拉拉·马克斯"
+    }
+  },
+  "imageAlts": {
+    "leonov": "阿列克谢·列昂诺夫的素描和铅笔画",
+    "moonMuseum": "月球博物馆陶瓷晶片",
+    "moonMuseumWarhol": "月球博物馆陶瓷薄片展示了所有艺术作品。",
+    "fallenAstronaut": "月球上阵亡宇航员纪念碑",
+    "pioneerPlaques": "先驱者牌匾",
+    "dove": "WHERE/OSCAR-17卫星",
+    "lastPictures": "《最后的影像》光盘",
+    "ulises": "乌利塞斯一号卫星",
+    "artsatInvader": "ARTSAT-1“入侵者”卫星结构",
+    "artsatArt": "利用ARTSAT-1数据创作的艺术作品",
+    "innerTelescope": "爱德华多·卡茨的内望远镜",
+    "enoch": "塔瓦雷斯·斯特拉坎的ENOCH展示单元",
+    "orbitalReflector": "特雷弗·帕格伦的轨道反射器",
+    "orbitalTemple": "轨道神庙卫星"
+  }
+}

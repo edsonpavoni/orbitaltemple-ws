@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "sənət əsəri",
+    "sendAName": "ad göndərin",
+    "fromTheArtist": "rəssamdan",
+    "yetAnotherTemple": "hələ başqa məbəd?",
+    "howItWorks": "necə işləyir",
+    "spaceLaunch": "kosmik buraxılış və risklər",
+    "briefHistory": "kosmosda sənətin qısa tarixi",
+    "education": "təhsil və açıq mənbə",
+    "sustainability": "davamlılıq və kosmik zibil",
+    "press": "mətbuat və media",
+    "team": "komanda",
+    "partners": "tərəfdaşlar",
+    "support": "dəstək",
+    "technicalInfo": "texniki məlumat"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Ritualı daxil edin - Orbital Məbədinə bir ad göndərin"
+  },
+  "footer": {
+    "credits": "Orbital Məbədi Edson Pavoninin Pedro Kaled, João Pedro Polito, Victor Baptista və João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Claraisə və Rosaya, Klaraiyə göndərənlərin birgə əməkdaşlığı ilə yaradılmış sənət əsəridir. məbəd."
+  }
+}

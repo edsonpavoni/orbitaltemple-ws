@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ny zavakanto",
+    "sendAName": "mandefa anarana",
+    "fromTheArtist": "avy amin'ny mpanakanto",
+    "yetAnotherTemple": "nefa, tempoly hafa?",
+    "howItWorks": "ny fomba fiasany",
+    "spaceLaunch": "fandefasana habakabaka sy risika",
+    "briefHistory": "tantara fohy momba ny zavakanto eny amin'ny habakabaka",
+    "education": "fanabeazana & loharano misokatra",
+    "sustainability": "ny faharetana sy ny poti-tany",
+    "press": "gazety & media",
+    "team": "ekipa",
+    "partners": "mpiara-miasa",
+    "support": "MANAMPY",
+    "technicalInfo": "fampahalalana ara-teknika"
+  },
+  "ritual": {
+    "label": "fombafomba",
+    "ariaLabel": "Ampidiro ny fombafomba - Alefaso anarana any amin'ny Tempoly Orbital"
+  },
+  "footer": {
+    "credits": "Ny Tempolin'i Orbital dia sanganasan-kanto nataon'i Edson Pavoni, noforonina niarahana tamin'i Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ary ireo rehetra izay manohy mandefa ny anaran'ny tempoly."
+  }
+}

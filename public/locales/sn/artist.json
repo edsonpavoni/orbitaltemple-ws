@@ -1,0 +1,44 @@
+{
+  "title": "Kubva kuna Artist",
+  "opening": {
+    "question": "Ndiani murume uyu wekukumbira temberi muchadenga?",
+    "thanks": "Ndatenda nemubvunzo.",
+    "answer": "Mhinduro pfupi ndeyokuti ndiri nyanzvi. Iyo yakareba ndeiyi:"
+  },
+  "origin": {
+    "sao_paulo": "Ndakaberekerwa nechokunze kweSão Paulo, munharaunda yakandidzidzisa ndichiri muduku zvinoreva ngozi. Shamwari dzangu dzakawanda dzokuchikoro dziri mujeri iye zvino. Step father vangu vari mujeri. Mhirizhonga yakanga isiri chinhu chandaiverenga nezvacho, yakanga iri nyika yandaifanira kufamba nayo. Uye ndakaziva kuti ndaifanira kutiza.",
+    "technology": "Technology yakava nzira yangu yekubuda. Ndakadzidza kuronga, ndakadzidza zvemagetsi ndichiri mudiki. Kodhi waiva mutauro waigona kundiendesa kumwewo. Kushanda neteknolojia ndiko kwaiva kutiza kwangu kubva muurombo.",
+    "christianity": "Asi ndakanga ndichitsvakawo kuva munhu, rudo, chimwe chinhu chokudavira machiri. Ndakawana chiKristu, kana kuti chakandiwana. Ndakagamuchirwa. Ndaidiwa. Ndaive nenharaunda. Ndakadzidza kuregerera, kutenda, kufamba pamwe chete nechinangwa chikuru.",
+    "price": "Mutengo wacho, kunyange zvakadaro, wakanga wakakwirira. Ndakadzidzawo zvinhu zvakawanda zvandisati ndadzidza. Saka neniwo ndakatiza."
+  },
+  "searching": {
+    "walls": "Ndinoziva zvinoitwa nemadziro. Ndavanzwa. Ndanga ndiri kumativi ose: ndakachengetwa, ndakachengetwa. Zvakazotevera aiva makore ekutsvaga chimwe chinhu chandisingagoni kudoma zita. Mwari akafa mumakore iwayo. Mwari wandakanga ndadzidziswa nezvake, zvakadaro, uyo ane mitemo nekutonga uye mikova inongovhurira vamwe vanhu.",
+    "art": "Ndakatanga kugadzira hunyanzvi kuti ndiongorore mibvunzo iyi: nezvehukama hwepedyo uye tekinoroji, nezvendangariro nerufu, nezvekuti ndiani anofanirwa nedenga. Ndakatanga kugadzira michina inofungidzira hukama hwedu nehunyanzvi, michina inoda kutora chikamu chako, kuvepo kwako, zita rako, kushandura kubva kusimbi nekodhi kuita chimwe chinhu chipenyu."
+  },
+  "pandemic": {
+    "intro": "Ipapo denda rakarova Brazil.",
+    "government": "Pakanonokerwa vaccines yeCOVID, hurumende yangu yaiita nhaurirano dzekudzosera dhora rimwe padosi. Vakasimudzira mushonga unonzwisiswa kuti haushande, kuseka vanhu vachifa vachinetseka nekufema. Taimuka zuva nezuva kune nhamba yakasiyana. Vanhu vangani vakafa mumaawa makumi maviri nemana apfuura? Zvakanga zvakawanda here, kana kuti zvishoma pane zvaitarisirwa?",
+    "war": "Hafu yenyika yaitya, uye imwe hafu yakanga iri mukuramba. Takanga tiri muhondo, neutachiona uye nomumwe nomumwe.",
+    "memorial": "Ini ndaida kugadzira nzvimbo yekusuwa pamwe chete, saka pamwe nemazana evanhu ndakagadzira Chirangaridzo Inumeráveis. I artwork pamharadzano ye art uye journalism. Takabvunzurudza mhuri dzakanga dzarasikirwa nomumwe munhu. Takanyora nhoroondo yehupenyu hwemunhu wavakarasikirwa. Takashandura nhamba kuita nhoroondo. Nhetembo, nziyo, masifoni akaitwa nenhoroondo idzodzo. Nyeredzi dzakaverenga nyaya idzodzo paterevhizheni yenyika. Basa racho rakasvika mamiriyoni.",
+    "meaning": "Chaikosha kwaisava chiyero, chaive chekuti nyaya imwe neimwe yaive zita, hupenyu, denga remunhu."
+  },
+  "discovery": {
+    "pattern": "Pashure pehurukuro dzinopfuura zviuru gumi neshungu, chimiro chakatanga kubuda. Kana tichitaura nezvemunhu akafa, hatingotauri zvinhu zvakanaka; tinosarudza zvidimbu zvenyaya yavo sekunge tiri kunyora tsamba yekurumbidza. Kurudziro kumuchengeti wesuwo reparadhiso. Isu tinoita zvatinokwanisa kuti tivatumire kunzvimbo yekugamuchirwa, kuzorora, kukudzwa uye ndangariro.",
+    "understanding": "Uye ndakanzwisisa chimwe chinhu chakashandura zvese: Takakuvadzwa nematemberi chaiwo atakavaka. Zvatinotenda pamusoro pekuti ndiani anofanirwa nedenga zvinoumba ani watisingasanganisire paNyika. Vagari vechiPutukezi muBrazil vaitenda kuti vanhu vatema vakanga vasina mweya; kutenda ikoko kwairuramisa uranda. Kana waive chizvarwa, kana wakazvarirwa panzvimbo isiri iyo kana kuti wakada munhu asiri iye, waiudzwa kuti mikova yedenga yakavharwa kwauri.",
+    "birth": "Ndiko kuzvarwa kwakaita Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Hapana muimbi anogona kunge ari wenyika zvechokwadi. Isu tinogara takasungirirwa kuna tateguru wedu, shaman. Pakutanga kwaiva nebako. Vanhu vakapenda mhuka pamadziro kwete kushongedza, asi kuti invoke. Vakatamba, uye bako rikava temberi. Shaman inoshandisa mweya wetsika; muimbi anoshandisa aura yehunyanzvi. Isu tinopenda, tinoveza, tinonyora, tinogadzira ramangwana redu ratinoda kwete rekushongedza, asi kukumbira. Unyanzvi hwese ndehwemweya, kunyangwe pahunoti handizvo."
+  },
+  "space": {
+    "question": "Taizovaka kupi temberi isina madziro? Uko kusina rudzi kana kuti chitendero chaigona kutaura. Kwataigona kuzvifungidzira tiri boka rimwe.",
+    "answer": "Nzvimbo.",
+    "description": "Satellite inobatanidzwa yehunyanzvi kubva kuGlobal South. Temberi inotenderera inokoka munhu wese kuti atumire mazita avo muchadenga, zvisinei nekuti ndivanaani, kwaakaberekerwa, waanoda, zvaanotenda. Nzvimbo iyo kusanganisa kwakasimba kunogoneka, mukutenderera, kupfuura miganhu.",
+    "mission": "Iyi mission ndeye open source. Gwaro rega rega rehunyanzvi, mutsara wega wega wekodhi ichave inowanikwa mahara kuitira kuti mamwe maartist, dzimwe nharaunda, dzimwe nyika dzivake dzadzo setiraiti. Saka iyo Global South haingotore chikamu mukutsvagisa nzvimbo, asi inotungamira."
+  },
+  "closing": {
+    "answer": "Saka ndiani murume uyu wekuvaka temberi muchadenga? handisi kuvaka. Temberi inovakwa nemunhu wese anosarudza kutumira zita, kuriona serinoyera, kuriita rechokwadi. Ini chete ndini ndiri kufunga. Iwe ndiwe unoivaka kana wafunga.",
+    "signature": "Nenyasha,",
+    "name": "Edson Pavoni"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cael eich Hysbysu - Teml Orbital",
+  "heading": "Cael Hysbysiad Pan Fydd yn Codi",
+  "description": "Ar Dachwedd 28, 2025, bydd y Deml Orbital yn esgyn.<br> Gadewch eich e-bost, a byddwn yn dweud wrthych pan fydd yn cyrraedd y gofod.",
+  "form": {
+    "emailPlaceholder": "eich@ebost.com",
+    "sendButton": "Anfon",
+    "sendingButton": "Yn anfon...",
+    "successMessage": "Byddwn yn cyrraedd atoch pan fydd yn esgyn.",
+    "errorMessage": "Aeth rhywbeth o'i le. Rhowch gynnig arall arni."
+  },
+  "backLink": "← Yn ôl i'r cyfrif i lawr"
+}

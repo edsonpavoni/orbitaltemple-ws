@@ -1,0 +1,44 @@
+{
+  "title": "Tính bền vững và mảnh vỡ không gian - Orbital Temple",
+  "heading": "Tính bền vững",
+  "intro": {
+    "paragraph1": "Nếu nghệ thuật muốn dẫn dắt chúng ta đến tương lai, nó không thể bỏ qua những cuộc khủng hoảng mà chúng ta đang phải đối mặt—sự sụp đổ của môi trường, bất bình đẳng xã hội, và thách thức ngày càng gia tăng của rác thải vũ trụ. Orbital Temple được thiết kế dựa trên những thực tế này, với mục tiêu trở thành một hiện diện có trách nhiệm cả trên Trái Đất và trên quỹ đạo.",
+    "paragraph2": "Chúng tôi tin rằng tính bền vững không phải là một rào cản mà là một phần thiết yếu trong tầm nhìn nghệ thuật của chúng tôi. Mọi quyết định về vật liệu, quỹ đạo và hoạt động đều phản ánh cam kết của chúng tôi trong việc mang lại cho Trái Đất và không gian một cuộc sống tốt đẹp hơn khi chúng ta đến với chúng."
+  },
+  "spaceDebris": {
+    "heading": "Mảnh vỡ không gian",
+    "paragraph1": "Rác vũ trụ là một trong những thách thức cấp bách nhất đối với hoạt động thám hiểm không gian. Hàng ngàn vệ tinh và mảnh vỡ không còn hoạt động quay quanh Trái Đất, đe dọa các sứ mệnh đang thực hiện và tạo ra hiệu ứng dây chuyền có thể khiến một số quỹ đạo không thể sử dụng được.",
+    "paragraph2": "Orbital Temple giải quyết vấn đề này theo nhiều cách:",
+    "list": {
+      "orbit": "<strong>Quỹ đạo đồng bộ Mặt Trời ở độ cao 525 km:</strong> Độ cao này đảm bảo lực cản khí quyển tự nhiên sẽ khiến vệ tinh quay trở lại khí quyển Trái Đất trong vòng khoảng 10 năm, nơi nó sẽ bốc cháy hoàn toàn. Chúng tôi không góp phần tạo ra các mảnh vỡ quỹ đạo dài hạn.",
+      "size": "<strong>Thiết kế PocketQube:</strong> Với kích thước chỉ 50×58×64mm và trọng lượng 245g, vệ tinh này đủ nhỏ để bốc hơi hoàn toàn khi quay trở lại bầu khí quyển, không để lại mảnh vụn nào trên bề mặt Trái Đất.",
+      "responsibility": "<strong>Không có sự lỗi thời theo kế hoạch:</strong> Không giống như các vệ tinh thương mại có thể bị bỏ hoang, Orbital Temple được thiết kế để tự động rời khỏi quỹ đạo, đáp ứng các hướng dẫn quốc tế về hoạt động không gian có trách nhiệm."
+    },
+    "paragraph3": "Bằng cách chọn quỹ đạo Trái Đất thấp và thiết kế nhỏ gọn, chúng tôi đảm bảo sự hiện diện của Orbital Temple trong không gian chỉ là tạm thời và không gây ô nhiễm."
+  },
+  "carbonNeutrality": {
+    "heading": "Trung hòa Carbon",
+    "content": "Toàn bộ lượng khí thải carbon liên quan đến Orbital Temple—bao gồm sản xuất vệ tinh, phóng, vận hành trạm mặt đất, lưu trữ trang web và chi phí di chuyển của đội—sẽ được bù đắp hoàn toàn thông qua các chương trình tín dụng carbon đã được xác minh. Chúng tôi cam kết thực hiện sứ mệnh này với mục tiêu trung hòa khí hậu."
+  },
+  "openSource": {
+    "heading": "Phần cứng nguồn mở",
+    "paragraph1": "Tính bền vững cũng có nghĩa là không lãng phí kiến thức. Mọi khía cạnh kỹ thuật của Orbital Temple—sơ đồ, mã, giao thức truyền thông và phương pháp xây dựng—sẽ được xuất bản dưới dạng tài liệu nguồn mở.",
+    "paragraph2": "Điều này cho phép các sứ mệnh tương lai được xây dựng dựa trên công trình của chúng tôi thay vì phải bắt đầu từ con số 0, giảm thiểu các nghiên cứu và phát triển dư thừa. Nó dân chủ hóa khả năng tiếp cận công nghệ vũ trụ, đặc biệt là đối với các cộng đồng ở Nam Bán cầu, những người trước đây bị loại trừ khỏi hoạt động thám hiểm không gian."
+  },
+  "educational": {
+    "heading": "Tác động giáo dục",
+    "paragraph1": "Chương trình giáo dục đa ngôn ngữ miễn phí của chúng tôi hướng dẫn học sinh trên toàn thế giới cách chế tạo và phóng vệ tinh, tập trung vào Nam Bán Cầu. Bằng cách trang bị cho thế hệ tương lai các kỹ năng công nghệ vũ trụ, chúng tôi góp phần thu hẹp \"Khoảng cách Không gian\" và tạo ra những cơ hội mà nếu không có chúng, chúng tôi sẽ không thể có được.",
+    "paragraph2": "Sứ mệnh giáo dục này tự nó là một hình thức bền vững - đầu tư vào con người và cộng đồng để tạo ra sự thay đổi lâu dài vượt ra ngoài vòng đời của vệ tinh."
+  },
+  "tenYear": {
+    "heading": "Sứ mệnh 10 năm",
+    "paragraph1": "Orbital Temple được thiết kế cho một sứ mệnh kéo dài cả thập kỷ, chứ không phải một chiêu trò quảng cáo ngắn ngủi. Trong hơn mười năm, vệ tinh này sẽ bay quanh Trái Đất khoảng 50.000 lần, nhận tên và đóng vai trò như một lời nhắc nhở rằng không gian có thể là một tài sản chung, dành cho tất cả mọi người.",
+    "paragraph2": "Sau khi nhiệm vụ kết thúc, vệ tinh sẽ tự động rời khỏi quỹ đạo và bốc cháy, không để lại dấu vết nào ngoại trừ trong ký ức và tài liệu của những người tham gia."
+  },
+  "artsResponsibility": {
+    "heading": "Trách nhiệm của nghệ thuật",
+    "paragraph1": "Nghệ thuật luôn là tấm gương phản chiếu thời đại, phản ánh các giá trị và khát vọng của chúng ta. Trong thời đại khủng hoảng khí hậu và bất bình đẳng ngày càng gia tăng, chúng tôi tin rằng các nghệ sĩ có trách nhiệm sáng tạo những tác phẩm không chỉ phản ánh mà còn chủ động giải quyết những vấn đề này.",
+    "paragraph2": "Orbital Temple là nỗ lực của chúng tôi nhằm tạo ra một tác phẩm nghệ thuật mang tính toàn diện, có trách nhiệm với tác động môi trường và hào phóng chia sẻ kiến thức với thế giới. Đây là nghệ thuật mời gọi mọi người cùng tham gia, đồng thời tôn trọng các hệ thống mong manh - môi trường và quỹ đạo - vốn tạo nên sự sống và khả năng khám phá."
+  },
+  "imageAlt": "Vệ tinh Orbital Temple"
+}

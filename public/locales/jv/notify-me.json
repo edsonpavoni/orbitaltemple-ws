@@ -1,0 +1,13 @@
+{
+  "title": "Notified - Orbital Temple",
+  "heading": "Dikabari Nalika Muncul",
+  "description": "Tanggal 28 November 2025, Candhi Orbital bakal munggah.<br> Ninggalake e-mail, lan kita bakal pitutur marang kowe nalika tekan papan.",
+  "form": {
+    "emailPlaceholder": "sampeyan@email.com",
+    "sendButton": "Ngirim",
+    "sendingButton": "Ngirim...",
+    "successMessage": "Kita bakal tekan nalika munggah.",
+    "errorMessage": "Ana sing salah. Coba maneh."
+  },
+  "backLink": "← Bali menyang countdown"
+}

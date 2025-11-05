@@ -1,0 +1,16 @@
+{
+  "title": "Kosmosa buraxılış - Orbital Məbədi",
+  "heading": "Kosmosa buraxılış",
+  "intro": "Orbital Məbədin Hindistanın Şriharikota şəhərindəki Satish Dhawan Kosmik Mərkəzindən 28 noyabr 2025-ci ildə PSLV (Polar Satellite Launch Vehicle) göyərtəsində buraxılması planlaşdırılır.",
+  "partnership": "Orbital Məbədin buraxılışı Antrix Korporasiyasının Kosmik Departamentinin nəzdində Hindistan Hökuməti şirkəti olan NewSpace India Limited (NSIL) və rəssam arasında əməkdaşlıqdır. Bu əməkdaşlıq Hindistanın kosmos proqramını radikal inklüzivliyin bədii vizyonu ilə bir araya gətirərək, kosmik tədqiqatlarda sənət üçün mühüm mərhələni təmsil edir.",
+  "risks": {
+    "heading": "Risklər",
+    "paragraph1": "Peyk ekstremal vibrasiya şəraitinə və istilik dövrlərinə tab gətirmək üçün qurulmuş və ciddi sınaqlardan keçmişdir. Bununla belə, kosmosa buraxılışlar özünəməxsus risklər daşıyır. Əgər peyk buraxılış və ya yerləşdirmə zamanı zədələnərsə və ya o, yerüstü stansiyalarımızla əlaqə qura bilməsə, biz hər hansı problemi aradan qaldırmağa və həll etməyə çalışacağıq. Peyk missiyanın uğur şansını artırmaq üçün nəzərdə tutulmuş ehtiyat sistemlərə və ehtiyat protokollara malikdir.",
+    "paragraph2": "Bundan əlavə, atmosfer şəraiti və ya digər amillər orbitin daha erkən çürüməsinə səbəb olarsa, peyk orbitdə 10 ildən az qala bilər. Biz onu ən azı on il davam edəcək şəkildə dizayn etsək də, faktiki istifadə müddəti tam nəzarət edə bilməyəcəyimiz şərtlərdən asılıdır.",
+    "paragraph3": "Əgər ilk buraxılış uğursuz olarsa və ya bu missiyanı planlaşdırıldığı kimi yerinə yetirə bilməsək, potensial olaraq mövcud büdcə ilə ikinci buraxılış cəhdi, digər missiyalarla əməkdaşlıq və ya cəhdin sənədləşdirilməsi daxil olmaqla, irəliyə doğru alternativ yolları araşdıracağıq."
+  },
+  "imageAlts": {
+    "india": "ISRO Kosmik Mərkəzi, Hindistan",
+    "satellite": "Orbital Məbədin peyki"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ekipi - Tempelo ya Orbital",
+  "heading": "Ekipe",
+  "artist": "Edson Pavoni, mosali ya mayemi",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Producteur Exécutif",
+      "members": "Sathi Roy, oyo azali"
+    },
+    "aerospace": {
+      "heading": "Ingénierie Aérospatiale & Systèmes",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ingénierie Électronique",
+      "members": "André Biagioni, João Pedro Polito & V. K., mpe basusu"
+    },
+    "software": {
+      "heading": "Logiciel",
+      "members": "Yonatane Kerubina"
+    },
+    "design": {
+      "heading": "Design mpe Architecture",
+      "members": "Guilherme Bullejos azali moto ya mayele"
+    },
+    "printing": {
+      "heading": "Impression 3D na ndenge ya 3D",
+      "members": "Concepts solides, na bokambi ya Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Kosala na 3D",
+      "members": "Guilherme Bullejos & RiseNy&Ba partenaires"
+    },
+    "research": {
+      "heading": "Bolukiluki",
+      "members": "Roberta Savian Rosa & Clara Marques, oyo bazali na mbongo mingi"
+    },
+    "exhibition": {
+      "heading": "Production ya Exposition, Photographie & Création ya Contenu",
+      "members": "Clara Marques, oyo azali na mbongo mingi"
+    },
+    "silkScreen": {
+      "heading": "Exposition ya Soie Screening",
+      "members": "Daphne Alves, oyo azali na mbongo mingi"
+    },
+    "educational": {
+      "heading": "Projet ya mateya",
+      "members": "Esika ya makanisi"
+    },
+    "communication": {
+      "heading": "Ekipi ya bopanzi sango",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Caire"
+    },
+    "specialThanks": {
+      "heading": "Matondo mingi",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington, oyo bazali na mbongo mingi te"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Caire, Conceitos Sólidos, RiseNY&Ba partenaires, Esika ya makanisi",
+  "imageAlt": "Satellite ya Tempelo ya Orbital"
+}

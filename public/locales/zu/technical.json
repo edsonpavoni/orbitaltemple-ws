@@ -1,0 +1,17 @@
+{
+  "title": "Ulwazi Lobuchwepheshe - Ithempeli le-Orbital",
+  "heading": "Ulwazi Lobuchwepheshe",
+  "satellite": {
+    "heading": "Isathelayithi",
+    "specs": "Ubukhulu: 50x58x64 mm<br /> I-1P PocketQube<br /> Isisindo: 245 g<br /> Izinto zokwakha: i-aluminium, igolide, i-fiberglass, nezinto ze-elekthronikhi.<br /> I-Orbit: Ukuphakama 525 ± 25 km; ukuthambekela: SSO 97.6 ± 0.1°<br /> Isiqalisi: I-PSLV (Imoto Yokuqalisa I-Satellite Polar) esetshenziswa yi-ISRO"
+  },
+  "antenna": {
+    "heading": "I-Antenna/Sculpture",
+    "specs": "Ubukhulu: 6 m (ububanzi) futhi 1.2m (ubude)<br /> Isisindo: 46 kg<br /> Izinto: i-aluminium, ibhodi elinesibuko se-epoxy, idome le-aluminium yegolide elimiswe ngesakhiwo sesikafula."
+  },
+  "radio": {
+    "heading": "I-Radio Specs",
+    "specs": "Isixhumanisi esiphansi: 468.5 MHz<br /> Ukuguquguquka: CSS<br /> Umkhawulokudonsa: TBD"
+  },
+  "imageAlt": "I-Orbital Temple Satellite"
+}

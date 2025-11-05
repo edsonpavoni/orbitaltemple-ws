@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability at Space Debris - Orbital Temple",
+  "heading": "Sustainability",
+  "intro": {
+    "paragraph1": "Kung ang sining ay magdadala sa atin sa hinaharap, hindi nito maaaring balewalain ang mga krisis na ating kinakaharap—pagbagsak ng kapaligiran, hindi pagkakapantay-pantay ng lipunan, at ang lumalaking hamon ng mga labi ng kalawakan. Ang Orbital Temple ay idinisenyo nang nasa isip ang mga katotohanang ito, na naglalayong maging responsableng presensya sa Earth at sa orbit.",
+    "paragraph2": "Naniniwala kami na ang pagpapanatili ay hindi isang hadlang ngunit isang mahalagang bahagi ng aming artistikong pananaw. Ang bawat desisyon tungkol sa mga materyales, orbit, at operasyon ay sumasalamin sa aming pangako sa pag-alis sa Earth at sa espasyo nang mas mahusay kaysa sa nakita namin sa kanila."
+  },
+  "spaceDebris": {
+    "heading": "Space Debris",
+    "paragraph1": "Ang mga space debris ay isa sa mga pinakamabigat na hamon na kinakaharap sa paggalugad sa kalawakan. Libu-libong mga hindi na gumaganang satellite at mga fragment ang umiikot sa Earth, nagbabanta sa mga aktibong misyon at lumilikha ng isang cascade effect na maaaring gumawa ng ilang mga orbit na hindi magamit.",
+    "paragraph2": "Tinutugunan ito ng Orbital Temple sa maraming paraan:",
+    "list": {
+      "orbit": "<strong>Sun-synchronous orbit sa 525 km:</strong> Tinitiyak ng altitude na ito ang natural atmospheric drag na magdudulot sa satellite na muling pumasok sa atmosphere ng Earth sa loob ng humigit-kumulang 10 taon, kung saan ito ay ganap na masusunog. Hindi kami nag-aambag sa pangmatagalang orbital debris.",
+      "size": "<strong>Disenyo ng PocketQube:</strong> Sa 50 × 58 × 64mm at 245g lamang, ang satellite ay sapat na maliit upang ganap na mag-vaporize sa panahon ng muling pagpasok, na walang iniiwan na mga labi sa ibabaw ng Earth.",
+      "responsibility": "<strong>Walang nakaplanong pagkaluma:</strong> Hindi tulad ng mga komersyal na satellite na maaaring iwanan, ang Orbital Temple ay idinisenyo upang natural na mag-deorbit, na tumutupad sa mga internasyonal na alituntunin para sa responsableng aktibidad sa kalawakan."
+    },
+    "paragraph3": "Sa pamamagitan ng pagpili ng mababang Earth orbit at isang compact na disenyo, tinitiyak namin na ang presensya ng Orbital Temple sa kalawakan ay pansamantala at hindi nakakadumi."
+  },
+  "carbonNeutrality": {
+    "heading": "Carbon Neutrality",
+    "content": "Lahat ng carbon emissions na nauugnay sa Orbital Temple—kabilang ang satellite manufacturing, launch, ground station operations, website hosting, at team travel—ay ganap na ma-offset sa pamamagitan ng mga na-verify na carbon credit program. Nakatuon kami na gawing neutral sa klima ang misyon na ito."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Ang sustainability ay nangangahulugan din ng hindi pag-aaksaya ng kaalaman. Ang bawat teknikal na aspeto ng Orbital Temple—mga eskematiko, code, mga protocol ng komunikasyon, at mga paraan ng pagtatayo—ay ilalathala bilang open source na dokumentasyon.",
+    "paragraph2": "Nagbibigay-daan ito sa mga hinaharap na misyon na buuin sa ating trabaho sa halip na magsimula sa simula, na binabawasan ang kalabisan na pananaliksik at pag-unlad. Ginagawa nitong demokrasya ang pag-access sa teknolohiya sa kalawakan, partikular para sa mga komunidad sa Global South na makasaysayang hindi kasama sa paggalugad sa kalawakan."
+  },
+  "educational": {
+    "heading": "Epekto sa Edukasyon",
+    "paragraph1": "Ang aming libreng multilingual na programang pang-edukasyon ay nagtuturo sa mga mag-aaral sa buong mundo kung paano bumuo at maglunsad ng mga satellite, na may pagtuon sa Global South. Sa pamamagitan ng pagbibigay kapangyarihan sa susunod na henerasyon ng mga kasanayan sa teknolohiya sa espasyo, nag-aambag kami sa pagsasara ng \"Space Gap\" at paglikha ng mga pagkakataon na kung hindi man ay wala na.",
+    "paragraph2": "Ang misyong pang-edukasyon na ito mismo ay isang anyo ng pagpapanatili—pag-invest sa mga tao at komunidad upang lumikha ng pangmatagalang pagbabago na lampas sa haba ng buhay ng satellite."
+  },
+  "tenYear": {
+    "heading": "Isang 10-Taong Misyon",
+    "paragraph1": "Ang Orbital Temple ay idinisenyo para sa isang dekadang misyon, hindi isang maikling publisidad. Sa paglipas ng sampung taon, ang satellite ay mag-oorbit sa Earth nang humigit-kumulang 50,000 beses, tumatanggap ng mga pangalan at nagsisilbing paalala na ang espasyo ay maaaring maging commons, na mapupuntahan ng lahat.",
+    "paragraph2": "Pagkatapos ng misyon nito, natural na magde-de-orbit at masunog ang satellite, na walang iniiwan na bakas maliban sa mga alaala at dokumentasyon ng mga lumahok."
+  },
+  "artsResponsibility": {
+    "heading": "Pananagutan ni Art",
+    "paragraph1": "Ang sining ay palaging salamin ng panahon nito, na sumasalamin sa ating mga halaga at adhikain. Sa panahon ng krisis sa klima at lumalaking hindi pagkakapantay-pantay, naniniwala kaming may responsibilidad ang mga artista na lumikha ng gawaing hindi lamang nagkokomento sa mga isyung ito ngunit aktibong tumutugon sa mga ito.",
+    "paragraph2": "Ang Orbital Temple ay ang aming pagtatangka na lumikha ng isang likhang sining na radikal sa pagiging kasama nito, responsable sa epekto nito sa kapaligiran, at bukas-palad sa pagbabahagi ng kaalaman nito sa mundo. Ito ay sining na nag-aanyaya sa lahat na lumahok habang iginagalang ang mga marupok na sistema—pangkapaligiran at orbital—na ginagawang posible ang buhay at paggalugad."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

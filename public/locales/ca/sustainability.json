@@ -1,0 +1,44 @@
+{
+  "title": "Sostenibilitat i deixalles espacials - Orbital Temple",
+  "heading": "Sostenibilitat",
+  "intro": {
+    "paragraph1": "Si l'art ha de guiar-nos cap al futur, no pot ignorar les crisis a què ens enfrontem: el col·lapse mediambiental, la desigualtat social i el creixent repte de les deixalles espacials. Orbital Temple està dissenyat tenint en compte aquestes realitats, amb l'objectiu de ser una presència responsable tant a la Terra com en òrbita.",
+    "paragraph2": "Creiem que la sostenibilitat no és una limitació, sinó una part essencial de la nostra visió artística. Cada decisió sobre materials, òrbites i operacions reflecteix el nostre compromís de deixar tant la Terra com l'espai millors del que els vam trobar."
+  },
+  "spaceDebris": {
+    "heading": "Deixalles espacials",
+    "paragraph1": "Les deixalles espacials són un dels reptes més urgents als quals s'enfronta l'exploració espacial. Milers de satèl·lits i fragments fora de funcionament orbiten la Terra, amenaçant les missions actives i creant un efecte cascada que podria inutilitzar certes òrbites.",
+    "paragraph2": "Orbital Temple aborda això de diverses maneres:",
+    "list": {
+      "orbit": "<strong>Òrbita heliosíncrona a 525 km:</strong> Aquesta altitud garanteix que l&#39;arrossegament atmosfèric natural farà que el satèl·lit torni a entrar a l&#39;atmosfera terrestre en uns 10 anys, on es cremarà completament. No estem contribuint a la generació de deixalles orbitals a llarg termini.",
+      "size": "<strong>Disseny de PocketQube:</strong> Amb només 50 × 58 × 64 mm i 245 g, el satèl·lit és prou petit per vaporitzar-se completament durant la reentrada, sense deixar restes a la superfície de la Terra.",
+      "responsibility": "<strong>Sense obsolescència programada:</strong> a diferència dels satèl·lits comercials que poden ser abandonats, Orbital Temple està dissenyat per sortir de l&#39;òrbita de manera natural, complint les directrius internacionals per a una activitat espacial responsable."
+    },
+    "paragraph3": "En triar una òrbita terrestre baixa i un disseny compacte, garantim que la presència del Temple Orbital a l'espai sigui temporal i no contaminant."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralitat de carboni",
+    "content": "Totes les emissions de carboni associades amb Orbital Temple, inclosa la fabricació de satèl·lits, el llançament, les operacions de l'estació terrestre, l'allotjament web i els viatges de l'equip, es compensaran completament mitjançant programes de crèdits de carboni verificats. Estem compromesos a fer que aquesta missió sigui climàticament neutra."
+  },
+  "openSource": {
+    "heading": "Maquinari de codi obert",
+    "paragraph1": "La sostenibilitat també significa no malgastar coneixement. Tots els aspectes tècnics d'Orbital Temple (esquemes, codi, protocols de comunicació i mètodes de construcció) es publicaran com a documentació de codi obert.",
+    "paragraph2": "Això permet que les futures missions es basin en la nostra feina en lloc de començar de zero, reduint la recerca i el desenvolupament redundants. Democratitza l'accés a la tecnologia espacial, especialment per a les comunitats del Sud Global que històricament han estat excloses de l'exploració espacial."
+  },
+  "educational": {
+    "heading": "Impacte educatiu",
+    "paragraph1": "El nostre programa educatiu multilingüe gratuït ensenya a estudiants de tot el món com construir i llançar satèl·lits, amb un enfocament en el Sud Global. En capacitar la propera generació amb habilitats de tecnologia espacial, contribuïm a tancar la \"bretxa espacial\" i a crear oportunitats que d'altra manera no existirien.",
+    "paragraph2": "Aquesta missió educativa és en si mateixa una forma de sostenibilitat: invertir en persones i comunitats per crear un canvi durador més enllà de la vida útil del satèl·lit."
+  },
+  "tenYear": {
+    "heading": "Una missió de 10 anys",
+    "paragraph1": "Orbital Temple està dissenyat per a una missió d'una dècada de durada, no per a un breu espectacle publicitari. Durant deu anys, el satèl·lit orbitarà la Terra aproximadament 50.000 vegades, rebrà noms i servirà com a recordatori que l'espai pot ser un bé comú, accessible per a tothom.",
+    "paragraph2": "Després que la seva missió conclogui, el satèl·lit sortirà de l'òrbita de manera natural i es cremarà, sense deixar cap rastre excepte en els records i la documentació dels que hi van participar."
+  },
+  "artsResponsibility": {
+    "heading": "La responsabilitat de l'art",
+    "paragraph1": "L'art sempre ha estat un mirall del seu temps, reflectint els nostres valors i aspiracions. En una era de crisi climàtica i creixent desigualtat, creiem que els artistes tenen la responsabilitat de crear obres que no només comentin aquests temes, sinó que els abordin activament.",
+    "paragraph2": "Orbital Temple és el nostre intent de crear una obra d'art radical en la seva inclusió, responsable en el seu impacte ambiental i generosa en compartir el seu coneixement amb el món. És un art que convida tothom a participar respectant els sistemes fràgils —ambientals i orbitals— que fan possible la vida i l'exploració."
+  },
+  "imageAlt": "Satèl·lit orbital del Temple"
+}

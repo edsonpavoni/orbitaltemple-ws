@@ -1,0 +1,13 @@
+{
+  "title": "Be Notified - Yeekaalu ya Orbital",
+  "heading": "Okutegeezebwa Nga Kisituka",
+  "description": "Nga November 28, 2025, Yeekaalu ya Orbital egenda kulinnya.<br> Leka e-mail yo, tujja kukubuulira nga etuuse mu bwengula.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Okutuma",
+    "sendingButton": "Okusindika...",
+    "successMessage": "Tujja kukutuukako nga kinaalinnya.",
+    "errorMessage": "Waliwo ekyatambula obubi. Nsaba oddemu ogezeeko."
+  },
+  "backLink": "← Okudda ku kubala okudda emabega"
+}

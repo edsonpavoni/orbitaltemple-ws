@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "nga bw’oyingira\nomukolo\nokusindika erinnya\nmu...\nyeekaalu ey’enkulungo\nmu bwengula\ntwaala\nomukka ogw’amaanyi",
+    "button": "ndi mwetegefu"
+  },
+  "nameInput": {
+    "title": "wandiika erinnya",
+    "subtitle": "kijja kusituka okutuuka ku Orbital Temple mu bwengula.",
+    "placeholder": "erinnya",
+    "button": "ka kigende waggulu"
+  },
+  "emailInput": {
+    "title": "wandiika email yo",
+    "subtitle": "kale ofuna obubaka ng’erinnya lirinnya.",
+    "placeholder": "email yo",
+    "button": "kikolebwa"
+  },
+  "loading": {
+    "alt": "Okutikka"
+  },
+  "success": {
+    "text": "erinnya\n{{erinnya}}\nkati eri mu nnyiriri\nolw’okulinnya mu ggulu.\nbwe kiba nti...\nyeekaalu mu bwengula\naligns, ne\nantenna yaffe\nku Nsi\ntujja kusindika\nerinnya\nera ojja kufuna\nobubaka."
+  }
+}

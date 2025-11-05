@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "uko winjiye\numuhango\nKohereza Izina\nin\nurusengero rwa orbital\nmu kirere\nfata\numwuka",
+    "button": "Niteguye"
+  },
+  "nameInput": {
+    "title": "andika izina",
+    "subtitle": "izazamuka igere kuri Orbital Temple mu kirere.",
+    "placeholder": "izina",
+    "button": "reka izamuke"
+  },
+  "emailInput": {
+    "title": "andika imeri yawe",
+    "subtitle": "urabona rero ubutumwa iyo izina rizamutse.",
+    "placeholder": "imeri yawe",
+    "button": "birakorwa"
+  },
+  "loading": {
+    "alt": "Kuremera"
+  },
+  "success": {
+    "text": "izina\n{{izina}}\nni umurongo\nyo kuzamuka.\nigihe\nurusengero mu kirere\nguhuza, hamwe\nantenne yacu\nkwisi\ntwohereze\nizina\nkandi uzakira\nubutumwa."
+  }
+}

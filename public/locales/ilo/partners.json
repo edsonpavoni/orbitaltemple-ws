@@ -1,0 +1,50 @@
+{
+  "title": "Dagiti Kakadua - Orbital a Templo",
+  "heading": "Dagiti Kakadua",
+  "intro": "Adda ti Orbital Temple babaen ti kinaparabur, kinalaing, ken sirmata dagiti naisangsangayan a kasosyo. Manipud kadagiti satellite ti inhenieria agingga iti panagaramid kadagiti salaysay, manipud pananglukat kadagiti ruangan kadagiti adayo a daga agingga iti panangipuruak kadagiti arapaap iti balitok, tunggal panagtitinnulong iyasidegna daytoy a templo kadagiti bituen.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Dagiti Kakadua",
+      "description": "Ti komunikasion, naikaykaysa a kapadasan ken nakaskasdaaw a 3D render imagery a nangyeg iti biag iti panagkita ti satellite sakbay a sinagidna ti kinaawan ti law-ang."
+    },
+    "highestMantra": {
+      "name": "Ti Kangatuan a Mantratayo",
+      "description": "Indauluan ni Sathi Roy, a mangikonektar iti Orbital Temple kadagiti naespirituan ken artistiko a komunidad ti India. Pananglukat kadagiti dalan iti panagurnong iti pondo, panagsinnukat ti kultura, ken maysa nga eksibision ti Art Basel kalpasan ti pannakairuar idi Nobiembre 2025."
+    },
+    "allToSpace": {
+      "name": "Amin iti Law-ang",
+      "description": "Dagiti espesialista iti babassit a satellite ti Brazil. Uppat a tawen a panagtitinnulong a nangibangon iti open source hardware platform ken panangirugi iti proseso a mangipatulod iti arte iti orbit manipud iti Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organisasion ti Panagsukisok iti Law-ang ti India. Launch provider para iti mision ti PSLV a mangawit iti Orbital Temple iti sun-synchronous orbit idi Nobiembre 2025."
+    },
+    "mercosul": {
+      "name": "Maika-13 a Biennial ti Mercosur",
+      "description": "Porto Alegre, Brasil. Inurnos babaen ni Marcello Dantas a kaduana dagiti katulongan a kurator a da Laura Cattani, Munir Klamt, Tarsila Riso, ken Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Taller ti ArtSat",
+      "description": "Nabukel ti satellite development team bayat ti II ArtSat Workshop. Inurnos ni Fabiane M. Borges, inbilin ni Lázaro Camargo, titinnulong ni Ítalo Pinto Rodrigues, nga inmaton ni Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Natibker a Konsepto",
+      "description": "Indauluan ni Eduardo Dias. Amin a 3D a panagimprenta ken balitok a micro casting ket agtrabaho para iti eskultura a simborio, a mangbalbaliw kadagiti digital nga arapaap iti napateg a metal a kinapudno."
+    },
+    "ideaSpace": {
+      "name": "Idea nga Espasio",
+      "description": "Brazilian education startup a mangpadur-as iti kurikulum ti Quebrada Space Program, a nakasagana a mayaplikar kadagiti estudiante iti haiskul iti intero a Brazil."
+    }
+  },
+  "closing": "Interesado kadi a makikadua iti Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Dumteng ti imana</a> .",
+  "imageAlts": {
+    "riseNy": "Logo ti RiseNY&Partners",
+    "highestMantra": "Ti Kangatuan a Mantra Logo-tayo",
+    "allToSpace": "Amin iti Law-ang Logo",
+    "isro": "Logo ti ISRO",
+    "mercosul": "Maika-13 a Logo ti Biennial ti Mercosur",
+    "inpe": "Logo ti Taller ti INPE ArtSat",
+    "solidConcepts": "Logo ti Solid a Konsepto",
+    "ideaSpace": "Logo ti Law-ang ti Idea"
+  }
+}

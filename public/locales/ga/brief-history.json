@@ -1,0 +1,77 @@
+{
+  "title": "Stair Achomair na hEalaíne sa Spás - Teampall Fithiseach",
+  "heading": "Stair Achomair na hEalaíne sa Spás",
+  "intro": "Ó seoladh an chéad satailít shaorga go rathúil i <strong>1957</strong> , tá breis is deich míle satailít tagtha chun fithis timpeall an Domhain. Sa ré nua seo, tá bealach aimsithe ag ealaíontóirí chun a gcleachtas a leathnú agus tá an spás seachtrach ina chineál nua chanbhás. Leis sin, tá ceisteanna bunúsacha faoi pholaitíocht na taiscéalaíochta spáis tagtha chun cinn - cé go bhfuil i bhfad níos mó talún le clúdach fós.",
+  "sections": {
+    "leonov": {
+      "text": "Ba é an chéad saothar ealaíne a cruthaíodh sa spás líníocht d&#39;éirí gréine os cionn an Domhain, arna déanamh ag an spásaire Rúiseach <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Alexei Leonov</a></strong> agus é ar bord an Voskhod 2 sa <strong>bhliain 1965</strong> .",
+      "caption": "An chéad saothar ealaíne a cruthaíodh sa spás, agus na pinn luaidhe a d'úsáid Alexei Leonov chun é a tharraingt. Grianghraf: Músaem Ionad Oiliúna Cosmonauts Yuri Gagarin"
+    },
+    "moonMuseum": {
+      "paragraph1": "Trí bliana ina dhiaidh sin, thuirling <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Músaem na Gealaí</a></strong> , pláta ceirmeach beag bídeach a bhfuiltear ceaptha go bhfuil sé tar éis inscríbhinní a dhéanamh air ó sheisear de na healaíontóirí ba mhó le rá sna Stáit Aontaithe ag an am: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> agus <strong>Andy Warhol</strong> .",
+      "caption1": "Íomhá den Mhúsaem Gealaí ón alt bunaidh sa New York Times. Cuireann an ordóg bac ar líníocht Warhol.",
+      "paragraph2": "Rinne ranníocaíocht spreagúil Warhol - barr ar chlé - dúshlán don mheán cumarsáide an tionscadal seo ag an am.",
+      "caption2": "An íomhá a roghnaigh an New York Times a fhoilsiú, leis an saothar ealaíne le feiceáil thíos agus líníocht Andy Warhol sa chúinne uachtarach ar chlé."
+    },
+    "fallenAstronaut": {
+      "text": "Sa <strong>bhliain 1971</strong> , chuir spásaire Apollo 15, <strong>David Scott</strong> , dealbh bheag alúmanaim dhaonnúil ar scála beag dar teideal <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;An Spásaire Tite&quot;</a></strong> ar an nGealach. Bhí sé i gceist ag an ealaíontóir Beilgeach <strong>Paul Van Hoeydonck</strong> , leis an saothar seo, comóradh a dhéanamh ar na spásairí agus na cosmonauts a fuair bás i gcur chun cinn na taiscéalaíochta spáis.",
+      "caption": "Radharc ar phlaic chuimhneacháin a fágadh ar an ngealach ag láthair tuirlingthe Hadley-Apennine."
+    },
+    "pioneerVoyager": {
+      "text": "Sna <strong>1970idí</strong> , leag na <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> agus na <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> araon léaslínte nua don ealaín sa spás. Agus plaiceanna alúmanaim ór-anóidithe le teachtaireachtaí amhairc ón Domhan á n-iompar acu chuig aon spásairí eile a d&#39;fhéadfadh teacht orthu sa todhchaí i bhfad i gcéin, léirigh siad an saol daonna ina ghnéithe is bunúsaí.",
+      "caption": "Plaiceanna Pioneer 10 agus 11, a iompraíodh isteach sa spás domhain sna 1970idí."
+    },
+    "dove": {
+      "text": "Sa <strong>bhliain 1990</strong> , d’fhág an Bhrasaíl a rian ar an gcríoch seo le <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , satailít amaitéarach cliste a raibh cumhacht mhór fhileata aige. Cé nár mheas a chruthaitheoir é féin mar ealaíontóir, ba iarracht thar a bheith fileata í: thaifead sé guthanna leanaí ag iarraidh síochána agus tharchuir sé iad chuig níos mó ná dhá mhíle raidió-amaitéarach ar fud an domhain, ag claochlú CubeSat ceannródaíoch ina shaothar fuaime comhchoiteann.",
+      "caption": "DOVE/OSCAR-17, satailít filíochta na Brasaíle ag craoladh guthanna leanaí ar son na síochána, 1990."
+    },
+    "lastPictures": {
+      "text": "Sa <strong>bhliain 2012</strong> , sheol an t-ealaíontóir <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Trevor Paglen</a></strong> <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;The Last Pictures&quot;</a></strong> , diosca micrea-ghreanta ina bhfuil 100 grianghraf atá ceangailte leis an satailít cumarsáide Echostar XVI i bhfithis gheochobhsaí. Deartha chun maireachtáil ar feadh na billiúin bliain, tá sé beartaithe go mairfidh sé níos faide ná sibhialtacht an duine mar sheandántacht seandálaíochta don todhchaí i bhfad i gcéin.",
+      "caption": "Seoladh The Last Pictures, diosca micrea-eitseáilte atá deartha chun maireachtáil níos faide ná an cine daonna, in 2012."
+    },
+    "ulises": {
+      "text": "Sa <strong>bhliain 2015</strong> , sheol an <strong>Colectivo Espacial Mexicano</strong> (Comhchoiteann Spáis Mheicsiceo) <strong>Ulises I</strong> , nana-shatailít a ceapadh mar cheoldráma coincheapúil faoi stiúir an ealaíontóra <strong>Juan José Díaz Infante Casasús</strong> . Iompraíodh an satailít go dtí an strataisféar ar bhalún le linn Feria del Libro de Guadalajara. Deartha le pléascadh i gceann thart ar cheithre huaire an chloig agus teacht anuas le paraisiút.",
+      "caption": "Ulises I, ceoldráma satailíte coincheapúil le Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Níor seoladh an chéad satailít ealaíonta amháin go dtí <strong>2014.</strong> Sheol tionscadal <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> Ollscoil Tóiceo sonraí spásúla chuig an Domhan a úsáideadh i suiteálacha ealaíne agus i gcruthú ceoil.",
+      "caption1": "Creatlach agus páirteanna breise ARTSAT-1 Invader a d’fhan ar an Domhan.",
+      "caption2": "misean [SPÁS x EALAÍN] − taispeántas thar Cosmologies ar siúl ag Músaem na hEalaíne Comhaimseartha i dTóiceo"
+    },
+    "kac": {
+      "text": "Tá an t-ealaíontóir comhaimseartha Brasaíleach agus Meiriceánach <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Eduardo Kac</a></strong> tar éis cur le healaín spáis trí chomhoibriú le <strong>NASA</strong> agus <strong>SpaceX</strong> . Mar thoradh ar a <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Teileascóp Istigh&quot;</a></strong> ( <strong>2017</strong> ), a cruthaíodh leis an spásaire Francach <strong>Thomas Pesquet</strong> , rinneadh dealbh ar bord an <strong>Stáisiúin Spáis Idirnáisiúnta</strong> .",
+      "caption": "Teileascóp Istigh ar an Stáisiún Spáis Idirnáisiúnta, cruthaithe leis an spásaire Francach Thomas Pesquet, 2017."
+    },
+    "enoch": {
+      "text": "Sa <strong>bhliain 2018</strong> , seoladh CubeSat éighníomhach, a tógadh mar thionscadal ealaíne, isteach i bhfithis. Forbraíodh <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong> ag an ealaíontóir coincheapúil Bahamach <strong>Tavares Strachan</strong> , agus tá crúsca canópach óir 24 carat ann ina bhfuil dealbh den chéad spásaire Afracach-Meiriceánach, <strong>Robert Henry Lawrence Jr.</strong>",
+      "caption": "ENOCH (aonad taispeána), 2015-2017. ⓒ Tavares Strachan, grianghraf ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Sa bhliain chéanna sin, seoladh <strong>Frithchaiteoir Fithiseach</strong> <strong>Trevor Paglen</strong> mar dhealbh a bhí suite i gCiúbSat neamhfheidhmiúil. Ba chomhartha ealaíonta é an saothar a bhí beartaithe chun an chaoi a bhfeicimid ár n-áit ar domhan a athrú. Níor imscaradh i gceart é. Cé nár osclaíodh riamh é mar a dearadh é, spreag sé comhráite ríthábhachtacha agus mheall sé freagraí paiseanta ó réalteolaithe, eolaithe, asraonta meán, oideoirí, mic léinn, agus an pobal i gcoitinne ar fud an domhain, rud a léiríonn nach gá go mbeadh ealaín rathúil rathúil go teicniúil.",
+      "caption": "Rindreáil Dhigiteach ar Fhrithchaiteoir Fithiseach, 2018"
+    },
+    "others": {
+      "text": "Tá go leor ealaíontóirí eile tar éis cur le réimse na healaíne spáis, agus gach duine acu ag tabhairt peirspictíochtaí uathúla ina gcuid taighde. I measc na dtionscadal suntasacha tá taighde ealaíontóra spásaire <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Sarah Jane Pell</a></strong> a scrúdaíonn feidhmíocht an duine i dtimpeallachtaí foircneacha; tionscadal <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Moon Goose Analogue</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Agnes Meyer-Brandis</a></strong> a scrúdaíonn insint stairiúla agus comhaimseartha ar iniúchadh spáis; clár <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Nahum</a></strong> a éascaíonn turgnaimh mhicri-dhomhantarraingthe ealaíonta; agus dealbh <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">le Arthur Woods</a></strong> , an chéad dealbh a taispeánadh sa spás ar bord stáisiún Mir i 1993."
+    },
+    "orbitalTemple": {
+      "text": "Sa <strong>bhliain 2025</strong> , tar éis 4 bliana taighde agus forbartha, seolfaidh an t-ealaíontóir Brasaíleach <strong>Edson Pavoni</strong> agus grúpa ildisciplíneach comhoibritheoirí <strong>Orbital Temple</strong> , satailít ealaíne rannpháirteach a thugann cuireadh d&#39;aon duine ar domhan ainmneacha a sheoladh chuig fithis, rud a chruthaíonn cuimhneachán radacach cuimsitheach thar theorainneacha.",
+      "caption": "Teampall Fithiseach ag Bienal Mercosul. Grianghraf: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Líníocht agus peann luaidhe Alexei Leonov",
+    "moonMuseum": "Seilf ceirmeach Músaem na Gealaí",
+    "moonMuseumWarhol": "Vaiféar ceirmeach Mhúsaem na Gealaí ag taispeáint na saothar ealaíne go léir",
+    "fallenAstronaut": "Cuimhneachán ar an Spásaire Tite ar an nGealach",
+    "pioneerPlaques": "Plaiceanna ceannródaí",
+    "dove": "Satailít WHERE/OSCAR-17",
+    "lastPictures": "Diosca na Pictiúir Deiridh",
+    "ulises": "Satailít Ulises I",
+    "artsatInvader": "Struchtúr satailíte ARTSAT-1 Invader",
+    "artsatArt": "Saothar ealaíne cruthaithe ó shonraí ARTSAT-1",
+    "innerTelescope": "Teileascóp Inmheánach Eduardo Kac",
+    "enoch": "Aonad taispeána ENOCH le Tavares Strachan",
+    "orbitalReflector": "Frithchaiteoir Fithiseach Trevor Paglen",
+    "orbitalTemple": "Satailít Teampaill Fithiseach"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Washirika - Hekalu la Orbital",
+  "heading": "Washirika",
+  "intro": "Orbital Temple inapatikana kupitia ukarimu, utaalam, na maono ya washirika wa ajabu. Kuanzia satelaiti za uhandisi hadi kuunda masimulizi, kuanzia kufungua milango katika nchi za mbali hadi kutoa ndoto kwa dhahabu, kila ushirikiano huleta hekalu hili karibu na nyota.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Washirika",
+      "description": "Mawasiliano, hali ya utumiaji iliyojumuishwa na taswira nzuri ya 3D ambayo iliboresha maono ya setilaiti kabla haijagusa utupu wa nafasi."
+    },
+    "highestMantra": {
+      "name": "Mantra Yetu ya Juu",
+      "description": "Ikiongozwa na Sathi Roy, ikiunganisha Hekalu la Orbital na jumuiya za kiroho na kisanii za India. Kufungua njia za kuchangisha pesa, kubadilishana kitamaduni, na maonyesho ya Art Basel kufuatia uzinduzi wa Novemba 2025."
+    },
+    "allToSpace": {
+      "name": "Wote kwa Nafasi",
+      "description": "Wataalamu wa satelaiti ndogo wa Brazil. Miaka minne ya ushirikiano kujenga jukwaa la vifaa huria na kuanzisha mchakato wa kutuma sanaa kwenye obiti kutoka Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Shirika la Utafiti wa Anga la India. Zindua mtoa huduma wa misheni ya PSLV kubeba Hekalu la Orbital hadi kwenye obiti inayolingana na jua mnamo Novemba 2025."
+    },
+    "mercosul": {
+      "name": "13 Mercosur Miaka miwili",
+      "description": "Porto Alegre, Brazil. Imeratibiwa na Marcello Dantas pamoja na wasimamizi wasaidizi Laura Cattani, Munir Klamt, Tarsila Riso, na Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Warsha ya INPE / ArtSat",
+      "description": "Timu ya ukuzaji satelaiti iliundwa wakati wa Warsha ya II ya ArtSat. Imeratibiwa na Fabiane M. Borges, ikielekezwa na Lázaro Camargo, ikishirikiana na Ítalo Pinto Rodrigues, inayosimamiwa na Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Dhana Imara",
+      "description": "Ikiongozwa na Eduardo Dias. Kazi zote za uchapishaji za 3D na uwekaji mdogo wa dhahabu kwa ajili ya kuba la uchongaji, kubadilisha ndoto za kidijitali kuwa uhalisia wa madini ya thamani."
+    },
+    "ideaSpace": {
+      "name": "Nafasi ya Wazo",
+      "description": "Kuanzishwa kwa elimu ya Brazili kutayarisha mtaala wa Mpango wa Anga wa Quebrada, tayari kutumika kwa wanafunzi wa shule za upili kote Brazili."
+    }
+  },
+  "closing": "Je, ungependa kushirikiana na Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Fikia</a> .",
+  "imageAlts": {
+    "riseNy": "Nembo ya RiseNY&Washirika",
+    "highestMantra": "Nembo yetu ya Juu ya Mantra",
+    "allToSpace": "Nembo ya Nafasi zote",
+    "isro": "Nembo ya ISRO",
+    "mercosul": "Nembo ya 13 ya Mercosur ya Miaka Miwili",
+    "inpe": "Nembo ya Warsha ya INPE ArtSat",
+    "solidConcepts": "Dhana Imara Nembo",
+    "ideaSpace": "Idea Space Logo"
+  }
+}

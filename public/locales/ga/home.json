@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Teampall Fithiseach",
+    "subtitle": "is saothar ealaíne agus satailíte é,\na bhfuil sé mar aidhm aige a bheith ina theampall radacach cuimsitheach,\nin áit nach féidir le balla a shroicheadh."
+  },
+  "ritual": {
+    "label": "deasghnáth"
+  },
+  "cta": {
+    "link": "Teampall eile fós?",
+    "arrowAlt": "saighead"
+  },
+  "dome": {
+    "alt": "Cruinneachán"
+  }
+}

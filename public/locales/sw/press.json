@@ -1,0 +1,138 @@
+{
+  "title": "Vyombo vya habari na Vyombo vya Habari - Hekalu la Orbital",
+  "heading": "Bonyeza & Media",
+  "pressContact": {
+    "heading": "Bonyeza Anwani",
+    "content": "Kwa maswali ya wanahabari, mahojiano, na maombi ya vyombo vya habari:<br /> <strong>Barua pepe:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Tovuti:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Kuhusu Mradi",
+    "paragraph1": "Orbital Temple ni kazi ya sanaa na setilaiti ambayo inalenga kuwa hekalu linalojumuisha kwa kiasi kikubwa, lililojengwa mahali ambapo hakuna kuta zinazoweza kufikia. Mradi huu umeundwa na msanii wa Brazil Edson Pavoni, msanii nyuma ya Inumeráveis Memorial ambayo ilifikia mtu 1 kati ya kila raia 6 wa Brazili wakati wa janga la COVID, mradi huo unaalika watu kutoka duniani kote kutuma jina la mtu wanayetaka kumkumbuka. Majina haya hupitishwa kwa satelaiti katika obiti, na kuunda kumbukumbu ya pamoja.",
+    "paragraph2": "Kupitia tovuti inayopatikana katika lugha 136, washiriki hujihusisha katika aina mpya ya tambiko. Hekalu la Orbital huchunguza mada za ujumuishi, kumbukumbu, na ubinadamu wetu tulioshirikiwa, ikihoji kwa nini hakuna hekalu halisi Duniani linaweza kukaribisha kila mtu kikweli, na kupendekeza nafasi kama mahali pekee ambapo ushirikishwaji mkali unaweza kuwepo."
+  },
+  "aboutArtist": {
+    "heading": "Kuhusu Msanii",
+    "paragraph1": "<strong>Edson Pavoni</strong> ni msanii wa Kibrazili ambaye safari yake ilianza katika mitaa ya São Paulo, ambapo muktadha wa umaskini na vurugu ulitengeneza miaka yake ya mapema. Katika nchi ambayo Ukristo ulitoa njia mbali na barabara, dawa za kulevya, na jeuri, Pavoni alipata kimbilio katika imani, mada ambayo baadaye, alipokuwa mkosoaji wa unyanyasaji wa kidini, itafahamisha mazoezi yake ya kisanii.",
+    "paragraph2": "Mnamo 2020, wakati wa janga la COVID-19, Pavoni aliunda <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (isiyohesabika)</a></strong> , mchoro kwenye makutano ya sanaa na uandishi wa habari. Mradi huo ulihoji maelfu ya familia na kuandika hadithi za wale waliopotea kwa janga hili, na kuunda nafasi ambapo kumbukumbu ilipita idadi na takwimu. Mashairi, nyimbo, na symphonies zilitengenezwa kwa hadithi hizo. Magazeti yaliunda vifuniko kwa kutumia majina na historia. Nyota wote wa Brazil kama Oscar akishinda Fernanda Torres, na nyota kama Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo na Lazaro Ramos, na wengine wengi sana walisoma hadithi hizo kwenye televisheni ya taifa. Mradi huo ulifikia watu milioni 32, mmoja kati ya watu wazima wanne wa Brazil. Ikawa mtandao wa uponyaji, ukumbusho wa pamoja wa kumbukumbu.",
+    "paragraph3": "Baada ya mazungumzo zaidi ya elfu kumi kwa huzuni, mfano uliibuka: tunapozungumza juu ya mtu aliyekufa, tunachagua vipande vya hadithi yao kana kwamba tunaandika barua ya pendekezo kwa mlinzi wa lango la paradiso. Tunafanya kila tuwezalo kuwapeleka kwa kile tunachoamini ni mbinguni. Kazi hii ilizua ufahamu mpya: Imani zetu kuhusu nani anastahili mbinguni hutengeneza moja kwa moja tunayekubali au kuwatenga Duniani. Wakoloni wa Kireno nchini Brazili waliamini watu Weusi hawana roho; imani hiyo ilihalalisha utumwa. Ikiwa ulikuwa wa kiasili, ikiwa ulizaliwa mahali pabaya au ulimpenda mtu asiyefaa, bado, hadi leo, unaambiwa milango ya mbinguni ilifungwa kwako. Je, kuna maono ya wakati ujao ambayo hayajajazwa na kukataliwa?",
+    "paragraph4": "Hivyo ndivyo Hekalu la Orbital lilizaliwa."
+  },
+  "keyFacts": {
+    "heading": "Mambo Muhimu",
+    "artist": "<strong>Msanii:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Aina ya Mradi:</strong> Mchoro wa setilaiti, tovuti mahususi kwenye nafasi, matambiko yanayotokana na wavuti",
+    "launchDate": "<strong>Tarehe ya Uzinduzi:</strong> Novemba 28, 2025",
+    "launchLocation": "<strong>Mahali pa Kuzinduliwa:</strong> Satish Dhawan Space Centre, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Setilaiti:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Obiti:</strong> urefu wa 525km, sanjari ya jua",
+    "participation": "<strong>Ushiriki:</strong> Bure, wazi kwa kila mtu ulimwenguni",
+    "namesSent": {
+      "heading": "<strong>Majina Yametumwa kwa Obiti:</strong>",
+      "caption": "<em>Idadi ya moja kwa moja imesasishwa kutoka hifadhidata • Ilionyeshwa upya mara ya mwisho: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Tuzo na Kutambuliwa",
+    "mercosul": {
+      "title": "<strong>Miaka 13 ya Miaka Miwili ya Mercosur</strong> (2022)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "Picha imechangiwa na Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Tuzo ya Lumen 2022 - Tuzo la Baadaye</strong>",
+      "status": "Imeorodheshwa kwa muda mrefu"
+    },
+    "cubeDesign": {
+      "title": "<strong>Mashindano ya CubeDesign 2021</strong>",
+      "award": "Mshindi - Kitengo cha ArtSat",
+      "org": "Imekuzwa na Taasisi ya Utafiti wa Anga ya Brazil (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Timu",
+    "content": "Orbital Temple imeundwa kwa ushirikiano na Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Dhana Imara, RiseNY&Partners, IdeaSpace, na wale wote wanaoendelea kupendekeza majina ya hekalu hili."
+  },
+  "pressCoverage": {
+    "heading": "Imeangaziwa Katika / Vyombo vya Habari",
+    "paragraph1": "<em>Habari za vyombo vya habari na vipengele vitaongezwa kadri zinavyopatikana. Kwa sasisho za hivi punde, tafadhali wasiliana na timu yetu ya wanahabari.</em>",
+    "paragraph2": "Maonyesho na vipengele vilivyotangulia ni pamoja na mawasilisho katika Tamasha la 13 la Mercosul Bienal, kutambuliwa kutoka kwa Tuzo ya Lumen, na uteuzi wa Taasisi ya Utafiti wa Angani ya Brazili (INPE)."
+  },
+  "images": {
+    "heading": "Picha za Ubora wa Juu kwa Matumizi ya Vyombo vya Habari",
+    "intro": "Picha zote zinapatikana kwa matumizi ya uhariri. Bofya picha yoyote ili kupakua faili yenye msongo wa juu.",
+    "installationPhotos": {
+      "heading": "Picha za Hekalu la Orbital",
+      "credit": "Tafadhali kwa hisani: \"Picha na Clara Marques / Kwa Hisani ya Edson Pavoni, Orbital Temple\"",
+      "view01": "Mtazamo wa Ufungaji 01<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 1.4)",
+      "view02": "Mtazamo wa Ufungaji 02<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 2.9)",
+      "view03": "Mtazamo wa Ufungaji 03<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 11)",
+      "view04": "Mtazamo wa Ufungaji 04<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 3.4)",
+      "view05": "Mwonekano wa Ufungaji 05<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 3.3)",
+      "view06": "Mwonekano wa Ufungaji 06<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 3.7)",
+      "view07": "Mwonekano wa Ufungaji 07<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 3.4)",
+      "view08": "Mwonekano wa Ufungaji 08<br /> Picha: Clara Marques<br /> ↓ Pakua Ubora wa Juu (MB 2.7)",
+      "satelliteDesign": "Ubunifu wa Satellite<br /> ↓ Pakua",
+      "antennaSculpture": "Antena/Mchoro<br /> ↓ Pakua"
+    },
+    "renders": {
+      "heading": "Vielelezo vya Hekalu la Orbital",
+      "credit": "Utoaji wa Dhana wa 3D wa Orbital Temple. Tafadhali rejelea: \"Utoaji wa 3D na RiseNY&Partners / Kwa Hisani ya Edson Pavoni, Orbital Temple\"",
+      "render01": "Utoaji wa 3D 01<br /> RiseNY&amp;Washirika<br /> ↓ Pakua Ubora wa Juu (MB 10)",
+      "render02": "Utoaji wa 3D 02<br /> RiseNY&amp;Washirika<br /> ↓ Pakua Ubora wa Juu (MB 5.9)",
+      "render03": "Utoaji wa 3D 03<br /> RiseNY&amp;Washirika<br /> ↓ Pakua Ubora wa Juu (MB 5.2)",
+      "render04": "Utoaji wa 3D 04<br /> RiseNY&amp;Washirika<br /> ↓ Pakua Ubora wa Juu (MB 11)",
+      "render05": "Utoaji wa 3D 05<br /> RiseNY&amp;Washirika<br /> ↓ Pakua Ubora wa Juu (MB 13)"
+    },
+    "artistPhotos": {
+      "heading": "Picha za Wasanii",
+      "photo1": "Picha 1<br /> ↓ Pakua Ubora wa Juu",
+      "photo2": "Picha 2<br /> ↓ Pakua Ubora wa Juu"
+    },
+    "sathiPhotos": {
+      "heading": "Picha za Sathi Roy",
+      "photo1": "Picha 1<br /> ↓ Pakua High-Res (843 KB)",
+      "photo2": "Picha 2<br /> ↓ Pakua Ubora wa Juu (MB 1.8)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Maelezo ya kiufundi",
+    "satellite": {
+      "heading": "Satelaiti",
+      "dimensions": "Vipimo: 50 x 58 x 64 mm",
+      "classification": "Uainishaji: 1P PocketQube",
+      "weight": "Uzito: 245g",
+      "materials": "Vifaa: Alumini, dhahabu, fiberglass, vipengele vya elektroniki",
+      "orbit": "Obiti: Urefu 525 ± 25 km; Mwelekeo: SSO 97.6 ± 0.1°",
+      "launch": "Uzinduzi: Novemba 28, 2025 kupitia ISRO, India"
+    },
+    "antenna": {
+      "heading": "Antena/Mchoro",
+      "dimensions": "Vipimo: kipenyo cha 6m x urefu wa 1.2m",
+      "weight": "Uzito: 46 kg",
+      "materials": "Vifaa: Alumini, ubao wa kioo wa epoxy, kuba ya alumini ya dhahabu iliyosimamishwa kupitia muundo wa kiunzi"
+    },
+    "radio": {
+      "heading": "Vipimo vya Redio",
+      "downlink": "Kiunga cha chini: 437 MHz",
+      "status": "Hali ya Uzinduzi: Imeratibiwa tarehe 28 Novemba 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Rasilimali za Ziada",
+    "artwork": "→ Tazama Nyaraka za Mchoro",
+    "howItWorks": "→ Jinsi Inavyofanya Kazi",
+    "technicalInfo": "→ Taarifa za Kiufundi",
+    "spaceLaunch": "→ Taarifa ya Uzinduzi wa Nafasi",
+    "ritual": "→ Furahia Tambiko"
+  },
+  "imageAlts": {
+    "installation": "Ufungaji wa Hekalu la Orbital na Edson Pavoni",
+    "satelliteDesign": "Ubunifu wa Satelaiti ya Hekalu la Orbital",
+    "antenna": "Uchongaji wa Antena ya Hekalu la Orbital",
+    "render": "Utoaji wa 3D wa Orbital Temple na RiseNY&Partners",
+    "edsonPortrait": "Picha ya Edson Pavoni",
+    "sathiPortrait": "Picha ya Sathi Roy",
+    "lumenPrize": "Tuzo la Lumen",
+    "mercosulBienal": "Mercosur miaka miwili"
+  }
+}

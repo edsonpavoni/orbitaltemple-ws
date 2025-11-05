@@ -1,0 +1,31 @@
+{
+  "title": "Eman ezazu Orbital Temple-ri",
+  "heading": "Osatu zure dohaintza",
+  "donatingTo": "Honako hauei ematen ari zara dohaintza:",
+  "chooseHow": "Aukeratu nola osatu nahi duzun zure dohaintza kenkarigarria zergapetzeko:",
+  "option1": {
+    "heading": "1. aukera: Eman ezazu online orain",
+    "description": "Egin ezazu zure dohaintza berehala kreditu txartela, zordunketa txartela edo beste online ordainketa metodo batzuk erabiliz, gure babesle fiskal seguruaren, <strong>The Field-en,</strong> bidez. Berehala jasoko duzu zerga ordainagiria.",
+    "button": "Eman ezazu The Field bidez →"
+  },
+  "option2": {
+    "heading": "2. aukera: Bankuko gordailua Roy Fundazioan",
+    "description": "Egin banku-gordailu zuzena edo transferentzia elektronikoa <strong>Roy Fundazioari</strong> , gure bazkide estrategikoari eta babesle fiskalari. Aukera hau aproposa da dohaintza handietarako edo nazioarteko transferentzietarako.",
+    "bankingInfo": "Banku-informazioa",
+    "fields": {
+      "accountName": "Kontuaren izena:",
+      "bankName": "Bankuaren izena:",
+      "accountNumber": "Kontu zenbakia:",
+      "routingNumber": "Bideratze zenbakia:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Erreferentzia:"
+    },
+    "instructions": "Mesedez, sartu &quot; <strong>Orbital Temple - {donationType}</strong> &quot; erreferentzia eremuan. Transferentzia amaitu ondoren, bidali mezu elektroniko bat <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> helbidera zure transferentziaren xehetasunekin zure zerga-agiria jasotzeko.",
+    "button": "Jarri gurekin harremanetan gordailuari buruz →"
+  },
+  "taxInfo": {
+    "heading": "Zerga kenkarietarako dohaintzak",
+    "description": "Orbital Temple <strong>The Field (Performance Zone Inc.)</strong> erakundearen finantza-babespeko proiektua da, <strong>501(c)(3)</strong> irabazi-asmorik gabeko erakundea. AEBetako ekarpen guztiak zerga kenkari gisa onartzen dira legeak ahalbidetzen duen neurrian.",
+    "questions": "Galderarik? Jarri gurekin harremanetan <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> helbidean."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "အဖွဲ့ - Orbital ဘုရားကျောင်း",
+  "heading": "အဖွဲ",
+  "artist": "Edson Pavoni, အနုပညာရှင်",
+  "roles": {
+    "executiveProducer": {
+      "heading": "အမှုဆောင်ထုတ်လုပ်သူ",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled၊ João Pedro Polito၊ Victor Baptista နှင့် João Victor Alves"
+    },
+    "electronic": {
+      "heading": "အီလက်ထရွန်းနစ်အင်ဂျင်နီယာ",
+      "members": "André Biagioni၊ João Pedro Polito နှင့် VK"
+    },
+    "software": {
+      "heading": "ဆော့ဝဲ",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "ဒီဇိုင်းနှင့် ဗိသုကာပညာ",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D ပုံနှိပ်ခြင်း။",
+      "members": "Eduardo Dias ၏ ဦးဆောင်မှုအောက်တွင် ခိုင်မာသော အယူအဆများ"
+    },
+    "rendering": {
+      "heading": "3D ပုံဖေါ်ခြင်း။",
+      "members": "Guilherme Bullejos နှင့် RiseNy & ပါတနာများ"
+    },
+    "research": {
+      "heading": "သုတေသန",
+      "members": "Roberta Savian Rosa နှင့် Clara Marques"
+    },
+    "exhibition": {
+      "heading": "ပြပွဲ၊ ဓါတ်ပုံနှင့် အကြောင်းအရာ ဖန်တီးမှု",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "ပြပွဲ၏ ပိုးစစ်ခြင်း",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "ပညာရေးဆိုင်ရာစီမံကိန်း",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "ဆက်သွယ်ရေးအဖွဲ့",
+      "members": "Flavio Vidigal၊ Andre Holzmeister၊ Pedro Vidigal၊ Tatiane Putti၊ Rafael Fernandes၊ Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "အထူးကျေးဇူးတင်ပါသည်။",
+      "members": "Gabriela Veiga၊ Marcello Dantas၊ Anne Valls၊ Matias Campos Abad၊ Samuel Levy၊ Bella Nardini နှင့် Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni၊ Sathi Roy၊ Pedro Kaled၊ João Pedro Polito၊ Victor Baptista၊ João Victor Alves၊ André Biagioni၊ VK၊ Jonathan Querubina၊ Guilherme Bullejos၊ Eduardo Dias၊ Roberta Savian Pedrosa၊ Clara Marques၊ Daphne Alves၊ André Biagioni၊ Flavioz Vidime Putti၊ Rafael Fernandes၊ Bruna Cairo၊ Solid Concepts၊ RiseNY&Partners၊ IdeaSpace",
+  "imageAlt": "Orbital Temple ဂြိုလ်တု"
+}

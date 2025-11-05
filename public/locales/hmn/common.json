@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "cov artwork",
+    "sendAName": "xa npe",
+    "fromTheArtist": "los ntawm tus kws kos duab",
+    "yetAnotherTemple": "tseem, lwm lub tuam tsev?",
+    "howItWorks": "nws ua haujlwm li cas",
+    "spaceLaunch": "chaw tso tawm thiab txaus ntshai",
+    "briefHistory": "keeb kwm luv luv ntawm kev kos duab hauv qhov chaw",
+    "education": "kev kawm & qhib qhov chaw",
+    "sustainability": "sustainability thiab chaw khib nyiab",
+    "press": "xovxwm & xov xwm",
+    "team": "pab neeg",
+    "partners": "cov neeg koom tes",
+    "support": "kev txhawb nqa",
+    "technicalInfo": "cov ntaub ntawv technical"
+  },
+  "ritual": {
+    "label": "kev cai dab qhuas",
+    "ariaLabel": "Nkag mus rau ritual - Xa ib lub npe rau lub Tuam Tsev Orbital"
+  },
+  "footer": {
+    "credits": "Lub Tuam Tsev Orbital yog ib qho kev kos duab los ntawm Edson Pavoni, tsim los ntawm kev koom tes nrog Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, thiab txhua tus neeg uas tau xa mus rau lub tuam tsev no."
+  }
+}

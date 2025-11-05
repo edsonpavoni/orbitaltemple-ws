@@ -1,0 +1,16 @@
+{
+  "title": "Lansio Gofod - Teml Orbitol",
+  "heading": "Lansio Gofod",
+  "intro": "Mae'r Deml Orbitol wedi'i drefnu i gael ei lansio ar fwrdd PSLV (Cerbyd Lansio Lloeren Pegynol) ar Dachwedd 28ain, 2025 o Ganolfan Ofod Satish Dhawan yn Sriharikota, India.",
+  "partnership": "Mae lansiad Teml Orbital yn bartneriaeth rhwng NewSpace India Limited (NSIL), Cwmni Llywodraeth India o dan yr Adran Ofod, Corfforaeth Antrix, a'r artist. Mae'r cydweithrediad hwn yn cynrychioli carreg filltir arwyddocaol i gelf mewn archwilio gofod, gan ddod â rhaglen ofod India ynghyd â gweledigaeth artistig o gynhwysiant radical.",
+  "risks": {
+    "heading": "Risgiau",
+    "paragraph1": "Adeiladwyd y lloeren i wrthsefyll amodau dirgryniad eithafol a chylchoedd thermol, ac mae wedi cael profion trylwyr. Fodd bynnag, mae lansiadau gofod yn cario risgiau cynhenid. Os caiff y lloeren ei difrodi yn ystod y lansiad neu'r defnydd, neu os yw'n methu â sefydlu cyfathrebu â'n gorsafoedd daear, byddwn yn gweithio i ddatrys unrhyw broblemau. Mae gan y lloeren systemau diangen a phrotocolau wrth gefn wedi'u cynllunio i wneud y mwyaf o'r siawns o lwyddiant y genhadaeth.",
+    "paragraph2": "Yn ogystal, gall y lloeren aros mewn orbit am lai na 10 mlynedd os yw amodau atmosfferig neu ffactorau eraill yn achosi dirywiad orbitol cynharach. Er ein bod wedi'i gynllunio i bara o leiaf ddegawd, mae'r oes wirioneddol yn dibynnu ar amodau na allwn eu rheoli'n llawn.",
+    "paragraph3": "Os bydd y lansiad cyntaf yn methu, neu os na allwn gyflawni'r genhadaeth hon fel y cynlluniwyd, byddwn yn archwilio llwybrau eraill ymlaen, gan gynnwys o bosibl ail ymgais lansio gyda'r gyllideb sydd ar gael, partneriaeth â chenadaethau eraill, neu ddogfennaeth o'r ymgais fel rhan o naratif y gwaith celf am ddyhead a chyfyngiad."
+  },
+  "imageAlts": {
+    "india": "Canolfan Ofod ISRO, India",
+    "satellite": "Lloeren Orbital Temple"
+  }
+}

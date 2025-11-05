@@ -1,0 +1,50 @@
+{
+  "title": "Abalingani - Ithempeli le-Orbital",
+  "heading": "Ozakwethu",
+  "intro": "I-Orbital Temple ikhona ngokuphana, ubuchwepheshe, kanye nombono wabalingani abamangalisayo. Kusukela kumasathelayithi onjiniyela kuya ekudwebeni okulandisayo, kusukela ekuvuleni iminyango emazweni akude ukuya ekusakazeni amaphupho ngegolide, ukubambisana ngakunye kusondeza leli thempeli eduze kwezinkanyezi.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Ozakwethu",
+      "description": "Ukuxhumana, ukuzizwisa okuhlanganisiwe kanye nesithombe esimangalisayo se-3D esiphilise umbono wesathelayithi ngaphambi kokuthi ithinte ukungabikho kwendawo."
+    },
+    "highestMantra": {
+      "name": "I-Mantra yethu Ephakeme kakhulu",
+      "description": "Iholwa ngu-Sathi Roy, ixhumanisa i-Orbital Temple nemiphakathi yase-India yokomoya nezobuciko. Ivula izindlela zokuqongelela imali, ukushintshana ngamasiko, kanye nombukiso we-Art Basel ngemva kokwethulwa ngoNovemba 2025."
+    },
+    "allToSpace": {
+      "name": "Konke ku-Space",
+      "description": "Ochwepheshe besathelayithi abancane baseBrazil. Iminyaka emine yokubambisana kwakha inkundla yehadiwe yomthombo ovulekile kanye nokuphayona inqubo yokuthumela ubuciko ku-orbit kusuka ku-Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Inhlangano Yocwaningo Lwemkhathi YaseNdiya. Yethula umhlinzeki wemishini ye-PSLV ethwala i-Orbital Temple iliyise emzileni ohambisana nelanga ngoNovemba 2025."
+    },
+    "mercosul": {
+      "name": "I-13th Mercosur Biennial",
+      "description": "I-Porto Alegre, eBrazil. Icutshungulwe ngu-Marcello Dantas nomsizi wabalondolozi u-Laura Cattani, u-Munir Klamt, u-Tarsila Riso, no-Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Ithimba lokuthuthukisa isathelayithi lakhiwe ngesikhathi se-II ArtSat Workshop. Ididiyelwe ngu-Fabiane M. Borges, eyalwe ngu-Lázaro Camargo, ehlanganiswe ngu-Ítalo Pinto Rodrigues, egadwe u-Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Imiqondo Eqinile",
+      "description": "Iholwa ngu-Eduardo Dias. Konke ukuphrinta kwe-3D nomsebenzi wokulingisa owenziwe ngegolide we-sculptural dome, ukuguqula amaphupho edijithali abe into yangempela yensimbi eyigugu."
+    },
+    "ideaSpace": {
+      "name": "Idea Space",
+      "description": "Ukuqaliswa kwemfundo yase-Brazilian ukuthuthukisa ikharikhulamu Yohlelo Lwesikhala Se-Quebrada, elungele ukusetshenziswa kubafundi bezikole zamabanga aphezulu kulo lonke elase-Brazil."
+    }
+  },
+  "closing": "Unentshisekelo yokusebenzisana ne-Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Yelula isandla</a> .",
+  "imageAlts": {
+    "riseNy": "Ilogo ye-RiseNY&Partners",
+    "highestMantra": "Ilogo Yethu Ephakeme Ye-Mantra",
+    "allToSpace": "Konke ku-Space Logo",
+    "isro": "Ilogo ye-ISRO",
+    "mercosul": "Ilogo ye-13 ye-Mercosur Biennial",
+    "inpe": "Ilogo ye-INPE ArtSat Workshop",
+    "solidConcepts": "I-Solid Concepts Ilogo",
+    "ideaSpace": "I-Idea Space Logo"
+  }
+}

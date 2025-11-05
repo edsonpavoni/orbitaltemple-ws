@@ -1,0 +1,44 @@
+{
+  "title": "Od umjetnika",
+  "opening": {
+    "question": "Ko je ovaj čovjek da predloži hram u svemiru?",
+    "thanks": "Hvala na pitanju.",
+    "answer": "Kratak odgovor je da sam umjetnik. Dug odgovor je ovaj:"
+  },
+  "origin": {
+    "sao_paulo": "Rođen sam na periferiji São Paula, u naselju koje me je rano naučilo šta znači opasnost. Mnogi moji školski prijatelji su sada u zatvoru. Moj očuh je u zatvoru. Nasilje nije bilo nešto o čemu sam čitao, to je bio svijet u kojem sam se morao snalaziti. I znao sam da moram pobjeći.",
+    "technology": "Tehnologija je postala moj izlaz. Naučio sam programirati, naučio sam elektroniku kao tinejdžer. Kod je bio jezik koji me je mogao odvesti negdje drugdje. Rad s tehnologijom bio je moj bijeg od siromaštva.",
+    "christianity": "Ali sam također tražila pripadnost, ljubav, nešto u što bih vjerovala. Pronašla sam kršćanstvo, ili je ono pronašlo mene. Bila sam prihvaćena. Bila sam voljena. Imala sam zajednicu. Naučila sam oprostiti, vjerovati, kretati se zajedno za veći cilj.",
+    "price": "Cijena je, međutim, bila visoka. Naučio sam i mnoge stvari koje još uvijek ne mogu da zaboravim. Tako sam i od toga pobjegao."
+  },
+  "searching": {
+    "walls": "Znam šta zidovi rade. Osjetila sam ih. Bila sam na obje strane: držana vani, držana unutra. Ono što je uslijedilo bile su godine potrage za nečim što nisam mogla imenovati. Bog je umro tokom tih godina. Bog o kojem su me učili, u svakom slučaju, onaj s pravilima, sudom i vratima koja su se otvarala samo nekim ljudima.",
+    "art": "Počeo sam stvarati umjetnost kako bih istražio ova pitanja: o intimnosti i tehnologiji, o sjećanju i smrti, o tome ko zaslužuje raj. Počeo sam graditi mašine koje redefiniraju naš odnos s tehnologijom, mašine kojima je potrebno vaše učešće, vaše prisustvo, vaše ime, da bi se transformirale iz metala i koda u nešto živo."
+  },
+  "pandemic": {
+    "intro": "Zatim je pandemija pogodila Brazil.",
+    "government": "Kada su vakcine protiv COVID-a odgođene, moja vlada je pregovarala o mitu od jednog dolara po dozi. Promovirali su lijekove za koje se smatralo da su neefikasni, smijali se dok su ljudi umirali boreći se da dišu. Budili smo se svaki dan s različitim brojem. Koliko je ljudi umrlo u posljednja 24 sata? Je li to bilo više ili manje od očekivanog?",
+    "war": "Polovina svijeta je bila uplašena, a druga polovina je bila u poricanju. Bili smo u ratu, s virusom i jedni s drugima.",
+    "memorial": "Želio sam stvoriti prostor za kolektivnu tugu, pa sam zajedno sa stotinama ljudi stvorio Memorijal Inumeráveis. Umjetničko djelo na presjeku umjetnosti i novinarstva. Intervjuirali smo porodice koje su nekoga izgubile. Napisali smo životnu priču osobe koju su izgubili. Pretvorili smo brojeve u historije. Pjesme, pjesme, simfonije su nastale od tih historija. Zvijezde su čitale te priče na nacionalnoj televiziji. Projekat je dosegao milione.",
+    "meaning": "Nije bila važna razmjera, već to što je svaka priča bila ime, život, nečiji raj."
+  },
+  "discovery": {
+    "pattern": "Nakon više od deset hiljada razgovora s tugom, počeo se pojavljivati obrazac. Kada govorimo o nekome ko je umro, ne govorimo samo dobre stvari; biramo fragmente njihove priče kao da pišemo preporuku. Preporuku čuvaru raja. Dajemo sve od sebe da ih pošaljemo na mjesto prihvatanja, odmora, časti i sjećanja.",
+    "understanding": "I shvatio sam nešto što je sve promijenilo: Ranjeni smo upravo hramovima koje smo izgradili. Naša uvjerenja o tome ko zaslužuje raj direktno oblikuju koga isključujemo na Zemlji. Portugalski kolonizatori u Brazilu vjerovali su da crnci nemaju dušu; to uvjerenje opravdava ropstvo. Ako ste bili starosjedioci, ako ste rođeni na pogrešnom mjestu ili ste voljeli pogrešnu osobu, rečeno vam je da su vam vrata raja zatvorena.",
+    "birth": "Tako je nastao Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Nijedan umjetnik ne može biti istinski sekularan. Zauvijek smo vezani za našeg zajedničkog pretka, šamana. U početku je bila pećina. Ljudi su slikali životinje na zidovima ne da bi ih ukrasili, već da bi ih prizvali. Plesale su, a pećina je postala hram. Šaman posjeduje duh rituala; umjetnik posjeduje auru umjetnosti. Slikamo, vajamo, programiramo, dizajniramo željenu budućnost ne da bismo je ukrasili, već da bismo je prizvali. Sva umjetnost je duhovna, čak i kada tvrdi da to nije."
+  },
+  "space": {
+    "question": "Gdje bismo mogli sagraditi hram bez zidova? Gdje nijedna nacija ili religija ne bi mogla polagati pravo na to. Gdje bismo mogli zamisliti sebe kao jednu grupu.",
+    "answer": "Prostor.",
+    "description": "Participativni umjetnički satelit s globalnog Juga. Hram u orbiti koji poziva sve da pošalju svoja imena u svemir, bez obzira na to ko su, gdje su rođeni, koga vole, u šta vjeruju. Mjesto gdje je radikalna inkluzija moguća, u orbiti, izvan granica.",
+    "mission": "Ova misija je otvorenog koda. Svaki tehnički dokument, svaka linija koda bit će slobodno dostupni kako bi drugi umjetnici, druge zajednice, druge nacije mogle izgraditi vlastite satelite. Dakle, Globalni Jug ne samo da učestvuje u istraživanju svemira, već ga i vodi."
+  },
+  "closing": {
+    "answer": "Pa ko je ovaj čovjek da gradi hram u svemiru? Ja ga ne gradim. Hram grade svi koji odluče poslati ime, da ga vide kao svetog, da ga učine stvarnim. Ja sam samo taj koji predlaže. Ti si taj koji ga gradi ako se tako odlučiš.",
+    "signature": "Ljubazno,",
+    "name": "Edson Pavoni"
+  }
+}

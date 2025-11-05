@@ -1,0 +1,50 @@
+{
+  "title": "Vatirhisani - Tempele ya Orbital",
+  "heading": "Vatirhisani",
+  "intro": "Orbital Temple yi kona hi ku hanana, vutshila, na xivono xa vatirhisani lava nga tolovelekangiki. Ku suka eka tisathelayiti ta vunjhiniyara ku ya eka ku endla switlhokovetselo, ku suka eka ku pfula tinyangwa ematikweni ya le kule ku ya eka ku hoxa milorho hi nsuku, ntirhisano wun’wana na wun’wana wu tshineta tempele leyi ekusuhi na tinyeleti.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Vatirhisani",
+      "description": "Vuhlanganisi, mintokoto leyi hlanganisiweke na swifaniso swo hlamarisa swa 3D render leswi tiseke xivono xa sathelayiti evuton’wini yi nga si tshama yi khumba xivandla xa le xibakabakeni."
+    },
+    "highestMantra": {
+      "name": "Mantra ya Hina ya le Henhla",
+      "description": "Ku rhangela hi Sathi Roy, ku hlanganisa Tempele ya Orbital na miganga ya moya na vutshila ya le India. Ku pfula tindlela to hlengeleta mali, ku cincana hi ndhavuko, na nkombiso wa Art Basel endzhaku ka ku simekiwa ka Nyenyankulu 2025."
+    },
+    "allToSpace": {
+      "name": "Hinkwaswo swi ya eXibakabakeni",
+      "description": "Vativi va tisathelayiti lavatsongo va le Brazil. Malembe ya mune ya ntirhisano ku aka pulatifomo ya hardware ya xihlovo lexi pfulekeke na ku phayona endlelo ro rhumela vutshila eka orbit ku suka eDzongeni wa Misava Hinkwayo."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Nhlangano wa Vulavisisi bya le Xibakabakeni wa le Indiya. Muphakeri wo sungula wa vurhumiwa bya PSLV ku rhwala Tempele ya Orbital ku ya eka orbit leyi fambisanaka na dyambu hi Nyenyankulu 2025."
+    },
+    "mercosul": {
+      "name": "Nhlengeletano ya vu-13 ya Mercosur Biennial",
+      "description": "Porto Alegre, eBrazil. Yi hlayisiwile hi Marcello Dantas na vapfuni va vahlayisi Laura Cattani, Munir Klamt, Tarsila Riso na Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Nhlengeletano ya Ntirho ya ArtSat",
+      "description": "Xipano xa nhluvukiso wa sathelayiti xi vumbiwile hi nkarhi wa II ArtSat Workshop. Yi hlanganisiwe hi Fabiane M. Borges, yi lerisiwile hi Lázaro Camargo, yi tirhisanile hi Ítalo Pinto Rodrigues, leyi languteriweke hi Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Miehleketo leyi Tiyeke",
+      "description": "Ku rhangela hi Eduardo Dias. Hinkwaswo ku kandziyisa ka 3D na micro casting ya nsuku swi tirha eka dome ya swifaniso, swi hundzula milorho ya xidijitali ku va ntiyiso wa nsimbi ya risima."
+    },
+    "ideaSpace": {
+      "name": "Ndhawu ya Miehleketo",
+      "description": "Ku sungula ka dyondzo ya le Brazil ku hluvukisa kharikhulamu ya Nongonoko wa le Xibakabakeni wa Quebrada, leyi lunghekeleke ku tirhisiwa eka swichudeni swa xikolo xa le henhla eBrazil hinkwaro."
+    }
+  },
+  "closing": "Xana wa swi tsakela ku tirhisana na Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Pfuxeta ku fikelela</a> .",
+  "imageAlts": {
+    "riseNy": "Logo ya RiseNY&Partners",
+    "highestMantra": "Logo ya hina ya le henhla ya Mantra",
+    "allToSpace": "Hinkwaswo ku ya eXibakabakeni Logo",
+    "isro": "Logo ya ISRO",
+    "mercosul": "Logo ya vu-13 ya Mercosur ya Malembe Mambirhi",
+    "inpe": "Logo ya Nhlengeletano ya Ntirho ya INPE ArtSat",
+    "solidConcepts": "Logo ya Miehleketo leyi Tiyeke",
+    "ideaSpace": "Logo ya Ndhawu ya Miehleketo"
+  }
+}

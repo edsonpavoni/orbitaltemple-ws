@@ -1,0 +1,43 @@
+{
+  "title": "Atikan & Open Source - Orbital Temple",
+  "heading": "Atikan & Open Source",
+  "intro": {
+    "paragraph1": "Sadaya téknologi anu dikembangkeun pikeun misi Orbital Temple bakal <strong>open source</strong> sareng sayogi online dina <strong>basa Portugis</strong> , <strong>Inggris</strong> , <strong>Spanyol</strong> , sareng <strong>Hindi</strong> , ngamajukeun kamajuan eksplorasi ruang angkasa di <strong>Global South</strong> . Misi sareng proyék énggal tiasa nganggo Kuil Orbital salaku pondasi pikeun ékspérimén artistik atanapi ilmiah sorangan.",
+    "paragraph2": "Salaku bagian tina misi pendidikanna, Orbital Temple bakal nawiskeun kursus multibasa gratis ngeunaan cara ngawangun sareng ngaluncurkeun satelit. Éta bakal janten kasempetan langsung pikeun diajar ngeunaan téknologi satelit sareng ngalaksanakeunana. Saha waé di luhur umur <strong>16</strong> bakal tiasa ngawangun satelit sorangan, diajar ngeunaan sajarah seni di luar angkasa, konsép dasar éléktronika, mékanika sareng élmu ruang angkasa, kalebet kumaha ngabiayaan proyék sareng kumaha cara ngawangun anteneu pikeun komunikasi sareng satelit dina orbit."
+  },
+  "spaceGap": {
+    "heading": "Naha Ieu Perkara: The Space Gap",
+    "paragraph1": "Istilah <strong>&quot;Space Gap&quot;</strong> nujul kana pamisah antara nagara-nagara maju anu tiasa ngaksés kasempetan téknologi anu dimeunangkeun ku eksplorasi ruang angkasa, sareng nagara berkembang anu kakurangan aksés kana téknologi ieu. Nagara-nagara di Global South kedah mayar jumlah anu ageung ka pamaréntah atanapi perusahaan asing pikeun aksés dasar kana inpormasi anu diproduksi ku téknologi satelit.",
+    "paragraph2": "Téknologi angkasa nyadiakeun mangpaat kritis: satelit mantuan merangan logging ilegal, fishing ilegal, sarta perdagangan satwa ilegal, nu ngagambarkeun leuwih ti <strong>$73 milyar per taun</strong> . Aranjeunna nyayogikeun inpormasi penting ngeunaan iklim, produksi cai, sareng kaamanan pangan. Satelit ngaktifkeun irigasi anu akurat sareng téknik pertanian, sareng ngabantosan nyegah bencana alam. Industri antariksa tiasa nyiptakeun dugi ka <strong>1 juta padamelan</strong> ku <strong>2030</strong> , tapi kasempetan ieu tetep teu tiasa diaksés ku seueur di Global South.",
+    "paragraph3": "Ku nyayogikeun téknologi sareng atikan open-source, kami tujuanana pikeun ngadémokrasikeun aksés ka rohangan sareng nguatkeun generasi anyar pikeun impian saluareun langit."
+  },
+  "empowering": {
+    "heading": "Empowering Generasi Salajengna",
+    "intro": "Urang bakal ngajarkeun generasi saterusna penjelajah ruang angkasa kumaha ngawangun jeung ngajalankeun satelit sorangan, ngawengku jejer penting kaasup:",
+    "topics": {
+      "history": "<strong>Sajarah seni di luar angkasa:</strong> Ngartos katurunan satelit artistik sareng karya seni dumasar-spasi.",
+      "concepts": "<strong>Konsep inti:</strong> <strong>ArtSat</strong> (satelit artistik), téhnologi spasi <strong>Open Source</strong> , jeung <strong>Space Gap</strong> .",
+      "missions": "<strong>Misi ruang angkasa:</strong> Kumaha konsép sareng ngarancang misi, sareng kumaha carana ngabentuk tim pikeun ngalaksanakeunana.",
+      "electronics": "<strong>Éléktronik di rohangan:</strong> Konsep dasar komponén éléktronik anu tiasa salamet sareng fungsina di lingkungan rohangan.",
+      "mechanics": "<strong>Mékanika di rohangan:</strong> Ngartos syarat struktural sareng mékanis pikeun desain satelit.",
+      "orbits": "<strong>Orbit sareng peluncur:</strong> Béda jinis orbit sareng kumaha milih panyadia peluncuran pikeun misi anjeun.",
+      "financing": "<strong>Strategi pembiayaan:</strong> Kumaha ngamankeun dana sareng sumber pikeun ngaluncurkeun satelit anjeun. Kursusna bakal nyayogikeun sumber pikeun kéngingkeun dana pikeun peluncuran anjeun, ngabantosan mahasiswa milarian program sareng hibah ti lembaga internasional anu ngadukung para ilmuwan ngora sareng mahasiswa dina ngirim satelitna ka luar angkasa.",
+      "groundStation": "<strong>Pangwangunan stasiun taneuh:</strong> Kumaha carana ngawangun anteneu pikeun komunikasi sareng Kuil Orbital sareng satelit sanés."
+    }
+  },
+  "technology": {
+    "heading": "Téknologi: PocketQube Satelit",
+    "paragraph1": "Murid bakal diajar damel sareng satelit <strong>PocketQube</strong> , standar nanosatelit ukur <strong>5cm³</strong> sareng beuratna dugi ka <strong>250g</strong> . Sanajan ukuranana leutik, PocketQubes mangrupakeun parabot kuat sanggup observasi Bumi, monitoring, sarta komunikasi.",
+    "paragraph2": "Satelit kompak ieu ngagaduhan seueur aplikasi dunya nyata, ti panalungtikan ilmiah ngeunaan parobahan iklim dugi ka komunikasi antarbenua. Kusabab aranjeunna langkung alit sareng langkung hampang, aranjeunna langkung mirah pikeun ngawangun sareng diluncurkeun, ngajantenkeun rohangan langkung diaksés ku mahasiswa, peneliti, sareng seniman di sakuliah dunya."
+  },
+  "globalAccess": {
+    "heading": "Aksés Global, Mimitian ti Global Kidul",
+    "paragraph1": "Kursusna bakal sayogi pikeun saha waé anu <strong>umurna 16 taun atanapi langkung</strong> , lengkep <strong>gratis</strong> . Urang dimimitian ku eusi dina <strong>basa Portugis</strong> , <strong>Spanyol</strong> , <strong>Inggris</strong> , jeung <strong>Hindi</strong> , kalawan rencana rék dilegakeun ka basa tambahan nalika program tumuwuh.",
+    "paragraph2": "Misi urang dimimitian di Global Selatan sarta ngalegaan ka dunya, mastikeun yén generasi saterusna penjelajah ruang angkasa asalna ti sagala penjuru Bumi."
+  },
+  "callToAction": {
+    "heading": "Bantu Kami Ngalaksanakeun Ieu",
+    "content": "Program atikan ieu ayeuna nuju dikembangkeun. Kami milarian mitra sareng donor anu ngabagi visi kami pikeun demokratisasi aksés kana téknologi angkasa. Upami anjeun atanapi organisasi anjeun hoyong ngadukung inisiatif ieu, mangga buka <a href=\"/support\">halaman dukungan</a> kami pikeun diajar ngeunaan kasempetan partnership."
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Orbital ibodatxonasiga xayr-ehson qiling",
+  "heading": "Xayriyangizni yakunlang",
+  "donatingTo": "Siz xayriya qilasiz:",
+  "chooseHow": "Soliqdan chegirib tashlanadigan xayriyani qanday yakunlashni xohlayotganingizni tanlang:",
+  "option1": {
+    "heading": "Variant 1: Hozir onlayn xayriya qiling",
+    "description": "Xavfsiz fiskal homiymiz <strong>The Field</strong> orqali kredit karta, debet karta yoki boshqa onlayn toʻlov usullaridan foydalangan holda xayriyangizni darhol yakunlang. Siz darhol soliq kvitansiyasini olasiz.",
+    "button": "The Field orqali xayriya qiling →"
+  },
+  "option2": {
+    "heading": "Variant 2: Roy fondiga bank depoziti",
+    "description": "Bizning strategik hamkorimiz va moliyaviy homiymiz bo&#39;lgan <strong>Roy Foundationga</strong> to&#39;g&#39;ridan-to&#39;g&#39;ri bank depozitini yoki pul o&#39;tkazmasini amalga oshiring. Ushbu parametr kattaroq xayriyalar yoki xalqaro pul o&#39;tkazmalari uchun ideal.",
+    "bankingInfo": "Bank ma'lumotlari",
+    "fields": {
+      "accountName": "Hisob nomi:",
+      "bankName": "Bank nomi:",
+      "accountNumber": "Hisob raqami:",
+      "routingNumber": "Marshrut raqami:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Malumot:"
+    },
+    "instructions": "Iltimos, mos yozuvlar maydoniga &quot; <strong>Orbital Temple - {donationType}</strong> &quot; ni kiriting. O‘tkazishni tugatgandan so‘ng, soliq kvitansiyasini olish uchun bizga <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> elektron pochta manziliga o‘tkazma ma’lumotlarini yuboring.",
+    "button": "Depozit haqida biz bilan bog'laning →"
+  },
+  "taxInfo": {
+    "heading": "Soliqdan chegirib tashlanadigan berish",
+    "description": "Orbital Temple <strong>501(c)(3)</strong> notijorat tashkiloti <strong>The Field (Performance Zone Inc.)</strong> kompaniyasining moliyaviy homiylikdagi loyihasidir. AQShning barcha badallari qonun tomonidan ruxsat etilgan darajada soliqqa tortiladi.",
+    "questions": "Savollar? Biz bilan bog&#39;laning <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

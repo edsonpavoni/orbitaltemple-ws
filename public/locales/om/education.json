@@ -1,0 +1,43 @@
+{
+  "title": "Barnoota & Madda Banaa - Mana Qulqullummaa Orbital",
+  "heading": "Barnoota & Madda Banaa",
+  "intro": {
+    "paragraph1": "Teeknooloojiin ergama Orbital Temple jedhamuuf qophaa&#39;e hundi <strong>madda banaa</strong> ta&#39;ee <strong>afaan Poortugaal</strong> , <strong>Ingiliffaa</strong> , <strong>Ispeen</strong> fi <strong>Hindiitiin</strong> toora interneetii irratti kan argamu yoo ta&#39;u , kunis guddina qorannoo hawaa <strong>Kibba Addunyaa</strong> keessatti guddisa . Ergamoonni fi pirojektoonni haaraan Orbital Temple akka bu’uura yaalii aartii ykn saayinsii mataa isaaniitti fayyadamuu danda’u.",
+    "paragraph2": "Akka qaama ergama barnootaa isaatti, Orbital Temple akkaataa saatalaayitii ijaaruu fi furguggifamuu danda’u irratti koorsii afaanota hedduu bilisaan ni kenna. Waa&#39;ee teeknooloojii saatalaayitii barachuu fi hojiitti hiikuuf carraa harkaa ta&#39;a. Namni umuriin isaa waggaa <strong>16</strong> ol ta’e kamiyyuu saatalaayitii mataa isaa ijaaree, waa’ee seenaa aartii hawaa, yaad-rimeewwan bu’uuraa elektirooniksii, makaaniksii fi saayinsii hawaa, akkaataa pirojektootaaf maallaqaan gargaaramuu fi akkaataa anteenaa ijaaruun saatalaayitoota orbiitii keessa jiran waliin walqunnamsiisuu dabalatee barachuu ni danda’a."
+  },
+  "spaceGap": {
+    "heading": "Kun Maaliif Barbaachisaa Ta’e: Qaawwa Hawaa",
+    "paragraph1": "Jechi <strong>&quot;Qaawwa Hawaa&quot;</strong> jedhu biyyoota guddatan carraa teeknooloojii qorannoo hawaa argachuu danda&#39;an, fi biyyoota guddachaa jiran kanneen teeknooloojiiwwan kana argachuu hin dandeenye gidduutti qoqqoodinsa uumame agarsiisa. Biyyoonni Kibba Addunyaa keessa jiran odeeffannoo bu’uuraa teeknooloojiiwwan saatalaayitiitiin oomishaman argachuuf mootummoota ykn dhaabbilee biyya alaatif maallaqa guddaa kaffaluu qabu.",
+    "paragraph2": "Teeknooloojiin hawaa faayidaa murteessaa argamsiisa: saatalaayitoonni muka seeraan alaa muruu, qurxummii seeraan alaa qabuu fi daldala bineensota bosonaa seeraan alaa, kan <strong>waggaatti doolaara biiliyoona 73</strong> ol bakka bu’u ittisuuf gargaaru . Waa’ee haala qilleensaa, oomisha bishaanii fi wabii nyaataa odeeffannoo barbaachisaa ta’e ni kennu. Saatalaayitoonni jallisii sirrii fi tooftaalee qonnaa kan dandeessisan yoo ta’u, balaa uumamaa ittisuuf gargaaru. Industiriin hawaa bara <strong>2030tti</strong> <strong>carraa hojii hanga miliyoona 1</strong> uumuu danda&#39;a , ammas carraawwan kun Kibba Addunyaa keessatti namoota hedduu biratti dhaqqabamaa hin taane.",
+    "paragraph3": "Teeknooloojii fi barnoota madda banaa ta’e kennuudhaan, qaqqabummaa hawaa dimokiraatawaa taasisuu fi dhaloota haaraa samii bira darbee abjuu akka abjootu humneessuu kaayyeffanna."
+  },
+  "empowering": {
+    "heading": "Dhaloota Itti Aanu Aangessuu",
+    "intro": "Dhaloota qorattoota hawaa itti aanu akkaataa saatalaayitii mataa isaanii itti ijaaranii fi furguggisan ni barsiifna, mata dureewwan barbaachisoo kanneen akka:",
+    "topics": {
+      "history": "<strong>Seenaa aartii hawaa:</strong> Hidda dhaloota saatalaayitii aartii fi hojiiwwan aartii hawaa irratti hundaa’an hubachuu.",
+      "concepts": "<strong>Yaad-rimeewwan ijoo:</strong> <strong>ArtSat</strong> (saatalaayitii aartii), teeknooloojii hawaa <strong>Madda Banaa</strong> , fi <strong>Qaawwa Hawaa</strong> .",
+      "missions": "<strong>Ergama hawaa:</strong> Akkaataa ergama tokko yaad-rimee fi dizaayinii itti godhan, akkasumas akkaataa garee ijaaruun ergama sana raawwachuu danda’an.",
+      "electronics": "<strong>Elektirooniksii hawaa keessatti:</strong> Yaadota bu’uuraa qaamolee elektirooniksii naannoo hawaa keessatti jiraachuu fi hojjechuu danda’an.",
+      "mechanics": "<strong>Makaaniksii hawaa keessatti:</strong> Dizaayinii saatalaayitii keessatti caasaa fi makaanikaa barbaachisu hubachuu.",
+      "orbits": "<strong>Orbit fi launchers:</strong> Gosa orbit adda addaa fi akkaataa ergama keessaniif dhiyeessitoota furguggisuu filattan.",
+      "financing": "<strong>Tooftaalee faayinaansii:</strong> Akkaataa maallaqaa fi qabeenya saatalaayitii kee furguggisuuf itti argattu. Koorsiichi qabeenya furguggifama keessaniif maallaqa argachuuf gargaaran kan kennu yoo ta’u, barattoonni sagantaalee fi deeggarsa dhaabbilee idil-addunyaa saayintistoota dargaggootaa fi barattoota saatalaayitii isaanii gara hawaatti erguuf deeggaran akka argatan gargaara.",
+      "groundStation": "<strong>Misooma buufata lafaa:</strong> Akkaataa anteenaa Mana Qulqullummaa Orbital fi saatalaayitoota biroo waliin walqunnamuuf ijaaruu dandeenyu."
+    }
+  },
+  "technology": {
+    "heading": "Teeknooloojii: Saatalaayitii PocketQube",
+    "paragraph1": "Barattoonni saatalaayitii <strong>PocketQube</strong> , istaandaardii naannoo saatalaayitii <strong>5cm3</strong> qofa safaruu fi ulfaatina hanga <strong>250g</strong> qabu waliin hojjechuu ni baratu. Xiqqaa ta&#39;us, PocketQubes meeshaalee humna guddaa qaban kanneen lafa ilaaluu, hordofuu fi walqunnamtii danda&#39;aniidha.",
+    "paragraph2": "Saatalaayitoonni kompaaktii kun qorannoo saayinsii jijjiirama qilleensaa irraa kaasee hanga qunnamtii ardiilee gidduu jirutti hojiiwwan addunyaa dhugaa hedduu qabu. Xiqqaa fi salphaa waan ta’aniif ijaaruu fi furguggisuuf gatii madaalawaa waan ta’aniif barattoota, qorattootaa fi aartistoota addunyaa maraaf iddoon akka dhaqqabamu taasisa."
+  },
+  "globalAccess": {
+    "heading": "Dhaqqabummaa Addunyaa, Kibba Addunyaa irraa eegalee",
+    "paragraph1": "Koorsiichi nama <strong>waggaa 16 fi isaa ol ta&#39;e</strong> kamiifuu guutummaatti <strong>bilisaan</strong> kan kennamu ta&#39;a . Qabiyyee afaan <strong>Poortugaal</strong> , <strong>Ispeen</strong> , <strong>Ingiliffaa</strong> , fi <strong>Hindiitiin</strong> jalqabna, sagantichi guddachaa dhufuun gara afaanota dabalataatti babal’achuuf karoora qabna.",
+    "paragraph2": "Ergamni keenya Kibba Addunyaa irraa kan jalqabu yoo ta’u, gara addunyaatti kan babal’atu yoo ta’u, dhaloonni qorattoota hawaa itti aanu golee lafaa hunda irraa akka dhufan mirkaneessa."
+  },
+  "callToAction": {
+    "heading": "Kun Akka Ta'uuf Nu Gargaaraa",
+    "content": "Sagantaan barnootaa kun yeroo ammaa misoomarra jira. Michootaa fi arjoomtoota mul’ata keenya kan qaqqabummaa teeknooloojii hawaa dimokiraatessuuf qooddatan barbaadaa jirra. Yoo ati ykn dhaabbati kee jalqabbii kana deeggaru barbaadde, waa’ee carraa walta’iinsaa baruuf <a href=\"/support\">fuula deeggarsa</a> keenya daawwadhu."
+  },
+  "imageAlt": "Saatalaayitii Mana Qulqullummaa Orbital"
+}

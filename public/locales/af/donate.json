@@ -1,0 +1,31 @@
+{
+  "title": "Skenk aan Orbital Tempel",
+  "heading": "Voltooi jou skenking",
+  "donatingTo": "Jy skenk aan:",
+  "chooseHow": "Kies hoe jy jou belastingaftrekbare skenking wil voltooi:",
+  "option1": {
+    "heading": "Opsie 1: Skenk nou aanlyn",
+    "description": "Voltooi u skenking onmiddellik met &#39;n kredietkaart, debietkaart of ander aanlyn betaalmetodes deur ons veilige fiskale borg, <strong>The Field</strong> . U sal &#39;n onmiddellike belastingkwitansie ontvang.",
+    "button": "Skenk via Die Veld →"
+  },
+  "option2": {
+    "heading": "Opsie 2: Bankdeposito aan Die Roy-stigting",
+    "description": "Maak &#39;n direkte bankdeposito of elektroniese oordrag aan <strong>The Roy Foundation</strong> , ons strategiese vennoot en fiskale borg. Hierdie opsie is ideaal vir groter skenkings of internasionale oordragte.",
+    "bankingInfo": "Bankinligting",
+    "fields": {
+      "accountName": "Rekeningnaam:",
+      "bankName": "Banknaam:",
+      "accountNumber": "Rekeningnommer:",
+      "routingNumber": "Roeteringsnommer:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Verwysing:"
+    },
+    "instructions": "Sluit asseblief &quot; <strong>Orbital Temple - {donationType}</strong> &quot; in die verwysingsveld in. Nadat u oordrag voltooi is, stuur vir ons &#39;n e-pos na <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> met u oordragbesonderhede om u belastingkwitansie te ontvang.",
+    "button": "Kontak Ons Oor Deposito →"
+  },
+  "taxInfo": {
+    "heading": "Belastingaftrekbare Skenkings",
+    "description": "Orbital Temple is &#39;n fiskale geborgde projek van <strong>The Field (Performance Zone Inc.)</strong> , &#39;n <strong>501(c)(3)</strong> niewinsgewende organisasie. Alle Amerikaanse bydraes is belastingaftrekbaar tot die mate wat deur die wet toegelaat word.",
+    "questions": "Vrae? Kontak ons by <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

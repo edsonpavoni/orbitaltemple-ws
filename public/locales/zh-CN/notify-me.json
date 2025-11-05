@@ -1,0 +1,13 @@
+{
+  "title": "收到通知 - 轨道神庙",
+  "heading": "当它升起时收到通知",
+  "description": "2025年11月28日，轨道神庙将升空。<br>留下您的电子邮箱地址，我们会在飞船进入太空时通知您。",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "发送",
+    "sendingButton": "正在发送...",
+    "successMessage": "等它上升到一定高度后，我们会联系你。",
+    "errorMessage": "出错了，请重试。"
+  },
+  "backLink": "← 返回倒计时"
+}

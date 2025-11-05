@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "ka tomo koe\nhe kawa\nki te tuku ingoa\nki roto i te\ntemepara orbital\ni te waahi\ntango\nhe manawa",
+    "button": "kua reri ahau"
+  },
+  "nameInput": {
+    "title": "pato ingoa",
+    "subtitle": "ka piki ake ki te Orbital Temple i te waahi.",
+    "placeholder": "ingoa",
+    "button": "kia piki ake"
+  },
+  "emailInput": {
+    "title": "patohia to imeera",
+    "subtitle": "kia whiwhi koe i te karere ina kake te ingoa.",
+    "placeholder": "tō īmēra",
+    "button": "kua oti"
+  },
+  "loading": {
+    "alt": "Uta ana"
+  },
+  "success": {
+    "text": "te ingoa\n{{ingoa}}\nkua rarangi inaianei\nmo te kakenga.\nina te\nwhare tapu i te waahi\naligns, with\nto tatou antenna\ni runga i te whenua\nma matou e tuku\nte ingoa\na ka whiwhi koe\nhe karere."
+  }
+}

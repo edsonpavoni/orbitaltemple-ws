@@ -1,0 +1,16 @@
+{
+  "title": "Panaglansa iti Law-ang - Orbital a Templo",
+  "heading": "Panangilansa iti Law-ang",
+  "intro": "Ti Orbital Temple ket naikeddeng a mailansa a nalugan iti PSLV (Polar Satellite Launch Vehicle) inton Nobiembre 28th, 2025 manipud iti Satish Dhawan Space Center idiay Sriharikota, India.",
+  "partnership": "Ti pannakairuar ti Orbital Temple ket maysa a panagtinnulong ti NewSpace India Limited (NSIL), maysa a Kompania ti Gobierno ti India iti sidong ti Departamento ti Law-ang, Antrix Corporation, ken ti artista. Daytoy a panagtitinnulong ket mangibagi ti maysa a naipangpangruna a milestone para iti arte iti panagsukisok ti law-ang, a mangitipon ti programa ti law-ang ti India nga addaan iti artistiko a panagkita ti radikal a pannakairaman.",
+  "risks": {
+    "heading": "Dagiti peggad",
+    "paragraph1": "Naaramid ti satellite tapno makaibtur kadagiti nakaro a kasasaad ti panagdayyeg ken siklo ti pudot, ken nainget ti pannakasubokna. Nupay kasta, dagiti panangipatayab iti law-ang ket addaan kadagiti nainkasigudan a peggad. No nadadael ti satellite bayat ti pannakaipatayab wenno pannakaipakatna, wenno no mapaay a mangipasdek iti komunikasion kadagiti estasiontayo iti daga, agtrabahokami a mangrisut ken mangrisut iti aniaman nga isyu. Ti satellite ket addaan kadagiti redundant a sistema ken backup protocol a nadisenio tapno mapaadu ti tsansa ti balligi ti mision.",
+    "paragraph2": "Mainayon pay, mabalin nga agtalinaed ti satellite iti orbit iti nakurang a 10 a tawen no dagiti kasasaad ti atmospera wenno dadduma pay a banag ti pakaigapuan ti nasapsapa a panagrupsa ti orbit. Nupay diniseniotayo dayta nga agpaut iti di kumurang a sangapulo a tawen, ti aktual a kapaut ti biag ket agpannuray kadagiti kasasaad a ditay naan-anay a makontrol.",
+    "paragraph3": "No mapaay ti umuna a panangiruar, wenno no ditay maibanag daytoy a mision kas naiplano, sukimatentayo dagiti alternatibo a dalan nga agturong iti sango, a mabalin a pakairamanan ti maikadua a panangpadas iti panangiruar nga addaan iti magun-od a badyet, pannakitinnulong kadagiti dadduma a mision, wenno dokumentasion ti panangpadas kas paset ti salaysay ti obra ti arte maipapan iti arapaap ken limitasion."
+  },
+  "imageAlts": {
+    "india": "Sentro ti Law-ang ti ISRO, India",
+    "satellite": "Satellite ti Templo ti Orbital"
+  }
+}

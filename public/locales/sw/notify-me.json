@@ -1,0 +1,13 @@
+{
+  "title": "Taarifa - Orbital Temple",
+  "heading": "Taarifa Inapoinuka",
+  "description": "Mnamo Novemba 28, 2025, Hekalu la Orbital litapaa.<br> Acha barua pepe yako, na tutakuambia itakapofika nafasi.",
+  "form": {
+    "emailPlaceholder": "yako@email.com",
+    "sendButton": "Tuma",
+    "sendingButton": "Inatuma...",
+    "successMessage": "Tutakufikia wakati inapaa.",
+    "errorMessage": "Hitilafu fulani imetokea. Tafadhali jaribu tena."
+  },
+  "backLink": "← Rudi kwenye hesabu"
+}

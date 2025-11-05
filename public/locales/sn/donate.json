@@ -1,0 +1,31 @@
+{
+  "title": "Ipa kuOrbital Temple",
+  "heading": "Pedzisa Mupiro Wako",
+  "donatingTo": "Uri kupa ku:",
+  "chooseHow": "Sarudza maitiro aungade kupedzisa mutero wako unobviswa mutero:",
+  "option1": {
+    "heading": "Sarudzo 1: Donate Online Ikozvino",
+    "description": "Pedzisa chipo chako nekukurumidza uchishandisa kadhi rechikwereti, kadhi rechikwereti, kana dzimwe nzira dzekubhadhara dzepamhepo kuburikidza neanochengetedza mari anotsigira, <strong>Munda</strong> . Uchagamuchira risiti yemutero chiriporipo.",
+    "button": "Ipa kuburikidza neMunda →"
+  },
+  "option2": {
+    "heading": "Sarudzo 2: Bank Deposit kuThe Roy Foundation",
+    "description": "Ita dhipoziti yakananga kubhangi kana waya kuThe <strong>Roy Foundation</strong> , shamwari yedu yehungwaru uye mubatsiri wemari. Iyi sarudzo yakanaka kune mipiro yakakura kana kutamiswa kune dzimwe nyika.",
+    "bankingInfo": "Banking Information",
+    "fields": {
+      "accountName": "Zita reakaundi:",
+      "bankName": "Zita reBhangi:",
+      "accountNumber": "Nhamba yeakaundi:",
+      "routingNumber": "Nhamba Yenzira:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Reference"
+    },
+    "instructions": "Ndokumbira uise &quot; <strong>Orbital Tembere - {donationType}</strong> &quot; mundima yereferensi. Mushure mekupedza kutumira kwako, titumire email pa <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> neruzivo rwako rwekutamisa kuti ugamuchire risiti yako yemutero.",
+    "button": "Bata Isu Nezve Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Mutero-Deductible Kupa",
+    "description": "Orbital Tembere ipurojekiti inotsigirwa nemari yeThe <strong>Field (Performance Zone Inc.)</strong> , iyo <strong>501 (c) (3)</strong> isiri purofiti sangano. Mipiro yese yeUS inobvisirwa mutero kusvika pamwero unobvumidzwa nemutemo.",
+    "questions": "Mibvunzo? Bata nesu pa <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

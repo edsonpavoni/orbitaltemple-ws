@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "y gwaith celf",
+    "sendAName": "anfon enw",
+    "fromTheArtist": "gan yr artist",
+    "yetAnotherTemple": "eto, teml arall?",
+    "howItWorks": "sut mae'n gweithio",
+    "spaceLaunch": "lansiad gofod a risgiau",
+    "briefHistory": "hanes byr o gelf yn y gofod",
+    "education": "addysg a ffynhonnell agored",
+    "sustainability": "cynaliadwyedd a malurion gofod",
+    "press": "y wasg a'r cyfryngau",
+    "team": "tîm",
+    "partners": "partneriaid",
+    "support": "cefnogaeth",
+    "technicalInfo": "gwybodaeth dechnegol"
+  },
+  "ritual": {
+    "label": "defod",
+    "ariaLabel": "Ewch i mewn i'r ddefod - Anfonwch enw i'r Deml Orbital"
+  },
+  "footer": {
+    "credits": "Mae Orbital Temple yn waith celf gan Edson Pavoni, a grëwyd mewn cydweithrediad â Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, a phawb sy'n parhau i anfon enwau at y deml hon."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Kutoka kwa Msanii",
+  "opening": {
+    "question": "Je! ni nani huyu mtu wa kupendekeza hekalu angani?",
+    "thanks": "Asante kwa swali.",
+    "answer": "Jibu fupi ni kwamba mimi ni msanii. Urefu ni huu:"
+  },
+  "origin": {
+    "sao_paulo": "Nilizaliwa kwenye viunga vya São Paulo, katika ujirani ambao ulinifundisha mapema maana ya hatari. Wengi wa marafiki zangu wa shule wako jela sasa. Baba yangu wa kambo yuko jela. Vurugu haikuwa kitu nilichosoma juu yake, ilikuwa ulimwengu ambao nililazimika kuzunguka. Na nilijua nilihitaji kutoroka.",
+    "technology": "Teknolojia ikawa njia yangu ya kutoka. Nilijifunza kupanga, nilijifunza vifaa vya elektroniki nikiwa kijana. Msimbo ulikuwa lugha ambayo inaweza kunipeleka mahali pengine. Kufanya kazi na teknolojia ilikuwa ni kutoroka kwangu kutoka kwa umaskini.",
+    "christianity": "Lakini pia nilikuwa nikitafuta mali, upendo, kitu cha kuamini. Nilipata Ukristo, au ilinipata. Nilikubaliwa. Nilipendwa. Nilikuwa na jumuiya. Nilijifunza kusamehe, kuamini, kusonga pamoja kwa kusudi kubwa zaidi.",
+    "price": "Bei, ingawa, ilikuwa juu. Pia nilijifunza mambo mengi ambayo bado sijajifunza. Kwa hivyo nilitoroka kutoka kwa hilo pia."
+  },
+  "searching": {
+    "walls": "Ninajua kuta hufanya nini. Nimewahisi. Nimekuwa pande zote mbili: kuwekwa nje, kuwekwa ndani. Kilichofuata ni miaka ya kutafuta kitu ambacho sikuweza kutaja. Mungu alikufa katika miaka hiyo. Mungu ambaye nilikuwa nimefundishwa juu yake, hata hivyo, yule mwenye sheria na hukumu na milango ambayo ilifunguliwa tu kwa baadhi ya watu.",
+    "art": "Nilianza kufanya sanaa ili kuchunguza maswali haya: kuhusu urafiki na teknolojia, kuhusu kumbukumbu na kifo, kuhusu nani anastahili mbinguni. Nilianza kuunda mashine ambazo hufikiria upya uhusiano wetu na teknolojia, mashine zinazohitaji ushiriki wako, uwepo wako, jina lako, kubadilisha kutoka chuma na msimbo hadi kitu hai."
+  },
+  "pandemic": {
+    "intro": "Kisha janga hilo liligonga Brazil.",
+    "government": "Wakati chanjo za COVID zilicheleweshwa, serikali yangu ilikuwa ikijadiliana kuhusu malipo ya dola moja kwa kila dozi. Walikuza dawa ambayo inaeleweka kuwa haifai, wakicheka wakati watu walikufa kwa shida kupumua. Tuliamka kila siku kwa nambari tofauti. Ni watu wangapi walikufa katika saa 24 zilizopita? Ilikuwa zaidi, au chini ya ilivyotarajiwa?",
+    "war": "Nusu ya ulimwengu iliogopa, na nusu nyingine ilikataa. Tulikuwa vitani, na virusi na sisi kwa sisi.",
+    "memorial": "Nilitaka kuunda nafasi kwa ajili ya huzuni ya pamoja, kwa hivyo pamoja na mamia ya watu niliunda Ukumbusho wa Inumeráveis. Mchoro kwenye makutano ya sanaa na uandishi wa habari. Tulihoji familia zilizopoteza mtu. Tuliandika hadithi ya maisha ya mtu waliyempoteza. Tulibadilisha nambari kuwa historia. Mashairi, nyimbo, symphonies zilifanywa na historia hizo. Stars ilisoma hadithi hizo kwenye televisheni ya taifa. Mradi huo ulifikia mamilioni.",
+    "meaning": "Kilichojalisha haikuwa kiwango, ni kwamba kila hadithi ilikuwa jina, maisha, mbingu ya mtu."
+  },
+  "discovery": {
+    "pattern": "Baada ya mazungumzo zaidi ya elfu kumi kwa huzuni, mtindo ulianza kujitokeza. Tunapozungumza juu ya mtu aliyekufa, hatusemi tu mambo mazuri; tunachagua vipande vya hadithi zao kana kwamba tunaandika barua ya mapendekezo. Pendekezo kwa mlinzi wa lango la paradiso. Tunafanya tuwezavyo kuwapeleka mahali pa kukubalika, kupumzika, heshima na kumbukumbu.",
+    "understanding": "Na nilielewa kitu ambacho kilibadilisha kila kitu: Tumejeruhiwa na mahekalu yale tuliyojenga. Imani zetu kuhusu nani anastahili mbinguni hutengeneza moja kwa moja tunaowatenga hapa Duniani. Wakoloni wa Kireno nchini Brazili waliamini watu Weusi hawana roho; imani hiyo ilihalalisha utumwa. Ikiwa wewe ni wa kiasili, ikiwa ulizaliwa mahali pasipofaa au ulimpenda mtu asiyefaa, uliambiwa milango ya mbinguni imefungwa kwako.",
+    "birth": "Hivyo ndivyo Hekalu la Orbital lilizaliwa."
+  },
+  "shaman": {
+    "secular": "Hakuna msanii anayeweza kuwa wa kidunia kweli. Sisi daima tumefungwa kwa babu yetu wa kawaida, shaman. Hapo awali, kulikuwa na pango. Wanadamu walijenga wanyama kwenye kuta sio kupamba, lakini kuomba. Walicheza, na pango likawa hekalu. Shaman hubeba roho ya ibada; msanii ana aura ya sanaa. Tunapaka rangi, tunachonga, tunaweka kanuni, tunatengeneza mustakabali wetu tunaotaka sio kupamba, bali kuomba. Sanaa yote ni ya kiroho, hata inapodai kuwa sivyo."
+  },
+  "space": {
+    "question": "Ni wapi tungeweza kujenga hekalu bila kuta? Ambapo hakuna taifa au dini ingeweza kudai. Ambapo tunaweza kujifikiria kama kundi moja.",
+    "answer": "Nafasi.",
+    "description": "Satelaiti shirikishi ya sanaa kutoka Global South. Hekalu katika obiti ambayo inaalika kila mtu kutuma majina yao angani, bila kujali wao ni nani, walizaliwa wapi, wanampenda nani, wanaamini nini. Mahali ambapo ujumuishaji mkali unawezekana, katika obiti, nje ya mipaka.",
+    "mission": "Misheni hii ni chanzo wazi. Kila hati ya kiufundi, kila safu ya msimbo itapatikana bila malipo ili wasanii wengine, jumuiya nyingine, mataifa mengine yaweze kuunda satelaiti zao wenyewe. Kwa hivyo Global South haishiriki tu katika uchunguzi wa anga, lakini inaongoza."
+  },
+  "closing": {
+    "answer": "Kwa hivyo ni nani huyu mtu wa kujenga hekalu angani? Mimi si kuijenga. Hekalu linajengwa na kila mtu anayeamua kutuma jina, kuliona kuwa takatifu, kulifanya halisi. Mimi ndiye ninayependekeza. Wewe ndiye unayeijenga ukiamua.",
+    "signature": "Kwa fadhili,",
+    "name": "Edson Pavoni"
+  }
+}

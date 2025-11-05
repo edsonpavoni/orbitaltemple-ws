@@ -1,0 +1,31 @@
+{
+  "title": "Donacu al Orbita Templo",
+  "heading": "Kompletigu Vian Donacon",
+  "donatingTo": "Vi donacas al:",
+  "chooseHow": "Elektu kiel vi volas kompletigi vian impostdepreneblan donacon:",
+  "option1": {
+    "heading": "Opcio 1: Donacu Interrete Nun",
+    "description": "Kompletigu vian donacon tuj per kreditkarto, debetkarto, aŭ aliaj interretaj pagmetodoj tra nia sekura fiska sponsoro, <strong>The Field</strong> . Vi ricevos tujan impostkvitancon.",
+    "button": "Donacu per La Kampo →"
+  },
+  "option2": {
+    "heading": "Opcio 2: Banka deponaĵo al La Fondaĵo Roy",
+    "description": "Faru rektan bankan deponejon aŭ bankan translokigon al <strong>La Roy Fonduso</strong> , nia strategia partnero kaj fiska sponsoro. Ĉi tiu opcio estas ideala por pli grandaj donacoj aŭ internaciaj translokigoj.",
+    "bankingInfo": "Bankaj Informoj",
+    "fields": {
+      "accountName": "Kontonomo:",
+      "bankName": "Banknomo:",
+      "accountNumber": "Kontonumero:",
+      "routingNumber": "Vojiga Numero:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referenco:"
+    },
+    "instructions": "Bonvolu inkluzivi &quot; <strong>Orbital Temple - {donationType}</strong> &quot; en la referencan kampon. Post kompletigo de via translokigo, retpoŝtu nin ĉe <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> kun viaj translokigaj detaloj por ricevi vian impostkvitancon.",
+    "button": "Kontaktu nin pri deponejo →"
+  },
+  "taxInfo": {
+    "heading": "Impost-Deduktebla Donado",
+    "description": "Orbital Temple estas fiske sponsorita projekto de <strong>The Field (Performance Zone Inc.)</strong> , neprofitcela organizaĵo <strong>501(c)(3)</strong> . Ĉiuj usonaj kontribuoj estas impostdepreneblaj laŭ la mezuro permesita de leĝo.",
+    "questions": "Demandoj? Kontaktu nin ĉe <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

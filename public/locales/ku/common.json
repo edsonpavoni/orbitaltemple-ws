@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "karê hunerî",
+    "sendAName": "navekî bişîne",
+    "fromTheArtist": "ji hunermend",
+    "yetAnotherTemple": "hîn, perestgeheke din?",
+    "howItWorks": "çawa dixebite",
+    "spaceLaunch": "firîna fezayê û rîsk",
+    "briefHistory": "kurtedîrokeke hunerî di fezayê de",
+    "education": "perwerde û çavkaniya vekirî",
+    "sustainability": "domdarî û bermahiyên fezayê",
+    "press": "çapemenî û medyayê",
+    "team": "kom",
+    "partners": "hevkarên",
+    "support": "alîkarî",
+    "technicalInfo": "agahiyên teknîkî"
+  },
+  "ritual": {
+    "label": "awa",
+    "ariaLabel": "Bikevin rêûresmê - Navekî bişînin Perestgeha Orbital"
+  },
+  "footer": {
+    "credits": "Perestgeha Orbital xebatek hunerî ya Edson Pavoni ye, ku bi hevkariya Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, û her kesên ku ev navên ku dişînin Marthi, û her kesên ku dişînin ji wan re, Roberta Savian Rosa, Claray, hatiye afirandin. perestgeh."
+  }
+}

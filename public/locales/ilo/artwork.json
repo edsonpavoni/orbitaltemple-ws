@@ -1,0 +1,31 @@
+{
+  "title": "Ti Obra ti Arte - Orbital a Templo",
+  "heading": "Ti Obra ti Arte",
+  "intro": {
+    "paragraph1": "Ti Orbital Temple ket maysa a satellite nga addaan iti artistiko a mision: maysa a pakalaglagipan iti ruar ti law-ang a silulukat iti tunggal makarikna a parsua nga agbibiag wenno nagbiag ditoy Daga.",
+    "paragraph2": "Babaen ti teknolohikal a wagas, ti siasinoman ket mabalinna nga ipatulod ti nagan ti maysa a tao iti Templo, maysa man a tao a pimmusay, maysa a tao a sibibiag unay, wenno aniaman a parsua a maikari a malaglagip."
+  },
+  "sculpture": {
+    "heading": "Ti Eskultura",
+    "paragraph1": "Ti obra ti arte ket addaan iti tallo a co-dependent element: maysa a satellite a nangnangruna a nadisenio a mangidulin iti binilion a nagan; maysa nga eskultura ti publiko a mangisinnukat iti impormasion iti satellite; ken maysa a website a babaen iti dayta ipatulod dagiti makipaset dagiti nagan, manipud ita agingga a pimmusayda, idiay langit.",
+    "paragraph2": "Kas maysa a multidisiplina a panagregget, ti Orbital a Templo ket mabalin a maibilang a maysa a lugar-a naisangsangayan nga eskultura, nga agnanaed iti law-ang. Maysa met a proyekto ti Artsat."
+  },
+  "antenna": {
+    "heading": "Ti Antena Kas Maysa nga Eskultura ti Publiko",
+    "paragraph1": "Maysa nga antena a mangikonektar kadatayo iti law-ang.",
+    "paragraph2": "Madisenio ti antena a direkta a makikomunikar iti orbital satellite.",
+    "paragraph3": "Iti nabalitokan a reflective surface, a mangsarming iti langit iti ngato dayta, daytoy ket maysa a pangrugian a punto para iti mass stimulation (wenno ti relasiontayo iti no ania ti ‘ngato’).",
+    "paragraph4": "Bayat a saan a naikabil dagiti eskultura iti kaaduan a paset ti lubong, dagiti Frames from Earth-tayo, nga agdama a mangkonkontrol iti satellite, ket mangipatulod kadagiti nagan iti tunggal panaglabas.",
+    "paragraph5": "Tumulongkayo a mangyeg iti daytoy a sirmata iti siudadyo—a mangikabil kadagiti eskultura ti antenna a mangtignay kadagiti saritaan maipapan iti panagsukisok iti law-ang, arte, ken ti pagbibingayantayo a lugar iti kosmos. <a href=\"/support\">Ammuem ti ad-adu pay maipapan iti panangsuporta iti proyekto</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite ti Templo ti Orbital",
+    "riseNy": "Orbital nga Templo sa Rise NY",
+    "installation": "Orbital nga Templo ni Clara Marques",
+    "antenna": "Orbital nga Antena ti Templo"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital a Templo iti law-ang. 3D a panagiparang babaen ti RiseNY&Partners.",
+    "mercosul": "Instalasion ti Orbital a Templo idiay Mercosul Biennial, idiay Porto Alegre, Brasil.<br> Ladawan ni Clara Marques."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "মহাকাশে শিল্পের সংক্ষিপ্ত ইতিহাস - অরবিটাল টেম্পল",
+  "heading": "মহাকাশে শিল্পের সংক্ষিপ্ত ইতিহাস",
+  "intro": "<strong>১৯৫৭</strong> সালে প্রথম সফল কৃত্রিম উপগ্রহ উৎক্ষেপণের পর থেকে দশ হাজারেরও বেশি উপগ্রহ পৃথিবীর কক্ষপথে প্রবেশ করেছে। এই নতুন যুগে, শিল্পীরা তাদের অনুশীলন সম্প্রসারণের একটি উপায় খুঁজে পেয়েছেন এবং মহাকাশ একটি নতুন ধরণের ক্যানভাসে পরিণত হয়েছে। এর সাথে সাথে, মহাকাশ অনুসন্ধানের রাজনীতি সম্পর্কে মৌলিক প্রশ্নগুলি উঠে এসেছে - যদিও আরও অনেক বিষয় এখনও আলোচনা করা বাকি।",
+  "sections": {
+    "leonov": {
+      "text": "মহাকাশে তৈরি প্রথম শিল্পকর্মটি ছিল পৃথিবীর উপর সূর্যোদয়ের একটি অঙ্কন, যা <strong>১৯৬৫</strong> সালে ভোসখোদ ২-তে থাকাকালীন রাশিয়ান নভোচারী <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">আলেক্সি লিওনভ</a></strong> তৈরি করেছিলেন।",
+      "caption": "মহাকাশে তৈরি প্রথম শিল্পকর্ম, এবং আলেক্সি লিওনভ যে পেন্সিল দিয়ে এটি আঁকতেন। ছবি: ইউরি গ্যাগারিন মহাকাশচারী প্রশিক্ষণ কেন্দ্রের জাদুঘর"
+    },
+    "moonMuseum": {
+      "paragraph1": "তিন বছর পর, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">মুন মিউজিয়াম</a></strong> , একটি ক্ষুদ্র সিরামিক প্লেট, যা চাঁদে অবতরণ করে বলে মনে করা হয়, তৎকালীন মার্কিন যুক্তরাষ্ট্রের ছয়জন বিশিষ্ট শিল্পীর শিলালিপি সহ: <strong>রবার্ট রাউশেনবার্গ</strong> , <strong>ডেভিড নভরোস</strong> , <strong>জন চেম্বারলেইন</strong> , <strong>ক্লেস ওল্ডেনবার্গ</strong> , <strong>ফরেস্ট মায়ার্স</strong> এবং <strong>অ্যান্ডি ওয়ারহল</strong> ।",
+      "caption1": "নিউ ইয়র্ক টাইমসের মূল নিবন্ধ থেকে মুন মিউজিয়ামের ছবি। বুড়ো আঙুলটি ওয়ারহলের অঙ্কনকে আড়াল করে রেখেছে।",
+      "paragraph2": "ওয়ারহলের উস্কানিমূলক অবদান - উপরের বামপন্থীরা - এই প্রকল্পটিকে সেই সময়ে যোগাযোগ মাধ্যমের জন্য একটি চ্যালেঞ্জ করে তুলেছিল।",
+      "caption2": "নিউ ইয়র্ক টাইমস যে ছবিটি প্রকাশ করার জন্য বেছে নিয়েছে, নীচে শিল্পকর্মটি দৃশ্যমান এবং উপরের বাম কোণে অ্যান্ডি ওয়ারহলের অঙ্কন।"
+    },
+    "fallenAstronaut": {
+      "text": "<strong>১৯৭১</strong> সালে, অ্যাপোলো ১৫ মহাকাশচারী <strong>ডেভিড স্কট</strong> চাঁদে <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;ফলন মহাকাশচারী&quot;</a></strong> নামে একটি ছোট আকারের মানবিক অ্যালুমিনিয়াম ভাস্কর্য স্থাপন করেছিলেন। বেলজিয়ামের শিল্পী <strong>পল ভ্যান হোয়েডঙ্ক</strong> এই ভাস্কর্যটি দিয়ে মহাকাশ অনুসন্ধানের অগ্রগতিতে মারা যাওয়া মহাকাশচারী এবং মহাকাশচারীদের স্মরণ করার উদ্দেশ্যে তৈরি করেছিলেন।",
+      "caption": "হ্যাডলি-অ্যাপেনাইন অবতরণস্থলে চাঁদে রেখে যাওয়া স্মারক ফলকের দৃশ্য।"
+    },
+    "pioneerVoyager": {
+      "text": "<strong>১৯৭০-এর</strong> দশকে, <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">পাইওনিয়ার প্লেক</a></strong> এবং <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ভয়েজার প্রোব</a></strong> উভয়ই মহাকাশে শিল্পের জন্য নতুন দিগন্ত স্থাপন করেছিল। পৃথিবী থেকে দৃশ্যমান বার্তা সহ সোনার অ্যানোডাইজড অ্যালুমিনিয়াম ফলক বহন করে, যা দূর ভবিষ্যতে অন্য যে কোনও মহাকাশযাত্রীর কাছে পৌঁছাতে পারে, তারা মানব জীবনের সবচেয়ে মৌলিক উপাদানগুলিকে চিত্রিত করেছিল।",
+      "caption": "পাইওনিয়ার ১০ এবং ১১ ফলক, ১৯৭০-এর দশকে গভীর মহাকাশে নিয়ে যাওয়া হয়েছিল।"
+    },
+    "dove": {
+      "text": "<strong>১৯৯০</strong> সালে, ব্রাজিল এই ভূখণ্ডে তার ছাপ রেখে যায় <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , যা একটি অসাধারণ কাব্যিক শক্তির অপেশাদার উপগ্রহ। যদিও এর স্রষ্টা নিজেকে শিল্পী মনে করেননি, এটি ছিল একটি গভীর কাব্যিক প্রচেষ্টা: এটি শান্তির জন্য প্রার্থনা করা শিশুদের কণ্ঠস্বর রেকর্ড করে এবং বিশ্বব্যাপী দুই হাজারেরও বেশি রেডিও অপেশাদারদের কাছে প্রেরণ করে, একটি অগ্রণী CubeSat কে একটি সম্মিলিত শব্দ রচনায় রূপান্তরিত করে।",
+      "caption": "DOVE/OSCAR-17, ব্রাজিলের কাব্যিক উপগ্রহ যা শিশুদের শান্তির জন্য কণ্ঠস্বর প্রেরণ করে, 1990।"
+    },
+    "lastPictures": {
+      "text": "<strong>২০১২</strong> সালে, শিল্পী <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ট্রেভর প্যাগলেন</a></strong> <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;দ্য লাস্ট পিকচার্স&quot;</a></strong> উৎক্ষেপণ করেন, যা একটি মাইক্রো-এচড ডিস্ক যার মধ্যে জিওস্টেশনারি কক্ষপথে ইকোস্টার XVI যোগাযোগ উপগ্রহের সাথে সংযুক্ত ১০০টি ছবি রয়েছে। কোটি কোটি বছর ধরে টিকে থাকার জন্য ডিজাইন করা হয়েছে, এটি দূর ভবিষ্যতের জন্য একটি প্রত্নতাত্ত্বিক নিদর্শন হিসেবে মানব সভ্যতাকে ছাড়িয়ে যাওয়ার জন্য তৈরি।",
+      "caption": "দ্য লাস্ট পিকচার্স, একটি মাইক্রো-এচড ডিস্ক যা মানবজাতির চেয়েও বেশি টিকে থাকার জন্য ডিজাইন করা হয়েছে, ২০১২ সালে চালু হয়েছিল।"
+    },
+    "ulises": {
+      "text": "<strong>২০১৫</strong> সালে, <strong>Colectivo Espacial Mexicano</strong> (মেক্সিকান স্পেস কালেক্টিভ) শিল্পী <strong>জুয়ান হোসে ডিয়াজ ইনফ্যান্টে কাসাসুসের</strong> পরিচালনায় একটি ধারণাগত অপেরা হিসেবে কল্পনা করা একটি ন্যানোসেটেলাইট <strong>Ulises I</strong> উৎক্ষেপণ করে। Feria del Libro de Guadalajara-এর সময় একটি বেলুনে করে উপগ্রহটি স্ট্র্যাটোস্ফিয়ারে নিয়ে যাওয়া হয়েছিল। এটি প্রায় চার ঘন্টা বিস্ফোরিত হওয়ার এবং প্যারাসুটে করে নামার জন্য ডিজাইন করা হয়েছিল।",
+      "caption": "উলিসেস আই, কোলেক্টিভো এস্পেসিয়াল মেক্সিকানোর একটি ধারণাগত উপগ্রহ অপেরা।"
+    },
+    "artsat": {
+      "text": "<strong>২০১৪ সালেই</strong> প্রথম সম্পূর্ণ শৈল্পিক উপগ্রহ উৎক্ষেপণ করা হয়েছিল। টোকিও বিশ্ববিদ্যালয়ের <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 ইনভেডার</a></strong> প্রকল্প পৃথিবীতে স্থানিক তথ্য প্রেরণ করেছিল যা শিল্প স্থাপনা এবং সঙ্গীত সৃষ্টিতে ব্যবহৃত হত।",
+      "caption1": "ARTSAT-1 আক্রমণকারী কাঠামো এবং পৃথিবীতে থাকা খুচরা যন্ত্রাংশ।",
+      "caption2": "মিশন [স্পেস x আর্ট] - টোকিওর সমসাময়িক শিল্প জাদুঘরে অনুষ্ঠিত বিয়ন্ড কসমোলজিস প্রদর্শনী"
+    },
+    "kac": {
+      "text": "ব্রাজিলিয়ান এবং আমেরিকান সমসাময়িক শিল্পী <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">এডুয়ার্ডো ক্যাক</a></strong> <strong>নাসা</strong> এবং <strong>স্পেসএক্সের</strong> সাথে সহযোগিতার মাধ্যমে মহাকাশ শিল্পে অবদান রেখেছেন। ফরাসি মহাকাশচারী <strong>থমাস পেসকেটের</strong> সাথে তৈরি তার <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;ইনার টেলিস্কোপ&quot;</a></strong> ( <strong>২০১৭</strong> ) <strong>আন্তর্জাতিক মহাকাশ স্টেশনে</strong> একটি ভাস্কর্য তৈরি করেছে।",
+      "caption": "আন্তর্জাতিক মহাকাশ স্টেশনের অভ্যন্তরীণ টেলিস্কোপ, ফরাসি নভোচারী টমাস পেসকেটের তৈরি, ২০১৭।"
+    },
+    "enoch": {
+      "text": "<strong>২০১৮</strong> সালে, একটি শিল্প প্রকল্প হিসেবে নির্মিত একটি প্যাসিভ কিউবস্যাট কক্ষপথে উৎক্ষেপণ করা হয়েছিল। বাহামিয়ান ধারণাগত শিল্পী <strong>টাভারেস স্ট্রাচান</strong> দ্বারা তৈরি, <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">এনোকে</a></strong> একটি ২৪ ক্যারেট-সোনার ক্যানোপিক জার রয়েছে যার মধ্যে প্রথম আফ্রিকান-আমেরিকান মহাকাশচারী <strong>রবার্ট হেনরি লরেন্স জুনিয়রের</strong> আবক্ষ মূর্তি রয়েছে।",
+      "caption": "ENOCH (প্রদর্শনী ইউনিট), ২০১৫-২০১৭। ⓒ টাভারেস স্ট্রাচান, ছবি ⓒ মিউজিয়াম অ্যাসোসিয়েটস/LACMA।"
+    },
+    "orbitalReflector": {
+      "text": "একই বছরে, <strong>ট্রেভর প্যাগলেনের</strong> <strong>অরবিটাল রিফ্লেক্টরও</strong> একটি অকার্যকর কিউবস্যাটে রাখা একটি ভাস্কর্য হিসেবে চালু করা হয়েছিল। এই কাজটি ছিল একটি শৈল্পিক অঙ্গভঙ্গি যার উদ্দেশ্য ছিল বিশ্বে আমাদের অবস্থানকে দেখার দৃষ্টিভঙ্গি পরিবর্তন করা। এটি সঠিকভাবে ব্যবহার করা হয়নি। যদিও এটি কখনও নকশা অনুসারে খোলা হয়নি, এটি গুরুত্বপূর্ণ আলোচনার সূত্রপাত করেছিল এবং জ্যোতির্বিজ্ঞানী, বিজ্ঞানী, মিডিয়া আউটলেট, শিক্ষাবিদ, শিক্ষার্থী এবং বিশ্বব্যাপী সাধারণ জনগণের কাছ থেকে আবেগপূর্ণ প্রতিক্রিয়া এনেছিল, যা প্রমাণ করেছিল যে সফল শিল্পকে প্রযুক্তিগতভাবে সফল হতে হবে না।",
+      "caption": "অরবিটাল রিফ্লেক্টরের ডিজিটাল রেন্ডারিং, ২০১৮"
+    },
+    "others": {
+      "text": "মহাকাশ শিল্পের ক্ষেত্রে আরও অনেক শিল্পী অবদান রেখেছেন, প্রত্যেকেই তাদের গবেষণায় অনন্য দৃষ্টিভঙ্গি নিয়ে এসেছেন। উল্লেখযোগ্য প্রকল্পগুলির মধ্যে রয়েছে <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">সারা জেন পেলের</a></strong> মহাকাশচারী শিল্পী গবেষণা, চরম পরিবেশে মানুষের কর্মক্ষমতা অন্বেষণ; <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">অ্যাগনেস মেয়ার-ব্র্যান্ডিসের</a></strong> <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">মুন গুজ অ্যানালগ</a></strong> প্রকল্প, ঐতিহাসিক এবং সমসাময়িক মহাকাশ অনুসন্ধানের আখ্যান পরীক্ষা করে; <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">নাহুমের</a></strong> <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">অ্যাস্ট্রোআর্টস</a></strong> প্রোগ্রাম, যা শৈল্পিক মাইক্রোগ্রাভিটি পরীক্ষা-নিরীক্ষার সুবিধা প্রদান করে; এবং <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">আর্থার উডসের</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">কসমিক ড্যান্সার</a></strong> ভাস্কর্য, ১৯৯৩ সালে মির স্টেশনে মহাকাশে প্রদর্শিত প্রথম ভাস্কর্য।"
+    },
+    "orbitalTemple": {
+      "text": "<strong>২০২৫</strong> সালে, ৪ বছরের গবেষণা ও উন্নয়নের পর, ব্রাজিলিয়ান শিল্পী <strong>এডসন পাভোনি</strong> এবং সহযোগীদের একটি বহুমুখী দল <strong>অরবিটাল টেম্পল</strong> উৎক্ষেপণ করবে, একটি অংশগ্রহণমূলক শিল্প উপগ্রহ যা বিশ্বের যে কাউকে কক্ষপথে নাম পাঠাতে আমন্ত্রণ জানায়, সীমানা ছাড়িয়ে একটি আমূল অন্তর্ভুক্তিমূলক স্মৃতিস্তম্ভ তৈরি করে।",
+      "caption": "মেরকোসুল বিয়েনালের অরবিটাল মন্দির। ছবি: ক্লারা মার্কেস"
+    }
+  },
+  "imageAlts": {
+    "leonov": "আলেক্সি লিওনভের অঙ্কন এবং পেন্সিল",
+    "moonMuseum": "মুন মিউজিয়াম সিরামিক ওয়েফার",
+    "moonMuseumWarhol": "মুন মিউজিয়ামের সিরামিক ওয়েফারে সমস্ত শিল্পকর্ম দেখানো হচ্ছে",
+    "fallenAstronaut": "চাঁদে পতিত নভোচারীর স্মৃতিস্তম্ভ",
+    "pioneerPlaques": "অগ্রগামী ফলক",
+    "dove": "WHERE/OSCAR-17 স্যাটেলাইট",
+    "lastPictures": "দ্য লাস্ট পিকচার্স ডিস্ক",
+    "ulises": "ইউলিসেস I উপগ্রহ",
+    "artsatInvader": "ARTSAT-1 আক্রমণকারী উপগ্রহের কাঠামো",
+    "artsatArt": "ARTSAT-1 ডেটা থেকে তৈরি শিল্পকর্ম",
+    "innerTelescope": "এডুয়ার্ডো ক্যাকের অভ্যন্তরীণ টেলিস্কোপ",
+    "enoch": "টাভারেস স্ট্রাচানের ENOCH ডিসপ্লে ইউনিট",
+    "orbitalReflector": "ট্রেভর প্যাগলেনের অরবিটাল রিফ্লেক্টর",
+    "orbitalTemple": "অরবিটাল টেম্পল স্যাটেলাইট"
+  }
+}

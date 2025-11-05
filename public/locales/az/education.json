@@ -1,0 +1,43 @@
+{
+  "title": "Təhsil və Açıq Mənbə - Orbital Məbədi",
+  "heading": "Təhsil və Açıq Mənbə",
+  "intro": {
+    "paragraph1": "Orbital Temple missiyası üçün hazırlanmış bütün texnologiya <strong>açıq mənbə</strong> olacaq və <strong>Portuqal</strong> , <strong>İngilis</strong> , <strong>İspan</strong> və <strong>Hind</strong> dillərində onlayn olacaq və <strong>Qlobal Cənubda</strong> kosmos kəşfiyyatının inkişafına təkan verəcək . Yeni missiyalar və layihələr Orbital Məbədini öz bədii və ya elmi təcrübələri üçün təməl kimi istifadə edə bilər.",
+    "paragraph2": "Orbital Temple təhsil missiyasının bir hissəsi olaraq peykin necə qurulması və buraxılması ilə bağlı pulsuz çoxdilli kurs təklif edəcək. Bu, peyk texnologiyasını öyrənmək və onu praktikada tətbiq etmək üçün praktiki fürsət olacaq. <strong>16</strong> yaşdan yuxarı hər kəs öz peykini qura, kosmosda sənətin tarixi, elektronika, mexanika və kosmik elmin fundamental konsepsiyaları, o cümlədən layihələrin necə maliyyələşdirilməsi və orbitdəki peyklərlə əlaqə saxlamaq üçün antenanın necə qurulacağı barədə məlumat əldə edə biləcək."
+  },
+  "spaceGap": {
+    "heading": "Bu niyə vacibdir: Kosmos boşluğu",
+    "paragraph1": "<strong>“Kosmos boşluğu”</strong> termini kosmosun tədqiqi nəticəsində əldə edilən texnoloji imkanlara çıxış əldə edə bilən inkişaf etmiş ölkələrlə bu texnologiyalara çıxışı olmayan inkişaf etməkdə olan ölkələr arasındakı fərqi ifadə edir. Qlobal Cənub ölkələri peyk texnologiyaları tərəfindən istehsal olunan məlumatlara əsas giriş üçün xarici hökumətlərə və ya şirkətlərə əhəmiyyətli məbləğlər ödəməlidir.",
+    "paragraph2": "Kosmik texnologiya kritik faydalar təmin edir: peyklər qeyri-qanuni ağac kəsmə, qeyri-qanuni balıq ovu və qeyri-qanuni vəhşi təbiət ticarəti ilə mübarizə aparmağa kömək edir ki, bu da <strong>ildə 73 milyard dollardan</strong> çoxdur. Onlar iqlim, su istehsalı və ərzaq təhlükəsizliyi haqqında vacib məlumatları təqdim edirlər. Peyklər dəqiq suvarma və kənd təsərrüfatı texnikalarına imkan verir və təbii fəlakətlərin qarşısını alır. Kosmik sənaye <strong>2030-cu</strong> ilə qədər <strong>1 milyon iş yeri</strong> yarada bilər, lakin bu imkanlar Qlobal Cənubda çoxları üçün əlçatmaz olaraq qalır.",
+    "paragraph3": "Açıq mənbə texnologiyası və təhsili təmin etməklə, biz kosmosa girişi demokratikləşdirməyi və yeni nəslə səmadan kənarda xəyal qurmağa imkan verməyi hədəfləyirik."
+  },
+  "empowering": {
+    "heading": "Gələcək Nəslin Gücləndirilməsi",
+    "intro": "Biz növbəti nəsil kosmos tədqiqatçılarına öz peyklərini necə qurmağı və orbitə çıxarmağı öyrədəcəyik, o cümlədən vacib mövzuları:",
+    "topics": {
+      "history": "<strong>Kosmosda sənət tarixi:</strong> Bədii peyklərin və kosmosa əsaslanan sənət əsərlərinin nəslini başa düşmək.",
+      "concepts": "<strong>Əsas konsepsiyalar:</strong> <strong>ArtSat</strong> (bədii peyklər), <strong>Açıq Mənbə</strong> kosmik texnologiyası və <strong>Kosmos boşluğu</strong> .",
+      "missions": "<strong>Kosmik missiyalar:</strong> Missiyanı necə konseptuallaşdırmaq və dizayn etmək və onu yerinə yetirmək üçün komandanı necə formalaşdırmaq.",
+      "electronics": "<strong>Kosmosda elektronika:</strong> Kosmos mühitində yaşaya bilən və fəaliyyət göstərə bilən elektron komponentlərin əsas konsepsiyaları.",
+      "mechanics": "<strong>Kosmosda mexanika:</strong> Peyk dizaynı üçün struktur və mexaniki tələbləri başa düşmək.",
+      "orbits": "<strong>Orbitlər və işəsalanlar:</strong> Müxtəlif növ orbitlər və missiyanız üçün buraxılış təminatçılarını necə seçmək olar.",
+      "financing": "<strong>Maliyyələşdirmə strategiyaları:</strong> Peykinizi işə salmaq üçün maliyyə və resursları necə təmin etmək olar. Kurs, kosmosa peyklərini göndərməkdə gənc alimlərə və tələbələrə dəstək verən beynəlxalq institutlardan proqram və qrantlar tapmaqda tələbələrə yardımçı olmaqla, buraxılışınız üçün maliyyə vəsaiti əldə etmək üçün resurslar təqdim edəcək.",
+      "groundStation": "<strong>Yer stansiyasının inkişafı:</strong> Orbital Məbədi və digər peyklərlə əlaqə saxlamaq üçün antenanı necə qurmaq olar."
+    }
+  },
+  "technology": {
+    "heading": "Texnologiya: PocketQube peykləri",
+    "paragraph1": "Tələbələr <strong>PocketQube</strong> peykləri ilə işləməyi öyrənəcəklər, nanopeyk standartı cəmi <strong>5 sm³</strong> və çəkisi <strong>250 qr</strong> . Kiçik ölçülərinə baxmayaraq, PocketQubes Yerin müşahidəsi, monitorinqi və ünsiyyəti üçün güclü alətlərdir.",
+    "paragraph2": "Bu kompakt peyklər iqlim dəyişikliyinə dair elmi tədqiqatlardan tutmuş qitələrarası əlaqəyə qədər çoxsaylı real dünyada tətbiqlərə malikdir. Onlar daha kiçik və yüngül olduqları üçün onları tikmək və işə salmaq daha əlverişlidir, bu da məkanı bütün dünyada tələbələr, tədqiqatçılar və rəssamlar üçün daha əlçatan edir."
+  },
+  "globalAccess": {
+    "heading": "Qlobal Cənubdan başlayaraq Qlobal Giriş",
+    "paragraph1": "Kurs <strong>16 yaşdan yuxarı</strong> hər kəs üçün tamamilə <strong>pulsuz</strong> olacaq. Biz <strong>Portuqal</strong> , <strong>İspan</strong> , <strong>İngilis</strong> və <strong>Hind</strong> dillərində məzmunla başlayırıq, proqram böyüdükcə əlavə dillərə də genişləndirməyi planlaşdırırıq.",
+    "paragraph2": "Missiyamız Qlobal Cənubdan başlayır və dünyaya yayılaraq, kosmik tədqiqatçıların növbəti nəslinin Yer kürəsinin bütün guşələrindən gəlməsini təmin edir."
+  },
+  "callToAction": {
+    "heading": "Bunun Baş verməsində Bizə Kömək Edin",
+    "content": "Bu təhsil proqramı hazırda inkişaf mərhələsindədir. Biz kosmos texnologiyalarına çıxışı demokratikləşdirmək vizyonumuzu bölüşən tərəfdaşlar və donorlar axtarırıq. Əgər siz və ya təşkilatınız bu təşəbbüsü dəstəkləmək istəyirsinizsə, tərəfdaşlıq imkanları haqqında öyrənmək üçün <a href=\"/support\">dəstək səhifəmizə</a> daxil olun."
+  },
+  "imageAlt": "Orbital Məbədin peyki"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Michoota - Mana Qulqullummaa Orbital",
+  "heading": "Michoota",
+  "intro": "Orbital Temple kan jiraatu arjummaa, ogummaa fi mul’ata michoota adda ta’aniin. Saatalaayitii injinariingii irraa kaasee hanga seeneffama hojii harkaa hojjechuutti, lafa fagootti balbala banuu irraa kaasee hanga abjuu warqeedhaan darbachuutti, tumsi tokkoon tokkoon mana qulqullummaa kana urjiileetti dhiheessa.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Michoota",
+      "description": "Walqunnamtiin, muuxannoowwan walitti makamaa fi fakkiiwwan 3D ajaa'ibsiisoo ta'an kanneen mul'ata saatalaayitiin kun osoo duwwaa hawaa hin tuqin dura jireenyatti fide."
+    },
+    "highestMantra": {
+      "name": "Mantra Keenya Ol'aanaa",
+      "description": "Sathi Roy tiin kan hoogganamu, Orbital Temple hawaasa hafuuraa fi aartii Hindii waliin kan wal qunnamsiisu. Daandiiwwan maallaqa walitti qabuu, waljijjiirraa aadaa, fi agarsiisa Art Basel Eebba Adoolessa 2025 hordofuun banuun."
+    },
+    "allToSpace": {
+      "name": "Hundi isaanii gara Hawaatti",
+      "description": "Ogeessota saatalaayitii xixiqqaa Biraazil. Walta'iinsa waggoota afuriif waltajjii haardwaara madda banaa ijaaruu fi adeemsa aartii Kibba Addunyaa irraa gara orbiititti erguuf qajeelchaa ta'uu."
+    },
+    "isro": {
+      "name": "ISROON",
+      "description": "Dhaabbata Qorannoo Hawaa Hindii. Ergama PSLV kan Orbital Temple gara orbit aduu-walsimsiisaa geessuuf Adoolessa 2025tti dhiyeessaa furguggisuu."
+    },
+    "mercosul": {
+      "name": "Waggaa lamaa Mercosur 13ffaa",
+      "description": "Poortoo Alegre, Biraazil. Gargaartota kiyureetaroota Laura Cattani, Munir Klamt, Tarsila Riso, fi Carollina Lauriano waliin kan qopheesse Marcello Dantas."
+    },
+    "inpe": {
+      "name": "INPE / Workshop ArtSat",
+      "description": "Gareen misooma saatalaayitii kun yeroo II ArtSat Workshop ijaarame. Qindeessaan Fabiane M. Borges, qajeelfama Lázaro Camargo, tumsa Ítalo Pinto Rodrigues, kan to’atu Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Yaad-rimeewwan Jajjaboo",
+      "description": "Eduardo Dias tiin kan hoogganamu. Maxxansi 3D fi warqee maaykiroo kaastiin hundinuu sculptural dome kanaaf hojjetu, abjuu dijitaalaa gara dhugaa sibiilaa gatii guddaa qabuutti jijjiira."
+    },
+    "ideaSpace": {
+      "name": "Iddoo Yaada",
+      "description": "Jalqaba barnootaa Biraazil kaarikulamii Sagantaa Hawaa Kuubraadaa qopheessaa jiru, barattoota mana barumsaa sadarkaa lammaffaa guutuu Biraazil keessatti hojiirra oolchuuf qophaa'e."
+    }
+  },
+  "closing": "Orbital Temple waliin walitti hidhamiinsa uumuuf fedhii qabduu? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Harka diriiraa</a> .",
+  "imageAlts": {
+    "riseNy": "Asxaa RiseNY&Partners jedhamuun beekama",
+    "highestMantra": "Asxaa Mantra keenya isa Ol'aanaa",
+    "allToSpace": "All to Space Asxaa",
+    "isro": "Asxaa ISRO",
+    "mercosul": "Asxaa waggaa lamaa Mercosur 13ffaa",
+    "inpe": "Asxaa Workshop INPE ArtSat",
+    "solidConcepts": "Asxaa Yaad-rimee Jajjaboo",
+    "ideaSpace": "Asxaa Iddoo Yaada"
+  }
+}

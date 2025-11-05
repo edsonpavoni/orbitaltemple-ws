@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "home": "Gida",
+    "sendName": "Aika suna",
+    "about": "Game da"
+  },
+  "ritual": {
+    "label": "al'ada",
+    "ariaLabel": "Shigar da al'ada - Aika suna zuwa Haikali na Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple wani zane ne na Edson Pavoni, wanda aka kirkira tare da haɗin gwiwar Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, da kuma duk waɗanda suka ci gaba da aika sunayen zuwa wannan haikali."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "anjeun ngasupkeun\nhiji ritual\npikeun ngirim ngaran\nkana\nkuil orbit\ndi rohangan\nnyandak\nhiji napas",
+    "button": "Abdi siap"
+  },
+  "nameInput": {
+    "title": "ngetik ngaran",
+    "subtitle": "eta bakal naek ka Kuil Orbital di rohangan.",
+    "placeholder": "ngaran",
+    "button": "hayu naek"
+  },
+  "emailInput": {
+    "title": "ngetik surélék anjeun",
+    "subtitle": "janten anjeun nampi pesen nalika nami naék.",
+    "placeholder": "surélék anjeun",
+    "button": "geus rengse"
+  },
+  "loading": {
+    "alt": "Ngamuat"
+  },
+  "success": {
+    "text": "ngaran\n{{ngaran}}\nayeuna ngantri\npikeun ascension.\nnalika éta\nkuil di rohangan\naligns, jeung\nanteneu urang\ndi Bumi\nkami bakal ngirim\nngaran\nsareng anjeun bakal nampi\npesen."
+  }
+}

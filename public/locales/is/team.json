@@ -1,0 +1,61 @@
+{
+  "title": "Lið - Orbital Temple",
+  "heading": "Lið",
+  "artist": "Edson Pavoni, listamaður",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Framkvæmdastjóri framleiðanda",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Flug- og kerfisverkfræði",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Rafmagnsverkfræði",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Hugbúnaður",
+      "members": "Jónatan Cherubina"
+    },
+    "design": {
+      "heading": "Hönnun og arkitektúr",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D prentun",
+      "members": "Solid Concepts, undir forystu Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D teikningar",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Rannsóknir",
+      "members": "Roberta Savian Rosa og Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Sýningarframleiðsla, ljósmyndun og efnissköpun",
+      "members": "Klara Marques"
+    },
+    "silkScreen": {
+      "heading": "Silkiprentun sýningarinnar",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Menntaverkefni",
+      "members": "Hugmyndarými"
+    },
+    "communication": {
+      "heading": "Samskiptateymi",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Sérstakar þakkir",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini og Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidigalister, Pedro Fernande Brunes, Pedro Fernande Holzmeister, Raffa. Kaíró, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbital Temple gervihnöttur"
+}

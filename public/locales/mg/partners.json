@@ -1,0 +1,50 @@
+{
+  "title": "Mpiara-miasa - Tempoly Orbital",
+  "heading": "mpiara-miasa",
+  "intro": "Ny Tempoly Orbital dia misy amin'ny alàlan'ny fahalalahan-tanana, ny fahaiza-manaony ary ny fahitan'ireo mpiara-miombon'antoka miavaka. Manomboka amin'ny zanabolana injeniera ka hatramin'ny famoronana fitantarana, manomboka amin'ny fanokafana varavarana any an-tany lavitra ka hatramin'ny fandatsahana nofinofy amin'ny volamena, ny fiaraha-miasa tsirairay dia mitondra ity tempoly ity ho akaiky kokoa ny kintana.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Ny fifandraisana, ny traikefa natambatra ary ny sary 3D mahavariana izay nampiaina ny fahitan'ny zanabolana talohan'ny nanohinany ny habakabaka."
+    },
+    "highestMantra": {
+      "name": "Ny Mantra avo indrindra",
+      "description": "Notarihin'i Sathi Roy, mampifandray ny Tempolin'i Orbital amin'ireo vondrom-piarahamonina ara-panahy sy ara-javakanto ao India. Fanokafana lalana mankany amin'ny fanangonam-bola, fifanakalozana ara-kolontsaina ary fampirantiana Art Basel taorian'ny fandefasana ny Novambra 2025."
+    },
+    "allToSpace": {
+      "name": "Rehetra ho an'ny Space",
+      "description": "Breziliana manampahaizana manokana amin'ny zanabolana. Niara-niasa nandritra ny efa-taona tamin'ny fananganana sehatra hardware loharano misokatra ary nisava lalana ny dingana handefasana ny zavakanto ho any amin'ny orbit avy amin'ny Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indian Space Research Organisation. Alefaso ny mpamatsy ho an'ny iraka PSLV mitondra ny Tempolin'i Orbital mankany amin'ny fihodinan'ny masoandro amin'ny Novambra 2025."
+    },
+    "mercosul": {
+      "name": "Faha-13 Mercosur roa taona",
+      "description": "Porto Alegre, Brezila Nokarakarain'i Marcello Dantas miaraka amin'ny mpiandraikitra mpanampy Laura Cattani, Munir Klamt, Tarsila Riso, ary Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "Atrikasa INPE / ArtSat",
+      "description": "Ny ekipa fampandrosoana amin'ny zanabolana dia niforona nandritra ny atrikasa ArtSat II. Narindran'i Fabiane M. Borges, notarihin'i Lázaro Camargo, niara-niasa tamin'i Ítalo Pinto Rodrigues, notarihin'i Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Hevitra mivaingana",
+      "description": "Notarihin’i Eduardo Dias. Ny fanontam-pirinty 3D sy ny fanariana madinika volamena rehetra dia miasa ho an'ny dome sculptural, manova ny nofinofy nomerika ho zava-misy metaly sarobidy."
+    },
+    "ideaSpace": {
+      "name": "Hevitra Space",
+      "description": "Fanombohana fampianarana breziliana mamolavola ny fandaharam-pianarana Quebrada Space Program, vonona hampiharina amin'ny mpianatra eny amin'ny lise manerana an'i Brezila."
+    }
+  },
+  "closing": "Liana amin&#39;ny fiaraha-miasa amin&#39;ny Tempoly Orbital? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Manatona</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "Logo Mantra avo indrindra",
+    "allToSpace": "Rehetra mankany Space Logo",
+    "isro": "ISRO Logo",
+    "mercosul": "Logo faha-13 Mercosur Biennial",
+    "inpe": "INPE ArtSat Workshop Logo",
+    "solidConcepts": "Solid Concepts Logo",
+    "ideaSpace": "Ide Space Logo"
+  }
+}

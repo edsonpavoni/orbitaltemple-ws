@@ -1,0 +1,16 @@
+{
+  "title": "Cur air bhog fànais - Teampall Orbital",
+  "heading": "Cur air bhog fànais",
+  "intro": "Tha e san amharc gun tèid an Orbital Teampall a chur air bhog air bòrd PSLV (Polar Satellite Launch Vehicle) air 28 Samhain, 2025 bho Ionad Fànais Satish Dhawan ann an Sriharikota, na h-Innseachan.",
+  "partnership": "’S e com-pàirteachas a th’ ann an cur air bhog Teampall Orbital eadar NewSpace India Limited (NSIL), Companaidh Riaghaltas na h-Innseachan fo Roinn an Fhànais, Antrix Corporation, agus an neach-ealain. Tha an co-obrachadh seo a’ riochdachadh clach-mhìle chudromach airson ealain ann an rannsachadh fànais, a’ toirt còmhla prògram fànais na h-Innseachan le sealladh ealanta de chuimseachadh radaigeach.",
+  "risks": {
+    "heading": "Cunnartan",
+    "paragraph1": "Chaidh an saideal a thogail gus seasamh ri suidheachaidhean crith agus cearcallan teirmeach anabarrach, agus chaidh deuchainnean teann a dhèanamh air. Ach, tha cunnartan an lùib cur air bhog fànais. Ma thèid milleadh a dhèanamh air an t-saideal rè cur air bhog no cleachdadh, no mura soirbhich leis conaltradh a stèidheachadh leis na stèiseanan talmhainn againn, obraichidh sinn gus duilgheadasan sam bith fhuasgladh agus a lorg. Tha siostaman ath-aithriseach agus protocolaidhean cùl-taice aig an t-saideal a chaidh a dhealbhadh gus na cothroman air soirbheachas misean a mheudachadh.",
+    "paragraph2": "A bharrachd air sin, dh’ fhaodadh an saideal fuireach san orbit airson nas lugha na 10 bliadhna ma dh’ adhbharaicheas suidheachaidhean àile no factaran eile crìonadh nas tràithe san orbit. Ged a tha sinn air a dhealbhadh gus mairsinn co-dhiù deich bliadhna, tha an fhìor bheatha an urra ri suidheachaidhean nach urrainn dhuinn smachd a chumail orra gu h-iomlan.",
+    "paragraph3": "Mura soirbhich leis a’ chiad chur air bhog, no mura h-urrainn dhuinn am misean seo a choileanadh mar a bha dùil, rannsaichidh sinn slighean eile air adhart, a’ gabhail a-steach oidhirp eile air cur air bhog leis a’ bhuidseit a tha ri fhaotainn, com-pàirteachas le miseanan eile, no clàradh na h-oidhirp mar phàirt de aithris na h-obrach-ealain mu mhiann agus cuingealachadh."
+  },
+  "imageAlts": {
+    "india": "Ionad Fànais ISRO, na h-Innseachan",
+    "satellite": "Saideal Teampall Orbital"
+  }
+}

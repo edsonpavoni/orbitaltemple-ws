@@ -1,0 +1,167 @@
+{
+  "title": "Hỗ trợ Orbital Temple - Tham gia nhiệm vụ",
+  "heading": "Hỗ trợ Orbital Temple",
+  "vision": "Vào <strong>ngày 28 tháng 11 năm 2025</strong> , <strong>Orbital Temple</strong> sẽ được phóng từ <strong>Ấn Độ</strong> trên một tên lửa <strong>ISRO</strong> . Là một vệ tinh nghệ thuật mang tính cộng đồng đến từ Nam Bán cầu, đây là một tượng đài cho sự hòa nhập cấp tiến, một nền tảng giáo dục và là chất xúc tác cho cuộc trò chuyện toàn cầu về tương lai của sự thiêng liêng trong thời đại công nghệ, AI và thám hiểm không gian.",
+  "videoCaption": "Video giới thiệu về Orbital Temple, 1 phút.",
+  "accomplished": {
+    "heading": "Những gì chúng tôi đã đạt được",
+    "content": "Sau bốn năm nghiên cứu và phát triển, sứ mệnh đã sẵn sàng. Chúng tôi đã hoàn tất <strong>việc phát triển phần cứng và phần mềm</strong> cho vệ tinh, vượt qua <strong>các bài kiểm tra rung lắc chính thức</strong> cần thiết để được cấp chứng nhận bay và hoàn tất hợp đồng với ISRO. Vệ tinh đã được chế tạo. Công nghệ hoạt động tốt. Chúng tôi đã được cấp phép phóng."
+  },
+  "funding": {
+    "heading": "Tiến độ tài trợ",
+    "raised": "được nuôi dưỡng",
+    "of": "của",
+    "goal": "mục tiêu",
+    "button": "Hỗ trợ Sứ mệnh"
+  },
+  "needs": {
+    "heading": "Những gì chúng ta cần hỗ trợ",
+    "intro": "Để hoàn thành sứ mệnh lịch sử này và tối đa hóa tác động của nó, chúng tôi cần sự hỗ trợ cho năm thành phần quan trọng:",
+    "launch": {
+      "title": "Chi phí phóng của ISRO:"
+    },
+    "travel": {
+      "title": "Hành trình của nghệ sĩ đến Ấn Độ:"
+    },
+    "carbon": {
+      "title": "Chương trình bù đắp Carbon:"
+    },
+    "education": {
+      "title": "Chương trình giáo dục:"
+    },
+    "docPreProd": {
+      "title": "Tiền sản xuất phim tài liệu:"
+    },
+    "docProd": {
+      "title": "Sản xuất phim tài liệu:"
+    }
+  },
+  "decade": {
+    "heading": "Thập kỷ tới",
+    "intro": "Nhiệm vụ này không kết thúc vào ngày 28 tháng 11 năm 2025. Nó chỉ mới bắt đầu.",
+    "paragraph1": "Trong <strong>10 năm</strong> tới, vệ tinh này sẽ quay quanh Trái Đất, phản hồi những cái tên được gửi đến từ khắp mọi nơi trên hành tinh. Chương trình giáo dục này nhằm mục đích đào tạo <strong>hàng ngàn thanh thiếu niên</strong> về công nghệ vệ tinh, thu hẹp <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">khoảng cách không gian</a> cho các nước Nam Bán Cầu. Bộ phim tài liệu sẽ tiếp cận <strong>hàng triệu người</strong> trên toàn thế giới, khơi dậy những cuộc trò chuyện về sự gắn kết, ký ức và những điều thiêng liêng.",
+    "paragraph2": "Orbital Temple đang hợp tác với <strong>Sathi Roy</strong> và <strong>Quỹ Roy</strong> để hiện thực hóa tầm nhìn dài cả thập kỷ này, một tầm nhìn văn hóa có ý nghĩa. Quỹ Roy là một tổ chức phi lợi nhuận chuyên mở rộng khả năng tiếp cận giáo dục tâm linh, chữa lành cảm xúc và các công cụ nhận thức cho các cộng đồng chưa được phục vụ trên toàn thế giới, kết nối trí tuệ cổ xưa và công nghệ hiện đại để tạo ra một thế giới ý thức hơn, kết nối hơn và nhân ái hơn. Cùng nhau, chúng tôi đang xây dựng cơ sở hạ tầng để đảm bảo Orbital Temple trở thành một phong trào lâu dài, lan tỏa đến các cộng đồng trên toàn cầu.",
+    "paragraph3": "Sự hỗ trợ của bạn không chỉ tài trợ cho vụ phóng; mà còn tạo ra một phong trào sẽ vang vọng trong một thập kỷ và truyền cảm hứng cho thế hệ nghệ sĩ và kỹ sư vũ trụ tiếp theo."
+  },
+  "waysToSupport": {
+    "heading": "Các cách hỗ trợ",
+    "individualDonations": {
+      "heading": "Quyên góp cá nhân",
+      "intro": "Hãy tham gia sứ mệnh ở cấp độ phù hợp với bạn. Những người ủng hộ cá nhân chính là nền tảng của dự án lịch sử này.",
+      "orbitalFriend": {
+        "title": "Bạn quỹ đạo",
+        "benefits": "Bạn nhận được: Tên trên danh sách vinh danh trên trang web · Giấy chứng nhận quỹ đạo được cá nhân hóa khi vệ tinh được phóng · Tín dụng cảm ơn bằng văn bản · Biên lai khấu trừ thuế",
+        "button": "Thực hiện quyên góp được khấu trừ thuế"
+      },
+      "satelliteSupporter": {
+        "title": "Người ủng hộ vệ tinh",
+        "benefits": "Bạn nhận được: Tất cả các lợi ích của Orbital Friend · Quyền truy cập ứng dụng theo dõi vệ tinh độc quyền · Video cảm ơn nghệ sĩ · Biên lai khấu trừ thuế",
+        "button": "Thực hiện quyên góp được khấu trừ thuế"
+      },
+      "spaceAdvocate": {
+        "title": "Người ủng hộ không gian",
+        "benefits": "Bạn nhận được: Tất cả các quyền lợi của Người ủng hộ vệ tinh · Tên được in trong phần ghi nhận tài liệu · Lời mời tham dự buổi chiếu phim tài liệu riêng tư · Cập nhật hàng quý từ nhóm · Biên lai khấu trừ thuế",
+        "button": "Thực hiện quyên góp được khấu trừ thuế"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Tài trợ cho một thành phần cụ thể",
+    "intro": "Đóng góp của bạn sẽ trực tiếp tài trợ cho các khía cạnh cụ thể của sứ mệnh. Hãy chọn những gì bạn tâm đắc, hoặc kết hợp nhiều nguồn lực để tạo ra tác động lớn hơn.",
+    "launch": {
+      "title": "Tài trợ cho việc phóng tàu vũ trụ",
+      "description": "Chi phí phóng thực tế trên tên lửa <strong>ISRO</strong> vào <strong>ngày 28 tháng 11 năm 2025.</strong> Điều này đưa Orbital Temple vào quỹ đạo, nơi nó sẽ tồn tại trong một thập kỷ như một vệ tinh nghệ thuật và ngôi đền trên bầu trời, nơi bất kỳ ai trên thế giới cũng có thể tiếp cận.",
+      "benefits": "Bạn nhận được: Danh hiệu \"Nhà tài trợ phóng\" · Được nêu trong tất cả các thông cáo báo chí · Xác nhận phim tài liệu trên màn hình · Quyền truy cập VIP vào các sự kiện phóng · Tham gia các cuộc gọi video hàng quý với Edson và nhóm sứ mệnh · Giấy chứng nhận có dữ liệu quỹ đạo vệ tinh · Biên lai được khấu trừ thuế",
+      "button": "Thực hiện quyên góp được khấu trừ thuế"
+    },
+    "travel": {
+      "title": "Tài trợ cho chuyến đi của nghệ sĩ đến Ấn Độ",
+      "description": "Chi phí đi lại, ăn ở và sản xuất cho nghệ sĩ Edson Pavoni và nhóm cốt cán để chứng kiến buổi ra mắt tại <strong>Ấn Độ vào ngày 28 tháng 11 năm 2025.</strong> Chuyến đi này rất cần thiết cho việc quay phim tài liệu, đưa tin trên phương tiện truyền thông và đại diện cho Nam Bán cầu tại thời điểm lịch sử này.",
+      "benefits": "Bạn nhận được: Lời cảm ơn cá nhân từ nghệ sĩ · Quyền truy cập phim tài liệu hậu trường · Tên trong phần ghi nhận phim tài liệu · Biên lai khấu trừ thuế",
+      "button": "Thực hiện quyên góp được khấu trừ thuế"
+    },
+    "carbon": {
+      "title": "Tài trợ cho Chương trình Bù trừ Carbon",
+      "description": "Toàn bộ lượng khí thải carbon sẽ được trung hòa, bao gồm cả quá trình phóng tên lửa và chế tạo vệ tinh. Chúng tôi đang làm việc với các chương trình bù trừ carbon đã được xác minh để đảm bảo sứ mệnh này không để lại bất kỳ dấu chân carbon tiêu cực nào đối với môi trường.",
+      "benefits": "Bạn nhận được: Tên trong danh sách vinh danh trên trang web · Giấy chứng nhận cá nhân · Biên lai khấu trừ thuế",
+      "button": "Thực hiện quyên góp được khấu trừ thuế"
+    },
+    "education": {
+      "title": "Tài trợ cho Chương trình Giáo dục",
+      "description": "Phát triển và triển khai khóa học đa ngôn ngữ toàn diện hướng dẫn thanh thiếu niên Nam Bán Cầu cách chế tạo vệ tinh. Khóa học bao gồm phát triển chương trình giảng dạy, sản xuất video, lưu trữ nền tảng và năm học bổng đầu tiên cho học sinh có hoàn cảnh khó khăn. Khóa học cũng tạo ra cơ sở hạ tầng bền vững cho giáo dục không gian.",
+      "benefits": "Bạn nhận được: Sự công nhận \"Nhà tài trợ sáng lập giáo dục\" · Học bổng mang tên bạn · Được giới thiệu trong tài liệu giáo dục · Gặp gỡ nhóm sinh viên đầu tiên được học bổng của bạn tài trợ (trực tuyến hoặc trực tiếp) · Đoạn phim tài liệu dài · Cơ hội phát biểu tại các sự kiện ra mắt · Biên lai khấu trừ thuế",
+      "button": "Thực hiện quyên góp được khấu trừ thuế"
+    },
+    "docPreProd": {
+      "title": "Tài trợ cho quá trình tiền sản xuất phim tài liệu",
+      "description": "Tài trợ giai đoạn đầu của phim tài liệu <strong>&quot;Điều gì tạo nên một ngôi đền?&quot;</strong> . Bao gồm việc thực hiện 2 cuộc phỏng vấn chuyên sâu tại <strong>Ấn Độ</strong> với các nhà lãnh đạo tư tưởng và người thực hành tâm linh, chuyến công tác ngắn và sản xuất, và biên tập các cảnh quay tiền kỳ. Giai đoạn này thiết lập nền tảng cho phim tài liệu và xác nhận định hướng sáng tạo.",
+      "benefits": "Bạn nhận được: Tín dụng Nhà sản xuất liên kết · Tên trong phần ghi công phim tài liệu · Chiếu riêng các cảnh quay tiền sản xuất · Truy cập hậu trường · Biên lai khấu trừ thuế",
+      "button": "Thực hiện quyên góp được khấu trừ thuế"
+    },
+    "docProd": {
+      "title": "Tài trợ cho việc sản xuất phim tài liệu",
+      "description": "Hoàn thành sản xuất và hậu kỳ cho <strong>&quot;What Makes a Temple?&quot;</strong> , bộ phim tài liệu dài tập khám phá sự giao thoa giữa nghệ thuật, công nghệ và sự thiêng liêng. Phim bao gồm quay phim tại nhiều quốc gia, phỏng vấn thêm các nhà tư tưởng hàng đầu, biên tập toàn diện, chỉnh màu, thiết kế âm thanh và các buổi chiếu ra mắt tại <strong>Ấn Độ</strong> và <strong>New York</strong> .",
+      "benefits": "Bạn nhận được: Tín dụng Nhà sản xuất điều hành · Được giới thiệu trong phần giới thiệu mở đầu · Chiếu phim riêng cho khách của bạn · Thư mời công chiếu toàn cầu (cả hai thành phố) · Bữa tối riêng với Edson và đạo diễn phim tài liệu trước buổi công chiếu · Quyền truy cập hậu trường · Biên lai khấu trừ thuế",
+      "button": "Thực hiện quyên góp được khấu trừ thuế"
+    },
+    "artCollector": {
+      "title": "Trở thành Nhà sưu tập nghệ thuật duy nhất của Đền Orbital",
+      "imageAlt": "Lắp đặt Đền Orbital tại Triển lãm Mercosul Biennial",
+      "imageCaption": "Đền quỹ đạo tại Mercosul Biennial lần thứ 13, Porto Alegre. Ảnh của Clara Marques.",
+      "paragraph1": "Ba vệ tinh giống hệt nhau đã được chế tạo cho sứ mệnh này. <strong>Một vệ tinh</strong> sẽ được phóng lên vũ trụ vào ngày 28 tháng 11 năm 2025. <strong>Một</strong> vệ tinh sẽ được đưa đến các triển lãm bảo tàng trên toàn thế giới. <strong>Một vệ tinh</strong> được dành riêng cho một nhà sưu tập hào phóng muốn tài trợ cho tầm nhìn này và sở hữu một tác phẩm nghệ thuật lịch sử không gian.",
+      "paragraph2": "Đây không phải là bản sao; nó là một trong ba vệ tinh nguyên bản. Một <strong>tàu vũ trụ hoạt động</strong> hoàn chỉnh và cũng là một <strong>tác phẩm điêu khắc</strong> . Vệ tinh có kích thước <strong>5cm³</strong> và nặng <strong>245g</strong> , với mái vòm bằng <strong>vàng</strong> .",
+      "paragraph3": "Đây là <strong>tác phẩm nghệ thuật 1/1</strong> .",
+      "paragraph4": "Với tư cách là nhà sưu tập, bạn sẽ nhận được tác phẩm sắp đặt tương tự được tạo ra cho <strong>Triển lãm Mercosul lần thứ 13</strong> , một triển lãm bảo tàng hoàn chỉnh, giới thiệu vệ tinh vừa là nghệ thuật vừa là công nghệ. Tác phẩm sắp đặt này đã được trưng bày tại nhiều địa điểm quốc tế lớn và thể hiện tiêu chuẩn cao nhất về trình bày nghệ thuật không gian.",
+      "paragraph5": "Sự ủng hộ của bạn sẽ góp phần tài trợ cho toàn bộ tầm nhìn: buổi ra mắt, chương trình giáo dục và bộ phim tài liệu sẽ khơi dậy những cuộc trò chuyện toàn cầu về sự thiêng liêng trong thời đại công nghệ, AI và thám hiểm không gian. Tên tuổi của bạn sẽ gắn liền vĩnh viễn với sứ mệnh lịch sử này.",
+      "button": "Hỏi về cơ hội này"
+    }
+  },
+  "gratitude": {
+    "heading": "Với lòng biết ơn đến những người ủng hộ chúng tôi",
+    "intro": "Orbital Temple được xây dựng nhờ các tổ chức, cá nhân và những người tin vào chủ nghĩa hòa nhập cấp tiến, những người hiểu rằng nghệ thuật tạo ra trí tưởng tượng của ngày mai.",
+    "pearmill": {
+      "title": "Người ủng hộ sáng lập",
+      "description": "Pearmill là một trong những công ty tiếp thị hiệu suất phát triển nhanh nhất tại Hoa Kỳ, một nhóm các nhà thiết kế, nhà tiếp thị và kỹ sư làm việc cùng nhau để giúp phát triển một số công ty khởi nghiệp mang tính biểu tượng nhất thế giới. Sự hỗ trợ hào phóng của họ đã giúp nhóm Orbital Temple mua các linh kiện quan trọng và phát triển phần cứng nguồn mở giúp sứ mệnh vệ tinh này trở nên khả thi."
+    },
+    "yourName": "Tên bạn có thể ở đây. Hãy cùng chúng tôi tạo nên lịch sử."
+  },
+  "people": {
+    "heading": "Những người đứng sau sứ mệnh này",
+    "intro": "Orbital Temple là một dự án cam kết kéo dài 10 năm. Dự án được dẫn dắt bởi hai con người đã dành cả cuộc đời để kết nối nghệ thuật, công nghệ và kết nối con người, đồng thời đang xây dựng cơ sở hạ tầng để duy trì tầm nhìn này trong thập kỷ tới.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Nghệ sĩ & Kỹ thuật viên",
+      "paragraph1": "Edson là một nghệ sĩ và nhà công nghệ, người khám phá sự gần gũi giữa con người và nghệ thuật thông qua giao thoa giữa nghệ thuật và công nghệ. Thực hành của anh trải rộng trên nhiều lĩnh vực, từ sắp đặt kiến trúc, thơ ca, nhiếp ảnh đến công nghệ vệ tinh.",
+      "paragraph2": "Tác phẩm của ông đã được triển lãm tại Mercosul Biennial lần thứ 13 (Brazil), IX International Biennale (Uzbekistan) và Giải thưởng Nghệ thuật kỹ thuật số toàn cầu NTU (Singapore).",
+      "paragraph3": "Với hơn <strong>20 năm kinh nghiệm trong lĩnh vực nghệ thuật và công nghệ</strong> , ông đã làm việc với các đội ngũ sáng tạo cho <strong>Thế vận hội Rio 2016</strong> và <strong>Ngân hàng Phát triển Liên Mỹ</strong> . Được tạp chí Proxxima vinh danh là một trong <strong>50 chuyên gia Brazil sáng tạo nhất</strong> , ông đã nhận được hai <strong>Giải thưởng Thiết kế IF</strong> liên tiếp (2017-2018) và lọt vào vòng chung kết <strong>Giải thưởng Lumen Prize Futures</strong> . Các tác phẩm của ông đã được trưng bày tại hai triển lãm biennale và được giới thiệu tại <strong>Bảo tàng Nghệ thuật Đương đại Ludwig</strong> (Budapest), <strong>Viện Inhotim</strong> (Brazil), và <strong>Bảo tàng Thiết kế và Thời trang</strong> (Lisbon), cùng các triển lãm tại New York, Bắc Kinh, Singapore, Dubai, Rio de Janeiro và các thành phố khác."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Người sáng lập, Quỹ Roy & Đối tác chiến lược",
+      "paragraph1": "Sathi là người sáng lập <strong>Quỹ Roy</strong> , một tổ chức phi lợi nhuận chuyên mở rộng khả năng tiếp cận giáo dục tâm linh, chữa lành cảm xúc và các công cụ nhận thức cho các cộng đồng chưa được phục vụ trên toàn thế giới. Quỹ hợp tác với các trường học, tổ chức văn hóa và các tổ chức địa phương để phân phối các công cụ chăm sóc sức khỏe, chương trình giảng dạy cộng đồng và phương tiện truyền thông được hỗ trợ bởi AI nhằm truyền cảm hứng cho sự chuyển đổi.",
+      "paragraph2": "Với nền tảng về khoa học thần kinh, huấn luyện và lãnh đạo, Sathi đã xây dựng và lãnh đạo các đội nhóm trên khắp Bắc Mỹ và Ấn Độ, tạo ra doanh thu hàng năm <strong>600 triệu đô la</strong> chỉ từ một dự án. Cô cũng là người sáng lập <strong>OHM</strong> , một phong trào tâm linh ưu tiên kỹ thuật số, đồng sáng lập <strong>SUTE</strong> (một nền tảng văn phòng kỹ thuật số dựa trên AI), và là Cố vấn kiêm Trưởng bộ phận Tăng trưởng Toàn cầu của <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Là một phụ nữ Mỹ gốc Bengal, người kết nối triết lý phương Đông và phương Tây, Sathi mang đến góc nhìn độc đáo về các phong trào tâm linh và nghệ thuật trong thế kỷ 21. Với mạng lưới ngày càng mở rộng với hơn <strong>65.000 người theo dõi</strong> và hơn <strong>40 triệu lượt hiển thị trực tuyến</strong> , cô đang xây dựng những cộng đồng toàn cầu kết nối vượt qua mọi rào cản văn hóa và tâm linh."
+    },
+    "together": "Cùng với Quỹ Roy, chúng tôi đang xây dựng sứ mệnh kéo dài 10 năm, kết nối nghệ thuật, công nghệ, giáo dục và điều thiêng liêng, bắt đầu bằng vụ phóng vệ tinh vào ngày 28 tháng 11 năm 2025 và tiếp tục với phong trào sẽ tiếp cận các cộng đồng khó khăn trên toàn thế giới và truyền cảm hứng cho thế hệ tiếp theo."
+  },
+  "join": {
+    "heading": "Tham gia cùng chúng tôi",
+    "content": "Vệ tinh đã được chế tạo. Công nghệ đã sẵn sàng. Ngày phóng đã được ấn định: <strong>28 tháng 11 năm 2025.</strong> Đây chính là thời điểm để tham gia vào sứ mệnh tái định nghĩa những gì nghệ thuật có thể làm, nơi nó có thể đến và đối tượng nó có thể phục vụ.",
+    "fundSpecific": {
+      "heading": "Tài trợ cho một thành phần cụ thể hoặc trở thành đối tác sáng lập",
+      "description": "Chọn một trong các cơ hội tài trợ ở trên, tìm hiểu về việc trở thành nhà sưu tập nghệ thuật hoặc thảo luận về hình thức tài trợ phù hợp với tầm nhìn của bạn.",
+      "button": "Liên hệ với chúng tôi để bắt đầu →"
+    },
+    "generalDonation": {
+      "heading": "Đóng góp được khấu trừ thuế",
+      "description": "Mọi đóng góp, dù lớn hay nhỏ, đều hỗ trợ sứ mệnh và được khấu trừ thuế thông qua nhà tài trợ tài chính của chúng tôi, The Field.",
+      "button": "Quyên góp qua The Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Quyên góp được khấu trừ thuế",
+    "paragraph1": "Orbital Temple là một dự án được tài trợ bởi <strong>The Field (Performance Zone Inc.)</strong> , một tổ chức phi lợi nhuận <strong>501(c)(3)</strong> có trụ sở tại New York. Mọi đóng góp của Hoa Kỳ đều được khấu trừ thuế trong phạm vi pháp luật cho phép.",
+    "paragraph2": "<strong>Cánh đồng</strong><br> 75 Maiden Lane, Phòng 906<br> New York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Khi đóng góp bằng séc, vui lòng thanh toán cho <strong>Performance Zone Inc.</strong> với ghi chú: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

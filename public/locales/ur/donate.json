@@ -1,0 +1,31 @@
+{
+  "title": "مداری مندر کو عطیہ کریں۔",
+  "heading": "اپنا عطیہ مکمل کریں۔",
+  "donatingTo": "آپ عطیہ کر رہے ہیں:",
+  "chooseHow": "منتخب کریں کہ آپ کس طرح اپنا ٹیکس کٹوتی عطیہ مکمل کرنا چاہیں گے:",
+  "option1": {
+    "heading": "آپشن 1: ابھی آن لائن عطیہ کریں۔",
+    "description": "ہمارے محفوظ مالیاتی اسپانسر <strong>The Field</strong> کے ذریعے کریڈٹ کارڈ، ڈیبٹ کارڈ، یا دیگر آن لائن ادائیگی کے طریقوں کا استعمال کرتے ہوئے اپنا عطیہ فوری طور پر مکمل کریں۔ آپ کو فوری ٹیکس کی رسید موصول ہوگی۔",
+    "button": "The Field → کے ذریعے عطیہ کریں۔"
+  },
+  "option2": {
+    "heading": "آپشن 2: دی رائے فاؤنڈیشن میں بینک ڈپازٹ",
+    "description": "ہمارے اسٹریٹجک پارٹنر اور مالی کفیل، <strong>دی رائے فاؤنڈیشن</strong> کو براہ راست بینک ڈپازٹ یا وائر ٹرانسفر کریں۔ یہ اختیار بڑے عطیات یا بین الاقوامی منتقلی کے لیے مثالی ہے۔",
+    "bankingInfo": "بینکنگ کی معلومات",
+    "fields": {
+      "accountName": "اکاؤنٹ کا نام:",
+      "bankName": "بینک کا نام:",
+      "accountNumber": "اکاؤنٹ نمبر:",
+      "routingNumber": "روٹنگ نمبر:",
+      "swift": "SWIFT/BIC:",
+      "reference": "حوالہ:"
+    },
+    "instructions": "براہ کرم حوالہ والے خانے میں &quot; <strong>Orbital Temple - {donationType}</strong> &quot; شامل کریں۔ اپنی ٹرانسفر مکمل کرنے کے بعد، ہمیں <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> پر اپنی ٹرانسفر کی تفصیلات کے ساتھ ای میل کریں تاکہ آپ کی ٹیکس کی رسید موصول ہو۔",
+    "button": "ڈپازٹ کے بارے میں ہم سے رابطہ کریں →"
+  },
+  "taxInfo": {
+    "heading": "ٹیکس کٹوتی دینا",
+    "description": "Orbital Temple <strong>The Field (Performance Zone Inc.)</strong> ، ایک <strong>501(c)(3)</strong> غیر منافع بخش تنظیم کا مالی طور پر سپانسر شدہ منصوبہ ہے۔ قانون کی طرف سے اجازت دی گئی حد تک تمام امریکی شراکتیں ٹیکس میں کٹوتی کے قابل ہیں۔",
+    "questions": "سوالات؟ <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> پر ہم سے رابطہ کریں۔"
+  }
+}

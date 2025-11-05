@@ -1,0 +1,77 @@
+{
+  "title": "Maikling Kasaysayan ng Sining sa Kalawakan - Orbital Temple",
+  "heading": "Maikling Kasaysayan ng Sining sa Kalawakan",
+  "intro": "Mula noong unang matagumpay na paglulunsad ng isang artipisyal na satellite noong <strong>1957</strong> , mahigit sampung libong satellite ang dumating sa orbit sa paligid ng Earth. Sa bagong panahon na ito, nakahanap ang mga artista ng paraan upang palawakin ang kanilang pagsasanay at ang outer space ay naging isang bagong uri ng canvas. Kasabay nito, ang mga pangunahing katanungan tungkol sa pulitika ng paggalugad sa kalawakan ay lumitaw - kahit na marami pang lupain ang hindi pa saklaw.",
+  "sections": {
+    "leonov": {
+      "text": "Ang unang likhang sining na nilikha sa kalawakan ay isang pagguhit ng pagsikat ng araw sa ibabaw ng Earth, na ginawa ng Russian astronaut na <strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">si Alexei Leonov</a></strong> habang nakasakay sa Voskhod 2 noong <strong>1965</strong> .",
+      "caption": "Ang unang piraso ng sining na nilikha sa kalawakan, at ang mga lapis na ginamit ni Alexei Leonov upang iguhit ito. Larawan: Museo ng Yuri Gagarin Cosmonaut Training Center"
+    },
+    "moonMuseum": {
+      "paragraph1": "Pagkalipas ng tatlong taon, <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ang Moon Museum</a></strong> , isang miniscule ceramic plate na diumano ay dumaong sa Buwan na may mga inskripsiyon ng anim sa pinakakilalang artista sa US noong panahong iyon: <strong>Robert Rauschenberg</strong> , <strong>David Novros</strong> , <strong>John Chamberlain</strong> , <strong>Claes Oldenburg</strong> , <strong>Forrest Myers</strong> at <strong>Andy Warhol</strong> .",
+      "caption1": "Larawan ng Moon Museum mula sa orihinal na artikulo ng New York Times. Ang hinlalaki ay nakakubli sa pagguhit ni Warhol.",
+      "paragraph2": "Dahil sa mapanuksong kontribusyon ni Warhol - kaliwa sa itaas - ang proyektong ito ay naging hamon para sa media ng komunikasyon noong panahong iyon.",
+      "caption2": "Ang larawang pinili ng New York Times na i-publish, kung saan makikita ang likhang sining sa ibaba at ang pagguhit ni Andy Warhol sa kaliwang sulok sa itaas."
+    },
+    "fallenAstronaut": {
+      "text": "Noong <strong>1971</strong> , isang maliit na sukat na humanoid aluminum sculpture na tinatawag na <strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Fallen Astronaut</a></strong> ay inilagay sa Buwan ni Apollo 15 astronaut na si <strong>David Scott</strong> . Nilalayon ng Belgian artist <strong>na si Paul Van Hoeydonck</strong> , kasama ang pirasong ito, na gunitain ang mga astronaut at kosmonaut na namatay sa pagsulong ng paggalugad sa kalawakan.",
+      "caption": "View ng Commemorative plaque na naiwan sa buwan sa Hadley-Apennine landing site."
+    },
+    "pioneerVoyager": {
+      "text": "Noong <strong>1970&#39;s</strong> , ang <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Pioneer Plaques</a></strong> at ang <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Voyager Probes</a></strong> ay nagtakda ng mga bagong abot-tanaw para sa sining sa kalawakan. Dala ang mga gold-anodized na aluminum plaque na may mga visual na mensahe mula sa Earth patungo sa anumang iba pang spacefarer na maaaring mahanap ito sa malayong hinaharap, inilalarawan nila ang buhay ng tao sa mga pinakapangunahing elemento nito.",
+      "caption": "Pioneer 10 at 11 plaques, dinala sa malalim na kalawakan noong 1970s."
+    },
+    "dove": {
+      "text": "Noong <strong>1990</strong> , nag-iwan ng marka ang Brazil sa teritoryong ito sa <strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong> , isang mapanlikhang baguhang satellite ng mahusay na kapangyarihang patula. Bagama&#39;t hindi itinuring ng lumikha nito ang kanyang sarili na isang artista, ito ay isang malalim na patula na pagsisikap: nagrekord ito ng mga boses ng mga bata na humihingi ng kapayapaan at ipinadala ang mga ito sa higit sa dalawang libong mga amateur sa radyo sa buong mundo, na ginawang isang kolektibong gawa ng tunog ang isang pioneering CubeSat.",
+      "caption": "DOVE/OSCAR-17, ang mala-tula na satellite ng Brazil na nagpapadala ng mga boses ng mga bata para sa kapayapaan, 1990."
+    },
+    "lastPictures": {
+      "text": "Noong <strong>2012</strong> , inilunsad ng artist na <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">si Trevor Paglen</a></strong> ang <strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;The Last Pictures&quot;</a></strong> , isang micro-etched disc na naglalaman ng 100 larawang naka-attach sa Echostar XVI communications satellite sa geostationary orbit. Idinisenyo upang tumagal ng bilyun-bilyong taon, ito ay nilalayong malampasan ang sibilisasyon ng tao bilang isang archaeological artifact para sa malayong hinaharap.",
+      "caption": "Ang The Last Pictures, isang micro-etched disc na idinisenyo upang madaig ang sangkatauhan, na inilunsad noong 2012."
+    },
+    "ulises": {
+      "text": "Noong <strong>2015</strong> , inilunsad ng <strong>Colectivo Espacial Mexicano</strong> (Mexican Space Collective) <strong>ang Ulises I</strong> , isang nanosatellite na naisip bilang isang conceptual opera sa ilalim ng direksyon ng artist na <strong>si Juan José Díaz Infante Casasús</strong> . Ang satellite ay dinala sa stratosphere sa isang lobo sa panahon ng Feria del Libro de Guadalajara. Idinisenyo upang sumabog sa humigit-kumulang apat na oras at bumaba gamit ang parasyut.",
+      "caption": "Ulises I, isang conceptual satellite opera ni Colectivo Espacial Mexicano."
+    },
+    "artsat": {
+      "text": "Noong <strong>2014</strong> lamang inilunsad ang unang purong masining na satellite. Ang proyekto ng <strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong> ng Unibersidad ng Tokyo ay nagpadala ng spatial na data sa Earth na ginamit sa mga pag-install ng sining at paglikha ng musika.",
+      "caption1": "ARTSAT-1 Invader framework at mga ekstrang bahagi na nanatili sa Earth.",
+      "caption2": "misyon [SPACE x ART] − lampas sa Cosmologies exhibition na ginanap sa Museum of Contemporary Art Tokyo"
+    },
+    "kac": {
+      "text": "Ang Brazilian at American contemporary artist <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">na si Eduardo Kac</a></strong> ay nag-ambag sa space art sa pamamagitan ng pakikipagtulungan sa <strong>NASA</strong> at <strong>SpaceX</strong> . Ang kanyang <strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Inner Telescope&quot;</a></strong> ( <strong>2017</strong> ), na nilikha kasama ang French astronaut <strong>na si Thomas Pesquet</strong> , ay nagresulta sa isang iskultura na ginawa sakay ng <strong>International Space Station</strong> .",
+      "caption": "Inner Telescope sa International Space Station, nilikha kasama ang French astronaut na si Thomas Pesquet, 2017."
+    },
+    "enoch": {
+      "text": "Noong <strong>2018</strong> , isang passive CubeSat na binuo bilang isang art project ang inilunsad sa orbit. Binuo ng bahamian conceptual artist <strong>na si Tavares Strachan</strong> , <strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">si Enoch</a></strong> ay naglalaman ng 24-karat-gold canopic jar na may bust ng unang African-American na astronaut, <strong>si Robert Henry Lawrence Jr.</strong>",
+      "caption": "ENOCH (display unit), 2015-2017. ⓒ Tavares Strachan, larawan ⓒ Museum Associates/LACMA."
+    },
+    "orbitalReflector": {
+      "text": "Sa parehong taon, <strong>ang Orbital Reflector</strong> <strong>ni Trevor Paglen</strong> ay inilunsad din bilang isang iskultura na nakalagay sa isang hindi gumaganang CubeSat. Ang gawain ay isang masining na kilos na nilayon upang baguhin ang paraan ng pagtingin natin sa ating lugar sa mundo. Hindi ito na-deploy nang tama. Bagama&#39;t hindi ito nagbukas bilang dinisenyo, ito ay nagdulot ng mahahalagang pag-uusap at nakakuha ng madamdaming tugon mula sa mga astronomo, siyentipiko, media outlet, tagapagturo, mag-aaral, at pangkalahatang publiko sa buong mundo, na nagpapakita na ang matagumpay na sining ay hindi kailangang maging matagumpay sa teknikal.",
+      "caption": "Digital Rendering ng Orbital Reflector, 2018"
+    },
+    "others": {
+      "text": "Maraming iba pang mga artist ang nag-ambag sa larangan ng space art, bawat isa ay nagdadala ng mga natatanging pananaw sa kanilang pananaliksik. Kabilang sa mga kilalang proyekto ang astronaut artist na pananaliksik <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ni Sarah Jane Pell</a></strong> na naggalugad sa pagganap ng tao sa matinding kapaligiran; Ang proyekto <strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ng Moon Goose Analogue</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ni Agnes Meyer-Brandis</a></strong> na sinusuri ang mga makasaysayang at kontemporaryong mga salaysay sa paggalugad ng kalawakan; Ang programa ng <strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">AstroArts</a></strong> <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ng Nahum</a></strong> na nagpapadali sa mga eksperimento sa masining na microgravity; at <strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Arthur Woods&#39;s</a></strong> <strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Cosmic Dancer</a></strong> sculpture, ang unang eskultura na ipinakita sa kalawakan sakay ng Mir station noong 1993."
+    },
+    "orbitalTemple": {
+      "text": "Sa <strong>2025</strong> , pagkatapos ng 4 na taon ng pananaliksik at pag-unlad, ang Brazilian artist <strong>na si Edson Pavoni</strong> at isang multidisciplinary group of collaborators ay maglulunsad <strong>ng Orbital Temple</strong> , isang participatory art satellite na nag-iimbita sa sinuman sa mundo na magpadala ng mga pangalan sa orbit, na lumilikha ng isang radikal na inclusive na memorial na lampas sa mga hangganan.",
+      "caption": "Orbital Temple sa Mercosul Bienal. Larawan: Clara Marques"
+    }
+  },
+  "imageAlts": {
+    "leonov": "Ang pagguhit at mga lapis ni Alexei Leonov",
+    "moonMuseum": "Moon Museum ceramic wafer",
+    "moonMuseumWarhol": "Moon Museum ceramic wafer na nagpapakita ng lahat ng likhang sining",
+    "fallenAstronaut": "Fallen Astronaut memorial sa Buwan",
+    "pioneerPlaques": "Mga pioneer plaque",
+    "dove": "SAAN/OSCAR-17 satellite",
+    "lastPictures": "Ang disc ng Huling Larawan",
+    "ulises": "Ulises I satellite",
+    "artsatInvader": "ARTSAT-1 Invader satellite structure",
+    "artsatArt": "Nilikha ang likhang sining mula sa data ng ARTSAT-1",
+    "innerTelescope": "Ang Inner Telescope ni Eduardo Kac",
+    "enoch": "ENOCH display unit ni Tavares Strachan",
+    "orbitalReflector": "Ang Orbital Reflector ni Trevor Paglen",
+    "orbitalTemple": "Orbital Temple Satellite"
+  }
+}

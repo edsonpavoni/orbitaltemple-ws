@@ -1,0 +1,31 @@
+{
+  "title": "Koha ki te Orbital Temple",
+  "heading": "Whakaotia To Koha",
+  "donatingTo": "Kei te koha koe ki:",
+  "chooseHow": "Whiriwhiria me pehea e hiahia ai koe ki te whakaoti i to koha tango taake:",
+  "option1": {
+    "heading": "Kōwhiringa 1: Koha Tuihono Inaianei",
+    "description": "Whakaotia tonu to koha ma te whakamahi i te kaari nama, te kaari nama, me etahi atu tikanga utu ipurangi na roto i ta maatau kaitautoko putea haumaru, <strong>The Field</strong> . Ka whiwhi koe i te rīhiti tāke inamata.",
+    "button": "Koha ma te mara →"
+  },
+  "option2": {
+    "heading": "Kōwhiringa 2: Putea Putea ki Te Roy Foundation",
+    "description": "Hangaia he putea putea tika, whakawhiti waea ranei ki <strong>te Roy Foundation</strong> , to maatau hoa rautaki me te kaitautoko putea. He pai tenei whiringa mo nga koha nui, mo nga whakawhitinga o te ao.",
+    "bankingInfo": "Nga korero putea",
+    "fields": {
+      "accountName": "Ingoa Pūkete:",
+      "bankName": "Ingoa Peke:",
+      "accountNumber": "Tau Pūkete:",
+      "routingNumber": "Tau Ararere:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Tohutoro:"
+    },
+    "instructions": "Whakaurua koa &quot; <strong>Temepara Orbital - {donationType}</strong> &quot; ki te mara tohutoro. I muri i te whakaotinga o to whakawhitinga, imeera mai ki a matou i <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> me o taipitopito whakawhiti kia whiwhi koe i to rihiti taake.",
+    "button": "Whakapa mai ki a maatau mo te whakatakoto moni →"
+  },
+  "taxInfo": {
+    "heading": "Taake-tango Hoatu",
+    "description": "Ko te Orbital Temple he kaupapa tautoko moni a <strong>The Field (Performance Zone Inc.)</strong> , he whakahaere kore-painga <strong>501(c)(3)</strong> . Ko nga takoha katoa a te US he taake-tangohia ki te whānuitanga e whakaaetia ana e te ture.",
+    "questions": "Nga patai? Whakapaa mai ki a matou i <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

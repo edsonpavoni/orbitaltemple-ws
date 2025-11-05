@@ -1,0 +1,44 @@
+{
+  "title": "Te Rooputanga me te Painga Mokowhiti - Te Taputapu Orbital",
+  "heading": "Te oranga tonutanga",
+  "intro": {
+    "paragraph1": "Mēnā ko te mahi toi hei arahi i a tatou ki ngā rā kei mua, e kore e warewarehia nga raru e pa ana ki a tatou—te paheketanga o te taiao, te kore tika o te hapori, me te tipu haere o te wero o te para mokowhiti. Ko te Temepara Orbital i hangaia me enei ahuatanga pono, e whai ana kia noho rangatira ki runga i te whenua me te orbit.",
+    "paragraph2": "E whakapono ana matou ehara te oranga tonutanga i te here engari he waahanga nui o to maatau tirohanga toi. Ko nga whakatau katoa e pa ana ki nga rawa, nga awhiowhio me nga mahi e whakaatu ana i to maatau pono ki te wehe i te whenua me te waahi pai ake i ta maatau i kitea."
+  },
+  "spaceDebris": {
+    "heading": "Nga para mokowhiti",
+    "paragraph1": "Ko nga otaota mokowhiti tetahi o nga tino wero e pa ana ki te torotoro mokowhiti. Ko nga mano tini o nga peerangi kua ngaro me nga kongakonga e huri haere ana i te whenua, e whakatumatuma ana i nga miihana hohe me te hanga i te awe karekau e kore e taea te whakamahi i etahi orbit.",
+    "paragraph2": "Ko te Orbital Temple e korero ana i tenei ma nga huarahi maha:",
+    "list": {
+      "orbit": "<strong>Te omionga tukutahi-ra i te 525 kiromita:</strong> Ma tenei teitei e whakarite te toia o te hau maori ka uru ano te amiorangi ki te hau o te whenua i roto i te 10 tau, ka wera katoa. Kaore matou e whai waahi ana ki nga otaota orbital mo te wa roa.",
+      "size": "<strong>Hoahoa PocketQube:</strong> I te 50×58×64mm me te 245g noa iho, he iti te amiorangi ki te tino whakangohu i te wa o te urunga ano, karekau he para i te mata o te whenua.",
+      "responsibility": "<strong>Karekau he tawhito kua whakamaheretia:</strong> Kaore i rite ki nga amiorangi arumoni ka whakarerea pea, i hangaia te Orbital Temple ki te whakaheke i te taiao, ki te whakatutuki i nga aratohu o te ao mo nga mahi mokowhiti."
+    },
+    "paragraph3": "Ma te whiriwhiri i tetahi orbit whenua iti me te hoahoa kiato, ka whakarite maatau ko te noho o te Orbital Temple ki te waahi mo te wa poto me te kore e poke."
+  },
+  "carbonNeutrality": {
+    "heading": "Waro Neutrality",
+    "content": "Ko nga tuku waro katoa e pa ana ki te Orbital Temple—tae atu ki te hanga amiorangi, te whakarewatanga, te whakahaere teihana whenua, te manaaki paetukutuku, me te haerenga a te roopu—ka tino whakakorehia ma nga kaupapa nama waro kua whakamanahia. E u ana matou ki te hanga i tenei misioni kia noho koretake."
+  },
+  "openSource": {
+    "heading": "Pūmārō Pūtake Tuwhera",
+    "paragraph1": "Ko te oranga tonutanga ko te kore moumou matauranga. Ko nga ahuatanga hangarau katoa o te Orbital Temple—nga hoahoa, waehere, kawa korero, me nga tikanga hanga—ka whakaputaina hei tuhinga tuwhera puna.",
+    "paragraph2": "Ma tenei ka taea e nga misioni a meake nei te hanga i runga i a maatau mahi, kaua ki te timata mai i te wahanga, te whakaiti i nga rangahau me te whanaketanga. Ka whakakorehia e ia te uru ki nga hangarau mokowhiti, ina koa mo nga hapori o te Ao ki te Tonga kua wehea mai i nga wa o mua mai i te torotoro mokowhiti."
+  },
+  "educational": {
+    "heading": "Te Paanga Matauranga",
+    "paragraph1": "Ko ta matou kaupapa ako reo maha kore utu e ako ana i nga akonga puta noa i te ao me pehea te hanga me te whakarewa i nga amiorangi, me te aro ki te Ao Tonga. Ma te whakamana i te reanga e whai ake nei me nga pukenga hangarau mokowhiti, ka whai waahi matou ki te kati i te \"Aputa Mokowhiti\" me te hanga huarahi karekau.",
+    "paragraph2": "Ko tenei miihana matauranga he momo oranga tonu—te haumi i roto i nga tangata me nga hapori ki te hanga huringa pumau i tua atu i te oranga o te amiorangi."
+  },
+  "tenYear": {
+    "heading": "He Mihana 10 Tau",
+    "paragraph1": "Ko te Orbital Temple i hangaia mo te tekau tau te roa o te misioni, ehara i te wa poto noa. Neke atu i te tekau tau, ka 50,000 nga wa ka huri haere te amiorangi i te whenua, ka whiwhi ingoa, ka waiho hei whakamaumahara ka noho noa te waahi, ka taea e te katoa.",
+    "paragraph2": "I te mutunga o tana kaupapa, ka whakakorea te amiorangi me te wera, kaore he tohu engari ko nga maharatanga me nga tuhinga o te hunga i uru."
+  },
+  "artsResponsibility": {
+    "heading": "Te Kawenga Toi",
+    "paragraph1": "Ko te toi tonu te whakaata o tona wa, e whakaata ana i o tatou uara me o tatou wawata. I roto i te wa o te raru o te rangi me te piki haere o te rerekeetanga, e whakapono ana matou he kawenga nga kaitoi ki te hanga mahi ehara i te korero noa mo enei take engari ka kaha ki te whakatika.",
+    "paragraph2": "Ko te Orbital Temple ta matou ngana ki te hanga i tetahi mahi toi e tino whai kiko ana i roto i tona whakaurunga, te kawenga mo te paanga o te taiao, me te kaha ki te whakapuaki i ona matauranga ki te ao. Ko te mahi toi e tono ana i nga tangata katoa ki te whai waahi me te whakaute i nga punaha ngoikore—te taiao me te orbital—e taea ai te ora me te torotoro haere."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

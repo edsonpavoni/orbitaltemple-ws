@@ -1,0 +1,13 @@
+{
+  "title": "Ceeb Toom - Lub Tuam Tsev Orbital",
+  "heading": "Ceeb Toom Thaum Nws Sawv",
+  "description": "Lub Kaum Ib Hlis 28, 2025, Lub Tuam Tsev Orbital yuav nce mus.<br> Cia koj e-mail, thiab peb yuav qhia koj thaum nws mus txog qhov chaw.",
+  "form": {
+    "emailPlaceholder": "koj@email.com",
+    "sendButton": "Xa",
+    "sendingButton": "Xa...",
+    "successMessage": "Peb yuav ncav cuag koj thaum nws nce.",
+    "errorMessage": "Ib yam dab tsi mus tsis ncaj ncees lawm. Thov rov sim dua."
+  },
+  "backLink": "← Rov qab mus rau countdown"
+}

@@ -1,0 +1,167 @@
+{
+  "title": "Orbital ibodatxonasini qo'llab-quvvatlash - Missiyaga qo'shiling",
+  "heading": "Orbital ibodatxonasini qo'llab-quvvatlang",
+  "vision": "<strong>2025-yil 28-noyabrda</strong> <strong>Orbital Temple</strong> <strong>Hindistondan</strong> <strong>ISRO</strong> raketasida uchiriladi. Global janubdagi ishtirokchi san&#39;at sun&#39;iy yo&#39;ldoshi, bu radikal inklyuziya yodgorligi, ta&#39;lim platformasi va texnologiya, sun&#39;iy intellekt va kosmik tadqiqotlar asrida muqaddas kelajak haqida global suhbat uchun katalizator.",
+  "videoCaption": "Orbital Temple video taqdimoti, 1 min.",
+  "accomplished": {
+    "heading": "Biz nimaga erishdik",
+    "content": "To&#39;rt yillik tadqiqot va ishlanmalardan so&#39;ng, missiya tayyor. Biz sun&#39;iy yo&#39;ldosh uchun <strong>apparat va dasturiy ta&#39;minotni ishlab chiqishni</strong> yakunladik, parvoz sertifikati uchun zarur bo&#39;lgan <strong>rasmiy shaker sinovlaridan</strong> o&#39;tdik va ISRO bilan shartnomamizni yakunladik. Sun&#39;iy yo&#39;ldosh qurilgan. Texnologiya ishlaydi. Biz ishga tushirish uchun ruxsat oldik."
+  },
+  "funding": {
+    "heading": "Moliyalashtirish jarayoni",
+    "raised": "dan ko'tarilgan",
+    "of": "ning",
+    "goal": "maqsad",
+    "button": "Missiyani qo'llab-quvvatlang"
+  },
+  "needs": {
+    "heading": "Bizga nima yordam kerak",
+    "intro": "Ushbu tarixiy missiyani bajarish va uning ta'sirini maksimal darajada oshirish uchun bizga beshta muhim komponentni qo'llab-quvvatlash kerak:",
+    "launch": {
+      "title": "ISRO ishga tushirish xarajatlari:"
+    },
+    "travel": {
+      "title": "Rassomning Hindistonga sayohati:"
+    },
+    "carbon": {
+      "title": "Uglerodni o'chirish dasturi:"
+    },
+    "education": {
+      "title": "Ta'lim dasturi:"
+    },
+    "docPreProd": {
+      "title": "Hujjatli film tayyorlanishi:"
+    },
+    "docProd": {
+      "title": "Hujjatli ishlab chiqarish:"
+    }
+  },
+  "decade": {
+    "heading": "Oldinda o'n yil",
+    "intro": "Bu missiya 2025-yil 28-noyabrda tugamaydi. Bu endigina boshlanmoqda.",
+    "paragraph1": "Keyingi <strong>10 yil</strong> davomida ushbu sun&#39;iy yo&#39;ldosh sayyoramizning har bir burchagidan yuborilgan nomlarga javob berib, Yer atrofida aylanadi. Ta&#39;lim dasturi <strong>minglab o&#39;smirlarni</strong> sun&#39;iy yo&#39;ldosh texnologiyasiga o&#39;rgatish, Global janub uchun <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">kosmik bo&#39;shliqni</a> buzishga qaratilgan. Hujjatli film butun dunyo bo&#39;ylab <strong>millionlab odamlarni</strong> qamrab oladi, bu esa tegishlilik, xotira va muqaddaslik haqida suhbatlarga sabab bo&#39;ladi.",
+    "paragraph2": "Orbital Temple <strong>Sathi Roy</strong> va <strong>The Roy Foundation</strong> bilan hamkorlikda ushbu o&#39;n yillik qarashni madaniy ahamiyatga ega qilish uchun ishlaydi. Roy jamg&#39;armasi butun dunyo bo&#39;ylab kam ta&#39;minlangan jamoalar uchun ma&#39;naviy ta&#39;lim, hissiy shifo va ong vositalaridan foydalanish imkoniyatlarini kengaytirishga, qadimiy donolik va zamonaviy texnologiyalarni yanada ongli, bog&#39;liq va rahmdil dunyo yaratish uchun ko&#39;prik qilishga bag&#39;ishlangan notijorat tashkilotdir. Birgalikda biz Orbital ibodatxonasi butun dunyo bo&#39;ylab jamoalarga etib boradigan doimiy harakatga aylanishini ta&#39;minlash uchun infratuzilmani qurmoqdamiz.",
+    "paragraph3": "Sizning yordamingiz shunchaki ishga tushirishni moliyalashtirmaydi; u o'n yil davomida aks-sado beradigan va kosmik rassomlar va muhandislarning keyingi avlodini ilhomlantiradigan harakatni yaratadi."
+  },
+  "waysToSupport": {
+    "heading": "Qo'llab-quvvatlash usullari",
+    "individualDonations": {
+      "heading": "Shaxsiy xayriyalar",
+      "intro": "Missiyaga siz uchun mos keladigan darajada qo'shiling. Shaxsiy tarafdorlar ushbu tarixiy loyihaning asosidir.",
+      "orbitalFriend": {
+        "title": "Orbital do'st",
+        "benefits": "Siz olasiz: Veb-sayt faxriy yorlig'ida ism · Sun'iy yo'ldosh uchirilganda shaxsiylashtirilgan orbital sertifikat · Hujjatli rahmat krediti · Soliqdan chegirib tashlanadigan kvitansiya",
+        "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+      },
+      "satelliteSupporter": {
+        "title": "Sun'iy yo'ldosh qo'llab-quvvatlovchi",
+        "benefits": "Siz olasiz: Orbital Friendning barcha imtiyozlari · Sunʼiy yoʻldosh orqali kuzatuv ilovasiga eksklyuziv kirish · Ijrochiga rahmat video xabari · Soliqdan chegirilgan kvitansiya",
+        "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+      },
+      "spaceAdvocate": {
+        "title": "Kosmik himoyachi",
+        "benefits": "Siz olasiz: Satellite Supporterning barcha imtiyozlari · Hujjatli filmlarda chop etilgan ism · Shaxsiy hujjatli film namoyishiga taklifnoma · Jamoadan har chorakda yangilanishlar · Soliqdan chegirib tashlanadigan kvitansiya",
+        "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Muayyan komponentni moliyalash",
+    "intro": "Sizning hissangiz missiyaning muayyan jihatlarini bevosita moliyalashtiradi. Siz bilan gaplashadigan narsani tanlang yoki kattaroq ta'sir yaratish uchun bir nechtasini birlashtiring.",
+    "launch": {
+      "title": "Koinotning uchirilishini moliyalash",
+      "description": "<strong>ISRO</strong> raketasi bortida <strong>2025-yil 28-noyabrda</strong> uchirishning haqiqiy narxi. Bu Orbital Templeni orbitaga yuboradi, u erda o&#39;n yil davomida ishtirokchi san&#39;at sun&#39;iy yo&#39;ldoshi va osmondagi ibodatxona sifatida qoladi va dunyodagi har bir kishi foydalanishi mumkin.",
+      "benefits": "Siz olasiz: “Homiyni ishga tushirish” sarlavhasi · Barcha press-relizlarda taqdim etilgan · Hujjatli filmning ekrandagi tasdiqnomasi · Boshlanish tadbirlariga VIP ruxsati · Edson va missiya jamoasi bilan har chorakda video qo‘ng‘iroqlarga qo‘shiling · Sun’iy yo‘ldosh orbital ma’lumotlari bilan sertifikat · Soliqdan chegirib tashlanadigan kvitansiya",
+      "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+    },
+    "travel": {
+      "title": "Rassomning Hindistonga sayohatini moliyalashtiring",
+      "description": "Rassom Edson Pavoni va asosiy jamoa uchun sayohat, turar joy va ishlab chiqarish xarajatlari <strong>2025-yil 28-noyabrda Hindistonda</strong> namoyish etilishiga guvoh bo‘ladi. Ushbu sayohat hujjatli filmlar suratga olish, ommaviy axborot vositalarida yoritish va ushbu tarixiy vaqtda Global janubni namoyish qilish uchun juda muhimdir.",
+      "benefits": "Siz olasiz: Rassomdan shaxsiy minnatdorchilik · Sahna ortidagi hujjatli filmga kirish huquqi · Hujjatli film kreditlaridagi ism · Soliqdan chegirilgan kvitansiya",
+      "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+    },
+    "carbon": {
+      "title": "Uglerodni o'chirish dasturini moliyalashtiring",
+      "description": "Barcha uglerod chiqindilari, jumladan, raketa uchirilishi va sun'iy yo'ldosh ishlab chiqarilishi zararsizlantiriladi. Ushbu missiya atrof-muhitga salbiy ta'sir ko'rsatmasligini ta'minlash uchun tasdiqlangan uglerodni o'zgartirish dasturlari bilan ishlamoqdamiz.",
+      "benefits": "Siz olasiz: Veb-sayt faxriy roʻyxatidagi ism · Shaxsiy sertifikat · Soliqdan chegirib tashlanadigan kvitansiya",
+      "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+    },
+    "education": {
+      "title": "Ta'lim dasturini moliyalashtirish",
+      "description": "Global Janubiy o'smirlarga sun'iy yo'ldoshlarni qurishni o'rgatuvchi to'liq ko'p tilli kursni ishlab chiqing va ishga tushiring. O'quv dasturlarini ishlab chiqish, video ishlab chiqarish, platformani joylashtirish va kam ta'minlangan talabalar uchun stipendiyalarning birinchi yilini o'z ichiga oladi. Kosmik ta'lim uchun doimiy infratuzilmani yaratadi.",
+      "benefits": "Siz quyidagilarni olasiz: “Taʼlim asoschisi” eʼtirofi · Sizning nomingizdan stipendiyalar · Oʻquv materiallarida koʻrsatilgan · Stipendiyangiz moliyalashtirilgan talabalarning birinchi guruhi bilan tanishing (virtual yoki shaxsan) · Hujjatli filmlar segmenti · Boshlanish tadbirlarida nutq soʻzlash imkoniyati · Soliqdan chegirib tashlanadigan kvitansiya",
+      "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+    },
+    "docPreProd": {
+      "title": "Hujjatli filmni oldindan ishlab chiqarishni moliyalash",
+      "description": "<strong>&quot;Ma&#39;bad nimadan iborat?&quot;</strong> ning dastlabki bosqichini moliyalashtiring. hujjatli film. <strong>Hindistonda</strong> fikr rahbarlari va ruhiy amaliyotchilar bilan 2 ta chuqur intervyu o&#39;tkazish, kichik ekipaj sayohati va ishlab chiqarish va ishlab chiqarishdan oldingi kadrlarni tahrirlashni o&#39;z ichiga oladi. Ushbu bosqich hujjatli filmning asosini belgilaydi va ijodiy yo&#39;nalishni tasdiqlaydi.",
+      "benefits": "Siz olasiz: Associent prodyuser krediti · Hujjatli filmdagi ism · Ishlab chiqarishdan oldingi kadrlarni shaxsiy ko‘rish · Sahna ortidagi ruxsat · Soliqdan chegirib tashlanadigan kvitansiya",
+      "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+    },
+    "docProd": {
+      "title": "Hujjatli asarni moliyalash",
+      "description": "To&#39;liq ishlab chiqarish va <strong>&quot;Ma&#39;badni nima qiladi?&quot;</strong> , san&#39;at, texnologiya va muqaddaslikning kesishuvini o&#39;rganuvchi badiiy hujjatli film. Koʻp mamlakatlarda suratga olish, fikr yetakchilari bilan qoʻshimcha intervyular, keng qamrovli tahrirlash, ranglarni baholash, ovoz dizayni va <strong>Hindiston</strong> va <strong>Nyu-Yorkdagi</strong> premyera namoyishlarini oʻz ichiga oladi.",
+      "benefits": "Siz olasiz: Ijrochi prodyuser krediti · Ochilgan kreditlar · Mehmonlaringiz uchun shaxsiy tomosha · Jahon premyerasiga taklifnomalar (ikkala shaharda) · Premyera oldidan Edson va hujjatli film rejissyori bilan shaxsiy kechki ovqat · Sahna ortidagi ruxsat · Soliqdan chegirib tashlanadigan kvitansiya",
+      "button": "Soliqdan chegirib tashlanadigan xayriya qiling"
+    },
+    "artCollector": {
+      "title": "Yagona Orbital Temple san'at to'plamiga aylaning",
+      "imageAlt": "Merkosul Biennalesida Orbital Ma'badni o'rnatish",
+      "imageCaption": "13-Merkosul biennaleidagi Orbital ibodatxonasi, Porto Alegre. Klara Markes surati.",
+      "paragraph1": "Ushbu missiya uchun uchta bir xil sun&#39;iy yo&#39;ldosh qurilgan. <strong>Ulardan</strong> <strong>biri</strong> 2025-yil 28-noyabrda koinotga uchadi. Dunyo bo‘ylab muzey ko‘rgazmalariga sayohat qiladi. <strong>Ulardan biri</strong> ushbu tasavvurni moliyalashtirishni va kosmik san&#39;at tarixining bir qismiga egalik qilishni xohlaydigan saxiy kollektor uchun ajratilgan.",
+      "paragraph2": "Bu nusxa emas; u uchta asl sun&#39;iy yo&#39;ldoshdan biridir. To&#39;liq <strong>ishlaydigan kosmik kema</strong> , bu ham <strong>haykaldir</strong> . Sun&#39;iy yo&#39;ldoshning o&#39;lchami <strong>5 sm³</strong> va og&#39;irligi <strong>245 g</strong> , gumbazi <strong>oltindan</strong> yasalgan.",
+      "paragraph3": "Bu <strong>1/1 san&#39;at asari</strong> .",
+      "paragraph4": "Kollektor sifatida siz <strong>13-Merkosul Biennalesi</strong> uchun yaratilgan bir xil o&#39;rnatishni olasiz, bu sun&#39;iy yo&#39;ldoshni ham san&#39;at, ham texnologiya sifatida namoyish etadigan to&#39;liq muzeyologik displey. Ushbu o&#39;rnatish yirik xalqaro maydonlarda namoyish etilgan va kosmik san&#39;at taqdimotining eng yuqori standartini ifodalaydi.",
+      "paragraph5": "Sizning qo'llab-quvvatlashingiz butun tasavvurni moliyalashtirishga yordam beradi: ishga tushirish, ta'lim dasturi va texnologiya, sun'iy intellekt va kosmik tadqiqotlar asrida muqaddas narsalar haqida global suhbatlarga sabab bo'ladigan hujjatli film. Sizning nomingiz ushbu tarixiy missiya bilan doimiy ravishda bog'lanadi.",
+      "button": "Ushbu imkoniyat haqida so'rang"
+    }
+  },
+  "gratitude": {
+    "heading": "Qo'llab-quvvatlovchilarimizga Minnatdorchilik Bilan",
+    "intro": "Orbital ibodatxonani yaratish institutlar, shaxslar va radikal inklyuziyadagi imonlilar tomonidan amalga oshiriladi, ular san'at ertangi kunning tasavvurlarini yaratishini tushunadilar.",
+    "pearmill": {
+      "title": "Ta'sischi tarafdori",
+      "description": "Pearmill AQShdagi eng tez rivojlanayotgan marketing agentliklaridan biri bo'lib, dunyodagi eng mashhur startaplarni rivojlantirishga yordam berish uchun birgalikda ishlaydigan dizaynerlar, marketologlar va muhandislar guruhidir. Ularning saxovatli yordami Orbital Temple jamoasiga muhim komponentlarni sotib olishga va sun'iy yo'ldosh missiyasini amalga oshirishga imkon beruvchi ochiq manbali uskunani ishlab chiqishga imkon berdi."
+    },
+    "yourName": "Sizning ismingiz shu erda bo'lishi mumkin. Tarix yaratishda bizga qo'shiling."
+  },
+  "people": {
+    "heading": "Bu missiya ortida turgan odamlar",
+    "intro": "Orbital Temple 10 yillik majburiyatdir. Unga hayotini san'at, texnologiya va insoniy aloqalarni bog'lash uchun o'tkazgan va kelgusi o'n yil davomida ushbu qarashni qo'llab-quvvatlash uchun infratuzilmani qurayotgan ikki kishi boshqaradi.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Rassom va texnolog",
+      "paragraph1": "Edson - san'at va texnologiya chorrahasida inson yaqinligini o'rganadigan rassom va texnolog. Uning amaliyoti arxitektura inshootlari, she'riyat, fotografiya va sun'iy yo'ldosh texnologiyasini qamrab oladi.",
+      "paragraph2": "Uning ishi 13-Mercosul Biennale (Braziliya), IX Xalqaro Biennale (O‘zbekiston) va NTU Global Digital Art Prize (Singapur) da namoyish etilgan.",
+      "paragraph3": "<strong>San&#39;at va texnologiya sohasida 20 yildan ortiq vaqt</strong> davomida u <strong>2016 yilgi Rio Olimpiadasi</strong> va <strong>Inter Amerika taraqqiyot banki</strong> ijodiy jamoalari bilan ishlagan. Proxxima jurnali tomonidan <strong>50 ta eng innovatsion braziliyalik mutaxassislardan</strong> biri deb nomlandi, u ketma-ket ikki marta <strong>IF Design Awards</strong> (2017-2018) oldi va <strong>Lumen Prize Futures mukofoti</strong> finalchisi bo&#39;ldi. Uning ishi ikki biennaleda namoyish etilgan va <strong>Lyudvig zamonaviy san&#39;at muzeyida</strong> (Budapesht), <strong>Inhotim institutida</strong> (Braziliya) va <strong>Dizayn va moda muzeyida</strong> (Lissabon), Nyu-York, Pekin, Singapur, Dubay, Rio-de-Janeyro va boshqa shaharlarda namoyish etilgan."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Roy fondi asoschisi va strategik hamkori",
+      "paragraph1": "Sathi butun dunyo bo&#39;ylab kam xizmat ko&#39;rsatayotgan jamoalar uchun ma&#39;naviy ta&#39;lim, hissiy shifo va ong vositalaridan foydalanish imkoniyatini kengaytirishga bag&#39;ishlangan notijorat tashkiloti <strong>Roy Foundation</strong> asoschisidir. Jamg‘arma maktablar, madaniy muassasalar va mahalliy tashkilotlar bilan hamkorlikda sun’iy intellektga asoslangan sog‘lomlashtirish vositalari, jamoat o‘quv dasturlari va transformatsiyani ilhomlantiruvchi ommaviy axborot vositalarini tarqatadi.",
+      "paragraph2": "Neyrologiya, murabbiylik va etakchilik bo&#39;yicha ma&#39;lumotga ega bo&#39;lgan Sathi Shimoliy Amerika va Hindiston bo&#39;ylab jamoalar yaratdi va ularga rahbarlik qildi, bir korxonada yillik savdodan <strong>600 million dollar</strong> ishlab chiqardi. U, shuningdek, raqamli-birinchi ruhiy harakat <strong>OHM</strong> asoschisi, <strong>SUTE</strong> (Raqamli sunʼiy intellektga asoslangan ofis platformasi) asoschisi va <strong>RISE Global Creative</strong> uchun maslahatchi va global oʻsish boʻyicha rahbari boʻlib xizmat qiladi.",
+      "paragraph3": "Sharq va Gʻarb falsafalarini bogʻlovchi bengal-amerikalik ayol sifatida Sathi 21-asrdagi ruhiy va badiiy harakatlarga oʻziga xos nuqtai nazarni olib keladi. <strong>65 000+ izdoshlari</strong> va <strong>40 milliondan ortiq onlayn taassurotlari</strong> bilan o&#39;sib borayotgan tarmoq bilan u madaniy va ma&#39;naviy tafovutlarni bog&#39;laydigan global hamjamiyatlarni qurmoqda."
+    },
+    "together": "Roy jamg‘armasi bilan birgalikda biz 2025-yil 28-noyabrda sun’iy yo‘ldosh uchirilishidan boshlab san’at, texnologiya, ta’lim va muqaddas narsalarni bog‘laydigan 10 yillik missiyani qurmoqdamiz va butun dunyo bo‘ylab xizmat ko‘rsatilmagan jamoalarga yetib boradigan va keyingi avlodni ilhomlantiradigan harakatni davom ettirmoqdamiz."
+  },
+  "join": {
+    "heading": "Bizga qo'shiling",
+    "content": "Sun&#39;iy yo&#39;ldosh qurilgan. Texnologiya tayyor. Ishga tushirish sanasi belgilandi: <strong>2025 yil 28-noyabr</strong> . Bu san&#39;at nima qila olishi, qaerga borishi va kimga xizmat qilishi mumkinligini qayta tasavvur qiladigan missiyaga qo&#39;shilish vaqti.",
+    "fundSpecific": {
+      "heading": "Muayyan komponentni moliyalashtiring yoki ta'sischi hamkorga aylaning",
+      "description": "Yuqoridagi moliyalashtirish imkoniyatlaridan birini tanlang, san'at kollektori bo'lish haqida so'rang yoki sizning qarashlaringizga mos keladigan homiylikni muhokama qiling.",
+      "button": "Boshlash uchun biz bilan bog'laning →"
+    },
+    "generalDonation": {
+      "heading": "Soliqdan chegirib tashlanadigan hissa qo'shing",
+      "description": "Katta yoki kichik barcha hissalar missiyani qo'llab-quvvatlaydi va bizning moliyaviy homiymiz The Field orqali soliqdan chegirib tashlanadi.",
+      "button": "The Field orqali xayriya qiling →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Soliqdan chegirib tashlanadigan berish",
+    "paragraph1": "Orbital Temple - Nyu-Yorkda joylashgan <strong>501(c)(3)</strong> notijorat tashkiloti <strong>The Field (Performance Zone Inc.)</strong> ning moliyaviy homiylikdagi loyihasi. AQShning barcha badallari qonun tomonidan ruxsat etilgan darajada soliqqa tortiladi.",
+    "paragraph2": "<strong>Maydon</strong><br> Qizlar ko&#39;chasi, 75, Suite 906<br> Nyu-York, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Chek orqali badal qo&#39;shganda, iltimos, <strong>Performance Zone Inc.ga</strong> eslatma bilan to&#39;lang: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Imfundo Nomthombo Ovulekile - Ithempeli Le-Orbital",
+  "heading": "Ezemfundo Nomthombo Ovulekile",
+  "intro": {
+    "paragraph1": "Bonke ubuchwepheshe obuthuthukiselwe umsebenzi we-Orbital Temple buzoba <strong>umthombo ovulekile</strong> futhi butholakale ku-inthanethi <strong>ngesiPutukezi</strong> , <strong>isiNgisi</strong> , <strong>iSpanishi</strong> kanye <strong>nesiHindi</strong> , okugqugquzela ukuthuthukiswa kokuhlolwa komkhathi eGlobal <strong>South</strong> . Imishini emisha namaphrojekthi angasebenzisa i-Orbital Temple njengesisekelo socwaningo lwabo lobuciko noma lwesayensi.",
+    "paragraph2": "Njengengxenye yomsebenzi wayo wokufundisa, i-Orbital Temple izohlinzeka ngesifundo samahhala sezilimi eziningi sendlela yokwakha nokwethulwa kwesathelayithi. Kuzoba yithuba lokufunda ngobuchwepheshe besathelayithi futhi ubusebenzise. Noma ubani ongaphezu kweminyaka engu- <strong>16</strong> uzokwazi ukuzakhela esathelayithi, afunde ngomlando wobuciko emkhathini, imiqondo eyisisekelo yezogesi, ezomakhenikha nesayensi yasemkhathini, okuhlanganisa indlela yokuxhasa ngezimali amaphrojekthi kanye nendlela yokwakhiwa kwe-antenna ukuze uxhumane namasathelayithi ku-orbit."
+  },
+  "spaceGap": {
+    "heading": "Kungani Lokhu Kubalulekile: I-Space Gap",
+    "paragraph1": "Igama elithi <strong>&quot;Space Gap&quot;</strong> lisho ukwehlukana phakathi kwezizwe ezithuthukile ezingafinyelela emathubeni obuchwepheshe atholakala ngokuhlola indawo, kanye namazwe asathuthuka angakwazi ukufinyelela kulobu buchwepheshe. Amazwe aseNingizimu Yomhlaba kufanele akhokhe amanani amakhulu kohulumeni bangaphandle noma izinkampani ngokufinyelela okuyisisekelo olwazini olukhiqizwa ubuchwepheshe besathelayithi.",
+    "paragraph2": "Ubuchwepheshe basemkhathini bunikeza izinzuzo ezibalulekile: amasathelayithi asiza ekulweni nokugawulwa kwemithi ngokungemthetho, ukudoba okungekho emthethweni, nohwebo olungekho emthethweni lwezilwane zasendle, ezimelela imali engaphezu kwezigidi <strong>eziyizinkulungwane ezingu-73 zamaRandi ngonyaka</strong> . Banikeza ulwazi olubalulekile mayelana nesimo sezulu, ukukhiqizwa kwamanzi, nokuvikeleka kokudla. Amasathelayithi anika amandla ukunemba kwenkasa kanye namasu ezolimo, futhi asiza ekuvimbeleni izinhlekelele zemvelo. Imboni yasemkhathini ingase idale <strong>amathuba emisebenzi afinyelela esigidini esisodwa</strong> ngo <strong>-2030</strong> , kodwa la mathuba ahlala engafinyeleleki kwabaningi eNingizimu Yomhlaba.",
+    "paragraph3": "Ngokuhlinzeka ngobuchwepheshe nemfundo yomthombo ovulekile, sihlose ukwenza intando yeningi ukufinyelela emkhathini futhi sinikeze isizukulwane esisha amandla okuphupha ngale kwesibhakabhaka."
+  },
+  "empowering": {
+    "heading": "Ukunika amandla Isizukulwane Esilandelayo",
+    "intro": "Sizofundisa isizukulwane esilandelayo sabahloli basemkhathini ukuthi bangakha kanjani futhi bethule amasathelayithi abo, sihlanganisa izihloko ezibalulekile ezihlanganisa:",
+    "topics": {
+      "history": "<strong>Umlando wobuciko emkhathini:</strong> Ukuqonda uhlu lwamasathelayithi obuciko nemisebenzi yobuciko esekwe emkhathini.",
+      "concepts": "<strong>Imiqondo eyinhloko:</strong> <strong>I-ArtSat</strong> (amasathelayithi obuciko), ubuchwepheshe be <strong>-Open Source</strong> space, kanye ne <strong>-Space Gap</strong> .",
+      "missions": "<strong>Imishini yasemkhathini:</strong> Ungawucabanga kanjani futhi uklame umgomo, nokuthi ulakha kanjani iqembu elizowufeza.",
+      "electronics": "<strong>Ama-elekthronikhi asemkhathini:</strong> Imiqondo eyisisekelo yezingxenye ze-elekthronikhi ezingaphila futhi zisebenze endaweni yasemkhathini.",
+      "mechanics": "<strong>Omakhenikha emkhathini:</strong> Ukuqonda izidingo zesakhiwo nemishini yokuklama isathelayithi.",
+      "orbits": "<strong>Ama-Orbits neziqalisi:</strong> Izinhlobo ezihlukene zemizila nokuthi ungabakhetha kanjani abahlinzeki bokuqalisa benjongo yakho.",
+      "financing": "<strong>Amasu okuthola imali:</strong> Ungayithola kanjani imali nezinsiza zokuqalisa isathelayithi yakho. Isifundo sizohlinzeka ngezinsiza zokuthola uxhaso lwemali yokuqaliswa kwakho, ukusiza abafundi bathole izinhlelo nezibonelelo ezivela ezikhungweni zamazwe ngamazwe ezisekela ososayensi abancane nabafundi ekuthumeleni amasathelayithi abo emkhathini.",
+      "groundStation": "<strong>Ukuthuthukiswa kwesiteshi esingaphansi:</strong> Ulwakha kanjani uthi ukuze uxhumane ne-Orbital Temple namanye amasathelayithi."
+    }
+  },
+  "technology": {
+    "heading": "Ubuchwepheshe: I-PocketQube Satellites",
+    "paragraph1": "Abafundi bazofunda ukusebenza ngamasathelayithi <strong>e-PocketQube</strong> , izinga le-nanosatellite elikala nje <strong>u-5cm³</strong> futhi linesisindo esingafika ku- <strong>250g</strong> . Naphezu kobukhulu bawo obuncane, ama-PocketQubes angamathuluzi anamandla akwazi ukubuka umhlaba, ukuqapha, nokuxhumana.",
+    "paragraph2": "Lawa masathelayithi ahlangene anezinhlelo zokusebenza eziningi zomhlaba wangempela, kusukela ocwaningweni lwesayensi ngokushintsha kwesimo sezulu kuya ekuxhumaneni kwamanye amazwekazi. Ngenxa yokuthi mancane futhi alula, athengeka kakhulu ukuwakha nokuqalisa, okwenza isikhala sifinyeleleke kalula kubafundi, abacwaningi, namaciko emhlabeni jikelele."
+  },
+  "globalAccess": {
+    "heading": "I-Global Access, Kusukela ku-Global South",
+    "paragraph1": "Isifundo sizotholakala kunoma ubani <strong>oneminyaka engu-16 noma ngaphezulu</strong> , <strong>mahhala</strong> ngokuphelele . Siqala ngokuqukethwe ngesi <strong>-Portuguese</strong> , <strong>Spanish</strong> , <strong>English</strong> , nesi- <strong>Hindi</strong> , ngezinhlelo zokunwebela ezilimini ezengeziwe njengoba uhlelo lukhula.",
+    "paragraph2": "Injongo yethu iqala eGlobal South futhi inabela emhlabeni, ukuqinisekisa ukuthi isizukulwane esilandelayo sabahloli basemkhathini siphuma kuwo wonke amagumbi oMhlaba."
+  },
+  "callToAction": {
+    "heading": "Sisize Ukwenza Lokhu Kwenzeke",
+    "content": "Lolu hlelo lwezemfundo lusathuthukiswa okwamanje. Sifuna ozakwethu nabaxhasi ababelana ngombono wethu wokufinyelela kwentando yeningi kubuchwepheshe bomkhathi. Uma wena noma inhlangano yakho ningathanda ukusekela lesi sinyathelo, sicela uvakashele <a href=\"/support\">ikhasi lethu losekelo</a> ukuze ufunde ngamathuba obambiswano."
+  },
+  "imageAlt": "I-Orbital Temple Satellite"
+}

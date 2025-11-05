@@ -1,0 +1,17 @@
+{
+  "title": "Amakuru ya Tekinike - Urusengero rwa Orbital",
+  "heading": "Amakuru ya tekiniki",
+  "satellite": {
+    "heading": "Satelite",
+    "specs": "Ibipimo: 50x58x64 mm<br /> 1P PocketQube<br /> Uburemere: 245 gr<br /> Ibikoresho: aluminium, zahabu, fiberglass, nibikoresho bya elegitoroniki.<br /> Orbit: Uburebure 525 ± 25 km; impengamiro: SSO 97,6 ± 0.1 °"
+  },
+  "antenna": {
+    "heading": "Antenna / Igishusho",
+    "specs": "Ibipimo: m 6 (diameter) e 1,2m (uburebure)<br /> Uburemere: kg 46<br /> Ibikoresho: aluminium, epoxy indorerwamo yibibaho, dome ya aluminiyumu ya zahabu ihagaritswe binyuze muburyo bwa scafolding."
+  },
+  "radio": {
+    "heading": "Radiyo Yerekana NASA-Catalog:",
+    "specs": "TBD Hasi: 437 MHz<br /> Hamagara: Imiterere: GAHUNDA YO 2025"
+  },
+  "imageAlt": "Igishushanyo cya Tekinike Igishushanyo"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Topar - Orbital ybadathana",
+  "heading": "Topar",
+  "artist": "Edson Pavoni, suratkeş",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Executiveerine ýetiriji öndüriji",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerokosmos we ulgamlar in Engineeringenerligi",
+      "members": "Pedro Kaled, João Pedro Polito, Wiktor Baptista we João Wiktor Alves"
+    },
+    "electronic": {
+      "heading": "Elektron in Engineeringenerligi",
+      "members": "Andre Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Programma üpjünçiligi",
+      "members": "Jonatan Çerubina"
+    },
+    "design": {
+      "heading": "Dizaýn we binagärlik",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D çap etmek",
+      "members": "Eduardo Diasyň ýolbaşçylygynda gaty düşünjeler"
+    },
+    "rendering": {
+      "heading": "3D görkeziş",
+      "members": "Guilherme Bullejos & RiseNy & Partners"
+    },
+    "research": {
+      "heading": "Gözleg",
+      "members": "Roberta Sawian Rosa we Klara Markes"
+    },
+    "exhibition": {
+      "heading": "Sergi önümçiligi, surat we mazmun döretmek",
+      "members": "Klara Markes"
+    },
+    "silkScreen": {
+      "heading": "Serginiň ýüpek ekrany",
+      "members": "Dafne Alves"
+    },
+    "educational": {
+      "heading": "Bilim taslamasy",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Aragatnaşyk topary",
+      "members": "Flawio Widigal, Andre Holzmeister, Pedro Widigal, Tatýane Putti, Rafael Fernandes, Bruna Kair"
+    },
+    "specialThanks": {
+      "heading": "Specialörite sag boluň",
+      "members": "Gabriela Veiga, Marsello Dantas, Anne Valls, Matias Campos Abad, Samuel Lewi, Bella Nardini we Le Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roý, Pedro Kaled, João Pedro Polito, Wiktor Baptista, João Wiktor Alves, Andre Biagioni, VK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Alwes, Flawioid Putti, Rafael Fernandes, Bruna Kair, Conceitos Sólidos, RiseNY & Partners, IdeaSpace",
+  "imageAlt": "Orbital ybadathana hemrasy"
+}

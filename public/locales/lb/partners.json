@@ -1,0 +1,50 @@
+{
+  "title": "Partner - Orbital Tempel",
+  "heading": "Partner",
+  "intro": "Den Orbital Temple existéiert duerch d'Generositéit, d'Expertise an d'Visioun vun aussergewéinleche Partner. Vum Ingenieurswiesen vu Satellitten bis zum Schafe vun Narrativen, vum Opmaache vun Dieren a wäiten Länner bis zum Gossen vun Dreem a Gold, all Zesummenaarbecht bréngt dësen Tempel méi no un d'Stären.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partner",
+      "description": "Kommunikatioun, integréiert Erfarungen a beandrockend 3D-Render-Biller, déi d'Visioun vum Satellit zum Liewen erweckt hunn, ier en iwwerhaapt d'Eidel vum Weltraum beréiert huet."
+    },
+    "highestMantra": {
+      "name": "Eise gréisste Mantra",
+      "description": "Ënnert der Leedung vum Sathi Roy verbënnt den Orbital Temple mat den indeschen spirituellen a kënschtleresche Gemeinschaften. Nom Start am November 2025 gëtt Weeër fir Spendenaktiounen, kulturellen Austausch an eng Art Basel Ausstellung opgemaach."
+    },
+    "allToSpace": {
+      "name": "Alles an de Weltraum",
+      "description": "Brasilianesch Spezialisten fir kleng Satellitten. Véier Joer Zesummenaarbecht beim Opbau vun enger Open-Source-Hardwareplattform a beim Pionéierprozess fir Konscht vum Süden an d'Ëmlafbunn ze schécken."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indesch Weltraumfuerschungsorganisatioun. Startanbieter fir d'PSLV-Missioun, déi den Orbital Temple am November 2025 an eng sonnesynchron Ëmlafbunn bréngt."
+    },
+    "mercosul": {
+      "name": "13. Mercosur Biennale",
+      "description": "Porto Alegre, Brasilien. Curated vum Marcello Dantas mat Assistent Curatoren Laura Cattani, Munir Klamt, Tarsila Riso a Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "D'Satellittentwécklungsteam ass während dem II ArtSat Workshop geformt. Koordinéiert vum Fabiane M. Borges, instruéiert vum Lázaro Camargo, kollaboréiert vum Ítalo Pinto Rodrigues, iwwerwaacht vum Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solid Konzepter",
+      "description": "Ënnert der Leedung vum Eduardo Dias. All 3D-Dréck- a Mikrogossaarbechte vu Gold fir déi skulptural Kuppel, wouduerch digital Dreem an Edelmetallrealitéit transforméiert ginn."
+    },
+    "ideaSpace": {
+      "name": "Iddienraum",
+      "description": "Brasilianesch Bildungsstartup entwéckelt de Léierplang vum Quebrada Space Program, dee prett ass fir op Lycéesschüler a ganz Brasilien ugewannt ze ginn."
+    }
+  },
+  "closing": "Interesséiert un enger Partnerschaft mat Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Kontaktéiert eis</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "Eise Logo fir den héchste Mantra",
+    "allToSpace": "All to Space Logo",
+    "isro": "ISRO Logo",
+    "mercosul": "Logo vun der 13. Mercosur Biennale",
+    "inpe": "Logo vum INPE ArtSat Workshop",
+    "solidConcepts": "Solid Concepts Logo",
+    "ideaSpace": "Idea Space Logo"
+  }
+}

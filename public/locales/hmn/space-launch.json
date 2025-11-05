@@ -1,0 +1,16 @@
+{
+  "title": "Chaw Launch - Lub Tuam Tsev Orbital",
+  "heading": "Space Launch",
+  "intro": "Lub Tuam Tsev Orbital tau teem sijhawm los tsim lub PSLV (Polar Satellite Launch Vehicle) thaum Lub Kaum Ib Hlis 28th, 2025 los ntawm Satish Dhawan Space Center hauv Sriharikota, Is Nrias teb.",
+  "partnership": "Lub Tuam Tsev Orbital tso tawm yog kev koom tes ntawm NewSpace India Limited (NSIL), tsoomfwv Is Nrias Tuam Txhab nyob rau hauv Department of Space, Antrix Corporation, thiab tus kws kos duab. Qhov kev sib koom tes no sawv cev rau lub sijhawm tseem ceeb rau kev kos duab hauv qhov chaw tshawb nrhiav, ua ke nrog Is Nrias teb qhov chaw ua haujlwm nrog lub zeem muag zoo nkauj ntawm radical inclusion.",
+  "risks": {
+    "heading": "Kev pheej hmoo",
+    "paragraph1": "Lub satellite tau tsim los tiv thaiv kev vibration huab cua thiab thermal cycles, thiab tau ua tiav kev sim nruj. Txawm li cas los xij, qhov chaw xa tawm ua rau muaj kev pheej hmoo. Yog tias lub satellite puas lawm thaum lub sijhawm xa tawm lossis xa tawm, lossis yog tias nws tsis tsim kev sib txuas lus nrog peb cov chaw nres tsheb hauv av, peb yuav ua haujlwm los daws teeb meem thiab daws txhua yam teeb meem. Lub satellite muaj cov txheej txheem rov ua dua thiab cov txheej txheem thaub qab tsim los ua kom muaj feem ntau ntawm txoj haujlwm ua tiav.",
+    "paragraph2": "Tsis tas li ntawd, lub satellite yuav nyob twj ywm hauv lub orbit tsawg dua 10 xyoo yog tias huab cua los yog lwm yam ua rau lub orbital lwj ua ntej. Thaum peb tau tsim nws kom kav ntev li ib xyoo caum, qhov tseeb lifespan nyob ntawm tej yam uas peb tswj tsis tau tag nrho.",
+    "paragraph3": "Yog tias thawj qhov kev tso tawm ua tsis tiav, lossis yog tias peb tsis tuaj yeem ua tiav lub hom phiaj no raws li tau npaj tseg, peb yuav tshawb nrhiav lwm txoj hauv kev rau pem hauv ntej, muaj peev xwm suav nrog kev sim thib ob nrog cov peev nyiaj, koom tes nrog lwm lub luag haujlwm, lossis cov ntaub ntawv ntawm kev sim ua ib feem ntawm kev kos duab piav qhia txog kev cia siab thiab kev txwv."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, Is Nrias teb",
+    "satellite": "Orbital Tuam Tsev Satellite"
+  }
+}

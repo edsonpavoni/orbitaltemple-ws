@@ -1,0 +1,31 @@
+{
+  "title": "Ang Artwork - Orbital Temple",
+  "heading": "Ang Artwork",
+  "intro": {
+    "paragraph1": "Ang Orbital Temple ay isang satellite na may masining na misyon: isang alaala sa outer space na bukas sa bawat nilalang na nabubuhay o nabuhay sa Earth.",
+    "paragraph2": "Sa pamamagitan ng teknolohikal na paraan, maaaring ipadala ng sinuman ang pangalan ng isang tao sa Templo, alinman sa isang taong namatay, isang taong buhay na buhay, o anumang nilalang na karapat-dapat na alalahanin."
+  },
+  "sculpture": {
+    "heading": "Ang Eskultura",
+    "paragraph1": "Ang likhang sining ay may tatlong co-dependent na elemento: isang satellite na partikular na idinisenyo upang mag-imbak ng bilyun-bilyong pangalan; isang pampublikong iskultura na nakikipagpalitan ng impormasyon sa satellite; at isang website kung saan ipinapadala ng mga kalahok ang mga pangalan, mula ngayon hanggang sa kanilang pagpanaw, sa langit.",
+    "paragraph2": "Bilang isang multidisciplinary na pagsusumikap, ang Orbital Temple ay maaaring ituring na isang iskulturang tukoy sa site, na naninirahan sa espasyo. Isa rin itong proyekto ng Artsat."
+  },
+  "antenna": {
+    "heading": "Ang Antenna Bilang Pampublikong Iskultura",
+    "paragraph1": "Isang antenna na nag-uugnay sa atin sa kalawakan.",
+    "paragraph2": "Idinisenyo ang isang antenna na direktang nakikipag-ugnayan sa orbital satellite.",
+    "paragraph3": "Sa pamamagitan ng isang ginintuang mapanimdim na ibabaw, na sumasalamin sa kalangitan sa itaas nito, ito ay isang panimulang punto para sa mass stimulation (o ang ating kaugnayan sa kung ano ang 'nasa itaas').",
+    "paragraph4": "Bagama't hindi naka-install ang mga sculpture sa karamihan ng bahagi ng mundo, ang aming Frames from Earth, na kasalukuyang kumokontrol sa satellite, ay nagpapadala ng mga pangalan sa bawat passthrough.",
+    "paragraph5": "Tumulong na dalhin ang pananaw na ito sa iyong lungsod—pag-install ng mga antenna sculpture na nagbibigay-inspirasyon sa mga pag-uusap tungkol sa paggalugad sa kalawakan, sining, at sa ating nakabahaging lugar sa kosmos. <a href=\"/support\">Matuto nang higit pa tungkol sa pagsuporta sa proyekto</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite",
+    "riseNy": "Orbital Temple sa Rise NY",
+    "installation": "Orbital Temple ni Clara Marques",
+    "antenna": "Orbital Temple Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Temple sa kalawakan. 3D rendering ng RiseNY&Partners.",
+    "mercosul": "Pag-install ng Orbital Temple sa Mercosul Biennial, sa Porto Alegre, Brazil.<br> Larawan ni Clara Marques."
+  }
+}

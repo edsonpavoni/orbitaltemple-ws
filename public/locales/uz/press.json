@@ -1,0 +1,138 @@
+{
+  "title": "Matbuot va ommaviy axborot vositalari - Orbital ibodatxonasi",
+  "heading": "Matbuot va media",
+  "pressContact": {
+    "heading": "Kontaktni bosing",
+    "content": "Matbuot so&#39;rovlari, intervyu va OAV so&#39;rovlari uchun:<br /> <strong>Elektron pochta:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Veb-sayt:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Loyiha haqida",
+    "paragraph1": "Orbital Temple - bu san'at asari va sun'iy yo'ldosh bo'lib, u tubdan inklyuziv ma'bad bo'lishni maqsad qilgan, hech qanday devorlar yetib bo'lmaydigan joyda qurilgan. Braziliyalik rassom Edson Pavoni tomonidan yaratilgan, Inumeráveis yodgorligi ortidagi rassom, COVID pandemiyasi davrida har 6 braziliyalikdan 1 taga yetgan loyiha butun dunyo bo'ylab odamlarni eslab qolishni xohlagan kishining ismini yuborishga taklif qiladi. Bu nomlar orbitada sun'iy yo'ldoshga uzatilib, jamoaviy yodgorlikni yaratadi.",
+    "paragraph2": "136 tilda mavjud veb-sayt orqali ishtirokchilar marosimning yangi turi bilan shug'ullanishadi. Orbital ibodatxonasi inklyuzivlik, xotira va umumiy insoniyat mavzularini o'rganadi, nima uchun Yerdagi hech qanday jismoniy ma'bad hammani chinakam qabul qila olmasligini so'raydi va kosmosni radikal inklyuzivlik mavjud bo'lishi mumkin bo'lgan yagona joy sifatida taklif qiladi."
+  },
+  "aboutArtist": {
+    "heading": "Rassom haqida",
+    "paragraph1": "<strong>Edson Pavoni</strong> - braziliyalik rassom, uning sayohati San-Paulu ko&#39;chalarida boshlangan, u erda qashshoqlik va zo&#39;ravonlik konteksti uning dastlabki yillarini shakllantirgan. Xristianlik ko&#39;chadan, giyohvandlikdan va zo&#39;ravonlikdan uzoqda yo&#39;l taklif qilgan mamlakatda Pavoni imonda panoh topdi, bu mavzu keyinchalik diniy zo&#39;ravonlikni tanqid qilganida, uning badiiy amaliyotini xabardor qiladi.",
+    "paragraph2": "2020 yilda, COVID-19 pandemiyasi paytida Pavoni san&#39;at va jurnalistika chorrahasida <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">&quot;Inumeráveis&quot; (son-sanoqsiz)</a></strong> asarini yaratdi. Loyiha minglab oilalar bilan suhbatlashdi va pandemiyadan halok bo&#39;lganlarning hikoyalarini yozdi, bu xotira raqamlar va statistikadan ustun turadigan joy yaratdi. Bu hikoyalar asosida she’rlar, qo‘shiqlar, simfoniyalar yaratildi. Gazetalar nomlar va tarixlardan foydalangan holda muqovalar yaratdilar. Oskar sovrindori Fernanda Torres kabi barcha braziliyalik yulduzlar va Selton Melo, Eva Vilma, Kamila Pitanga, Debora Sekko, Tais Araujo va Lazaro Ramos kabi yulduzlar va boshqa ko&#39;plab yulduzlar milliy televidenieda bu hikoyalarni o&#39;qishadi. Loyiha 32 million kishini qamrab oldi, bu har to&#39;rt nafar katta yoshli braziliyaliklardan biri. U shifo tarmog&#39;iga, xotiraning jamoaviy yodgorligiga aylandi.",
+    "paragraph3": "O'n mingdan ortiq qayg'u bilan suhbatdan so'ng, bir naqsh paydo bo'ldi: biz vafot etgan odam haqida gapirganda, biz jannat darvozaboniga tavsiyanoma yozgandek, uning hikoyasidan parchalarni tanlaymiz. Biz ularni jannat deb hisoblagan narsamizga yuborish uchun qo'limizdan kelganini qilamiz. Bu ish yangi tushunchani uyg'otdi: bizning jannatga kim loyiq ekanligi haqidagi e'tiqodimiz Yerda kimni qabul qilishimiz yoki chiqarib tashlashimizni bevosita shakllantiradi. Braziliyadagi portugal mustamlakachilari qora tanlilarning ruhi yo'q deb hisoblashgan; bu ishonch qullikni oqladi. Agar siz tubjoy bo'lgan bo'lsangiz, noto'g'ri joyda tug'ilgan bo'lsangiz yoki noto'g'ri odamni sevgan bo'lsangiz, siz hali ham, shu kungacha osmon eshiklari siz uchun yopiqligini aytishadi. Rad etish bilan to'ldirilmagan kelajak haqidagi tasavvur bormi?",
+    "paragraph4": "Orbital ibodatxonasi shunday tug'ilgan."
+  },
+  "keyFacts": {
+    "heading": "Asosiy faktlar",
+    "artist": "<strong>Rassom:</strong> Edson Pavoni (Braziliya)",
+    "projectType": "<strong>Loyiha turi:</strong> sun&#39;iy yo&#39;ldosh san&#39;ati, kosmosdagi saytga xos, veb-ga asoslangan marosim",
+    "launchDate": "<strong>Ishga tushirish sanasi:</strong> 2025 yil 28-noyabr",
+    "launchLocation": "<strong>Uchirish joyi:</strong> Satish Dhawan kosmik markazi, Shrixarikota, Hindiston (ISRO)",
+    "satellite": "<strong>Sun&#39;iy yo&#39;ldosh:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbita:</strong> 525 km balandlikda, Quyosh bilan sinxron",
+    "participation": "<strong>Ishtirok etish:</strong> bepul, butun dunyo bo&#39;ylab hamma uchun ochiq",
+    "namesSent": {
+      "heading": "<strong>Orbitaga yuborilgan ismlar:</strong>",
+      "caption": "<em>Jonli maʼlumotlar bazasidan yangilandi • Oxirgi yangilangan: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Mukofotlar va eʼtirof",
+    "mercosul": {
+      "title": "<strong>13-Merkosur Bienali</strong> (2022)",
+      "location": "Porto Alegre, Braziliya",
+      "curator": "Kuratori Marselo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen mukofoti 2022 - Fyuchers mukofoti</strong>",
+      "status": "Uzoq roʻyxatga kiritilgan"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 tanlovi</strong>",
+      "award": "G‘olib – ArtSat toifasi",
+      "org": "Braziliya kosmik tadqiqotlar instituti (INPE) tomonidan ilgari surilgan"
+    }
+  },
+  "team": {
+    "heading": "Jamoa",
+    "content": "Orbital Temple Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, João Viktor Alves, André Biagioni, VK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Visa, Andregal Alves, Daphardioio, Andres Alves bilan hamkorlikda yaratilgan. Pedro Vidigal, Tatyane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace va ushbu ma'badga nom berishda davom etayotganlar."
+  },
+  "pressCoverage": {
+    "heading": "Tanlangan / Matbuot yoritilishi",
+    "paragraph1": "<em>Matbuot yoritilishi va funksiyalar mavjud bo&#39;lganda qo&#39;shiladi. Eng so&#39;nggi yangilanishlar uchun bizning matbuot jamoamiz bilan bog&#39;laning.</em>",
+    "paragraph2": "Oldingi ko'rgazmalar va xususiyatlar orasida 13-Merkosul Bienalidagi taqdimotlar, Lumen mukofoti e'tirofi va Braziliya kosmik tadqiqotlar instituti (INPE) tanlovi mavjud."
+  },
+  "images": {
+    "heading": "Matbuotda foydalanish uchun yuqori aniqlikdagi rasmlar",
+    "intro": "Barcha rasmlar tahririyatda foydalanish uchun mavjud. Yuqori aniqlikdagi faylni yuklab olish uchun istalgan rasmni bosing.",
+    "installationPhotos": {
+      "heading": "Orbital ibodatxonasi rasmlari",
+      "credit": "Iltimos, kredit bering: \"Klara Markes surati / Edson Pavoni ruxsati, Orbital Temple\"",
+      "view01": "O&#39;rnatish ko&#39;rinishi 01<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (1,4 MB)",
+      "view02": "O&#39;rnatish ko&#39;rinishi 02<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (2,9 MB)",
+      "view03": "O&#39;rnatish ko&#39;rinishi 03<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (11 MB)",
+      "view04": "O&#39;rnatish ko&#39;rinishi 04<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (3,4 MB)",
+      "view05": "O&#39;rnatish ko&#39;rinishi 05<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (3,3 MB)",
+      "view06": "O&#39;rnatish ko&#39;rinishi 06<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (3,7 MB)",
+      "view07": "O&#39;rnatish ko&#39;rinishi 07<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (3,4 MB)",
+      "view08": "O&#39;rnatish ko&#39;rinishi 08<br /> Surat: Klara Markes<br /> ↓ Yuqori aniqlikdagi yuklab olish (2,7 MB)",
+      "satelliteDesign": "Sun&#39;iy yo&#39;ldosh dizayni<br /> ↓ Yuklab olish",
+      "antennaSculpture": "Antenna/Haykal<br /> ↓ Yuklab olish"
+    },
+    "renders": {
+      "heading": "Orbital ibodatxona tasvirlari",
+      "credit": "Orbital ibodatxonasining kontseptual 3D renderlari. Iltimos, kredit bering: \"RiseNY&Partners tomonidan 3D renderlash / Edson Pavoni, Orbital Temple ruxsati bilan\"",
+      "render01": "3D ko&#39;rsatish 01<br /> RiseNY &amp; Partners<br /> ↓ Yuqori aniqlikdagi yuklab olish (10 MB)",
+      "render02": "3D render 02<br /> RiseNY &amp; Partners<br /> ↓ Yuqori aniqlikdagi yuklab olish (5,9 MB)",
+      "render03": "3D ko&#39;rsatish 03<br /> RiseNY &amp; Partners<br /> ↓ Yuqori aniqlikdagi yuklab olish (5,2 MB)",
+      "render04": "3D ko&#39;rsatish 04<br /> RiseNY &amp; Partners<br /> ↓ Yuqori aniqlikdagi yuklab olish (11 MB)",
+      "render05": "3D ko&#39;rsatish 05<br /> RiseNY &amp; Partners<br /> ↓ Yuqori aniqlikdagi yuklab olish (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Rassom rasmlari",
+      "photo1": "Surat 1<br /> ↓ Yuqori aniqlikni yuklab oling",
+      "photo2": "2-rasm<br /> ↓ Yuqori aniqlikni yuklab oling"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy fotosuratlari",
+      "photo1": "Surat 1<br /> ↓ Yuqori aniqlikdagi yuklab olish (843 KB)",
+      "photo2": "2-rasm<br /> ↓ Yuqori aniqlikdagi yuklab olish (1,8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Texnik spetsifikatsiyalar",
+    "satellite": {
+      "heading": "Sun'iy yo'ldosh",
+      "dimensions": "Olchamlari: 50 x 58 x 64 mm",
+      "classification": "Tasnifi: 1P PocketQube",
+      "weight": "Og'irligi: 245g",
+      "materials": "Materiallar: alyuminiy, oltin, shisha tolali, elektron komponentlar",
+      "orbit": "Orbita: Balandligi 525 ± 25 km; Nishab: SSO 97,6 ± 0,1 °",
+      "launch": "Ishga tushirish: ISRO, Hindiston orqali 2025-yil 28-noyabr"
+    },
+    "antenna": {
+      "heading": "Antenna/Haykal",
+      "dimensions": "Olchamlari: diametri 6 m x 1,2 m balandlikda",
+      "weight": "Og'irligi: 46 kg",
+      "materials": "Materiallar: alyuminiy, epoksi oynali taxta, iskala tuzilishi orqali osilgan oltin alyuminiy gumbaz"
+    },
+    "radio": {
+      "heading": "Radio xususiyatlari",
+      "downlink": "Pastki havola: 437 MGts",
+      "status": "Ishga tushirish holati: 2025-yil 28-noyabr rejalashtirilgan"
+    }
+  },
+  "additionalResources": {
+    "heading": "Qo'shimcha manbalar",
+    "artwork": "→ Badiiy asar hujjatlarini ko‘rish",
+    "howItWorks": "→ U qanday ishlaydi",
+    "technicalInfo": "→ Texnik ma'lumot",
+    "spaceLaunch": "→ Kosmosni ishga tushirish haqida ma'lumot",
+    "ritual": "→ Ritualni boshdan kechiring"
+  },
+  "imageAlts": {
+    "installation": "Edson Pavoni tomonidan orbital ibodatxonani o'rnatish",
+    "satelliteDesign": "Orbital Temple sun'iy yo'ldosh dizayni",
+    "antenna": "Orbital ibodatxona antennasi haykali",
+    "render": "RiseNY&Partners tomonidan Orbital Temple 3D renderlash",
+    "edsonPortrait": "Edson Pavoni portreti",
+    "sathiPortrait": "Sathi Roy portreti",
+    "lumenPrize": "Lumen mukofoti",
+    "mercosulBienal": "Merkosur Bienali"
+  }
+}

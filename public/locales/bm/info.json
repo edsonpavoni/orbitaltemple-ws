@@ -1,0 +1,17 @@
+{
+  "title": "Technique Info - Alabatoso Orbital",
+  "heading": "Info Tekniki",
+  "satellite": {
+    "heading": "Sateliti fɛ",
+    "specs": "A bonya ye milimɛtɛrɛ 50x58x64 ye<br /> 1P PocketQube ye<br /> Kisɛya: 245 gr<br /> Fɛn minnu bɛ kɛ: aliminiyɔmu, sanu, fibreglasi ani ɛntɛrinɛti yɔrɔw.<br /> Yɛlɛma: A janya ye bam 525 ± 25 ye; jiginni : SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antɛni/Jɛkulu",
+    "specs": "A bonya: mɛtɛrɛ 6 (a cɛmancɛ) e mɛtɛrɛ 1,2 (janya) .<br /> A girinya ye kilo 46 ye<br /> Fɛn minnu bɛ kɛ : aliminiyɔmu, pankurun min bɛ ni epoyi ye, aliminiyɔmu sanu doni min sirilen bɛ sɛgɛsɛgɛlikɛlan dɔ fɛ."
+  },
+  "radio": {
+    "heading": "Arajo Specs NASA-Katalogu:",
+    "specs": "TBD Jiginni: 437 MHz<br /> Weele: Jamana cogoya: SAN 2025 WAATI"
+  },
+  "imageAlt": "Technique Info Jatebla"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Orbital Məbədinə hədiyyə edin",
+  "heading": "İanənizi Tamamlayın",
+  "donatingTo": "Siz ianə edirsiniz:",
+  "chooseHow": "Vergidən çıxılan ianənizi necə tamamlamaq istədiyinizi seçin:",
+  "option1": {
+    "heading": "Seçim 1: İndi Onlayn Bağışlayın",
+    "description": "Təhlükəsiz maliyyə sponsorumuz <strong>The Field</strong> vasitəsilə kredit kartı, debet kartı və ya digər onlayn ödəniş üsullarından istifadə edərək ianənizi dərhal tamamlayın. Ani vergi qəbzi alacaqsınız.",
+    "button": "Sahə vasitəsilə ianə edin →"
+  },
+  "option2": {
+    "heading": "Seçim 2: Roy Fonduna bank depoziti",
+    "description": "Strateji tərəfdaşımız və maliyyə sponsorumuz olan <strong>Roy Fonduna</strong> birbaşa bank depoziti və ya pul köçürməsi edin. Bu seçim daha böyük ianələr və ya beynəlxalq köçürmələr üçün idealdır.",
+    "bankingInfo": "Bank məlumatları",
+    "fields": {
+      "accountName": "Hesabın Adı:",
+      "bankName": "Bank Adı:",
+      "accountNumber": "Hesab nömrəsi:",
+      "routingNumber": "Marşrut nömrəsi:",
+      "swift": "SWIFT/BIC:",
+      "reference": "İstinad:"
+    },
+    "instructions": "Lütfən, istinad sahəsinə &quot; <strong>Orbital Temple - {donationType}</strong> &quot; daxil edin. Köçürməni tamamladıqdan sonra vergi qəbzini almaq üçün bizə <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art elektron</a> poçtuna köçürmə təfərrüatlarını göndərin.",
+    "button": "Depozit haqqında Bizimlə əlaqə saxlayın →"
+  },
+  "taxInfo": {
+    "heading": "Vergidən Çıxarılan Vergi",
+    "description": "Orbital Temple <strong>501(c)(3)</strong> qeyri-kommersiya təşkilatı <strong>olan The Field (Performance Zone Inc.)</strong> şirkətinin maliyyə dəstəyi ilə həyata keçirilən layihəsidir. Bütün ABŞ töhfələri qanunla icazə verilən dərəcədə vergidən çıxılır.",
+    "questions": "Suallar? Bizimlə <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> ünvanında əlaqə saxlayın"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Daga Mawakin",
+  "opening": {
+    "question": "Wanene wannan mutumin da zai ba da shawarar haikali a sararin samaniya?",
+    "thanks": "Na gode da tambayar.",
+    "answer": "Amsar a takaice ita ce, ni mai fasaha ne. Doguwar ita ce:"
+  },
+  "origin": {
+    "sao_paulo": "An haife ni a wajen birnin Sao Paulo, a wata unguwa da ta koya mani da wuri ma’anar haɗari. Yawancin abokaina na makaranta suna kurkuku a yanzu. Mahaifina na a gidan yari. Tashin hankali ba abu ne da na karanta game da shi ba, duniya ce dole in kewaya. Kuma na san ina bukatar tserewa.",
+    "technology": "Fasaha ta zama hanyata. Na koyi shiri, na koyi kayan lantarki tun ina matashi. Code yare ne wanda zai iya kai ni wani wuri dabam. Yin aiki da fasaha shine kubuta daga talauci.",
+    "christianity": "Amma ni kuma ina neman abin mallaka, don ƙauna, abin da zan gaskata da shi. Na sami Kiristanci, ko ya same ni. An karbe ni. An so ni. Ina da al'umma Na koyi gafartawa, yin imani, tafiya tare don babbar manufa.",
+    "price": "Farashin, ko da yake, ya yi yawa. Na kuma koyi abubuwa da yawa da har yanzu ban koya ba. Don haka nima na kubuta daga wannan."
+  },
+  "searching": {
+    "walls": "Na san abin da ganuwar ke yi. Na ji su. Na kasance daga bangarorin biyu: kiyayewa, kiyayewa. Abin da ya biyo baya shine shekaru na neman wani abu da ba zan iya suna ba. Allah ya rasu a wadannan shekarun. Allahn da aka koya mani, ko ta yaya, wanda yake da dokoki da hukunci da ƙofofin da kawai aka buɗe wa wasu mutane.",
+    "art": "Na fara yin fasaha don bincika waɗannan tambayoyin: game da kusanci da fasaha, game da ƙwaƙwalwar ajiya da mutuwa, game da wanda ya cancanci sama. Na fara gina injuna waɗanda ke sake tunanin dangantakarmu da fasaha, injinan da ke buƙatar sa hannu, kasancewar ku, sunan ku, don canzawa daga ƙarfe da lamba zuwa wani abu mai rai."
+  },
+  "pandemic": {
+    "intro": "Sannan cutar ta barke a Brazil.",
+    "government": "Lokacin da aka jinkirta allurar COVID, gwamnati ta tana tattaunawa kan dawo da dala daya a kowace kashi. Sun inganta magungunan da aka fahimci ba su da tasiri, suna dariya yayin da mutane suka mutu suna fama da numfashi. Mun tashi kowace rana zuwa wani lamba daban. Mutane nawa ne suka mutu a cikin awanni 24 da suka gabata? Shin ya fi, ko ƙasa da yadda ake tsammani?",
+    "war": "Rabin duniya ya tsorata, wani rabin kuma ya musanta. Mun kasance cikin yaki, tare da kwayar cutar kuma tare da juna.",
+    "memorial": "Ina so in ƙirƙira sarari don baƙin ciki tare, don haka tare da ɗaruruwan mutane na ƙirƙiri Memorial Inumeráveis. Wani zane-zane a mahadar fasaha da aikin jarida. Mun yi hira da iyalai da suka rasa wani. Mun rubuta tarihin rayuwar mutumin da suka rasa. Mun canza lambobi zuwa tarihi. An yi wakoki, waƙoƙi, kade-kaɗe da waɗancan tarihin. Taurari suna karanta waɗancan labaran a gidan talabijin na ƙasa. Aikin ya kai miliyoyin.",
+    "meaning": "Abin da ya dace ba ma'auni ba ne, shi ne cewa kowane labari suna ne, rayuwa, aljannar wani."
+  },
+  "discovery": {
+    "pattern": "Bayan fiye da dubu goma zance cike da bakin ciki, wani tsari ya fara bayyana. Sa’ad da muke magana game da wanda ya mutu, ba kawai muna faɗin abubuwa masu kyau ba; muna zabar guntuwar labarinsu kamar muna rubuta wasiƙar shawarwari. Nasiha ga mai tsaron kofar aljanna. Muna yin iyakar ƙoƙarinmu don aika su zuwa wurin karɓuwa, hutawa, girmamawa da tunawa.",
+    "understanding": "Kuma na fahimci wani abu da ya canza kome: An yi mana rauni ta wurin haikalin da muka gina. Imaninmu game da wanda ya cancanci sama kai tsaye ya siffanta wanda muka ware a duniya. Masu mulkin mallaka na Portugal a Brazil sun yi imanin cewa baƙar fata ba su da rai; wannan imani ya halatta bauta. Idan kai ƴan asalin ƙasar ne, idan an haife ku a wuri mara kyau ko kuma kuna son wanda bai dace ba, an ce muku an rufe muku kofofin sama.",
+    "birth": "Haka aka haifi Temple Orbital."
+  },
+  "shaman": {
+    "secular": "Babu mai fasaha da zai iya zama ɗan duniya da gaske. Muna daure har abada da kakanmu na kowa, shaman. Da farko akwai kogo. Mutane suna fentin dabbobi a bango ba don ado ba, amma don yin kira. Suka yi rawa, kuma kogon ya zama haikali. Shaman yana amfani da ruhun al'ada; mai zane yana amfani da aura na fasaha. Muna fenti, muna sassaka, muna code, muna tsara makomarmu da muke so ba don yin ado ba, amma don yin kira. Duk fasaha na ruhaniya ne, ko da lokacin da ya yi iƙirarin ba haka ba ne."
+  },
+  "space": {
+    "question": "A ina za mu gina haikali da babu bango? Inda babu wata al'umma ko addini da zai iya da'awar. Inda za mu iya tunanin kanmu a matsayin rukuni ɗaya.",
+    "answer": "sarari.",
+    "description": "Tauraron tauraron dan adam mai haɗin gwiwa daga Kudancin Duniya. Haikali a cikin kewayawa wanda ke gayyatar kowa da kowa don aika sunayensu zuwa sararin samaniya, ko da wanene su, inda aka haife su, waɗanda suke ƙauna, abin da suka gaskata. Wurin da haɗawa mai tsattsauran ra'ayi zai yiwu, a cikin kewayawa, bayan iyakoki.",
+    "mission": "Wannan manufa buɗaɗɗen tushe ce. Kowane daftarin aiki na fasaha, kowane layi na lambar za a samu kyauta don sauran masu fasaha, sauran al'ummomi, sauran ƙasashe su iya gina nasu tauraron dan adam. Don haka Kudancin Duniya ba kawai yana shiga cikin binciken sararin samaniya ba, amma yana jagorantar shi."
+  },
+  "closing": {
+    "answer": "To wanene wannan mutumin da zai gina haikali a sararin samaniya? Ba na gina shi ba. An gina Haikali da duk wanda ya yanke shawarar aika suna, don ganinsa a matsayin mai tsarki, don tabbatar da shi na gaske. Ni ne kawai wanda ke ba da shawara. Kai ne ka gina shi idan ka yanke shawara.",
+    "signature": "Da kyau,",
+    "name": "Edson Pavoni"
+  }
+}

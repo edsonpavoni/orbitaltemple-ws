@@ -1,0 +1,50 @@
+{
+  "title": "Socii - Templum Orbitale",
+  "heading": "Socii",
+  "intro": "Templum Orbitale existit per liberalitatem, peritiam, et visionem sociorum extraordinariorum. A satellitibus fabricandis ad narrationes fingendas, ab aperiendis ianuis in terris longinquis ad somnia in auro fundenda, quaeque collaboratio hoc templum propius ad astra adducit.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY et Socii",
+      "description": "Communicatio, experientiae integratae et imagines tridimensionales stupendae redditae quae visionem satellitis ad vitam revocaverunt antequam umquam vacuum spatii tetigit."
+    },
+    "highestMantra": {
+      "name": "Nostrum Mantra Summum",
+      "description": "Duce Sathi Roy, Templum Orbitale cum communitatibus spiritualibus et artisticis Indiae coniungens. Vias ad pecunias colligendas, commutationem culturalem, et exhibitionem Artis Baselensis post inaugurationem Novembris 2025 aperiens."
+    },
+    "allToSpace": {
+      "name": "Omnes ad Spatium",
+      "description": "Periti Brasiliani in parvis satellitibus. Quattuor anni collaborationis in aedificando suggestum instrumentorum fontium apertorum et in processu mittendi artem in orbitam ex Meridie Globali promovendo."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Consociatio Investigationis Spatialis Indica. Provisor missionis PSLV quae Templum Orbitale ad orbitam solis synchronam mense Novembri anni 2025 portat."
+    },
+    "mercosul": {
+      "name": "XIII Biennalis Mercosurensis",
+      "description": "Porto Alegre, Brasiliae. Curatus est a Marcello Dantas cum curatoribus adiutoribus Laura Cattani, Munir Klamt, Tarsila Riso, et Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Officina ArtSat",
+      "description": "Manipulus evolutionis satelles per II ArtSat Workshop formatus est. Coordinata a Fabiane M. Borges, a Lázaro Camargo instructa, ab Ítalo Pinto Rodrigues collaborata, a Walter Abrahão dos Santos praeerant."
+    },
+    "solidConcepts": {
+      "name": "Concepta Solida",
+      "description": "Duce Eduardo Dias. Omnia opera impressionis tridimensionalis et microfusionis auri pro cupola sculpturali, somnia digitalia in realitatem metalli pretiosi transformantia."
+    },
+    "ideaSpace": {
+      "name": "Spatium Idearum",
+      "description": "Societas Brasiliana in educatione nova curriculum Programmatis Spatialis Quebrada evolvit, paratum ad discipulos scholarum secundariarum per Brasiliam applicandum."
+    }
+  },
+  "closing": "Cupisne societatem cum Orbital Temple inire? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Contacta nos</a> .",
+  "imageAlts": {
+    "riseNy": "Insigne RiseNY et Sociorum",
+    "highestMantra": "Nostrum Mantrae Summum Insigne",
+    "allToSpace": "Insigne Omnium ad Spatium",
+    "isro": "Insigne ISRO",
+    "mercosul": "Insigne Biennalis Mercosur XIII",
+    "inpe": "Insigne Officinae INPE ArtSat",
+    "solidConcepts": "Logo Conceptorum Solidorum",
+    "ideaSpace": "Insigne Spatii Ideae"
+  }
+}

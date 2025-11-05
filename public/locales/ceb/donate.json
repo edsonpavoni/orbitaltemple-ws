@@ -1,0 +1,31 @@
+{
+  "title": "Pagdonar sa Orbital Temple",
+  "heading": "Kompletoha ang Imong Donasyon",
+  "donatingTo": "Nagdonar ka sa:",
+  "chooseHow": "Pilia kung giunsa nimo gusto nga makompleto ang imong donasyon nga deductible sa buhis:",
+  "option1": {
+    "heading": "Opsyon 1: Pagdonar Online Karon",
+    "description": "Kompletoha dayon ang imong donasyon gamit ang credit card, debit card, o ubang paagi sa pagbayad online pinaagi sa among luwas nga fiscal sponsor, <strong>The Field</strong> . Makadawat ka dayon nga resibo sa buhis.",
+    "button": "Pagdonar pinaagi sa The Field →"
+  },
+  "option2": {
+    "heading": "Opsyon 2: Pagdeposito sa Bangko sa The Roy Foundation",
+    "description": "Paghimo usa ka direkta nga deposito sa bangko o pagbalhin sa wire sa <strong>The Roy Foundation</strong> , among estratehikong kauban ug sponsor sa piskal. Kini nga kapilian maayo alang sa dagkong mga donasyon o internasyonal nga pagbalhin.",
+    "bankingInfo": "Impormasyon sa Banking",
+    "fields": {
+      "accountName": "Ngalan sa Account:",
+      "bankName": "Ngalan sa Bangko:",
+      "accountNumber": "Numero sa Account:",
+      "routingNumber": "Numero sa ruta:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Reperensya:"
+    },
+    "instructions": "Palihug iapil ang &quot; <strong>Orbital Temple - {donationType}</strong> &quot; sa reference field. Human makompleto ang imong pagbalhin, email kanamo sa <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> uban sa imong mga detalye sa pagbalhin aron madawat ang imong resibo sa buhis.",
+    "button": "Kontaka Kami Mahitungod sa Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Tax-Deductible nga Paghatag",
+    "description": "Ang Orbital Temple usa ka proyekto nga gipasiugdahan sa panalapi sa <strong>The Field (Performance Zone Inc.)</strong> , usa ka <strong>501(c)(3) nga</strong> non-profit nga organisasyon. Ang tanang kontribusyon sa US kay deductible sa buhis sa gidak-on nga gitugot sa balaod.",
+    "questions": "Mga pangutana? Kontaka kami sa <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

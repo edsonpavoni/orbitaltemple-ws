@@ -1,0 +1,138 @@
+{
+  "title": "Saxaafadda & Warbaahinta - Macbadka Orbital",
+  "heading": "Saxaafadda & Warbaahinta",
+  "pressContact": {
+    "heading": "Riix Contact",
+    "content": "Weydiimaha saxaafadda, wareysiyada, iyo codsiyada warbaahinta:<br /> <strong>Iimayl:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Website:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Ku saabsan Mashruuca",
+    "paragraph1": "Macbadka Orbital waa farshaxan-farshaxan iyo dayax-gacmeed ujeedadiisu tahay inuu noqdo macbad asal loo wada dhan yahay, oo laga dhisay meel aan gidaarro gaadhi karin. Waxaa sameeyay farshaxaniista reer Brazil Edson Pavoni, fannaanka ka dambeeya Inumeráveis Memorial kaasoo gaaray 1 qof 6dii qof ee reer Brazil ah intii lagu jiray cudurka faafa ee COVID-19, mashruucu wuxuu ku martiqaadayaa dadka adduunka oo dhan inay soo diraan magaca qof ay rabaan inay xasuustaan. Magacyadan waxa lagu kala qaadaa dayax-gacmeedka ku jira orbit-ka, iyaga oo abuuraya xusuus wadareed.",
+    "paragraph2": "Iyadoo loo marayo shabakad laga heli karo 136 luqadood, kaqeybgalayaashu waxay ku hawlan yihiin nooc cusub oo caado ah. Macbadka Orbital wuxuu sahamiyaa mawduucyada ka mid noqoshada, xusuusta, iyo bini'aadantinimadayada la wadaago, isagoo su'aal ka keenaya sababta macbad jidheed oo Dunida ku yaal uusan si dhab ah u soo dhaweyn karin qof kasta, iyo soo jeedinta meel bannaan oo ah meesha kaliya ee ka mid noqoshada xagjirka ah ay jiri karto."
+  },
+  "aboutArtist": {
+    "heading": "Ku saabsan Fanaanka",
+    "paragraph1": "<strong>Edson Pavoni</strong> waa farshaxaniste reer Brazil ah oo socdaalkiisu ka bilaabmay waddooyinka São Paulo, halkaas oo xaalad faqri ah iyo rabshado ay qaabaysay sannadihiisii hore. Wadan ay diinta masiixiyadu bixiso waddo ka fog waddooyinka, daroogada, iyo rabshadaha, Pavoni wuxuu magangalyo ka helay rumaysadka, mawduuca ka dib, markii uu noqday mid dhaleeceeya xadgudubka diinta, ogeysiiyo dhaqankiisa faneed.",
+    "paragraph2": "2020, intii lagu jiray masiibada COVID-19, Pavoni wuxuu abuuray <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (aan la tirin karin)</a></strong> , farshaxan farshaxan oo ku yaal isgoyska fanka iyo saxaafadda. Mashruucu wuxuu wareystay kumanaan qoys wuxuuna qoray sheekooyin ku saabsan kuwa ku lumay masiibada, isaga oo abuuray meel ay xusuustu ka gudubto tirooyinka iyo tirakoobyada. Gabayo, heeso iyo riwaayado ayaa lagu sameeyay sheekooyinkaas. Wargeysyadu waxay abuureen dabool iyagoo isticmaalaya magacyada iyo taariikhda. Dhammaan xiddigaha Brazil sida Oscar oo ku guuleystay Fernanda Torres, iyo xiddigo ay ka mid yihiin Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo iyo Lazaro Ramos, iyo kuwo kale oo badan ayaa sheekooyinkaas ka akhriyay telefishinka qaranka. Mashruucu waxa uu gaadhay 32 milyan oo qof, mid ka mid ah afartii qof ee waaweyn ee reer Brazil. Waxay noqotay shabakad bogsiineed, taallo wadareed oo xusuus ah.",
+    "paragraph3": "In ka badan toban kun oo sheeko oo murugo leh ka dib, waxaa soo baxay qaab: Markaynu ka hadlayno qof dhintay, waxaynu doorannaa qaybo sheekadooda ah sidii iyagoo warqad talobixin ah u qoraya albaabkii jannada. Waxaan ku dadaaleynaa inaan u dirno waxa aan aaminsanahay inay jannada tahay. Shaqadani waxay dhalisay faham cusub: Aaminaadayada ku saabsan cidda u qalanta jannada waxay si toos ah u qaabaysaa cidda aynu aqbalno ama ka saarno Dhulka. Gumaystayaashii Boortaqiisku ee Brazil waxay rumaysnaayeen in dadka Madow aysan naf lahayn; rumayntaasi waxay xaq u leedahay addoonsiga. Haddaad asal ahaan lahayd, haddaad meel khaldan ku dhalatay ama aad qof khaldan jeceshahay, ilaa maantadan la joogo, waxaa laguu sheegayaa in albaabbadii jannada lagaa xidhay. Ma jiraa aragti mustaqbalka ah oo aan buuxin diidmo?",
+    "paragraph4": "Sidaas buu ku dhashay Macbadka Orbital."
+  },
+  "keyFacts": {
+    "heading": "Xaqiiqooyinka Muhiimka ah",
+    "artist": "<strong>Fanaanka:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Nooca Mashruuca:</strong> Farshaxanka dayax-gacmeedka, goob-gaar ah oo bannaan, caado ku salaysan shabakadda",
+    "launchDate": "<strong>Taariikhda la bilaabayo:</strong> Noofambar 28, 2025",
+    "launchLocation": "<strong>Goobta laga bilaabay:</strong> Satish Dhawan Space Center, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km joog, Sun-synchronous",
+    "participation": "<strong>Ka qaybgalka:</strong> Bilaash, u furan qof kasta oo caalamka ah",
+    "namesSent": {
+      "heading": "<strong>Magacyada loo diray Orbit</strong>",
+      "caption": "<em>Tirinta tooska ah ayaa laga cusboonaysiiyay xogta • Dib u cusboonaysiyay ugu dambaysay: {taariikhda}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Abaalmarinta & Aqoonsiga",
+    "mercosul": {
+      "title": "<strong>13-aad ee Mercosur Biennial</strong> (2022)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "Waxaa soo saaray Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Prize 2022 - Abaalmarinta Mustaqbalka</strong>",
+      "status": "Liiska dheer"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Tartanka</strong>",
+      "award": "Guulaystaha - Qaybta ArtSat",
+      "org": "Waxaa dhiirigeliyay Machadka Cilmi-baarista Hawada Brazil (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Kooxda",
+    "content": "Macbadka Orbital waxaa la abuuray iyada oo lala kaashanayo Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holz, Pedroel Rafister, Andrea Putti, Andrea Putti, Andrea Putti. Fernandes, Bruna Qaahira, Fikrado Adag, RiseNY& Partners, IdeaSpace, iyo dhammaan kuwa sii wada inay soo jeediyaan magacyada macbadkan."
+  },
+  "pressCoverage": {
+    "heading": "Lagu Soo Bandhigay Gudaha/Saxaafadda",
+    "paragraph1": "<em>Daboolista saxaafadda iyo sifooyinka ayaa lagu dari doonaa markay diyaar noqdaan. Wixii ku soo kordha wararka cusub, fadlan la xidhiidh kooxdayada saxaafada.</em>",
+    "paragraph2": "Bandhigyadii hore iyo astaamaha waxaa ka mid ah bandhigyada 13th Mercosul Bienal, aqoonsiga Lumen Prize, iyo xulashada Machadka Brazil ee Cilmi-baarista (INPE)."
+  },
+  "images": {
+    "heading": "Sawirada Xalinta Sare ee Isticmaalka Saxafada",
+    "intro": "Dhammaan sawirada ayaa diyaar u ah isticmaalka tafatirka. Guji sawir kasta si aad u soo dejiso faylka xallinta sare leh.",
+    "installationPhotos": {
+      "heading": "Sawirrada Macbadka Orbital",
+      "credit": "Fadlan qadarin: \"Sawirka Clara Marques / Lahaanshaha Edson Pavoni, Orbital Temple\"",
+      "view01": "Muuqaalka Rakibaadda 01<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (1.4 MB)",
+      "view02": "Muuqaalka Rakibaadda 02<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (2.9 MB)",
+      "view03": "Muuqaalka Rakibaadda 03<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (11 MB)",
+      "view04": "Muuqaalka Rakibaadda 04<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (3.4 MB)",
+      "view05": "Muuqaalka Rakibaadda 05<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (3.3 MB)",
+      "view06": "Muuqaalka Rakibaadda 06<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (3.7 MB)",
+      "view07": "Muuqaalka Rakibaadda 07<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (3.4 MB)",
+      "view08": "Muuqaalka Rakibaadda 08<br /> Sawirka: Clara Marques<br /> ↓ Soo dejiso-Res-sare (2.7 MB)",
+      "satelliteDesign": "Naqshad Satelite<br /> ↓ Soo dejiso",
+      "antennaSculpture": "Anteenada/Sculpture<br /> ↓ Soo dejiso"
+    },
+    "renders": {
+      "heading": "Orbital Temple Renders",
+      "credit": "Fikradaha 3D ee macbadka Orbital. Fadlan qadarin: \"3D soo bandhigida ee RiseNY&Partners / ixtiraamka Edson Pavoni, Orbital Temple\"",
+      "render01": "Bandhigga 3D 01<br /> Kaca NY&amp;La-hawlgalayaasha<br /> ↓ Soo dejiso-Res-sare (10 MB)",
+      "render02": "Bandhigga 3D 02<br /> Kaca NY&amp;La-hawlgalayaasha<br /> ↓ Soo dejiso-Res-sare (5.9 MB)",
+      "render03": "Bandhigga 3D 03<br /> Kaca NY&amp;La-hawlgalayaasha<br /> ↓ Soo dejiso-Res-sare (5.2 MB)",
+      "render04": "Bandhigga 3D 04<br /> Kaca NY&amp;La-hawlgalayaasha<br /> ↓ Soo dejiso-Res-sare (11 MB)",
+      "render05": "Bandhigga 3D 05<br /> Kaca NY&amp;La-hawlgalayaasha<br /> ↓ Soo dejiso-Res-sare (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Sawirada Fanaaniinta",
+      "photo1": "Sawirka 1<br /> ↓ Soo deji High-Res",
+      "photo2": "Sawirka 2<br /> ↓ Soo deji High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Sawirrada Sathi Roy",
+      "photo1": "Sawirka 1<br /> ↓ Soo dejiso-Res-sare (843 KB)",
+      "photo2": "Sawirka 2<br /> ↓ Soo dejiso-Res-sare (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Tilmaamaha Farsamada",
+    "satellite": {
+      "heading": "Satellite",
+      "dimensions": "Cabirka: 50 x 58 x 64 mm",
+      "classification": "Kala soocida: 1P PocketQube",
+      "weight": "Miisaanka: 245g",
+      "materials": "Qalabka: Aluminium, dahab, fiberglass, qaybaha elektarooniga ah",
+      "orbit": "Orbit: Jooga 525 ± 25 km; Dareenka: SSO 97.6 ± 0.1°",
+      "launch": "Bilaabida: Noofambar 28, 2025 iyada oo la marayo ISRO, India"
+    },
+    "antenna": {
+      "heading": "Anteenada/Sculpture",
+      "dimensions": "Cabirka: 6m dhexroor x 1.2m",
+      "weight": "Miisaanka: 46 kg",
+      "materials": "Alaabooyinka: Aluminium, looxa muraayada epoxy, qubbad aluminium dahab ah oo laga hakiyay qaab dhismeed"
+    },
+    "radio": {
+      "heading": "Tilmaamaha Raadiyaha",
+      "downlink": "Downlink: 437 MHz",
+      "status": "Xaaladda Bilowga: Waxaa la qorsheeyay Noofambar 28, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Khayraadka Dheeraadka ah",
+    "artwork": "→ Daawo Dukumentiyada Farshaxanka",
+    "howItWorks": "→ Sida ay u shaqeyso",
+    "technicalInfo": "→ Macluumaadka Farsamada",
+    "spaceLaunch": "→ Macluumaadka Bilaabida Booska",
+    "ritual": "→ La kulma dhaqanka"
+  },
+  "imageAlts": {
+    "installation": "Ku rakibida Macbadka Orbital ee Edson Pavoni",
+    "satelliteDesign": "Naqshadaynta Dayax-gacmeedka Macbadka Orbital",
+    "antenna": "Farshaxanka Anteenada Macbadka Orbital",
+    "render": "Orbital Temple 3D soo bandhigida by RiseNY&Partners",
+    "edsonPortrait": "Sawirka Edson Pavoni",
+    "sathiPortrait": "Sawirka Sathi Roy",
+    "lumenPrize": "Lumen Prize",
+    "mercosulBienal": "Mercosur Biennial"
+  }
+}

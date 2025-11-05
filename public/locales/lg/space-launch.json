@@ -1,0 +1,16 @@
+{
+  "title": "Okutongoza mu bwengula - Orbital Temple",
+  "heading": "Okutongoza mu bwengula",
+  "intro": "Yeekaalu ya Orbital egenda kusindikibwa ku nnyonyi PSLV (Polar Satellite Launch Vehicle) nga November 28th, 2025 okuva mu Satish Dhawan Space Center e Sriharikota mu Buyindi.",
+  "partnership": "Okutongoza Orbital Temple nkolagana wakati wa NewSpace India Limited (NSIL), Kampuni ya Gavumenti ya Buyindi wansi w’ekitongole ky’obwengula, Antrix Corporation, n’omuyiiya ono. Enkolagana eno ekiikirira ekintu ekikulu ennyo eri eby’emikono mu kunoonyereza mu bwengula, ng’egatta pulogulaamu ya Buyindi ey’omu bwengula n’okwolesebwa okw’ekikugu okw’okuyingiza abantu bonna mu ngeri ey’enjawulo.",
+  "risks": {
+    "heading": "Obulabe",
+    "paragraph1": "Setilayiti eno yazimbibwa okugumira embeera y’okukankana okw’amaanyi n’enzirukanya y’ebbugumu, era ebadde egezesebwa nnyo. Kyokka, okusindika mu bwengula kuleeta akabi akazaaliranwa. Singa setilayiti eyonoonese nga esindikibwa oba ng’eyiwa, oba singa eremererwa okuteekawo empuliziganya ne siteegi zaffe ez’oku ttaka, tujja kukola okugonjoola ebizibu n’okugonjoola ensonga zonna. Setilayiti eno erina enkola ezitali za mugaso n’enkola ezikuuma (backup protocols) ezikoleddwa okusobola okutumbula emikisa gy’okutuuka ku buwanguzi bw’omulimu.",
+    "paragraph2": "Okugatta ku ekyo, setilayiti eyinza okusigala mu nkulungo okumala emyaka egitawera 10 singa embeera y’empewo oba ensonga endala zireeta okuvunda kw’enkulungo amangu. Wadde nga tugitegese okumala waakiri emyaka kkumi, obulamu bwennyini businziira ku mbeera ze tutasobola kufuga mu bujjuvu.",
+    "paragraph3": "Singa okutongoza okusooka kulemererwa, oba bwe tutasobola kutuukiriza mulimu guno nga bwe twategekebwa, tujja kunoonyereza ku makubo amalala ag’okugenda mu maaso, agayinza okuli okugezaako okutongoza omulundi ogw’okubiri nga tulina embalirira eriwo, okukolagana n’emisomo emirala, oba okuwandiika ku kugezaako ng’ekitundu ku nnyiriri z’omulimu gw’ekikugu ku kwegomba n’okukoma."
+  },
+  "imageAlts": {
+    "india": "Ekifo eky’omu bwengula ekya ISRO, Buyindi",
+    "satellite": "Satellite ya Yeekaalu ey’enkulungo"
+  }
+}

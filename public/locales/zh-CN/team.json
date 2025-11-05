@@ -1,0 +1,61 @@
+{
+  "title": "团队 - 轨道神殿",
+  "heading": "团队",
+  "artist": "艺术家埃德森·帕沃尼",
+  "roles": {
+    "executiveProducer": {
+      "heading": "执行制片人",
+      "members": "萨蒂·罗伊"
+    },
+    "aerospace": {
+      "heading": "航空航天与系统工程",
+      "members": "佩德罗·卡莱德、若昂·佩德罗·波利托、维克多·巴普蒂斯塔和若昂·维克多·阿尔维斯"
+    },
+    "electronic": {
+      "heading": "电子工程",
+      "members": "安德烈·比亚吉奥尼 (André Biagioni)、若昂·佩德罗·波利托 (João Pedro Polito) 和 VK"
+    },
+    "software": {
+      "heading": "软件",
+      "members": "乔纳森·切鲁比纳"
+    },
+    "design": {
+      "heading": "设计与建筑",
+      "members": "吉列尔梅·布列霍斯"
+    },
+    "printing": {
+      "heading": "3D打印",
+      "members": "Solid Concepts，由 Eduardo Dias 领导"
+    },
+    "rendering": {
+      "heading": "3D渲染",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "研究",
+      "members": "罗伯塔·萨维安·罗莎和克拉拉·马克斯"
+    },
+    "exhibition": {
+      "heading": "展览制作、摄影及内容创作",
+      "members": "克拉拉·马克斯"
+    },
+    "silkScreen": {
+      "heading": "展览的丝网印刷",
+      "members": "达芙妮·阿尔维斯"
+    },
+    "educational": {
+      "heading": "教育项目",
+      "members": "创意空间"
+    },
+    "communication": {
+      "heading": "沟通团队",
+      "members": "弗拉维奥·维迪加尔、安德烈·霍尔兹梅斯特、佩德罗·维迪加尔、塔蒂安·普蒂、拉斐尔·费尔南德斯、布鲁纳·开罗"
+    },
+    "specialThanks": {
+      "heading": "特别鸣谢",
+      "members": "加布里埃拉·维加、马塞洛·丹塔斯、安妮·瓦尔斯、马蒂亚斯·坎波斯·阿巴德、塞缪尔·利维、贝拉·纳尔迪尼和利·彭宁顿"
+    }
+  },
+  "credits": "埃德森·帕沃尼、萨蒂·罗伊、佩德罗·卡莱德、若昂·佩德罗·波利托、维克多·巴普蒂斯塔、若昂·维克多·阿尔维斯、安德烈·比亚吉奥尼、VK、乔纳森·奎鲁比纳、吉列尔梅·布列霍斯、爱德华多·迪亚斯、罗伯塔·萨维安·罗莎、克拉拉·马克斯、达芙妮·阿尔维斯、弗拉维奥·维迪加尔、安德烈·霍尔兹梅斯特、佩德罗·维迪加尔、塔蒂安Putti、Rafael Fernandes、Bruna Cairo、Conceitos Sólidos、RiseNY&Partners、IdeaSpace",
+  "imageAlt": "轨道神庙卫星"
+}

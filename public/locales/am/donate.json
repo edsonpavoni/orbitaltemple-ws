@@ -1,0 +1,31 @@
+{
+  "title": "ለኦርቢታል ቤተመቅደስ ይለግሱ",
+  "heading": "ልገሳዎን ያጠናቅቁ",
+  "donatingTo": "እየለገሱ ያሉት ለ፡",
+  "chooseHow": "ከግብር የሚቀነስ ልገሳዎን እንዴት ማጠናቀቅ እንደሚፈልጉ ይምረጡ፡-",
+  "option1": {
+    "heading": "አማራጭ 1፡ አሁን በመስመር ላይ ይለግሱ",
+    "description": "በክሬዲት ካርድ፣ በዴቢት ካርድ ወይም በሌሎች የመስመር ላይ መክፈያ ዘዴዎች ወዲያውኑ ልገሳዎን በአስተማማኝ የፊስካል ስፖንሰር አድራጊው <strong>መስክ</strong> ያጠናቅቁ። ፈጣን የግብር ደረሰኝ ይደርስዎታል።",
+    "button": "በመስክ → በኩል ይለግሱ"
+  },
+  "option2": {
+    "heading": "አማራጭ 2፡ የባንክ ተቀማጭ ለሮይ ፋውንዴሽን",
+    "description": "የስትራቴጂክ አጋራችን እና የፊስካል ስፖንሰር ወደሆነው ወደ <strong>ሮይ ፋውንዴሽን</strong> ቀጥታ የባንክ ተቀማጭ ወይም የገንዘብ ልውውጥ ያድርጉ። ይህ አማራጭ ለትልቅ ልገሳዎች ወይም ለአለም አቀፍ ዝውውሮች ተስማሚ ነው.",
+    "bankingInfo": "የባንክ መረጃ",
+    "fields": {
+      "accountName": "መለያ ስም፡-",
+      "bankName": "የባንክ ስም",
+      "accountNumber": "መለያ ቁጥር፡-",
+      "routingNumber": "የማዞሪያ ቁጥር፡-",
+      "swift": "SWIFT/BIC፡",
+      "reference": "ዋቢ፡"
+    },
+    "instructions": "እባኮትን በማጣቀሻው መስክ ውስጥ &quot; <strong>Orbital Temple - {donationType}</strong> &quot; ያካትቱ። ማስተላለፍዎን ከጨረሱ በኋላ የግብር ደረሰኝዎን ለመቀበል ከዝውውር ዝርዝሮችዎ ጋር በ <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ኢሜይል ይላኩልን።",
+    "button": "ስለ ተቀማጭ ገንዘብ ያግኙን →"
+  },
+  "taxInfo": {
+    "heading": "ታክስ-ተቀነሰ መስጠት",
+    "description": "የምህዋር ቤተመቅደስ በፋይስ ስፖንሰር የተደረገ <strong>የፊልድ (የአፈጻጸም ዞን Inc.)</strong> ፣ <strong>501(c)(3)</strong> ለትርፍ ያልተቋቋመ ድርጅት ነው። ሁሉም የአሜሪካ መዋጮዎች ህግ በሚፈቅደው መጠን ከግብር የሚቀነሱ ናቸው።",
+    "questions": "ጥያቄዎች? በ <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> ላይ ያግኙን።"
+  }
+}

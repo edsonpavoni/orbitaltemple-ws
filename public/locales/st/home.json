@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Tempele ea Orbital",
+    "subtitle": "ke mosebetsi oa bonono le sathelaete,\nka sepheo sa ho ba tempele e akaretsang e akaretsang,\nsebakeng seo ho se nang lerako ho fihla teng."
+  },
+  "ritual": {
+    "label": "moetlo"
+  },
+  "cta": {
+    "link": "Leha ho le joalo, tempele e 'ngoe?",
+    "arrowAlt": "motsu"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

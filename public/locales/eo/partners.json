@@ -1,0 +1,50 @@
+{
+  "title": "Partneroj - Orbita Templo",
+  "heading": "Partneroj",
+  "intro": "Orbita Templo ekzistas danke al la malavareco, sperto, kaj vizio de eksterordinaraj partneroj. De la inĝenierado de satelitoj ĝis la kreado de rakontoj, de la malfermo de pordoj en malproksimaj landoj ĝis la fandado de revoj en oron, ĉiu kunlaboro alproksimigas ĉi tiun templon al la steloj.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partneroj",
+      "description": "Komunikado, integraj spertoj kaj impresaj 3D-bildigoj, kiuj vivigis la vizion de la satelito antaŭ ol ĝi iam tuŝis la malplenon de la kosmo."
+    },
+    "highestMantra": {
+      "name": "Nia Plej Alta Mantro",
+      "description": "Gvidata de Sathi Roy, konektante Orbital Temple kun la spiritaj kaj artaj komunumoj de Barato. Malfermante vojojn al monkolektado, kultura interŝanĝo, kaj Art Basel-ekspozicio post la lanĉo en novembro 2025."
+    },
+    "allToSpace": {
+      "name": "Ĉio al Spaco",
+      "description": "Brazilaj specialistoj pri malgrandaj satelitoj. Kvar jaroj da kunlaboro konstruante malfermitkodan aparataran platformon kaj pionire konstruante la procezon sendi arton en orbiton el la Tutmonda Sudo."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Hinda Organizaĵo pri Kosmoesplorado. Lanĉprovizanto por la PSLV-misio portanta Orbital Temple al sunsinkrona orbito en novembro 2025."
+    },
+    "mercosul": {
+      "name": "13-a Merkosura Dujara Ekspozicio",
+      "description": "Porto Alegre, Brazilo. Vikariite fare de Marcello Dantas kun helpkuratoroj Laura Cattani, Munir Klamt, Tarsila Riso, kaj Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Laborrenkontiĝo",
+      "description": "La satelita evoluigteamo formiĝis dum la II ArtSat Laborrenkontiĝo. Kunordigita de Fabiane M. Borges, instruata de Lázaro Camargo, kunlaborita de Ítalo Pinto Rodrigues, kontrolata de Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solidaj Konceptoj",
+      "description": "Gvidata de Eduardo Dias. Ĉiuj 3D-presado kaj ora mikromuldado por la skulpta kupolo, transformante ciferecajn revojn en realaĵon el valormetaloj."
+    },
+    "ideaSpace": {
+      "name": "Ideo-Spaco",
+      "description": "Brazila eduka noventrepreno disvolvas la instruplanon de la Kosmoprogramo Quebrada, pretan por apliko al gimnazianoj tra Brazilo."
+    }
+  },
+  "closing": "Ĉu vi interesiĝas pri partnereco kun Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Kontaktu nin</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "Nia Plej Alta Mantra Logoo",
+    "allToSpace": "Ĉio al Spaco Logo",
+    "isro": "ISRO-Emblemo",
+    "mercosul": "13-a Merkosura Dujara Logoo",
+    "inpe": "INPE ArtSat Laborrenkontiĝo-Emblemo",
+    "solidConcepts": "Solidaj Konceptoj Logo",
+    "ideaSpace": "Idea Space Logo"
+  }
+}

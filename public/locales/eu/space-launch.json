@@ -1,0 +1,16 @@
+{
+  "title": "Espazioko jaurtiketa - Orbital Temple",
+  "heading": "Espazioko jaurtiketa",
+  "intro": "Orbital Temple PSLV (Polar Satellite Launch Vehicle) batean jaurtitzea aurreikusita dago 2025eko azaroaren 28an, Indian, Sriharikotako Satish Dhawan Espazio Zentrotik.",
+  "partnership": "Orbital Temple jaurtiketaren jaurtiketa NewSpace India Limited (NSIL) arteko lankidetza bat da, Espazio Sailaren menpe dagoen Indiako Gobernuaren enpresa bat, Antrix Corporation eta artistaren artekoa. Lankidetza honek mugarri garrantzitsua da espazioaren esplorazioko artearentzat, Indiako espazio programa inklusio erradikaleko ikuspegi artistiko batekin uztartuz.",
+  "risks": {
+    "heading": "Arriskuak",
+    "paragraph1": "Satelitea muturreko bibrazio-baldintzak eta ziklo termikoak jasateko eraiki zen, eta proba zorrotzak egin ditu. Hala ere, espazio-jaurtiketek berezko arriskuak dituzte. Satelitea jaurtiketan edo hedapenean kaltetzen bada, edo gure lurreko estazioekin komunikazioa ezartzen ez badu, arazoak konpontzen eta konpontzen saiatuko gara. Sateliteak sistema erredundanteak eta babeskopia-protokoloak ditu, misioaren arrakasta-aukerak maximizatzeko diseinatuta.",
+    "paragraph2": "Gainera, satelitea 10 urte baino gutxiago egon daiteke orbitan, baldin eta baldintza atmosferikoek edo beste faktore batzuek orbitaren gainbehera goiztiarra eragiten badute. Gutxienez hamarkada bat irauteko diseinatu dugun arren, benetako bizitza guztiz kontrolatu ezin ditugun baldintzen araberakoa da.",
+    "paragraph3": "Lehenengo jaurtiketak huts egiten badu, edo misio hau aurreikusitako moduan betetzeko gai ez bagara, aurrera egiteko beste bide batzuk aztertuko ditugu, besteak beste, bigarren jaurtiketa saiakera bat aurrekontu eskuragarriarekin, beste misio batzuekin lankidetzan edo saiakeraren dokumentazioa artelanaren nahi eta mugak buruzko kontakizunaren barruan."
+  },
+  "imageAlts": {
+    "india": "ISRO Espazio Zentroa, India",
+    "satellite": "Orbital Temple satelitea"
+  }
+}

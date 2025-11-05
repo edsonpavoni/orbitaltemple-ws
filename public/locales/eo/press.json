@@ -1,0 +1,138 @@
+{
+  "title": "Gazetaro kaj Amaskomunikiloj - Orbita Templo",
+  "heading": "Gazetaro kaj Amaskomunikiloj",
+  "pressContact": {
+    "heading": "Gazetara Kontakto",
+    "content": "Por gazetaraj demandoj, intervjuoj kaj amaskomunikilaj petoj:<br /> <strong>Retpoŝto:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Retejo:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Pri la Projekto",
+    "paragraph1": "Orbita Templo estas artaĵo kaj satelito, kiu celas esti radikale inkluziva templo, konstruita kie neniuj muroj povas atingi. Kreita de la brazila artisto Edson Pavoni, la artisto malantaŭ la Memorejo Inumeraveis, kiu atingis 1 el po 6 brazilanoj dum la COVID-pandemio, la projekto invitas homojn el la tuta mondo sendi la nomon de iu, kiun ili volas memori. Ĉi tiuj nomoj estas transdonitaj al satelito en orbito, kreante kolektivan memorejon.",
+    "paragraph2": "Per retejo havebla en 136 lingvoj, partoprenantoj partoprenas novan specon de rito. La Orbita Templo esploras temojn de inkludo, memoro kaj nia komuna homeco, demandante kial neniu fizika templo sur la Tero povas vere bonvenigi ĉiujn, kaj proponante spacon kiel la solan lokon kie radikala inkluziveco povus ekzisti."
+  },
+  "aboutArtist": {
+    "heading": "Pri la Artisto",
+    "paragraph1": "<strong>Edson Pavoni</strong> estas brazila artisto, kies vojaĝo komenciĝis sur la stratoj de San-Paŭlo, kie kunteksto de malriĉeco kaj perforto formis liajn fruajn jarojn. En lando, kie kristanismo ofertis vojon for de la stratoj, drogoj kaj perforto, Pavoni trovis rifuĝon en fido, temo, kiu poste, kiam li fariĝis kritikisto de religia misuzo, influus lian artan praktikon.",
+    "paragraph2": "En 2020, dum la COVID-19-pandemio, Pavoni kreis <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">*Inumeraveis* (sennombra)</a></strong> , artaĵon ĉe la intersekciĝo de arto kaj ĵurnalismo. La projekto intervjuis milojn da familioj kaj verkis rakontojn pri tiuj, kiuj perdiĝis pro la pandemio, kreante spacon, kie la memoro transcendis nombrojn kaj statistikojn. Poemoj, kantoj kaj simfonioj estis kreitaj kun tiuj rakontoj. Gazetoj kreis kovrilojn uzante la nomojn kaj historiojn. Ĉiuj brazilaj steluloj kiel la Oskar-premiita Fernanda Torres, kaj steluloj kiel Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo kaj Lázaro Ramos, kaj tiom da aliaj, legis tiujn rakontojn en nacia televido. La projekto atingis 32 milionojn da homoj, unu el kvar brazilaj plenkreskuloj. Ĝi fariĝis reto de resanigo, kolektiva monumento al memoro.",
+    "paragraph3": "Post pli ol dek mil konversacioj kun funebro, aperis ŝablono: kiam ni parolas pri iu, kiu mortis, ni elektas fragmentojn de ilia rakonto kvazaŭ ni skribus rekomendleteron al la pordegogardisto de paradizo. Ni faras nian eblon por sendi ilin al tio, kion ni kredas esti ĉielo. Ĉi tiu verko ekfunkciigis novan komprenon: Niaj kredoj pri kiu meritas ĉielon rekte formas, kiun ni akceptas aŭ ekskludas sur la Tero. La portugalaj koloniigistoj en Brazilo kredis, ke nigruloj ne havas animojn; tiu kredo pravigis sklavecon. Se vi estis indiĝena, se vi naskiĝis en la malĝusta loko aŭ amis la malĝustan personon, oni ankoraŭ, ĝis hodiaŭ, diras al vi, ke la pordoj de la ĉielo estis fermitaj por vi. Ĉu ekzistas vizio pri la estonteco, kiu ne estas plenigita per malakcepto?",
+    "paragraph4": "Tiel naskiĝis Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Ŝlosilaj Faktoj",
+    "artist": "<strong>Artisto:</strong> Edson Pavoni (Brazilo)",
+    "projectType": "<strong>Projekta Tipo:</strong> Satelita artaĵo, lokospecifa pri la kosmo, retbazita rito",
+    "launchDate": "<strong>Lanĉdato:</strong> 28-a de novembro 2025",
+    "launchLocation": "<strong>Lanĉloko:</strong> Satish Dhawan Space Centre, Sriharikota, Barato (ISRO)",
+    "satellite": "<strong>Satelito:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbito:</strong> 525km altitudo, Sunsinkrona",
+    "participation": "<strong>Partopreno:</strong> Senpaga, malferma al ĉiuj tutmonde",
+    "namesSent": {
+      "heading": "<strong>Nomoj Senditaj al Orbito:</strong>",
+      "caption": "<em>Rekta kalkulo ĝisdatigita el datumbazo • Laste refreŝigita: {dato}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Premioj kaj Rekono",
+    "mercosul": {
+      "title": "<strong>13-a Merkosura Dujara Ekspozicio</strong> (2022)",
+      "location": "Porto-Alegro, Brazilo",
+      "curator": "Kurita de Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen-Premio 2022 - Premio Futures</strong>",
+      "status": "Longlistigita"
+    },
+    "cubeDesign": {
+      "title": "<strong>Konkurso KuboDezajno 2021</strong>",
+      "award": "Gajninto - ArtSat Kategorio",
+      "org": "Promociita de Brazila Instituto de Spaca Esploro (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Teamo",
+    "content": "Orbital Temple estas kreita kunlabore kun Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiana, Pedro Pudigal, Rafael Fertiane Solid, Cairo Fernanne Concept RiseNY&Partners, IdeaSpace, kaj ĉiuj, kiuj daŭre proponas nomojn por ĉi tiu templo."
+  },
+  "pressCoverage": {
+    "heading": "Elstara En / Gazetara Kovrado",
+    "paragraph1": "<em>Gazetaraj raportoj kaj artikoloj estos aldonitaj kiam ili estos haveblaj. Por la plej novaj ĝisdatigoj, bonvolu kontakti nian gazetaran teamon.</em>",
+    "paragraph2": "Antaŭaj ekspozicioj kaj prezentoj inkluzivas prezentojn ĉe la 13-a Merkosul-Bienal, rekonon de la Lumen-Premio, kaj elekton fare de la Brazila Instituto de Spaca Esploro (INPE)."
+  },
+  "images": {
+    "heading": "Alt-rezoluciaj bildoj por gazetara uzo",
+    "intro": "Ĉiuj bildoj estas haveblaj por redakta uzo. Alklaku iun ajn bildon por elŝuti la alt-rezolucian dosieron.",
+    "installationPhotos": {
+      "heading": "Orbita Templo Fotoj",
+      "credit": "Bonvolu mencii: \"Foto de Clara Marques / Gentileco de Edson Pavoni, Orbital Temple\"",
+      "view01": "Instalaĵa Vido 01<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (1.4 MB)",
+      "view02": "Instalaĵa Vido 02<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (2.9 MB)",
+      "view03": "Instalaĵa Vido 03<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (11 MB)",
+      "view04": "Instalaĵa Vido 04<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (3.4 MB)",
+      "view05": "Instalaĵa Vido 05<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (3.3 MB)",
+      "view06": "Instalaĵa Vido 06<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (3.7 MB)",
+      "view07": "Instalaĵa Vido 07<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (3.4 MB)",
+      "view08": "Instalaĵa Vido 08<br /> Foto: Clara Marques<br /> ↓ Elŝuti Alt-Rezolucian (2.7 MB)",
+      "satelliteDesign": "Satelita Dezajno<br /> ↓ Elŝuti",
+      "antennaSculpture": "Anteno/Skulptaĵo<br /> ↓ Elŝuti"
+    },
+    "renders": {
+      "heading": "Orbita Templo Bildigoj",
+      "credit": "Koncipaj 3D-bildigoj de Orbital Temple. Bonvolu mencii: \"3D-bildigo de RiseNY&Partners / Gentileco de Edson Pavoni, Orbital Temple\"",
+      "render01": "3D-Renderado 01<br /> RiseNY&amp;Partneroj<br /> ↓ Elŝuti Alt-Rezolucian (10 MB)",
+      "render02": "3D-Renderado 02<br /> RiseNY&amp;Partneroj<br /> ↓ Elŝuti Alt-Rezolucian (5.9 MB)",
+      "render03": "3D-Renderado 03<br /> RiseNY&amp;Partneroj<br /> ↓ Elŝuti Alt-Rezolucian (5.2 MB)",
+      "render04": "3D-Renderado 04<br /> RiseNY&amp;Partneroj<br /> ↓ Elŝuti Alt-Rezolucian (11 MB)",
+      "render05": "3D-Renderado 05<br /> RiseNY&amp;Partneroj<br /> ↓ Elŝuti Alt-Rezolucian (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Artistaj Fotoj",
+      "photo1": "Foto 1<br /> ↓ Elŝuti Alt-Rezolucian",
+      "photo2": "Foto 2<br /> ↓ Elŝuti Alt-Rezolucian"
+    },
+    "sathiPhotos": {
+      "heading": "Fotoj de Sathi Roy",
+      "photo1": "Foto 1<br /> ↓ Elŝuti Alt-Rezolucian (843 KB)",
+      "photo2": "Foto 2<br /> ↓ Elŝuti Alt-Rezolucian (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Teknikaj Specifoj",
+    "satellite": {
+      "heading": "Satelito",
+      "dimensions": "Dimensioj: 50 x 58 x 64 mm",
+      "classification": "Klasifiko: 1P PocketQube",
+      "weight": "Pezo: 245g",
+      "materials": "Materialoj: aluminio, oro, vitrofibro, elektronikaj komponantoj",
+      "orbit": "Orbito: Altitudo 525 ± 25 km; Inklino: SSO 97.6 ± 0.1°",
+      "launch": "Lanĉo: 28-a de novembro 2025 per ISRO, Barato"
+    },
+    "antenna": {
+      "heading": "Anteno/Skulptaĵo",
+      "dimensions": "Dimensioj: 6m diametro x 1.2m alto",
+      "weight": "Pezo: 46 kg",
+      "materials": "Materialoj: Aluminio, epoksi-spegulita tabulo, ora aluminia kupolo pendanta tra skafalda strukturo"
+    },
+    "radio": {
+      "heading": "Radio-Specifoj",
+      "downlink": "Malsuprenligo: 437 MHz",
+      "status": "Lanĉstato: Planita la 28-an de novembro 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Pliaj Rimedoj",
+    "artwork": "→ Vidi Artaĵan Dokumentaron",
+    "howItWorks": "→ Kiel Ĝi Funkcias",
+    "technicalInfo": "→ Teknikaj Informoj",
+    "spaceLaunch": "→ Informoj pri Kosmolanĉoj",
+    "ritual": "→ Travivu la Riton"
+  },
+  "imageAlts": {
+    "installation": "Instalaĵo de Orbita Templo de Edson Pavoni",
+    "satelliteDesign": "Dezajno de Enorbita Templa Satelito",
+    "antenna": "Skulptaĵo de Orbita Templa Anteno",
+    "render": "3D-Interpreto de Orbitala Templo fare de RiseNY&Partners",
+    "edsonPortrait": "Portreto de Edson Pavoni",
+    "sathiPortrait": "Portreto de Sathi Roy",
+    "lumenPrize": "Lumen-Premio",
+    "mercosulBienal": "Merkosudo Dujara"
+  }
+}

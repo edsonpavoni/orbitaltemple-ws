@@ -1,0 +1,31 @@
+{
+  "title": "Donirajte Orbitalnom hramu",
+  "heading": "Završite svoju donaciju",
+  "donatingTo": "Donirate za:",
+  "chooseHow": "Odaberite kako želite dovršiti svoju donaciju koja se odbija od poreza:",
+  "option1": {
+    "heading": "Opcija 1: Donirajte online odmah",
+    "description": "Odmah izvršite svoju donaciju koristeći kreditnu karticu, debitnu karticu ili druge online metode plaćanja putem našeg sigurnog fiskalnog sponzora, <strong>The Field</strong> . Odmah ćete dobiti potvrdu o porezu.",
+    "button": "Donirajte putem The Field →"
+  },
+  "option2": {
+    "heading": "Opcija 2: Bankovni depozit za Roy fondaciju",
+    "description": "Izvršite direktnu bankovnu uplatu ili bankovni transfer na račun <strong>Fondacije Roy</strong> , našeg strateškog partnera i finansijskog sponzora. Ova opcija je idealna za veće donacije ili međunarodne transfere.",
+    "bankingInfo": "Bankovne informacije",
+    "fields": {
+      "accountName": "Naziv računa:",
+      "bankName": "Naziv banke:",
+      "accountNumber": "Broj računa:",
+      "routingNumber": "Broj usmjeravanja:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referenca:"
+    },
+    "instructions": "Molimo Vas da u polje za referencu uključite &quot; <strong>Orbital Temple - {donationType}</strong> &quot;. Nakon što završite transfer, pošaljite nam e-mail na <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> sa detaljima transfera kako biste primili poreznu potvrdu.",
+    "button": "Kontaktirajte nas u vezi s depozitom →"
+  },
+  "taxInfo": {
+    "heading": "Porezno priznati darovi",
+    "description": "Orbital Temple je fiskalno sponzorirani projekat organizacije <strong>The Field (Performance Zone Inc.)</strong> , neprofitne organizacije <strong>501(c)(3)</strong> . Svi doprinosi iz SAD-a su odbitni od poreza u mjeri u kojoj je to dozvoljeno zakonom.",
+    "questions": "Pitanja? Kontaktirajte nas na <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

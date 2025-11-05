@@ -1,0 +1,50 @@
+{
+  "title": "Hoa - Temepara Orbital",
+  "heading": "Nga hoa",
+  "intro": "Ko te Orbital Temple kei roto i te atawhai, te tohungatanga, me te tirohanga o nga hoa rangatira. Mai i nga miihini hangarau ki te hanga korero korero, mai i te whakatuwhera i nga kuaha ki nga whenua tawhiti ki te maka moemoea ki te koura, ma ia mahi tahi ka whakatata atu tenei whare ki nga whetu.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&nga hoa",
+      "description": "Ko te whakawhitiwhiti korero, nga wheako whakauru me nga whakaahua 3D whakamiharo i ora ai te tirohanga o te amiorangi i mua i te pa ki te kore o te waahi."
+    },
+    "highestMantra": {
+      "name": "To tatou Mantra Teitei",
+      "description": "Ko Sathi Roy te kaiarahi, e hono ana i te Orbital Temple me nga hapori wairua me nga hapori toi o Inia. Te whakatuwhera i nga huarahi ki te kohi moni, te whakawhiti tikanga, me te whakaaturanga Art Basel whai muri i te whakarewatanga o Noema 2025."
+    },
+    "allToSpace": {
+      "name": "Katoa ki Space",
+      "description": "Nga tohunga peerangi iti Brazilia. E wha nga tau o te mahi tahi ki te hanga i tetahi papaaa maataa maataa me te mahi tuatahi ki te tuku toi ki te orbit mai i te Ao Tonga."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indian Space Research Organisation. Whakarewahia te kaiwhakarato mo te miihana PSLV e kawe ana i te Orbital Temple ki te ra-tukutahi orbit i te Whiringa-a-rangi 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. Na Marcello Dantas i whakahaere me nga kaiawhina a Laura Cattani, Munir Klamt, Tarsila Riso, me Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "I hangaia te roopu whanaketanga amiorangi i te wa o te Awheawhe ArtSat II. Na Fabiane M. Borges i whakahaere, na Lázaro Camargo i tohutohu, na Ítalo Pinto Rodrigues i mahi tahi, na Walter Abrahão dos Santos i whakahaere."
+    },
+    "solidConcepts": {
+      "name": "Nga Tikanga Maamaa",
+      "description": "Ko Eduardo Dias te kaiarahi. Katoa te taa 3D me te whakarewa moroiti koura e mahi ana mo te whare whakairo, ka huri i nga moemoea matihiko ki te mooni whakarewa utu nui."
+    },
+    "ideaSpace": {
+      "name": "Mokowā whakaaro",
+      "description": "Ko te timatanga o te matauranga Brazilia e whakawhanake ana i te marautanga Kaupapa Mokowhiti a Quebrada, kua rite ki te tono ki nga tauira kura tuarua puta noa i Brazil."
+    }
+  },
+  "closing": "Kei te pirangi koe ki te mahi tahi me te Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Totoro atu</a> .",
+  "imageAlts": {
+    "riseNy": "Moko RiseNY&Partners",
+    "highestMantra": "To tatou Moko Mantra Teitei",
+    "allToSpace": "Katoa ki te Moko Mokowā",
+    "isro": "Moko ISRO",
+    "mercosul": "13th Mercosur Biennial Moko",
+    "inpe": "INPE ArtSat Workshop Moko",
+    "solidConcepts": "Moko Ariā Mārō",
+    "ideaSpace": "Moko Mokowā Whakaaro"
+  }
+}

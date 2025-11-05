@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital na Templo",
+    "subtitle": "ay isang likhang sining at isang satellite,\nnaglalayong maging isang radikal na inklusibong templo,\nsa isang lugar kung saan walang pader na maabot."
+  },
+  "ritual": {
+    "label": "ritwal"
+  },
+  "cta": {
+    "link": "Ngunit, isa pang templo?",
+    "arrowAlt": "palaso"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

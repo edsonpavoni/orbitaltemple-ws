@@ -1,0 +1,44 @@
+{
+  "title": "Kuramba & Umwanya wa Debris - Urusengero rwa Orbital",
+  "heading": "Kuramba",
+  "intro": {
+    "paragraph1": "Niba ubuhanzi bugomba kutuyobora ejo hazaza, ntibushobora kwirengagiza ibibazo duhura nabyo - gusenyuka kw'ibidukikije, ubusumbane mu mibereho, hamwe n'ikibazo kigenda cyiyongera cy'imyanda. Urusengero rwa Orbital rwashizweho hamwe nibitekerezo bifatika, rugamije kuba umuntu ufite inshingano haba kwisi ndetse no muri orbit.",
+    "paragraph2": "Twizera ko kuramba atari imbogamizi ahubwo ni igice cyingenzi mubyerekezo byacu byubuhanzi. Icyemezo cyose kijyanye nibikoresho, orbits, nibikorwa byerekana ubushake bwacu bwo kuva kwisi ndetse numwanya mwiza kuruta uko twabibonye."
+  },
+  "spaceDebris": {
+    "heading": "Umwanya wa Debris",
+    "paragraph1": "Imyanda yo mu kirere ni imwe mu mbogamizi zikomeye zihura n’ubushakashatsi bw’ikirere. Ibihumbi n'ibihumbi bya satelite byacitse n'ibice bizenguruka isi, bikangisha ubutumwa bukora kandi bigatera ingaruka ya casade ishobora gutuma orbit zimwe zidakoreshwa.",
+    "paragraph2": "Urusengero rwa Orbital rukemura ibi muburyo butandukanye:",
+    "list": {
+      "orbit": "<strong>Izuba-rihuza izuba kuri kilometero 525:</strong> Ubu butumburuke butuma ikirere gikurura ikirere kizatuma icyogajuru cyongera kwinjira mu kirere cy’isi mu myaka igera ku 10, aho kizatwika burundu. Ntabwo dutanga umusanzu wigihe kirekire cyimyanda.",
+      "size": "<strong>Igishushanyo cya PocketQube:</strong> Kuri 50 × 58 × 64mm na 245g gusa, icyogajuru ni gito kuburyo gihumeka rwose mugihe cyo kongera kwinjira, ntagisiga imyanda hejuru yisi.",
+      "responsibility": "<strong>Nta byateganijwe bitagikoreshwa:</strong> Bitandukanye na satelite yubucuruzi ishobora gutereranwa, Urusengero rwa Orbital rwagenewe gutandukana muburyo busanzwe, rwuzuza amabwiriza mpuzamahanga kubikorwa byogukora icyogajuru."
+    },
+    "paragraph3": "Muguhitamo isi yo munsi yisi hamwe nigishushanyo mbonera, turemeza ko kuba Orbital Temple ihari mumwanya byigihe gito kandi bidahumanya."
+  },
+  "carbonNeutrality": {
+    "heading": "Kutabogama kwa Carbone",
+    "content": "Ibyuka byose byangiza imyuka ijyanye na Orbital Temple - harimo gukora ibyogajuru, kohereza, ibikorwa byubutaka, kwakira urubuga, hamwe ningendo zamakipe - bizarangira burundu binyuze muri gahunda zemewe za karubone. Twiyemeje gukora ubu butumwa butagira aho bubogamiye."
+  },
+  "openSource": {
+    "heading": "Gufungura ibikoresho byisoko",
+    "paragraph1": "Kuramba bisobanura kandi kudasesagura ubumenyi. Buri kintu cyose cya tekiniki cyurusengero rwa Orbital - ibishushanyo, kode, protocole y'itumanaho, hamwe nuburyo bwo kubaka - bizashyirwa ahagaragara nkibisobanuro byatanzwe.",
+    "paragraph2": "Ibi bituma ubutumwa buzaza bwubaka kubikorwa byacu aho gutangirira kubusa, kugabanya ubushakashatsi niterambere. Iharanira demokarasi kugera ku ikoranabuhanga ry’ikirere, cyane cyane ku baturage bo mu majyepfo y’isi bakuwe mu mateka mu bushakashatsi bw’ikirere."
+  },
+  "educational": {
+    "heading": "Ingaruka zo Kwiga",
+    "paragraph1": "Gahunda yacu yo kwigisha indimi nyinshi kubuntu yigisha abanyeshuri kwisi yose kubaka no kohereza satelite, hibandwa kuri Global y'Amajyepfo. Muguha imbaraga igisekuru kizaza hamwe nubuhanga bwikoranabuhanga mu kirere, dutanga umusanzu wo gufunga \"Umwanya wo mu kirere\" no guhanga amahirwe bitari kubaho.",
+    "paragraph2": "Inshingano yuburezi ubwayo nuburyo bwo kuramba - gushora imari mubaturage no guhindura impinduka zirambye zirenze ubuzima bwa satelite."
+  },
+  "tenYear": {
+    "heading": "Inshingano yimyaka 10",
+    "paragraph1": "Urusengero rwa Orbital rwateguwe kubutumwa bwimyaka icumi, ntabwo ari igihe gito cyo kwamamaza. Mu myaka icumi, icyogajuru kizenguruka isi inshuro zigera ku 50.000, cyakira amazina kandi kibutsa ko umwanya ushobora kuba rusange, ushobora kugera kuri bose.",
+    "paragraph2": "Inshingano zayo nizirangira, icyogajuru kizaba gisanzwe-kizenguruka kandi kigatwikwa, nta kimenyetso na kimwe usibye mu kwibuka no mu nyandiko z'abitabiriye."
+  },
+  "artsResponsibility": {
+    "heading": "Inshingano z'ubuhanzi",
+    "paragraph1": "Ubuhanzi buri gihe bwabaye indorerwamo yigihe cyayo, bugaragaza indangagaciro n'ibyifuzo byacu. Mu gihe cy’ibihe by’ikirere n’ubusumbane bugenda bwiyongera, twizera ko abahanzi bafite inshingano zo guhanga umurimo udatanga ibisobanuro kuri ibyo bibazo gusa ahubwo ubikemura neza.",
+    "paragraph2": "Urusengero rwa Orbital nigikorwa cyacu cyo gukora ibihangano bikabije muburyo budahwitse, bifite uruhare mubidukikije, kandi bitanga mugusangira ubumenyi nisi. Nubuhanzi butumira abantu bose kwitabira mugihe bubaha sisitemu yoroshye-ibidukikije na orbital-ituma ubuzima nubushakashatsi bishoboka."
+  },
+  "imageAlt": "Orbital Urusengero Satelite"
+}

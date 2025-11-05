@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "ao entrar\nnun ritual\n\npara enviar un nome\nao\ntemplo orbital\nno espazo\n\nrespira\nprofundamente",
+    "button": "Estou listo"
+  },
+  "nameInput": {
+    "title": "escribe un nome",
+    "subtitle": "ascenderá ao Templo Orbital no espazo.",
+    "placeholder": "nome",
+    "button": "deixalo ascender"
+  },
+  "emailInput": {
+    "title": "escribe o teu correo electrónico",
+    "subtitle": "así recibes unha mensaxe cando o nome ascende.",
+    "placeholder": "o teu correo electrónico",
+    "button": "está feito"
+  },
+  "loading": {
+    "alt": "Cargando"
+  },
+  "success": {
+    "text": "O nome\n{{name}}\nestá agora en cola\npara a ascensión.\n\ncando o\ntemplo no espazo\nse aliñe, coa\nnosa antena\nna Terra\n\nenviaremos\no nome\ne recibirás\nunha mensaxe."
+  }
+}

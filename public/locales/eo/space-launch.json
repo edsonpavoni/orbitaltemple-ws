@@ -1,0 +1,16 @@
+{
+  "title": "Kosmolanĉo - Orbita Templo",
+  "heading": "Kosmolanĉo",
+  "intro": "La Orbita Templo estas planita por lanĉo per PSLV (Polusa Satelita Lanĉveturilo) la 28-an de novembro 2025 de la Kosmocentro Satish Dhawan en Sriharikota, Barato.",
+  "partnership": "La lanĉo de la Orbita Templo estas partnereco inter NewSpace India Limited (NSIL), kompanio de la Registaro de Barato sub la Departemento pri Spaco, Antrix Corporation, kaj la artisto. Ĉi tiu kunlaboro reprezentas signifan mejloŝtonon por arto en kosma esplorado, kunigante la kosman programon de Barato kun arta vizio de radikala inkluziveco.",
+  "risks": {
+    "heading": "Riskoj",
+    "paragraph1": "La satelito estis konstruita por elteni ekstremajn vibrajn kondiĉojn kaj termikajn ciklojn, kaj spertis rigorajn testojn. Tamen, spaclanĉoj portas enecajn riskojn. Se la satelito estas difektita dum lanĉo aŭ deplojo, aŭ se ĝi ne sukcesas establi komunikadon kun niaj terstacioj, ni laboros por solvi kaj solvi iujn ajn problemojn. La satelito havas redundajn sistemojn kaj rezervajn protokolojn desegnitajn por maksimumigi la ŝancojn de misiosukceso.",
+    "paragraph2": "Krome, la satelito povas resti en orbito dum malpli ol 10 jaroj se atmosferaj kondiĉoj aŭ aliaj faktoroj kaŭzas pli fruan orbitan kadukiĝon. Kvankam ni desegnis ĝin por daŭri almenaŭ jardekon, la efektiva vivdaŭro dependas de kondiĉoj, kiujn ni ne povas plene kontroli.",
+    "paragraph3": "Se la unua lanĉo malsukcesas, aŭ se ni ne povos plenumi ĉi tiun mision laŭplane, ni esploros alternativajn vojojn antaŭen, eble inkluzive de dua lanĉoprovo kun disponebla buĝeto, partnereco kun aliaj misioj, aŭ dokumentado de la provo kiel parto de la rakonto de la artaĵo pri aspiro kaj limigo."
+  },
+  "imageAlts": {
+    "india": "ISRO-Kosmocentro, Hindio",
+    "satellite": "Enorbita Templa Satelito"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Paglusad sa kawanangan - Templo sa Orbital",
+  "heading": "Paglusad sa kawanangan",
+  "intro": "Ang Orbital Temple gikatakda nga ilunsad sakay sa PSLV (Polar Satellite Launch Vehicle) sa Nobyembre 28, 2025 gikan sa Satish Dhawan Space Center sa Sriharikota, India.",
+  "partnership": "Ang paglusad sa Orbital Temple usa ka panagtambayayong tali sa NewSpace India Limited (NSIL), usa ka Government of India Company ubos sa Department of Space, Antrix Corporation, ug ang artist. Kini nga kolaborasyon nagrepresentar sa usa ka hinungdanon nga milestone alang sa arte sa eksplorasyon sa kawanangan, nga naghiusa sa programa sa kawanangan sa India nga adunay usa ka artistikong panan-awon sa radikal nga pagkalakip.",
+  "risks": {
+    "heading": "Mga risgo",
+    "paragraph1": "Ang satellite gitukod aron makaagwanta sa grabeng kahimtang sa vibration ug thermal cycles, ug miagi sa higpit nga pagsulay. Bisan pa, ang mga paglansad sa kawanangan adunay mga kinaiyanhon nga peligro. Kung ang satellite nadaot sa panahon sa paglansad o pag-deploy, o kung kini mapakyas sa pag-establisar sa komunikasyon sa among mga ground station, magtrabaho kami aron masulbad ug masulbad ang bisan unsang mga isyu. Ang satellite adunay daghang mga sistema ug backup nga mga protocol nga gidisenyo aron mapadako ang mga kahigayonan sa kalampusan sa misyon.",
+    "paragraph2": "Dugang pa, ang satellite mahimong magpabilin sa orbit nga wala pay 10 ka tuig kung ang kahimtang sa atmospera o uban pang mga hinungdan hinungdan sa sayo nga pagkadunot sa orbital. Samtang gidesinyo namo kini nga molungtad og labing menos usa ka dekada, ang aktuwal nga gitas-on sa kinabuhi nagdepende sa mga kondisyon nga dili namo hingpit nga makontrol.",
+    "paragraph3": "Kung mapakyas ang una nga paglansad, o kung dili naton mahimo kini nga misyon sama sa giplano, susihon namon ang mga alternatibong agianan sa unahan, mahimo’g ilakip ang ikaduha nga pagsulay sa paglansad nga adunay magamit nga badyet, pakigtambayayong sa ubang mga misyon, o dokumentasyon sa pagsulay ingon bahin sa pagsaysay sa artwork bahin sa pangandoy ug limitasyon."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Orbital Temple Satellite"
+  }
+}

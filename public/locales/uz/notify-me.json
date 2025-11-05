@@ -1,0 +1,13 @@
+{
+  "title": "Xabardor bo'ling - Orbital Temple",
+  "heading": "U ko'tarilganda xabardor bo'ling",
+  "description": "2025 yil 28 noyabrda Orbital ibodatxonasi ko&#39;tariladi.<br> Elektron pochtangizni qoldiring, u bo&#39;sh joyga yetganda sizga xabar beramiz.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Yuborish",
+    "sendingButton": "Yuborilmoqda...",
+    "successMessage": "U ko'tarilganda biz sizga yetib boramiz.",
+    "errorMessage": "Nimadir xato ketdi. Iltimos, qayta urinib koʻring."
+  },
+  "backLink": "← Ortga sanashga qaytish"
+}

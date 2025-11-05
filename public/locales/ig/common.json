@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ihe osise",
+    "sendAName": "zipu aha",
+    "fromTheArtist": "site na nka",
+    "yetAnotherTemple": "ma, ụlọ nsọ ọzọ?",
+    "howItWorks": "ka o si arụ ọrụ",
+    "spaceLaunch": "igba egbe na ihe egwu",
+    "briefHistory": "nkenke akụkọ ihe mere eme nka na mbara",
+    "education": "agụmakwụkwọ & isi mmalite",
+    "sustainability": "nkwado na ihe mkpofu oghere",
+    "press": "pịa & mgbasa ozi",
+    "team": "otu",
+    "partners": "mmekọ",
+    "support": "nkwado",
+    "technicalInfo": "ozi oru"
+  },
+  "ritual": {
+    "label": "ememe",
+    "ariaLabel": "Tinye emume a - Ziga aha na Temple Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple bụ ihe osise nke Edson Pavoni, kere na mmekorita ya na Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, na ndị niile na-aga n'ihu na-ezigara aha ụlọ nsọ a."
+  }
+}

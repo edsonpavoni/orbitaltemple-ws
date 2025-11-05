@@ -1,0 +1,31 @@
+{
+  "title": "Ntirho wa Vutshila - Tempele ya Orbital",
+  "heading": "Ntirho wa Vutshila",
+  "intro": {
+    "paragraph1": "Orbital Temple i sathelayiti leyi nga na vurhumiwa bya vutshila: xitsundzuxo exibakabakeni lexi pfulekeleke xivumbiwa xin’wana na xin’wana lexi twaka lexi hanyaka kumbe lexi hanyeke eMisaveni.",
+    "paragraph2": "Hi ku tirhisa tindlela ta thekinoloji, un’wana na un’wana a nga rhumela vito ra munhu eTempeleni, kumbe munhu loyi a hundzeke emisaveni, munhu loyi a hanyaka swinene, kumbe xivumbiwa xin’wana na xin’wana lexi faneleke ku tsundzukiwa."
+  },
+  "sculpture": {
+    "heading": "Xifaniso xa Xifaniso",
+    "paragraph1": "Ntirho lowu wa vutshila wu ni swilo swinharhu leswi titshegeke swin’we: sathelayiti leyi endleriweke ngopfu-ngopfu ku hlayisa magidi ya timiliyoni ta mavito; xifaniso xa mani na mani lexi cincanaka mahungu na sathelayiti; na webusayiti leyi hi yona vatekaxiave va rhumelaka mavito, ku sukela sweswi ku fikela loko va hundza emisaveni, etilweni.",
+    "paragraph2": "Tanihi matshalatshala ya swiyenge swo hambana, Orbital Temple yinga tekiwa tani hi xifaniso xa ndzhawu yokarhi, leyi tshamaka eka ndzhawu. Nakambe i phurojeke ya Artsat."
+  },
+  "antenna": {
+    "heading": "Antena Tanihi Xifaniso Xa Le Rivaleni",
+    "paragraph1": "Antena leyi hi hlanganisaka na xibakabaka xa le handle.",
+    "paragraph2": "Ku endliwa antenna leyi nga ta va yi vulavurisana hi ku kongoma ni sathelayiti leyi rhendzelekaka.",
+    "paragraph3": "Hi xivumbeko xa nsuku lexi voningaka, lexi kombisaka xibakabaka ehenhla ka xona, i masungulo ya ku hlohloteriwa ka masa (kumbe vuxaka bya hina na leswinga ‘ehenhla kwalaho’).",
+    "paragraph4": "Loko swifaniso leswi vatliweke swi nga vekiwanga eka swiphemu swo tala swa misava, Tifureme ta hina leti humaka eMisaveni, leti sweswi ti lawulaka sathelayiti, ti rhumela mavito eka ku hundza kun’wana na kun’wana.",
+    "paragraph5": "Pfuna ku tisa xivono lexi edorobeni ra wena—ku veka swifaniso leswi vatliweke swa ti-antenna leswi hlohlotelaka mabulo mayelana na ku lavisisa xibakabaka, vutshila, na ndhawu ya hina leyi hi avelana yona eka cosmos. <a href=\"/support\">Dyondza swo tala hi ku seketela ntirho lowu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Sathelayiti ya Tempele ya Orbital",
+    "riseNy": "Tempele ya Orbital eRise NY",
+    "installation": "Tempele ya Orbital hi Clara Marques",
+    "antenna": "Antena ya Tempele ya Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempele ya Orbital exibakabakeni. Ku hundzuluxeriwa ka 3D hi RiseNY&Partners.",
+    "mercosul": "Ku vekiwa ka Tempele ya Orbital eka Mercosul Biennial, ePorto Alegre, Brazil.<br> Xifaniso hi Clara Marques."
+  }
+}

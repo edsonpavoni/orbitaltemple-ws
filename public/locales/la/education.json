@@ -1,0 +1,43 @@
+{
+  "title": "Educatio et Fons Apertus - Templum Orbitale",
+  "heading": "Educatio et Fons Apertus",
+  "intro": {
+    "paragraph1": "Omnis technologia pro missione Templi Orbitalis elaborata erit <strong>fons liber</strong> et in interreti praesto erit <strong>Lusitane</strong> , <strong>Anglice</strong> , <strong>Hispanice</strong> , et <strong>Hindica</strong> , promovens progressionem explorationis spatialis in <strong>Meridie Globali</strong> . Novae missiones et incepta Templum Orbitalem ut fundamentum pro suis propriis experimentis artisticis vel scientificis uti possunt.",
+    "paragraph2": "Pars muneris sui educationis est Templum Orbitale, qui cursum gratuitum multilinguum de constructione et immissione satellitum offeret. Haec occasio practica erit ad technologiam satellitum discendam et eam in praxim deducendam. Quisquis supra aetatem <strong>sedecim</strong> annorum suum satellitem construere poterit, historiam artis in spatio, notiones fundamentales electronicae, mechanicae et scientiae spatialis discens, inter quas sunt rationes financiandi proiecta et antennae construendae ad communicandum cum satellitibus in orbita."
+  },
+  "spaceGap": {
+    "heading": "Cur Hoc Interest: Lacuna Spatii",
+    "paragraph1": "Vocabulum <strong>&quot;Hiatus Spatialis&quot; (vel &quot;Hiatus Spatialis&quot;)</strong> discrimen inter nationes progressas, quae ad occasiones technologicas per explorationem spatialem obtentas accedere possunt, et nationes progredientes, quae ad has technologias aditum non habent, refertur. Nationes in Meridie Globali summas magnas gubernationibus vel societatibus externis solvere debent pro accessu fundamentali ad informationes a technologia satellitum productas.",
+    "paragraph2": "Technologia spatialis commoda gravissima praebet: satellites adiuvant in pugna contra illicitam silvarum caedem, illicitam piscationem, et illicitum commercium animalium silvestrium, quae plus quam <strong>$73 miliarda dollariorum quotannis</strong> repraesentant. Informationem essentialem de climate, productione aquae, et securitate cibi praebent. Satellites irrigationem accuratam et artes agriculturae efficiunt, et adiuvant ad calamitates naturales prohibendas. Industria spatialis usque ad <strong>decies centena milia locorum laboris</strong> creare potest ante <strong>annum 2030</strong> , tamen hae occasiones multis in Meridie Globali inaccessibiles manent.",
+    "paragraph3": "Technologia et educatione apertae fontis praebitis, accessum ad spatium democratizare et novam generationem ad somniandum ultra caelum facultatem dare conamur."
+  },
+  "empowering": {
+    "heading": "Potestatem Proximae Generationis Augere",
+    "intro": "Proximam generationem exploratorum spatiorum docebimus quomodo satellites proprios construant et immittant, argumenta essentialia tractantes, inter quae:",
+    "topics": {
+      "history": "<strong>Historia artis in spatio:</strong> Intellegentia progenies satellitum artisticorum et operum artis spatialium.",
+      "concepts": "<strong>Notiones centrales:</strong> <strong>ArtSat</strong> (satellites artistici), technologia spatialis <strong>Fontis Aperti</strong> , et <strong>Gap Spatii (Space Gap</strong> ).",
+      "missions": "<strong>Missiones spatiales:</strong> Quomodo missionem concipias et designes, et quomodo manipulum ad eam exsequendam formes.",
+      "electronics": "<strong>Electronica in spatio:</strong> Notiones fundamentales partium electronicarum quae superesse et fungi possunt in ambitu spatiali.",
+      "mechanics": "<strong>Mechanica in spatio:</strong> Intellectus requisitorum structuralium et mechanicorum ad designandum satellites.",
+      "orbits": "<strong>Orbitae et immissaria:</strong> Orbitarum genera varia et quomodo eligendi sint provisores immissariorum pro missione tua.",
+      "financing": "<strong>Rationes pecuniariae:</strong> Quomodo pecuniam et opes ad satellitem tuum immittendum obtineas. Cursus opes praebebit ad pecuniam pro immissione tua obtinendam, discipulis adiuvans ut programmata et subsidia ab institutionibus internationalibus inveniant quae iuvenes scientificos et discipulos in mittendis satellitibus suis in spatium adiuvant.",
+      "groundStation": "<strong>Elaboratio stationis terrestris:</strong> Quomodo antennam construere ad communicandum cum Templo Orbitali aliisque satellitibus."
+    }
+  },
+  "technology": {
+    "heading": "Technologia: Satellites PocketQube",
+    "paragraph1": "Discipuli discent operari cum satellitibus <strong>PocketQube</strong> , nanosatellitibus normae quae tantum <strong>5 cm³</strong> metiuntur et usque ad <strong>250 g</strong> pendens sunt. Quamvis parvae sint, PocketQube instrumenta potentia sunt ad observationem, monitorationem et communicationem Terrae apta.",
+    "paragraph2": "Hi satellites compacti numerosas applicationes in mundo reali habent, ab investigatione scientifica de mutatione climatis ad communicationem intercontinentalem. Quia minores et leviores sunt, minore pretio construuntur et immittuntur, spatium discipulis, investigatoribus, et artificibus toto orbe magis accessibile reddentes."
+  },
+  "globalAccess": {
+    "heading": "Accessus Globalis, Incipiens ab Meridie Globali",
+    "paragraph1": "Cursus omnibus <strong>sedecim annos natis vel maioribus</strong> praesto erit, omnino <strong>gratis</strong> . Initium facimus cum materia <strong>Lusitana</strong> , <strong>Hispanica</strong> , <strong>Anglica</strong> , et <strong>Hindica</strong> , cum consilio ad alias linguas dilatandi dum programma crescit.",
+    "paragraph2": "Missio nostra in Meridie Globali incipit et ad mundum extenditur, curans ut proxima generatio exploratorum spatiorum ex omnibus angulis Terrae veniat."
+  },
+  "callToAction": {
+    "heading": "Adiuva Nos Ut Hoc Fiat",
+    "content": "Hoc programma educationis in praesenti elaboratur. Socios et donatores quaerimus qui nostram visionem democratizandi accessum ad technologiam spatialem communicant. Si tu vel tua organizatio hanc initiativam sustinere vultis, <a href=\"/support\">paginam nostram subsidii</a> visitate ut de occasionibus societatis discatis."
+  },
+  "imageAlt": "Satellites Orbitalis Templi"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Imọ Alaye - Orbital Temple",
+  "heading": "Imọ Alaye",
+  "satellite": {
+    "heading": "Satẹlaiti",
+    "specs": "Awọn iwọn: 50x58x64 mm<br /> 1P PocketQube<br /> Iwọn: 245 gr<br /> Awọn ohun elo: aluminiomu, goolu, gilaasi, ati awọn paati itanna.<br /> Orbit: Giga 525 ± 25 km; tẹri: SSO 97,6 ± 0,1 °<br /> Olupilẹṣẹ: PSLV (Ọkọ Ifilọlẹ Satẹlaiti Polar) ti ISRO ṣiṣẹ"
+  },
+  "antenna": {
+    "heading": "Eriali / ere",
+    "specs": "Awọn iwọn: 6 m (iwọn ila opin) ati 1.2m (giga)<br /> Iwọn: 46 kg<br /> Ohun elo: aluminiomu, iposii mirrored ọkọ, goolu aluminiomu dome daduro nipasẹ kan scaffolding be."
+  },
+  "radio": {
+    "heading": "Redio alaye lẹkunrẹrẹ",
+    "specs": "Isalẹ: 468,5 MHz<br /> Awoṣe: CSS<br /> Bandiwidi: TBD"
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

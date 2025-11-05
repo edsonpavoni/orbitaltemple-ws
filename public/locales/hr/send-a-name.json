@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "dok ulaziš\nu ritual\nslanja imena\nu\norbitalni hram\nu svemiru\nudahni\n",
+    "button": "Spreman sam"
+  },
+  "nameInput": {
+    "title": "upišite ime",
+    "subtitle": "uzdići će se do Orbitalnog hrama u svemiru.",
+    "placeholder": "ime",
+    "button": "pusti da se uzdigne"
+  },
+  "emailInput": {
+    "title": "upišite svoju e-poštu",
+    "subtitle": "pa dobijete poruku kada se ime pojavi u usponu.",
+    "placeholder": "vaša e-pošta",
+    "button": "gotovo je"
+  },
+  "loading": {
+    "alt": "Učitavanje"
+  },
+  "success": {
+    "text": "Ime\n{{name}}\nje sada u redu čekanja\nza uzašašće.\nKada se\nhram u svemiru\nporavna s\nnašom antenom\nna Zemlji\nposlat ćemo\nime\ni primit ćete\nporuku."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital Temple",
+    "subtitle": "bụ ihe osise na satịlaịtị,\nna-achọ ịbụ ụlọ nsọ na-achịkọta ọnụ,\nn'ebe a na-apụghị iru mgbidi."
+  },
+  "ritual": {
+    "label": "ememe"
+  },
+  "cta": {
+    "link": "Ma, ụlọ nsọ ọzọ?",
+    "arrowAlt": "akụ"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

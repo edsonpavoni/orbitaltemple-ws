@@ -1,0 +1,17 @@
+{
+  "title": "Fampahalalana ara-teknika - Tempoly Orbital",
+  "heading": "Info teknika",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Habe: 50x58x64 mm<br /> 1P PocketQube<br /> lanja: 245 g<br /> Fitaovana: aluminium, volamena, fiberglass, ary singa elektronika.<br /> Orbit: 525 ± 25 km; fironany: SSO 97.6 ± 0.1°<br /> Launcher: PSLV (Vehicle Launch Satellite Polar) tantanin&#39;ny ISRO"
+  },
+  "antenna": {
+    "heading": "Antenna/Sculpture",
+    "specs": "Habe: 6 m (savaivony) e 1.2m (haavo)<br /> lanja: 46 kg<br /> Fitaovana: aliminioma, birao fitaratra epoxy, dome aluminium volamena mihantona amin&#39;ny alàlan&#39;ny rafitra scaffolding."
+  },
+  "radio": {
+    "heading": "Radio Specs",
+    "specs": "Rohy midina: 468.5 MHz<br /> Modulation: CSS<br /> Bandwidth: TBD"
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

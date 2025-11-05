@@ -1,0 +1,43 @@
+{
+  "title": "Kalan & Open Source - Alabatoso Orbital",
+  "heading": "Kalan & Dakun dafalen",
+  "intro": {
+    "paragraph1": "fɛɛrɛ bɛɛ minnu labɛnna Orbital Temple cidenyabaara kama , olu bɛna kɛ <strong>da yelennen ye</strong> , wa u bɛna sɔrɔ ɛntɛrinɛti kan <strong>pɔrtigɛkan</strong> , <strong>tubabukan</strong> , <strong>ɛsipaɲɔlikan</strong> ani <strong>hindikan</strong> na , ka sanfɛla ɲinini ɲɛtaa sabati <strong>diɲɛ Saheli</strong> kɔnɔ Misiyɔn kura ni porozɛ kura bɛ se ka baara kɛ ni Orbital Temple ye k’a kɛ u yɛrɛ ka seko ni dɔnko walima dɔnniya kɔlɔsili jusigilan ye.",
+    "paragraph2": "A ka kalanko cidenyabaara hukumu kɔnɔ, Orbital Temple bɛna kan caman kalan fu, sateliti jɔcogo n’a lasecogo kan. A bɛna kɛ bololabaara ye walasa ka sateliti fɛɛrɛw dɔn ani k’u bila baara la. Mɔgɔ o mɔgɔ si tɛmɛna san <strong>16</strong> kan, o tigi bɛ se k’a yɛrɛ ka sateliti dilan, ka seko ni dɔnko tariku dɔn sankolo la, ka hakilina jɔnjɔnw dɔn ɛntɛrinɛti, mekaniki ani sanfɛla dɔnniya kan, o la, porozɛw musakabɔcogo ani antɛni jɔcogo walasa ka kumaɲɔgɔnya kɛ ni satelitiw ye minnu bɛ dugukolo lamini na."
+  },
+  "spaceGap": {
+    "heading": "Mun na nin nafa ka bon: Yɔrɔ danfara",
+    "paragraph1": "<strong>&quot;Space Gap&quot;</strong> daɲɛ bɛ tali kɛ farali la jamana yiriwalenw ni ɲɔgɔn cɛ minnu bɛ se ka se ka fɛɛrɛbɔ siraw sɔrɔ minnu bɛ sɔrɔ sankolola ɲinini fɛ, ani jamana yiriwalenw minnu tɛ se ka nin fɛɛrɛ ninnu sɔrɔ. Jamana minnu bɛ Duniya Saheliyanfan na, olu ka kan ka wariba sara jamana wɛrɛw ka gɔfɛrɛnamanw walima tɔnw ma walasa ka kunnafoniw sɔrɔ jɔnjɔnw sɔrɔ minnu bɛ bɔ sateliti fɛɛrɛw fɛ.",
+    "paragraph2": "Sanfɛla fɛɛrɛ bɛ nafa caman lase mɔgɔ ma: satelitiw bɛ dɛmɛ don ka yiri tigɛcogo juguw kɛlɛ, ka mɔni kɛ cogo bɛnbali la, ani kungosogow feereli sariya siratigɛ la, o minnu bɛ bɛn <strong>dɔrɔmɛ miliyari 73 ni kɔ ma san kɔnɔ</strong> . U bɛ kunnafoni nafamaw di waati cogoya, ji sɔrɔcogo ani balo sɔrɔcogo kan. Satelitiw bɛ kɛ sababu ye ka jiko ni sɛnɛ kɛcogo tigitigiw kɛ, wa u bɛ dɛmɛ don ka balawuw bali. Sanfɛla baara bɛ se ka <strong>baarakɛyɔrɔ miliyɔn 1</strong> dabɔ <strong>san 2030</strong> , o bɛɛ n’a ta, o cogoyaw bɛ to ka sɔrɔ mɔgɔ caman bolo Diɲɛ Saheli kɔnɔ.",
+    "paragraph3": "Ni an ye fɛɛrɛ kuraw ni kalan di, an b’a ɲini ka yɔrɔ sɔrɔli kɛ demokarasi ye, ka fanga di bɔnsɔn kura ma, u ka se ka sugo kɛ sankolo kɔfɛ."
+  },
+  "empowering": {
+    "heading": "Se ka fanga di mɔgɔw ma minnu bɛna bɔ mɔgɔw la",
+    "intro": "An bɛna sanfɛla ɲininikɛlaw bɔnsɔn nataw kalan u yɛrɛ ka satelitiw dilanni n’u lasecogo la, ka barokun nafamaw ɲɛfɔ i n’a fɔ :",
+    "topics": {
+      "history": "<strong>Sankolola seko ni dɔnko tariku :</strong> Seko ni dɔnko satelitiw ni sankolola seko ni dɔnko baarakɛminɛnw bɔnsɔnw faamuyali.",
+      "concepts": "<strong>Hakilila jɔnjɔnw:</strong> <strong>ArtSat</strong> (sateliti seko ni dɔnko), <strong>Open Source</strong> sanfɛla fɛɛrɛbɔ, ani <strong>Space Gap</strong> .",
+      "missions": "<strong>Sanfɛla cidenyabaara :</strong> Misiyɔn dɔ hakilinata n’a labɛncogo, ani jɛkulu dɔ sigicogo walasa k’a waleya.",
+      "electronics": "<strong>Ɛntɛrinɛti sankolo la :</strong> Ɛntɛrinɛti yɔrɔw hakilina jɔnjɔnw minnu bɛ se ka balo ani ka baara kɛ sankolo lamini na.",
+      "mechanics": "<strong>Mekaniki minnu bɛ sankolo la:</strong> Ka faamuyali sɔrɔ jɔli ni masinko wajibiyalenw na sateliti dilanni na.",
+      "orbits": "<strong>Yɔrɔw ni bɔgɔdaga:</strong> Yɔrɔ suguya wɛrɛw ani bɔgɔdaga dilanbagaw sugandicogo i ka cidenyabaara kama.",
+      "financing": "<strong>Nafolo sɔrɔcogo:</strong> Nafolo ni nafolo sɔrɔcogo walasa k’i ka sateliti bila sen kan. O kalan in bɛna nafolo sɔrɔ walasa ka nafolo sɔrɔ i ka laseli kama, ka kalandenw dɛmɛ u ka porogaramuw ni dɛmɛ sɔrɔ ka bɔ diɲɛ tɔnba dɔw la minnu bɛ dɔnnikɛla kamalenninw ni kalandenw dɛmɛ u ka satelitiw cili la sankolo la.",
+      "groundStation": "<strong>Dugukolo kan garasi yiriwali:</strong> Antɛni jɔcogo walasa ka kumaɲɔgɔnya kɛ ni Orbital Temple ani sateliti wɛrɛw ye."
+    }
+  },
+  "technology": {
+    "heading": "Fɛnɲɛnɛmako: PocketQube Satelitiw",
+    "paragraph1": "Kalandenw bɛna baara kɛ ni <strong>PocketQube</strong> satelitiw ye, o ye nanosateliti sariya ye min janya ye <strong>santimɛtɛrɛ 5</strong> dɔrɔn ye, a girinya bɛ se <strong>250g</strong> ma . Hali n’u bonya ka dɔgɔ, PocketQubes ye baarakɛminɛn barikamaw ye minnu bɛ Se ka Dugukolo kɔlɔsili, kɔlɔsili ani kumaɲɔgɔnya Kɛ.",
+    "paragraph2": "O sateliti fitinin ninnu bɛ se ka kɛ fɛn caman ye diɲɛ yɛrɛ kɔnɔ, k’a ta dɔnniya ɲininiw na waati jiginni kan fo ka se farafinna jamanaw ni ɲɔgɔn cɛ kumaɲɔgɔnya ma. Ikomi u ka dɔgɔ ani u ka nɔgɔn, u jɔli n’u daminɛni ka nɔgɔn, o b’a to yɔrɔ bɛ se ka sɔrɔ kalandenw, ɲininikɛlaw ani dɔnkotigiw bolo diɲɛ fan bɛɛ."
+  },
+  "globalAccess": {
+    "heading": "Duniya Seleke Naani, Ka Daminɛ Duniya Saheli la",
+    "paragraph1": "kalan in bɛna kɛ mɔgɔ o mɔgɔ fɛ min <strong>si bɛ san 16 la walima ka tɛmɛ o kan</strong> , <strong>fu</strong> pewu . An bɛ ka daminɛ ni kɔnɔkow ye <strong>Pɔrtigɛkan</strong> , <strong>Ɛsipaɲɔlikan</strong> , <strong>Angilɛkan</strong> , ani <strong>Hindikan</strong> na , ni labɛnw ye walasa ka dɔ fara kan wɛrɛw kan ni porogaramu bɛ ka bonya.",
+    "paragraph2": "An ka cidenyabaara bɛ daminɛ Duniya Saheliyanfan na, ka taa diɲɛ fan bɛɛ la, k’a lajɛ ko sanfɛla ɲininikɛlaw bɔnsɔn nataw bɛ bɔ Dugukolo fan bɛɛ la."
+  },
+  "callToAction": {
+    "heading": "An Dɛmɛ k’o kɛ",
+    "content": "O kalan bolodalen in bɛ ka yiriwa sisan. An bɛ jɛɲɔgɔnw ni dɛmɛbagaw ɲini minnu ni an ka yelifɛn bɛ ɲɔgɔn fɛ, n’o ye ka demokarasi sɔrɔ ka sanfɛla fɛɛrɛw sɔrɔ. Ni aw walima aw ka jɛkulu b’a fɛ ka dɛmɛ don nin baara in na, aw bɛ se ka taa an <a href=\"/support\">ka dɛmɛ yɔrɔ</a> la walasa ka jɛɲɔgɔnya siraw dɔn."
+  },
+  "imageAlt": "Sateliti min bɛ wele ko Orbital Temple"
+}

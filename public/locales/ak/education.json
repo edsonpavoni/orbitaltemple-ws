@@ -1,0 +1,43 @@
+{
+  "title": "Nhomasua & Open Source - Orbital Asɔredan",
+  "heading": "Nhomasua & Open Source",
+  "intro": {
+    "paragraph1": "Mfiridwuma a wɔayɛ ama Orbital Asɔredan asɛmpatrɛw adwuma no nyinaa bɛyɛ <strong>nea wɔabue ano</strong> na wobetumi anya wɔ intanɛt so wɔ <strong>Portugal</strong> kasa , <strong>Borɔfo kasa</strong> , <strong>Spania kasa</strong> ne <strong>Hindi kasa</strong> mu , na ɛbɛma ahunmu nhwehwɛmu anya nkɔso wɔ <strong>Wiase Nyinaa Kesee Fam</strong> . Asɛmpatrɛw ne nnwuma foforo betumi de Orbital Temple adi dwuma sɛ fapem ama wɔn ankasa adwinni anaa nyansahu mu sɔhwɛ ahorow.",
+    "paragraph2": "Sɛ́ ne nkyerɛkyerɛ asɛmpatrɛw adwuma no fã bi no, Orbital Temple bɛma kasa ahorow pii adesua a wontua hwee a ɛfa sɛnea wɔyɛ satellite na wɔtow gu ho. Ɛbɛyɛ hokwan a wɔde nsa yɛ a wɔde besua satellite mfiridwuma ho ade na wɔde adi dwuma. Obiara a wadi boro mfeɛ <strong>16</strong> no bɛtumi ayɛ n’ankasa satellite, asua adwinni ho abakɔsɛm wɔ ahunmu, ɛlɛtrɔnik mfiri, mfiridwuma ne ahunmu nyansahu ho adwene titire, a sɛdeɛ wɔde sika bɛtua nnwuma ne sɛdeɛ wɔbɛyɛ antena a wɔde bɛdi nkitaho ne satellite a ɛwɔ ahunmu no ka ho."
+  },
+  "spaceGap": {
+    "heading": "Nea Enti a Eyi Ho Hia: Ahunmu Nsonsonoe",
+    "paragraph1": "Asɛmfua <strong>&quot;Ahunmu Kwan&quot;</strong> kyerɛ mpaepaemu a ɛda aman a wɔanya nkɔsoɔ a wɔbɛtumi anya mfiridwuma hokwan a ɛnam ahunmu nhwehwɛmu so nya, ne aman a afei na wɔrenya nkɔsoɔ a wɔnnya saa mfiridwuma yi ntam. Ɛsɛ sɛ aman a wɔwɔ Wiase Nyinaa Kesee Fam no tua sika kɛse ma amannɔne aban anaa nnwumakuw ma wonya nsɛm atitiriw a wɔde satellite mfiridwuma ayɛ.",
+    "paragraph2": "Ahunmu mfiridwuma de mfaso horow a ɛho hia ma: satellite ahorow boa ma wɔko tia nnua a mmara mma ho kwan, mpataayi a mmara mma ho kwan, ne wuram mmoa aguadi a mmara mma ho kwan, a egyina hɔ ma bɛboro <strong>dɔla ɔpepepem 73 afe biara</strong> . Wɔde nsɛm a ɛho hia a ɛfa wim tebea, nsu a wɔyɛ, ne aduan a wobenya ho ma. Satellite ma wotumi de nsu gugu nnɔbae so pɛpɛɛpɛ ne kuayɛ ho akwan horow, na ɛboa ma wosiw abɔde mu asiane ano. Ahunmu adwuma no betumi ama wɔanya <strong>nnwuma ɔpepem 1</strong> wɔ <strong>afe 2030</strong> mu , nanso hokwan ahorow yi da so ara yɛ nea nnipa pii a wɔwɔ Wiase Nyinaa Kesee Fam ntumi nnya.",
+    "paragraph3": "Ɛdenam mfiridwuma ne nhomasua a wɔabue ano a yɛde bɛma so no, yɛde asi yɛn ani so sɛ yɛbɛma ahunmu kwan a wɔfa so kɔ hɔ no ayɛ demokrase na yɛama awo ntoatoaso foforo tumi ma wɔaso dae a ɛboro wim."
+  },
+  "empowering": {
+    "heading": "Awo Ntoatoaso a Edi Hɔ no Tumi a Wɔbɛma",
+    "intro": "Yɛbɛkyerɛ awo ntoatoaso a edi hɔ a wɔbɛhwehwɛ ahunmu no sɛnea wɔbɛyɛ wɔn ankasa satellite ahorow na wɔatow agu, na yɛaka nsɛmti a ɛho hia a nea ɛka ho ne:",
+    "topics": {
+      "history": "<strong>Adwinni ho abakɔsɛm wɔ ahunmu:</strong> Adwinni satellite ahorow ne adwinni a egyina ahunmu so no abusua mu ntease.",
+      "concepts": "<strong>Nsusuwii atitiriw:</strong> <strong>ArtSat</strong> (adwinni satellite ahorow), <strong>Open Source</strong> ahunmu mfiridwuma, ne <strong>Space Gap</strong> .",
+      "missions": "<strong>Ahunmu asɛmpatrɛw:</strong> Sɛnea wɔyɛ asɛmpatrɛw ho adwene na wɔyɛ ho nhyehyɛe, ne sɛnea wɔhyehyɛ kuw bi a wɔde bɛyɛ adwuma.",
+      "electronics": "<strong>Ɛlektrɔnik mfiri a ɛwɔ ahunmu:</strong> Nsusuwii atitiriw a ɛfa ɛlɛtrɔnik nneɛma a ebetumi atra ase na ayɛ adwuma wɔ ahunmu nneɛma a atwa yɛn ho ahyia mu ho.",
+      "mechanics": "<strong>Mfiridwuma wɔ ahunmu:</strong> Ntease a ɛfa nhyehyɛe ne mfiri a wɔhwehwɛ wɔ satellite nhyehyɛe ho.",
+      "orbits": "<strong>Orbits ne launchers:</strong> Orbits ahorow ne sɛnea wobɛpaw launch providers ama w’asɛmpatrɛw adwuma no.",
+      "financing": "<strong>Sikasɛm ho akwan:</strong> Sɛnea wobɛnya sika ne nneɛma a wode bɛto wo satellite no. Adesua no bɛma wɔanya nneɛma a wɔde bɛnya sika a wode bɛto hɔ, aboa asuafoɔ ma wɔanya nhyehyɛeɛ ne mmoa a ɛfiri amanaman ntam asoɛeɛ a ɛboa nyansahufoɔ nkumaa ne asuafoɔ ma wɔde wɔn satellite bɛkɔ ahunmu.",
+      "groundStation": "<strong>Asase so gyinabea nkɔso:</strong> Sɛnea wɔyɛ antenna a wɔde bɛdi nkitaho ne Orbital Asɔredan ne satellite afoforo."
+    }
+  },
+  "technology": {
+    "heading": "Mfiridwuma no: PocketQube Satellite ahorow",
+    "paragraph1": "Asuafoɔ bɛsua sɛ wɔde <strong>PocketQube</strong> satellites, nanosatellite gyinapɛn a ne kɛseɛ yɛ <strong>5cm3</strong> pɛ na ne mu duru bɛyɛ <strong>250g</strong> bɛyɛ adwuma. Ɛmfa ho sɛ wɔn kɛse sua no, PocketQubes yɛ nnwinnade a tumi wom a etumi hwɛ Asase so, hwɛ so, na wotumi di nkitaho.",
+    "paragraph2": "Saa satellite nketewa yi wɔ nneɛma pii a wɔde di dwuma ankasa, efi nyansahu mu nhwehwɛmu a wɔyɛ wɔ wim nsakrae ho so kosi nsasepɔn ntam nkitahodi so. Esiane sɛ wɔyɛ nketewa na emu yɛ hare nti, ne bo yɛ den sɛ wobesi na wɔatow agu, na ɛma sukuufo, nhwehwɛmufo, ne mfoniniyɛfo a wɔwɔ wiase nyinaa betumi anya baabi."
+  },
+  "globalAccess": {
+    "heading": "Wiase Nyinaa Nkɔso, Efi ase fi Wiase Nyinaa Kesee Fam",
+    "paragraph1": "Obiara a <strong>wadi mfe 16 anaa nea ɛboro saa</strong> betumi anya adesua no , <strong>na wontua hwee koraa</strong> . Yɛde nsɛm a ɛwɔ <strong>Portugal</strong> , <strong>Spania</strong> , <strong>Borɔfo</strong> , ne <strong>Hindi</strong> , na yɛrefi ase, na yɛayɛ nhyehyɛe sɛ yɛbɛtrɛw mu akɔ kasa afoforo mu bere a dwumadi no renya nkɔso no.",
+    "paragraph2": "Yɛn asɛmpatrɛw adwuma no fi ase wɔ Wiase Nyinaa Kesee Fam na ɛtrɛw kɔ wiase nyinaa, hwɛ hu sɛ awo ntoatoaso a edi hɔ a wɔhwehwɛ ahunmu no fi Asase afanan nyinaa."
+  },
+  "callToAction": {
+    "heading": "Boa Yɛn Ma Eyi Nsi",
+    "content": "Mprempren wɔreyɛ saa nkyerɛkyerɛ nhyehyɛe yi. Yɛrehwehwɛ ahokafoɔ ne wɔn a wɔde mmoa bɛma a wɔne yɛn anisoadehunu a ɛne sɛ yɛbɛma ahunmu mfiridwuma ho kwan ayɛ demokraseɛ. Sɛ wo anaa w’ahyehyɛde no pɛ sɛ woboa saa nhyehyɛe yi a, yɛsrɛ wo kɔ yɛn <a href=\"/support\">mmoa krataafa no</a> so na sua ayɔnkofa hokwan ahorow ho ade."
+  },
+  "imageAlt": "Orbital Asɔredan Satellite a Wɔde Di Dwuma"
+}

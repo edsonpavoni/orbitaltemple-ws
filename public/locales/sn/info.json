@@ -1,0 +1,17 @@
+{
+  "title": "Ruzivo rwehunyanzvi - Orbital Tembere",
+  "heading": "Technical Info",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Zviyero: 50x58x64 mm<br /> 1P PocketQube<br /> Kurema: 245 gr<br /> Zvishandiso: aluminium, goridhe, fiberglass, uye zvemagetsi zvikamu.<br /> Orbit: Altitude 525 ± 25 km; kurerekera: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Sculpture",
+    "specs": "Zviyero: 6 m (dhayamita) uye 1.2m (kureba)<br /> Kurema: 46 kg<br /> Zvishandiso: aluminium, epoxy mirrored board, goridhe aruminiyamu dome yakamiswa kuburikidza nechikafu chimiro."
+  },
+  "radio": {
+    "heading": "Radio Zvinodiwa NASA-Catalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Fona: Mamiriro: RATIDZA 2025"
+  },
+  "imageAlt": "Technical Info Dhiyagiramu"
+}

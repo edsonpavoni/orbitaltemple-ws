@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "di art wok we dɛn mek",
+    "sendAName": "sɛn wan nem",
+    "fromTheArtist": "frɔm di atis",
+    "yetAnotherTemple": "yet, ɔda tɛmpul?",
+    "howItWorks": "aw i de wok",
+    "spaceLaunch": "spɛs lanch ɛn risk dɛn",
+    "briefHistory": "shɔt istri bɔt art na spes",
+    "education": "edukeshon & opin sos",
+    "sustainability": "sastaynabiliti ɛn spɛs dɛbris",
+    "press": "prɛs & midia",
+    "team": "tim",
+    "partners": "patna dɛn",
+    "support": "sɔpɔt",
+    "technicalInfo": "teknikol infomehshon"
+  },
+  "ritual": {
+    "label": "ritual we dɛn kin du",
+    "ariaLabel": "Enta di ritual - Send wan nem to di Orbital Temple"
+  },
+  "footer": {
+    "credits": "Orbital Temple na wan art wok we Edson Pavoni mek, we dɛn mek wit kɔlabɔreshɔn wit Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ɛn ɔl di wan dɛn we de kɔntinyu fɔ sɛn nem to dis tɛmpul."
+  }
+}

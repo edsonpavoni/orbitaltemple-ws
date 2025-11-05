@@ -1,0 +1,13 @@
+{
+  "title": "ተሓበሩ - ኦርቢታል ቤተ መቕደስ",
+  "heading": "ምስ ተላዕለ ተሓበረ",
+  "description": "ዕለት 28 ሕዳር 2025 ድማ ቤተ መቕደስ ኦርቢታል ክድይብ እዩ።<br> ኢ-መይልኩም ግደፉ፡ ኣብ ጠፈር ምስ በጽሐ ክንነግረኩም ኢና።",
+  "form": {
+    "emailPlaceholder": "your@email.com ዝብል ጽሑፍ ኣሎ።",
+    "sendButton": "ስደድ",
+    "sendingButton": "ምልኣኽ...",
+    "successMessage": "ምስ ዓረገት ክንበጽሓኩም ኢና።",
+    "errorMessage": "ገለ ነገር ተጋግዩ። በጃኹም ደጊምኩም ፈትኑ።"
+  },
+  "backLink": "← ናብ ቁጽሪ ንድሕሪት ተመለስ"
+}

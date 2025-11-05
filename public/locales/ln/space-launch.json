@@ -1,0 +1,16 @@
+{
+  "title": "Lancement spatiale - Temple ya orbital",
+  "heading": "Lancement ya espace",
+  "intro": "Temple Orbital esengeli ko lancer na PSLV (Polar Satellite Launch Vehicle) le 28 novembre 2025 wuta Centre spatial Satish Dhawan na Sriharikota, Inde.",
+  "partnership": "Lancement ya Orbital Temple ezali partenariat entre NewSpace India Limited (NSIL), Compagnie ya Gouvernement ya Inde na se ya Département ya spatial, Antrix Corporation, na artiste. Collaboration oyo ezali komonisa likambo ya ntina mpo na art na exploration spatiale, kosangisa programme spatial ya Inde na vision artistique ya inclusivité radicale.",
+  "risks": {
+    "heading": "Makama oyo ekoki kobima",
+    "paragraph1": "Satellite yango etongamaki mpo na koyika mpiko na ba conditions ya vibration ya makasi mpe ba cycles thermiques, mpe esali ba tests ya makasi. Kasi, ba lancements spatiaux ememaka makama oyo euti na yango. Soki satellite ebebi na tango ya lancement to déploiement, to soki elongi te kosala communication na ba stations terrestres na biso, tokosala pona ko résoudre ba problèmes pe ko résoudre ba problèmes nionso. Satellite ezali na ba systèmes redundants mpe ba protocoles ya sauvegarde oyo ebongisami mpo na ko maximiser ba chances ya succès ya mission.",
+    "paragraph2": "Longola yango, satellite ekoki kotikala na orbite na boumeli ya mbula 10 te soki makambo ya mopɛpɛ to makambo mosusu esalaka ete orbite epɔla liboso. Atako tosali ete eumelaka ata mbula zomi, bomoi ya solosolo etaleli makambo oyo tokoki kopekisa mpenza te.",
+    "paragraph3": "Soki bobandi ya yambo elongi te, to soki tozali na makoki te ya kokokisa mission oyo ndenge ekanamaki, tokoluka banzela mosusu ya kokende liboso, oyo ekoki kozala na kati ya komeka ya mibale ya bobandi na budget oyo ezali, boyokani na ba missions mosusu, to mikanda ya komeka lokola eteni ya lisolo ya mosala ya mayele na ntina ya mposa mpe ndelo."
+  },
+  "imageAlts": {
+    "india": "Centre spatial ISRO, na Inde",
+    "satellite": "Satellite ya Tempelo ya Orbital"
+  }
+}

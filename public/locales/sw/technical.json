@@ -1,0 +1,17 @@
+{
+  "title": "Maelezo ya Kiufundi - Hekalu la Orbital",
+  "heading": "Maelezo ya Kiufundi",
+  "satellite": {
+    "heading": "Satelaiti",
+    "specs": "Vipimo: 50x58x64 mm<br /> 1P PocketQube<br /> Uzito: 245 gr<br /> Vifaa: alumini, dhahabu, fiberglass, na vipengele vya elektroniki.<br /> Obiti: Urefu 525 ± 25 km; mwelekeo: SSO 97.6 ± 0.1°<br /> Kizinduzi: PSLV (Gari la Uzinduzi wa Satelaiti ya Polar) inayoendeshwa na ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Mchoro",
+    "specs": "Vipimo: 6 m (kipenyo) na 1.2m (urefu)<br /> Uzito: 46 kg<br /> Vifaa: alumini, bodi ya kioo ya epoxy, dome ya alumini ya dhahabu iliyosimamishwa kupitia muundo wa kiunzi."
+  },
+  "radio": {
+    "heading": "Vipimo vya Redio",
+    "specs": "Kiunga cha chini: 468.5 MHz<br /> Urekebishaji: CSS<br /> Kipimo cha data: TBD"
+  },
+  "imageAlt": "Satelaiti ya Hekalu la Orbital"
+}

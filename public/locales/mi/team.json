@@ -1,0 +1,61 @@
+{
+  "title": "Kapa - Orbital Temple",
+  "heading": "Kapa",
+  "artist": "Edson Pavoni, kaitoi",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Kaihanga Kaiwhakahaere",
+      "members": "Sati Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Pūnaha Hangarau",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Hangarau Hiko",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Pūmanawa",
+      "members": "Ko Honatana Kerubina"
+    },
+    "design": {
+      "heading": "Hoahoa me te Hangahanga",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Tā 3D",
+      "members": "Nga Tikanga Totoi, i raro i te kaiarahi o Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Whakaaturanga Ahu-3",
+      "members": "Guilherme Bullejos & RiseNy&nga hoa"
+    },
+    "research": {
+      "heading": "Rangahau",
+      "members": "Roberta Savian Rosa raua ko Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Whakaputa Whakaaturanga, Whakaahua me te Hanga Ihirangi",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Te Whakaaturanga Hiraka o te Whakaaturanga",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Kaupapa Mātauranga",
+      "members": "Mokowā whakaaro"
+    },
+    "communication": {
+      "heading": "Rōpū Whakawhitiwhiti",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Nga mihi nui",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Rafael Pedro Pudigal Conceitos Sólidos, RiseNY&nga hoa, IdeaSpace",
+  "imageAlt": "Orbital Temple Satellite"
+}

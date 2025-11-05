@@ -1,0 +1,17 @@
+{
+  "title": "Teknikaj Informoj - Orbita Templo",
+  "heading": "Teknikaj Informoj",
+  "satellite": {
+    "heading": "Satelito",
+    "specs": "Dimensioj: 50x58x64 mm<br /> 1P PocketQube<br /> Pezo: 245 gramoj<br /> Materialoj: aluminio, oro, vitrofibro kaj elektronikaj komponantoj.<br /> Orbito: Altitudo 525 ± 25 km; inklino: SSO 97.6 ± 0.1°<br /> Lanĉilo: PSLV (Polusa Satelita Lanĉveturilo) funkciigita de ISRO"
+  },
+  "antenna": {
+    "heading": "Anteno/Skulptaĵo",
+    "specs": "Dimensioj: 6 m (diametro) kaj 1,2 m (alteco)<br /> Pezo: 46 kg<br /> Materialoj: aluminio, epoksi-spegulita tabulo, ora aluminia kupolo pendanta tra skafalda strukturo."
+  },
+  "radio": {
+    "heading": "Radio-Specifoj",
+    "specs": "Malsuprenligo: 468.5 MHz<br /> Modulado: CSS<br /> Bendlarĝo: TBD"
+  },
+  "imageAlt": "Enorbita Templa Satelito"
+}

@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "ge o tsena\nmoetlo wa moetlo\ngo romela leina\nka gare ga\ntempele ya orbital\nsebakeng\ntšea\na mohemo",
+    "button": "ke itokišitše"
+  },
+  "nameInput": {
+    "title": "thaepa leina",
+    "subtitle": "e tla rotogela Tempeleng ya Orbital sebakabakeng.",
+    "placeholder": "leina",
+    "button": "a e rotoge"
+  },
+  "emailInput": {
+    "title": "thaepa imeile ya gago",
+    "subtitle": "ka fao o hwetša molaetša ge leina le rotoga.",
+    "placeholder": "imeile ya gago",
+    "button": "e dirilwe"
+  },
+  "loading": {
+    "alt": "Go laetša"
+  },
+  "success": {
+    "text": "leina leo\n{{leina}}\nbjale e beilwe mothalong\nbakeng sa go rotogela godimo.\nge go\ntempele sebakeng\naligns, le\neriele ya rena\nmo Lefaseng\nre tla romela\nleina leo\ngomme o tla amogela\nmolaetša."
+  }
+}

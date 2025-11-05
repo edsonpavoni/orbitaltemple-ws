@@ -1,0 +1,50 @@
+{
+  "title": "Patna dɛn - Ɔrbital Tɛmpl",
+  "heading": "Patna dɛn",
+  "intro": "Orbital Temple de tru di jenarositi, ɛkspɛriɛns, ɛn vishɔn fɔ ɛkstra ɔdinari patna dɛn. Frɔm injinɛri sataylayt dɛn to kraft narratives, frɔm opin domɔt dɛn na fa fa kɔntri dɛn to fɔ trowe drim dɛn wit gold, ɛni wok we dɛn de du togɛda de mek dis tɛmpul kam nia di sta dɛn.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Patnɛs dɛn",
+      "description": "Kɔmyunikeshɔn, intagreted ɛkspiriɛns ɛn wɔndaful 3D rɛnd imej we bin briŋ di sataylayt in vishɔn to layf bifo i ɛva tɔch di voyd na di spes."
+    },
+    "highestMantra": {
+      "name": "Wi Mantra we Ay Pas Ɔl",
+      "description": "Na Sathi Roy de lid am, we de kɔnɛkt Ɔbital Tɛmpl wit India in spiritual ɛn atis kɔmyuniti dɛn. Opin rod fɔ gɛda mɔni, kɔlchɔ chenj, ɛn wan At Basel ɛgzibishin afta di Novɛmba 2025 lonch."
+    },
+    "allToSpace": {
+      "name": "Ɔl to Space",
+      "description": "Brazilian smɔl sataylayt spɛshal pipul dɛn. Fo ia kolaboreshɔn fɔ bil wan opin sɔs hadwae pletfɔm ɛn payɔnia di prɔses fɔ sɛn art insay ɔbit frɔm di Globɛl Sawt."
+    },
+    "isro": {
+      "name": "ISRO na di wɔl",
+      "description": "Indian Spays Risach Ɔganayzeshɔn. Lanch prɔvayda fɔ di PSLV mishɔn we de kɛr Ɔbital Tɛmpl to san-sinkron ɔbit insay Novɛmba 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biɛnal we dɛn kin gɛt",
+      "description": "Porto Alegre, we de na Brazil. Na Masɛlɔ Dantas bin kia fɔ am wit di ɛstɛt kuratɔ dɛn we nem Laura Cattani, Munir Klamt, Tarsila Riso, ɛn Karɔlina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Wokshɔp",
+      "description": "Di sataylayt divɛlɔpmɛnt tim bin fɔm di tɛm we dɛn bin de du di II ArtSat Wokshɔp. Na Fabiane M. Borges bin kɔdinɛt am, na Lázaro Camargo bin tich am, na Ítalo Pinto Rodrigues bin wok togɛda, ɛn Walter Abrahão dos Santos bin de supavayz am."
+    },
+    "solidConcepts": {
+      "name": "Sɔlid Kɔnsɛpt dɛn",
+      "description": "Na Eduardo Dias bin de bifo am. Ɔl di 3D printin ɛn gold maykro kastin de wok fɔ di skapul dome, we de chenj dijital drim dɛn to prɛshɔ mɛtal rialiti."
+    },
+    "ideaSpace": {
+      "name": "Aydia Spays fɔ di ples",
+      "description": "Brazilian edyukeshɔn statap we de divɛlɔp di Quebrada Space Program kɔrikulu, we rɛdi fɔ aplay to ay skul studɛnt dɛn ɔlsay na Brazil."
+    }
+  },
+  "closing": "Yu intres fɔ patna wit Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Yu go ebul fɔ du am</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo fɔ di wan dɛn we de wok",
+    "highestMantra": "Wi Mantra Logo we Ay pas ɔl",
+    "allToSpace": "Ɔl to Space Logo we de na di wɔl",
+    "isro": "Logo na ISRO",
+    "mercosul": "13th Mercosur Biɛnal Logo we dɛn kin gɛt",
+    "inpe": "INPE ArtSat Wokshɔp Logo",
+    "solidConcepts": "Sɔlid Kɔnsɛpt dɛn Logo",
+    "ideaSpace": "Idea Space Logo fɔ di ples"
+  }
+}

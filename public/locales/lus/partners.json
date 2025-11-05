@@ -1,0 +1,50 @@
+{
+  "title": "A thawhpui te - Orbital Temple",
+  "heading": "Partner te an ni",
+  "intro": "Orbital Temple hi thawhpui mak tak takte thilphalna, thiamna leh vision hmanga awm a ni. Engineering satellite atanga crafting narratives thlengin, ram hla tak takah kawngkhar hawn atanga rangkachak hmanga mumang paih thlengin, thawhhona tin hian he biak in hi arsi hnaih zawkah a hruai lut a ni.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners te chuan an rawn ti a",
+      "description": "Communication, integrated experiences leh 3D render imagery mak tak tak te chuan satellite hian space a khawih hmain a vision chu a ti nung a ni."
+    },
+    "highestMantra": {
+      "name": "Kan Mantra sang ber",
+      "description": "Sathi Roy kaihhruaina hnuaiah Orbital Temple chu India rama thlarau lam leh artistic community te nen a thlunzawm a ni. November 2025-a tlangzarh a nih hnua sum thawhkhawmna, culture exchange, leh Art Basel exhibition neihna tur kawng hawn."
+    },
+    "allToSpace": {
+      "name": "A zawng zawng chu Space-ah a awm",
+      "description": "Brazil rama satellite tenau lama specialist te an ni. Kum li chhung zet thawhhona tha tak neiin open source hardware platform siam a, Global South atanga art orbit-a thawn chhuahna kawngah hmahruaitu a ni."
+    },
+    "isro": {
+      "name": "ISRO a ni",
+      "description": "Indian Space Research Organisation chuan a rawn ti a. November 2025 khan Orbital Temple chu ni-synchronous orbit-a phurtu PSLV mission atana launch provider a ni."
+    },
+    "mercosul": {
+      "name": "Mercosur Biennial vawi 13-na neih a ni",
+      "description": "Brazil khawpui Porto Alegre-ah a awm. Marcello Dantas-a curate niin, assistant curator Laura Cattani, Munir Klamt, Tarsila Riso, leh Carollina Lauriano te nen an thawk dun a ni."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat hnathawhna hmunpui a ni",
+      "description": "Satellite siamtu team hi II ArtSat Workshop neih chhung khan din a ni. Fabiane M. Borges-a kaihhruai, Lázaro Camargo-a kaihhruai, Ítalo Pinto Rodrigues-a thawhpui, Walter Abrahão dos Santos-a enkawl."
+    },
+    "solidConcepts": {
+      "name": "Thurin nghet tak tak (Solid Concepts) te",
+      "description": "Eduardo Dias-a kaihhruaina hnuaiah a awm. 3D printing leh gold micro casting zawng zawng hian sculptural dome atan hna a thawk vek a, digital mumang chu precious metal reality-ah a chantir vek a ni."
+    },
+    "ideaSpace": {
+      "name": "Ngaihtuahna hmun (Idea Space) a ni",
+      "description": "Brazilian education startup chuan Quebrada Space Program curriculum siamin, Brazil ram puma high school zirlai te tana hman theih tura inpeih a ni."
+    }
+  },
+  "closing": "Orbital Temple nen thawhhona tha tak neih i duh em? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Hmangaihna hi han phar rawh</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners te Logo a awm bawk",
+    "highestMantra": "Kan Mantra Logo sang ber",
+    "allToSpace": "All to Space Logo a awm vek",
+    "isro": "ISRO Logo a awm",
+    "mercosul": "Mercosur Biennial Logo vawi 13-na a ni",
+    "inpe": "INPE ArtSat Workshop Logo a awm bawk",
+    "solidConcepts": "Solid Concepts Logo a awm bawk",
+    "ideaSpace": "Idea Space Logo a awm a"
+  }
+}

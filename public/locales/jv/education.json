@@ -1,0 +1,43 @@
+{
+  "title": "Pendidikan & Open Source - Candi Orbital",
+  "heading": "Pendidikan & Open Source",
+  "intro": {
+    "paragraph1": "Kabeh teknologi sing dikembangake kanggo misi Kuil Orbital bakal <strong>mbukak sumber</strong> lan kasedhiya online ing <strong>basa Portugis</strong> , <strong>Inggris</strong> , <strong>Spanyol</strong> , lan <strong>Hindi</strong> , nuwuhake kemajuan eksplorasi antariksa ing <strong>Global South</strong> . Misi lan proyek anyar bisa nggunakake Kuil Orbital minangka dhasar kanggo eksperimen seni utawa ilmiah dhewe.",
+    "paragraph2": "Minangka bagéan saka misi pendhidhikan, Orbital Temple bakal nawakake kursus multibahasa gratis babagan carane mbangun lan ngluncurake satelit. Iki bakal dadi kesempatan kanggo sinau babagan teknologi satelit lan praktik. Sapa wae sing umure luwih saka <strong>16</strong> taun bakal bisa mbangun satelit dhewe, sinau babagan sejarah seni ing ruang angkasa, konsep dhasar elektronik, mekanika lan ilmu ruang angkasa, kalebu carane mbiayai proyek lan carane nggawe antena kanggo komunikasi karo satelit ing orbit."
+  },
+  "spaceGap": {
+    "heading": "Napa Iki Penting: Celah Angkasa",
+    "paragraph1": "Istilah <strong>&quot;Space Gap&quot;</strong> nuduhake pamisah antarane negara maju sing bisa ngakses kesempatan teknologi sing dipikolehi liwat eksplorasi ruang angkasa, lan negara berkembang sing ora duwe akses menyang teknologi kasebut. Negara-negara ing Global South kudu mbayar jumlah sing akeh marang pamrentah utawa perusahaan asing kanggo akses dhasar menyang informasi sing diprodhuksi dening teknologi satelit.",
+    "paragraph2": "Teknologi antariksa nyedhiyakake keuntungan kritis: satelit mbantu nglawan pembalakan ilegal, nelayan ilegal, lan perdagangan satwa ilegal, sing makili luwih saka <strong>$73 milyar saben taun</strong> . Dheweke nyedhiyakake informasi penting babagan iklim, produksi banyu, lan keamanan pangan. Satelit ngaktifake irigasi tliti lan tèknik pertanian, lan mbantu nyegah bencana alam. Industri antariksa bisa nggawe nganti <strong>1 yuta lapangan kerja</strong> ing <strong>taun 2030</strong> , nanging kesempatan kasebut tetep ora bisa diakses dening akeh wong ing Global South.",
+    "paragraph3": "Kanthi nyedhiyakake teknologi lan pendhidhikan sumber terbuka, kita ngarahake demokratisasi akses menyang ruang angkasa lan nguatake generasi anyar kanggo ngimpi ngluwihi langit."
+  },
+  "empowering": {
+    "heading": "Pemberdayaan Generasi Penerus",
+    "intro": "Kita bakal mulang para penjelajah ruang angkasa generasi sabanjure babagan carane mbangun lan ngluncurake satelit dhewe, kalebu topik penting kalebu:",
+    "topics": {
+      "history": "<strong>Sejarah seni ing ruang angkasa:</strong> Ngerteni garis keturunan satelit seni lan karya seni berbasis ruang.",
+      "concepts": "<strong>Konsep inti:</strong> <strong>ArtSat</strong> (satelit artistik), teknologi ruang angkasa <strong>Open Source</strong> , lan <strong>Space Gap</strong> .",
+      "missions": "<strong>Misi ruang angkasa:</strong> Cara nggawe konsep lan ngrancang misi, lan carane nggawe tim kanggo nglakokake.",
+      "electronics": "<strong>Elektronik ing papan:</strong> Konsep dhasar komponen elektronik sing bisa urip lan bisa digunakake ing lingkungan ruang.",
+      "mechanics": "<strong>Mekanika ing angkasa:</strong> Ngerteni syarat struktural lan mekanik kanggo desain satelit.",
+      "orbits": "<strong>Orbit lan peluncur:</strong> Macem-macem jinis orbit lan cara milih panyedhiya peluncuran kanggo misi sampeyan.",
+      "financing": "<strong>Strategi pendanaan:</strong> Cara ngamanake pendanaan lan sumber daya kanggo ngluncurake satelit sampeyan. Kursus kasebut bakal nyedhiyakake sumber daya kanggo entuk pendanaan kanggo peluncuran sampeyan, ngewangi siswa nemokake program lan dana saka institusi internasional sing ndhukung ilmuwan lan siswa enom kanggo ngirim satelit menyang angkasa.",
+      "groundStation": "<strong>Pangembangan stasiun lemah:</strong> Carane mbangun antena kanggo komunikasi karo Temple Orbital lan satelit liyane."
+    }
+  },
+  "technology": {
+    "heading": "Teknologi: Satelit PocketQube",
+    "paragraph1": "Siswa bakal sinau nggarap satelit <strong>PocketQube</strong> , standar nanosatelit ukurane mung <strong>5cm³</strong> lan bobote nganti <strong>250g</strong> . Sanajan ukurane cilik, PocketQubes minangka alat sing kuat sing bisa ngamati, ngawasi, lan komunikasi Bumi.",
+    "paragraph2": "Satelit kompak iki nduweni akeh aplikasi ing donya nyata, saka riset ilmiah babagan owah-owahan iklim nganti komunikasi antarbenua. Amarga luwih cilik lan luwih entheng, luwih terjangkau kanggo dibangun lan diluncurake, nggawe papan luwih gampang diakses para siswa, peneliti, lan seniman ing saindenging jagad."
+  },
+  "globalAccess": {
+    "heading": "Akses Global, Miwiti saka Global Kidul",
+    "paragraph1": "Kursus kasebut kasedhiya kanggo sapa wae <strong>sing umure 16 taun utawa luwih</strong> , kanthi <strong>gratis</strong> . Kita miwiti karo konten ing <strong>basa Portugis</strong> , <strong>Spanyol</strong> , <strong>Inggris</strong> , lan <strong>Hindi</strong> , kanthi rencana kanggo nggedhekake menyang basa tambahan nalika program kasebut tuwuh.",
+    "paragraph2": "Misi kita diwiwiti ing Global South lan nyebar menyang jagad, kanggo mesthekake yen panjelajah ruang angkasa generasi sabanjure teka saka kabeh pojok Bumi."
+  },
+  "callToAction": {
+    "heading": "Tulung Kita Nggawe Iki",
+    "content": "Program pendidikan iki saiki lagi dikembangake. Kita ngupaya mitra lan donor sing nuduhake visi kita babagan demokratisasi akses menyang teknologi ruang angkasa. Yen sampeyan utawa organisasi sampeyan pengin ndhukung inisiatif iki, bukak <a href=\"/support\">kaca dhukungan</a> kanggo sinau babagan kesempatan kemitraan."
+  },
+  "imageAlt": "Satelit Candi Orbit"
+}

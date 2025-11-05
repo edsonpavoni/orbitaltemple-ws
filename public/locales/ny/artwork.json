@@ -1,0 +1,31 @@
+{
+  "title": "Zojambulajambula - Orbital Temple",
+  "heading": "Zojambulajambula",
+  "intro": {
+    "paragraph1": "Orbital Temple ndi satellite yokhala ndi ntchito zaluso: chikumbutso chakunja chotseguka kwa munthu aliyense wokhala ndi moyo padziko lapansi.",
+    "paragraph2": "Kupyolera mu njira zamakono, aliyense angathe kutumiza dzina la munthu ku Kachisi, kaya munthu amene anamwalira, munthu wamoyo kwambiri, kapena munthu aliyense woyenera kukumbukiridwa."
+  },
+  "sculpture": {
+    "heading": "Chosema",
+    "paragraph1": "Zojambulazo zili ndi zinthu zitatu zomwe zimadalirana: satellite yopangidwa makamaka kusunga mabiliyoni a mayina; chosema chapagulu chogawana zambiri ndi satelayiti; ndi tsamba la webusayiti lomwe otenga nawo gawo amatumizira mayina, kuyambira tsopano mpaka atapita, kupita kumwamba.",
+    "paragraph2": "Monga ntchito zosiyanasiyana, Orbital Temple ikhoza kuonedwa ngati chosema chapadera, malo okhalamo. Ndi ntchito ya Artsat."
+  },
+  "antenna": {
+    "heading": "Mlongoti Monga Chojambula Pagulu",
+    "paragraph1": "Mlongoti wotilumikiza ndi mlengalenga.",
+    "paragraph2": "Mlongoti womwe udzakhala mukulankhulana mwachindunji ndi orbital satellite ikupangidwa.",
+    "paragraph3": "Ndi mawonekedwe onyezimira agolide, kuwonetsa mlengalenga pamwamba pake, ndi poyambira kukondoweza kwa anthu ambiri (kapena ubale wathu ndi zomwe zili 'kumtunda uko').",
+    "paragraph4": "Ngakhale kuti ziboliboli sizimayikidwa m'madera ambiri padziko lapansi, Ma Frame athu ochokera ku Earth, omwe pakali pano akuyang'anira satellite, akutumiza mayina panjira iliyonse.",
+    "paragraph5": "Thandizani kubweretsa masomphenyawa mumzinda wanu—kukhazikitsa ziboliboli za mlongoti zomwe zimalimbikitsa kukambirana za kufufuza kwa mlengalenga, zojambulajambula, ndi malo omwe timagawana nawo ku cosmos. <a href=\"/support\">Dziwani zambiri zakuthandizira polojekitiyi</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite ya Orbital Temple",
+    "riseNy": "Orbital Temple ku Rise NY",
+    "installation": "Orbital Temple wolemba Clara Marques",
+    "antenna": "Orbital Temple Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Temple mumlengalenga. 3D yoperekedwa ndi RiseNY&Partners.",
+    "mercosul": "Kukhazikitsidwa kwa kachisi wa Orbital ku Mercosul Biennial, ku Porto Alegre, Brazil.<br> Chithunzi chojambulidwa ndi Clara Marques."
+  }
+}

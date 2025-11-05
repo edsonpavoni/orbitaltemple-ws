@@ -1,0 +1,61 @@
+{
+  "title": "Ttiimu - Yeekaalu ya Orbital",
+  "heading": "Ekibinja",
+  "artist": "Edson Pavoni, omuyimbi",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Omukulembeze wa Pulodyusa",
+      "members": "Sathi Roy, omuwandiisi w’ebitabo"
+    },
+    "aerospace": {
+      "heading": "Engineering mu by'ennyonyi n'enkola",
+      "members": "Pedro Kaled, João Pedro Polito, Omuwanguzi Baptista & João Omuwanguzi Alves"
+    },
+    "electronic": {
+      "heading": "Engineering mu byuma bikalimagezi",
+      "members": "André Biagioni, João Pedro Polito ne VK, abawandiisi b’ebitabo bino"
+    },
+    "software": {
+      "heading": "Sofutiweeya",
+      "members": "Yonasaani Kerubina"
+    },
+    "design": {
+      "heading": "Okukola dizayini n’okuzimba",
+      "members": "Guilherme Bullejos, omuwandiisi w’ebitabo"
+    },
+    "printing": {
+      "heading": "Okukuba ebitabo mu ngeri ya 3D",
+      "members": "Solid Concepts, wansi w’obukulembeze bwa Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Okulaga mu ngeri ya 3D",
+      "members": "Guilherme Bullejos & RiseNy&Abakolagana nabo"
+    },
+    "research": {
+      "heading": "Okunoonyereza",
+      "members": "Roberta Savian Rosa & Clara Marques, abaana abato"
+    },
+    "exhibition": {
+      "heading": "Okufulumya Omwoleso, Okukuba Ebifaananyi & Okutonda Ebirimu",
+      "members": "Clara Marques, omuwandiisi w’ebitabo"
+    },
+    "silkScreen": {
+      "heading": "Omwoleso gwa Silk Screening",
+      "members": "Daphne Alves, omuwandiisi w’ebitabo"
+    },
+    "educational": {
+      "heading": "Pulojekiti y'ebyenjigiriza",
+      "members": "Ekifo ky'Ebirowoozo"
+    },
+    "communication": {
+      "heading": "Ttiimu y'Empuliziganya",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, abazannyi abazannyira mu ttiimu eno"
+    },
+    "specialThanks": {
+      "heading": "Okwebaza okw'enjawulo",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, ne Leigh Pennington, abaana abato, abaana abato"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Omuwanguzi Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Endowooza Ennywevu, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satellite ya Yeekaalu ey’enkulungo"
+}

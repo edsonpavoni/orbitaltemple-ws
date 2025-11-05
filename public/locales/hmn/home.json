@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Lub Tuam Tsev Orbital",
+    "subtitle": "yog ib qho artwork thiab satellite,\naiming ua ib lub tuam tsev radical inclusive,\nnyob rau hauv ib qho chaw uas tsis muaj phab ntsa tuaj yeem ncav cuag."
+  },
+  "ritual": {
+    "label": "kev cai dab qhuas"
+  },
+  "cta": {
+    "link": "Tsis tau, lwm lub tuam tsev?",
+    "arrowAlt": "xub"
+  },
+  "dome": {
+    "alt": "Dome"
+  }
+}

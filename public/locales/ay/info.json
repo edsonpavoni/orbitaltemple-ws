@@ -1,0 +1,17 @@
+{
+  "title": "Info Técnica - Templo Orbital ukat juk’ampinaka",
+  "heading": "Info Técnica ukax mä juk’a pachanakanwa",
+  "satellite": {
+    "heading": "Satélite ukan uñt’ayata",
+    "specs": "Ukax akhamawa: 50x58x64 mm<br /> 1P PocketQube ukax mä juk’a pachanakanwa<br /> Ukax akhamawa: 245 gr<br /> Materiales: aluminio, quri, fibra de vidrio ukat componentes electrónicos ukanaka.<br /> Orbita: Altura 525 ± 25 km; inclinación: SSO 97,6 ± 0,1° ukjawa"
+  },
+  "antenna": {
+    "heading": "Antena/Escultura ukat juk’ampinaka",
+    "specs": "Dimensiones: 6 m (diámetro) e 1,2m (altura) .<br /> Ukax akhamawa: 46 kg<br /> Materiales: aluminio, tabla espejo epoxi, cúpula de aluminio quri suspendida mä estructura andamio tuqi."
+  },
+  "radio": {
+    "heading": "Radio tuqit yatiyawinak NASA-Catálogo:",
+    "specs": "TBD Ukax akhamawa: 437 MHz<br /> Llamayu: Estado: 2025 MARATAKIX HORARIO"
+  },
+  "imageAlt": "Diagrama de Info Técnica ukaxa mä juk’a pachanakwa lurasi"
+}

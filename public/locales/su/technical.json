@@ -1,0 +1,17 @@
+{
+  "title": "Inpo teknis - Kuil Orbital",
+  "heading": "Inpo teknis",
+  "satellite": {
+    "heading": "Satelit",
+    "specs": "Ukuran: 50 x 58 x 64 mm<br /> 1P PocketQube<br /> Beurat: 245 gr<br /> Bahan: aluminium, emas, orat, sareng komponén éléktronik.<br /> Orbit: Luhurna 525 ± 25 km; inclination: SSO 97,6 ± 0,1 °<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) dioperasikeun ku ISRO"
+  },
+  "antenna": {
+    "heading": "anteneu / Patung",
+    "specs": "Ukuran: 6 m (diaméterna) e 1.2m (jangkungna)<br /> Beurat: 46 kg<br /> Bahan: aluminium, epoxy mirrored dewan, kubah aluminium emas ditunda ngaliwatan struktur Parancah."
+  },
+  "radio": {
+    "heading": "Spésifikasi Radio",
+    "specs": "Downlink: 468,5 MHz<br /> Modulasi: CSS<br /> Bandwidth: TBD"
+  },
+  "imageAlt": "Satelit Kuil Orbital"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Baarakɛɲɔgɔnw - Orbital Temple",
+  "heading": "Baarakɛɲɔgɔnw",
+  "intro": "Orbital Temple bɛ yen jɛɲɔgɔn danmadɔw ka bolomafara, u ka dɔnniya ani u ka yeli fɛ. K’a ta ɛntɛrinɛti satelitiw la ka se lakalifɛnw dilanni ma, k’a ta da wulili la jamana yɔrɔjanw na ka taa a bila sugo filili la sanu na, jɛkafɔ kelen-kelen bɛɛ bɛ nin batoso in gɛrɛ dolow la.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Jɛɲɔgɔnw",
+      "description": "Kumaɲɔgɔnya, ko kɛlenw jɛlenw ani ja kabakomaw 3D jira minnu ye sateliti ka yeli kɛ ɲɛnamaya la sanni a ka maga yɔrɔ lankolon na."
+    },
+    "highestMantra": {
+      "name": "An ka Mantra min ka bon kosɛbɛ",
+      "description": "Sathi Roy de bɛ a ɲɛmɔgɔya la, ka Orbital Temple ni Ɛndujamana ka hakili ni seko ni dɔnko jɛkuluw cɛsiri. Nafolosɔrɔ siraw dabɔli, laadalakow falenfalen, ani Art Basel jirali dɔ san 2025 nowanburukalo daminɛ kɔfɛ."
+    },
+    "allToSpace": {
+      "name": "Bɛɛ ka Taa Sankolo la",
+      "description": "Berezil jamana ka sateliti fitininw kɛrɛnkɛrɛnnenw. San naani jɛ-ka-baara ka da wulilen fɛnɲɛnɛma-yɔrɔ dɔ jɔ ani ka kɛ tutigɛbaga ye walasa ka seko ni dɔnko ci ka taa jiribolo la ka bɔ Duniya Saheli la."
+    },
+    "isro": {
+      "name": "ISRO (ISRO) ye",
+      "description": "Ɛndujamana ka sanfɛla ɲinini jɛkulu. Lance provider for the PSLV mission min bɛ Orbital Temple ta ka taa tile-synchrone orbit la Nowanburukalo san 2025."
+    },
+    "mercosul": {
+      "name": "Mercosur ka san fila kɛli 13nan",
+      "description": "Porto Alegre, Berezil jamana na. Marcello Dantas de ye a ɲɛnabɔ ni ɲɛmɔgɔ dɛmɛbagaw ye Laura Cattani, Munir Klamt, Tarsila Riso ani Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat ka baarakɛjɛkulu",
+      "description": "Sateliti yiriwali jɛkulu min sigira senkan II ArtSat Workshop senfɛ. Fabiane M. Borges de ye a ɲɛmɔgɔya kɛ, Lázaro Camargo de ye a ɲɛminɛ, Ítalo Pinto Rodrigues de ye baara kɛ ɲɔgɔn fɛ, Walter Abrahão dos Santos de bɛ a ɲɛminɛ."
+    },
+    "solidConcepts": {
+      "name": "Hakilila sabatilenw",
+      "description": "A ɲɛmɔgɔya tun bɛ Eduardo Dias bolo. 3D sɛbɛnni ni sanu mikro casting bɛɛ bɛ baara kɛ ni sculptural dome ye, ka nizɛri sugo caman tigɛli kɛ ka kɛ nɛgɛ nafama ye."
+    },
+    "ideaSpace": {
+      "name": "Hakilina Yɔrɔ",
+      "description": "Berezili kalan daminɛ min bɛ Quebrada Space Program kalanbolodalen labɛn, min labɛnnen don ka waleya lise kalandenw na Berezil jamana bɛɛ kɔnɔ."
+    }
+  },
+  "closing": "Aw b’a fɛ ka jɛɲɔgɔnya kɛ ni Orbital Temple ye wa? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Aw ye aw bolo da</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners ka taamasiyɛn",
+    "highestMantra": "An ka Mantra Logo min ka bon kosɛbɛ",
+    "allToSpace": "Bɛɛ ka kɛ Space Logo ye",
+    "isro": "ISRO ka Logo",
+    "mercosul": "13nan Mercosur san fila logo",
+    "inpe": "INPE ArtSat Atelier Logo ye",
+    "solidConcepts": "Logo Hakilina Soliw",
+    "ideaSpace": "Hakilina Yɔrɔ Logo"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Fa'atumauina & Fa'aleaga Avanoa - Malumalu Orbital",
+  "heading": "Mauaina",
+  "intro": {
+    "paragraph1": "Afai o le faatufugaga e taʻitaʻia ai i tatou i le lumanaʻi, e le mafai ona le amanaʻia faʻalavelave tatou te feagai - o le paʻu o le siʻosiʻomaga, le tutusa o agafesootai, ma le faʻatupulaia o luʻitau o otaota o le vanimonimo. Orbital Temple ua mamanuina ma nei mea moni i le mafaufau, e faʻamoemoe e avea ma se faʻamoemoe faʻatasi i luga o le lalolagi ma i totonu o le taamilosaga.",
+    "paragraph2": "Matou te talitonu o le gafataulimaina e le o se faʻalavelave ae o se vaega taua o la matou vaʻaiga faʻataʻitaʻi. O fa'ai'uga uma e uiga i meafaitino, ta'amilosaga, ma fa'agaioiga e atagia mai ai la tatou tautinoga e tu'ua le lalolagi ma le vateatea sili atu nai lo le mea na tatou mauaina."
+  },
+  "spaceDebris": {
+    "heading": "Avanoa otaota",
+    "paragraph1": "O lapisi o le vanimonimo o se tasi lea o lu'itau o lo'o feagai ma su'esu'ega avanoa. E afe ma afe o satelite ua le mafai ona fa'aogaina ma vaega o lo'o taamilo i le lalolagi, o lo'o fa'amata'u ai misiona fa'agaoioia ma fa'atupuina se fa'alavelave fa'afuase'i e ono le mafai ai ona fa'aogaina nisi o ta'amilosaga.",
+    "paragraph2": "Orbital Temple e faʻamatalaina lenei mea i ni auala se tele:",
+    "list": {
+      "orbit": "<strong>La-synchronous orbit i le 525 km:</strong> O lenei maualuga e mautinoa ai le toso faanatura o le ea o le a mafua ai ona toe ulufale le satelite i le siosiomaga o le Lalolagi i totonu o le 10 tausaga, lea o le a mu atoa ai. Matou te le o saofagā i otaota orbital umi umi.",
+      "size": "<strong>Fuafuaga PocketQube:</strong> I le na o le 50 × 58 × 64mm ma le 245g, e laʻititi le satelite e faʻafefe atoa i le taimi o le toe ulufale, e leai se otaota i luga o le fogaeleele.",
+      "responsibility": "<strong>Leai se fuafuaga ua le toe aoga:</strong> E le pei o satelite faapisinisi e mafai ona lafoaia, Orbital Temple ua mamanuina e faʻataʻitaʻi faʻanatura, faʻamalieina taʻiala faavaomalo mo gaioiga faʻapitoa avanoa."
+    },
+    "paragraph3": "E ala i le filifilia o se taamilosaga maualalo o le lalolagi ma se mamanu faʻapitoa, matou te mautinoa o le i ai o le Malumalu o Orbital i le vanimonimo e le tumau ma e le faʻaleagaina."
+  },
+  "carbonNeutrality": {
+    "heading": "Aloa'i le Carbon",
+    "content": "O fa'aoso uma kaponi e feso'ota'i ma le Malumalu o Orbital—e aofia ai le gaosiga o satelite, fa'alauiloa, fa'agaioiina o nofoaga i le eleele, fa'asalalauga i luga o le upega tafa'ilagi, ma femalagaiga a le 'au-o le a fa'amalieina atoatoa e ala i polokalame fa'amaonia aitalafu. Matou te tuuto atu i le faia o lenei misiona e le tutusa le tau."
+  },
+  "openSource": {
+    "heading": "Meafaigaluega Open Source",
+    "paragraph1": "O le fa'atumauina fo'i o lona uiga o le le fa'amaimauina o le poto. So'o se vaega fa'atekinisi o le Malumalu o Orbital—fa'ailoga, fa'ailoga, fa'asalalauga feso'ota'iga, ma auala faufale-o le a fa'asalalauina e avea ma fa'amaumauga tatala.",
+    "paragraph2": "O lenei mea e mafai ai e misiona i le lumanaʻi ona fausia i luga o la tatou galuega nai lo le amata mai le sasa, faʻaitiitia le tele o suʻesuʻega ma atinaʻe. Na te fa'atemokalasi le avanoa i tekinolosi avanoa, aemaise lava mo nu'u i le Global South o lo'o fa'ate'a'ese mai tala fa'asolopito mai su'esu'ega avanoa."
+  },
+  "educational": {
+    "heading": "Aafiaga Faaleaoaoga",
+    "paragraph1": "O la matou polokalame fa'alea'oa'oga fa'a gagana e leai se totogi e a'oa'o ai tamaiti a'oga i le lalolagi atoa pe fa'apefea ona fau ma fa'alauiloa satelite, fa'atasi ai ma le taula'i i le Global South. E ala i le fa'amalosia o le isi augatupulaga i tomai fa'atekonolosi avanoa, matou te saofagā i le tapunia o le \"Space Gap\" ma fatuina ni avanoa semanu e le o iai.",
+    "paragraph2": "O lenei misiona a'oa'oga o ia lava o se ituaiga o le fa'aauau—teufaafaigaluega i tagata ma nu'u ina ia faia suiga tumau i tua atu o le umi o le satelite."
+  },
+  "tenYear": {
+    "heading": "O se Misiona e 10 Tausaga",
+    "paragraph1": "Orbital Temple ua mamanuina mo se misiona e sefulu tausaga le umi, ae le o se faʻasalalauga puʻupuʻu. I le silia ma le sefulu tausaga, o le satelite o le a taamilo i le lalolagi pe a ma le 50,000 taimi, mauaina igoa ma avea o se faamanatu o le avanoa e mafai ona avea ma mea masani, e mafai ona maua e tagata uma.",
+    "paragraph2": "A maeʻa lana misiona, o le satelite o le a faʻateʻaina ma susunuina, e leai se mea e tuʻu ai sei vagana ai manatuaga ma faʻamaumauga a i latou na auai."
+  },
+  "artsResponsibility": {
+    "heading": "Matafaioi a Art",
+    "paragraph1": "O faatufugaga ua avea pea ma fa'ata o lona taimi, e atagia ai o tatou tulaga taua ma fa'amoemoega. I le vaitau o fa'afitauli o le tau ma le fa'atupula'ia o le le tutusa, matou te talitonu o le au tusiata e i ai le tiute e fatu ai galuega e le gata ina fa'aalia ai nei fa'afitauli ae mataalia fo'i e fa'atalanoaina.",
+    "paragraph2": "Orbital Temple o la matou taumafaiga e fatuina se ata tusi e mataʻutia i lona aofia, e nafa ma ona aafiaga o le siosiomaga, ma limafoai i le faʻasoaina o lona malamalama i le lalolagi. O le faatufugaga e valaaulia ai tagata uma e auai a'o fa'aaloalo i faiga ma'ale'ale—si'osi'omaga ma le fa'ata'amilosaga-lea e mafai ai le ola ma su'esu'ega."
+  },
+  "imageAlt": "Satelite Malumalu Orbital"
+}

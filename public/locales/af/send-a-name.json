@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "soos jy 'n ritueel betree\n\nom 'n naam te stuur\n\nna die\norbitale tempel\nin die ruimte\n\nhaal asem",
+    "button": "ek is gereed"
+  },
+  "nameInput": {
+    "title": "tik 'n naam",
+    "subtitle": "dit sal na die Orbitale Tempel in die ruimte styg.",
+    "placeholder": "naam",
+    "button": "laat dit styg"
+  },
+  "emailInput": {
+    "title": "tik jou e-posadres in",
+    "subtitle": "so jy kry 'n boodskap wanneer die naam styg.",
+    "placeholder": "jou e-pos",
+    "button": "dit is klaar"
+  },
+  "loading": {
+    "alt": "Laai"
+  },
+  "success": {
+    "text": "Die naam\n{{naam}}\nis nou in die ry\nvir hemelvaart.\n\nwanneer die\ntempel in die ruimte\nin lyn is met\nons antenna\nop Aarde\n\nsal ons\ndie naam\nstuur\nen jy sal\n'n\nboodskap\nontvang."
+  }
+}

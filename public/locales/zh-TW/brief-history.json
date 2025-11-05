@@ -1,0 +1,77 @@
+{
+  "title": "太空藝術簡史－軌道神廟",
+  "heading": "太空藝術簡史",
+  "intro": "自<strong>1957年</strong>首次成功發射人造衛星以來，已有超過一萬顆衛星進入地球軌道。在這個新時代，藝術家們找到了拓展藝術實踐的新途徑，外太空也成為了他們新的畫布。隨之而來的是，關於太空探索政治的根本性問題也隨之出現——儘管還有許多領域尚待探索。",
+  "sections": {
+    "leonov": {
+      "text": "第一件在太空創作的藝術作品是俄羅斯太空人<strong><a href=\"https://en.wikipedia.org/wiki/Alexei_Leonov\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">阿列克謝·列昂諾夫</a></strong>於<strong>1965 年</strong>乘坐上升 2 號太空船時繪製的地球日出圖。",
+      "caption": "這是第一幅在太空創作的藝術作品，以及阿列克謝·列昂諾夫繪製這幅作品時使用的鉛筆。圖片來源：尤里‧加加林太空人訓練中心博物館"
+    },
+    "moonMuseum": {
+      "paragraph1": "三年後， <strong><a href=\"https://en.wikipedia.org/wiki/Moon_Museum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">月球博物館</a></strong>，一個據稱落在月球上的微型陶瓷盤，上面有當時美國六位最傑出的藝術家的題詞：<strong>羅伯特·勞森伯格</strong>、<strong>大衛·諾夫羅斯</strong>、<strong>約翰·張伯倫</strong>、<strong>克拉斯·奧爾登堡</strong>、<strong>福雷斯特·邁爾斯</strong>和<strong>安迪·沃霍爾</strong>。",
+      "caption1": "這張月球博物館的圖片來自《紐約時報》的原文。大拇指遮住了沃荷的畫作。",
+      "paragraph2": "沃荷極具挑釁性的貢獻（左上角）使這個計畫對當時的傳播媒體來說是一個挑戰。",
+      "caption2": "《紐約時報》選擇刊登的圖片，下方可見藝術作品，左上角是安迪沃荷的素描。"
+    },
+    "fallenAstronaut": {
+      "text": "<strong>1971</strong>年，阿波羅15號太空人<strong>大衛·斯科特</strong>將一座名為<strong><a href=\"https://en.wikipedia.org/wiki/Fallen_Astronaut\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">「隕落的太空人」</a></strong>的小型人形鋁製雕塑放置在月球上。比利時藝術家<strong>保羅·範·霍伊登克</strong>創作這件作品的目的是為了紀念那些在太空探索事業中犧牲的太空人和太空人。",
+      "caption": "在哈德利-亞平寧著陸點留在月球上的紀念牌匾的景象。"
+    },
+    "pioneerVoyager": {
+      "text": "<strong>1970年代</strong>， <strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">先驅者號探測器</a></strong>和<strong><a href=\"https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">旅行者號探測器</a></strong>都為太空藝術開闢了新的天地。它們攜帶鍍金鋁製銘牌，上面刻有來自地球的視覺訊息，傳遞給未來可能發現它們的任何其他太空旅行者，描繪了人類生活最基本的元素。",
+      "caption": "20 世紀 70 年代，先驅者 10 號和 11 號探測器攜帶的銘牌進入了深空。"
+    },
+    "dove": {
+      "text": "<strong>1990年</strong>，巴西憑藉<strong><a href=\"https://en.wikipedia.org/wiki/OSCAR_17\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">DOVE/OSCAR-17</a></strong>衛星在這個領域留下了濃墨重彩的一筆。這顆精巧的業餘衛星極具詩意力量。儘管它的創造者並不認為自己是藝術家，但這卻是一次意義深遠的詩意嘗試：它記錄了孩子們祈求和平的聲音，並將這些聲音傳輸給全球兩千多名業餘無線電愛好者，將一顆開創性的立方體衛星變成了一件集體聲音作品。",
+      "caption": "DOVE/OSCAR-17，巴西的詩意衛星，傳遞兒童的和平之聲，1990 年。"
+    },
+    "lastPictures": {
+      "text": "<strong>2012年</strong>，藝術家<strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">特雷弗·帕格倫</a></strong>推出了名為<strong><a href=\"https://creativetime.org/projects/the-last-pictures/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">「最後的影像」的作品</a></strong>，這是一張微蝕刻光盤，內含100張照片，被安裝在地球同步軌道上的Echostar XVI通訊衛星上。作品的設計壽命可達數十億年，旨在作為一件考古文物，在遙遠的未來超越人類文明的存續。",
+      "caption": "《最後的影像》是一張微蝕刻光碟，旨在比人類存在的時間更長，於 2012 年發行。"
+    },
+    "ulises": {
+      "text": "<strong>2015年</strong>，墨西哥太空集體（ <strong>Colectivo Espacial Mexicano</strong> ）發射了<strong>“烏利塞斯一號”（Ulises I）</strong> ，這是一顆奈米衛星，其設計理念源於藝術家<strong>胡安·何塞·迪亞茲·因凡特·卡薩蘇斯（Juan José Díaz Infante Casasús）</strong>的指導，並以概念歌劇的形式呈現。這顆衛星在瓜達拉哈拉書展（Feria del Libro de Guadalajara）期間，由氣球送入平流層。它的設計是在大約四小時後爆炸，然後藉助降落傘下降。",
+      "caption": "《尤里塞斯一世》，Colectivo Espacial Mexicano 創作的概念衛星歌劇。"
+    },
+    "artsat": {
+      "text": "直到<strong>2014年</strong>，第一顆純粹用於藝術用途的衛星才發射升空。東京大學的<strong><a href=\"https://artsat.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">ARTSAT-1 Invader</a></strong>計畫向地球發送了空間數據，這些數據被用於藝術裝置和音樂創作。",
+      "caption1": "ARTSAT-1「入侵者」衛星框架和留在地球上的備用零件。",
+      "caption2": "[SPACE x ART]－超越宇宙論展覽在東京當代藝術博物館舉行"
+    },
+    "kac": {
+      "text": "巴西裔美國當代藝術家<strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">愛德華多·卡茨</a></strong>透過與美國國家航空暨太空總署<strong>（NASA）</strong>和太空<strong>探索技術公司（SpaceX）</strong>的合作，為太空藝術做出了貢獻。他與法國太空人<strong>托馬斯·佩斯凱</strong>共同創作的<strong><a href=\"https://www.ekac.org/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">《內部望遠鏡》</a></strong> （ <strong>2017</strong> ）是一件在<strong>國際太空站</strong>上製作完成的雕塑作品。",
+      "caption": "國際太空站內部望遠鏡，由法國太空人托馬斯佩斯凱於 2017 年建造。"
+    },
+    "enoch": {
+      "text": "<strong>2018 年</strong>，一顆作為藝術計畫建造的被動式立方體衛星被發射到軌道上。這顆名為<strong><a href=\"https://www.metmuseum.org/art/collection/search/856524\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Enoch</a></strong>的衛星由巴哈馬概念藝術家<strong>Tavares Strachan</strong>開發，內部裝有一個 24K 金的卡諾皮克罐，罐內有第一位非裔美國宇航員<strong>Robert Henry Lawrence Jr.</strong>的半身像。",
+      "caption": "ENOCH（展示單元），2015-2017 年。 ⓒ Tavares Strachan，照片 ⓒ Museum Associates/LACMA。"
+    },
+    "orbitalReflector": {
+      "text": "同年，<strong>特雷弗·帕格倫的</strong><strong>“軌道反射器”</strong>也作為一件雕塑作品被發射升空，它被安置在一個非功能性的立方體衛星中。這件作品旨在透過藝術表達改變我們看待自身在世界中所處位置的方式。然而，它的部署並不順利。儘管它從未按設計正常展開，但它引發了重要的討論，並引起了全球天文學家、科學家、媒體、教育工作者、學生和公眾的熱烈反響，這表明成功的藝術作品並不一定需要在技術上取得成功。",
+      "caption": "2018年軌道反射器數位渲染圖"
+    },
+    "others": {
+      "text": "許多其他藝術家也為太空藝術領域做出了貢獻，他們各自在研究中帶來了獨特的視角。值得一提的項目包括： <strong><a href=\"https://www.sarahjanepell.com/astronautics.html\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">莎拉·簡·佩爾的</a></strong>宇航員藝術家研究，探索人類在極端環境下的表現； <strong><a href=\"https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">艾格尼絲·邁耶-布蘭迪斯的</a></strong><strong><a href=\"http://www.blubblubb.net/mga/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“月鵝模擬”</a></strong>項目，探索人類在極端環境下的表現；艾格尼絲·邁耶-布蘭迪斯的“月鵝模擬”項目，探索了歷史和當代太空探索敘事； <strong><a href=\"https://en.wikipedia.org/wiki/Nahum_(artist)\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">納胡姆的</a></strong><strong><a href=\"https://www.manifestio.art/talks/nahum\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“太空藝術”</a></strong>項目，促進了微重力環境下的藝術實驗；以及<strong><a href=\"https://www.arthurwoods.ch/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">亞瑟·伍茲審視的</a></strong>雕塑作品<strong><a href=\"https://www.cosmicdancer.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">“宇宙秀”的作品“</a></strong>宇宙首秀”。"
+    },
+    "orbitalTemple": {
+      "text": "<strong>2025 年</strong>，經過 4 年的研究和開發，巴西藝術家<strong>Edson Pavoni</strong>和一群跨學科的合作者將推出<strong>「軌道神廟」(Orbital Temple)</strong> ，這是一個參與式藝術衛星，邀請世界各地的人們將名字發送到軌道上，從而創建一個超越國界的、具有徹底包容性的紀念碑。",
+      "caption": "Mercosul 雙年展上的軌道聖殿。照片：克拉拉馬克斯"
+    }
+  },
+  "imageAlts": {
+    "leonov": "阿列克謝·列昂諾夫的素描和鉛筆畫",
+    "moonMuseum": "月球博物館陶瓷芯片",
+    "moonMuseumWarhol": "月球博物館陶瓷薄片展示了所有藝術作品。",
+    "fallenAstronaut": "月球上陣亡太空人紀念碑",
+    "pioneerPlaques": "先驅者牌匾",
+    "dove": "WHERE/OSCAR-17衛星",
+    "lastPictures": "《最後的影像》光碟",
+    "ulises": "烏利塞斯一號衛星",
+    "artsatInvader": "ARTSAT-1“入侵者”衛星結構",
+    "artsatArt": "利用ARTSAT-1數據創作的藝術作品",
+    "innerTelescope": "愛德華多·卡茨的內望遠鏡",
+    "enoch": "塔瓦雷斯·斯特拉坎的以諾展示單元",
+    "orbitalReflector": "特雷弗·帕格倫的軌道反射器",
+    "orbitalTemple": "軌道神殿衛星"
+  }
+}

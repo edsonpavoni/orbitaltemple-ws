@@ -1,0 +1,17 @@
+{
+  "title": "Nga Korero Hangarau - Te Orbital Temple",
+  "heading": "Nga korero Hangarau",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Rahi: 50x58x64 mm<br /> 1P PocketQube<br /> Teina: 245 gr<br /> Rauemi: konumohe, koura, muka karaihe, me nga waahanga hiko.<br /> Orbit: Te teitei 525 ± 25 kiromita; whakahāngaitanga: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Whakairo",
+    "specs": "Ahu: 6 m (diameter) e 1.2m (te teitei)<br /> Taumaha: 46 kg<br /> Rauemi: konumohe, he papa whakaata epoxy, he konumohe koura konumohe e whakatarewa ana i roto i te hanganga scaffolding."
+  },
+  "radio": {
+    "heading": "Nga Waahanga Reo Irirangi NASA-Catalog:",
+    "specs": "Hononga Raro TBD: 437 MHz<br /> Waea: Tūnga: WHARE MO 2025"
+  },
+  "imageAlt": "Hangarau Hangarau Hoahoa"
+}

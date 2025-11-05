@@ -1,0 +1,31 @@
+{
+  "title": "Fanomezana ho an'ny Tempoly Orbital",
+  "heading": "Fenoy ny fanomezanao",
+  "donatingTo": "Manome fanomezana ho an'ny:",
+  "chooseHow": "Fidio ny fomba tianao hamenoana ny fanomezana azo ahena hetra:",
+  "option1": {
+    "heading": "Safidy 1: Manomeza an-tserasera izao",
+    "description": "Fenoy avy hatrany ny fanomezanao amin&#39;ny fampiasana carte de crédit, carte de debit, na fomba fandoavam-bola hafa amin&#39;ny Internet amin&#39;ny alàlan&#39;ny mpanohana ara-bola azo antoka, <strong>The Field</strong> . Hahazo rosia hetra avy hatrany ianao.",
+    "button": "Manomeza amin'ny alalan'ny The Field →"
+  },
+  "option2": {
+    "heading": "Safidy 2: Fametrahana banky amin'ny The Roy Foundation",
+    "description": "Manaova petra-bola mivantana amin&#39;ny banky na famindrana tariby mankany amin&#39;ny <strong>The Roy Foundation</strong> , mpiara-miombon&#39;antoka stratejika sy mpanohana ara-bola. Ity safidy ity dia mety amin&#39;ny fanomezana lehibe kokoa na famindrana iraisam-pirenena.",
+    "bankingInfo": "Fampahafantarana momba ny banky",
+    "fields": {
+      "accountName": "Anaran'ny kaonty:",
+      "bankName": "Anaran'ny banky:",
+      "accountNumber": "Nomeraon-kaonty:",
+      "routingNumber": "Laharan'ny lalana:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Reference:"
+    },
+    "instructions": "Ampidiro azafady ny &quot; <strong>Temple Orbital - {donationType}</strong> &quot; ao amin&#39;ny saha fanondroana. Rehefa vita ny famindranao dia alefaso mailaka izahay amin&#39;ny <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> miaraka amin&#39;ny antsipirian&#39;ny famindranao mba handraisanao ny tapakila momba ny hetra.",
+    "button": "Mifandraisa aminay Momba ny fametrahana →"
+  },
+  "taxInfo": {
+    "heading": "Fanomezana azo alaina hetra",
+    "description": "Orbital Temple dia tetikasa tohanan&#39;ny <strong>The Field (Performance Zone Inc.)</strong> , fikambanana tsy mitady tombony <strong>501(c)(3)</strong> . Ny fandraisan&#39;anjaran&#39;i Etazonia rehetra dia azo alaina amin&#39;ny hetra araka izay takian&#39;ny lalàna.",
+    "questions": "Fanontaniana? Mifandraisa aminay amin&#39;ny <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

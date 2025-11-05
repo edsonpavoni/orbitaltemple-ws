@@ -1,0 +1,17 @@
+{
+  "title": "Tæknilegar upplýsingar - Orbital Temple",
+  "heading": "Tæknilegar upplýsingar",
+  "satellite": {
+    "heading": "Gervihnöttur",
+    "specs": "Stærð: 50x58x64 mm<br /> 1P PocketQube<br /> Þyngd: 245 grömm<br /> Efni: ál, gull, trefjaplast og rafeindabúnaður.<br /> Braut: Hæð 525 ± 25 km; halli: SSO 97,6 ± 0,1°<br /> Geimfar: PSLV (Polar Satellite Launch Vehicle) rekið af ISRO"
+  },
+  "antenna": {
+    "heading": "Loftnet/skúlptúr",
+    "specs": "Stærð: 6 m (þvermál) og 1,2 m (hæð)<br /> Þyngd: 46 kg<br /> Efni: ál, epoxy spegilplata, gullin álkúpa hengd upp í vinnupalli."
+  },
+  "radio": {
+    "heading": "Útvarpsupplýsingar",
+    "specs": "Niðurtenging: 468,5 MHz<br /> Mótun: CSS<br /> Bandbreidd: Óákveðið"
+  },
+  "imageAlt": "Orbital Temple gervihnöttur"
+}

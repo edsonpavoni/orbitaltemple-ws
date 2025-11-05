@@ -1,0 +1,31 @@
+{
+  "title": "Nehelana ka Tempele ea Orbital",
+  "heading": "Qetella Monehelo oa Hao",
+  "donatingTo": "U fana ho:",
+  "chooseHow": "Khetha mokhoa oo u ka ratang ho tlatsa monehelo oa hau o huloang lekhetho:",
+  "option1": {
+    "heading": "Khetho ea 1: Nehelana ka Marang-rang Hona Joale",
+    "description": "Tlatsa monehelo oa hau hang-hang u sebelisa karete ea mokoloto, karete ea banka, kapa mekhoa e meng ea ho lefa ea inthaneteng ka mofani oa rona ea sireletsehileng oa lichelete, <strong>The Field</strong> . U tla fumana rasiti ea lekhetho hanghang.",
+    "button": "Nehelana ka The Field →"
+  },
+  "option2": {
+    "heading": "Khetho ea 2: depositi ea Banka ho The Roy Foundation",
+    "description": "Etsa depositi e tobileng ea banka kapa u fetisetse ka mohala ho <strong>The Roy Foundation</strong> , molekane oa rona oa leano le motšehetsi oa lichelete. Khetho ena e loketse menehelo e kholoanyane kapa phetisetso ea machabeng.",
+    "bankingInfo": "Boitsebiso ba Banka",
+    "fields": {
+      "accountName": "Lebitso la ak'haonte:",
+      "bankName": "Lebitso la Banka:",
+      "accountNumber": "Nomoro ea ak'haonte:",
+      "routingNumber": "Nomoro ea Tsela:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referense:"
+    },
+    "instructions": "Ka kopo, kenyelletsa &quot; <strong>Orbital Temple - {donationType}</strong> &quot; sebakeng sa litšupiso. Kamora ho phethela phetisetso ea hau, re romelle lengolo-tsoibila ho <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ka lintlha tsa hau tsa phetisetso hore u fumane rasiti ea hau ea lekhetho.",
+    "button": "Ikopanye le Rona Mabapi le depositi →"
+  },
+  "taxInfo": {
+    "heading": "Ho Fana ka Lekhetho",
+    "description": "Orbital Temple ke projeke e tšehelitsoeng ka lichelete ea <strong>The Field (Performance Zone Inc.)</strong> , mokhatlo oa <strong>501(c)(3)</strong> o sa etse phaello. Menehelo eohle ea US e khafisoa ka mokhoa o lumelletsoeng ke molao.",
+    "questions": "Lipotso? Ikopanye le rona ho <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

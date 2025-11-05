@@ -1,0 +1,138 @@
+{
+  "title": "Press & Media - Te Orbital Temple",
+  "heading": "Press & Media",
+  "pressContact": {
+    "heading": "Press Hoapā",
+    "content": "Mo nga uiui a te perehi, nga uiui, me nga tono panui:<br /> <strong>Īmēra:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>paetukutuku:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Mo te Kaupapa",
+    "paragraph1": "Ko te Orbital Temple he mahi toi me te amiorangi e whai ana kia noho hei whare tapu tino uru, he mea hanga ki te kore e tae atu nga pakitara. I hangaia e te kaitoi Brazilia a Edson Pavoni, te kaitoi i muri i te Inumeráveis Memorial i tae ki te 1 i ia 6 Brazilians i te wa o te mate COVID, ka tono te kaupapa ki nga tangata o te ao ki te tuku i te ingoa o tetahi e hiahia ana ratou kia maumahara. Ka tukuna enei ingoa ki te amiorangi i roto i te orbit, ka hangaia he tohu whakamaharatanga.",
+    "paragraph2": "Ma te paetukutuku e waatea ana i roto i nga reo 136, ka uru nga kaiuru ki tetahi momo kawa hou. Ka tirotirohia e te Orbital Temple nga kaupapa o te whakauru, te mahara, me o taatau taangata tangata, me te patai he aha te mea karekau he whare tapu tinana i runga i te whenua ka taea te manaaki i nga tangata katoa, me te kii ko te waahi anake te waahi e noho ai te whakauru maia."
+  },
+  "aboutArtist": {
+    "heading": "Mo te Kaitoi",
+    "paragraph1": "Ko <strong>Edson Pavoni</strong> he kaitoi Brazilia, i timata tana haerenga ki nga tiriti o São Paulo, i reira te ahuatanga o te rawakore me te tutu i hanga i ona tau tamarikitanga. I roto i te hoê fenua i reira te Kerisetianoraa i pûpû ai i te hoê e‘a i te atea ê i te mau purumu, te raau taero e te haavîraa u‘ana, ua imi o Pavoni i te haapuraa i roto i te faaroo, te hoê tumu parau i muri a‘e, i to ’na riroraa mai ei taata faahapa i te hamani-ino-raa i te pae faaroo, e faaite i ta ’na mau ohipa toi.",
+    "paragraph2": "I te tau 2020, i te wa o te mate urutaru COVID-19, i hanga e Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">a Inumeráveis (kaore e taea te tatau)</a></strong> , he mahi toi i te waahi o nga mahi toi me nga tuhinga korero. I uiuihia e te kaupapa nga mano tini o nga whanau me te tuhi korero mo te hunga kua ngaro i te mate urutaru, ka hangaia he waahi ka nui ake te mahara ki nga nama me nga tatauranga. I mahia nga whiti, nga waiata, me nga waiata me aua korero. I hangaia e nga niupepa nga uhi ma te whakamahi i nga ingoa me nga hitori. Ko nga whetu Brazilia katoa penei i a Fernanda Torres i toa i a Oscar, me nga whetu pera i a Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo me Lazaro Ramos, me te tini noa atu ka panui i aua korero i runga i te pouaka whakaata a-motu. I tae te kaupapa ki te 32 miriona taangata, kotahi i roto i te wha nga pakeke o Brazil. Ka noho hei kupenga whakaora, hei tohu whakamaumaharatanga.",
+    "paragraph3": "Neke atu i te tekau mano nga korerorero me te pouri, ka puta mai he tauira: ka korero tatou mo te tangata kua mate, ka kowhiria e tatou nga kongakonga o tana korero me te mea ka tuhia he reta kupu ki te kaitiaki kuwaha o te pararaiha. Ka whakapau kaha matou ki te tuku ia ratou ki ta matou e whakapono nei ko te rangi. I puta mai he maaramatanga hou na tenei mahi: Ko o tatou whakapono mo te hunga e tika ana ki te rangi e hanga tika ana ko wai ka whakaaehia, ka whakakorehia ranei i runga i te whenua. I whakapono nga tangata whenua Potiti i Brazil kaore he wairua o te tangata Pango; na taua whakapono i whakatika te mahi taurekareka. Mena he tangata whenua koe, mena i whanau mai koe i te waahi he, i aroha ranei koe ki te tangata he, kei a koe tonu, tae noa mai ki tenei ra, e kiia ana kua tutakina nga kuaha o te rangi ki a koe. Te vai ra anei te hoê hi‘oraa no a muri a‘e o te ore e î i te patoiraa?",
+    "paragraph4": "Koira te whanautanga o te Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Nga Meka Matua",
+    "artist": "<strong>Kaihanga:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Momo Kaupapa:</strong> He mahi toi Satellite, he waahi motuhake mo te waahi, he kawa-a-tukutuku",
+    "launchDate": "<strong>Te Ra Whakarewa:</strong> Noema 28, 2025",
+    "launchLocation": "<strong>Wāhi Whakarewa:</strong> Satish Dhawan Space Centre, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km teitei, Sun-tukutahi",
+    "participation": "<strong>Te whai waahi:</strong> Kore utu, tuwhera ki te katoa o te ao",
+    "namesSent": {
+      "heading": "<strong>Nga Ingoa i Tukua ki Orbit:</strong>",
+      "caption": "<em>Tatau ora i whakahōuhia mai i te pātengi raraunga • Whakahoutanga whakamutunga: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Tohu & Whakaaetanga",
+    "mercosul": {
+      "title": "<strong>13th Mercosur Biennial</strong> (2022)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "Na Marcelo Dantas i whakahaere"
+    },
+    "lumen": {
+      "title": "<strong>Te Tohu Lumen 2022 - Tohu Amuamu</strong>",
+      "status": "Kua raarangi roa"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Whakataetae</strong>",
+      "award": "Toa - ArtSat Category",
+      "org": "I whakatairangahia e Brazilian Institute of Space Research (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Kapa",
+    "content": "Ko te temepara o Orbital i hangaia ma te mahi tahi me Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andres Vidigal, Pedro Fernan, Rafael Puglia Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, me te hunga katoa e kii tonu ana i nga ingoa mo tenei whare tapu."
+  },
+  "pressCoverage": {
+    "heading": "Kei roto / Press Coverage",
+    "paragraph1": "<em>Ka taapirihia nga panui panui me nga ahuatanga ka watea ana. Mo nga korero hou, whakapaa mai ki ta matou roopu perehi.</em>",
+    "paragraph2": "Ko nga whakaaturanga me nga ahuatanga o mua ko nga whakaaturanga i te 13th Mercosul Bienal, te whakanui mai i te Lumen Prize, me te whiriwhiringa e te Brazilian Institute of Space Research (INPE)."
+  },
+  "images": {
+    "heading": "Nga Whakaahua Whakataunga Nui mo te Whakamahi Perehi",
+    "intro": "Kei te waatea nga whakaahua katoa mo te whakamahi whakatika. Patohia tetahi atahanga hei tango i te konae taumira teitei.",
+    "installationPhotos": {
+      "heading": "Whakaahua Orbital Temple",
+      "credit": "Tena koa: \"Na Clara Marques te whakaahua / Na Edson Pavoni, Orbital Temple\"",
+      "view01": "Tirohanga Tāuta 01<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tite (1.4 MB)",
+      "view02": "Tirohanga Tāuta 02<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tiki (2.9 MB)",
+      "view03": "Tirohanga Tāuta 03<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tiki (11 MB)",
+      "view04": "Tirohanga Tāuta 04<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tiki (3.4 MB)",
+      "view05": "Tirohanga Tāuta 05<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tuite (3.3 MB)",
+      "view06": "Tirohanga Tāuta 06<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tiki (3.7 MB)",
+      "view07": "Tirohanga Tāuta 07<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tiki (3.4 MB)",
+      "view08": "Tirohanga Tāuta 08<br /> Whakaahua: Clara Marques<br /> ↓ Tikiake Ahu-Tite (2.7 MB)",
+      "satelliteDesign": "Hoahoa Satellite<br /> ↓ Tikiake",
+      "antennaSculpture": "Antenna/Whakairo<br /> ↓ Tikiake"
+    },
+    "renders": {
+      "heading": "Te Renders Temepara Orbital",
+      "credit": "Ko nga whakaputanga Ahu-3 whakaaro o te temepara o Orbital. Tena koa: \"Whakaahua 3D na RiseNY&Partners / Na Edson Pavoni, Orbital Temple\"",
+      "render01": "Whakaaturanga Ahu-3 01<br /> RiseNY&amp;nga hoa<br /> ↓ Tikiake Ahu-Tite (10 MB)",
+      "render02": "Whakaaturanga Ahu-3 02<br /> RiseNY&amp;nga hoa<br /> ↓ Tikiake Ahu-Tite (5.9 MB)",
+      "render03": "Whakaaturanga Ahu-3 03<br /> RiseNY&amp;nga hoa<br /> ↓ Tikiake Ahu-Tite (5.2 MB)",
+      "render04": "Whakaaturanga Ahu-3 04<br /> RiseNY&amp;nga hoa<br /> ↓ Tikiake Ahu-Tiki (11 MB)",
+      "render05": "Whakaaturanga Ahu-3 05<br /> RiseNY&amp;nga hoa<br /> ↓ Tikiake Ahu-Tite (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Whakaahua Toi",
+      "photo1": "Whakaahua 1<br /> ↓ Tikiake High-Res",
+      "photo2": "Whakaahua 2<br /> ↓ Tikiake High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy Whakaahua",
+      "photo1": "Whakaahua 1<br /> ↓ Tikiake Tirohanga-Take (843 KB)",
+      "photo2": "Whakaahua 2<br /> ↓ Tikiake Ahu-Tuite (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Whakatakotoranga Hangarau",
+    "satellite": {
+      "heading": "Satellite",
+      "dimensions": "Rahi: 50 x 58 x 64 mm",
+      "classification": "whakarōpūtanga: 1P PocketQube",
+      "weight": "Teina: 245g",
+      "materials": "Rauemi: Konumohe, koura, muka karaihe, waahanga hiko",
+      "orbit": "Orbit: Te teitei 525 ± 25 kiromita; Hinga: SSO 97.6 ± 0.1°",
+      "launch": "Whakarewa: Noema 28, 2025 mā ISRO, Inia"
+    },
+    "antenna": {
+      "heading": "Antenna/Whakairo",
+      "dimensions": "Ahu: 6m diameter x 1.2m teitei",
+      "weight": "Taumaha: 46 kg",
+      "materials": "Nga Rauemi: Konumohe, he papa whakaata epoxy, he konumohe koura he konumohe e whakatarewa ana i roto i te hanganga scaffolding."
+    },
+    "radio": {
+      "heading": "Whakatakotoranga Reo Irirangi",
+      "downlink": "Hononga Raro: 437 MHz",
+      "status": "Tūnga Whakarewa: Whakaritea Noema 28, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Rauemi Tāpiri",
+    "artwork": "→ Tirohia Tuhinga Mahi Toi",
+    "howItWorks": "→ Pehea te Mahi",
+    "technicalInfo": "→ Nga korero Hangarau",
+    "spaceLaunch": "→ Mokowhiti Whakarewa Nga korero",
+    "ritual": "→ Ka wheako i te Ritual"
+  },
+  "imageAlts": {
+    "installation": "Na Edson Pavoni te whakaurunga o te temepara o Orbital",
+    "satelliteDesign": "Orbital Temple Satellite Design",
+    "antenna": "Whakairo Orbital Temple Antenna Sculpture",
+    "render": "Orbital Temple 3D Rendering na RiseNY&Partners",
+    "edsonPortrait": "Edson Pavoni Portrait",
+    "sathiPortrait": "Whakaahua Sathi Roy",
+    "lumenPrize": "Tohu Lumen",
+    "mercosulBienal": "Mercosur rua tau"
+  }
+}

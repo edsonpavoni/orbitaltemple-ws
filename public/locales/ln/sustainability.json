@@ -1,0 +1,44 @@
+{
+  "title": "Durabilité & Débris ya espace - Temple orbital",
+  "heading": "Eumelaka",
+  "intro": {
+    "paragraph1": "Soki mayele ya ntɔki esengeli komema biso na mikolo ezali koya, ekoki te koboya kotalela mikakatano oyo tozali kokutana na yango —kokwea ya ezingelo, bokeseni ya bato, mpe mokakatano oyo ezali se kokola ya biloko oyo ebebi na likoló. Tempelo ya Orbital esalemi na makanisi ya bosolo oyo, na mokano ya kozala bozali ya mokumba ezala na Mabele mpe na orbite.",
+    "paragraph2": "Tondimi ete bowumeli ezali epekiseli te kasi eteni ya ntina ya vision artistique na biso. Ekateli nyonso oyo etali biloko, ba orbites, mpe misala ezali komonisa bomipesi na biso ya kotika ezala Mabele mpe etando malamu koleka ndenge tomonaki yango."
+  },
+  "spaceDebris": {
+    "heading": "Ba Débris ya Espace",
+    "paragraph1": "Biloko oyo ebebi na likoló ezali moko ya mikakatano oyo ezali kotungisa mingi mpo na kolukaluka na likoló. Bankóto ya ba satellites mpe biteni oyo esili kosila ebalukaka zingazinga ya Mabelé, ezali kotya na likama ba missions actives mpe kosala effet cascade oyo ekoki kosala ete ba orbites mosusu ezala lisusu te.",
+    "paragraph2": "Tempelo ya Orbital etali likambo yango na ndenge mingi:",
+    "list": {
+      "orbit": "<strong>Orbite synchrone ya moyi na 525 km :</strong> Altitude oyo ezali ko assurer traction naturelle atmosphérique ekosala que satellite ekota lisusu na atmosphère ya Mabele na kati ya soki 10 ans, esika ekozika mobimba. Tozali kopesa maboko te na ba débris orbitaux oyo ewumeli.",
+      "size": "<strong>Conception ya PocketQube:</strong> Na bobele 50×58×64mm mpe 245g, satellite ezali moke mpo na ko vaporiser mobimba na tango ya bozongisi, kotikaka ba débris te na surface ya Mabele.",
+      "responsibility": "<strong>Obsolescence oyo ekanamaki te:</strong> Na bokeseni na ba satellites ya mombongo oyo ekoki kosundolama, Orbital Temple ebongisami mpo na ko déorbiter na ndenge ya nature, kokokisaka malako ya mokili mobimba mpo na activité spatiale responsable."
+    },
+    "paragraph3": "Na kopona orbite ya Mabele ya nse mpe design compact, tozali kosala ete bozali ya Orbital Temple na espace ezala ya mwa ntango moke mpe ebebisaka te."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralité ya carbone",
+    "content": "Ba émissions nionso ya carbone oyo ezo sangana na Orbital Temple —elongo na bokeli ya satellite, lancement, exploitation ya station terrestre, hébergement ya site internet, mpe voyage ya équipe —eko compensé mobimba na nzela ya ba programmes ya crédit ya carbone oyo e vérifié. Tozali komipesa mpo na kosala ete mission oyo ezala neutre na climat."
+  },
+  "openSource": {
+    "heading": "Matériel ya Source Ouverte",
+    "paragraph1": "Bowumeli elakisi mpe kobebisa boyebi te. Likambo nyonso ya tekiniki ya Tempelo ya Orbital —ba schématiques, code, ba protocoles ya communication, mpe ba méthodes ya botongi —ekobimisama lokola mikanda ya source ouverte.",
+    "paragraph2": "Yango epesaka nzela na ba missions ya mikolo ekoya kotonga likolo ya mosala na biso na esika ya kobanda uta na ebandeli, kokitisa bolukiluki mpe botomboli oyo ezali na ntina te. Ezali ko démocratiser accès na technologie spatiale, mingi mingi pona ba communautés na Sud mondial oyo na histoire ba exclués na exploration spatiale."
+  },
+  "educational": {
+    "heading": "Impact na mateya",
+    "paragraph1": "Programme na biso ya ofele ya mateya ya minoko mingi eteyaka banakelasi na mokili mobimba ndenge ya kotonga mpe kotinda ba satellites, na kotalaka mingi mingi Sud Mondial. Na kopesaka makoki na nkola ekoya na mayele ya tekiniki ya spatial, tozali kopesa maboko na kokanga \"Espace spatial\" mpe kokela mabaku oyo soki te elingaki kozala te.",
+    "paragraph2": "Mission oyo ya mateya ezali yango moko lolenge ya bowumeli —kotia mosolo na bato mpe na baimboka mpo na kokela mbongwana ya koumela koleka bomoi ya satellite."
+  },
+  "tenYear": {
+    "heading": "Mission ya Mbula 10",
+    "paragraph1": "Orbital Temple ebongisami mpo na mission ya mibu zomi, kasi te ya mokuse ya publicité. Na boumeli ya mbula zomi, satellite yango ekobalukabaluka na Mabelé mbala soki 50 000, ekozwa bankombo mpe ekozala lokola bokundoli ete etando ekoki kozala likambo ya bato nyonso, oyo bato nyonso bakoki kokɔta na yango.",
+    "paragraph2": "Sima ya mission na yango esili, satellite eko dé-orbiter naturellement mpe ekozika, ekotika trace moko te sauf na ba souvenirs mpe na documentation ya baye basanganaki."
+  },
+  "artsResponsibility": {
+    "heading": "Mokumba ya Art",
+    "paragraph1": "Art ezalaki ntango nyonso talatala ya ntango na yango, oyo ezali komonisa bizaleli mpe bamposa na biso. Na époque ya crise climatique mpe inégalité oyo ezali kokola, tondimi que ba artistes bazali na responsabilité ya ko créer ba travaux oyo ezo commenter kaka ba questions wana te mais ezo aborder yango activement.",
+    "paragraph2": "Orbital Temple ezali komeka na biso ya kokela mosala ya mayele oyo ezali radicale na inclusivité na yango, responsable na impact na yango ya environnement, mpe ya motema malamu na kokabola boyebi na yango na mokili. Ezali mayele oyo ebengisaka moto nyonso asangana na yango wana azali komemya ba systèmes fragiles —environnement mpe orbite —oyo esalaka ete bomoi mpe boluki ezala likoki."
+  },
+  "imageAlt": "Satellite ya Tempelo ya Orbital"
+}

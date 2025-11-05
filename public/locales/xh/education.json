@@ -1,0 +1,43 @@
+{
+  "title": "Imfundo kunye nomthombo ovulekileyo-iTempile ye-Orbital",
+  "heading": "Imfundo kunye nomthombo ovulelekileyo",
+  "intro": {
+    "paragraph1": "Bonke ubuchwepheshe obuphuhliswe kwimishini yeTempile ye-Orbital buya kuba <strong>ngumthombo ovulekileyo</strong> kwaye bufumaneke kwi-intanethi <strong>ngesiPhuthukezi</strong> , <strong>isiNgesi</strong> , <strong>iSpanishi</strong> kunye <strong>nesiHindi</strong> , ukukhuthaza ukuqhubela phambili kokuhlola indawo kwi- <strong>Global South</strong> . Imishini emitsha kunye neeprojekthi zinokusebenzisa iTempile ye-Orbital njengesiseko sovavanyo lwabo lobugcisa okanye lwesayensi.",
+    "paragraph2": "Njengenxalenye yomsebenzi wayo wezemfundo, i-Orbital Temple iya kunika ikhosi yasimahla yeelwimi ezininzi malunga nendlela yokwakha kunye nokuphehlelela isathelayithi. Iya kuba lithuba lokufunda ngetekhnoloji yesathelayithi kwaye uyisebenzise. Nabani na oneminyaka engaphezu kwe- <strong>16</strong> uya kukwazi ukuzakhela i-satellite, ukufunda ngembali yobugcisa kwindawo, iingcamango ezisisiseko ze-electronics, i-mechanics kunye nesayensi yendawo, kuquka indlela yokuxhasa ngemali iiprojekthi kunye nendlela yokwakha i-antenna yokunxibelelana neesathelayithi kwi-orbit."
+  },
+  "spaceGap": {
+    "heading": "Kutheni le nto ibalulekile: iSithuba seSithuba",
+    "paragraph1": "Igama elithi <strong>&quot;Isikhewu seSithuba&quot;</strong> libhekisa kukwahlukana phakathi kwezizwe eziphuhlileyo ezinokufikelela kumathuba obuchwepheshe afunyenwe ngokuphononongwa kwendawo, kunye namazwe asakhasayo angakwaziyo ukufikelela kobu bugcisa. Amazwe akuMazantsi eHlabathi kufuneka ahlawule imali eninzi koorhulumente bamazwe angaphandle okanye iinkampani ngokufikelela kwisiseko solwazi oluveliswe ngobuchwepheshe besathelayithi.",
+    "paragraph2": "Ubugcisa basemajukujukwini bunikela iingenelo ezibalulekileyo: iisathelayithi zinceda ekulweni nokugawulwa kwemithi ngokungekho mthethweni, ukuloba ngokungekho mthethweni norhwebo olungekho mthethweni lwezilwanyana zasendle, nto leyo emele ngaphezu <strong>kweebhiliyoni ezingama-73 zeerandi ngonyaka</strong> . Banika ulwazi olubalulekileyo malunga nemozulu, imveliso yamanzi kunye nokhuseleko lokutya. Iisathelayithi zenza kube lula ukunkcenkceshela kunye nobuchule bezolimo, kwaye zinceda ukuthintela iintlekele zendalo. Ushishino lwasemajukujukwini lunokudala <strong>imisebenzi efikelela kwisigidi esi-1</strong> ngowama <strong>-2030</strong> , kodwa la mathuba ahlala engafikeleleki kwabaninzi kuMzantsi weHlabathi.",
+    "paragraph3": "Ngokubonelela ngeteknoloji yomthombo ovulekileyo kunye nemfundo, sijonge ukwenza idemokhrasi ukufikelela kwindawo kwaye sixhobise isizukulwana esitsha ukuba siphuphe ngaphaya kwesibhakabhaka."
+  },
+  "empowering": {
+    "heading": "Ukuxhobisa isizukulwana esilandelayo",
+    "intro": "Siza kufundisa isizukulwana esilandelayo sabahloli basemajukujukwini indlela yokwakha kunye nokuphehlelela ezabo iisathelayithi, eziquka izihloko ezibalulekileyo ezibandakanya:",
+    "topics": {
+      "history": "<strong>Imbali yobugcisa kwindawo:</strong> Ukuqonda umnombo weesathelayithi zobugcisa kunye nemisebenzi yobugcisa esekwe kwindawo.",
+      "concepts": "<strong>Iingqikelelo ezingundoqo:</strong> <strong>I-ArtSat</strong> (iisathelayithi zobugcisa), iteknoloji yendawo <strong>yoMthombo oVulekileyo</strong> , kunye <strong>neSithuba seSithuba</strong> .",
+      "missions": "<strong>Uthumo lweNdawo:</strong> Indlela yokucinga kunye nokuyila i-mission, kunye nendlela yokuseka iqela lokuyiphumeza.",
+      "electronics": "<strong>I-Electronics esithubeni:</strong> Iingqikelelo ezisisiseko zamalungu e-elektroniki anokuphila kwaye asebenze kwindawo esingqongileyo.",
+      "mechanics": "<strong>IiMechanics emajukujukwini:</strong> Ukuqonda iimfuno zesakhiwo kunye nezomatshini kuyilo lwesathelayithi.",
+      "orbits": "<strong>Ii-Orbits kunye nabaqalisi:</strong> Iindidi ezahlukeneyo zee-orbits kunye nendlela yokukhetha ababoneleli bokuqalisa kwi-mission yakho.",
+      "financing": "<strong>Amacebo okuxhasa ngemali:</strong> Uyifumana njani inkxaso-mali kunye nezixhobo zokusungula isathelayithi yakho. Ikhosi iya kubonelela ngezixhobo zokufumana inkxaso-mali yokuqaliswa kwakho, ukunceda abafundi bafumane iinkqubo kunye nezibonelelo ezivela kumaziko ehlabathi axhasa izazinzulu eziselula kunye nabafundi ekuthumeleni iisathelayithi zabo emajukujukwini.",
+      "groundStation": "<strong>Uphuhliso lwesikhululo esisezantsi:</strong> Uyenza njani i-eriyali yokunxibelelana neTempile ye-Orbital kunye nezinye iisathelayithi."
+    }
+  },
+  "technology": {
+    "heading": "Itekhnoloji: IiSatellite zePocketQube",
+    "paragraph1": "Abafundi baya kufunda ukusebenza ngeesathelayithi <strong>zePocketQube</strong> , umgangatho we-nanosatellite olinganisa nje <strong>i-5cm³</strong> kunye nobunzima obufikelela kuma <strong>-250g</strong> . Ngaphandle kobukhulu babo buncinci, iiPocketQubes zizixhobo ezinamandla ezikwazi ukujonga umhlaba, ukubeka iliso kunye nokunxibelelana.",
+    "paragraph2": "Ezi sathelayithi zihlangeneyo zinezicelo ezininzi zehlabathi lokwenyani, ukusuka kuphando lwezenzululwazi ngotshintsho lwemozulu ukuya kunxibelelwano lwamazwekazi. Ngenxa yokuba zincinci kwaye zikhaphukhaphu, zifikeleleka ngakumbi ukwakha kunye nokuqaliswa, ukwenza indawo ifikeleleke ngakumbi kubafundi, abaphandi, kunye namagcisa kwihlabathi liphela."
+  },
+  "globalAccess": {
+    "heading": "UFikelelo lweHlabathi, ukuQala kuMzantsi weHlabathi",
+    "paragraph1": "Ikhosi iya kufumaneka kuye nabani na <strong>oneminyaka eli - 16 nangaphezulu</strong> , <strong>ngaphandle kwentlawulo</strong> . Siqala ngomxholo <strong>wesiPhuthukezi</strong> , <strong>iSpanish</strong> , <strong>IsiNgesi</strong> kunye <strong>nesiHindi</strong> , kunye nezicwangciso zokwandisa kwiilwimi ezongezelelweyo njengoko inkqubo ikhula.",
+    "paragraph2": "Umsebenzi wethu uqala kuMazantsi eHlabathi kwaye unabele kwihlabathi, siqinisekisa ukuba isizukulwana esilandelayo sabahloli basemajukujukwini siphuma kuzo zonke iikona zomhlaba."
+  },
+  "callToAction": {
+    "heading": "Sincede Kwenzeke Oku",
+    "content": "Le nkqubo yemfundo isaphuhliswa ngoku. Sifuna amahlakani kunye nabaxhasi ababelana ngombono wethu wokufikelela kwidemokhrasi kubuchwepheshe basemajukujukwini. Ukuba wena okanye umbutho wakho ungathanda ukuxhasa eli nyathelo, nceda undwendwele <a href=\"/support\">iphepha lethu lenkxaso</a> ukuze ufunde ngamathuba entsebenziswano."
+  },
+  "imageAlt": "ISathelayithi yeTempile yeOrbital"
+}

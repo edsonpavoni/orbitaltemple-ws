@@ -1,0 +1,43 @@
+{
+  "title": "Ta'lim va ochiq manba - Orbital Temple",
+  "heading": "Ta'lim va ochiq manba",
+  "intro": {
+    "paragraph1": "Orbital Temple missiyasi uchun ishlab chiqilgan barcha texnologiyalar <strong>ochiq manba</strong> bo&#39;lib, <strong>portugal</strong> , <strong>ingliz</strong> , <strong>ispan</strong> va <strong>hind</strong> tillarida onlayn mavjud bo&#39;lib, <strong>global janubda</strong> kosmik tadqiqotlarni rivojlantirishga yordam beradi. Yangi missiyalar va loyihalar Orbital Temple-dan o&#39;zlarining badiiy yoki ilmiy tajribalari uchun asos sifatida foydalanishlari mumkin.",
+    "paragraph2": "Orbital Temple o&#39;zining ta&#39;lim missiyasining bir qismi sifatida sun&#39;iy yo&#39;ldoshni qurish va uchirish bo&#39;yicha bepul ko&#39;p tilli kursni taklif qiladi. Bu sun&#39;iy yo&#39;ldosh texnologiyasini o&#39;rganish va uni amaliyotda qo&#39;llash uchun amaliy imkoniyat bo&#39;ladi. <strong>16</strong> yoshdan oshgan har bir kishi o&#39;z sun&#39;iy yo&#39;ldoshini qurishi, kosmosdagi san&#39;at tarixi, elektronika, mexanika va kosmik fanning fundamental tushunchalari, jumladan, loyihalarni qanday moliyalashtirish va orbitada sun&#39;iy yo&#39;ldoshlar bilan aloqa qilish uchun antenna qurish haqida ma&#39;lumot olishi mumkin."
+  },
+  "spaceGap": {
+    "heading": "Nima uchun bu muhim: kosmik bo'shliq",
+    "paragraph1": "<strong>&quot;Kosmik bo&#39;shliq&quot;</strong> atamasi kosmik tadqiqotlar natijasida olingan texnologik imkoniyatlardan foydalana oladigan rivojlangan davlatlar va ushbu texnologiyalardan foydalana olmaydigan rivojlanayotgan davlatlar o&#39;rtasidagi tafovutni anglatadi. Global janubdagi davlatlar sun&#39;iy yo&#39;ldosh texnologiyalari tomonidan ishlab chiqarilgan ma&#39;lumotlarga asosiy kirish uchun xorijiy hukumatlar yoki kompaniyalarga katta miqdorda to&#39;lashlari kerak.",
+    "paragraph2": "Koinot texnologiyalari muhim foyda keltiradi: sun&#39;iy yo&#39;ldoshlar noqonuniy daraxt kesish, noqonuniy baliq ovlash va noqonuniy yovvoyi tabiat savdosiga qarshi kurashda yordam beradi, bu <strong>yiliga 73 milliard dollardan</strong> ko&#39;proqni tashkil qiladi. Ular iqlim, suv ishlab chiqarish va oziq-ovqat xavfsizligi haqida muhim ma&#39;lumotlarni taqdim etadi. Sun&#39;iy yo&#39;ldoshlar aniq sug&#39;orish va qishloq xo&#39;jaligi texnikasini ta&#39;minlaydi va tabiiy ofatlarning oldini olishga yordam beradi. Koinot sanoati <strong>2030 yilga</strong> borib <strong>1 milliongacha ish o&#39;rni</strong> yaratishi mumkin, ammo bu imkoniyatlar Janubiy janubda ko&#39;pchilik uchun mavjud emas.",
+    "paragraph3": "Ochiq manbali texnologiya va ta'limni taqdim etish orqali biz kosmosga kirishni demokratlashtirish va yangi avlodga osmondan tashqarida orzu qilish imkoniyatini berishni maqsad qilganmiz."
+  },
+  "empowering": {
+    "heading": "Kelgusi avlodni kuchaytirish",
+    "intro": "Biz kosmik tadqiqotchilarning keyingi avlodiga o'zlarining sun'iy yo'ldoshlarini qanday yaratish va uchirishni o'rgatamiz, shu jumladan muhim mavzular:",
+    "topics": {
+      "history": "<strong>Kosmosdagi san&#39;at tarixi:</strong> badiiy sun&#39;iy yo&#39;ldoshlar va kosmik san&#39;at asarlarining nasl-nasabini tushunish.",
+      "concepts": "<strong>Asosiy tushunchalar:</strong> <strong>ArtSat</strong> (badiiy sun&#39;iy yo&#39;ldoshlar), <strong>Open Source</strong> kosmik texnologiyasi va <strong>Space Gap</strong> .",
+      "missions": "<strong>Kosmik missiyalar:</strong> Missiyani qanday kontseptsiyalash va loyihalashtirish va uni amalga oshirish uchun jamoani qanday shakllantirish kerak.",
+      "electronics": "<strong>Kosmosdagi elektronika:</strong> kosmik muhitda omon qolishi va ishlashi mumkin bo&#39;lgan elektron komponentlarning asosiy tushunchalari.",
+      "mechanics": "<strong>Kosmosdagi mexanika:</strong> sun&#39;iy yo&#39;ldosh dizayni uchun tizimli va mexanik talablarni tushunish.",
+      "orbits": "<strong>Orbitalar va ishga tushirgichlar:</strong> orbitalarning har xil turlari va missiyangiz uchun ishga tushirish provayderlarini qanday tanlash kerak.",
+      "financing": "<strong>Moliyalashtirish strategiyalari:</strong> sun&#39;iy yo&#39;ldoshingizni ishga tushirish uchun mablag&#39; va resurslarni qanday ta&#39;minlash kerak. Kurs uchirilishi uchun mablag&#39; olish uchun resurslarni taqdim etadi, talabalarga yosh olimlar va talabalarni kosmosga sun&#39;iy yo&#39;ldoshlarini yuborishda qo&#39;llab-quvvatlovchi xalqaro institutlarning dasturlari va grantlarini topishga yordam beradi.",
+      "groundStation": "<strong>Er osti stantsiyasining rivojlanishi:</strong> Orbital Temple va boshqa sun&#39;iy yo&#39;ldoshlar bilan aloqa qilish uchun antennani qanday qurish kerak."
+    }
+  },
+  "technology": {
+    "heading": "Texnologiya: PocketQube sun'iy yo'ldoshlari",
+    "paragraph1": "Talabalar <strong>PocketQube</strong> sun&#39;iy yo&#39;ldoshlari bilan ishlashni o&#39;rganadilar, atigi <strong>5 sm³</strong> va og&#39;irligi <strong>250 g</strong> gacha bo&#39;lgan nanosun&#39;iy yo&#39;ldosh standarti. Kichik o&#39;lchamlariga qaramay, PocketQubes Yerni kuzatish, kuzatish va aloqa qilish imkoniyatiga ega kuchli vositadir.",
+    "paragraph2": "Ushbu ixcham sun'iy yo'ldoshlar iqlim o'zgarishi bo'yicha ilmiy tadqiqotlardan tortib, qit'alararo aloqagacha bo'lgan ko'plab real ilovalarga ega. Ular kichikroq va engilroq bo'lgani uchun ularni qurish va ishga tushirish ancha qulay bo'lib, butun dunyo bo'ylab talabalar, tadqiqotchilar va rassomlar uchun makonni yanada qulayroq qiladi."
+  },
+  "globalAccess": {
+    "heading": "Global kirish, global janubdan boshlab",
+    "paragraph1": "Kurs <strong>16 yosh va undan katta bo&#39;lgan</strong> har bir kishi uchun mutlaqo <strong>bepul</strong> bo&#39;ladi. Biz <strong>portugal</strong> , <strong>ispan</strong> , <strong>ingliz</strong> va <strong>hind</strong> tillaridagi kontentdan boshlayapmiz, dastur o‘sib borishi bilan qo‘shimcha tillarga ham kengaytirishni rejalashtirmoqdamiz.",
+    "paragraph2": "Bizning missiyamiz Global Janubdan boshlanadi va butun dunyoga tarqaladi va kosmik tadqiqotchilarning keyingi avlodi Yerning barcha burchaklaridan kelishini ta'minlaydi."
+  },
+  "callToAction": {
+    "heading": "Buni amalga oshirishga yordam bering",
+    "content": "Ushbu ta&#39;lim dasturi hozirda ishlab chiqilmoqda. Biz kosmik texnologiyalarga kirishni demokratlashtirish haqidagi qarashlarimizni baham ko&#39;radigan hamkorlar va donorlarni qidirmoqdamiz. Agar siz yoki tashkilotingiz ushbu tashabbusni qo&#39;llab-quvvatlamoqchi bo&#39;lsangiz, hamkorlik imkoniyatlari haqida bilish uchun bizning <a href=\"/support\">qo&#39;llab-quvvatlash sahifamizga</a> tashrif buyuring."
+  },
+  "imageAlt": "Orbital Temple sun'iy yo'ldoshi"
+}

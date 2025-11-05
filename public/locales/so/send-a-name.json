@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "markaad soo gasho\ncaado\nin magac loo diro\ngalay\nmacbudka orbital\nmeel bannaan\nqaado\nneef",
+    "button": "diyaar ayaan ahay"
+  },
+  "nameInput": {
+    "title": "ku qor magac",
+    "subtitle": "waxay u kici doontaa Macbadka Orbital ee meel bannaan.",
+    "placeholder": "magac",
+    "button": "ha la fuulo"
+  },
+  "emailInput": {
+    "title": "ku qor emailkaaga",
+    "subtitle": "si aad u hesho fariin marka magacu kor u kaco.",
+    "placeholder": "emailkaaga",
+    "button": "waa la sameeyay"
+  },
+  "loading": {
+    "alt": "Soodejinaya"
+  },
+  "success": {
+    "text": "magaca\n{{name}}\nhadda saf baa loo galay\nu kicitaan.\nmarka\nmacbudka meel bannaan\ntoosan, leh\nanteenada\nDhulka\nwaan diri doonaa\nmagaca\nwaanad heli doontaa\nfariin."
+  }
+}

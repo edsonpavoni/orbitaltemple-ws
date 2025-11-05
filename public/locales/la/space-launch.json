@@ -1,0 +1,16 @@
+{
+  "title": "Inauguratio Spatialis - Templum Orbitale",
+  "heading": "Ingressus Spatialis",
+  "intro": "Templum Orbitale in PSLV (Vehiculo Lanciatoris Satellitum Polaris) die XXVIII mensis Novembris, anno MMXV, ex Centro Spatiali Satish Dhawan in Sriharikota, India, immittendum est.",
+  "partnership": "Inauguratio Templi Orbitalis est societas inter NewSpace India Limited (NSIL), societatem Gubernationis Indiae sub Ministerio Spatiali, Antrix Corporation, et artificem. Haec collaboratio magnum momentum pro arte in exploratione spatiali repraesentat, coniungens programma spatiale Indiae cum visione artistica inclusionis radicalis.",
+  "risks": {
+    "heading": "Pericula",
+    "paragraph1": "Satelles constructus est ad tolerandas condiciones vibrationis extremas et cyclos thermicos, et probationes rigorosas subiit. Attamen, missiones spatiales pericula inherentia ferunt. Si satelles laeditur durante missione vel dispositione, vel si communicationem cum stationibus nostris terrestribus instituere non potest, operam dabimus ut difficultates investigare et solvere possimus. Satelles systemata redundantia et protocola subsidiaria habet, quae ad augendas probabilitates successus missionis designata sunt.",
+    "paragraph2": "Praeterea, satelles in orbita minus quam decem annos manere potest si condiciones atmosphaericae vel alii factores priorem orbitae decrementum efficiunt. Quamquam eum ad minimum decennium durandum designavimus, vera vita eius a condicionibus pendet quas plene moderari non possumus.",
+    "paragraph3": "Si prima immissio fallit, aut si hanc missionem prout consilium fuit perficere non poterimus, vias alternativas progrediendi explorabimus, fortasse inter quas secundam immissionem cum pecunia praesto, societatem cum aliis missionibus, vel documentationem conatus tamquam partem narrationis operis artistici de aspiratione et limitatione."
+  },
+  "imageAlts": {
+    "india": "Centrum Spatiale ISRO, India",
+    "satellite": "Satellites Orbitalis Templi"
+  }
+}

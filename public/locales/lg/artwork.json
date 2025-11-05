@@ -1,0 +1,31 @@
+{
+  "title": "Omulimu gw'Obuyiiya - Orbital Temple",
+  "heading": "Omulimu gw’Obuyiiya",
+  "intro": {
+    "paragraph1": "Orbital Temple ye satellite erimu omulimu gw’ekikugu: ekijjukizo mu bwengula ekiggule eri buli kitonde ekitegeera ekibeera oba ekibadde kibeera ku Nsi.",
+    "paragraph2": "Okuyita mu tekinologiya, omuntu yenna asobola okuweereza erinnya ly’omuntu mu Yeekaalu, oba omuntu eyafa, omuntu omulamu ennyo, oba ekitonde kyonna ekisaanira okujjukirwa."
+  },
+  "sculpture": {
+    "heading": "Ekibumbe",
+    "paragraph1": "Ekifaananyi kino kirina ebintu bisatu ebikwatagana: setilayiti naddala eyakolebwa okutereka obuwumbi n’obuwumbi bw’amannya; ekibumbe eky’olukale nga kiwanyisiganya amawulire ne setilayiti; n’omukutu abeetabye mu kutendekebwa mwe bayita okusindika amannya, okuva kati okutuusa lwe gayitiridde, mu ggulu.",
+    "paragraph2": "Nga kaweefube ow’enjawulo, Orbital Temple esobola okutwalibwa ng’ekibumbe ekikwata ku kifo ekimu, ekibeera mu bwengula. Era pulojekiti ya Artsat."
+  },
+  "antenna": {
+    "heading": "Antenna Nga Ekibumbe Eky'olukale",
+    "paragraph1": "Antenna etuyunga ku bwengula.",
+    "paragraph2": "Antenna egenda okubeera mu mpuliziganya butereevu ne setilayiti egenda mu nkulungo ekolebwa.",
+    "paragraph3": "Nga tulina enjuyi eya zaabu etunula, ng’endabirwamu y’eggulu waggulu waalyo, y’entandikwa y’okusikirizibwa kw’amasasi (oba enkolagana yaffe n’ekyo ‘waggulu awo’).",
+    "paragraph4": "Wadde ng’ebibumbe bino tebiteekeddwa mu bitundu by’ensi ebisinga obungi, Frames zaffe okuva ku nsi, mu kiseera kino ezifuga setilayiti, zisindika amannya ku buli kifo we ziyita.",
+    "paragraph5": "Yamba okuleeta okwolesebwa kuno mu kibuga kyo —okuteeka ebibumbe bya antenna ebikubiriza emboozi ezikwata ku kunoonyereza mu bwengula, ebifaananyi, n’ekifo kyaffe kye tugabana mu bwengula. <a href=\"/support\">Manya ebisingawo ku kuwagira pulojekiti eno</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite ya Yeekaalu ey’enkulungo",
+    "riseNy": "Yeekaalu ya Orbital ku Rise NY",
+    "installation": "Yeekaalu ya Orbital eyawandiikibwa Clara Marques",
+    "antenna": "Antenna ya Yeekaalu ey’enkulungo"
+  },
+  "imageCaptions": {
+    "riseNy": "Yeekaalu ya Orbital mu bwengula. Okulaga ebifaananyi mu ngeri ya 3D nga RiseNY&Partners.",
+    "mercosul": "Okuteekebwawo kwa Yeekaalu ya Orbital mu Mercosul Biennial, mu Porto Alegre, Brazil.<br> Ekifaananyi kya Clara Marques."
+  }
+}

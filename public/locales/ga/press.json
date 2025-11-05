@@ -1,0 +1,138 @@
+{
+  "title": "Preas & Meáin - Teampall Fithiseach",
+  "heading": "Preas & Meáin",
+  "pressContact": {
+    "heading": "Teagmháil Preasa",
+    "content": "Le haghaidh fiosrúcháin phreasa, agallaimh agus iarratais meán:<br /> <strong>Ríomhphost:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Suíomh Gréasáin:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Maidir leis an Tionscadal",
+    "paragraph1": "Is saothar ealaíne agus satailít é Teampall Fithiseach a bhfuil sé mar aidhm aige a bheith ina theampall radacach cuimsitheach, tógtha in áit nach féidir le ballaí teacht air. Cruthaithe ag an ealaíontóir Brasaíleach Edson Pavoni, an t-ealaíontóir atá taobh thiar de Leacht Cuimhneacháin Inumeráveis a shroich 1 as gach 6 Bhrasaíleach le linn phaindéim COVID, tugann an tionscadal cuireadh do dhaoine ó gach cearn den domhan ainm duine ar mian leo cuimhneamh air a sheoladh. Tarchuirtear na hainmneacha seo chuig satailít i bhfithis, rud a chruthaíonn leacht cuimhneacháin chomhchoiteann.",
+    "paragraph2": "Trí shuíomh gréasáin atá ar fáil i 136 teanga, bíonn rannpháirtithe páirteach i gcineál nua deasghnátha. Pléann an Teampall Fithiseach téamaí na cuimsitheachta, na cuimhne, agus ár ndaonnacht chomhroinnte, ag ceistiú cén fáth nach féidir le haon teampall fisiceach ar Domhan fáilte a chur roimh gach duine i ndáiríre, agus ag moladh an spás mar an t-aon áit ina bhféadfadh cuimsitheacht radacach a bheith ann."
+  },
+  "aboutArtist": {
+    "heading": "Maidir leis an Ealaíontóir",
+    "paragraph1": "Is ealaíontóir Brasaíleach é <strong>Edson Pavoni</strong> a thosaigh a thuras ar shráideanna São Paulo, áit ar mhúnlaigh comhthéacs na bochtaineachta agus an fhoréigin a chéad bhlianta. I dtír inar thairg an Chríostaíocht bealach amach ó na sráideanna, ó dhrugaí agus ó fhoréigean, fuair Pavoni tearmann sa chreideamh, téama a chuirfeadh tionchar ar a chleachtas ealaíne níos déanaí, nuair a tháinig sé chun bheith ina cháineadh ar mhí-úsáid reiligiúnach.",
+    "paragraph2": "Sa bhliain 2020, le linn phaindéim COVID-19, chruthaigh Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (gan áireamh)</a></strong> , saothar ealaíne ag crosbhealach na healaíne agus na hiriseoireachta. Rinne an tionscadal agallamh le na mílte teaghlach agus scríobh sé scéalta faoi na daoine a cailleadh sa phaindéim, rud a chruthaigh spás inar sháraigh cuimhne uimhreacha agus staitisticí. Rinneadh dánta, amhráin agus simfónacha leis na scéalta sin. Chruthaigh nuachtáin clúdaigh ag baint úsáide as na hainmneacha agus na staireanna. Léigh na réaltaí Brasaíleacha go léir ar nós Fernanda Torres, buaiteoir Oscar, agus réaltaí ar nós Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo agus Lazaro Ramos, agus an oiread sin eile na scéalta sin ar an teilifís náisiúnta. Shroich an tionscadal 32 milliún duine, duine as gach ceathrar daoine fásta Brasaíleacha. Rinneadh líonra cneasaithe de, séadchomhartha comhchoiteann don chuimhne.",
+    "paragraph3": "Tar éis níos mó ná deich míle comhrá faoi bhrón, tháinig patrún chun cinn: nuair a labhraímid faoi dhuine atá básaithe, roghnaímid blúirí dá scéal amhail is dá mba litir mholta a scríobhfaimis chuig geataire na bparthas. Déanaimid ár ndícheall iad a sheoladh chuig an áit a gcreidimid gurb é neamh é. Spreag an obair seo tuiscint nua: Múnlaíonn ár gcreideamh faoi cé atá tuillte ag neamh go díreach cé a nglacaimid leis nó cé a eisiatar ar Domhan. Chreid na coilínithe Portaingéalacha sa Bhrasaíl nach raibh anamacha ag daoine Gorma; thug an creideamh sin údar maith le sclábhaíocht. Má bhí tú dúchasach, má rugadh tú san áit mhícheart nó má bhí grá agat don duine mícheart, insítear duit go dtí an lá atá inniu ann go raibh doirse na bhflaitheas dúnta duit. An bhfuil fís den todhchaí ann nach líontar le diúltú?",
+    "paragraph4": "Sin mar a rugadh Teampall Orbital."
+  },
+  "keyFacts": {
+    "heading": "Príomhfhíricí",
+    "artist": "<strong>Ealaíontóir:</strong> Edson Pavoni (An Bhrasaíl)",
+    "projectType": "<strong>Cineál Tionscadail:</strong> Saothar ealaíne satailíte, suíomh-shonrach ar an spás, deasghnáth gréasánbhunaithe",
+    "launchDate": "<strong>Dáta Seolta:</strong> 28 Samhain, 2025",
+    "launchLocation": "<strong>Suíomh Seolta:</strong> Ionad Spáis Satish Dhawan, Sriharikota, an India (ISRO)",
+    "satellite": "<strong>Satailít:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Fithis:</strong> airde 525km, sioncrónach leis an ngrian",
+    "participation": "<strong>Rannpháirtíocht:</strong> Saor in aisce, oscailte do chách ar fud an domhain",
+    "namesSent": {
+      "heading": "<strong>Ainmneacha a Seoltar chuig an bhFithis:</strong>",
+      "caption": "<em>Comhaireamh beo nuashonraithe ón mbunachar sonraí • Athnuachan deireanach: {dáta}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Duaiseanna & Aitheantas",
+    "mercosul": {
+      "title": "<strong>13ú Biennial Mercosur</strong> (2022)",
+      "location": "Porto Alegre, an Bhrasaíl",
+      "curator": "Curtha i láthair ag Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Duais Lumen 2022 - Duais na Todhchaí</strong>",
+      "status": "Ar an liosta fada"
+    },
+    "cubeDesign": {
+      "title": "<strong>Comórtas CubeDesign 2021</strong>",
+      "award": "Buaiteoir - Catagóir ArtSat",
+      "org": "Curtha chun cinn ag Institiúid Taighde Spáis na Brasaíle (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Foireann",
+    "content": "Cruthaítear Orbital Temple i gcomhar le Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedrozedigal, André Vidigal. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, agus iad siúd go léir a leanann orthu ag moladh ainmneacha don teampall seo."
+  },
+  "pressCoverage": {
+    "heading": "Réadmhaoin i / Clúdach Preasa",
+    "paragraph1": "<em>Cuirfear clúdach preasa agus gnéithe leis de réir mar a bheidh siad ar fáil. Chun na nuashonruithe is déanaí a fháil, déan teagmháil lenár bhfoireann preasa.</em>",
+    "paragraph2": "I measc na dtaispeántas agus na ngnéithe roimhe seo bhí cur i láthair ag an 13ú Bienal Mercosul, aitheantas ó Dhuais Lumen, agus roghnú ag Institiúid Taighde Spáis na Brasaíle (INPE)."
+  },
+  "images": {
+    "heading": "Íomhánna Ardtaifigh le hÚsáid ag an bPreas",
+    "intro": "Tá na híomhánna uile ar fáil le húsáid mar eagarthóir. Cliceáil ar aon íomhá chun an comhad ardtaifigh a íoslódáil.",
+    "installationPhotos": {
+      "heading": "Grianghraif Teampaill Fithiseach",
+      "credit": "Tabhair creidiúint le do thoil: \"Grianghraf le Clara Marques / Le caoinchead Edson Pavoni, Orbital Temple\"",
+      "view01": "Radharc Suiteála 01<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (1.4 MB)",
+      "view02": "Radharc Suiteála 02<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (2.9 MB)",
+      "view03": "Radharc Suiteála 03<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (11 MB)",
+      "view04": "Radharc Suiteála 04<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (3.4 MB)",
+      "view05": "Radharc Suiteála 05<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (3.3 MB)",
+      "view06": "Radharc Suiteála 06<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (3.7 MB)",
+      "view07": "Radharc Suiteála 07<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (3.4 MB)",
+      "view08": "Radharc Suiteála 08<br /> Grianghraf: Clara Marques<br /> ↓ Íoslódáil Ardtaifigh (2.7 MB)",
+      "satelliteDesign": "Dearadh Satailíte<br /> ↓ Íoslódáil",
+      "antennaSculpture": "Antenna/Dealbhóireacht<br /> ↓ Íoslódáil"
+    },
+    "renders": {
+      "heading": "Rindreálacha Teampaill Fhithiseacha",
+      "credit": "Léirithe coincheapúla 3T de Theampall Fithiseach. Tabhair creidiúint le do thoil: \"Léirithe 3T le RiseNY&Partners / Le caoinchead Edson Pavoni, Teampall Fithiseach\"",
+      "render01": "Rindreáil 3D 01<br /> RiseNY&amp;Partners<br /> ↓ Íoslódáil Ardtaifigh (10 MB)",
+      "render02": "Rindreáil 3D 02<br /> RiseNY&amp;Partners<br /> ↓ Íoslódáil Ardtaifigh (5.9 MB)",
+      "render03": "Rindreáil 3D 03<br /> RiseNY&amp;Partners<br /> ↓ Íoslódáil Ardtaifigh (5.2 MB)",
+      "render04": "Rindreáil 3D 04<br /> RiseNY&amp;Partners<br /> ↓ Íoslódáil Ardtaifigh (11 MB)",
+      "render05": "Rindreáil 3D 05<br /> RiseNY&amp;Partners<br /> ↓ Íoslódáil Ardtaifigh (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Grianghraif Ealaíontóra",
+      "photo1": "Grianghraf 1<br /> ↓ Íoslódáil Ardtaifigh",
+      "photo2": "Grianghraf 2<br /> ↓ Íoslódáil Ardtaifigh"
+    },
+    "sathiPhotos": {
+      "heading": "Grianghraif Sathi Roy",
+      "photo1": "Grianghraf 1<br /> ↓ Íoslódáil Ardtaifigh (843 KB)",
+      "photo2": "Grianghraf 2<br /> ↓ Íoslódáil Ardtaifigh (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Sonraíochtaí Teicniúla",
+    "satellite": {
+      "heading": "Satailít",
+      "dimensions": "Toisí: 50 x 58 x 64 mm",
+      "classification": "Aicmiú: 1P PocketQube",
+      "weight": "Meáchan: 245g",
+      "materials": "Ábhair: Alúmanam, ór, snáithínghloine, comhpháirteanna leictreonacha",
+      "orbit": "Fithis: Airde 525 ± 25 km; Claonadh: SSO 97.6 ± 0.1°",
+      "launch": "Seoladh: 28 Samhain, 2025 trí ISRO, an India"
+    },
+    "antenna": {
+      "heading": "Antenna/Dealbhóireacht",
+      "dimensions": "Toisí: 6m trastomhas x 1.2m airde",
+      "weight": "Meáchan: 46 kg",
+      "materials": "Ábhair: Alúmanam, bord scáthánaithe eapocsa, cruinneachán alúmanaim órga ar fionraí trí struchtúr scafall"
+    },
+    "radio": {
+      "heading": "Sonraíochtaí Raidió",
+      "downlink": "Nasc síos: 437 MHz",
+      "status": "Stádas an Lainseála: Sceidealaithe 28 Samhain, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Acmhainní Breise",
+    "artwork": "→ Féach ar Dhoiciméid Saothair Ealaíne",
+    "howItWorks": "→ Conas a Oibríonn Sé",
+    "technicalInfo": "→ Faisnéis Theicniúil",
+    "spaceLaunch": "→ Faisnéis faoi Sheoladh Spáis",
+    "ritual": "→ Taithí a fháil ar an Deasghnáth"
+  },
+  "imageAlts": {
+    "installation": "Suiteáil Teampall Fithiseach le Edson Pavoni",
+    "satelliteDesign": "Dearadh Satailíte Teampaill Fithiseach",
+    "antenna": "Dealbh Antenna Teampaill Fithiseach",
+    "render": "Rindreáil 3D den Teampall Fithiseach le RiseNY&Partners",
+    "edsonPortrait": "Portráid Edson Pavoni",
+    "sathiPortrait": "Portráid Sathi Roy",
+    "lumenPrize": "Duais Lumen",
+    "mercosulBienal": "Débhliantúil Mercosur"
+  }
+}

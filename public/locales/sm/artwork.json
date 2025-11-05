@@ -1,0 +1,31 @@
+{
+  "title": "Le Fa'ata'ita'iga - Malumalu Orbital",
+  "heading": "O Galuega",
+  "intro": {
+    "paragraph1": "Orbital Temple o se satelite ma se galuega faʻataʻitaʻi: o se faʻamanatuga i fafo avanoa avanoa mo tagata ola uma o loʻo ola pe na ola i le lalolagi.",
+    "paragraph2": "E ala i faiga faatekinolosi, e mafai ai e soo se tasi ona auina atu le igoa o se tasi i le Malumalu, pe o se tasi ua maliu, o se tagata o loo ola pea, po o soo se tagata e tatau ona manatua."
+  },
+  "sculpture": {
+    "heading": "O le Ata",
+    "paragraph1": "O le galuega taulima e tolu elemene e faalagolago faatasi: o se satelite ua mamanuina faapitoa e teu ai le faitau piliona o igoa; se fa'atagata lautele o fefa'asoa'i fa'amatalaga ma le satelite; ma se upegatafa'ilagi lea e auina atu ai e tagata auai igoa, mai le taimi nei seia oo ina maliliu, i le lagi.",
+    "paragraph2": "I le avea ai o se taumafaiga multidisciplinary, Orbital Temple e mafai ona manatu o se faʻatagata faʻapitoa i luga ole laiga, nofoia avanoa. Ose galuega foi a Artsat."
+  },
+  "antenna": {
+    "heading": "O le Antenna e fai ma Fa'atagata Lautele",
+    "paragraph1": "Se antenna e fa'afeso'ota'i ai i tatou ma le vateatea.",
+    "paragraph2": "O se antenna o le a fesoʻotaʻi saʻo ma le satelite faʻasolosolo o loʻo fuafuaina.",
+    "paragraph3": "Fa'atasi ai ma se fa'afouga auro, fa'aata le lagi i luga a'e, o se amataga lea mo le fa'aosofia tele (po'o le tatou va ma le mea 'i luga').",
+    "paragraph4": "E ui e le o faʻapipiʻiina faʻatagata i le tele o vaega o le lalolagi, a tatou Frames mai le Lalolagi, lea o loʻo pulea nei le satelite, o loʻo lafoina igoa i passthrough taʻitasi.",
+    "paragraph5": "Fesoasoani e aumai lenei va&#39;aiga i lau &#39;a&#39;ai-fa&#39;apipi&#39;i ata fa&#39;aantenna e fa&#39;aosofia ai talanoaga e uiga i su&#39;esu&#39;ega vateatea, ata, ma lo tatou nofoaga fa&#39;asoa i le vateatea. <a href=\"/support\">Aoao atili e uiga i le lagolagoina o le poloketi</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satelite Malumalu Orbital",
+    "riseNy": "Orbital Temple at Rise NY",
+    "installation": "Malumalu Orbital saunia e Clara Marques",
+    "antenna": "Orbital Temple Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Malumalu Orbital i le vanimonimo. Fa'aaliga 3D e RiseNY&Paaga.",
+    "mercosul": "Fa&#39;atuina o le Malumalu Orbital i le Mercosul Biennial, i Porto Alegre, Pasila.<br> Ata na saunia e Clara Marques."
+  }
+}

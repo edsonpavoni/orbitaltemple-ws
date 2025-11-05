@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Itempile ye-Orbital",
+    "subtitle": "ngumsebenzi wobugcisa kunye nesathelayithi,\nijonge ukuba yitempile ebandakanyayo,\nkwindawo engenakufikelelwa ludonga."
+  },
+  "ritual": {
+    "label": "isiko"
+  },
+  "cta": {
+    "link": "Ukanti, enye itempile?",
+    "arrowAlt": "utolo"
+  },
+  "dome": {
+    "alt": "IDome"
+  }
+}

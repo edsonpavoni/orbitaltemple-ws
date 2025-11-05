@@ -1,0 +1,43 @@
+{
+  "title": "Edukasyon at Open Source - Orbital Temple",
+  "heading": "Edukasyon at Open Source",
+  "intro": {
+    "paragraph1": "Ang lahat ng teknolohiyang binuo para sa misyon ng Orbital Temple ay magiging <strong>open source</strong> at available online sa <strong>Portuguese</strong> , <strong>English</strong> , <strong>Spanish</strong> , at <strong>Hindi</strong> , na nagsusulong sa pagsulong ng space exploration sa <strong>Global South</strong> . Maaaring gamitin ng mga bagong misyon at proyekto ang Orbital Temple bilang pundasyon para sa sarili nilang mga eksperimento sa sining o siyentipiko.",
+    "paragraph2": "Bilang bahagi ng misyon na pang-edukasyon nito, ang Orbital Temple ay mag-aalok ng isang libreng multilinggwal na kurso kung paano bumuo at maglunsad ng satellite. Ito ay isang hands-on na pagkakataon upang matuto tungkol sa teknolohiya ng satellite at isabuhay ito. Ang sinumang higit sa edad na <strong>16</strong> ay makakagawa ng sarili nilang satellite, natututo tungkol sa kasaysayan ng sining sa kalawakan, mga pangunahing konsepto ng electronics, mekanika at agham sa kalawakan, kabilang ang kung paano tustusan ang mga proyekto at kung paano bumuo ng antenna para makipag-usap sa mga satellite sa orbit."
+  },
+  "spaceGap": {
+    "heading": "Bakit Ito Mahalaga: Ang Space Gap",
+    "paragraph1": "Ang terminong <strong>&quot;Space Gap&quot;</strong> ay tumutukoy sa paghahati sa pagitan ng mga maunlad na bansa na maaaring ma-access ang mga teknolohikal na pagkakataon na nakuha sa pamamagitan ng paggalugad sa kalawakan, at mga umuunlad na bansa na walang access sa mga teknolohiyang ito. Ang mga bansa sa Global South ay dapat magbayad ng malaking halaga sa mga dayuhang gobyerno o kumpanya para sa pangunahing access sa impormasyong ginawa ng mga teknolohiya ng satellite.",
+    "paragraph2": "Ang teknolohiya sa kalawakan ay nagbibigay ng mga kritikal na benepisyo: ang mga satellite ay tumutulong na labanan ang ilegal na pagtotroso, iligal na pangingisda, at iligal na kalakalan ng wildlife, na kumakatawan sa higit sa <strong>$73 bilyon bawat taon</strong> . Nagbibigay sila ng mahahalagang impormasyon tungkol sa klima, produksyon ng tubig, at seguridad sa pagkain. Ang mga satellite ay nagbibigay-daan sa tumpak na patubig at mga diskarte sa agrikultura, at nakakatulong na maiwasan ang mga natural na sakuna. Ang industriya ng kalawakan ay maaaring lumikha ng hanggang <strong>1 milyong trabaho</strong> sa <strong>2030</strong> , ngunit ang mga pagkakataong ito ay nananatiling hindi naa-access sa marami sa Global South.",
+    "paragraph3": "Sa pamamagitan ng pagbibigay ng open-source na teknolohiya at edukasyon, nilalayon naming gawing demokrasya ang pag-access sa kalawakan at bigyan ng kapangyarihan ang isang bagong henerasyon na mangarap sa kabila ng langit."
+  },
+  "empowering": {
+    "heading": "Pagbibigay-kapangyarihan sa Susunod na Henerasyon",
+    "intro": "Tuturuan namin ang susunod na henerasyon ng mga space explorer kung paano bumuo at maglunsad ng sarili nilang mga satellite, na sumasaklaw sa mahahalagang paksa kabilang ang:",
+    "topics": {
+      "history": "<strong>Kasaysayan ng sining sa kalawakan:</strong> Pag-unawa sa linya ng mga artistikong satellite at mga likhang sining na nakabatay sa kalawakan.",
+      "concepts": "<strong>Mga pangunahing konsepto:</strong> <strong>ArtSat</strong> (artistic satellite), <strong>Open Source</strong> space technology, at ang <strong>Space Gap</strong> .",
+      "missions": "<strong>Mga misyon sa kalawakan:</strong> Paano magkonsepto at magdisenyo ng isang misyon, at kung paano bumuo ng isang koponan upang maisagawa ito.",
+      "electronics": "<strong>Electronics sa kalawakan:</strong> Mga pangunahing konsepto ng mga elektronikong sangkap na maaaring mabuhay at gumana sa kapaligiran ng kalawakan.",
+      "mechanics": "<strong>Mechanics in space:</strong> Pag-unawa sa mga kinakailangan sa istruktura at mekanikal para sa disenyo ng satellite.",
+      "orbits": "<strong>Mga orbit at launcher:</strong> Iba&#39;t ibang uri ng mga orbit at kung paano pumili ng mga provider ng paglulunsad para sa iyong misyon.",
+      "financing": "<strong>Mga diskarte sa pagpopondo:</strong> Paano i-secure ang pagpopondo at mga mapagkukunan upang ilunsad ang iyong satellite. Ang kurso ay magbibigay ng mga mapagkukunan para sa pagkuha ng pondo para sa iyong paglulunsad, na tumutulong sa mga mag-aaral na makahanap ng mga programa at gawad mula sa mga internasyonal na institusyon na sumusuporta sa mga batang siyentipiko at estudyante sa pagpapadala ng kanilang mga satellite sa kalawakan.",
+      "groundStation": "<strong>Pagbuo ng ground station:</strong> Paano gumawa ng antenna para makipag-ugnayan sa Orbital Temple at iba pang mga satellite."
+    }
+  },
+  "technology": {
+    "heading": "Ang Teknolohiya: PocketQube Satellites",
+    "paragraph1": "Matututo ang mga mag-aaral na magtrabaho kasama <strong>ang mga PocketQube</strong> satellite, isang nanosatellite standard na may sukat lamang na <strong>5cm³</strong> at tumitimbang ng hanggang <strong>250g</strong> . Sa kabila ng kanilang maliit na sukat, ang PocketQubes ay makapangyarihang mga tool na may kakayahang mag-obserba, pagsubaybay, at komunikasyon sa Earth.",
+    "paragraph2": "Ang mga compact satellite na ito ay may maraming mga real-world na aplikasyon, mula sa siyentipikong pananaliksik sa pagbabago ng klima hanggang sa intercontinental na komunikasyon. Dahil mas maliit at mas magaan ang mga ito, mas abot-kaya ang mga ito na itayo at ilunsad, na ginagawang mas naa-access ang espasyo sa mga mag-aaral, mananaliksik, at artist sa buong mundo."
+  },
+  "globalAccess": {
+    "heading": "Global Access, Simula sa Global South",
+    "paragraph1": "Ang kurso ay magagamit ng sinumang <strong>16 taong gulang o mas matanda</strong> , ganap <strong>na walang bayad</strong> . Nagsisimula kami sa nilalaman sa <strong>Portuges</strong> , <strong>Spanish</strong> , <strong>English</strong> , at <strong>Hindi</strong> , na may mga planong palawakin sa karagdagang mga wika habang lumalaki ang programa.",
+    "paragraph2": "Ang aming misyon ay nagsisimula sa Global South at umaabot sa mundo, na tinitiyak na ang susunod na henerasyon ng mga explorer sa kalawakan ay magmumula sa lahat ng sulok ng Earth."
+  },
+  "callToAction": {
+    "heading": "Tulungan Kaming Gawin Ito",
+    "content": "Ang programang pang-edukasyon na ito ay kasalukuyang nasa pagbuo. Naghahanap kami ng mga kasosyo at donor na kapareho ng aming pananaw sa demokratisasyon ng pag-access sa teknolohiya sa espasyo. Kung gusto mo o ng iyong organisasyon na suportahan ang inisyatibong ito, pakibisita ang aming <a href=\"/support\">page ng suporta</a> upang malaman ang tungkol sa mga pagkakataon sa pakikipagsosyo."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

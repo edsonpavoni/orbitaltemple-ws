@@ -1,0 +1,17 @@
+{
+  "title": "Information Information - Orbital Temple",
+  "heading": "Information Information",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Miyeso: 50x58x64 mm<br /> 1P PocketQube<br /> Kulemera kwake: 245 g<br /> Zida: aluminium, golide, fiberglass, ndi zida zamagetsi.<br /> Orbit: Kutalika kwa 525 ± 25 km; kupendekera: SSO 97.6 ± 0.1°<br /> Woyambitsa: PSLV (Polar Satellite Launch Vehicle) yoyendetsedwa ndi ISRO"
+  },
+  "antenna": {
+    "heading": "Mlongoti/Sculpture",
+    "specs": "Makulidwe: 6 m (m&#39;mimba mwake) ndi 1.2m (utali)<br /> Kulemera kwake: 46kg<br /> Zida: aluminiyumu, bolodi lowoneka bwino la epoxy, dome la golide la aluminiyamu yoyimitsidwa kudzera pamapangidwe opangira."
+  },
+  "radio": {
+    "heading": "Zofunikira pa Wailesi",
+    "specs": "Kutsika: 468.5 MHz<br /> Kusinthasintha: CSS<br /> Bandwidth: TBD"
+  },
+  "imageAlt": "Satellite ya Orbital Temple"
+}

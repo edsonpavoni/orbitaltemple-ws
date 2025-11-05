@@ -1,0 +1,44 @@
+{
+  "title": "Site na Artist",
+  "opening": {
+    "question": "Kedu onye bụ onye a ga-atụpụta ụlọ nsọ na mbara igwe?",
+    "thanks": "Daalụ maka ajụjụ a.",
+    "answer": "Azịza ya dị mkpirikpi bụ na m bụ onye na-ese ihe. Nke ogologo bụ nke a:"
+  },
+  "origin": {
+    "sao_paulo": "A mụrụ m n’ebe dịpụrụ adịpụ nke São Paulo, n’otu agbata obi kụziiri m ihe ize ndụ pụtara. Ọtụtụ ndị enyi m ụlọ akwụkwọ nọ n'ụlọ mkpọrọ ugbu a. Nwunye-nna m nọ n'ụlọ nga. Ime ihe ike abụghị ihe m na-agụ banyere ya, ọ bụ ụwa ka m ga-agagharị. Amakwaara m na m kwesịrị ịgbapụ.",
+    "technology": "Nkà na ụzụ ghọrọ ụzọ m ga-esi pụọ. M mụtara usoro ihe omume, mụọ ngwá electronic mgbe m dị afọ iri na ụma. Koodu bụ asụsụ nwere ike ibuga m ebe ọzọ. Iji teknụzụ rụọ ọrụ bụ ụzọ mgbapụ m si na ịda ogbenye.",
+    "christianity": "Ma, m nọkwa na-achọ ihe bụ́ nke, ịhụnanya, ihe m ga-ekwere. Achọtara m Iso Ụzọ Kraịst, ma ọ bụ ọ chọtara m. A nabatara m. Ahụrụ m n'anya. Enwere m obodo. Amụtara m ịgbaghara, ikwere, ibikọ ọnụ maka ebumnuche ka ukwuu.",
+    "price": "Otú ọ dị, ọnụ ahịa ahụ dị elu. M mụtakwara ọtụtụ ihe m ka na-amụ. N'ihi ya, m sikwa na nke ahụ gbapụ."
+  },
+  "searching": {
+    "walls": "Amaara m ihe mgbidi na-eme. Ahụla m ha. Anọla m n'akụkụ abụọ: debe ya, debe ya. Ihe sochirinụ bụ afọ nke ịchọ ihe m na-enweghị ike ịkpọ aha. Chineke nwụrụ n’ime afọ ndị ahụ. Chi a kụziiri m banyere ya, na agbanyeghị, onye nwere iwu na ikpe na ọnụ ụzọ na-emeghere ụfọdụ ndị.",
+    "art": "Amalitere m ịme nka iji nyochaa ajụjụ ndị a: gbasara mmekọrịta chiri anya na teknụzụ, banyere ebe nchekwa na ọnwụ, banyere onye kwesịrị eluigwe. Amalitere m ịrụ igwe ndị na-echegharị mmekọrịta anyị na teknụzụ, igwe ndị chọrọ ntinye aka gị, ọnụnọ gị, aha gị, iji gbanwee site na igwe na koodu ka ọ bụrụ ihe dị ndụ."
+  },
+  "pandemic": {
+    "intro": "Mgbe ahụ ọrịa na-efe efe rutere Brazil.",
+    "government": "Mgbe ịgba ọgwụ mgbochi COVID na-egbu oge, gọọmentị m na-akparịta ụka maka azụghachi otu dollar kwa dose. Ha kwalitere ọgwụ ghọtara na ọ naghị arụ ọrụ, na-achị ọchị ebe ndị mmadụ na-anwụ na-agbasi mbọ ike iku ume. Anyị na-eteta kwa ụbọchị na ọnụọgụ dị iche. Mmadụ ole nwụrụ n'ime awa 24 gara aga? Ọ bụ karịa, ma ọ bụ obere karịa ka a tụrụ anya ya?",
+    "war": "Ọkara nke ụwa tụrụ egwu, ọkara ọzọ nọkwa na-agọnahụ. Anyị na-alụ ọgụ, nje virus na ibe anyị.",
+    "memorial": "Achọrọ m ịmepụta ohere maka oke iru uju, yabụ mụ na ọtụtụ narị mmadụ keere Memorial Inumeráveis. Ihe osise dị na nkwụsị nke nka na akwụkwọ akụkọ. Anyị gbara ezinụlọ ndị mmadụ nwụnahụrụ ajụjụ ọnụ. Anyị dere akụkọ ndụ onye ahụ ha nwụnahụrụ. Anyị gbanwere ọnụọgụ ka ọ bụrụ akụkọ ihe mere eme. E ji akụkọ ndị ahụ mee abụ, abụ, egwu egwu. Kpakpando na-agụ akụkọ ndị ahụ na telivishọn mba. Ọrụ ahụ ruru nde mmadụ.",
+    "meaning": "Ihe dị mkpa abụghị ọnụ ọgụgụ, ọ bụ na akụkọ ọ bụla bụ aha, ndụ, eluigwe mmadụ."
+  },
+  "discovery": {
+    "pattern": "Mgbe ihe karịrị puku mkparịta ụka karịrị puku iri na iru uju gasịrị, ụkpụrụ malitere ịpụta. Mgbe anyị na-ekwu banyere onye nwụrụ anwụ, ọ bụghị nanị na anyị na-ekwu ihe ọma; anyị na-ahọrọ iberibe akụkọ ha dị ka a ga-asị na anyị na-ede akwụkwọ nkwado. Ndụmọdụ nye onye nche ọnụ ụzọ ámá nke paradaịs. Anyị na-eme ike anyị niile iziga ha n'ebe nnabata, izu ike, nsọpụrụ na ebe nchekwa.",
+    "understanding": "Ma aghọtara m ihe gbanwere ihe niile: ụlọ arụsị ndị ahụ anyị wuru merụrụ anyị ahụ́. Nkwenkwe anyị banyere onye kwesịrị eluigwe na-akpụzi onye anyị na-ewepu n'ụwa. Ndị ọchịchị Portuguese na Brazil kwenyere na ndị ojii enweghị mkpụrụ obi; nkwenye ahụ mere ka ịgba ohu ziri ezi. Ọ bụrụ na ị bụ nwa amaala, ọ bụrụ na a mụrụ gị n'ebe na-ezighị ezi ma ọ bụ hụ onye na-ezighị ezi n'anya, a gwara gị na e mechibidoro gị ọnụ ụzọ eluigwe.",
+    "birth": "Otú ahụ ka e si mụọ Temple Orbital."
+  },
+  "shaman": {
+    "secular": "Ọ dịghị onye na-ese ihe nwere ike ịbụ onye ụwa n'ezie. Anyị na nna nna anyị, bụ shaman, nwere njikọ ruo mgbe ebighị ebi. Ná mmalite, e nwere ọgba. Ndị mmadụ na-ese anụmanụ n'elu mgbidi ọ bụghị iji chọọ mma, kama ịkpọku. Ha na-agba egwu, ọgba ahụ wee ghọọ ụlọ nsọ. Shaman na-eji mmụọ nsọ eme ihe; onye omenkà ji aura nka. Anyị na-ese, anyị na-akpụ, anyị koodu, anyị na-echepụta anyị chọrọ ọdịnihu ọ bụghị icho mma, kama ịkpọku. Nkà nile bụ ime mmụọ, ọbụna mgbe ọ na-ekwu na ọ bụghị."
+  },
+  "space": {
+    "question": "Ebee ka anyị ga-esi wuo ụlọ nsọ na-enweghị mgbidi? Ebe mba ma ọ bụ okpukpe ọ bụla nwere ike ikwu. Ebe anyị nwere ike were onwe anyị dị ka otu ìgwè.",
+    "answer": "Oghere.",
+    "description": "Satellite nka na-ekere òkè sitere na Global South. Temple dị na orbit nke na-akpọ onye ọ bụla ka ọ ziga aha ha na mbara igwe, n'agbanyeghị onye ha bụ, ebe a mụrụ ha, ndị ha hụrụ n'anya, ihe ha kwenyere. Ebe nsonye radical ga-ekwe omume, na orbit, gafere oke.",
+    "mission": "Ozi a bụ ebe mepere emepe. Akwụkwọ teknụzụ ọ bụla, ahịrị koodu ọ bụla ga-adị n'efu ka ndị ọzọ na-ese ihe, obodo ndị ọzọ, mba ndị ọzọ nwere ike wuo satịlaịtị nke ha. Yabụ na Global South abụghị naanị isonye na nyocha mbara igwe, mana na-eduga ya."
+  },
+  "closing": {
+    "answer": "Ya mere, onye bụ nwoke a iji wuo ụlọ nsọ na mbara? Anaghị m ewu ya. Onye ọ bụla kpebiri iziga aha, ịhụ ya dị ka ihe dị nsọ, na-eme ka ọ bụrụ ezigbo ụlọ na-ewu ụlọ nsọ ahụ. Abụ m naanị onye na-atụ aro. Ọ bụ gị na-ewu ya ma ọ bụrụ na ị kpebie ime ya.",
+    "signature": "Obiọma,",
+    "name": "Edson Pavoni"
+  }
+}

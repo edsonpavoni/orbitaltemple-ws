@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "bayat ti iseserrekmo\nmaysa a ritual\ntapno mangipatulod iti nagan\niti\norbital nga templo\niti law-ang\nalaen\nmaysa nga anges",
+    "button": "nakasaganaak"
+  },
+  "nameInput": {
+    "title": "i-type ti nagan",
+    "subtitle": "agpangato dayta iti Orbital Temple iti law-ang.",
+    "placeholder": "nagan",
+    "button": "bay-am nga agpangato dayta"
+  },
+  "emailInput": {
+    "title": "i-type-mo ti email-mo",
+    "subtitle": "isu a makaawatka iti mensahe no agpangato ti nagan.",
+    "placeholder": "ti email-mo",
+    "button": "naaramiden dayta"
+  },
+  "loading": {
+    "alt": "Agkarkarga"
+  },
+  "success": {
+    "text": "ti nagan\n{{nagan}}\nket nakapila itan\npara iti panagpangato.\nidi ti\ntemplo iti law-ang\nagtunos, iti\nti antennatayo\nditoy Daga\nibaonmi\nti nagan\nket umawatkanto\nmaysa a mensahe."
+  }
+}

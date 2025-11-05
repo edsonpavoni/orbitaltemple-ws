@@ -1,0 +1,44 @@
+{
+  "title": "Sjálfbærni og geimrusl - Orbital Temple",
+  "heading": "Sjálfbærni",
+  "intro": {
+    "paragraph1": "Ef listin á að leiða okkur inn í framtíðina má hún ekki hunsa þær kreppur sem við stöndum frammi fyrir - umhverfishrun, félagslegan ójöfnuð og vaxandi áskorun geimrusls. Orbital Temple er hannað með þennan veruleika í huga og stefnir að því að vera ábyrg nærvera bæði á jörðinni og á braut um jörðina.",
+    "paragraph2": "Við teljum að sjálfbærni sé ekki takmörkun heldur nauðsynlegur hluti af listrænni framtíðarsýn okkar. Sérhver ákvörðun um efni, brautir og rekstur endurspeglar skuldbindingu okkar til að skilja bæði jörðina og geiminn eftir í betri ástandi en við fundum þau."
+  },
+  "spaceDebris": {
+    "heading": "Geimrusl",
+    "paragraph1": "Geimrusl er ein af brýnustu áskorunum sem geimkönnun stendur frammi fyrir. Þúsundir ónýtra gervihnatta og brota eru á braut um jörðina, ógna virkum leiðöngrum og skapa keðjuverkun sem gæti gert ákveðnar brautir ónothæfar.",
+    "paragraph2": "Orbital Temple fjallar um þetta á nokkra vegu:",
+    "list": {
+      "orbit": "<strong>Sólarsamstillt braut í 525 km fjarlægð:</strong> Þessi hæð tryggir að náttúrulegt loftmótstaða veldur því að gervihnötturinn fer aftur inn í lofthjúp jarðar innan um það bil 10 ára, þar sem hann mun brenna alveg upp. Við erum ekki að stuðla að langtíma rusli á brautinni.",
+      "size": "<strong>Hönnun PocketQube:</strong> Gervihnötturinn er aðeins 50×58×64 mm að stærð og 245 g að þyngd, þannig að hann er nógu lítill til að gufa alveg upp við endurkomu og skilur ekkert eftir á yfirborði jarðar.",
+      "responsibility": "<strong>Engin fyrirhuguð úrelting:</strong> Ólíkt viðskiptagervihnöttum sem kunna að vera yfirgefin er Orbital Temple hannað til að fara af sporbraut á náttúrulegan hátt og uppfylla þannig alþjóðlegar leiðbeiningar um ábyrga geimferðastarfsemi."
+    },
+    "paragraph3": "Með því að velja lága braut um jörðu og þétta hönnun tryggjum við að viðvera Orbital Temple í geimnum sé tímabundin og mengunarlaus."
+  },
+  "carbonNeutrality": {
+    "heading": "Kolefnishlutleysi",
+    "content": "Öll kolefnislosun sem tengist Orbital Temple — þar á meðal framleiðslu gervihnatta, geimskot, rekstur jarðstöðva, vefhýsingu og ferðalög teymisins — verður að fullu jafnað með staðfestum kolefnisinneignaráætlunum. Við erum staðráðin í að gera þetta verkefni loftslagshlutlaust."
+  },
+  "openSource": {
+    "heading": "Opinn hugbúnaður fyrir vélbúnað",
+    "paragraph1": "Sjálfbærni þýðir einnig að sóa ekki þekkingu. Allir tæknilegir þættir Orbital Temple — skýringarmyndir, kóði, samskiptareglur og byggingaraðferðir — verða birtir sem opnir hugbúnaðarskjöl.",
+    "paragraph2": "Þetta gerir framtíðarleiðangri kleift að byggja á okkar starfi frekar en að byrja frá grunni, sem dregur úr óþarfa rannsóknum og þróun. Það lýðræðisvæðir aðgang að geimtækni, sérstaklega fyrir samfélög á Suðurhveli jarðar sem hafa sögulega verið útilokuð frá geimkönnun."
+  },
+  "educational": {
+    "heading": "Áhrif menntunar",
+    "paragraph1": "Ókeypis fjöltyngt námsefni okkar kennir nemendum um allan heim hvernig á að smíða og skjóta á loft gervihnetti, með áherslu á Suðurríkjasvæðið. Með því að styrkja næstu kynslóð með geimtæknifærni leggjum við okkar af mörkum til að brúa „geimbilið“ og skapa tækifæri sem annars væru ekki til staðar.",
+    "paragraph2": "Þetta menntunarverkefni er í sjálfu sér eins konar sjálfbærni — að fjárfesta í fólki og samfélögum til að skapa varanlegar breytingar eftir að gervihnötturinn endist lengur."
+  },
+  "tenYear": {
+    "heading": "Tíu ára verkefni",
+    "paragraph1": "Orbital Temple er hannað fyrir áratugalangt verkefni, ekki stutta kynningarbrella. Á tíu árum mun gervihnötturinn fara um jörðina um það bil 50.000 sinnum, fá nöfn og minna á að geimurinn getur verið sameiginlegur, aðgengilegur öllum.",
+    "paragraph2": "Eftir að leiðangri sínum lýkur mun gervihnötturinn sjálfkrafa taka sporbraut sína og brenna upp, án þess að skilja eftir sig nein spor nema í minningum og skjölum þeirra sem tóku þátt."
+  },
+  "artsResponsibility": {
+    "heading": "Ábyrgð listarinnar",
+    "paragraph1": "List hefur alltaf verið spegill samtímans, endurspeglað gildi okkar og vonir. Á tímum loftslagskreppu og vaxandi ójöfnuðar teljum við að listamenn beri ábyrgð á að skapa verk sem ekki aðeins fjalla um þessi mál heldur fjalla virkt um þau.",
+    "paragraph2": "Orbital Temple er tilraun okkar til að skapa listaverk sem er róttækt í aðgengi sínu, ábyrgt í umhverfisáhrifum sínum og örlátt í að deila þekkingu sinni með heiminum. Þetta er list sem býður öllum að taka þátt og virðir jafnframt viðkvæm kerfin - umhverfisleg og sporbrautarleg - sem gera líf og könnun mögulega."
+  },
+  "imageAlt": "Orbital Temple gervihnöttur"
+}

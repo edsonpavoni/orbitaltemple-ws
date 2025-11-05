@@ -1,0 +1,13 @@
+{
+  "title": "Estu Sciigita - Orbita Templo",
+  "heading": "Estu Sciigita Kiam Ĝi Leviĝas",
+  "description": "La 28-an de novembro 2025, la Orbita Templo supreniros.<br> Lasu vian retpoŝtadreson, kaj ni diros al vi kiam ĝi atingos la spacon.",
+  "form": {
+    "emailPlaceholder": "via@retpoŝto.com",
+    "sendButton": "Sendi",
+    "sendingButton": "Sendante...",
+    "successMessage": "Ni atingos vin kiam ĝi supreniros.",
+    "errorMessage": "Io misfunkciis. Bonvolu provi denove."
+  },
+  "backLink": "← Reen al retronombrado"
+}

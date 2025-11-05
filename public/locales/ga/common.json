@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "an saothar ealaíne",
+    "sendAName": "seol ainm",
+    "fromTheArtist": "ón ealaíontóir",
+    "yetAnotherTemple": "fós, teampall eile?",
+    "howItWorks": "conas a oibríonn sé",
+    "spaceLaunch": "lainseáil spáis agus rioscaí",
+    "briefHistory": "stair ghearr na healaíne sa spás",
+    "education": "oideachas & foinse oscailte",
+    "sustainability": "inbhuanaitheacht agus smionagar spáis",
+    "press": "preas & meáin",
+    "team": "foireann",
+    "partners": "comhpháirtithe",
+    "support": "tacaíocht",
+    "technicalInfo": "eolas teicniúil"
+  },
+  "ritual": {
+    "label": "deasghnáth",
+    "ariaLabel": "Téigh isteach sa deasghnáth - Seol ainm chuig an Teampall Fithiseach"
+  },
+  "footer": {
+    "credits": "Is saothar ealaíne é Orbital Temple le Edson Pavoni, a cruthaíodh i gcomhar le Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, agus iad siúd go léir a leanann ar aghaidh ag seoladh ainmneacha."
+  }
+}

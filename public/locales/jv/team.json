@@ -1,0 +1,61 @@
+{
+  "title": "Tim - Kuil Orbital",
+  "heading": "Tim",
+  "artist": "Edson Pavoni, artis",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Produser Eksekutif",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Teknik Aerospace & Sistem",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Teknik Elektronika",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Piranti lunak",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Desain lan Arsitektur",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Printing 3D",
+      "members": "Solid Concepts, ing pimpinan Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rendering 3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Riset",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Produksi Pameran, Fotografi & Nggawe Konten",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Pameran Silk Screening",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Proyek Pendidikan",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Tim Komunikasi",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Matur nuwun khusus",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Fertia Pedro Vidigal Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satelit Candi Orbit"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Tnedija Spazjali - Tempju Orbitali",
+  "heading": "Tnedija fl-Ispazju",
+  "intro": "It-Tempju Orbitali huwa skedat li jitnieda abbord PSLV (Polar Satellite Launch Vehicle) fit-28 ta' Novembru 2025 miċ-Ċentru Spazjali Satish Dhawan fi Sriharikota, l-Indja.",
+  "partnership": "It-tnedija tat-Tempju Orbitali hija sħubija bejn NewSpace India Limited (NSIL), Kumpanija tal-Gvern tal-Indja taħt id-Dipartiment tal-Ispazju, Antrix Corporation, u l-artist. Din il-kollaborazzjoni tirrappreżenta pass importanti għall-arti fl-esplorazzjoni tal-ispazju, billi tgħaqqad flimkien il-programm spazjali tal-Indja ma' viżjoni artistika ta' inklużività radikali.",
+  "risks": {
+    "heading": "Riskji",
+    "paragraph1": "Is-satellita nbniet biex tiflaħ kundizzjonijiet estremi ta’ vibrazzjoni u ċikli termali, u għaddiet minn testijiet rigorużi. Madankollu, it-tnedijiet fl-ispazju jġorru riskji inerenti. Jekk is-satellita jiġrilha l-ħsara waqt it-tnedija jew l-iskjerament, jew jekk tonqos milli tistabbilixxi komunikazzjoni mal-istazzjonijiet tagħna fuq l-art, se naħdmu biex insibu l-problemi u nsolvu kwalunkwe problema. Is-satellita għandha sistemi żejda u protokolli ta’ backup iddisinjati biex jimmassimizzaw iċ-ċansijiet ta’ suċċess tal-missjoni.",
+    "paragraph2": "Barra minn hekk, is-satellita tista’ tibqa’ fl-orbita għal inqas minn 10 snin jekk il-kundizzjonijiet atmosferiċi jew fatturi oħra jikkawżaw tħassir orbitali aktar kmieni. Filwaqt li ddisinjajniha biex iddum mill-inqas għaxar snin, il-ħajja attwali tiddependi fuq kundizzjonijiet li ma nistgħux nikkontrollaw bis-sħiħ.",
+    "paragraph3": "Jekk l-ewwel tnedija tfalli, jew jekk ma nkunux nistgħu nwettqu din il-missjoni kif ippjanat, se nesploraw mogħdijiet alternattivi 'l quddiem, potenzjalment inkluż it-tieni tentattiv ta' tnedija bil-baġit disponibbli, sħubija ma' missjonijiet oħra, jew dokumentazzjoni tat-tentattiv bħala parti min-narrattiva tal-arti dwar l-aspirazzjoni u l-limitazzjoni."
+  },
+  "imageAlts": {
+    "india": "Ċentru Spazjali ISRO, l-Indja",
+    "satellite": "Satellita tat-Tempju Orbitali"
+  }
+}

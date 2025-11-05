@@ -1,0 +1,167 @@
+{
+  "title": "Tacaigh le Teampall Orbital - Bígí Linn sa Mhisean",
+  "heading": "Tacaigh le Teampall Fithiseach",
+  "vision": "Ar <strong>an 28 Samhain, 2025</strong> , seolfar <strong>Orbital Temple</strong> ón <strong>India</strong> ar bord roicéad <strong>ISRO</strong> . Satailít ealaíne rannpháirteach ón Deisceart Domhanda, is séadchomhartha é don chuimsiú radacach, ardán d&#39;oideachas, agus catalaíoch do chomhrá domhanda faoi thodhchaí an naofachta i ré na teicneolaíochta, na hintleachta saorga agus taiscéalaíochta spáis.",
+  "videoCaption": "Réamhrá físe ar Theampall Fithiseach, 1 nóiméad.",
+  "accomplished": {
+    "heading": "Cad atá bainte amach againn",
+    "content": "Tar éis ceithre bliana taighde agus forbartha, tá an misean réidh. Tá <strong>forbairt crua-earraí agus bogearraí</strong> don satailít críochnaithe againn, tá <strong>tástálacha oifigiúla croitheadóra</strong> rite againn a bhí riachtanach le haghaidh deimhniú eitilte, agus tá ár gconradh le ISRO curtha i gcrích againn. Tá an satailít tógtha. Oibríonn an teicneolaíocht. Táimid ceadaithe le haghaidh lainseála."
+  },
+  "funding": {
+    "heading": "Dul Chun Cinn Maoinithe",
+    "raised": "ardaithe de",
+    "of": "de",
+    "goal": "sprioc",
+    "button": "Tacaigh leis an Misean"
+  },
+  "needs": {
+    "heading": "Cad is gá dúinn tacaíocht a fháil dó",
+    "intro": "Chun an misean stairiúil seo a chur i gcrích agus a thionchar a uasmhéadú, teastaíonn tacaíocht uainn do chúig chomhpháirt ríthábhachtacha:",
+    "launch": {
+      "title": "Costais Seolta ISRO:"
+    },
+    "travel": {
+      "title": "Turas Ealaíontóra go dtí an India:"
+    },
+    "carbon": {
+      "title": "Clár Fritháireamh Carbóin:"
+    },
+    "education": {
+      "title": "Clár Oideachais:"
+    },
+    "docPreProd": {
+      "title": "Réamhléiriú Clár Faisnéise:"
+    },
+    "docProd": {
+      "title": "Léiriú Clár Faisnéise:"
+    }
+  },
+  "decade": {
+    "heading": "An Deich mBliana Romhainn",
+    "intro": "Ní chríochnaíonn an misean seo ar an 28 Samhain, 2025. Níl ann ach tús.",
+    "paragraph1": "Don chéad <strong>10 mbliana</strong> eile, beidh an satailít seo ag fithisiú timpeall an Domhain, ag freagairt d’ainmneacha a sheoltar ó gach cearn den phláinéid. Tá sé mar aidhm ag an gclár oideachais <strong>na mílte déagóirí</strong> a oiliúint i dteicneolaíocht satailíte, ag briseadh an <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">Bhearna Spáis</a> don Deisceart Domhanda. Sroichfidh an clár faisnéise <strong>na milliúin</strong> ar fud an domhain, ag spreagadh comhráite faoi mhuintearas, cuimhne, agus an naofa.",
+    "paragraph2": "Tá Orbital Temple i gcomhpháirtíocht le <strong>Sathi Roy</strong> agus <strong>The Roy Foundation</strong> chun an fhís deich mbliana seo a dhéanamh suntasach ó thaobh cultúir de. Is eagraíocht neamhbhrabúis í The Roy Foundation atá tiomanta do rochtain ar oideachas spioradálta, cneasú mothúchánach, agus uirlisí comhfhiosachta a leathnú do phobail faoi mhíbhuntáiste ar fud an domhain, ag nascadh eagna ársa agus teicneolaíocht nua-aimseartha chun domhan níos comhfhiosaí, níos ceangailte agus níos comhbháí a chruthú. Le chéile, táimid ag tógáil an bhonneagair chun a chinntiú go mbeidh Orbital Temple ina ghluaiseacht bhuan a shroicheann pobail ar fud an domhain.",
+    "paragraph3": "Ní hamháin go gcuireann do thacaíocht maoiniú ar fáil do sheoladh; cruthaíonn sé gluaiseacht a leanfaidh ar aghaidh ar feadh deich mbliana agus a spreagfaidh an chéad ghlúin eile d'ealaíontóirí agus d'innealtóirí spáis."
+  },
+  "waysToSupport": {
+    "heading": "Bealaí chun Tacaíocht a thabhairt",
+    "individualDonations": {
+      "heading": "Síntiúis Aonair",
+      "intro": "Glac páirt sa mhisean ar leibhéal a oireann duit. Is iad lucht tacaíochta aonair bunús an tionscadail stairiúil seo.",
+      "orbitalFriend": {
+        "title": "Cara Fithiseach",
+        "benefits": "Gheobhaidh tú: Ainm ar rolla onóra an tsuímh ghréasáin · Teastas fithiseach pearsantaithe nuair a sheoltar satailít · Creidmheas buíochais doiciméadach · Admháil inasbhainte cánach",
+        "button": "Déan Síntiús Inasbhainte Cánach"
+      },
+      "satelliteSupporter": {
+        "title": "Tacaíocht Satailíte",
+        "benefits": "Gheobhaidh tú: Gach sochar de chuid Orbital Friend · Rochtain eisiach ar aip rianaithe satailíte · Teachtaireacht físe buíochais d’ealaíontóirí · Admháil inasbhainte cánach",
+        "button": "Déan Síntiús Inasbhainte Cánach"
+      },
+      "spaceAdvocate": {
+        "title": "Abhcóide Spáis",
+        "benefits": "Gheobhaidh tú: Gach sochar ó Thacadóir Satailíte · Ainm clóite i gcreidmheasanna doiciméadacha · Cuireadh chuig scagadh doiciméad príobháideach · Nuashonruithe ráithiúla ón bhfoireann · Admháil inasbhainte cánach",
+        "button": "Déan Síntiús Inasbhainte Cánach"
+      }
+    }
+  },
+  "fundingOpportunities": {
+    "heading": "Maoinigh Comhpháirt Shonrach",
+    "intro": "Maoiníonn do ranníocaíocht gnéithe sonracha den mhisean go díreach. Roghnaigh an rud a thaitníonn leat, nó cuir le chéile roinnt acu chun tionchar níos mó a chruthú.",
+    "launch": {
+      "title": "Maoinigh an Seoladh Spáis",
+      "description": "An costas lainseála iarbhír ar bord roicéad <strong>ISRO</strong> ar <strong>an 28 Samhain, 2025.</strong> Cuireann sé seo Orbital Temple isteach i bhfithis, áit a bhfanfaidh sé ar feadh deich mbliana mar shatailít ealaíne rannpháirteach agus teampall sa spéir, inrochtana ag aon duine ar domhan.",
+      "benefits": "Gheobhaidh tú: Teideal \"Urraitheoir Seolta\" · Le feiceáil i ngach preasráiteas · Admháil ar an scáileán maidir le clár faisnéise · Rochtain VIP ar imeachtaí seolta · Glac páirt i nglaonna físe ráithiúla le Edson agus foireann an mhisin · Teastas le sonraí fithiseacha satailíte · Admháil inasbhainte cánach",
+      "button": "Déan Síntiús Inasbhainte Cánach"
+    },
+    "travel": {
+      "title": "Maoinigh Turas an Ealaíontóra go dtí an India",
+      "description": "Costais taistil, lóistín agus léiriúcháin don ealaíontóir Edson Pavoni agus don fhoireann lárnach chun freastal ar an seoladh san <strong>India ar an 28 Samhain, 2025.</strong> Tá an turas seo riachtanach le haghaidh scannánú faisnéise, clúdach sna meáin, agus ionadaíocht a dhéanamh ar an Deisceart Domhanda ag an nóiméad stairiúil seo.",
+      "benefits": "Gheobhaidh tú: Buíochas pearsanta ón ealaíontóir · Rochtain ar dhoiciméid taobh thiar de na radhairc · Ainm sna creidmheasanna doiciméadacha · Admháil inasbhainte cánach",
+      "button": "Déan Síntiús Inasbhainte Cánach"
+    },
+    "carbon": {
+      "title": "Maoinigh an Clár Fritháireamh Carbóin",
+      "description": "Déanfar gach astaíocht charbóin a neodrú, lena n-áirítear lainseáil na roicéad agus monarú an tsatailít. Táimid ag obair le cláir fhritháireamh carbóin fíoraithe chun a chinntiú nach bhfágann an misean seo aon lorg diúltach comhshaoil.",
+      "benefits": "Gheobhaidh tú: Ainm i rolla onóra an tsuímh ghréasáin · Teastas pearsantaithe · Admháil inasbhainte cánach",
+      "button": "Déan Síntiús Inasbhainte Cánach"
+    },
+    "education": {
+      "title": "Maoinigh an Clár Oideachais",
+      "description": "Forbair agus seol an cúrsa ilteangach iomlán a mhúineann do dhéagóirí an Deiscirt Dhomhanda conas satailítí a thógáil. Áirítear forbairt curaclaim, léiriú físeáin, óstáil ardáin, agus an chéad bhliain de scoláireachtaí do mhic léinn faoi mhíbhuntáiste. Cruthaíonn sé bonneagar buan d'oideachas spáis.",
+      "benefits": "Gheobhaidh tú: aitheantas \"Urraitheoir Bunaithe Oideachais\" · Scoláireachtaí i d'ainm · Le feiceáil in ábhair oideachais · Buail leis an gcéad chohórt mac léinn a mhaoinigh do scoláireacht (fíorúil nó go pearsanta) · Mír den chlár faisnéise · Deis labhartha ag imeachtaí seolta · Admháil inasbhainte cánach",
+      "button": "Déan Síntiús Inasbhainte Cánach"
+    },
+    "docPreProd": {
+      "title": "Maoinigh Réamhléiriú an Chláir Faisnéise",
+      "description": "Maoiniú a dhéanamh ar an gcéad chéim den chlár faisnéise <strong>&quot;What Makes a Temple?&quot;</strong> . Áirítear leis sin dhá agallamh domhain a dhéanamh san <strong>India</strong> le ceannairí smaointe agus cleachtóirí spioradálta, taisteal agus léiriú foirne beaga, agus eagarthóireacht ar phíosaí scannáin réamhléiriúcháin. Leagann an chéim seo bunús an chláir faisnéise agus bailíochtú an treo cruthaitheach.",
+      "benefits": "Gheobhaidh tú: Creidmheas Léiritheora Chomhlaigh · Creidmheasanna Ainm sna creidiúintí faisnéise · Taispeántas príobháideach ar phíosaí scannáin réamhléiriúcháin · Rochtain taobh thiar de na radhairc · Admháil inasbhainte cánach",
+      "button": "Déan Síntiús Inasbhainte Cánach"
+    },
+    "docProd": {
+      "title": "Maoinigh an Léiriúchán Faisnéise",
+      "description": "Léiriú agus iarléiriú iomlán ar <strong>&quot;What Makes a Temple?&quot;</strong> , an clár faisnéise a scrúdaíonn crosbhóthar na healaíne, na teicneolaíochta agus an naofa. Áirítear scannánú i dtíortha éagsúla, agallaimh bhreise le ceannairí smaointe, eagarthóireacht chuimsitheach, grádú datha, dearadh fuaime, agus taispeántais den chéad uair san <strong>India</strong> agus <strong>i gCathair Nua-Eabhrac</strong> .",
+      "benefits": "Gheobhaidh tú: Creidmheas mar Léiritheoir Feidhmiúcháin · Le feiceáil sna creidiúintí oscailte · Taispeántas príobháideach do d’aíonna · Cuirí don chéad taibhiú domhanda (an dá chathair) · Dinnéar príobháideach le Edson agus stiúrthóir faisnéise roimh an gcéadtaibhiú · Rochtain taobh thiar de na radhairc · Admháil inasbhainte cánach",
+      "button": "Déan Síntiús Inasbhainte Cánach"
+    },
+    "artCollector": {
+      "title": "Bí i do Bhailitheoir Ealaíne Teampaill Fithiseach Amháin",
+      "imageAlt": "Suiteáil Teampall Fithiseach ag Biennial Mercosul",
+      "imageCaption": "Teampall Fithiseach ag an 13ú Débhliantúil Mercosul, Porto Alegre. Grianghraf le Clara Marques.",
+      "paragraph1": "Tógadh trí shatailít chomhionanna don mhisean seo. Seolfar <strong>ceann amháin</strong> chuig an spás ar an 28 Samhain, 2025. Taistealaíonn <strong>ceann amháin</strong> chuig taispeántais músaeim ar fud an domhain. Tá <strong>ceann amháin</strong> curtha in áirithe do bhailitheoir flaithiúil ar mian leis an bhfís seo a mhaoiniú agus píosa de stair ealaíne spáis a bheith ina sheilbh aige.",
+      "paragraph2": "Ní macasamhail é seo; is ceann de na trí shatailít bhunaidh é. <strong>Spásárthach</strong> lánfheidhmiúil atá ina <strong>dhealbh</strong> freisin. Tá <strong>5cm³</strong> sa tsatailít agus meáchan <strong>245g</strong> aici, agus cruinneachán <strong>óir</strong> aici.",
+      "paragraph3": "Is <strong>saothar ealaíne 1/1</strong> é seo.",
+      "paragraph4": "Mar bhailitheoir, gheobhaidh tú an suiteáil chéanna a cruthaíodh don <strong>13ú Biennale Mercosul</strong> , taispeántas músaeim iomlán a léiríonn an satailít mar ealaín agus mar theicneolaíocht araon. Tá an suiteáil seo curtha ar taispeáint ag ionaid mhóra idirnáisiúnta agus is ionann í agus an caighdeán is airde i gcur i láthair ealaíne spáis.",
+      "paragraph5": "Cuidíonn do thacaíocht le maoiniú a dhéanamh ar an bhfís iomlán: an seoladh, an clár oideachais, agus an clár faisnéise a spreagfaidh comhráite domhanda faoin naofacht i ré na teicneolaíochta, na hintleachta saorga agus taiscéalaíocht spáis. Bíonn d’ainm fite fuaite go buan leis an misean stairiúil seo.",
+      "button": "Fiosraigh faoin Deis seo"
+    }
+  },
+  "gratitude": {
+    "heading": "Le Buíochas dár Lucht Tacaíochta",
+    "intro": "Is iad institiúidí, daoine aonair, agus creidmhigh i gcuimsiú radacach a thuigeann gurb í an ealaín a chruthaíonn samhlaíochtaí an lae amárach a chuireann Orbital Temple ar fáil.",
+    "pearmill": {
+      "title": "Tacaíochtóir Bunaitheora",
+      "description": "Tá Pearmill ar cheann de na gníomhaireachtaí margaíochta feidhmíochta is mó fáis sna Stáit Aontaithe, grúpa dearthóirí, margóirí agus innealtóirí atá ag obair le chéile chun cabhrú le cuid de na gnólachtaí nuathionscanta is íocónaí ar domhan a fhás. Chuir a dtacaíocht fhlaithiúil ar chumas fhoireann Orbital Temple comhpháirteanna ríthábhachtacha a cheannach agus an crua-earraí foinse oscailte a fhorbairt a fhágann gur féidir an misean satailíte seo a dhéanamh."
+    },
+    "yourName": "D’fhéadfadh d’ainm a bheith anseo. Bí linn agus stair á chruthú againn."
+  },
+  "people": {
+    "heading": "Na Daoine atá Taobh Thiar den Mhisean seo",
+    "intro": "Is gealltanas 10 mbliana é Orbital Temple. Tá beirt á threorú a chaith a saol ag nascadh ealaíne, teicneolaíochta agus nasc daonna, agus atá ag tógáil an bhonneagair chun an fhís seo a choinneáil ar bun don deich mbliana atá romhainn.",
+    "edson": {
+      "name": "Edson Pavoni",
+      "role": "Ealaíontóir & Teicneolaí",
+      "paragraph1": "Is ealaíontóir agus teicneolaí é Edson a dhéanann iniúchadh ar dlúthchaidreamh an duine ag crosbhealach na healaíne agus na teicneolaíochta. Clúdaíonn a chleachtas suiteálacha ailtireachta, filíocht, grianghrafadóireacht agus teicneolaíocht satailíte.",
+      "paragraph2": "Tá a chuid oibre ar taispeáint ag an 13ú Biennale Mercosul (an Bhrasaíl), an IX Biennale Idirnáisiúnta (an Úisbéiceastáin), agus Duais Ealaíne Digiteach Dhomhanda NTU (Singeapór).",
+      "paragraph3": "Le breis agus <strong>20 bliain de thaithí aige i réimse na healaíne agus na teicneolaíochta</strong> , d’oibrigh sé le foirne cruthaitheacha do <strong>Chluichí Oilimpeacha Rio 2016</strong> agus <strong>don Bhanc Forbartha Idir-Mheiriceánach</strong> . Ainmníodh é mar dhuine de na <strong>50 gairmí Brasaíleach is nuálaí</strong> ag Iris Proxxima, fuair sé dhá <strong>Ghradam Dearaidh IF</strong> as a chéile (2017-2018) agus bhí sé ina iarrthóir deiridh <strong>ar Ghradam Lumen Prize Futures</strong> . Tá a chuid oibre taispeánta i ndá dhébhliantúil agus curtha i láthair ag <strong>Músaem Ealaíne Comhaimseartha Ludwig</strong> (Búdaipeist), <strong>Institiúid Inhotim</strong> (an Bhrasaíl), agus <strong>Músaem Dearaidh agus Faisin</strong> (Liospóin), le taispeántais i Nua-Eabhrac, Béising, Singeapór, Dubai, Rio de Janeiro, agus cathracha eile."
+    },
+    "sathi": {
+      "name": "Sathi Roy",
+      "role": "Bunaitheoir, Fondúireacht Roy & Comhpháirtí Straitéiseach",
+      "paragraph1": "Is í Sathi bunaitheoir <strong>Fhondúireacht Roy</strong> , eagraíocht neamhbhrabúis atá tiomanta do rochtain ar oideachas spioradálta, cneasú mothúchánach, agus uirlisí comhfhiosachta a leathnú do phobail faoi mhíbhuntáiste ar fud an domhain. Comhoibríonn an fhondúireacht le scoileanna, institiúidí cultúrtha, agus eagraíochtaí áitiúla chun uirlisí folláine faoi thiomáint AI, curaclam pobail, agus meáin a spreagann claochlú a dháileadh.",
+      "paragraph2": "Le cúlra san néareolaíocht, sa chóitseáil agus sa cheannaireacht, tá foirne tógtha agus treoraithe ag Sathi ar fud Mheiriceá Thuaidh agus na hIndia, ag giniúint <strong>$600 milliún</strong> i ndíolacháin bhliantúla ag aon fhiontar amháin. Is í bunaitheoir <strong>OHM</strong> í freisin, gluaiseacht spioradálta atá dírithe ar an digiteach ar dtús, Comhbhunaitheoir <strong>SUTE</strong> (ardán oifige digiteach atá á thiomáint ag AI), agus feidhmíonn sí mar Chomhairleoir agus Ceann Domhanda Fáis do <strong>RISE Global Creative</strong> .",
+      "paragraph3": "Mar bhean Beangálach-Mheiriceánach a nascann fealsúnachtaí an Oirthir agus an Iarthair, tugann Sathi dearcadh uathúil ar ghluaiseachtaí spioradálta agus ealaíonta sa 21ú haois. Le líonra atá ag fás de bhreis is <strong>65,000 leantóir</strong> agus os cionn <strong>40 milliún imprisean ar líne</strong> , tá sí ag tógáil pobail dhomhanda a nascann trasna deighiltí cultúrtha agus spioradálta."
+    },
+    "together": "I gcomhar le Fondúireacht Roy, táimid ag tógáil misean 10 mbliana a nascann ealaín, teicneolaíocht, oideachas agus an naofa, ag tosú le lainseáil satailíte ar 28 Samhain, 2025, agus ag leanúint le gluaiseacht a shroichfidh pobail faoi mhíbhuntáiste ar fud an domhain agus a spreagfaidh an chéad ghlúin eile."
+  },
+  "join": {
+    "heading": "Bí Linn",
+    "content": "Tá an satailít tógtha. Tá an teicneolaíocht réidh. Tá an dáta lainseála socraithe: <strong>28 Samhain, 2025.</strong> Seo an nóiméad chun páirt a ghlacadh i misean a ath-shamhlaíonn cad is féidir leis an ealaín a dhéanamh, cá háit ar féidir léi dul, agus cé hiad na daoine ar féidir léi freastal orthu.",
+    "fundSpecific": {
+      "heading": "Maoinigh Comhpháirt Shonrach nó Bí i do Chomhpháirtí Bunaithe",
+      "description": "Roghnaigh ceann de na deiseanna maoinithe thuas, fiosraigh faoi bheith i do bhailitheoir ealaíne, nó pléigh urraíocht saincheaptha a oireann do do fhís.",
+      "button": "Déan Teagmháil Linn le Tosú →"
+    },
+    "generalDonation": {
+      "heading": "Déan Ranníocaíocht Inasbhainte Cánach",
+      "description": "Tacaíonn gach síntiús, beag nó mór, leis an misean agus is féidir iad a asbhaint ó cháin tríd ár n-urraitheoir fioscach, The Field.",
+      "button": "Tabhair síntiús tríd an Field →"
+    }
+  },
+  "taxInfo": {
+    "heading": "Bronntanais Inasbhainte Cánach",
+    "paragraph1": "Is tionscadal urraithe ag <strong>The Field (Performance Zone Inc.)</strong> , eagraíocht neamhbhrabúis <strong>501(c)(3)</strong> atá lonnaithe i Nua-Eabhrac, é Orbital Temple. Is féidir gach ranníocaíocht SAM a asbhaint ó cháin a mhéid a cheadaítear faoin dlí.",
+    "paragraph2": "<strong>An Réimse</strong><br> 75 Maiden Lane, Suite 906<br> Nua-Eabhrac, NY 10038<br> <a href=\"https://thefield.org\" target=\"_blank\" rel=\"noopener noreferrer\">thefield.org</a>",
+    "paragraph3": "Agus tú ag déanamh ranníocaíochtaí le seic, déan é iníoctha le <strong>Performance Zone Inc.</strong> leis an nóta seo a leanas: <strong>&quot;Edson Pavoni: Orbital Temple&quot;</strong>"
+  }
+}

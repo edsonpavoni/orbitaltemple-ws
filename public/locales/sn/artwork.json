@@ -1,0 +1,31 @@
+{
+  "title": "Iyo Artwork - Orbital Tembere",
+  "heading": "The Artwork",
+  "intro": {
+    "paragraph1": "Orbital Tembere setiraiti ine hunyanzvi hwekuita: chiyeuchidzo chiri muchadenga chakavhurika kune wese munhu anonzwisisa anogara kana akambogara paNyika.",
+    "paragraph2": "Kuburikidza nemitoo yeruzivo rwemichina, chero munhu anogona kutumira zita remumwe munhu kuTemberi, angave munhu akafa, munhu mupenyu zvakanyanya, kana chero munhu anofanirwa kurangarirwa."
+  },
+  "sculpture": {
+    "heading": "The Sculpture",
+    "paragraph1": "Iyo artwork ine zvinhu zvitatu zvinoenderana-inotsamira: setiraiti yakanyanya kugadzirirwa kuchengetedza mabhiriyoni emazita; chivezwa cheruzhinji chinotsinhana ruzivo nesatellite; uye webhusaiti iyo vatori vechikamu vanotumira nayo mazita, kubva zvino kusvika vapfuura, kudenga.",
+    "paragraph2": "Sekuedza kwakasiyana-siyana, Orbital Tembere inogona kutorwa sechivezwa chesaiti-chaiyo, inogara nzvimbo. Icho zvakare chirongwa cheArtsat."
+  },
+  "antenna": {
+    "heading": "Iyo Antenna SePublic Sculpture",
+    "paragraph1": "Antenna inotibatanidza nekunze.",
+    "paragraph2": "Antenna inenge iri mukukurukurirana zvakananga ne orbital satellite iri kugadzirwa.",
+    "paragraph3": "Nenzvimbo inopenya yegoridhe, ichiratidza denga pamusoro payo, inzvimbo yekutanga yekukurudzira vanhu vakawanda (kana hukama hwedu kune zviri 'kumusoro uko').",
+    "paragraph4": "Kunyange zvivezwa zvisina kuiswa munzvimbo zhinji dzepasi, maFremu edu kubva kuPasi, ayo ari kudzora setiraiti, ari kutumira mazita pane imwe neimwe nzira.",
+    "paragraph5": "Batsira kuunza chiono ichi kuguta rako-kuisa zvivezwa zveantenna zvinokurudzira nhaurirano nezvekuongorora nzvimbo, hunyanzvi, uye nzvimbo yedu yakagovaniswa muchadenga. <a href=\"/support\">Dzidza zvakawanda nezvekutsigira chirongwa</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temberi Satellite",
+    "riseNy": "Orbital Temberi paRise NY",
+    "installation": "Orbital Temberi naClara Marques",
+    "antenna": "Orbital Temberi Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbital Temberi muchadenga. 3D inoburitswa neRiseNY&Partners.",
+    "mercosul": "Kuiswa kweTemberi yeOrbital paMercosul Biennial, muPorto Alegre, Brazil.<br> Mufananidzo naClara Marques."
+  }
+}

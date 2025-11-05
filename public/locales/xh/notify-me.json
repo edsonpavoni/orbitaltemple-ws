@@ -1,0 +1,13 @@
+{
+  "title": "Yaziswa - Itempile ye-Orbital",
+  "heading": "Yaziswa Xa Iphakama",
+  "description": "Ngomhla wama-28 kuNovemba ka-2025, iTempile ye-Orbital iya kunyuka.<br> Shiya i-imeyile yakho, kwaye siya kukuxelela xa ifika kwindawo.",
+  "form": {
+    "emailPlaceholder": "yakho@email.com",
+    "sendButton": "Thumela",
+    "sendingButton": "Iyathumela...",
+    "successMessage": "Siya kufikelela kuwe xa inyuka.",
+    "errorMessage": "Into ayihamba kakuhle. Nceda zama kwakhona."
+  },
+  "backLink": "← Buyela kwi-countdown"
+}

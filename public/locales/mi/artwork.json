@@ -1,0 +1,31 @@
+{
+  "title": "Te Mahi Toi - Orbital Temple",
+  "heading": "Te Mahi Toi",
+  "intro": {
+    "paragraph1": "Ko te Temepara Orbital he amiorangi me te miihana toi: he whakamaumaharatanga kei waho o te waahi tuwhera ki nga tangata ora katoa e noho ana, kua noho ranei ki te whenua.",
+    "paragraph2": "Ma nga tikanga hangarau, ka taea e te tangata te tuku i te ingoa o tetahi ki te Temepara, he tangata kua mate, he tangata tino ora, he tangata ranei e tika ana kia maumahara."
+  },
+  "sculpture": {
+    "heading": "Te Whakairo",
+    "paragraph1": "E toru nga huānga whakawhirinaki tahi o te mahi toi: he amiorangi i hangaia hei penapena piriona ingoa; he whakairo tūmatanui e whakawhiti kōrero ana me te amiorangi; me te paetukutuku e tukuna ai e nga kaiuru nga ingoa, mai i tenei wa tae noa ki te wa kua pahemo atu, ki te rangi.",
+    "paragraph2": "Hei mahi maha, ka taea te whakaaro o Orbital Temple he whakairo mo te waahi, he waahi noho. He kaupapa Artsat hoki."
+  },
+  "antenna": {
+    "heading": "Te Antenna Hei Whakairo-a-iwi",
+    "paragraph1": "He antenna e hono ana i a maatau ki te waahi o waho.",
+    "paragraph2": "Kei te hangaia he antenna ka whakawhiti tika ki te amiorangi orbital.",
+    "paragraph3": "Ma te mata whakaata koura, e whakaata ana i te rangi i runga ake, he timatanga mo te whakaihiihi papatipu (me to tatou hononga ki te mea kei runga).",
+    "paragraph4": "Ahakoa kaore i whakauruhia nga whakairo ki te nuinga o nga waahi o te ao, kei te tukuna e a maatau Frames from Earth, e whakahaere ana i te amiorangi i tenei wa, i nga ingoa ki ia whakawhiti.",
+    "paragraph5": "Awhina ki te kawe mai i tenei tirohanga ki to taone—te whakauru i nga whakairo antenna hei whakaohooho i nga korerorero mo te torotoro mokowhiti, toi, me to tatou waahi tiritiri i te ao. <a href=\"/support\">Ako atu mo te tautoko i te kaupapa</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite",
+    "riseNy": "Orbital Temple at Rise NY",
+    "installation": "Orbital Temple na Clara Marques",
+    "antenna": "Antenna Temepara Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Te Orbital Temple i te waahi. Whakaaturanga 3D na RiseNY&Partners.",
+    "mercosul": "Te whakaurunga o te temepara o Orbital i te Mercosul Biennial, i Porto Alegre, Brazil.<br> Whakaahua na Clara Marques."
+  }
+}

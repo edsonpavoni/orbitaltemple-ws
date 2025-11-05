@@ -1,0 +1,50 @@
+{
+  "title": "Vadyidzani - Orbital Temberi",
+  "heading": "Partners",
+  "intro": "Orbital Tembere iripo kuburikidza nerupo, hunyanzvi, uye chiono chevadyidzani vanoshamisa. Kubva pamasatellite einjiniya kusvika pakugadzira rondedzero, kubva pakuvhura magonhi kunyika dziri kure kusvika pakukanda zviroto mugoridhe, kubatana kwega kwega kunoswededza temberi iyi pedyo nenyeredzi.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY & Partners",
+      "description": "Kukurukurirana, zviitiko zvakasanganiswa uye 3D inokatyamadza inopa mifananidzo yakaita kuti chiono chesatellite ive mhenyu isati yambobata kushaikwa kwenzvimbo."
+    },
+    "highestMantra": {
+      "name": "Yedu Yepamusoro Mantra",
+      "description": "Inotungamirwa naSathi Roy, inobatanidza Orbital Tembere nenharaunda dzemweya nehunyanzvi dzeIndia. Kuvhura nzira dzekutsvaga mari, kuchinjana kwetsika, uye kuratidzwa kweArt Basel zvichitevera kutangwa kwaNovember 2025."
+    },
+    "allToSpace": {
+      "name": "Zvese kune Space",
+      "description": "Brazilian diki satellite nyanzvi. Makore mana ekubatana kuvaka yakavhurika sosi hardware chikuva uye kupayona maitiro ekutumira art mu orbit kubva kuGlobal South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indian Space Research Organisation. Tangisa mupi wePSLV mishoni inotakura Orbital Tembere kuenda kuzuva-synchronous orbit munaNovember 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. Yakagadzirirwa naMarcello Dantas nevabatsiri vachengeti Laura Cattani, Munir Klamt, Tarsila Riso, naCarollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Chikwata chekusimudzira satellite chakaumbwa panguva yeII ArtSat Workshop. Hunorongwa naFabiane M. Borges, vachirairidzwa naLázaro Camargo, vachishandira pamwe naÍtalo Pinto Rodrigues, vachitungamirirwa naWalter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Solid Concepts",
+      "description": "Inotungamirwa naEduardo Dias. Yese 3D kudhinda uye yegoridhe diki yekukanda basa rezvakavezwa dome, kushandura zviroto zvedhijitari kuita yakakosha simbi chaiyo."
+    },
+    "ideaSpace": {
+      "name": "Idea Space",
+      "description": "Dzidzo yeBrazil yekutanga kugadzira iyo Quebrada Space Program curriculum, yakagadzirira kushandiswa kuvadzidzi vechikoro chesekondari mhiri kweBrazil."
+    }
+  },
+  "closing": "Unofarira kudyidzana neOrbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Svinura</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Logo",
+    "highestMantra": "Yedu Yepamusoro Mantra Logo",
+    "allToSpace": "Zvese kune Space Logo",
+    "isro": "ISRO Logo",
+    "mercosul": "13th Mercosur Biennial Logo",
+    "inpe": "INPE ArtSat Workshop Logo",
+    "solidConcepts": "Solid Concepts Logo",
+    "ideaSpace": "Idea Space Logo"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mampandrenesina - Tempoly Orbital",
+  "heading": "Mampandrenesina rehefa mipoitra",
+  "description": "Ny 28 Novambra 2025 dia hiakatra ny Tempoly Orbital.<br> Avelao ny mailakao, ary holazainay aminao rehefa tonga any amin&#39;ny habaka.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Alefaso",
+    "sendingButton": "Mandefa...",
+    "successMessage": "Ho tonga aminao izahay rehefa miakatra izany.",
+    "errorMessage": "Nisy zavatra tsy nety. Andramo indray azafady."
+  },
+  "backLink": "← Miverina amin'ny fanisana"
+}

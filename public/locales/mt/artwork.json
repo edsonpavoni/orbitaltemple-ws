@@ -1,0 +1,31 @@
+{
+  "title": "L-Arti - Tempju Orbitali",
+  "heading": "L-Arti",
+  "intro": {
+    "paragraph1": "It-Tempju Orbitali huwa satellita b'missjoni artistika: monument fl-ispazju miftuħ għal kull esseri senzjenti li jgħix jew għex fid-Dinja.",
+    "paragraph2": "Permezz ta’ mezzi teknoloġiċi, kulħadd jista’ jibgħat l-isem ta’ xi ħadd lit-Tempju, kemm jekk xi ħadd li miet, persuna li għadha ħajja, jew kwalunkwe esseri li jistħoqqlu li jiġi mfakkar."
+  },
+  "sculpture": {
+    "heading": "L-Iskultura",
+    "paragraph1": "L-opra tal-arti għandha tliet elementi ko-dipendenti: satellita ddisinjata speċjalment biex taħżen biljuni ta’ ismijiet; skultura pubblika li tiskambja informazzjoni mas-satellita; u websajt li permezz tagħha l-parteċipanti jibagħtu l-ismijiet, minn issa sakemm imutu, lejn is-sema.",
+    "paragraph2": "Bħala sforz multidixxiplinari, it-Tempju Orbitali jista' jitqies bħala skultura speċifika għas-sit, li tgħix fl-ispazju. Huwa wkoll proġett tal-Artsat."
+  },
+  "antenna": {
+    "heading": "L-Antenna Bħala Skultura Pubblika",
+    "paragraph1": "Antenna li tgħaqqadna mal-ispazju ta' barra.",
+    "paragraph2": "Qed tiġi ddisinjata antenna li se tkun f'komunikazzjoni diretta mas-satellita orbitali.",
+    "paragraph3": "B'wiċċ riflettiv tad-deheb, li jirrifletti s-sema 'l fuq minnu, huwa punt tat-tluq għal stimulazzjoni tal-massa (jew ir-relazzjoni tagħna ma' dak li hemm 'hemm fuq').",
+    "paragraph4": "Filwaqt li l-iskulturi mhumiex installati f'ħafna partijiet tad-dinja, il-Frames from Earth tagħna, li bħalissa qed jikkontrollaw is-satellita, qed jibagħtu l-ismijiet f'kull passthrough.",
+    "paragraph5": "Għin biex twassal din il-viżjoni fil-belt tiegħek—installa skulturi ta&#39; antenni li jispiraw konversazzjonijiet dwar l-esplorazzjoni tal-ispazju, l-arti, u l-post kondiviż tagħna fil-kożmos. <a href=\"/support\">Tgħallem aktar dwar kif tappoġġja l-proġett</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellita tat-Tempju Orbitali",
+    "riseNy": "Tempju Orbitali f'Rise NY",
+    "installation": "Tempju Orbitali minn Clara Marques",
+    "antenna": "Antenna tat-Tempju Orbitali"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempju Orbitali fl-ispazju. Rendering 3D minn RiseNY&Partners.",
+    "mercosul": "Installazzjoni tat-Tempju Orbitali fil-Biennali tal-Mercosul, f&#39;Porto Alegre, il-Brażil.<br> Ritratt minn Clara Marques."
+  }
+}

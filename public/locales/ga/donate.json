@@ -1,0 +1,31 @@
+{
+  "title": "Tabhair síntiús do Theampall Orbital",
+  "heading": "Comhlánaigh Do Shíntiús",
+  "donatingTo": "Tá tú ag tabhairt síntiúis do:",
+  "chooseHow": "Roghnaigh conas is mian leat do shíntiús inasbhainte cánach a chomhlánú:",
+  "option1": {
+    "heading": "Rogha 1: Tabhair Síntiús Ar Líne Anois",
+    "description": "Comhlánaigh do shíntiús láithreach ag baint úsáide as cárta creidmheasa, cárta dochair, nó modhanna íocaíochta ar líne eile tríd ár n-urraitheoir fioscach slán, <strong>The Field</strong> . Gheobhaidh tú admháil chánach láithreach.",
+    "button": "Tabhair síntiús tríd an Field →"
+  },
+  "option2": {
+    "heading": "Rogha 2: Taisce Bainc chuig Fondúireacht Roy",
+    "description": "Déan éarlais bhainc dhíreach nó aistriú sreinge chuig <strong>Fondúireacht Roy</strong> , ár gcomhpháirtí straitéiseach agus urraitheoir fioscach. Tá an rogha seo oiriúnach do shíntiúis níos mó nó d’aistrithe idirnáisiúnta.",
+    "bankingInfo": "Faisnéis Bhaincéireachta",
+    "fields": {
+      "accountName": "Ainm an Chuntais:",
+      "bankName": "Ainm an Bhainc:",
+      "accountNumber": "Uimhir Chuntais:",
+      "routingNumber": "Uimhir Ródaithe:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Tagairt:"
+    },
+    "instructions": "Cuir &quot; <strong>Orbital Temple - {donationType}</strong> &quot; sa réimse tagartha le do thoil. Tar éis duit d&#39;aistriú a chríochnú, seol ríomhphost chugainn ag <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> le sonraí d&#39;aistrithe chun d&#39;admháil chánach a fháil.",
+    "button": "Déan Teagmháil Linn Maidir le Taisce →"
+  },
+  "taxInfo": {
+    "heading": "Bronntanais Inasbhainte Cánach",
+    "description": "Is tionscadal urraithe ag <strong>The Field (Performance Zone Inc.)</strong> , eagraíocht neamhbhrabúis <strong>501(c)(3)</strong> , é Orbital Temple. Is féidir gach ranníocaíocht SAM a asbhaint ó cháin a mhéid a cheadaítear faoin dlí.",
+    "questions": "Ceisteanna? Téigh i dteagmháil linn ag <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

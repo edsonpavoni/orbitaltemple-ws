@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "it keunstwurk",
+    "sendAName": "stjoer in namme",
+    "fromTheArtist": "fan 'e keunstner",
+    "yetAnotherTemple": "noch in oare tempel?",
+    "howItWorks": "hoe't it wurket",
+    "spaceLaunch": "romtelansearring en risiko's",
+    "briefHistory": "koarte skiednis fan keunst yn 'e romte",
+    "education": "ûnderwiis & iepen boarne",
+    "sustainability": "duorsumens en romteôffal",
+    "press": "parse en media",
+    "team": "ploech",
+    "partners": "partners",
+    "support": "stypje",
+    "technicalInfo": "technyske ynformaasje"
+  },
+  "ritual": {
+    "label": "ritueel",
+    "ariaLabel": "Doch mei oan it ritueel - Stjoer in namme nei de Orbital Temple"
+  },
+  "footer": {
+    "credits": "Orbital Temple is in keunstwurk fan Edson Pavoni, makke yn gearwurking mei Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, en al dyjingen dy't trochgean te stjoeren nei dizze timpel."
+  }
+}

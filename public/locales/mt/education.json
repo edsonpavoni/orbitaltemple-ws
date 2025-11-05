@@ -1,0 +1,43 @@
+{
+  "title": "Edukazzjoni u Sors Miftuħ - Orbital Temple",
+  "heading": "Edukazzjoni u Sors Miftuħ",
+  "intro": {
+    "paragraph1": "It-teknoloġija kollha żviluppata għall-missjoni tat-Tempju Orbitali se tkun <strong>open source</strong> u disponibbli online bil <strong>-Portugiż</strong> , <strong>l-Ingliż</strong> , <strong>l-Ispanjol</strong> , u <strong>l-Ħindi</strong> , u b&#39;hekk trawwem l-avvanz tal-esplorazzjoni tal-ispazju fin <strong>-Nofsinhar tad-Dinja</strong> . Missjonijiet u proġetti ġodda jistgħu jużaw it-Tempju Orbitali bħala bażi għall-esperimenti artistiċi jew xjentifiċi tagħhom stess.",
+    "paragraph2": "Bħala parti mill-missjoni edukattiva tagħha, Orbital Temple se toffri kors multilingwi bla ħlas dwar kif tibni u tniedi satellita. Se tkun opportunità prattika biex titgħallem dwar it-teknoloġija tas-satelliti u tpoġġiha fil-prattika. Kull min għandu aktar minn <strong>16-il</strong> sena se jkun jista’ jibni s-satellita tiegħu stess, u jitgħallem dwar l-istorja tal-arti fl-ispazju, kunċetti fundamentali tal-elettronika, il-mekkanika u x-xjenza spazjali, inkluż kif tiffinanzja proġetti u kif tibni antenna biex tikkomunika mas-satelliti fl-orbita."
+  },
+  "spaceGap": {
+    "heading": "Għaliex Dan Jimporta: Id-Distakk Spazjali",
+    "paragraph1": "It-terminu <strong>&quot;Space Gap&quot;</strong> jirreferi għad-distakk bejn in-nazzjonijiet żviluppati li jistgħu jaċċessaw l-opportunitajiet teknoloġiċi miksuba permezz tal-esplorazzjoni tal-ispazju, u n-nazzjonijiet li qed jiżviluppaw li m&#39;għandhomx aċċess għal dawn it-teknoloġiji. Il-pajjiżi fin-Nofsinhar tad-Dinja jridu jħallsu ammonti sostanzjali lil gvernijiet jew kumpaniji barranin għal aċċess bażiku għall-informazzjoni prodotta mit-teknoloġiji tas-satelliti.",
+    "paragraph2": "It-teknoloġija spazjali tipprovdi benefiċċji kritiċi: is-satelliti jgħinu fil-ġlieda kontra l-qtugħ illegali tas-siġar, is-sajd illegali, u l-kummerċ illegali tal-ħajja selvaġġa, li jirrappreżentaw aktar minn <strong>$73 biljun fis-sena</strong> . Huma jipprovdu informazzjoni essenzjali dwar il-klima, il-produzzjoni tal-ilma, u s-sigurtà tal-ikel. Is-satelliti jippermettu irrigazzjoni preċiża u tekniki agrikoli, u jgħinu fil-prevenzjoni ta&#39; diżastri naturali. L-industrija spazjali tista&#39; toħloq sa <strong>miljun impjieg</strong> sal- <strong>2030</strong> , iżda dawn l-opportunitajiet għadhom inaċċessibbli għal ħafna fin-Nofsinhar tad-Dinja.",
+    "paragraph3": "Billi nipprovdu teknoloġija u edukazzjoni open-source, nimmiraw li niddemokratizzaw l-aċċess għall-ispazju u nagħtu s-setgħa lil ġenerazzjoni ġdida biex toħlom lil hinn mis-sema."
+  },
+  "empowering": {
+    "heading": "Nagħtu s-Setgħa lill-Ġenerazzjoni li Jmiss",
+    "intro": "Se ngħallmu lill-ġenerazzjoni li jmiss ta' esploraturi tal-ispazju kif jibnu u jniedu s-satelliti tagħhom stess, billi nkopru suġġetti essenzjali inklużi:",
+    "topics": {
+      "history": "<strong>Storja tal-arti fl-ispazju:</strong> Nifhmu l-linjaġġ tas-satelliti artistiċi u x-xogħlijiet tal-arti bbażati fl-ispazju.",
+      "concepts": "<strong>Kunċetti ewlenin:</strong> <strong>ArtSat</strong> (satelliti artistiċi), teknoloġija spazjali <strong>Open Source</strong> , u l- <strong>Space Gap</strong> .",
+      "missions": "<strong>Missjonijiet spazjali:</strong> Kif tikkonċeptualizza u tfassal missjoni, u kif tifforma tim biex tesegwixxiha.",
+      "electronics": "<strong>Elettronika fl-ispazju:</strong> Kunċetti fundamentali ta&#39; komponenti elettroniċi li jistgħu jgħixu u jiffunzjonaw fl-ambjent spazjali.",
+      "mechanics": "<strong>Il-mekkanika fl-ispazju:</strong> Nifhmu r-rekwiżiti strutturali u mekkaniċi għad-disinn tas-satelliti.",
+      "orbits": "<strong>Orbiti u lanċaturi:</strong> Tipi differenti ta&#39; orbiti u kif tagħżel fornituri ta&#39; tnedija għall-missjoni tiegħek.",
+      "financing": "<strong>Strateġiji ta&#39; finanzjament:</strong> Kif tiżgura fondi u riżorsi biex tniedi s-satellita tiegħek. Il-kors se jipprovdi riżorsi biex tikseb fondi għat-tnedija tiegħek, u jgħin lill-istudenti jsibu programmi u għotjiet minn istituzzjonijiet internazzjonali li jappoġġjaw xjenzati u studenti żgħażagħ biex jibagħtu s-satelliti tagħhom fl-ispazju.",
+      "groundStation": "<strong>Żvilupp ta&#39; stazzjon fuq l-art:</strong> Kif tibni antenna biex tikkomunika mat-Tempju Orbitali u satelliti oħra."
+    }
+  },
+  "technology": {
+    "heading": "It-Teknoloġija: Satelliti PocketQube",
+    "paragraph1": "L-istudenti se jitgħallmu jaħdmu bis-satelliti <strong>PocketQube</strong> , standard ta’ nanosatelliti li jkejjel biss <strong>5cm³</strong> u jiżen sa <strong>250g</strong> . Minkejja d-daqs żgħir tagħhom, il-PocketQube huma għodod qawwija kapaċi għall-osservazzjoni, il-monitoraġġ u l-komunikazzjoni tad-Dinja.",
+    "paragraph2": "Dawn is-satelliti kompatti għandhom bosta applikazzjonijiet fid-dinja reali, mir-riċerka xjentifika dwar it-tibdil fil-klima sal-komunikazzjoni interkontinentali. Minħabba li huma iżgħar u eħfef, huma aktar affordabbli biex jinbnew u jitniedu, u b'hekk l-ispazju jsir aktar aċċessibbli għall-istudenti, ir-riċerkaturi u l-artisti madwar id-dinja."
+  },
+  "globalAccess": {
+    "heading": "Aċċess Globali, Nibdew min-Nofsinhar Globali",
+    "paragraph1": "Il-kors se jkun disponibbli għal kull min <strong>għandu 16-il sena jew aktar</strong> , kompletament <strong>bla ħlas</strong> . Qed nibdew b&#39;kontenut bil <strong>-Portugiż</strong> , <strong>l-Ispanjol</strong> , <strong>l-Ingliż</strong> , u <strong>l-Ħindi</strong> , bi pjanijiet li nespandu għal lingwi oħra hekk kif il-programm jikber.",
+    "paragraph2": "Il-missjoni tagħna tibda fin-Nofsinhar Globali u testendi għad-dinja, biex niżguraw li l-ġenerazzjoni li jmiss ta' esploraturi tal-ispazju tiġi mill-kantunieri kollha tad-Dinja."
+  },
+  "callToAction": {
+    "heading": "Għinna Nagħmlu Dan Iseħħ",
+    "content": "Dan il-programm edukattiv bħalissa jinsab fl-iżvilupp. Qed infittxu msieħba u donaturi li jaqsmu l-viżjoni tagħna li niddemokratizzaw l-aċċess għat-teknoloġija spazjali. Jekk inti jew l-organizzazzjoni tiegħek tixtiequ tappoġġjaw din l-inizjattiva, jekk jogħġbok żur <a href=\"/support\">il-paġna ta&#39; appoġġ</a> tagħna biex titgħallmu dwar opportunitajiet ta&#39; sħubija."
+  },
+  "imageAlt": "Satellita tat-Tempju Orbitali"
+}

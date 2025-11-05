@@ -1,0 +1,44 @@
+{
+  "title": "Gan yr Artist",
+  "opening": {
+    "question": "Pwy yw'r dyn hwn i gynnig teml yn y gofod?",
+    "thanks": "Diolch am y cwestiwn.",
+    "answer": "Yr ateb byr yw fy mod i'n artist. Yr un hir yw hwn:"
+  },
+  "origin": {
+    "sao_paulo": "Cefais fy ngeni yng nghyrion São Paulo, mewn cymdogaeth a ddysgodd i mi'n gynnar beth yw ystyr perygl. Mae llawer o fy ffrindiau ysgol yn y carchar nawr. Mae fy llysdad yn y carchar. Nid oedd trais yn rhywbeth y darllenais amdano, ond y byd y bu'n rhaid i mi ei lywio. Ac roeddwn i'n gwybod bod angen i mi ddianc.",
+    "technology": "Daeth technoleg yn ffordd allan i mi. Dysgais raglennu, dysgais electroneg yn fy arddegau. Codio oedd iaith a allai fy arwain i rywle arall. Gweithio gyda thechnoleg oedd fy nihangfa o dlodi.",
+    "christianity": "Ond roeddwn i hefyd yn chwilio am berthyn, am gariad, am rywbeth i gredu ynddo. Des i o hyd i Gristnogaeth, neu fe'm canfu i. Cefais fy nerbyn. Cefais fy ngharu. Roedd gen i gymuned. Dysgais i faddau, i gredu, i symud gyda'n gilydd at bwrpas mwy.",
+    "price": "Roedd y pris, serch hynny, yn uchel. Dysgais lawer o bethau rydw i'n dal i'w dad-ddysgu hefyd. Felly dihangais rhag hynny hefyd."
+  },
+  "searching": {
+    "walls": "Dw i'n gwybod beth mae waliau'n ei wneud. Dw i wedi eu teimlo. Dw i wedi bod ar y ddwy ochr: cael fy nghadw allan, cael fy nghadw i mewn. Yr hyn a ddilynodd oedd blynyddoedd o chwilio am rywbeth na allwn i ei enwi. Bu farw Duw yn ystod y blynyddoedd hynny. Y duw roeddwn i wedi cael fy nysgu amdano, beth bynnag, yr un â rheolau a barn a drysau a oedd ond yn agor i rai pobl.",
+    "art": "Dechreuais greu celf i archwilio'r cwestiynau hyn: am agosatrwydd a thechnoleg, am gof a marwolaeth, am bwy sy'n haeddu nefoedd. Dechreuais adeiladu peiriannau sy'n ailddychmygu ein perthynas â thechnoleg, peiriannau sydd angen eich cyfranogiad, eich presenoldeb, eich enw, i drawsnewid o fetel a chod i rywbeth byw."
+  },
+  "pandemic": {
+    "intro": "Yna tarodd y pandemig Brasil.",
+    "government": "Pan gafodd brechlynnau COVID eu gohirio, roedd fy llywodraeth yn negodi taliadau o un ddoler y dos. Roedden nhw'n hyrwyddo meddyginiaeth a ddeellir fel un aneffeithiol, gan chwerthin tra bod pobl yn marw yn ei chael hi'n anodd anadlu. Roedden ni'n deffro bob dydd i nifer gwahanol. Faint o bobl a fu farw yn ystod y 24 awr ddiwethaf? A oedd yn fwy, neu'n llai na'r disgwyl?",
+    "war": "Roedd hanner y byd yn ofnus, a hanner arall yn gwadu. Roedden ni mewn rhyfel, gyda'r firws a gyda'n gilydd.",
+    "memorial": "Roeddwn i eisiau creu lle ar gyfer galar torfol, felly ynghyd â channoedd o bobl creais y Memorial Inumeráveis. Gwaith celf ar groesffordd celf a newyddiaduraeth. Fe wnaethon ni gyfweld â theuluoedd oedd wedi colli rhywun. Fe wnaethon ni ysgrifennu stori bywyd y person a gollon nhw. Fe wnaethon ni drawsnewid rhifau yn hanesion. Crëwyd cerddi, caneuon, symffonïau gyda'r hanesion hynny. Darllenodd sêr y straeon hynny ar deledu cenedlaethol. Cyrhaeddodd y prosiect filiynau.",
+    "meaning": "Nid y raddfa oedd yn bwysig, ond bod pob stori yn enw, yn fywyd, yn nefoedd i rywun."
+  },
+  "discovery": {
+    "pattern": "Ar ôl mwy na deng mil o sgyrsiau gyda galar, dechreuodd patrwm ddod i'r amlwg. Pan fyddwn yn siarad am rywun sydd wedi marw, nid ydym yn dweud pethau da yn unig; rydym yn dewis darnau o'u stori fel pe baem yn ysgrifennu llythyr argymhelliad. Argymhelliad i geidwad porth paradwys. Rydym yn gwneud ein gorau i'w hanfon i le o dderbyn, gorffwys, anrhydedd a chof.",
+    "understanding": "Ac fe ddeallais i rywbeth a newidiodd bopeth: Rydym wedi cael ein hanafu gan yr union demlau a adeiladwyd gennym. Mae ein credoau ynghylch pwy sy'n haeddu'r nefoedd yn llunio'n uniongyrchol pwy rydym yn ei eithrio ar y Ddaear. Roedd y gwladychwyr Portiwgalaidd ym Mrasil yn credu nad oedd gan bobl Dduon eneidiau; roedd y gred honno'n cyfiawnhau caethwasiaeth. Os oeddech chi'n frodorol, os cawsoch eich geni yn y lle anghywir neu os oeddech chi'n caru'r person anghywir, dywedwyd wrthych fod drysau'r nefoedd ar gau i chi.",
+    "birth": "Dyna sut y ganwyd Orbital Temple."
+  },
+  "shaman": {
+    "secular": "Ni all unrhyw artist fod yn wirioneddol seciwlar. Rydym wedi ein clymu am byth i'n hynafiad cyffredin, y siaman. Yn y dechrau, roedd ogof. Peintiodd bodau dynol anifeiliaid ar waliau nid i addurno, ond i'w galw. Dawnsiasant, a daeth yr ogof yn deml. Mae'r siaman yn defnyddio ysbryd defod; mae'r artist yn defnyddio awra celf. Rydym yn peintio, rydym yn cerflunio, rydym yn codio, rydym yn dylunio ein dyfodol dymunol nid i addurno, ond i'w galw. Mae pob celf yn ysbrydol, hyd yn oed pan mae'n honni nad yw'n ysbrydol."
+  },
+  "space": {
+    "question": "Ble gallem adeiladu teml heb furiau? Lle na allai unrhyw genedl na chrefydd hawlio. Lle gallem ddychmygu ein hunain fel un grŵp.",
+    "answer": "Gofod.",
+    "description": "Lloeren gelf gyfranogol o'r De Byd-eang. Teml mewn orbit sy'n gwahodd pawb i anfon eu henwau i'r gofod, waeth pwy ydyn nhw, ble cawsant eu geni, pwy maen nhw'n ei garu, beth maen nhw'n ei gredu. Man lle mae cynhwysiant radical yn bosibl, mewn orbit, y tu hwnt i ffiniau.",
+    "mission": "Mae'r genhadaeth hon yn ffynhonnell agored. Bydd pob dogfen dechnegol, pob llinell o god ar gael am ddim fel y gall artistiaid eraill, cymunedau eraill, gwledydd eraill adeiladu eu lloerennau eu hunain. Felly nid yn unig y mae'r De Byd-eang yn cymryd rhan mewn archwilio gofod, ond yn ei arwain."
+  },
+  "closing": {
+    "answer": "Felly pwy yw'r dyn hwn i adeiladu teml yn y gofod? Dydw i ddim yn ei adeiladu. Mae'r deml yn cael ei hadeiladu gan bawb sy'n penderfynu anfon enw, i'w weld fel rhywbeth cysegredig, i'w wneud yn real. Fi yw'r un sy'n cynnig. Chi yw'r un sy'n ei adeiladu os penderfynwch chi.",
+    "signature": "Yn garedig,",
+    "name": "Edson Pavoni"
+  }
+}

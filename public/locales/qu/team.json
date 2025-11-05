@@ -1,0 +1,61 @@
+{
+  "title": "Equipo - Templo Orbital",
+  "heading": "Huñu",
+  "artist": "Edson Pavoni, artista sutiyuq runa",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Ejecutivo Productor nisqa",
+      "members": "Sathi Roy sutiyuq runa"
+    },
+    "aerospace": {
+      "heading": "Ingeniería Aeroespacial & Sistemas nisqamanta",
+      "members": "Pedro Kaled, João Pedro Polito, Víctor Baptista & João Víctor Alves"
+    },
+    "electronic": {
+      "heading": "Ingeniería Electrónica nisqa yachay",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonatan Querubina sutiyuq runam"
+    },
+    "design": {
+      "heading": "Diseño y Arquitectura",
+      "members": "Guilherme Bullejos sutiyuq runa"
+    },
+    "printing": {
+      "heading": "Impresión 3D nisqa",
+      "members": "Conceptos Sólidos, Eduardo Dias umalliqninwan"
+    },
+    "rendering": {
+      "heading": "3D nisqapi ruway",
+      "members": "Guilherme Bullejos & RiseNy&Sociokuna"
+    },
+    "research": {
+      "heading": "Maskapay",
+      "members": "Roberta Savian Rosa & Clara Marques sutiyuq runakuna"
+    },
+    "exhibition": {
+      "heading": "Rikuchiy Ruway, Fotografía & Contenido Ruway",
+      "members": "Clara Marques sutiyuq warmi"
+    },
+    "silkScreen": {
+      "heading": "Rikuchiypa Seda Proyección",
+      "members": "Daphne Alves sutiyuq warmi"
+    },
+    "educational": {
+      "heading": "Proyecto Educativo nisqa",
+      "members": "IdeaEspacio nisqa"
+    },
+    "communication": {
+      "heading": "Equipo de Comunicación",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna El Cairo ima"
+    },
+    "specialThanks": {
+      "heading": "Gracias Especiales",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington sutiyuq runakuna"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Víctor Baptista, João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna El Cairo, Conceitos Sólidos, RiseNY&Socios, IdeaSpace nisqapi llamk'aqkuna",
+  "imageAlt": "Orbital Yupaychana Wasi Satélite"
+}

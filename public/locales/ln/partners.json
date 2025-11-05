@@ -1,0 +1,50 @@
+{
+  "title": "Ba partenaires - Tempelo ya Orbital",
+  "heading": "Ba partenaires",
+  "intro": "Tempelo ya Orbital ezali na nzela ya bokabi, mayele, mpe bomoni ya baninga ya kokamwa. Kobanda na ba satellites ya ingénierie kino na masolo ya kosala na maboko, kobanda na kofungola baporte na mikili ya mosika kino na kobwaka bandoto na wolo, boyokani moko na moko ememaka tempelo oyo penepene na minzoto.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Ba partenaires",
+      "description": "Communication, ba expériences intégrées mpe ba images 3D ya somo render oyo ememaki vision ya satellite na vie avant esimba jamais vide ya espace."
+    },
+    "highestMantra": {
+      "name": "Mantra na biso ya Likolo",
+      "description": "Ekambami na Sathi Roy, kokangisa Orbital Temple na masanga ya molimo mpe ya mayele ya Inde. Kofungola banzela ya bosangisi mosolo, bosangisi mimeseno, mpe elakiseli ya Art Basel nsima ya bobandi ya sanza ya zomi na moko 2025."
+    },
+    "allToSpace": {
+      "name": "Nyonso na Espace",
+      "description": "Ba spécialistes ya ba satellites ya mike ya Brésil. Mbula minei ya boyokani ya kotonga plateforme matérielle ya source ouverte mpe kosala pionnier ya processus ya kotinda art na orbite wuta Sud Global."
+    },
+    "isro": {
+      "name": "ISRO ezali",
+      "description": "Organisation ya bolukiluki ya spatial ya Inde. Mopesi ya lancement mpo na mission ya PSLV oyo ememaki Orbital Temple na orbite synchrone ya moyi na novembre 2025."
+    },
+    "mercosul": {
+      "name": "13e Biennale ya Mercosur",
+      "description": "Porto Alegre, na Brésil. Ebongisami na Marcello Dantas elongo na basungi ya ba curateurs Laura Cattani, Munir Klamt, Tarsila Riso, mpe Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Atelier ya ArtSat",
+      "description": "Ekipi ya bokeli satellite esalemaki na tango ya II Atelier ya ArtSat. Ekambami na Fabiane M. Borges, ekambami na Lázaro Camargo, elongo na Ítalo Pinto Rodrigues, ekambami na Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Makanisi ya makasi",
+      "description": "Ekambami na Eduardo Dias. Impression 3D nionso mpe micro casting ya or esalaka mpo na dôme sculpture, kobongola ba ndoto numériques na réalité ya métal ya talo."
+    },
+    "ideaSpace": {
+      "name": "Esika ya makanisi",
+      "description": "Startup ya éducation brésilienne oyo ezali ko développer programme d'études ya Programme spatial ya Quebrada, prêt ya ko appliqué na ba élèves ya lycée na Brésil mobimba."
+    }
+  },
+  "closing": "Ozali na mposa ya kosala partenariat na Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Sembolá lobɔkɔ</a> .",
+  "imageAlts": {
+    "riseNy": "Logo ya RiseNY&Ba partenaires",
+    "highestMantra": "Logo na biso ya Mantra ya Likolo",
+    "allToSpace": "Logo ya Nionso na Espace",
+    "isro": "Logo ya ISRO",
+    "mercosul": "Logo ya Biennale ya Mercosur ya 13e",
+    "inpe": "Logo ya Atelier ya INPE ArtSat",
+    "solidConcepts": "Logo ya ba concepts solides",
+    "ideaSpace": "Logo ya Esika ya Idea"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Imọ Alaye - Orbital Temple",
+  "heading": "Imọ Alaye",
+  "satellite": {
+    "heading": "Satẹlaiti",
+    "specs": "Awọn iwọn: 50x58x64 mm<br /> 1P PocketQube<br /> Iwọn: 245 gr<br /> Awọn ohun elo: aluminiomu, goolu, gilaasi, ati awọn paati itanna.<br /> Orbit: Giga 525 ± 25 km; tẹri: SSO 97,6 ± 0,1 °"
+  },
+  "antenna": {
+    "heading": "Eriali / ere",
+    "specs": "Awọn iwọn: 6 m (iwọn ila opin) ati 1.2m (giga)<br /> iwuwo: 46 kg<br /> Ohun elo: aluminiomu, iposii mirrored ọkọ, goolu aluminiomu dome daduro nipasẹ kan scaffolding be."
+  },
+  "radio": {
+    "heading": "Awọn alaye redio NASA-Katalogi:",
+    "specs": "TBD Downlink: 437 MHz<br /> Ipe: Ipo: ASETO FUN 2025"
+  },
+  "imageAlt": "Imọ Alaye aworan atọka"
+}

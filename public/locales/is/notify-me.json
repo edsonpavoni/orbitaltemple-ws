@@ -1,0 +1,13 @@
+{
+  "title": "Fáðu tilkynningu - Orbital Temple",
+  "heading": "Fáðu tilkynningu þegar það hækkar",
+  "description": "Þann 28. nóvember 2025 mun Orbital-hofið stíga upp.<br> Skildu eftir netfangið þitt og við látum þig vita þegar það kemst í geiminn.",
+  "form": {
+    "emailPlaceholder": "þitt@netfang.com",
+    "sendButton": "Senda",
+    "sendingButton": "Sendi...",
+    "successMessage": "Við náum til þín þegar það stígur upp.",
+    "errorMessage": "Eitthvað fór úrskeiðis. Vinsamlegast reyndu aftur."
+  },
+  "backLink": "← Til baka í niðurtalningu"
+}

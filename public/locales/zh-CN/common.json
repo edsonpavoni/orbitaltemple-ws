@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "这件艺术品",
+    "sendAName": "发送姓名",
+    "fromTheArtist": "来自这位艺术家",
+    "yetAnotherTemple": "又一座寺庙？",
+    "howItWorks": "工作原理",
+    "spaceLaunch": "太空发射及风险",
+    "briefHistory": "太空艺术简史",
+    "education": "教育与开源",
+    "sustainability": "可持续性和太空碎片",
+    "press": "新闻媒体",
+    "team": "团队",
+    "partners": "合作伙伴",
+    "support": "支持",
+    "technicalInfo": "技术信息"
+  },
+  "ritual": {
+    "label": "仪式",
+    "ariaLabel": "进入仪式——向轨道神殿发送一个名字"
+  },
+  "footer": {
+    "credits": "轨道神庙是埃德森·帕沃尼 (Edson Pavoni) 的一件艺术品，与 Pedro Kaled、João Pedro Polito、Victor Baptista & João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Sathi Roy 以及所有继续为这座神庙提供名字的人合作创作。"
+  }
+}

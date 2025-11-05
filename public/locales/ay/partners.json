@@ -1,0 +1,50 @@
+{
+  "title": "Socios - Templo Orbital ukax mä jach’a utaw",
+  "heading": "Yanapt’irinaka",
+  "intro": "Templo Orbital ukax extraordinario socios ukanakan generosidad, yatiñanaka ukat vision ukanakamp utji. Satélites de ingeniería ukhat narrativas artesanales ukanakat qalltasa, jaya markanakan punkunakap jist’arañkama, qurimpi samkanak jaquntañkama, sapa mayni yanapt’asiwix aka templo ukarux warawaranakaruw jak’achasi.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners ukat juk’ampinaka",
+      "description": "Comunicación, experiencias integradas ukat muspharkay 3D uñacht’awinak uñacht’ayañax satélite ukan uñjawiparux jakäwiruw puriyi janïr ch’usat espacio ukar llamkt’kasa."
+    },
+    "highestMantra": {
+      "name": "Jiwasan Jach’a Mantrasa",
+      "description": "Sathi Roy jupan irpata, Orbital Temple ukax India markan ajay tuqin ukhamarak artístico ayllunakapamp chikt’ata. Qullqi apthapiñ thakhinak jist’araña, cultura ukar mayjt’ayaña, ukat Art Basel ukan uñacht’äwipa, noviembre phaxsin 2025 maran qalltatapatxa."
+    },
+    "allToSpace": {
+      "name": "Taqi kunas Espacio ukar sarañataki",
+      "description": "Brasil markan jisk’a satélite tuqit yatxatirinaka. Pusi maraw yanapt’asipxäna mä plataforma de hardware de código abierto ukan lurañataki ukat nayrïr chimpunakjamaw arte ukar órbita ukar Global Sur uksat khitañataki."
+    },
+    "isro": {
+      "name": "ISRO markanxa",
+      "description": "Organización de Investigación Espacial India ukax mä jach’a tantachäwiwa. PSLV misión ukatak lanzamiento proveedor ukax Templo Orbital ukaruw inti-síncrono órbita ukar apañataki, noviembre phaxsin 2025 maran."
+    },
+    "mercosul": {
+      "name": "13 uru Mercosur Bienal ukan uñacht’ayata",
+      "description": "Porto Alegre, Brasil markan uñacht’ayata. Marcello Dantas jupan uñjata, Laura Cattani, Munir Klamt, Tarsila Riso ukat Carollina Lauriano yanapirinakamp chika."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat ukax mä jach’a tantachäwiwa",
+      "description": "Satélite lurañ equipo ukax II ArtSat Taller ukan utt’asiwayi. Fabiane M. Borges jupan yanapt’ata, Lázaro Camargo jupan yatichata, Ítalo Pinto Rodrigues jupan yanapt’ata, Walter Abrahão dos Santos jupan uñjata."
+    },
+    "solidConcepts": {
+      "name": "Ch’aman amuyunaka",
+      "description": "Eduardo Dias jupan p’iqinchata. Taqi impresión 3D ukat quri micro fundición ukax cúpula escultórica ukatakiw irnaqapxi, digital samkanakax metal precioso realidad ukar tukuyañataki."
+    },
+    "ideaSpace": {
+      "name": "Idea Espacio ukaxa",
+      "description": "Brasil markan yatichäw qalltawipax Programa Espacial Quebrada ukan currículo ukar uñstayaski, Brasil markpachan jach’a yatiqañ utan yatiqirinakar apnaqañatakix wakicht’atawa."
+    }
+  },
+  "closing": "¿Orbital Temple ukamp chikt’atäñ munasmati? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Ukax mä juk&#39;a pachanakanwa</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners ukax mä chimpuniwa",
+    "highestMantra": "Jiwasan Jach’a Mantra Logotipo",
+    "allToSpace": "Taqi kunas Espacio Logotipo",
+    "isro": "ISRO ukax Logotipo ukankiwa",
+    "mercosul": "13 uru Mercosur Bienal ukan uñacht’ayata",
+    "inpe": "INPE ArtSat Taller ukan chimpupa",
+    "solidConcepts": "Sólido Conceptos Logotipo ukax mä jach’a uñacht’äwiwa",
+    "ideaSpace": "Idea Espacio Logotipo ukax mä jach’a uñacht’äwiwa"
+  }
+}

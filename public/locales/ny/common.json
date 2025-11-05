@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "zojambulajambula",
+    "sendAName": "tumiza dzina",
+    "fromTheArtist": "kuchokera kwa wojambula",
+    "yetAnotherTemple": "komabe, kachisi wina?",
+    "howItWorks": "momwe zimagwirira ntchito",
+    "spaceLaunch": "kuyambitsa danga ndi zoopsa",
+    "briefHistory": "mwachidule mbiri ya luso mu mlengalenga",
+    "education": "maphunziro & gwero lotseguka",
+    "sustainability": "kukhazikika ndi zinyalala za danga",
+    "press": "press & media",
+    "team": "timu",
+    "partners": "abwenzi",
+    "support": "thandizo",
+    "technicalInfo": "zambiri zaukadaulo"
+  },
+  "ritual": {
+    "label": "mwambo",
+    "ariaLabel": "Lowani mwambo - Tumizani dzina ku Orbital Temple"
+  },
+  "footer": {
+    "credits": "Orbital Temple ndi zojambulajambula za Edson Pavoni, zomwe zinapangidwa mogwirizana ndi Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy omwe akupitiriza kutumiza mayina kwa kachisi uyu, ndi onse omwe akupitiriza kutumiza mayina."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "L'Opera d'Arte - Tempiu Orbitale",
+  "heading": "L'opera d'arte",
+  "intro": {
+    "paragraph1": "U Tempiu Orbitale hè un satellitu cù una missione artistica: un memoriale in u spaziu apertu à ogni esse senziente chì vive o hà campatu nantu à a Terra.",
+    "paragraph2": "Per mezu di mezi tecnologichi, chiunque pò mandà u nome di qualchissia à u Tempiu, sia qualchissia chì hè mortu, una persona assai viva, sia qualsiasi esse chì merita d'esse ricurdatu."
+  },
+  "sculpture": {
+    "heading": "A Scultura",
+    "paragraph1": "L'opera d'arte hà trè elementi codipendenti: un satellitu cuncipitu apposta per almacenà miliardi di nomi; una scultura publica chì scambia informazioni cù u satellitu; è un situ web attraversu u quale i participanti mandanu i nomi, da avà finu à a so morte, in celu.",
+    "paragraph2": "Cum'è un sforzu multidisciplinariu, u Tempiu Orbitale pò esse cunsideratu una scultura specifica per u situ, chì abita u spaziu. Hè ancu un prughjettu Artsat."
+  },
+  "antenna": {
+    "heading": "L'Antenna cum'è una Scultura Pubblica",
+    "paragraph1": "Un'antenna chì ci cunnetta cù u spaziu.",
+    "paragraph2": "Un'antenna chì serà in cumunicazione diretta cù u satellitu orbitale hè in corsu di cuncepimentu.",
+    "paragraph3": "Cù una superficia riflettente dorata, chì riflette u celu sopra, hè un puntu di partenza per a stimulazione di massa (o a nostra relazione cù ciò chì hè \"lassù\").",
+    "paragraph4": "Mentre chì e sculture ùn sò micca installate in a maiò parte di u mondu, i nostri Frames from Earth, chì cuntrolanu attualmente u satellitu, mandanu i nomi à ogni passaghju.",
+    "paragraph5": "Aiutate à purtà sta visione in a vostra cità - installendu sculture d&#39;antenna chì ispiranu conversazioni nantu à l&#39;esplorazione spaziale, l&#39;arte è u nostru locu cumunu in u cosmos. <a href=\"/support\">Amparate di più nantu à cumu sustene u prugettu</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satellite Orbitale di u Tempiu",
+    "riseNy": "Tempiu Orbitale à Rise NY",
+    "installation": "Tempiu Orbitale di Clara Marques",
+    "antenna": "Antenna Orbitale di u Tempiu"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempiu Orbitale in u spaziu. Rendering 3D da RiseNY&Partners.",
+    "mercosul": "Installazione di u Tempiu Orbitale à a Biennale di u Mercosul, in Porto Alegre, Brasile.<br> Foto di Clara Marques."
+  }
+}

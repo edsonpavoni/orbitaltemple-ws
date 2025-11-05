@@ -1,0 +1,17 @@
+{
+  "title": "Tæknilegar upplýsingar - Orbital Temple",
+  "heading": "Tæknilegar upplýsingar",
+  "satellite": {
+    "heading": "Gervihnöttur",
+    "specs": "Stærð: 50x58x64 mm<br /> 1P PocketQube<br /> Þyngd: 245 grömm<br /> Efni: ál, gull, trefjaplast og rafeindabúnaður.<br /> Braut: Hæð 525 ± 25 km; halli: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Loftnet/skúlptúr",
+    "specs": "Stærð: 6 m (þvermál) og 1,2 m (hæð)<br /> Þyngd: 46 kg<br /> Efni: ál, epoxy spegilplata, gullin álkúpa hengd upp í vinnupalli."
+  },
+  "radio": {
+    "heading": "Upplýsingar um útvarp NASA-skrá:",
+    "specs": "Ákveðið niðurhal: 437 MHz<br /> Símtal: Staða: ÁÆTLUN FYRIR 2025"
+  },
+  "imageAlt": "Tæknilegar upplýsingar skýringarmynd"
+}

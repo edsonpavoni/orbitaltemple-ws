@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "as yu de go insay\nwan ritual we dɛn kin du\nfɔ sɛn wan nem\ninsay di\ndi tɛmpul we de ɔrbital\nna di spes\ntek\nwan briz we dɛn kin blo",
+    "button": "a dɔn rɛdi"
+  },
+  "nameInput": {
+    "title": "tayp wan nem",
+    "subtitle": "i go rayz to di Ɔbital Tɛmpl na di spes.",
+    "placeholder": "nem",
+    "button": "lɛ i go ɔp"
+  },
+  "emailInput": {
+    "title": "tayp yu imel",
+    "subtitle": "so yu geht mesej we di nem go op.",
+    "placeholder": "yu imel",
+    "button": "i dɔn du am"
+  },
+  "loading": {
+    "alt": "We yu de lod"
+  },
+  "success": {
+    "text": "di nem\n{{nem}}\ndɔn de na di kiyu naw\nfɔ go ɔp na di wɔl.\nwe di\ntɛmpul we de na di spes\nalayns, wit\nwi ɛntena\nna di Wɔl\nwi go sɛn\ndi nem\nɛn yu go gɛt\nwan mɛsej we dɛn kin gi."
+  }
+}

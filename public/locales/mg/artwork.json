@@ -1,0 +1,31 @@
+{
+  "title": "Ny asa-kanto - Tempoly Orbital",
+  "heading": "The Artwork",
+  "intro": {
+    "paragraph1": "Ny Tempoly Orbital dia zanabolana misy iraka ara-javakanto: fahatsiarovana any amin'ny habakabaka misokatra ho an'ny zavamananaina rehetra niaina na niaina teto an-tany.",
+    "paragraph2": "Amin'ny alalan'ny teknolojia, na iza na iza dia afaka mandefa ny anaran'olona ho any amin'ny Tempoly, na olona efa nodimandry, na olona tena velona, na izay olona mendrika ny hotsaroana."
+  },
+  "sculpture": {
+    "heading": "Ny Sculpture",
+    "paragraph1": "Manana singa telo miara-miombon'antoka ny sangan-kanto: zanabolana natao manokana hitehirizana anarana an'arivony tapitrisa; sary sokitra ho an'ny daholobe mifanakalo vaovao amin'ny zanabolana; ary tranonkala iray izay handefasan'ny mpandray anjara ny anarana, manomboka izao ka mandra-pahafatiny, ho any an-danitra.",
+    "paragraph2": "Amin'ny maha-ezaka amin'ny sehatra maro, ny Tempoly Orbital dia azo raisina ho sary sokitra manokana amin'ny toerana misy ny habaka. Tetikasa Artsat ihany koa izy io."
+  },
+  "antenna": {
+    "heading": "Ny Antenna ho sary sokitra ho an'ny daholobe",
+    "paragraph1": "Antenna mampifandray antsika amin'ny habakabaka.",
+    "paragraph2": "Antenna iray izay hifandray mivantana amin'ny zanabolana orbital no amboarina.",
+    "paragraph3": "Miaraka amin'ny taratra mirefarefa volamena, mitaratra ny lanitra eo amboniny, io no toerana iaingan'ny fanentanana faobe (na ny fifandraisantsika amin'izay 'any ambony').",
+    "paragraph4": "Na dia tsy apetraka amin'ny ankamaroan'ny tany aza ny sary sokitra, ny Frames avy amin'ny tany, izay mifehy ny zanabolana amin'izao fotoana izao, dia mandefa ny anarana isaky ny passthrough.",
+    "paragraph5": "Ampio hitondra ity vina ity ho an&#39;ny tanànanao—fametrahana sary sokitra antenne izay manentana ny resadresaka momba ny fitrandrahana habakabaka, ny zavakanto ary ny toerana iombonantsika ao amin&#39;ny cosmos. <a href=\"/support\">Mianara bebe kokoa momba ny fanohanana ny tetikasa</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite",
+    "riseNy": "Orbital Temple at Rise NY",
+    "installation": "Tempoly Orbital nataon'i Clara Marques",
+    "antenna": "Orbital Temple Antenna"
+  },
+  "imageCaptions": {
+    "riseNy": "Tempoly orbital amin'ny habakabaka. Fandikana 3D nataon'i RiseNY&Partners.",
+    "mercosul": "Fametrahana Tempoly Orbital ao amin&#39;ny Mercosul Biennial, any Porto Alegre, Brezila.<br> Sary avy amin&#39;i Clara Marques."
+  }
+}

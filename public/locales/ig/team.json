@@ -1,0 +1,61 @@
+{
+  "title": "Otu - Orbital Temple",
+  "heading": "Otu",
+  "artist": "Edson Pavoni, onye na-ese ihe",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Onye nrụpụta ọrụ",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Systems Engineering",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Igwe ọkụ eletrik",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Ngwa ngwa",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Nhazi na ihe owuwu",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Mbipụta 3D",
+      "members": "Echiche siri ike, n'okpuru nduzi nke Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Ihe ngosi 3D",
+      "members": "Guilherme Bullejos & RiseNy& Partners"
+    },
+    "research": {
+      "heading": "Nyocha",
+      "members": "Roberta Savian Rosa na Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Mmepụta ihe ngosi, foto & imepụta ọdịnaya",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Ihe ngosi silk screening",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Ọrụ nkuzi",
+      "members": "Ideaspace"
+    },
+    "communication": {
+      "heading": "Otu nkwurịta okwu",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Ekele pụrụ iche",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, na Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Holzmeister, Andre Holzmeister Bruna Cairo, Conceitos Sólidos, RiseNY & Partners, IdeaSpace",
+  "imageAlt": "Satellite Temple Orbital"
+}

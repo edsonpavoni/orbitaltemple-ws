@@ -1,0 +1,16 @@
+{
+  "title": "Lansiranje u svemir - Orbitalni hram",
+  "heading": "Lansiranje u svemir",
+  "intro": "Planirano je da Orbitalni hram bude lansiran pomoću PSLV-a (Polar Satellite Launch Vehicle) 28. novembra 2025. godine iz Svemirskog centra Satish Dhawan u Sriharikoti u Indiji.",
+  "partnership": "Lansiranje Orbitalnog hrama je partnerstvo između NewSpace India Limited (NSIL), kompanije Vlade Indije u okviru Ministarstva za svemir, Antrix Corporation, i umjetnika. Ova saradnja predstavlja značajnu prekretnicu za umjetnost u istraživanju svemira, spajajući indijski svemirski program s umjetničkom vizijom radikalne inkluzivnosti.",
+  "risks": {
+    "heading": "Rizici",
+    "paragraph1": "Satelit je napravljen da izdrži ekstremne uslove vibracija i termičke cikluse, te je prošao rigorozna testiranja. Međutim, lansiranja u svemir nose inherentne rizike. Ako se satelit ošteti tokom lansiranja ili raspoređivanja, ili ako ne uspije uspostaviti komunikaciju s našim zemaljskim stanicama, radit ćemo na rješavanju svih problema. Satelit ima redundantne sisteme i rezervne protokole dizajnirane da maksimiziraju šanse za uspjeh misije.",
+    "paragraph2": "Osim toga, satelit može ostati u orbiti manje od 10 godina ako atmosferski uslovi ili drugi faktori uzrokuju ranije opadanje orbite. Iako smo ga projektovali da traje najmanje deset godina, stvarni vijek trajanja zavisi od uslova koje ne možemo u potpunosti kontrolisati.",
+    "paragraph3": "Ako prvo lansiranje ne uspije ili ako ne budemo u mogućnosti da ostvarimo ovu misiju kako je planirano, istražit ćemo alternativne puteve naprijed, potencijalno uključujući drugi pokušaj lansiranja s dostupnim budžetom, partnerstvo s drugim misijama ili dokumentiranje pokušaja kao dijela narativa umjetničkog djela o težnjama i ograničenjima."
+  },
+  "imageAlts": {
+    "india": "Svemirski centar ISRO, Indija",
+    "satellite": "Orbitalni hramski satelit"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Midzɔ nu na Orbital Gbedoxɔ",
+  "heading": "Kpe Wò Nudzɔdzɔa Nu",
+  "donatingTo": "Èle nu dzɔm na:",
+  "chooseHow": "Tia alesi nàdi be yeawu yeƒe nudzɔdzɔ si dzi woɖea adzɔ le la nu:",
+  "option1": {
+    "heading": "Tiatia 1: Na Nudzɔdzɔ le Internet Dzi Fifia",
+    "description": "Kpe wò nudzɔdzɔa ɖo enumake to gaxɔgbalẽvi, gaxɔgbalẽvi, alo fexexemɔnu bubu siwo le Internet dzi zazã me to míaƒe ganyawo ŋuti gaxɔla si le dedie, <strong>si nye The Field</strong> , dzi. Àxɔ adzɔxegbalẽvi enumake.",
+    "button": "Na nudzɔdzɔ to The Field → dzi"
+  },
+  "option2": {
+    "heading": "Tiatia 2: Gadzraɖoƒe ƒe Gadede The Roy Foundation",
+    "description": "De ga le gadzraɖoƒe tẽ alo tsɔ ga ɖo ɖe <strong>The Roy Foundation</strong> , míaƒe hadɔwɔla vevitɔ kple ganyawo ƒe gaxɔla. Tiatia sia sɔ nyuie na nudzɔdzɔ gãwo alo dukɔwo dome gaɖoɖoɖa.",
+    "bankingInfo": "Gadzraɖoƒe Ŋuti Nyatakakawo",
+    "fields": {
+      "accountName": "Akɔntabubu ƒe Ŋkɔ:",
+      "bankName": "Gadzraɖoƒe ƒe Ŋkɔ:",
+      "accountNumber": "Akɔntabubu Xexlẽdzesi:",
+      "routingNumber": "Mɔfiame ƒe Xexlẽdzesi:",
+      "swift": "SWIFT/BIC: Ƒe 1999 me.",
+      "reference": "Ɖeɖe fiã:"
+    },
+    "instructions": "Taflatse tsɔ &quot; <strong>Orbital Temple - {donationType}</strong> &quot; de nufiame ƒe akpaa dzi. Ne èwu wò asitɔtrɔ nu vɔ la, ŋlɔ lɛta na mí le <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> kple wò asitɔtrɔ ŋuti nyatakakawo be nàxɔ wò adzɔxegbalẽvi.",
+    "button": "Ka Ðe Mía Dzi Ku Ðe Deposit Ŋu →"
+  },
+  "taxInfo": {
+    "heading": "Nunana si Woɖena Le Adzɔxexe Me",
+    "description": "Orbital Temple nye dɔ si <strong>The Field (Performance Zone Inc.)</strong> , si <strong>nye 501(c)(3)</strong> habɔbɔ si mekpɔa viɖe aɖeke tso eme o, ƒe gakpekpeɖeŋu. Woate ŋu aɖe adzɔ le United States ƒe nudzɔdzɔwo katã dzi vaseɖe afisi se ɖe mɔ ɖo.",
+    "questions": "Nyabiasewoe? Te ɖe mía ŋu le <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "ງານສິນລະປະ",
+    "sendAName": "ສົ່ງຊື່",
+    "fromTheArtist": "ຈາກຈິດຕະນາການ",
+    "yetAnotherTemple": "ຍັງ, ວັດອື່ນ?",
+    "howItWorks": "ມັນເຮັດວຽກແນວໃດ",
+    "spaceLaunch": "ການເປີດຕົວອາວະກາດແລະຄວາມສ່ຽງ",
+    "briefHistory": "ປະຫວັດຫຍໍ້ຂອງສິລະປະໃນອາວະກາດ",
+    "education": "ການສຶກສາ ແລະແຫຼ່ງເປີດ",
+    "sustainability": "ຄວາມຍືນຍົງ ແລະສິ່ງເສດເຫຼືອໃນອະວະກາດ",
+    "press": "ຫນັງສືພິມ & ສື່ມວນຊົນ",
+    "team": "ທີມງານ",
+    "partners": "ຄູ່ຮ່ວມງານ",
+    "support": "ສະຫນັບສະຫນູນ",
+    "technicalInfo": "ຂໍ້ມູນດ້ານວິຊາການ"
+  },
+  "ritual": {
+    "label": "ພິທີກຳ",
+    "ariaLabel": "ເຂົ້າສູ່ພິທີກຳ-ສົ່ງຊື່ເຂົ້າວັດອົງຕື້"
+  },
+  "footer": {
+    "credits": "ພຣະວິຫານ Orbital ເປັນງານສິລະປະໂດຍ Edson Pavoni, ສ້າງໂດຍການຮ່ວມມືກັບ Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, ທຸກຄົນທີ່ສົ່ງກັບ Sathi ຕໍ່ໄປ."
+  }
+}

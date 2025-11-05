@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "semasa anda masuk\nsatu ritual\nuntuk menghantar nama\nke dalam\nkuil orbit\ndi angkasa\nambil\nnafas",
+    "button": "saya sudah bersedia"
+  },
+  "nameInput": {
+    "title": "taip nama",
+    "subtitle": "ia akan naik ke Kuil Orbital di angkasa.",
+    "placeholder": "nama",
+    "button": "biarkan ia naik"
+  },
+  "emailInput": {
+    "title": "taip e-mel anda",
+    "subtitle": "jadi anda mendapat mesej apabila nama itu naik.",
+    "placeholder": "e-mel anda",
+    "button": "ia dilakukan"
+  },
+  "loading": {
+    "alt": "Memuatkan"
+  },
+  "success": {
+    "text": "nama\n{{nama}}\nkini beratur\nuntuk kenaikan.\napabila\nkuil di angkasa\nsejajar, dengan\nantena kami\ndi Bumi\nkami akan hantar\nnama\ndan anda akan menerima\nmesej."
+  }
+}

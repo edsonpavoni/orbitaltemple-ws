@@ -1,0 +1,31 @@
+{
+  "title": "Spenden un den Orbital Tempel",
+  "heading": "Fëllt Är Donatioun aus",
+  "donatingTo": "Dir spendet un:",
+  "chooseHow": "Wielt wéi Dir Är steuerlech ofsetzbar Donatioun ofschléisse wëllt:",
+  "option1": {
+    "heading": "Optioun 1: Elo online spenden",
+    "description": "Maacht Är Donatioun direkt mat Kreditkaart, Bankkaart oder aner Online-Bezuelmethoden iwwer eise séchere Finanzsponsor, <strong>The Field</strong> . Dir kritt direkt eng Steierquittung.",
+    "button": "Spenden iwwer The Field →"
+  },
+  "option2": {
+    "heading": "Optioun 2: Bankdepot un d'Roy Foundation",
+    "description": "Maacht eng direkt Bankiwwerweisung oder eng Bankiwwerweisung un <strong>d&#39;Roy Foundation</strong> , eise strategesche Partner a finanzielle Sponsor. Dës Optioun ass ideal fir méi grouss Spenden oder international Iwwerweisungen.",
+    "bankingInfo": "Bankinformatiounen",
+    "fields": {
+      "accountName": "Kontnumm:",
+      "bankName": "Numm vun der Bank:",
+      "accountNumber": "Kontonummer:",
+      "routingNumber": "Routingnummer:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referenz:"
+    },
+    "instructions": "Gitt w.e.g. &quot; <strong>Orbital Temple - {donationType}</strong> &quot; am Referenzfeld un. Nodeems Dir Är Iwwerweisung ofgeschloss hutt, schéckt eis eng E-Mail un <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> mat Ären Iwwerweisungsdetailer fir Är Steierquittung ze kréien.",
+    "button": "Kontaktéiert eis iwwer Kautioun →"
+  },
+  "taxInfo": {
+    "heading": "Steierlech ofsetzbar Spenden",
+    "description": "Den Orbital Temple ass e finanziell gesponsert Projet vun <strong>The Field (Performance Zone Inc.)</strong> , enger <strong>501(c)(3)</strong> Non-Profit-Organisatioun. All US-Spenden sinn steuerlech ofsetzbar, souwäit et vum Gesetz erlaabt ass.",
+    "questions": "Froen? Kontaktéiert eis op <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

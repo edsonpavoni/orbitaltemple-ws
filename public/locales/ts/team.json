@@ -1,0 +1,61 @@
+{
+  "title": "Xipano - Tempele ya Orbital",
+  "heading": "Xipanu",
+  "artist": "Edson Pavoni, mutshila wa swifaniso",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Muhumelerisinkulu",
+      "members": "Sathi Roy u vula leswaku"
+    },
+    "aerospace": {
+      "heading": "Vuinjhiniyere bya Swihahampfhuka & Tisisiteme",
+      "members": "Pedro Kaled, João Pedro Polito, Muhluri Baptista & João Muhluri Alves"
+    },
+    "electronic": {
+      "heading": "Vuinjhiniyere bya Elektroniki",
+      "members": "André Biagioni, João Pedro Polito na V. K., na van’wana"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Yonathani Kerubina"
+    },
+    "design": {
+      "heading": "Dizayini na Vumaki",
+      "members": "Guilherme Bullejos u vula leswaku"
+    },
+    "printing": {
+      "heading": "Ku Gandlisa ka 3D",
+      "members": "Solid Concepts, ehansi ka vurhangeri bya Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Ku Hundzuluxela ka 3D",
+      "members": "Guilherme Bullejos & RiseNy&Vatirhisani"
+    },
+    "research": {
+      "heading": "Ndzavisiso",
+      "members": "Roberta Savian Rosa & Clara Marques va vula leswaku"
+    },
+    "exhibition": {
+      "heading": "Vuhumelerisi bya Nkombiso, Swifaniso & Ku Tumbuluxa Swilo leswi nga endzeni",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Nkombiso wa Silk Screening",
+      "members": "Daphne Alves, u vula leswaku"
+    },
+    "educational": {
+      "heading": "Phurojeke ya Dyondzo",
+      "members": "Xivandla xa Miehleketo"
+    },
+    "communication": {
+      "heading": "Xipano xa Vuhlanganisi",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo na vona va vulavula hi ku rhula"
+    },
+    "specialThanks": {
+      "heading": "Nkhenso wo Hlawuleka",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuwele Levy, Bella Nardini, & Leigh Pennington, na vona va vulavula hi ku rhula"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Muhluri Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Vatirhisani, Xivandla xa Miehleketo",
+  "imageAlt": "Sathelayiti ya Tempele ya Orbital"
+}

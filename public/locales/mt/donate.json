@@ -1,0 +1,31 @@
+{
+  "title": "Agħti donazzjoni lit-Tempju Orbitali",
+  "heading": "Imla d-Donazzjoni Tiegħek",
+  "donatingTo": "Qed tagħti donazzjoni lil:",
+  "chooseHow": "Agħżel kif tixtieq tlesti d-donazzjoni tiegħek li tista' titnaqqas mit-taxxa:",
+  "option1": {
+    "heading": "Għażla 1: Agħti Donazzjoni Online Issa",
+    "description": "Imla d-donazzjoni tiegħek immedjatament billi tuża karta ta&#39; kreditu, karta ta&#39; debitu, jew metodi oħra ta&#39; ħlas online permezz tal-isponsor fiskali sigur tagħna, <strong>The Field</strong> . Tirċievi riċevuta tat-taxxa immedjatament.",
+    "button": "Agħti donazzjoni permezz ta' The Field →"
+  },
+  "option2": {
+    "heading": "Għażla 2: Depożitu Bankarju lil The Roy Foundation",
+    "description": "Agħmel depożitu bankarju dirett jew trasferiment elettroniku lil <strong>The Roy Foundation</strong> , is-sieħeb strateġiku u l-isponsor fiskali tagħna. Din l-għażla hija ideali għal donazzjonijiet akbar jew trasferimenti internazzjonali.",
+    "bankingInfo": "Informazzjoni Bankarja",
+    "fields": {
+      "accountName": "Isem tal-Kont:",
+      "bankName": "Isem il-Bank:",
+      "accountNumber": "Numru tal-Kont:",
+      "routingNumber": "Numru tar-Rotta:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Referenza:"
+    },
+    "instructions": "Jekk jogħġbok inkludi &quot; <strong>Orbital Temple - {donationType}</strong> &quot; fil-qasam tar-referenza. Wara li tlesti t-trasferiment tiegħek, ibgħatilna email fuq <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> bid-dettalji tat-trasferiment tiegħek biex tirċievi l-irċevuta tat-taxxa tiegħek.",
+    "button": "Ikkuntattjana Dwar id-Depożitu →"
+  },
+  "taxInfo": {
+    "heading": "Għoti li jistgħu jitnaqqsu mit-Taxxa",
+    "description": "Orbital Temple huwa proġett sponsorjat fiskalment minn <strong>The Field (Performance Zone Inc.)</strong> , organizzazzjoni mingħajr skop ta&#39; qligħ <strong>501(c)(3)</strong> . Il-kontribuzzjonijiet kollha tal-Istati Uniti huma deduċibbli mit-taxxa sal-punt permess mil-liġi.",
+    "questions": "Għandek xi mistoqsijiet? Ikkuntattjana fuq <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

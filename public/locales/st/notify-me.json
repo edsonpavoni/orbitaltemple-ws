@@ -1,0 +1,13 @@
+{
+  "title": "Tsebisoa - Tempele ea Orbital",
+  "heading": "Tsebisoa Ha E Tsoha",
+  "description": "Ka la 28 Pulungoana 2025, Tempele ea Orbital e tla nyoloha.<br> Tlohela e-mail ea hau, &#39;me re tla u bolella ha e fihla sebakeng.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Romela",
+    "sendingButton": "E ea romela...",
+    "successMessage": "Re tla u fihlela ha e nyoloha.",
+    "errorMessage": "Ho bile le phoso. Ka kopo, leka hape."
+  },
+  "backLink": "← Khutlela ho nako ea ho bala"
+}

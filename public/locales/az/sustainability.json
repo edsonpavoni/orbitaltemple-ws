@@ -1,0 +1,44 @@
+{
+  "title": "Davamlılıq və Kosmos Dağıntıları - Orbital Məbədi",
+  "heading": "Davamlılıq",
+  "intro": {
+    "paragraph1": "İncəsənət bizi gələcəyə aparacaqsa, o, üzləşdiyimiz böhranları - ətraf mühitin dağılması, sosial bərabərsizlik və kosmik tullantıların getdikcə artan problemini göz ardı edə bilməz. Orbital Məbəd həm Yerdə, həm də orbitdə məsuliyyətli bir varlıq olmağı hədəfləyən bu reallıqlar nəzərə alınmaqla hazırlanmışdır.",
+    "paragraph2": "Biz inanırıq ki, davamlılıq bir məhdudiyyət deyil, bədii vizyonumuzun vacib hissəsidir. Materiallar, orbitlər və əməliyyatlarla bağlı hər bir qərar həm Yerdən, həm də kosmosdan onları tapdığımızdan daha yaxşı tərk etmək öhdəliyimizi əks etdirir."
+  },
+  "spaceDebris": {
+    "heading": "Kosmik zibil",
+    "paragraph1": "Kosmik tullantılar kosmik tədqiqatların qarşısında duran ən aktual problemlərdən biridir. Minlərlə sıradan çıxmış peyk və fraqmentlər Yer ətrafında fırlanır, aktiv missiyaları təhdid edir və müəyyən orbitləri yararsız hala sala biləcək kaskad effekti yaradır.",
+    "paragraph2": "Orbital Temple bunu bir neçə yolla həll edir:",
+    "list": {
+      "orbit": "<strong>525 km-də Günəşlə sinxron orbit:</strong> Bu hündürlük təbii atmosfer sürükləməsinin peykin təxminən 10 il ərzində Yer atmosferinə yenidən daxil olmasına və orada tamamilə yanacağına zəmanət verir. Biz uzunmüddətli orbital dağıntılara töhfə vermirik.",
+      "size": "<strong>PocketQube dizaynı:</strong> Cəmi 50×58×64 mm və 245 qram ölçüdə peyk yenidən daxil olarkən tamamilə buxarlanacaq qədər kiçikdir və Yer səthində heç bir zibil qoymur.",
+      "responsibility": "<strong>Planlaşdırılan köhnəlmə yoxdur:</strong> Tərk oluna bilən kommersiya peyklərindən fərqli olaraq, Orbital Məbədi məsuliyyətli kosmik fəaliyyət üçün beynəlxalq təlimatları yerinə yetirərək təbii olaraq orbitdən çıxmaq üçün nəzərdə tutulmuşdur."
+    },
+    "paragraph3": "Aşağı Yer orbitini və yığcam dizaynı seçməklə biz Orbital Məbədin kosmosda mövcudluğunun müvəqqəti və çirkləndirici olmadığını təmin edirik."
+  },
+  "carbonNeutrality": {
+    "heading": "Karbon neytrallığı",
+    "content": "Orbital Məbədi ilə əlaqəli bütün karbon emissiyaları, o cümlədən peyk istehsalı, buraxılış, yerüstü stansiya əməliyyatları, veb saytların yerləşdirilməsi və komanda səyahətləri təsdiqlənmiş karbon kredit proqramları vasitəsilə tam kompensasiya ediləcək. Biz bu missiyanı iqlimə qarşı neytral etməyə sadiqik."
+  },
+  "openSource": {
+    "heading": "Açıq Mənbəli Aparat",
+    "paragraph1": "Davamlılıq həm də biliyi israf etməmək deməkdir. Orbital Məbədin hər bir texniki aspekti - sxemlər, kodlar, rabitə protokolları və tikinti metodları - açıq mənbə sənədləri kimi dərc olunacaq.",
+    "paragraph2": "Bu, gələcək missiyaları sıfırdan başlamaq əvəzinə işimizə əsaslanmağa, lazımsız tədqiqat və inkişafı azaltmağa imkan verir. O, kosmik texnologiyaya çıxışı demokratikləşdirir, xüsusən də Qlobal Cənubda tarixən kosmik tədqiqatlardan kənarda qalan icmalar üçün."
+  },
+  "educational": {
+    "heading": "Təhsil Təsiri",
+    "paragraph1": "Ödənişsiz çoxdilli təhsil proqramımız bütün dünyada tələbələrə Qlobal Cənuba diqqət yetirməklə peykləri necə qurmağı və işə salmağı öyrədir. Gələcək nəsli kosmik texnologiya bacarıqları ilə gücləndirməklə, biz “Kosmos boşluğunun” bağlanmasına və əks halda mövcud olmayan imkanların yaradılmasına töhfə veririk.",
+    "paragraph2": "Bu təhsil missiyasının özü davamlılığın bir formasıdır - peykin ömrünün kənarında qalıcı dəyişiklik yaratmaq üçün insanlara və icmalara sərmayə qoymaq."
+  },
+  "tenYear": {
+    "heading": "10 illik Missiya",
+    "paragraph1": "Orbital Məbədi qısa bir reklam üçün deyil, onillik bir missiya üçün nəzərdə tutulmuşdur. On il ərzində peyk Yer ətrafında təxminən 50.000 dəfə orbitə çıxacaq, adlar alacaq və kosmosun hamı üçün əlçatan ola biləcəyini xatırlatacaq.",
+    "paragraph2": "Missiyası başa çatdıqdan sonra peyk təbii olaraq orbitdən çıxacaq və yanacaq və iştirak edənlərin xatirələrində və sənədlərində heç bir iz qoymayacaq."
+  },
+  "artsResponsibility": {
+    "heading": "Sənətin Məsuliyyəti",
+    "paragraph1": "İncəsənət həmişə öz dövrünün güzgüsü olub, dəyərlərimizi, arzularımızı əks etdirib. İqlim böhranı və artan bərabərsizlik dövründə biz inanırıq ki, rəssamlar təkcə bu məsələlərə şərh verməklə yanaşı, onları fəal şəkildə həll edən əsərlər yaratmağa borcludurlar.",
+    "paragraph2": "Orbital Temple, inklüzivliyi baxımından radikal, ətraf mühitə təsirinə görə məsuliyyət daşıyan və biliklərini dünya ilə bölüşməkdə səxavətli sənət əsəri yaratmaq cəhdimizdir. Həyatı və kəşfiyyatı mümkün edən kövrək sistemlərə (ekoloji və orbital) hörmətlə yanaşaraq hər kəsi iştirak etməyə dəvət edən sənətdir."
+  },
+  "imageAlt": "Orbital Məbədin peyki"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Cindezela & Imidiya - Ithempeli le-Orbital",
+  "heading": "Cindezela & Imidiya",
+  "pressContact": {
+    "heading": "Cindezela Othintana naye",
+    "content": "Ngemibuzo yabezindaba, izingxoxo, kanye nezicelo zabezindaba:<br /> <strong>I-imeyili:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Iwebhusayithi:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Mayelana Nephrojekthi",
+    "paragraph1": "I-Orbital Temple iwumsebenzi wobuciko kanye nesathelayithi okuhloswe ngayo ukuba yithempeli elibandakanya wonke umuntu, elakhiwe lapho izindonga zingafinyeleli khona. Idalwe yiciko lase-Brazil u-Edson Pavoni, umdwebi ngemva kwe-Inumeráveis Memorial efinyelele umuntu oyedwa kwabangu-6 baseBrazil ngesikhathi sobhadane lwe-COVID, le phrojekthi imema abantu abavela emhlabeni wonke ukuthi bathumele igama lomuntu abafisa ukumkhumbula. Lawa magama adluliselwa ku-satellite ku-orbit, okwenza isikhumbuzo esihlangene.",
+    "paragraph2": "Ngewebhusayithi etholakala ngezilimi ezingu-136, ababambiqhaza bahlanganyela ohlotsheni olusha lwesiko. I-Orbital Temple ihlola amatimu okufakwa, inkumbulo, nobuntu bethu okwabelwana ngabo, ibuza ukuthi kungani lingekho ithempeli elingokoqobo eMhlabeni elingamukela wonke umuntu ngempela, futhi liphakamisa isikhala njengendawo okuwukuphela kwayo lapho kungaba khona ukuhlanganisa okukhulu."
+  },
+  "aboutArtist": {
+    "heading": "Mayelana Nomculi",
+    "paragraph1": "<strong>U-Edson Pavoni</strong> uyiciko lase-Brazil ohambo lwakhe lwaqala emigwaqweni yase-São Paulo, lapho umongo wobumpofu nobudlova wakhela iminyaka yakhe yokuqala. Ezweni lapho ubuKristu bunikeza indlela ekude nemigwaqo, izidakamizwa, nobudlova, uPavoni wathola isiphephelo okholweni, isihloko okwakuyothi kamuva, lapho esengumgxeki wokuhlukunyezwa kwenkolo, azise umkhuba wakhe wobuciko.",
+    "paragraph2": "Ngo-2020, phakathi nobhubhane lwe-COVID-19, uPavoni wadala <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">i-Inumeráveis (ingenakubalwa)</a></strong> , umsebenzi wobuciko ezimpambanweni zobuciko nobuntatheli. Le phrojekthi ixoxisane nezinkulungwane zemindeni futhi yabhala izindaba zalabo abalahlekelwe yilolu bhubhane, yakha isikhala lapho inkumbulo yedlula izinombolo nezibalo. Izinkondlo, amaculo, nama-symphony enziwa ngalezo zindaba. Amaphephandaba adala amakhava esebenzisa amagama nemilando. Zonke izihlabani zaseBrazil ezifana no-Oscar owina uFernanda Torres, nezihlabani ezifana noSelton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo noLazaro Ramos, kanye nabanye abaningi abafunda lezo zindaba kumabonakude kazwelonke. Le phrojekthi ifinyelele abantu abayizigidi ezingu-32, oyedwa kwabane abadala baseBrazil. Kwaba inethiwekhi yokuphulukisa, isikhumbuzo esihlangene enkumbulweni.",
+    "paragraph3": "Ngemva kwezingxoxo zosizi ezingaphezu kwezinkulungwane eziyishumi, kwavela isibonelo: lapho sikhuluma ngothile ofile, sikhetha izingcezu zendaba yakhe njengokungathi sibhalela umlindisango wepharadesi incwadi yokutusa. Senza konke okusemandleni ethu ukubathumela kulokho esikholelwa ukuthi yizulu. Lo msebenzi wavusa ukuqonda okusha: Izinkolelo zethu mayelana nokuthi ubani ofanelwe izulu zilolonga ngokuqondile ukuthi ubani esimamukelayo noma esingabafaki ngaphandle Emhlabeni. Amakoloni angamaPutukezi eBrazil ayekholelwa ukuthi abantu abaMnyama abanamiphefumulo; leyo nkolelo yayithethelela ubugqila. Uma wawungowomdabu, uma wazalelwa endaweni engafanele noma uthanda umuntu ongafanele, namanje, kuze kube namuhla, utshelwa ukuthi iminyango yezulu ivaliwe kuwe. Ingabe ukhona umbono wekusasa ongagcwaliswa ukwenqatshwa?",
+    "paragraph4": "Yazalwa kanjalo iThempeli le-Orbital."
+  },
+  "keyFacts": {
+    "heading": "Amaqiniso Abalulekile",
+    "artist": "<strong>Umculi:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Uhlobo Lwephrojekthi:</strong> Umsebenzi wobuciko wesathelayithi, isayithi elithile esikhaleni, isiko elisekelwe kuwebhu",
+    "launchDate": "<strong>Idethi yokwethulwa:</strong> Novemba 28, 2025",
+    "launchLocation": "<strong>Indawo yokwethulwa:</strong> Satish Dhawan Space Centre, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Isathelayithi:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>I-Orbit:</strong> 525km ukuphakama, i-Sun-synchronous",
+    "participation": "<strong>Ukubamba iqhaza:</strong> Kumahhala, kuvulekele wonke umuntu emhlabeni jikelele",
+    "namesSent": {
+      "heading": "<strong>Amagama Athunyelwe ku-Orbit:</strong>",
+      "caption": "<em>Isibalo esibukhoma sibuyekeziwe kusuka kusizindalwazi • Igcine ukuvuselelwa: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Imiklomelo & Ukuqashelwa",
+    "mercosul": {
+      "title": "<strong>I-13th Mercosur Biennial</strong> (2022)",
+      "location": "I-Porto Alegre, eBrazil",
+      "curator": "Ibungazwe ngu-Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Prize 2022 - Futures Award</strong>",
+      "status": "Kusohlwini olude"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Competition</strong>",
+      "award": "Owinile - Isigaba se-ArtSat",
+      "org": "Iphromothwe yi-Brazilian Institute of Space Research (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Ithimba",
+    "content": "I-Orbital Temple idalwe ngokubambisana noSathi Roy, uPedro Kaled, uJoão Pedro Polito, uVictor Baptista, uJoão Victor Alves, u-André Biagioni, u-VK, u-Jonathan Querubina, u-Guilherme Bullejos, u-Eduardo Dias, uRoberta Savian Rosa, uClara Marques, uDaphne Alves, uFlavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, nabo bonke labo abaqhubeka nokuphakamisa amagama aleli thempeli."
+  },
+  "pressCoverage": {
+    "heading": "Okufakiwe Ku / Cindezela Ukusabalala",
+    "paragraph1": "<em>Ukusakazwa kwabezindaba nezici zizongezwa njengoba zitholakala. Ukuze uthole izibuyekezo zakamuva, sicela uxhumane nethimba lethu labezindaba.</em>",
+    "paragraph2": "Imibukiso yangaphambilini nezici zihlanganisa izethulo ku-13th Mercosul Bienal, ukuqashelwa okuvela kumklomelo we-Lumen, nokukhethwa yi-Brazilian Institute of Space Research (INPE)."
+  },
+  "images": {
+    "heading": "Izithombe Ezinokulungiswa Okuphezulu Zokusetshenziswa Ngokucindezela",
+    "intro": "Zonke izithombe ziyatholakala ukuze zisetshenziswe ukuhlela. Chofoza noma yisiphi isithombe ukuze ulande ifayela lokucaca okuphezulu.",
+    "installationPhotos": {
+      "heading": "Orbital Temple Izithombe",
+      "credit": "Sicela ufake ikhredithi: \"Isithombe nguClara Marques / Ngenhlonipho ka-Edson Pavoni, Orbital Temple\"",
+      "view01": "Ukubuka Kokufaka 01<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (1.4 MB)",
+      "view02": "Ukubuka Kokufaka 02<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (2.9 MB)",
+      "view03": "Ukubuka Ukufakwa 03<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (11 MB)",
+      "view04": "Ukubuka Kokufaka 04<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (3.4 MB)",
+      "view05": "Ukubuka Kokufaka 05<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (3.3 MB)",
+      "view06": "Ukubuka Ukufakwa 06<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (3.7 MB)",
+      "view07": "Ukubuka Kokufaka 07<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (3.4 MB)",
+      "view08": "Ukubuka Kokufaka 08<br /> Isithombe: Clara Marques<br /> ↓ Landa i-High-Res (2.7 MB)",
+      "satelliteDesign": "Idizayini yesathelayithi<br /> ↓ Landa",
+      "antennaSculpture": "I-Antenna/Sculpture<br /> ↓ Landa"
+    },
+    "renders": {
+      "heading": "I-Orbital Temple Renders",
+      "credit": "Ukunikezwa komqondo we-3D kweThempeli le-Orbital. Sicela ufake ikhredithi: \"3D Rendering by RiseNY&Partners / Courtesy of Edson Pavoni, Orbital Temple\"",
+      "render01": "Ukunikezwa kwe-3D 01<br /> RiseNY&amp;Ozakwethu<br /> ↓ Landa i-High-Res (10 MB)",
+      "render02": "Ukunikezwa kwe-3D 02<br /> RiseNY&amp;Ozakwethu<br /> ↓ Landa i-High-Res (5.9 MB)",
+      "render03": "Ukunikezwa kwe-3D 03<br /> RiseNY&amp;Ozakwethu<br /> ↓ Landa i-High-Res (5.2 MB)",
+      "render04": "Ukunikezwa kwe-3D 04<br /> RiseNY&amp;Ozakwethu<br /> ↓ Landa i-High-Res (11 MB)",
+      "render05": "Ukunikezwa kwe-3D 05<br /> RiseNY&amp;Ozakwethu<br /> ↓ Landa i-High-Res (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Izithombe Zomculi",
+      "photo1": "Isithombe 1<br /> ↓ Landa i-High-Res",
+      "photo2": "Isithombe 2<br /> ↓ Landa i-High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Izithombe zeSathi Roy",
+      "photo1": "Isithombe 1<br /> ↓ Khipha ku-internet High-Res (843 KB)",
+      "photo2": "Isithombe 2<br /> ↓ Landa i-High-Res (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Imininingwane Yezobuchwepheshe",
+    "satellite": {
+      "heading": "Isathelayithi",
+      "dimensions": "Ubukhulu: 50 x 58 x 64 mm",
+      "classification": "Isigaba: 1P PocketQube",
+      "weight": "Isisindo: 245g",
+      "materials": "Izinto: I-aluminium, igolide, i-fiberglass, izingxenye ze-elekthronikhi",
+      "orbit": "I-Orbit: Ukuphakama 525 ± 25 km; Ukuthambekela: SSO 97.6 ± 0.1°",
+      "launch": "Kwethulwa: Novemba 28, 2025 nge-ISRO, India"
+    },
+    "antenna": {
+      "heading": "I-Antenna/Sculpture",
+      "dimensions": "Ubukhulu: 6m ububanzi x 1.2m ukuphakama",
+      "weight": "Isisindo: 46 kg",
+      "materials": "Izinto: I-Aluminium, ibhodi elinesibuko se-epoxy, idome le-aluminium yegolide elimiswe ngesakhiwo sesikafula"
+    },
+    "radio": {
+      "heading": "Imininingwane yomsakazo",
+      "downlink": "Isixhumanisi esiphansi: 437 MHz",
+      "status": "Isimo Sokuqalisa: Kuhlelelwe uNovemba 28, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Izinsiza Ezengeziwe",
+    "artwork": "→ Buka Imibhalo Yomsebenzi Wobuciko",
+    "howItWorks": "→ Indlela Esebenza Ngayo",
+    "technicalInfo": "→ Ulwazi Lobuchwepheshe",
+    "spaceLaunch": "→ Ulwazi Lokwethulwa Kwesikhala",
+    "ritual": "→ Izwa Isiko"
+  },
+  "imageAlts": {
+    "installation": "Ukufakwa kweThempeli le-Orbital ngu-Edson Pavoni",
+    "satelliteDesign": "I-Orbital Temple Satellite Design",
+    "antenna": "Isithombe se-Antenna sethempeli le-Orbital",
+    "render": "I-Orbital Temple 3D Rendering eyenziwe yi-RiseNY&Partners",
+    "edsonPortrait": "Edson Pavoni Portrait",
+    "sathiPortrait": "Isithombe sika-Sathi Roy",
+    "lumenPrize": "Lumen Umklomelo",
+    "mercosulBienal": "I-Mercosur Biennial"
+  }
+}

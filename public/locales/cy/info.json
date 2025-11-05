@@ -1,0 +1,17 @@
+{
+  "title": "Gwybodaeth Dechnegol - Teml Orbitol",
+  "heading": "Gwybodaeth Dechnegol",
+  "satellite": {
+    "heading": "Lloeren",
+    "specs": "Dimensiynau: 50x58x64 mm<br /> 1P PocketQube<br /> Pwysau: 245 gr<br /> Deunyddiau: alwminiwm, aur, gwydr ffibr, a chydrannau electronig.<br /> Orbit: Uchder 525 ± 25 km; gogwydd: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antena/Cerflun",
+    "specs": "Dimensiynau: 6 m (diamedr) e 1.2m (uchder)<br /> Pwysau: 46 kg<br /> Deunyddiau: alwminiwm, bwrdd drych epocsi, cromen alwminiwm euraidd wedi&#39;i hongian trwy strwythur sgaffaldiau."
+  },
+  "radio": {
+    "heading": "Manylebau Radio Catalog NASA:",
+    "specs": "Cyswllt i Lawr i&#39;w gadarnhau: 437 MHz<br /> Galwad: Statws: AMSERLEN AR GYFER 2025"
+  },
+  "imageAlt": "Diagram Gwybodaeth Dechnegol"
+}

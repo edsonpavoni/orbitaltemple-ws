@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "pe tembiapo arte rehegua",
+    "sendAName": "emondo peteĩ téra",
+    "fromTheArtist": "pe artista-gui",
+    "yetAnotherTemple": "upéicharõ jepe, ambue templo?",
+    "howItWorks": "mba’éichapa omba’apo",
+    "spaceLaunch": "lanzamiento espacial ha umi riesgo",
+    "briefHistory": "tembiasakue mbykymi arte rehegua espacio-pe",
+    "education": "tekombo’e & código abierto rehegua",
+    "sustainability": "sostenibilidad ha umi escombro espacial rehegua",
+    "press": "prensa & medios de comunicación rehegua",
+    "team": "aty",
+    "partners": "umi socio-kuérape",
+    "support": "pytyvõ",
+    "technicalInfo": "info técnico rehegua"
+  },
+  "ritual": {
+    "label": "ritual rehegua",
+    "ariaLabel": "Eike pe ritual - Emondo peteĩ téra Templo Orbital-pe"
+  },
+  "footer": {
+    "credits": "Orbital Temple ha'e peteĩ obra de arte Edson Pavoni ojapova'ekue, omoheñóiva oñondive Pedro Kaled, João Pedro Polito, Víctor Baptista & João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ha opavave osegíva omondo téra ko templo-pe."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Okuva ku Muyimbi",
+  "opening": {
+    "question": "Ggaayi ono y'ani okuteesa ku temple mu bwengula?",
+    "thanks": "Webale ekibuuzo.",
+    "answer": "Eky’okuddamu ekimpi kiri nti ndi muyimbi. Ekiwanvu kiri nti:"
+  },
+  "origin": {
+    "sao_paulo": "Nnazaalibwa mu njegoyego z’ekibuga São Paulo, mu kitundu ekyanjigiriza nga bukyali akabi kye kitegeeza. Bangi ku mikwano gyange ku ssomero kati bali mu kkomera. Taata wange omuto ali mu kkomera. Obutabanguko si kintu kye nnasomako, wabula nsi gye nnalina okutambulirako. Era nnali nkimanyi nti nneetaaga okutoloka.",
+    "technology": "Tekinologiya yafuuka ekkubo lyange okufuluma. Nayiga okukola pulogulaamu, nayiga ebyuma ebikozesebwa mu byuma bikalimagezi nga nkyali mutiini. Code lwali lulimi olusobola okuntwala awalala. Okukola ne tekinologiya kye kyali ekidduka mu bwavu.",
+    "christianity": "Naye era nali nnoonya okubeera ow’enjawulo, okwagala, ekintu kye nzikiriza.Nnasanga Obukristaayo, oba bwansanga. Nnakkirizibwa. Nnali njagala nnyo. Nnalina ekitundu. Nayiga okusonyiwa, okukkiriza, okutambula awamu olw’ekigendererwa ekisingawo.",
+    "price": "Kyokka bbeeyi yali waggulu. Nnayiga n’ebintu bingi bye sikyayiga. Bwentyo nange ekyo nakitoloka."
+  },
+  "searching": {
+    "walls": "Nze mmanyi bbugwe kye zikola. Nze mbawulidde. Mbadde ku njuyi zombi: kept out, kept in. Ebyaddirira byali myaka gya kunoonya kintu kye saasobola kwogera linnya. Katonda yafa mu myaka egyo. Katonda gwe nnali nsomesebwako, anyway, oyo alina amateeka n’okusalawo n’enzigi ezaggulwawo abantu abamu bokka.",
+    "art": "Natandika okukola art okunoonyereza ku bibuuzo bino: ebikwata ku mukwano ogw’omukwano ne tekinologiya, ku kujjukira n’okufa, ku ani agwanidde eggulu. Natandika okuzimba ebyuma ebiddamu okulowooza ku nkolagana yaffe ne tekinologiya, ebyuma ebyetaaga okwetaba kwo, okubeerawo kwo, erinnya lyo, okukyuka okuva mu kyuma ne koodi okufuuka ekintu ekiramu."
+  },
+  "pandemic": {
+    "intro": "Olwo ssenyiga omukambwe n’akuba Brazil.",
+    "government": "Okugema COVID bwe kwalwawo, gavumenti yange yali eteesa ku kickbacks za doola emu buli ddoozi. Baatumbula eddagala eritegeerekese nti teririna kye likola, nga baseka ate ng’abantu bafa nga balwana okussa. Buli lunaku twazuukukanga ku nnamba ey’enjawulo. Abantu bameka abaafa mu ssaawa 24 eziyise? Kyabadde kisingako, oba kitono okusinga bwe kyali kisuubirwa?",
+    "war": "Ekitundu ky’ensi kyali kitidde, ate ekitundu ekirala kyali mu kwegaana. Twali mu lutalo, n’akawuka ne buli omu ne munne.",
+    "memorial": "Nnali njagala okutondawo ekifo eky’ennaku ey’omuggundu, n’olwekyo nga ndi wamu n’ebikumi n’ebikumi by’abantu nnakola Memorial Inumeráveis. Omulimu gw’emikono ku nkulungo y’ebyemikono ne bannamawulire. Twabuuza amaka agaali gafiiriddwa omuntu. Twawandiika emboozi y’obulamu bw’omuntu gwe baafiirwa. Twakyusa ennamba mu byafaayo. Ebitontome, ennyimba, symphonies byakolebwa n’ebyafaayo ebyo. Emmunyeenye zaasoma emboozi ezo ku ttivvi y’eggwanga. Pulojekiti eno yatuuka ku bukadde n’obukadde.",
+    "meaning": "Ekikulu si minzaani, wabula nti buli mboozi yali linnya, bulamu, ggulu lya muntu."
+  },
+  "discovery": {
+    "pattern": "Oluvannyuma lw’emboozi ezisukka mu nkumi kkumi n’ennaku, enkola yatandika okuvaayo. Bwe twogera ku muntu afudde, tetukoma ku kwogera birungi; tulonda ebitundutundu by’emboozi yaabwe nga tulinga abawandiika ebbaluwa etusemba. Okuteesa eri omukuumi w’omulyango gw’ejjana. Tukola kyonna ekisoboka okubasindika mu kifo eky’okukkirizibwa, eky’okuwummulamu, eky’ekitiibwa n’okujjukira.",
+    "understanding": "Era nategeera ekintu ekyakyusa buli kimu: Tufunye ebisago olw’amasinzizo gennyini ge twazimba. Enzikiriza zaffe ku ani agwanidde eggulu zikola butereevu ani gwe tuggyako ku Nsi. Abafuzi b’amatwale Abapotugali mu Brazil baali bakkiriza nti Abaddugavu tebalina myoyo; enzikiriza eyo yawa obuddu obutuufu. Bwoba wali enzaalwa, singa wazaalibwa mu kifo ekikyamu oba nga oyagala omuntu omukyamu, bakugamba nti enzigi z'eggulu zikuggaddwa.",
+    "birth": "Bw’atyo Orbital Temple bwe yazaalibwa."
+  },
+  "shaman": {
+    "secular": "Tewali muyimbi ayinza kuba wa nsi mu butuufu. Tusibiddwa emirembe gyonna ku jjajjaffe ow’awamu, omusamize. Mu kusooka, waaliwo empuku. Abantu basiiga ebisolo ku bisenge si kuyooyoota, wabula okukoowoola. Baazina, empuku n’efuuka yeekaalu. Omusamize akozesa omwoyo gw’emikolo; omuyiiya akozesa aura y’ebifaananyi. Tusiiga langi, tubumba, tukola enkoodi, tukola dizayini y’ebiseera byaffe eby’omu maaso bye twagala si kuyooyoota, wabula okukoowoola. Obuyiiya bwonna bwa mwoyo, ne bwe bugamba nti si bwe buli."
+  },
+  "space": {
+    "question": "Wa we twandizimbye yeekaalu etaliimu bbugwe? Nga tewali ggwanga oba ddiini yali esobola kwewozaako. We twasobola okwekuba ekifaananyi ng’ekibinja kimu.",
+    "answer": "Ekifo.",
+    "description": "Setilayiti y’ebyemikono eyeetabamu okuva mu Global South. Yeekaalu eri mu nkulungo eyita buli muntu okusindika amannya ge mu bwengula, nga tafuddeeyo ku ani, gye yazaalibwa, ani gw’ayagala, kiki ky’akkiririzaamu. Ekifo okuyingizibwa okw’amaanyi we kusoboka, mu nkulungo, okusukka ensalo.",
+    "mission": "Mission eno ya open source. Buli kiwandiiko kya tekinologiya, buli layini ya koodi ejja kubeerawo mu ddembe olwo abayimbi abalala, ebitundu ebirala, amawanga amalala basobole okwezimbira setilayiti zaabwe. Kale Global South tekoma ku kwetaba mu kunoonyereza mu bwengula, wabula ekulembera."
+  },
+  "closing": {
+    "answer": "Kale ono ggaayi ani okuzimba yeekaalu mu bwengula? Siri kugizimba. Yeekaalu ezimbibwa buli muntu asalawo okusindika erinnya, okulilaba ng’ettukuvu, okulifuula erya ddala. Nze nzekka ateesa. Ggwe agizimba bw’oba osazeewo.",
+    "signature": "Mu buwombeefu,",
+    "name": "Edson Pavoni, omuwandiisi w’ebitabo"
+  }
+}

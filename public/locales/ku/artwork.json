@@ -1,0 +1,31 @@
+{
+  "title": "Karê Hunerî - Perestgeha Orbital",
+  "heading": "Karê Hunerî",
+  "intro": {
+    "paragraph1": "Perestgeha Orbital peykek bi mîsyonek hunerî ye: bîrdariyek li fezayê ye ku ji bo her zindiyek hişmend a ku li ser Erdê dijî an jî jiyaye vekirî ye.",
+    "paragraph2": "Bi rêya amûrên teknolojîk, her kes dikare navê kesekî bişîne Perestgehê, çi kesekî ku miriye, çi kesekî sax be, an jî her hebûnekî ku hêjayî bîranînê ye."
+  },
+  "sculpture": {
+    "heading": "Peyker",
+    "paragraph1": "Berhema hunerî ji sê hêmanên hev-girêdayî pêk tê: peykek bi taybetî ji bo hilanîna milyaran navan hatiye çêkirin; peykerek giştî ku agahiyan bi peykê re diguherîne; û malperek ku beşdar bi rêya wê navan, ji niha heta mirina xwe, dişînin bihuştê.",
+    "paragraph2": "Wekî xebateke piralî, Orbital Temple dikare wekî peykersaziyeke taybetî ya cihî were hesibandin, ku li fezayê dijî. Ew di heman demê de projeyek Artsat e."
+  },
+  "antenna": {
+    "heading": "Antena wekî peykerê giştî",
+    "paragraph1": "Antenek e ku me bi fezayê ve girêdide.",
+    "paragraph2": "Antenek tê sêwirandin ku dê rasterast bi peyka orbitalê re di têkiliyê de be.",
+    "paragraph3": "Bi rûyekî zêrîn ê refleksîf, ku asîmanê li jorê xwe dişibîne, ew xalek destpêkê ye ji bo teşwîqkirina girseyî (an têkiliya me bi tiştê ku 'li wir jor' e).",
+    "paragraph4": "Her çend peyker li piraniya deverên cîhanê nehatibin danîn jî, Frames from Earth, ku niha peykê kontrol dikin, di her derbasbûnê de navan dişînin.",
+    "paragraph5": "Alîkariya anîna vê vîzyonê bo bajarê xwe bikin—sazkirina peykerên antenê yên ku îlhama axaftinan li ser keşifkirina fezayê, hunerê û cihê me yê hevpar di kozmosê de didin. <a href=\"/support\">Li ser piştgiriya projeyê bêtir fêr bibin</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Peyka Perestgeha Orbital",
+    "riseNy": "Perestgeha Orbital li Rise NY",
+    "installation": "Perestgeha Orbital ji hêla Clara Marques ve",
+    "antenna": "Antena Perestgeha Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Perestgeha Orbital li fezayê. Renderkirina 3D ji hêla RiseNY&Partners ve.",
+    "mercosul": "Sazkirina Perestgeha Orbital li Mercosul Bienala, li Porto Alegre, Brezîlya.<br> Wêne ji hêla Clara Marques ve hatiye kişandin."
+  }
+}

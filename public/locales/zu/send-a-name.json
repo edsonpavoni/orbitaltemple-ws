@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "njengoba ungena\numkhuba\nukuthumela igama\nkwe\nithempeli le-orbital\nemkhathini\nthatha\numoya",
+    "button": "Ngikulungele"
+  },
+  "nameInput": {
+    "title": "bhala igama",
+    "subtitle": "izokhuphukela eThempelini le-Orbital emkhathini.",
+    "placeholder": "igama",
+    "button": "likhuphuke"
+  },
+  "emailInput": {
+    "title": "bhala i-imeyili yakho",
+    "subtitle": "ngakho uthola umlayezo uma igama likhuphuka.",
+    "placeholder": "Imeyili yakho",
+    "button": "kwenziwa"
+  },
+  "loading": {
+    "alt": "Iyalayisha"
+  },
+  "success": {
+    "text": "igama\n{{igama}}\nisikulayini manje\nokwenyuka.\nlapho i\nithempeli emkhathini\nqondanisa, ne\ni-antenna yethu\nEmhlabeni\nsizothumela\nigama\nfuthi nizokwamukela\numlayezo."
+  }
+}

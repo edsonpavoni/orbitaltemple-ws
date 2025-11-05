@@ -1,0 +1,31 @@
+{
+  "title": "Aw ye bolomafara di Orbital Temple ma",
+  "heading": "I ka bolomafara dafa",
+  "donatingTo": "Aw bɛ bolomafara di:",
+  "chooseHow": "I b’a fɛ k’i ka bolomafara dafa cogo min na, o sugandi:",
+  "option1": {
+    "heading": "Sugandili 1: I ka bolomafara di Intɛrinɛti kan sisan",
+    "description": "I ka bolomafara dafa joona ni karti ye, ni karti debiti ye, walima ni wari saracogo wɛrɛw ye ɛntɛrinɛti kan an ka wariko dɛmɛbaga lakananen fɛ, <strong>n’o ye The Field ye</strong> . I bɛna impositi sɛbɛn sɔrɔ o yɔrɔnin bɛɛ.",
+    "button": "Aw ye bolomafara di The Field → fɛ"
+  },
+  "option2": {
+    "heading": "Sugandili 2nan: Banki ka wari bila The Roy Foundation la",
+    "description": "Aw ye wari bila banki siratigɛ la walima ka wari ci <strong>The Roy Foundation</strong> ma , an ka jɛɲɔgɔn fɛɛrɛbɔla ani wariko dɛmɛbaga. Nin sugandi in ka ɲi kosɛbɛ bolomafarabaw walima jamana wɛrɛw ka fɛnw cili kama.",
+    "bankingInfo": "Banki kunnafoniw",
+    "fields": {
+      "accountName": "Jatebɔsɛbɛn Tɔgɔ:",
+      "bankName": "Banki Tɔgɔ:",
+      "accountNumber": "Jatebɔsɛbɛn nimɔrɔ:",
+      "routingNumber": "Sira nimɔrɔ:",
+      "swift": "SWIFT/BIC: 1. Bamako, Mali.",
+      "reference": "Tàyɔrɔ:"
+    },
+    "instructions": "Aw ye &quot; <strong>Orbital Temple - {donationType}</strong> &quot; sɛbɛn ɲɛfɔli yɔrɔ la. I ka fɛnw jiginni dafa kɔfɛ, i ka bataki ci an ma <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ni i ka fɛnw jiginni kunnafoniw ye walasa k’i ka impositi sɔrɔ.",
+    "button": "Aw ye anw sɔrɔ Deposit ko la →"
+  },
+  "taxInfo": {
+    "heading": "Nili min bɛ se ka bɔ impositi la",
+    "description": "Orbital Temple ye <strong>The Field (Performance Zone Inc.)</strong> , <strong>501(c)(3)</strong> jɛkulu ye min tɛ tɔnɔ ɲini. Ameriki ka bolomafaraw bɛɛ bɛ se ka bɔ impositi la fo ka se hakɛ min ma sariya fɛ.",
+    "questions": "Ɲininkaliw? Aw bɛ se ka anw sɔrɔ <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

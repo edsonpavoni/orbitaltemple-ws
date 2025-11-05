@@ -1,0 +1,17 @@
+{
+  "title": "Teknikal nga Impormasyon - Orbital nga Templo",
+  "heading": "Teknikal nga Impormasyon",
+  "satellite": {
+    "heading": "Satellite nga",
+    "specs": "Dagiti rukod: 50x58x64 mm<br /> 1P BulsaQube<br /> Timbang: 245 nga gr<br /> Dagiti materiales: aluminum, balitok, fiberglass, ken elektroniko a paset.<br /> Orbito: Kangato 525 ± 25 km; panaginklinar: SSO 97.6 ± 0.1°<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) nga ipatpataray ti ISRO"
+  },
+  "antenna": {
+    "heading": "Antena/Eskultura",
+    "specs": "Dagiti rukod: 6 m (diametro) e 1.2m (kangato) .<br /> Timbang: 46 nga kg<br /> Dagiti materiales: aluminum, epoxy mirrored board, nabalitokan nga aluminum dome a naibitin babaen ti estruktura ti andamio."
+  },
+  "radio": {
+    "heading": "Dagiti Espesipikasion ti Radio",
+    "specs": "Downlink: 468.5 MHz nga<br /> Modulasion: CSS<br /> Kalawa ti banda: TBD"
+  },
+  "imageAlt": "Satellite ti Templo ti Orbital"
+}

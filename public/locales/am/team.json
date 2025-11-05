@@ -1,0 +1,61 @@
+{
+  "title": "ቡድን - የምሕዋር ቤተመቅደስ",
+  "heading": "ቡድን",
+  "artist": "ኤድሰን ፓቮኒ, አርቲስት",
+  "roles": {
+    "executiveProducer": {
+      "heading": "ዋና አዘጋጅ",
+      "members": "ሳቲ ሮይ"
+    },
+    "aerospace": {
+      "heading": "ኤሮስፔስ እና ሲስተምስ ምህንድስና",
+      "members": "ፔድሮ ካሌድ፣ ጆአዎ ፔድሮ ፖሊቶ፣ ቪክቶር ባፕቲስታ እና ጆዋዎ ቪክቶር አልቬስ"
+    },
+    "electronic": {
+      "heading": "ኤሌክትሮኒክ ምህንድስና",
+      "members": "አንድሬ ቢያጊዮኒ፣ ጆአዎ ፔድሮ ፖሊቶ እና ቪኬ"
+    },
+    "software": {
+      "heading": "ሶፍትዌር",
+      "members": "ዮናታን ኪሩቢና።"
+    },
+    "design": {
+      "heading": "ንድፍ እና አርክቴክቸር",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D ማተም",
+      "members": "በ Eduardo Dias መሪነት ጠንካራ ጽንሰ-ሐሳቦች"
+    },
+    "rendering": {
+      "heading": "3D ማቅረብ",
+      "members": "Guilherme Bullejos & RiseNy& Partners"
+    },
+    "research": {
+      "heading": "ምርምር",
+      "members": "ሮቤታ ሳቪያን ሮዛ እና ክላራ ማርከስ"
+    },
+    "exhibition": {
+      "heading": "የኤግዚቢሽን ምርት፣ ፎቶግራፍ እና ይዘት መፍጠር",
+      "members": "ክላራ ማርከስ"
+    },
+    "silkScreen": {
+      "heading": "የኤግዚቢሽኑ የሐር ማጣሪያ",
+      "members": "ዳፉንኩስ አልቬስ"
+    },
+    "educational": {
+      "heading": "የትምህርት ፕሮጀክት",
+      "members": "Ideaspace"
+    },
+    "communication": {
+      "heading": "የግንኙነት ቡድን",
+      "members": "ፍላቪዮ ቪዲጋል፣ አንድሬ ሆልስሜስተር፣ ፔድሮ ቪዲጋል፣ ታቲያን ፑቲ፣ ራፋኤል ፈርናንዴዝ፣ ብሩና ካይሮ"
+    },
+    "specialThanks": {
+      "heading": "ልዩ ምስጋና",
+      "members": "ጋብሪኤላ ቬጋ፣ ማርሴሎ ዳንታስ፣ አን ቫልስ፣ ማቲያስ ካምፖስ አባድ፣ ሳሙኤል ሌቪ፣ ቤላ ናርዲኒ እና ሌይ ፔኒንግተን"
+    }
+  },
+  "credits": "ኤድሰን ፓቮኒ፣ ሳቲ ሮይ፣ ፔድሮ ካሌድ፣ ጆአዎ ፔድሮ ፖሊቶ፣ ቪክቶር ባፕቲስታ፣ ጆአዎ ቪክቶር አልቬስ፣ አንድሬ ቢያጊዮኒ፣ ቪኬ፣ ጆናታን ክዌሩቢና፣ ጊልሄርሜ ቡሌጆስ፣ ኤድዋርዶ ዲያስ፣ ሮቤታ ሳቪያን ሮሳ፣ ክላራ ማርከስ፣ ዳፍኔ አልቬስ፣ ፍላቪዮ ቪዲጋል፣ ቪርዳኔ ፑትዲፋ፣ ራድዮ ፑትቲፋ ብሩና ካይሮ፣ Conceitos Sólidos፣ RiseNY&Partners፣ IdeaSpace",
+  "imageAlt": "የምሕዋር መቅደስ ሳተላይት"
+}

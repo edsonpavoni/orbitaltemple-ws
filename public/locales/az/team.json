@@ -1,0 +1,61 @@
+{
+  "title": "Komanda - Orbital Məbədi",
+  "heading": "Komanda",
+  "artist": "Edson Pavoni, rəssam",
+  "roles": {
+    "executiveProducer": {
+      "heading": "İcraçı Prodüser",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Aerokosmik və Sistem Mühəndisliyi",
+      "members": "Pedro Kaled, João Pedro Polito, Viktor Baptista və João Viktor Alves"
+    },
+    "electronic": {
+      "heading": "Elektron Mühəndisliyi",
+      "members": "André Biagioni, João Pedro Polito və VK"
+    },
+    "software": {
+      "heading": "Proqram təminatı",
+      "members": "Conatan Cherubina"
+    },
+    "design": {
+      "heading": "Dizayn və Memarlıq",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "3D Çap",
+      "members": "Solid Concepts, Eduardo Diasın rəhbərliyi altında"
+    },
+    "rendering": {
+      "heading": "3D Rendering",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Araşdırma",
+      "members": "Roberta Savian Rosa və Clara Markes"
+    },
+    "exhibition": {
+      "heading": "Sərgi istehsalı, fotoqrafiya və məzmunun yaradılması",
+      "members": "Clara Markes"
+    },
+    "silkScreen": {
+      "heading": "Sərginin İpək Ekranı",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Təhsil layihəsi",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "Ünsiyyət Komandası",
+      "members": "Flavio Vidiqal, Andre Holzmeister, Pedro Vidiqal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Xüsusi Təşəkkürlər",
+      "members": "Qabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini və Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Markes, Daphne Vigal Alves, Flavia Alves, Flavia Pedroi, Holziome Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Orbital Məbədin peyki"
+}

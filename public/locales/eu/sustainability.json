@@ -1,0 +1,44 @@
+{
+  "title": "Jasangarritasuna eta Espazioko Hondakinak - Orbital Temple",
+  "heading": "Jasangarritasuna",
+  "intro": {
+    "paragraph1": "Arteak etorkizunera eramango bagaitu, ezin ditu alde batera utzi aurrez aurre ditugun krisiak: ingurumen-kolapsoa, gizarte-desberdintasuna eta espazio-zaborraren erronka gero eta handiagoa. Orbital Temple errealitate horiek kontuan hartuta diseinatu da, Lurrean zein orbitan presentzia arduratsua izateko helburuarekin.",
+    "paragraph2": "Uste dugu jasangarritasuna ez dela muga bat, baizik eta gure ikuspegi artistikoaren funtsezko atal bat. Materialei, orbitei eta eragiketei buruzko erabaki bakoitzak Lurra eta espazioa aurkitu genituen baino hobeto uzteko dugun konpromisoa islatzen du."
+  },
+  "spaceDebris": {
+    "heading": "Espazioko hondakinak",
+    "paragraph1": "Espazio-hondakinak espazio-esplorazioak dituen erronka larrienetako bat da. Milaka satelite eta zati desagertu dabiltza Lurraren orbitan, misio aktiboak mehatxatuz eta orbita batzuk erabilezin bihur ditzakeen kaskada-efektua sortuz.",
+    "paragraph2": "Orbital Temple-k hainbat modutan jorratzen du hau:",
+    "list": {
+      "orbit": "<strong>525 km-ko orbita eguzki-sinkronoa:</strong> Altitude honek ziurtatzen du atmosferaren erresistentzia naturalak satelitea Lurraren atmosferan berriro sartzea eragingo duela 10 urte barru gutxi gorabehera, eta han erabat erreko dela. Ez dugu epe luzerako orbita-hondakinen sorrera eragiten.",
+      "size": "<strong>PocketQube diseinua:</strong> 50×58×64 mm eta 245 g-ko neurriekin, satelitea nahikoa txikia da berriro sartzean erabat lurruntzeko, Lurraren gainazalean hondakinik utziz.",
+      "responsibility": "<strong>Zaharkitze programaturik ez:</strong> Utzi daitezkeen satelite komertzialen aldean, Orbital Temple modu naturalean orbitatik irteteko diseinatuta dago, espazio-jarduera arduratsuaren nazioarteko jarraibideak betez."
+    },
+    "paragraph3": "Lurraren orbita baxua eta diseinu trinkoa aukeratuz, Orbital Temple-ren espazioko presentzia aldi baterakoa eta kutsadurarik gabekoa izatea ziurtatzen dugu."
+  },
+  "carbonNeutrality": {
+    "heading": "Karbono Neutralitatea",
+    "content": "Orbital Temple-rekin lotutako karbono-isuri guztiak —sateliteen fabrikazioa, jaurtiketa, lurreko estazioen funtzionamendua, webguneen ostatua eta taldearen bidaiak barne— egiaztatutako karbono-kreditu programen bidez konpentsatuko dira erabat. Misio hau klima-neutroa izan dadin konpromisoa hartu dugu."
+  },
+  "openSource": {
+    "heading": "Kode irekiko hardwarea",
+    "paragraph1": "Jasangarritasunak ezagutza ez xahutzea ere esan nahi du. Orbital Temple-ren alderdi tekniko guztiak —eskemak, kodea, komunikazio-protokoloak eta eraikuntza-metodoak— kode irekiko dokumentazio gisa argitaratuko dira.",
+    "paragraph2": "Horri esker, etorkizuneko misioek gure lanean oinarritu ahal izango dute hutsetik hasi beharrean, ikerketa eta garapen soberakina murriztuz. Espazio-teknologiarako sarbidea demokratizatzen du, batez ere espazio-esploraziotik historikoki baztertuta egon diren Hegoalde Globaleko komunitateentzat."
+  },
+  "educational": {
+    "heading": "Hezkuntza-eragina",
+    "paragraph1": "Gure doako hizkuntza anitzeko hezkuntza-programak mundu osoko ikasleei sateliteak nola eraiki eta jaurti irakasten die, Hegoalde Globalean arreta jarriz. Hurrengo belaunaldia espazio-teknologiako trebetasunekin ahalduntzean, \"Espazio-hutsunea\" ixten eta bestela existituko ez liratekeen aukerak sortzen laguntzen dugu.",
+    "paragraph2": "Hezkuntza-misio hau bera iraunkortasun mota bat da: pertsonengan eta komunitateetan inbertitzea, satelitearen bizitza-iraupenaz haragoko aldaketa iraunkorrak sortzeko."
+  },
+  "tenYear": {
+    "heading": "10 urteko misioa",
+    "paragraph1": "Orbital Temple hamarkada bateko misio baterako diseinatuta dago, ez publizitate-kanpaia labur baterako. Hamar urtean zehar, sateliteak Lurraren inguruan 50.000 bira inguru egingo ditu, izenak jasoz eta espazioa ondasun komuna izan daitekeela gogoraraziz, guztiontzat eskuragarri.",
+    "paragraph2": "Misioa amaitu ondoren, satelitea modu naturalean orbitatik irten eta erre egingo da, parte hartu zutenen oroitzapenetan eta dokumentazioan izan ezik, inolako arrastorik utzi gabe."
+  },
+  "artsResponsibility": {
+    "heading": "Artearen erantzukizuna.",
+    "paragraph1": "Artea beti izan da bere garaiaren ispilu, gure balioak eta nahiak islatuz. Klima krisiaren eta gero eta desberdintasun handiagoaren garaiotan, uste dugu artistek ardura dutela gai hauei buruzko iruzkinak egiteaz gain, aktiboki jorratzen dituen lana sortzeko.",
+    "paragraph2": "Orbital Temple gure ahalegina da, bere inklusioan erradikala den artelan bat sortzeko, bere ingurumen-inpaktuan arduratsua dena eta bere ezagutza munduarekin partekatzeko eskuzabala dena. Bizitza eta esplorazioa posible egiten dituzten sistema hauskorrak —ingurumenekoak eta orbitalak— errespetatuz, denak parte hartzera gonbidatzen dituen artea da."
+  },
+  "imageAlt": "Orbital Temple satelitea"
+}

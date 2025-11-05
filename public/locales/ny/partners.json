@@ -1,0 +1,50 @@
+{
+  "title": "Othandizana nawo - Orbital Temple",
+  "heading": "Othandizana nawo",
+  "intro": "Orbital Temple ilipo kudzera mu kuwolowa manja, ukatswiri, ndi masomphenya a mabwenzi odabwitsa. Kuchokera ku ma satelayiti a uinjiniya mpaka kupanga zolemba, kuyambira kutsegula zitseko kumayiko akutali mpaka kulota maloto agolide, mgwirizano uliwonse umabweretsa kachisiyu pafupi ndi nyenyezi.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Partners",
+      "description": "Kulumikizana, zokumana nazo zophatikizika ndi 3D yochititsa chidwi ikuwonetsa zithunzi zomwe zidapangitsa kuti masomphenya a satellite akhale amoyo asadakhudze kusowa kwa mlengalenga."
+    },
+    "highestMantra": {
+      "name": "Mantra Yathu Yapamwamba Kwambiri",
+      "description": "Motsogozedwa ndi Sathi Roy, kulumikiza kachisi wa Orbital ndi madera auzimu komanso aluso aku India. Kutsegula njira zopezera ndalama, kusinthana kwa chikhalidwe, ndi chiwonetsero cha Art Basel kutsatira kukhazikitsidwa kwa Novembala 2025."
+    },
+    "allToSpace": {
+      "name": "Zonse ku Space",
+      "description": "Akatswiri a satellite ang'onoang'ono aku Brazil. Zaka zinayi za mgwirizano kumanga nsanja yotseguka ya hardware ndikuyambitsa njira yotumizira zojambulajambula kuchokera ku Global South."
+    },
+    "isro": {
+      "name": "Chithunzi cha ISRO",
+      "description": "Indian Space Research Organisation. Woyambitsa ntchito ya PSLV yonyamula Orbital Temple kupita kumayendedwe oyendera dzuwa mu Novembala 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. Wosankhidwa ndi Marcello Dantas ndi othandizira othandizira Laura Cattani, Munir Klamt, Tarsila Riso, ndi Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Gulu lachitukuko cha satellite lidapangidwa panthawi ya II ArtSat Workshop. Yoyendetsedwa ndi Fabiane M. Borges, motsogoleredwa ndi Lázaro Camargo, mothandizidwa ndi Ítalo Pinto Rodrigues, moyang'aniridwa ndi Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Malingaliro Olimba",
+      "description": "Motsogozedwa ndi Eduardo Dias. Ntchito zonse zosindikizira za 3D ndi golide zazing'ono zoponyera dome, kusintha maloto a digito kukhala zenizeni zachitsulo zamtengo wapatali."
+    },
+    "ideaSpace": {
+      "name": "Idea Space",
+      "description": "Maphunziro aku Brazil oyambitsa maphunziro a Quebrada Space Program, okonzeka kugwiritsidwa ntchito kwa ophunzira aku sekondale ku Brazil konse."
+    }
+  },
+  "closing": "Kodi mukufuna kuyanjana ndi Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Fikirani</a> .",
+  "imageAlts": {
+    "riseNy": "Logo ya RiseNY&Partners",
+    "highestMantra": "Logo Yathu Yapamwamba Kwambiri ya Mantra",
+    "allToSpace": "Zonse ku Space Logo",
+    "isro": "Chizindikiro cha ISRO",
+    "mercosul": "13th Mercosur Biennial Logo",
+    "inpe": "Chizindikiro cha INPE ArtSat Workshop",
+    "solidConcepts": "Chizindikiro Cholimba cha Concepts",
+    "ideaSpace": "Idea Space Logo"
+  }
+}

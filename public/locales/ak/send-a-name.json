@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "bere a worehyɛn mu no\namanne bi a wɔyɛ\nsɛ wɔde din bɛmena\nmu akɔ\norbital asɔredan\nwɔ ahunmu\nfam\nahome a wɔhome",
+    "button": "me ayɛ krado"
+  },
+  "nameInput": {
+    "title": "kyerɛw din bi",
+    "subtitle": "ɛbɛforo akɔ Orbital Asɔredan a ɛwɔ ahunmu no mu.",
+    "placeholder": "din",
+    "button": "ma ɛnforo nkɔ soro"
+  },
+  "emailInput": {
+    "title": "kyerɛw wo email no",
+    "subtitle": "enti wunya nkra bere a edin no foro kɔ soro no.",
+    "placeholder": "wo email no",
+    "button": "wɔayɛ"
+  },
+  "loading": {
+    "alt": "Wɔde nneɛma regu mu"
+  },
+  "success": {
+    "text": "edin no\n{{din}}\nmprempren wɔatoto ntonto mu\nama ɔsorokɔ.\nbere a na\nasɔredan a ɛwɔ ahunmu\naligns, ne\nyɛn antena no\nwɔ Asase so\nyɛbɛsoma\nedin no\nna wo nsa bɛka\nnkrasɛm bi."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Space Launch - Tempolin'ny Orbital",
+  "heading": "Space Launch",
+  "intro": "Ny Tempolin'ny Orbital dia nokasaina halefa amin'ny PSLV (Polar Satellite Launch Vehicle) ny 28 Novambra 2025 avy ao amin'ny Satish Dhawan Space Center any Sriharikota, India.",
+  "partnership": "Ny fandefasana ny Tempolin'i Orbital dia fiaraha-miasa eo amin'ny NewSpace India Limited (NSIL), orinasan'ny Governemanta India eo ambanin'ny Departemantan'ny Space, Antrix Corporation, ary ny mpanakanto. Ity fiaraha-miasa ity dia maneho dingana iray manan-danja ho an'ny zavakanto amin'ny fitrandrahana habakabaka, mampivondrona ny fandaharan'asan'ny habakabaka ao India miaraka amin'ny fahitana ara-javakanto amin'ny fampidirana ifotony.",
+  "risks": {
+    "heading": "LOZA METY HOENTIN'IZANY",
+    "paragraph1": "Ny zanabolana dia naorina mba hiaritra ny fihovitrovitra faran'izay mafy sy ny tsingerin'ny mafana, ary nandalo fitsapana henjana. Na izany aza, ny fandefasana habakabaka dia mitondra risika voajanahary. Raha simba ny zanabolana mandritra ny fandefasana na fametrahana azy, na raha tsy mahavita mifandray amin'ny tobim-piantsonanay, dia hiasa izahay hamaha olana sy hamaha ny olana rehetra. Ny zanabolana dia manana rafitra mihoa-pampana sy protocols backup natao hanamafisana ny fahombiazan'ny iraka.",
+    "paragraph2": "Fanampin'izany, ny zanabolana dia mety hijanona ao amin'ny orbit mandritra ny 10 taona latsaka raha ny toetry ny atmosfera na ny antony hafa mahatonga ny fahapotehan'ny orbita taloha. Na dia noforoninay haharitra folo taona farafahakeliny aza izy io, dia miankina amin'ny fepetra tsy azontsika fehezina tanteraka ny tena androm-piainana.",
+    "paragraph3": "Raha toa ka tsy nahomby ny fandefasana voalohany, na raha tsy afaka manatanteraka io iraka io araka ny nokasainay izahay, dia hijery ny lalana hafa mandroso, izay mety ahitana andrana fandefasana fanindroany miaraka amin'ny tetibola misy, fiaraha-miasa amin'ny iraka hafa, na antontan-taratasy momba ny andrana ho ampahany amin'ny fitantaran'ny sangan'asa momba ny faniriana sy ny fetra."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Orbital Temple Satellite"
+  }
+}

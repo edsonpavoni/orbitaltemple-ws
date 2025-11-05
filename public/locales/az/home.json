@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbital məbədi",
+    "subtitle": "bir sənət əsəri və peykdir,\nradikal əhatəli bir məbəd olmağı hədəfləyən,\nheç bir divarın çata bilməyəcəyi bir yerdə."
+  },
+  "ritual": {
+    "label": "ritual"
+  },
+  "cta": {
+    "link": "Yenə başqa məbəd?",
+    "arrowAlt": "ox"
+  },
+  "dome": {
+    "alt": "Qübbə"
+  }
+}

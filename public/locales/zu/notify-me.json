@@ -1,0 +1,13 @@
+{
+  "title": "Yaziswa - Orbital Temple",
+  "heading": "Yaziswa Uma Iphakama",
+  "description": "Ngomhla zingama-28 kuNovemba 2025, iThempeli le-Orbital lizokhuphuka.<br> Shiya i-imeyili yakho, futhi sizokutshela uma ifika esikhaleni.",
+  "form": {
+    "emailPlaceholder": "yakho@email.com",
+    "sendButton": "Thumela",
+    "sendingButton": "Iyathumela...",
+    "successMessage": "Sizofinyelela kuwe uma ikhuphuka.",
+    "errorMessage": "Kukhona into engahambanga kahle. Sicela uzame futhi."
+  },
+  "backLink": "← Emuva kokubala wehle"
+}

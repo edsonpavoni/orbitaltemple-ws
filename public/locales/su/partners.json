@@ -1,0 +1,50 @@
+{
+  "title": "Mitra - Kuil Orbital",
+  "heading": "Mitra",
+  "intro": "Kuil Orbital aya ngaliwatan kamurahan, kaahlian, sareng visi mitra anu luar biasa. Ti satelit rékayasa pikeun ngarajin narasi, tina muka panto di tanah anu jauh dugi ka tuang impian dina emas, unggal kolaborasi ngadeukeutkeun kuil ieu ka béntang.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY & Mitra",
+      "description": "Komunikasi, pangalaman terpadu jeung 3D stunning render imagery nu mawa visi satelit pikeun hirup saméméh kungsi keuna kakosongan rohangan."
+    },
+    "highestMantra": {
+      "name": "Mantra pangluhurna urang",
+      "description": "Dipimpin ku Sathi Roy, ngahubungkeun Kuil Orbital sareng komunitas spiritual sareng artistik India. Ngabuka jalur pikeun ngumpulkeun dana, bursa budaya, sareng paméran Art Basel saatos peluncuran Nopémber 2025."
+    },
+    "allToSpace": {
+      "name": "Sadayana ka Angkasa",
+      "description": "spesialis satelit leutik Brasil. Opat taun kolaborasi ngawangun platform hardware open source sareng naratas prosés ngirim seni kana orbit ti Global South."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Organisasi Panaliti Angkasa India. Peluncuran panyadia pikeun misi PSLV mawa Kuil Orbital ka orbit sinkron panonpoé dina bulan Nopémber 2025."
+    },
+    "mercosul": {
+      "name": "13th Mercosur Biennial",
+      "description": "Porto Alegre, Brazil. Dikurasi ku Marcello Dantas sareng asisten kurator Laura Cattani, Munir Klamt, Tarsila Riso, sareng Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / Bengkel ArtSat",
+      "description": "Tim ngembangkeun satelit kabentuk salila II ArtSat Workshop. Dikoordinir ku Fabiane M. Borges, diparentahkeun ku Lázaro Camargo, dikolaborasikeun ku Ítalo Pinto Rodrigues, diawasan ku Walter Abrahão dos Santos."
+    },
+    "solidConcepts": {
+      "name": "Konsép Padet",
+      "description": "Dipingpin ku Eduardo Dias. Sadaya percetakan 3D sareng tuang mikro emas dianggo pikeun kubah patung, ngarobih impian digital janten kanyataan logam mulia."
+    },
+    "ideaSpace": {
+      "name": "Spasi gagasan",
+      "description": "Startup atikan Brasil ngamekarkeun kurikulum Program Spasi Quebrada, siap dilarapkeun ka siswa SMA sakuliah Brazil."
+    }
+  },
+  "closing": "Kabetot dina gawé bareng ku Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Ngahontal</a> .",
+  "imageAlts": {
+    "riseNy": "Logo RiseNY & Mitra",
+    "highestMantra": "Logo Mantra pangluhurna kami",
+    "allToSpace": "Sadayana ka Spasi Logo",
+    "isro": "Logo ISRO",
+    "mercosul": "13 Mercosur Biennial Logo",
+    "inpe": "Logo Bengkel INPE ArtSat",
+    "solidConcepts": "Padet Konsep Logo",
+    "ideaSpace": "Ide Spasi Logo"
+  }
+}

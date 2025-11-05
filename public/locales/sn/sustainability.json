@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Orbital Tembere",
+  "heading": "Sustainability",
+  "intro": {
+    "paragraph1": "Kana unyanzvi huchizotitungamirira mune ramangwana, hahugoni kufuratira matambudziko atinosangana nawo—kuparara kwemhoteredzo, kusaenzana munzanga, uye denho iri kukura yemarara emuchadenga. Orbital Tembere yakagadzirwa iine chokwadi ichi mupfungwa, ichivavarira kuve nehuvepo hune hanya paPasi uye mukutenderera.",
+    "paragraph2": "Isu tinotenda kuti kusimudzira hakusi kumanikidza asi chikamu chakakosha chechiratidzo chedu chehunyanzvi. Sarudzo yese pamusoro pezvishandiso, matenderedzwa, uye mashandisiro anoratidza kuzvipira kwedu kusiya zvese Pasi uye nzvimbo zviri nani pane zvatakazviwana."
+  },
+  "spaceDebris": {
+    "heading": "Space Debris",
+    "paragraph1": "Space debris nderimwe rematambudziko akatarisana nekuongorora nzvimbo. Zviuru zvemasetelliti akaparara uye zvimedu zvinotenderera Pasi, zvichityisidzira misheni inoshanda uye kugadzira iyo cascade mhedzisiro inogona kuita kuti dzimwe nzira dzisashandise.",
+    "paragraph2": "Orbital Tembere inotaura izvi nenzira dzinoverengeka:",
+    "list": {
+      "orbit": "<strong>Zuva-synchronous orbit pa525 km:</strong> Kukwirira uku kunogonesa kukweva kwemuchadenga kunokonzeresa kuti satellite ipindezve mumhepo yePasi mukati memakore angangoita gumi, kwainopisa zvachose. Isu hatisi kubatsira kune yakareba orbital tsvina.",
+      "size": "<strong>PocketQube dhizaini:</strong> Kungori 50 × 58 × 64mm uye 245g, iyo setiraiti idiki zvekuti inogona kunyungudika zvachose panguva yekupinda zvakare, isingasiye marara pasi pePasi.",
+      "responsibility": "<strong>Hapana kupera kwakarongwa:</strong> Kusiyana nemasatellite ekutengesa anogona kusiiwa, Orbital Tembere yakagadzirirwa kudzika midzi, ichizadzisa nhungamiro dzepasirese dzezviitwa zvemuchadenga."
+    },
+    "paragraph3": "Nekusarudza kutenderera kwePasi kwakaderera uye dhizaini yakabatana, tinoona kuti kuvepo kweOrbital Temple muchadenga ndekwenguva pfupi uye kusasvibisa."
+  },
+  "carbonNeutrality": {
+    "heading": "Kusarerekera Kabhoni",
+    "content": "Ese kabhoni emissions ane chekuita neOrbital Temple — kusanganisa kugadzira setiraiti, kuvhurwa, mashandiro echiteshi chepasi, kubata webhusaiti, uye kufamba kwechikwata — kuchagadziriswa zvizere kuburikidza neakasimbiswa kabhoni kiredhiti zvirongwa. Takazvipira kuita kuti chinangwa ichi chisarerekera divi rimwe chete."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Kugara kunorevawo kusatambisa zivo. Yese yehunyanzvi chikamu cheOrbital Tembere-zvirongwa, kodhi, maprotocol ekutaurirana, uye nzira dzekuvaka-ichaburitswa seyakavhurika sosi zvinyorwa.",
+    "paragraph2": "Izvi zvinobvumira mishoni yeramangwana kuvakira pamusoro pebasa redu pane kutanga kubva mukutanga, kuderedza tsvakiridzo nebudiriro isina basa. Inopa demokrasi kuwana tekinoroji yemuchadenga, kunyanya kunharaunda dziri muGlobal South idzo dzakamboburitswa kunze kwekuongorora nzvimbo."
+  },
+  "educational": {
+    "heading": "Dzidzo Impact",
+    "paragraph1": "Chirongwa chedu chemahara chedzidzo yemitauro yakawanda chinodzidzisa vadzidzi pasi rese mavakirwo nekutanga masatelliti, tichitarisa kuGlobal South. Nekupa simba chizvarwa chinotevera nehunyanzvi hwetekinoroji yemuchadenga, isu tinobatsira pakuvhara \"Space Gap\" nekugadzira mikana yaizodai isipo.",
+    "paragraph2": "Iyi mishoni yedzidzo pachayo inzira yekusimudzira-kudyara muvanhu nenharaunda kugadzira shanduko isingaperi kupfuura hupenyu hwesetiraiti."
+  },
+  "tenYear": {
+    "heading": "Basa reMakore gumi",
+    "paragraph1": "Orbital Tembere yakagadzirirwa mishoni yemakore gumi, kwete kupfupika kwekuzivisa. Kwemakore gumi, setiraiti inotenderera Nyika kanenge ka50,000, ichigamuchira mazita uye ichishanda sechiyeuchidzo chekuti nzvimbo inogona kuve yakajairika, inowanikwa kune vese.",
+    "paragraph2": "Mushure mekunge chinangwa chayo chapera, setiraiti inozodzika-tsika nekupisa, ichisiya pasina tsvakiridzo kunze kwekurangarira uye zvinyorwa zveavo vakapinda."
+  },
+  "artsResponsibility": {
+    "heading": "Basa reArt",
+    "paragraph1": "Art yagara iri girazi renguva yayo, ichiratidza hunhu hwedu uye zvatinoshuvira. Munguva yedambudziko remamiriro ekunze uye kusaenzana kuri kukura, tinotenda kuti maartist ane basa rekugadzira basa risingangotauri nezvenyaya idzi asi nekushingaira kuzvigadzirisa.",
+    "paragraph2": "Orbital Tembere kuyedza kwedu kugadzira chiumbwa chine hunyanzvi mukubatanidzwa kwacho, chine chekuita nekukanganisa kwayo kwezvakatipoteredza, uye nerupo mukugovana ruzivo rwayo nenyika. Ihwo hunyanzvi hunokoka munhu wese kutora chikamu achiremekedza masisitimu asina kusimba-ezvakatipoteredza uye anotenderera-anoita kuti hupenyu nekuongorora zvigoneke."
+  },
+  "imageAlt": "Orbital Temberi Satellite"
+}

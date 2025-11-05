@@ -1,0 +1,13 @@
+{
+  "title": "Bozala Notifié - Temple ya Orbital",
+  "heading": "Boyebisama Tango Emati",
+  "description": "Na mokolo ya 28 Novɛmbɛ 2025, Tempelo ya Orbital ekomata.<br> Tika e-mail na yo, tokoyebisa yo tango ekokoma na espace.",
+  "form": {
+    "emailPlaceholder": "na yo@email.com",
+    "sendButton": "Kotinda",
+    "sendingButton": "Kotinda...",
+    "successMessage": "Tokokoma epayi na bino tango ekomata.",
+    "errorMessage": "Eloko moko ekendeki mabe. Svp meka lisusu."
+  },
+  "backLink": "← Kozonga na kotanga nsima"
+}

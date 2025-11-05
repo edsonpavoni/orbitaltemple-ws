@@ -1,0 +1,31 @@
+{
+  "title": "Tác phẩm nghệ thuật - Đền Orbital",
+  "heading": "Tác phẩm nghệ thuật",
+  "intro": {
+    "paragraph1": "Orbital Temple là một vệ tinh có sứ mệnh nghệ thuật: một đài tưởng niệm ngoài không gian mở cửa cho mọi sinh vật có tri giác đang sống hoặc đã từng sống trên Trái đất.",
+    "paragraph2": "Thông qua các phương tiện công nghệ, bất kỳ ai cũng có thể gửi tên của một người nào đó đến Đền thờ, có thể là người đã khuất, người vẫn còn sống hoặc bất kỳ ai đáng được tưởng nhớ."
+  },
+  "sculpture": {
+    "heading": "Tác phẩm điêu khắc",
+    "paragraph1": "Tác phẩm nghệ thuật này có ba yếu tố phụ thuộc lẫn nhau: một vệ tinh được thiết kế đặc biệt để lưu trữ hàng tỷ cái tên; một tác phẩm điêu khắc công cộng trao đổi thông tin với vệ tinh; và một trang web mà qua đó những người tham gia gửi tên, từ bây giờ cho đến khi họ qua đời, lên thiên đường.",
+    "paragraph2": "Là một dự án đa ngành, Đền Orbital có thể được xem là một tác phẩm điêu khắc đặc thù, hiện diện trong không gian. Đây cũng là một dự án của Artsat."
+  },
+  "antenna": {
+    "heading": "Ăng-ten như một tác phẩm điêu khắc công cộng",
+    "paragraph1": "Một ăng-ten kết nối chúng ta với không gian bên ngoài.",
+    "paragraph2": "Một ăng-ten sẽ liên lạc trực tiếp với vệ tinh quỹ đạo đang được thiết kế.",
+    "paragraph3": "Với bề mặt phản chiếu màu vàng, phản chiếu bầu trời phía trên, đây là điểm khởi đầu cho sự kích thích khối lượng (hoặc mối quan hệ của chúng ta với những gì 'ở trên đó').",
+    "paragraph4": "Mặc dù các tác phẩm điêu khắc không được lắp đặt ở hầu hết các nơi trên thế giới, nhưng Frames from Earth của chúng tôi, hiện đang điều khiển vệ tinh, sẽ gửi tên ở mỗi lần vệ tinh đi qua.",
+    "paragraph5": "Hãy cùng mang tầm nhìn này đến thành phố của bạn—lắp đặt các tác phẩm điêu khắc ăng-ten truyền cảm hứng cho những cuộc trò chuyện về khám phá không gian, nghệ thuật và vị trí chung của chúng ta trong vũ trụ. <a href=\"/support\">Tìm hiểu thêm về việc hỗ trợ dự án</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Vệ tinh Orbital Temple",
+    "riseNy": "Đền Orbital tại Rise NY",
+    "installation": "Ngôi đền quỹ đạo của Clara Marques",
+    "antenna": "Ăng-ten Orbital Temple"
+  },
+  "imageCaptions": {
+    "riseNy": "Ngôi đền Orbital trong không gian. Hình ảnh 3D của RiseNY&Partners.",
+    "mercosul": "Lắp đặt Đền Orbital tại Triển lãm Mercosul Biennial, ở Porto Alegre, Brazil.<br> Ảnh của Clara Marques."
+  }
+}

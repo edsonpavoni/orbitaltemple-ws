@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Orbital Temple-ah hian a awm a, a chhuahna tur hmun leh a hmanna tur hmun a awm lo",
+  "heading": "Awm reng thei",
+  "intro": {
+    "paragraph1": "Art hian nakin lawkah min hruai dawn a nih chuan, kan hmachhawn tur harsatnate—environment tlakchhiatna, khawtlang inthlauhna, leh space debris-te harsatna lian zel chu a ngaihthah thei lo. Orbital Temple hi heng thil tak tak te hi ngaihtuah chunga duan a ni a, khawvelah leh orbit-ah pawh mawhphurhna nei taka awm tum a ni.",
+    "paragraph2": "Sustainability hi kan tihkhawtlai ni lovin kan artistic vision-a thil pawimawh tak a ni tih kan ring. Material, orbit leh operation chungchanga thutlukna siam apiang hian Lei leh boruak pahnih hi kan hmuh aia tha zawka chhuahsan kan tumna a lantir a ni."
+  },
+  "spaceDebris": {
+    "heading": "Space Debris a awm",
+    "paragraph1": "Space debris hi space exploration-a harsatna lian ber pakhat a ni. Satellite leh fragment awm tawh lo sang tam takin khawvel hi an rawn vel a, active mission te chu a ti hlauhawm a, cascade effect a siam a, chu chuan orbit thenkhat chu hman theih loh turin a siam thei a ni.",
+    "paragraph2": "Orbital Temple hian hei hi kawng hrang hrangin a sawi a:",
+    "list": {
+      "orbit": "<strong>Sun-synchronous orbit at 525 km:</strong> He altitude hian natural atmospheric drag hian satellite hi kum 10 vel chhungin khawvel boruakah a lut leh thei dawn tih a tichiang a, chutah chuan a kang vek dawn a ni. Hun rei tak chhunga orbital debris-ah hian kan thawhhlawk lo.",
+      "size": "<strong>PocketQube design:</strong> 50×58×64mm leh 245g chauh a nih avangin satellite hi a te tawk a, re-entry laiin a vaporize vek thei a, khawvel leilung chungah hian bawlhhlawh a awm lo.",
+      "responsibility": "<strong>No planned obsolescence:</strong> Commercial satellite kalsan theih ang lo takin Orbital Temple hi natural taka deorbit thei tura duan a ni a, mawhphurtu space activity atana international guidelines zawm a ni."
+    },
+    "paragraph3": "Earth orbit hniam leh design compact tak kan thlan hian Orbital Temple space-a awm chu hun eng emaw chen atan leh boruak bawlhhlawh lo a nih theih nan kan enkawl a ni."
+  },
+  "carbonNeutrality": {
+    "heading": "Carbon Neutrality a awm lo",
+    "content": "Orbital Temple nena inzawm carbon emission zawng zawng—satellite siamna, launching, ground station kalpui, website hosting, leh team travel te pawh huamin—verified carbon credit program hmanga offset kim vek a ni ang. He mission hi climate-neutral-a siam turin kan inpeih reng a ni."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware hmanga siam a ni",
+    "paragraph1": "Sustainability tih hian hriatna tihral loh tihna a ni bawk. Orbital Temple-a technical lam zawng zawng—schematics, code, communication protocols, leh sak dante—chu open source documentation angin tihchhuah a ni ang.",
+    "paragraph2": "Hei hian nakin lawka mission-te chu a bul atanga tan ai chuan kan hnathawhnaah a innghat thei a, hei hian research leh development mamawh loh a tihtlem phah a ni. Space technology hman theihna chu democratize-ah a siam a, a bik takin Global South-a khawtlang, tunhma aṭanga space exploration aṭanga paih chhuah tawhte tan a ni."
+  },
+  "educational": {
+    "heading": "Zirna lama nghawng a neih dan",
+    "paragraph1": "Kan free multilingual educational program hian khawvel puma zirlai te chu satellite siam leh kahchhuah dan a zirtir a, Global South lam a ngaih pawimawh ber a ni. Space technology lama thiamna hmanga thlah tharte tihchakna hmang hian \"Space Gap\" khar leh chutiang ni lo se chuan awm lo tur hun remchang siamnaah kan thawhhlawk hle.",
+    "paragraph2": "He zirna mission hi amah ngei pawh hi sustainability chi khat a ni—satellite dam chhung piah lama inthlak danglamna nghet tak siam turin mi leh khawtlang tana sum dah a ni."
+  },
+  "tenYear": {
+    "heading": "Kum 10 chhung Mission a ni",
+    "paragraph1": "Orbital Temple hi kum sawm chhung zet mission atan ruahman a ni a, publicity stunt tawi tak atan ruahman a ni lo. Kum sawm chhungin satellite hian khawvel hi vawi 50,000 vel a vel ang a, hming a dawng ang a, space hi commons, mi zawng zawng tana hman theih a nih theih thu hriat nawn tirna atan a thawk ang.",
+    "paragraph2": "A mission zawh hnuah satellite hian a pianphungah a de-orbit ang a, a kang chhuak ang a, a telte hriatrengna leh documentation-ah chauh lo chuan engmah a awm tawh lo ang."
+  },
+  "artsResponsibility": {
+    "heading": "Art-a Mawhphurhna",
+    "paragraph1": "Art hi a hun laia darthlalang a ni fo a, kan hlutna leh duhthusamte a pholang a ni. Climate crisis leh inequality lo pung zel karah hian artist-te hian heng thilte hi comment mai ni lovin active taka hmachhawn thei tur hna siam turin mawhphurhna an nei niin kan ring.",
+    "paragraph2": "Orbital Temple hi mi zawng zawng huapzo, boruak tichhe thei tura mawhphurhna nei, khawvel hnena a hriatna thehdarh kawngah thilpek pe thei artwork siam kan tumna a ni. Nunna leh zawn chhuah theihna siamtu system chhe tak tak—environmental leh orbital—te zah chungin mi zawng zawng tel tura sawmtu art a ni."
+  },
+  "imageAlt": "Orbital Temple Satellite hmanga siam a ni"
+}

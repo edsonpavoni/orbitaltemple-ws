@@ -1,0 +1,44 @@
+{
+  "title": "Sustainability & Space Debris - Orbital Temple",
+  "heading": "Pagpadayon",
+  "intro": {
+    "paragraph1": "Kung ang arte mao ang modala kanato ngadto sa umaabot, dili kini makabaliwala sa mga krisis nga atong giatubang—pagkahugno sa kinaiyahan, pagkadili makiangayon sa katilingban, ug ang nagkadako nga hagit sa mga tinumpag sa kawanangan. Ang Templo sa Orbital gidisenyo uban niini nga mga kamatuoran sa hunahuna, nga nagtumong nga mahimong responsable nga presensya sa Yuta ug sa orbit.",
+    "paragraph2": "Kami nagtuo nga ang pagpadayon dili usa ka pagpugong apan usa ka hinungdanon nga bahin sa among panan-aw sa arte. Ang matag desisyon bahin sa mga materyales, orbit, ug operasyon nagpakita sa among pasalig sa pagbiya sa Yuta ug kawanangan nga mas maayo kaysa among nakit-an."
+  },
+  "spaceDebris": {
+    "heading": "Space Debris",
+    "paragraph1": "Ang mga tinumpag sa kawanangan maoy usa sa labing lisod nga mga hagit nga giatubang sa eksplorasyon sa kawanangan. Liboan ka mga wala na nga mga satellite ug mga tipik nga nag-orbit sa Yuta, naghulga sa mga aktibo nga misyon ug nagmugna og usa ka epekto sa kaskad nga makahimo sa pipila ka mga orbit nga dili magamit.",
+    "paragraph2": "Gitubag kini sa Orbital Temple sa daghang mga paagi:",
+    "list": {
+      "orbit": "<strong>Sun-synchronous orbit sa 525 km:</strong> Kini nga kahitas-an nagsiguro sa natural nga atmospheric drag nga maoy hinungdan sa satellite sa pagsulod pag-usab sa atmospera sa Yuta sulod sa gibana-bana nga 10 ka tuig, diin kini masunog sa hingpit. Wala kami nag-amot sa dugay nga orbital debris.",
+      "size": "<strong>Disenyo sa PocketQube:</strong> Sa 50 × 58 × 64mm ug 245g lang, gamay ra ang satellite aron hingpit nga mag-alisngaw sa pagsulod pag-usab, nga wala’y nahabilin nga basura sa nawong sa Yuta.",
+      "responsibility": "<strong>Wala&#39;y giplano nga pagkadaan:</strong> Dili sama sa komersyal nga mga satellite nga mahimong biyaan, ang Orbital Temple gidesinyo sa natural nga pag-deorbit, nga nagtuman sa internasyonal nga mga giya alang sa responsable nga kalihokan sa kawanangan."
+    },
+    "paragraph3": "Pinaagi sa pagpili sa usa ka ubos nga Earth orbit ug usa ka compact nga disenyo, among gisiguro nga ang presensya sa Orbital Temple sa kawanangan temporaryo ug dili makahugaw."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralidad sa Carbon",
+    "content": "Ang tanang carbon emissions nga nalangkit sa Orbital Temple—lakip ang satellite manufacturing, launching, ground station operations, website hosting, ug team travel—hingpit nga mabawi pinaagi sa verified carbon credit programs. Kami komitido sa paghimo niini nga misyon nga neutral sa klima."
+  },
+  "openSource": {
+    "heading": "Open Source Hardware",
+    "paragraph1": "Ang pagpadayon nagpasabut usab nga dili pag-usik sa kahibalo. Ang matag teknikal nga aspeto sa Orbital Temple—mga eskema, code, mga protocol sa komunikasyon, ug mga pamaagi sa pagtukod—i-publish isip open source documentation.",
+    "paragraph2": "Gitugotan niini ang umaabot nga mga misyon sa pagtukod sa among trabaho imbes nga magsugod gikan sa wala, pagkunhod sa sobra nga panukiduki ug kalamboan. Gi-demokratize niini ang pag-access sa teknolohiya sa kawanangan, labi na sa mga komunidad sa Global South nga sa kasaysayan wala iapil sa eksplorasyon sa kawanangan."
+  },
+  "educational": {
+    "heading": "Epekto sa Edukasyon",
+    "paragraph1": "Ang among libre nga multilingguwal nga programa sa edukasyon nagtudlo sa mga estudyante sa tibuuk kalibutan kung unsaon paghimo ug paglansad sa mga satellite, nga nagpunting sa Global South. Pinaagi sa paghatag gahum sa sunod nga henerasyon sa mga kahanas sa teknolohiya sa kawanangan, nakatampo kami sa pagsira sa \"Space Gap\" ug paghimo og mga oportunidad nga wala unta maglungtad.",
+    "paragraph2": "Kini nga misyon sa edukasyon mismo usa ka porma sa pagpadayon—pagpamuhunan sa mga tawo ug komunidad aron makahimo og malungtarong pagbag-o lapas sa gitas-on sa kinabuhi sa satellite."
+  },
+  "tenYear": {
+    "heading": "Usa ka 10 ka Tuig nga Misyon",
+    "paragraph1": "Ang Orbital Temple gidisenyo alang sa usa ka dekada nga taas nga misyon, dili usa ka mubo nga publisidad nga stunt. Kapin sa napulo ka tuig, ang satellite mag-orbit sa Yuta mga 50,000 ka beses, makadawat ug mga ngalan ug magsilbing pahinumdom nga ang wanang mahimong usa ka komon, ma-access sa tanan.",
+    "paragraph2": "Pagkahuman sa misyon niini, ang satellite natural nga mag-de-orbit ug masunog, nga wala’y nahabilin nga pagsubay gawas sa mga panumduman ug dokumentasyon sa mga miapil."
+  },
+  "artsResponsibility": {
+    "heading": "Responsibilidad sa Art",
+    "paragraph1": "Ang arte kanunay nga salamin sa iyang panahon, nga nagpakita sa atong mga mithi ug mga pangandoy. Sa usa ka panahon sa krisis sa klima ug nagkadako nga dili managsama, kami nagtuo nga ang mga artista adunay responsibilidad sa paghimo og trabaho nga dili lamang magkomento sa kini nga mga isyu apan aktibo nga nagtubag niini.",
+    "paragraph2": "Ang Orbital Temple mao ang among pagsulay sa paghimo og usa ka artwork nga radikal sa pagka-inclusivity niini, responsable sa epekto niini sa kinaiyahan, ug manggihatagon sa pagpaambit sa kahibalo niini sa kalibutan. Kini ang arte nga nagdapit sa tanan sa pag-apil samtang nagtahod sa huyang nga mga sistema—kalibotan ug orbital—nga nagpaposible sa kinabuhi ug eksplorasyon."
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

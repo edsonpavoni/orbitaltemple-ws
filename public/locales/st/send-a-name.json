@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "ha o kena\nmoetlo\nho romela lebitso\nho kena ho\ntempele ea orbital\nsebakeng\nnka\nphefumoloho",
+    "button": "Ke se ke lokile"
+  },
+  "nameInput": {
+    "title": "ngola lebitso",
+    "subtitle": "e tla nyolohela Tempeleng ea Orbital sebakeng.",
+    "placeholder": "lebitso",
+    "button": "e ke e nyolohe"
+  },
+  "emailInput": {
+    "title": "ngola lengolo-tsoibila la hau",
+    "subtitle": "kahoo o fumana molaetsa ha lebitso le nyoloha.",
+    "placeholder": "lengolo-tsoibila la hau",
+    "button": "ho entsoe"
+  },
+  "loading": {
+    "alt": "Loading"
+  },
+  "success": {
+    "text": "lebitso\n{{lebitso}}\ne eme moleng\nbakeng sa tlhatloho.\nha e\ntempele sebakeng\nlekanya, le\nlenakana la rona\nlefatsheng\nre tla romela\nlebitso\nmme o tla amohela\nmolaetsa."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tim - Ɔrbital Tɛmpl",
+  "heading": "Tim",
+  "artist": "Edson Pavoni, we na wan atis",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Ɛgzibit Prodyusa",
+      "members": "Sathi Roy bin de tɔk bɔt am"
+    },
+    "aerospace": {
+      "heading": "Aerospace & Sistem Ɛnjinia",
+      "members": "Pedro Kaled, João Pedro Polito, Viktɔ Baptista & João Viktɔ Alves"
+    },
+    "electronic": {
+      "heading": "Ilɛktronik Ɛnjinia",
+      "members": "André Biagioni, João Pedro Polito & V. K., ɛn ɔda pipul dɛn"
+    },
+    "software": {
+      "heading": "Kɔmpyuta program",
+      "members": "Jonathan Chɛrubina"
+    },
+    "design": {
+      "heading": "Dizayn ɛn Akitekchɔ",
+      "members": "Guilherme Bullejos bin de tɔk bɔt am"
+    },
+    "printing": {
+      "heading": "3D Printin we yu de print",
+      "members": "Solid Concepts, ɔnda di lidaship fɔ Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D Rɛndarin",
+      "members": "Guilherme Bullejos & RiseNy & Patna dɛn"
+    },
+    "research": {
+      "heading": "Stɔdi",
+      "members": "Roberta Savian Rosa & Klara Maks"
+    },
+    "exhibition": {
+      "heading": "Egzibishin Prodakshɔn, Fɔtografi & Kɔntinɛnt Krieshɔn",
+      "members": "Klara Maks"
+    },
+    "silkScreen": {
+      "heading": "Ɛgzibishin in Silk Skrin",
+      "members": "Daphne Alves, we de na di wɔl"
+    },
+    "educational": {
+      "heading": "Edukeshɔnal Projɛkt",
+      "members": "IdeaSpɛs we dɛn kɔl"
+    },
+    "communication": {
+      "heading": "Tim fɔ Kɔmyunikeshɔn",
+      "members": "Flavio Vidigal, Andru Holzmasta, Pita Vidigal, Tatiane Puti, Rafaɛl Fɛnandez, Bruna Kairo"
+    },
+    "specialThanks": {
+      "heading": "Speshal Tɛnki",
+      "members": "Gebrɛla Veiga, Masɛlɔ Dantas, An Vals, Matias Kampos Abad, Samiɛl Lɛvi, Bɛla Nardini, & Li Pɛningtɔn"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Rɔbata Savian Rosa, Klara Maks, Dafni Alves, Flavio Vidigal, Andru Ɔlzmasta, Pita Vidigal, Tatiane Putti, Rafaɛl Fɛnandes, Bruna Kairo, Conceitos Sólidos, RiseNY&Patna dɛn, AydiaSpɛs",
+  "imageAlt": "Orbital Tempul Sataylayt"
+}

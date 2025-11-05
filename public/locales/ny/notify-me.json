@@ -1,0 +1,13 @@
+{
+  "title": "Dziwitsani - Orbital Temple",
+  "heading": "Dziwitsani Ikakwera",
+  "description": "Pa Novembara 28, 2025, Kachisi wa Orbital adzakwera.<br> Siyani imelo yanu, ndipo tidzakuuzani ikafika danga.",
+  "form": {
+    "emailPlaceholder": "wanu@email.com",
+    "sendButton": "Tumizani",
+    "sendingButton": "Kutumiza...",
+    "successMessage": "Tidzakufikirani ikakwera.",
+    "errorMessage": "Chinachake chalakwika. Chonde yesaninso."
+  },
+  "backLink": "← Bwererani ku mawerengedwe otsika"
+}

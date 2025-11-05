@@ -1,0 +1,24 @@
+{
+  "breathing": {
+    "text": "quan entres\nen un ritual\nper enviar un nom\nal\ntemple orbital\na l'espai\nrespira\nprofundament",
+    "button": "Estic a punt"
+  },
+  "nameInput": {
+    "title": "escriu un nom",
+    "subtitle": "s'elevarà fins al Temple Orbital a l'espai.",
+    "placeholder": "nom",
+    "button": "deixa-ho ascendir"
+  },
+  "emailInput": {
+    "title": "escriu el teu correu electrònic",
+    "subtitle": "així rebràs un missatge quan el nom ascendeix.",
+    "placeholder": "el vostre correu electrònic",
+    "button": "està fet"
+  },
+  "loading": {
+    "alt": "S'està carregant"
+  },
+  "success": {
+    "text": "El nom\n{{name}}\nara està en cua\nper a l'ascensió.\nquan el\ntemple a l'espai\ns'alineï, amb\nla nostra antena\na la Terra\nenviarem\nel nom\ni rebreu\nun missatge."
+  }
+}

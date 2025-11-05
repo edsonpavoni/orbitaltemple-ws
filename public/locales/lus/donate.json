@@ -1,0 +1,31 @@
+{
+  "title": "Orbital Temple-ah thilpek pe rawh",
+  "heading": "I Thilpek chu Tihfel rawh",
+  "donatingTo": "I thawhlawm hi:",
+  "chooseHow": "Tax-deductible donation i tihfel duh dan tur thlang rawh:",
+  "option1": {
+    "heading": "Thil tih theih 1: Tunah hian Online-a thilpek pe rawh",
+    "description": "Kan fiscal sponsor him tak, <strong>The Field</strong> kaltlangin credit card, debit card, emaw online-a pawisa pek dan dang hmangin i thilpek chu tifel nghal rawh. Instant tax receipt i dawng ang.",
+    "button": "The Field kaltlangin thilpek pe rawh →"
+  },
+  "option2": {
+    "heading": "Thil tih theih 2: The Roy Foundation-ah Bank Deposit",
+    "description": "Kan strategic partner leh fiscal sponsor <strong>The Roy Foundation</strong> -ah direct bank deposit emaw wire transfer emaw siam rawh. He option hi donation lian zawk emaw international transfer emaw atan a tha hle.",
+    "bankingInfo": "Bank chungchanga hriat tur pawimawh",
+    "fields": {
+      "accountName": "Account Hming: 1.1.",
+      "bankName": "Bank Hming: 1.1.",
+      "accountNumber": "Account Number chu:",
+      "routingNumber": "Routing number chu: 1.1.",
+      "swift": "SWIFT/BIC hmanga siam:",
+      "reference": "Kawhhmuh:"
+    },
+    "instructions": "Reference field-ah &quot; <strong>Orbital Temple - {donationType}</strong> &quot; tih kha ziak la. I transfer i tih zawh hnuah <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> ah i transfer details nen email la, i tax receipt i dawng ang.",
+    "button": "Deposit chungchang →"
+  },
+  "taxInfo": {
+    "heading": "Tax-Deductible Thilpek pek",
+    "description": "Orbital Temple hi fiscally sponsored project a ni a, <strong>The Field (Performance Zone Inc.)</strong> , <strong>501(c)(3)</strong> hmanga hlawkna nei lo pawl a ni. US contribution zawng zawng hi danin a phal chinah chhiah lak theih a ni.",
+    "questions": "Zawhna i nei em? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a> ah min rawn biak theih reng e"
+  }
+}

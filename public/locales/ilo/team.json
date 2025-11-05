@@ -1,0 +1,61 @@
+{
+  "title": "Team - Templo nga Orbital",
+  "heading": "Yasmang",
+  "artist": "Edson Pavoni, nga artista",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Ehekutibo a Producer",
+      "members": "Sathi Roy ni Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Inhenieria ti Aeroespasio & Sistema",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Elektronika nga Inhenieria",
+      "members": "André Biagioni, João Pedro Polito ken VK"
+    },
+    "software": {
+      "heading": "Software",
+      "members": "Jonatan Kerubina"
+    },
+    "design": {
+      "heading": "Disenyo ken Arkitektura",
+      "members": "Ni Guilherme Bullejos ti nagbanaganna"
+    },
+    "printing": {
+      "heading": "3D a Panagimprenta",
+      "members": "Solid Concepts, babaen ti panangidaulo ni Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "3D nga Pag-render",
+      "members": "Guilherme Bullejos & RiseNy & Kakadua"
+    },
+    "research": {
+      "heading": "Sukisok",
+      "members": "Roberta Savian Rosa & Klara Marques"
+    },
+    "exhibition": {
+      "heading": "Produksion ti Eksibision, Panagretrato & Panagpartuat ti Linaon",
+      "members": "Clara Marques ti nagbanaganna"
+    },
+    "silkScreen": {
+      "heading": "Silk Screening ti Eksibision",
+      "members": "Ni Daphne Alves ti nagbanaganna"
+    },
+    "educational": {
+      "heading": "Proyekto ti Edukasion",
+      "members": "IdeaSpace nga"
+    },
+    "communication": {
+      "heading": "Team ti Komunikasion",
+      "members": "Ni Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, ken dagiti dadduma pay"
+    },
+    "specialThanks": {
+      "heading": "Espesial nga Pagyamanan",
+      "members": "Ni Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Natibker a Konsepto, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satellite ti Templo ti Orbital"
+}

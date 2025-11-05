@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "listaverkið",
+    "sendAName": "senda nafn",
+    "fromTheArtist": "frá listamanninum",
+    "yetAnotherTemple": "enn eitt musteri?",
+    "howItWorks": "hvernig þetta virkar",
+    "spaceLaunch": "geimskot og áhættur",
+    "briefHistory": "Stutt saga listar í geimnum",
+    "education": "menntun og opinn hugbúnaður",
+    "sustainability": "sjálfbærni og geimrusl",
+    "press": "fjölmiðlar",
+    "team": "lið",
+    "partners": "samstarfsaðilar",
+    "support": "stuðningur",
+    "technicalInfo": "tæknilegar upplýsingar"
+  },
+  "ritual": {
+    "label": "helgisiður",
+    "ariaLabel": "Taktu þátt í helgiathöfninni - Sendu nafn til Orbital-hofsins"
+  },
+  "footer": {
+    "credits": "Orbital Temple er listaverk eftir Edson Pavoni, búið til í samstarfi við Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, og alla þá sem halda áfram að senda þetta musteri."
+  }
+}

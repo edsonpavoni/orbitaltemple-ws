@@ -1,0 +1,31 @@
+{
+  "title": "Karya Seni - Candi Orbital",
+  "heading": "Karya Seni",
+  "intro": {
+    "paragraph1": "Kuil Orbital minangka satelit kanthi misi seni: peringatan ing njaba angkasa mbukak kanggo saben makhluk sing urip utawa wis urip ing Bumi.",
+    "paragraph2": "Liwat sarana teknologi, sapa wae bisa ngirim jeneng wong menyang Padaleman Suci, bisa uga wong sing wis tilar donya, wong sing isih urip, utawa makhluk apa wae sing kudu dieling-eling."
+  },
+  "sculpture": {
+    "heading": "Patung",
+    "paragraph1": "Karya seni kasebut nduweni telung unsur sing gumantung: satelit sing dirancang khusus kanggo nyimpen milyaran jeneng; patung umum ijol-ijolan informasi karo satelit; lan situs web ing ngendi para peserta ngirim jeneng, wiwit saiki nganti tilar donya, menyang swarga.",
+    "paragraph2": "Minangka upaya multidisiplin, Candi Orbital bisa dianggep minangka patung khusus situs, sing manggoni papan. Iku uga proyek Artsat."
+  },
+  "antenna": {
+    "heading": "Antena Minangka Patung Umum",
+    "paragraph1": "Antena sing nyambungake kita karo angkasa.",
+    "paragraph2": "Antena sing bakal komunikasi langsung karo satelit orbit lagi dirancang.",
+    "paragraph3": "Kanthi lumahing reflektif emas, nggambarake langit ing sadhuwure, iki minangka titik wiwitan kanggo stimulasi massa (utawa hubungan kita karo apa sing ana ing ndhuwur).",
+    "paragraph4": "Nalika patung-patung kasebut ora dipasang ing pirang-pirang bagean ing jagad iki, Frames saka Bumi, sing saiki ngontrol satelit, ngirim jeneng ing saben passthrough.",
+    "paragraph5": "Tulung nggawa visi iki menyang kutha sampeyan - masang patung antena sing menehi inspirasi obrolan babagan eksplorasi ruang angkasa, seni, lan papan sing dienggo bareng ing kosmos. <a href=\"/support\">Sinau luwih lengkap babagan ndhukung proyek kasebut</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satelit Candi Orbit",
+    "riseNy": "Kuil Orbital ing Rise NY",
+    "installation": "Orbital Temple dening Clara Marques",
+    "antenna": "Antena Kuil Orbital"
+  },
+  "imageCaptions": {
+    "riseNy": "Candi Orbital ing angkasa. Rendering 3D dening RiseNY&Partners.",
+    "mercosul": "Instalasi Kuil Orbital ing Mercosul Biennial, ing Porto Alegre, Brazil.<br> Foto dening Clara Marques."
+  }
+}

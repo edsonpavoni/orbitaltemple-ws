@@ -1,0 +1,31 @@
+{
+  "title": "D'Konschtwierk - Orbitaltempel",
+  "heading": "D'Konschtwierk",
+  "intro": {
+    "paragraph1": "Den Orbital Temple ass e Satellit mat enger artistescher Missioun: e Monument am Weltraum, dat fir all bewosst Wiesen op ass, dat op der Äerd lieft oder gelieft huet.",
+    "paragraph2": "Duerch technologesch Mëttele kann jiddwereen den Numm vun enger Persoun an den Tempel schécken, egal ob een deen verstuerwen ass, eng Persoun déi nach ganz lieweg ass, oder all aner Wiesen, dat et verdéngt, an Erënnerung ze bleiwen."
+  },
+  "sculpture": {
+    "heading": "D'Skulptur",
+    "paragraph1": "D'Konschtwierk huet dräi ko-ofhängeg Elementer: e Satellit, deen speziell entwéckelt gouf fir Milliarde vun Nimm ze späicheren; eng ëffentlech Skulptur, déi Informatiounen mam Satellit austauscht; an eng Websäit, iwwer déi d'Participanten d'Nimm, vun elo un bis zu hirem Doud, an den Himmel schécken.",
+    "paragraph2": "Als multidisziplinär Projet kann den Orbital Temple als eng ortsspezifesch Skulptur ugesi ginn, déi de Raum bewunnt. Et ass och en Artsat-Projet."
+  },
+  "antenna": {
+    "heading": "D'Antenn als ëffentlech Skulptur",
+    "paragraph1": "Eng Antenn, déi eis mam Weltraum verbënnt.",
+    "paragraph2": "Eng Antenn gëtt entwéckelt, déi a direkter Kommunikatioun mam Orbitalsatellit steet.",
+    "paragraph3": "Mat enger goldener reflektiver Uewerfläch, déi den Himmel driwwer spigelt, ass et en Ausgangspunkt fir Massestimulatioun (oder eis Bezéiung zu deem, wat \"do uewen\" ass).",
+    "paragraph4": "Wärend d'Skulpturen net an de meeschte Géigenden vun der Welt installéiert sinn, schéckt eis Frames from Earth, déi de Moment de Satellit kontrolléieren, d'Nimm bei all Duerchgank.",
+    "paragraph5": "Hëlleft dës Visioun an Är Stad ze bréngen - installéiert Antennenskulpturen, déi Gespréicher iwwer Weltraumerfuerschung, Konscht an eis gemeinsam Plaz am Kosmos inspiréieren. <a href=\"/support\">Léiert méi iwwer d&#39;Ënnerstëtzung vum Projet</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellit",
+    "riseNy": "Orbitaltempel zu Rise NY",
+    "installation": "Orbitaltempel vun der Clara Marques",
+    "antenna": "Orbital Tempelantenn"
+  },
+  "imageCaptions": {
+    "riseNy": "Orbitaltempel am Weltraum. 3D-Rendering vu RiseNY&Partners.",
+    "mercosul": "Installatioun vun engem Orbitaltempel op der Mercosul Biennale zu Porto Alegre a Brasilien.<br> Foto vum Clara Marques."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Teknikal na Impormasyon - Orbital Temple",
+  "heading": "Teknikal na Impormasyon",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Mga sukat: 50x58x64 mm<br /> 1P PocketQube<br /> Timbang: 245 gr<br /> Mga Materyales: aluminyo, ginto, fiberglass, at mga elektronikong bahagi.<br /> Orbit: Altitude 525 ± 25 km; pagkahilig: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Antenna/Eskultura",
+    "specs": "Mga Dimensyon: 6 m (diameter) at 1.2m (taas)<br /> Timbang: 46 kg<br /> Mga Materyales: aluminum, epoxy mirrored board, golden aluminum dome na sinuspinde sa pamamagitan ng scaffolding structure."
+  },
+  "radio": {
+    "heading": "Mga Detalye ng Radio NASA-Catalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Tawag: Katayuan: SCHEDULE PARA SA 2025"
+  },
+  "imageAlt": "Teknikal na Info Diagram"
+}

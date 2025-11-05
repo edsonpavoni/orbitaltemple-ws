@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Hekalu la Orbital",
+    "subtitle": "ni mchoro na satelaiti,\nikilenga kuwa hekalu shirikishi,\nmahali ambapo hakuna ukuta unaweza kufikia."
+  },
+  "ritual": {
+    "label": "tambiko"
+  },
+  "cta": {
+    "link": "Bado, hekalu lingine?",
+    "arrowAlt": "mshale"
+  },
+  "dome": {
+    "alt": "Kuba"
+  }
+}

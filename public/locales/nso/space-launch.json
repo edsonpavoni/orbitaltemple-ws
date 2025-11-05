@@ -1,0 +1,16 @@
+{
+  "title": "Sebaka Launch - Tempele ya Orbital",
+  "heading": "Go Thakgolwa ga Sebaka",
+  "intro": "Tempele ya Orbital e rulagantšwe go thakgolwa ka sekepeng sa PSLV (Polar Satellite Launch Vehicle) ka November 28th, 2025 go tšwa go Satish Dhawan Space Center kua Sriharikota, India.",
+  "partnership": "Go tsebagatšwa ga Tempele ya Orbital ke tirišano magareng ga NewSpace India Limited (NSIL), Khamphani ya Mmušo wa India ka fase ga Kgoro ya Sebaka, Antrix Corporation, le motaki. Tirišano ye e emela kgato ye bohlokwa ya bokgabo ka go nyakišiša sebaka, e kopanya lenaneo la sebaka sa India ka pono ya bokgabo ya go akaretša bohle ka mo go tseneletšego.",
+  "risks": {
+    "heading": "Dikotsi",
+    "paragraph1": "Sathalaete e agilwe go kgotlelela maemo a go thothomela a feteletšego le medikologo ya phišo, gomme e dirilwe diteko tše di tiilego. Lega go le bjalo, go thuntšhwa ga sebakabaka go rwala dikotsi tša tlhago. Ge sathalaete e senyegile nakong ya go thomišwa goba go tsenywa tirišong, goba ge e palelwa ke go hloma kgokagano le diteišene tša rena tša fase, re tla šoma go rarolla mathata le go rarolla ditaba dife goba dife. Sathalaete e na le ditshepedišo tše di sa nyakegego le diprothokhole tša go boloka tšeo di hlamilwego go godiša dibaka tša katlego ya thomo.",
+    "paragraph2": "Go oketša moo, sathalaete e ka dula modikologong wa yona ka nywaga ya ka tlase ga e 10 ge e ba maemo a lefaufau goba mabaka a mangwe a baka go bola ga modikologo wa pejana. Le ge re e hlamile gore e swarelele bonyenyane nywaga e lesome, nako ya kgonthe ya bophelo e ithekgile ka maemo ao re ka se kgonego go a laola ka mo go feletšego.",
+    "paragraph3": "Ge go thomišwa ga mathomo go palelwa, goba ge re sa kgone go phethagatša thomo ye bjalo ka ge re rulagantšwe, re tla hlahloba ditsela tše dingwe tša go ya pele, tšeo di ka akaretšwago maitekelo a bobedi a go thomiša ka tekanyetšo ye e lego gona, tirišano le baromiwa ba bangwe, goba ditokomane tša maiteko bjalo ka karolo ya kanegelo ya mošomo wa bokgabo ka ga kganyogo le go lekanyetša."
+  },
+  "imageAlts": {
+    "india": "Setsi sa Sebaka sa ISRO, India",
+    "satellite": "Sathalaete ya Tempele ya Orbital"
+  }
+}

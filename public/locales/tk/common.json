@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "çeper eser",
+    "sendAName": "at iber",
+    "fromTheArtist": "suratkeşden",
+    "yetAnotherTemple": "başga bir ybadathana?",
+    "howItWorks": "nähili işleýär",
+    "spaceLaunch": "kosmosa uçuş we töwekgelçilikler",
+    "briefHistory": "kosmosda sungatyň gysgaça taryhy",
+    "education": "bilim we açyk çeşme",
+    "sustainability": "durnuklylygy we kosmos galyndylary",
+    "press": "metbugat we metbugat",
+    "team": "topary",
+    "partners": "hyzmatdaşlar",
+    "support": "goldaw",
+    "technicalInfo": "tehniki maglumatlar"
+  },
+  "ritual": {
+    "label": "dessur",
+    "ariaLabel": "Dessura giriň - Orbital ybadathanasyna at iberiň"
+  },
+  "footer": {
+    "credits": "Orbistor Hudaýy Edson Perwoni tarapyndan ýeňiji, Wiktoriýa Sapor, Jonato Diads, Javarda SaviGi, Roý, JBART Roý GyY, Jonsat Roý nazarynda Klara marsina, Şeýziýa Day, Jonsat şöhlesi, Şani Roý nahaty we bu ybadathana atlar."
+  }
+}

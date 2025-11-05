@@ -1,0 +1,31 @@
+{
+  "title": "Mag-donate sa Orbital Temple",
+  "heading": "Kumpletuhin ang Iyong Donasyon",
+  "donatingTo": "Nag-donate ka sa:",
+  "chooseHow": "Piliin kung paano mo gustong kumpletuhin ang iyong donasyon na mababawas sa buwis:",
+  "option1": {
+    "heading": "Opsyon 1: Mag-donate Online Ngayon",
+    "description": "Kumpletuhin kaagad ang iyong donasyon gamit ang credit card, debit card, o iba pang paraan ng pagbabayad online sa pamamagitan ng aming secure na fiscal sponsor, <strong>The Field</strong> . Makakatanggap ka ng instant na resibo ng buwis.",
+    "button": "Mag-donate sa pamamagitan ng The Field →"
+  },
+  "option2": {
+    "heading": "Opsyon 2: Deposito sa Bangko sa The Roy Foundation",
+    "description": "Gumawa ng direktang deposito sa bangko o wire transfer sa <strong>The Roy Foundation</strong> , ang aming strategic partner at fiscal sponsor. Ang pagpipiliang ito ay perpekto para sa mas malalaking donasyon o internasyonal na paglilipat.",
+    "bankingInfo": "Impormasyon sa Pagbabangko",
+    "fields": {
+      "accountName": "Pangalan ng Account:",
+      "bankName": "Pangalan ng Bangko:",
+      "accountNumber": "Account Number:",
+      "routingNumber": "Numero ng Pagruruta:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Sanggunian:"
+    },
+    "instructions": "Pakisama ang &quot; <strong>Orbital Temple - {donationType}</strong> &quot; sa reference field. Pagkatapos makumpleto ang iyong paglipat, mag-email sa amin sa <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> kasama ang iyong mga detalye ng paglilipat upang matanggap ang iyong resibo ng buwis.",
+    "button": "Makipag-ugnayan sa Amin Tungkol sa Deposito →"
+  },
+  "taxInfo": {
+    "heading": "Pagbibigay ng Nababawas sa Buwis",
+    "description": "Ang Orbital Temple ay isang pinansiyal na inisponsor na proyekto ng <strong>The Field (Performance Zone Inc.)</strong> , isang <strong>501(c)(3)</strong> na non-profit na organisasyon. Lahat ng kontribusyon sa US ay mababawas sa buwis sa lawak na pinapayagan ng batas.",
+    "questions": "Mga tanong? Makipag-ugnayan sa amin sa <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

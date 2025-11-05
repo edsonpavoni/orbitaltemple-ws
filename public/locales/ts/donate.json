@@ -1,0 +1,31 @@
+{
+  "title": "Nyikela eka Tempele ya Orbital",
+  "heading": "Hetisa Munyikelo Wa Wena",
+  "donatingTo": "U nyikela eka:",
+  "chooseHow": "Hlawula ndlela leyi u lavaka ku hetisa munyikelo wa wena lowu nga hakeriwaka xibalo ha yona:",
+  "option1": {
+    "heading": "Nhlawulo wo Sungula: Nyikela eka Inthanete Sweswi",
+    "description": "Hetisa munyikelo wa wena hi ku hatlisa hi ku tirhisa khadi ra xikweleti, khadi ra debiti kumbe tindlela tin’wana to hakela eka Internet hi ku tirhisa muxavisi wa hina wa swa timali la sirhelelekeke, <strong>The Field</strong> . U ta kuma risiti ya xibalo ya xihatla.",
+    "button": "Nyikela hi ku tirhisa The Field →"
+  },
+  "option2": {
+    "heading": "Nhlawulo wa 2: Dipoziti ya le Bangi eka The Roy Foundation",
+    "description": "Endla dipoziti ya le bangi hi ku kongoma kumbe ku hundziseriwa hi riqingho eka <strong>The Roy Foundation</strong> , mutirhisani wa hina wa maqhinga na muxavisi wa swa timali. Nhlawulo lowu wu kahle eka minyikelo leyikulu kumbe ku hundziseriwa ka matiko ya misava.",
+    "bankingInfo": "Vuxokoxoko bya le Bangi",
+    "fields": {
+      "accountName": "Vito ra akhawunti:",
+      "bankName": "Vito ra Bangi:",
+      "accountNumber": "Nomboro ya akhawunti:",
+      "routingNumber": "Nomboro ya Ndlela: .",
+      "swift": "SWIFT/BIC: 1 .",
+      "reference": "Rheferense:"
+    },
+    "instructions": "Hi kombela u katsa &quot; <strong>Orbital Temple - {donationType}</strong> &quot; eka nsimu ya swikombo. Endzhaku ko hetisa ku hundzisela ka wena, hi rhumele imeyili eka <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> na vuxokoxoko bya wena byo hundzisela ku kuma risiti ya wena ya xibalo.",
+    "button": "Tihlanganise Na Hina Malunghana Na Dipoziti →"
+  },
+  "taxInfo": {
+    "heading": "Ku Nyika loku Susiwaka Xibalo",
+    "description": "Orbital Temple i phurojeke leyi seketeriwaka hi timali ya <strong>The Field (Performance Zone Inc.)</strong> , nhlangano lowu nga tirheliki ku endla mali <strong>wa 501(c)(3)</strong> . Minyikelo hinkwayo ya le United States yi hungutiwa xibalo ku fikela laha swi pfumeleriwaka hi nawu.",
+    "questions": "Swivutiso? Tihlanganise na hina eka <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

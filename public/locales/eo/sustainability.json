@@ -1,0 +1,44 @@
+{
+  "title": "Daŭripovo kaj Kosmorubo - Orbita Templo",
+  "heading": "Daŭripovo",
+  "intro": {
+    "paragraph1": "Se arto devas gvidi nin en la estontecon, ĝi ne povas ignori la krizojn, kiujn ni alfrontas — median kolapson, socian malegalecon, kaj la kreskantan defion de kosmorubo. Orbital Temple estas desegnita konsiderante ĉi tiujn realaĵojn, celante esti respondeca ĉeesto kaj sur la Tero kaj en orbito.",
+    "paragraph2": "Ni kredas, ke daŭripovo ne estas limo, sed esenca parto de nia arta vizio. Ĉiu decido pri materialoj, orbitoj kaj operacioj reflektas nian engaĝiĝon lasi kaj la Teron kaj la kosmon pli bonaj ol ni trovis ilin."
+  },
+  "spaceDebris": {
+    "heading": "Kosmorubo",
+    "paragraph1": "Kosmorubo estas unu el la plej urĝaj defioj, kiujn alfrontas kosma esplorado. Miloj da malfunkciaj satelitoj kaj fragmentoj orbitas la Teron, minacante aktivajn misiojn kaj kreante kaskadan efikon, kiu povus igi certajn orbitojn neuzeblaj.",
+    "paragraph2": "Orbital Temple traktas ĉi tion laŭ pluraj manieroj:",
+    "list": {
+      "orbit": "<strong>Sunsinkrona orbito je 525 km:</strong> Ĉi tiu alteco certigas, ke natura atmosfera rezisto kaŭzos, ke la satelito reeniros la atmosferon de la Tero post proksimume 10 jaroj, kie ĝi tute forbrulos. Ni ne kontribuas al longdaŭra orbita derompaĵo.",
+      "size": "<strong>Dezajno de PocketQube:</strong> Je nur 50×58×64mm kaj 245g, la satelito estas sufiĉe malgranda por tute vaporiĝi dum reeniro, lasante neniujn derompaĵojn sur la surfaco de la Tero.",
+      "responsibility": "<strong>Neniu planita malnoviĝo:</strong> Male al komercaj satelitoj, kiuj povus esti forlasitaj, Orbital Temple estas desegnita por deorbitiĝi nature, plenumante internaciajn gvidliniojn por respondeca spaca agado."
+    },
+    "paragraph3": "Elektante malaltan Teran orbiton kaj kompaktan dezajnon, ni certigas, ke la ĉeesto de Orbital Temple en la kosmo estas provizora kaj nepoluanta."
+  },
+  "carbonNeutrality": {
+    "heading": "Karbona Neŭtraleco",
+    "content": "Ĉiuj karbonemisioj asociitaj kun Orbital Temple — inkluzive de satelitfabrikado, lanĉo, operacioj de terstacioj, reteja gastigado kaj teamvojaĝoj — estos plene kompensitaj per konfirmitaj karbonkreditaj programoj. Ni estas deciditaj igi ĉi tiun mision klimatneŭtrala."
+  },
+  "openSource": {
+    "heading": "Malfermitkoda aparataro",
+    "paragraph1": "Daŭripovo ankaŭ signifas ne malŝpari scion. Ĉiu teknika aspekto de Orbital Temple — skemoj, kodo, komunikaj protokoloj kaj konstrumetodoj — estos publikigita kiel malfermfonteca dokumentado.",
+    "paragraph2": "Ĉi tio permesas al estontaj misioj konstrui sur nia laboro anstataŭ komenci de nulo, reduktante superfluan esploradon kaj disvolvon. Ĝi demokratiigas aliron al spacteknologio, precipe por komunumoj en la Tutmonda Sudo, kiuj historie estis ekskluditaj de kosmoesplorado."
+  },
+  "educational": {
+    "heading": "Eduka Efiko",
+    "paragraph1": "Nia senpaga plurlingva eduka programo instruas studentojn tutmonde kiel konstrui kaj lanĉi satelitojn, kun fokuso sur la Tutmonda Sudo. Povigante la venontan generacion per spacteknologiaj kapabloj, ni kontribuas al fermo de la \"Spaca Breĉo\" kaj kreado de ŝancoj, kiuj alie ne ekzistus.",
+    "paragraph2": "Ĉi tiu eduka misio estas mem formo de daŭripovo — investante en homojn kaj komunumojn por krei daŭran ŝanĝon preter la vivdaŭro de la satelito."
+  },
+  "tenYear": {
+    "heading": "10-jara misio",
+    "paragraph1": "Orbita Templo estas desegnita por jardek-longa misio, ne por mallonga reklama ŝoko. Dum dek jaroj, la satelito orbitos la Teron proksimume 50 000 fojojn, ricevante nomojn kaj servante kiel memorigilo, ke la spaco povas esti komunaĵo, alirebla por ĉiuj.",
+    "paragraph2": "Post kiam ĝia misio finiĝos, la satelito nature deorbitos kaj forbrulos, lasante neniun spuron krom en la memoroj kaj dokumentado de tiuj, kiuj partoprenis."
+  },
+  "artsResponsibility": {
+    "heading": "La Respondeco de Arto",
+    "paragraph1": "Arto ĉiam estis spegulo de sia tempo, reflektante niajn valorojn kaj aspirojn. En epoko de klimata krizo kaj kreskanta malegaleco, ni kredas, ke artistoj havas respondecon krei verkojn, kiuj ne nur komentas pri ĉi tiuj temoj, sed aktive traktas ilin.",
+    "paragraph2": "Orbita Templo estas nia provo krei artaĵon, kiu estas radikala en sia inkluziveco, respondeca pri sia media efiko, kaj malavara en kunhavigo de sia scio kun la mondo. Ĝi estas arto, kiu invitas ĉiujn partopreni, respektante la delikatajn sistemojn - mediajn kaj orbitajn - kiuj ebligas vivon kaj esploradon."
+  },
+  "imageAlt": "Enorbita Templa Satelito"
+}

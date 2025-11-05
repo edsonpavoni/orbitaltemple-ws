@@ -1,0 +1,16 @@
+{
+  "title": "Phóng tàu vũ trụ - Orbital Temple",
+  "heading": "Phóng tàu vũ trụ",
+  "intro": "Dự kiến, Orbital Temple sẽ được phóng bằng tàu PSLV (Tên lửa đẩy vệ tinh cực) vào ngày 28 tháng 11 năm 2025 từ Trung tâm vũ trụ Satish Dhawan ở Sriharikota, Ấn Độ.",
+  "partnership": "Lễ phóng Orbital Temple là sự hợp tác giữa NewSpace India Limited (NSIL), một công ty thuộc Bộ Không gian của Chính phủ Ấn Độ, Antrix Corporation, và nghệ sĩ. Sự hợp tác này đánh dấu một cột mốc quan trọng cho nghệ thuật khám phá vũ trụ, kết nối chương trình không gian của Ấn Độ với tầm nhìn nghệ thuật về tính bao trùm triệt để.",
+  "risks": {
+    "heading": "Rủi ro",
+    "paragraph1": "Vệ tinh được chế tạo để chịu được điều kiện rung động và chu kỳ nhiệt khắc nghiệt, và đã trải qua quá trình thử nghiệm nghiêm ngặt. Tuy nhiên, việc phóng vệ tinh tiềm ẩn những rủi ro cố hữu. Nếu vệ tinh bị hư hỏng trong quá trình phóng hoặc triển khai, hoặc nếu vệ tinh không thể kết nối với các trạm mặt đất, chúng tôi sẽ nỗ lực khắc phục sự cố và giải quyết mọi vấn đề. Vệ tinh có các hệ thống dự phòng và giao thức dự phòng được thiết kế để tối đa hóa cơ hội thành công của nhiệm vụ.",
+    "paragraph2": "Ngoài ra, vệ tinh có thể ở trên quỹ đạo ít hơn 10 năm nếu điều kiện khí quyển hoặc các yếu tố khác khiến quỹ đạo suy yếu sớm hơn. Mặc dù chúng tôi đã thiết kế để vệ tinh tồn tại ít nhất một thập kỷ, nhưng tuổi thọ thực tế phụ thuộc vào các điều kiện mà chúng tôi không thể kiểm soát hoàn toàn.",
+    "paragraph3": "Nếu lần phóng đầu tiên thất bại hoặc nếu chúng tôi không thể hoàn thành nhiệm vụ này theo kế hoạch, chúng tôi sẽ tìm hiểu những con đường thay thế, có thể bao gồm nỗ lực phóng lần thứ hai với ngân sách khả dụng, hợp tác với các nhiệm vụ khác hoặc ghi lại nỗ lực này như một phần trong câu chuyện về khát vọng và hạn chế của tác phẩm nghệ thuật."
+  },
+  "imageAlts": {
+    "india": "Trung tâm vũ trụ ISRO, Ấn Độ",
+    "satellite": "Vệ tinh Orbital Temple"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Sustentabilitas et Detrita Spatiali - Templum Orbitale",
+  "heading": "Sustentabilitas",
+  "intro": {
+    "paragraph1": "Si ars nos in futurum ducere debet, crises quibus obviam imus — ruinam environmentalem, iniquitatem socialem, et crescentem difficultatem a reliquiis spatialibus — ignorare non potest. Templum Orbitale his rebus in mente designatum est, praesentia responsabilis et in Terra et in orbita praestare propensum.",
+    "paragraph2": "Credimus sustinabilitatem non esse impedimentum sed partem essentialem visionis nostrae artisticae. Omnis de materiis, orbitis, et operationibus sententia nostram ostendit ut et Terram et spatium meliora relinquamus quam ea invenimus."
+  },
+  "spaceDebris": {
+    "heading": "Fragmenta Spatialia",
+    "paragraph1": "Restrictiones spatiales inter gravissimas difficultates explorationis spatialis numerantur. Milia satellitum defunctorum et fragmentorum Terram circumvolant, missiones activas minantes et effectum cascadis creantes qui quasdam orbitas inutiles reddere posset.",
+    "paragraph2": "Orbital Temple hoc pluribus modis tractat:",
+    "list": {
+      "orbit": "<strong>Orbita helium-synchrona ad 525 km:</strong> Haec altitudo efficit ut naturalis resistentia atmosphaerica satellitem intra decem annos circiter atmosphaeram Telluris reingrediatur, ubi omnino comburetur. Non contribuimus ad diuturnam detritionem orbitalem.",
+      "size": "<strong>Designatio PocketQube:</strong> Cum magnitudine tantum 50×58×64mm et pondere 245g, satelles satis parvus est ut omnino vaporizetur dum redit, nullas reliquias in superficie Telluris relinquens.",
+      "responsibility": "<strong>Nulla obsolescentia designata:</strong> Dissimilis satellitibus commercialibus qui fortasse deserendi sunt, Templum Orbitale ita designatum est ut naturaliter de orbita exeat, normas internationales pro actione spatiali responsabili implens."
+    },
+    "paragraph3": "Orbita Telluris humili et consilio compacto electo, efficimus ut praesentia Templi Orbitalis in spatio sit temporaria et non polluens."
+  },
+  "carbonNeutrality": {
+    "heading": "Neutralitas Carbonis",
+    "content": "Omnes emissiones carbonis cum Templo Orbitali coniunctae — inter quas fabricationem satellitum, immissionem, operationem stationum terrestrium, hospitium situs interretialis, et itinera turmae — plene compensabuntur per programmata crediti carbonis verificata. Nobis propositum est hanc missionem climatis neutralem reddere."
+  },
+  "openSource": {
+    "heading": "Apparatus Fontis Aperti",
+    "paragraph1": "Sustentabilitas etiam significat scientiam non dissipandam. Omnis aspectus technicus Templi Orbitalis — schemata, codicem, protocolla communicationis, et modi constructionis — ut documentatio aperta divulgabitur.",
+    "paragraph2": "Hoc permittit missionibus futuris ut opus nostrum augeant potius quam ab initio incipiant, investigationem et progressionem superfluas minuens. Democratizat accessum ad technologiam spatialem, praesertim pro communitatibus in Meridie Globali quae historice ab exploratione spatiali exclusae sunt."
+  },
+  "educational": {
+    "heading": "Impactus Educationis",
+    "paragraph1": "Programma nostrum gratuitum et multilinguum educationis discipulos toto orbe terrarum docet quomodo satellites construant et immittant, praesertim in Meridie Globali. Fortientes generationem futuram peritia technologiae spatialis, contribuimus ad \"Hiatum Spatialem\" claudendum et ad creandas opportunitates quae aliter non existerent.",
+    "paragraph2": "Haec ipsa missio educativa forma est sustinabilitatis—investitio in homines et communitates ad mutationem perpetuam ultra vitam satellitis efficiendam."
+  },
+  "tenYear": {
+    "heading": "Missio Decennalis",
+    "paragraph1": "Templum Orbitale ad decem annos destinatum est, non ad breve spectaculum publicitarium. Per decem annos, satelles Terram circiter quinquagies milia vicibus circumibit, nomina accipiens et quasi admonitio serviens spatium bonum commune esse posse, omnibus accessibile.",
+    "paragraph2": "Postquam missio sua perfecta est, satelles naturaliter ex orbita exibit et comburebitur, nullum vestigium relinquens nisi in memoriis et documentis eorum qui participaverunt."
+  },
+  "artsResponsibility": {
+    "heading": "Artis Officium",
+    "paragraph1": "Ars semper speculum sui temporis fuit, valores nostros et aspirationes reflectens. In aetate discriminis climatis et crescentis inaequalitatis, credimus artifices officium habere creandi opera quae non solum de his rebus commentantur, sed etiam active eas tractent.",
+    "paragraph2": "Templum Orbitale est conatus noster ad creandum opus artis quod sit radicale in sua inclusivitate, responsabile in suo impactu ambientali, et generosum in communicanda sua scientia cum mundo. Ars est quae omnes invitat ad participandum, dum fragilia systemata — ambientalia et orbitalia — quae vitam et explorationem possibilem reddunt, observat."
+  },
+  "imageAlt": "Satellites Orbitalis Templi"
+}

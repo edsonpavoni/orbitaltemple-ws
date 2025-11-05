@@ -1,0 +1,16 @@
+{
+  "title": "I-Space Launch - iTempile ye-Orbital",
+  "heading": "I-Space Launch",
+  "intro": "ITempile ye-Orbital icwangciselwe ukuqaliswa kwi-PSLV (i-Polar Satellite Launch Vehicle) ngoNovemba 28th, 2025 ukusuka kwi-Satish Dhawan Space Centre eSriharikota, eIndiya.",
+  "partnership": "Ukuqaliswa kweTempile ye-Orbital yintsebenziswano phakathi kweNewSpace India Limited (NSIL), iNkampani yoRhulumente waseIndiya phantsi kweSebe leSithuba, i-Antrix Corporation, kunye negcisa. Le ntsebenziswano imele isiganeko esibalulekileyo sobugcisa kuphononongo lwasemajukujukwini, sidibanisa inkqubo yaseIndiya kunye nombono wobugcisa wokubandakanyeka ngokugqibeleleyo.",
+  "risks": {
+    "heading": "Imingcipheko",
+    "paragraph1": "Isathelayithi yakhelwe ukunyamezela iimeko zokungcangcazela okugqithisileyo kunye nemijikelo yobushushu, kwaye iye yavavanywa ngokuqatha. Nangona kunjalo, ukuqaliswa kwe-space kuthwala imingcipheko yendalo. Ukuba i-satellite yonakele ngexesha lokuqaliswa okanye ukuthunyelwa, okanye ukuba iyasilela ukuseka unxibelelwano kunye nezikhululo zethu eziphantsi, siya kusebenza ukulungisa iingxaki kunye nokusombulula nayiphi na imiba. Isathelayithi ineenkqubo ezingafunekiyo kunye neeprothokholi ezigcinayo eziyilelwe ukwandisa amathuba okuphumelela kubuthunywa.",
+    "paragraph2": "Ukongeza, isathelayithi inokuhlala kwi-orbit iminyaka engaphantsi kwe-10 ukuba iimeko ze-atmospheric okanye ezinye izinto zibangela ukubola kwangaphambili kwe-orbital. Ngelixa siyilwe ukuba ihlale iminyaka elishumi ubuncinane, ubomi bokwenene buxhomekeke kwiimeko esingenako ukuzilawula ngokupheleleyo.",
+    "paragraph3": "Ukuba uphehlelelo lokuqala aluphumeleli, okanye ukuba asikwazi ukufezekisa lo msebenzi njengoko bekucwangcisiwe, siya kuphonononga iindlela ezizezinye eziya phambili, ezinokubandakanya umzamo wokuphehlelelwa okwesibini kunye nohlahlo lwabiwo-mali olukhoyo, intsebenziswano nolunye uthumo, okanye amaxwebhu azama njengenxalenye yengxelo yomsebenzi wobugcisa malunga nomnqweno kunye nokunciphisa."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Centre, eIndiya",
+    "satellite": "ISathelayithi yeTempile yeOrbital"
+  }
+}

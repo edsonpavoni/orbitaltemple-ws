@@ -1,0 +1,16 @@
+{
+  "title": "Whakarewa Mokowā - Temepara Orbital",
+  "heading": "Whakarewa mokowhiti",
+  "intro": "Ko te Temepara Orbital kua whakaritea kia whakarewahia i runga i te PSLV (Polar Satellite Launch Vehicle) i te Noema 28th, 2025 mai i te Satish Dhawan Space Center i Sriharikota, Inia.",
+  "partnership": "Ko te whakarewanga o te Orbital Temple he hononga i waenga i te NewSpace India Limited (NSIL), he Kamupene Kawanatanga o Inia i raro i te Tari mokowhiti, Antrix Corporation, me te kaitoi. Ko tenei mahi tahi he tohu nui mo nga mahi toi mo te torotoro mokowhiti, e whakakotahi ana i te kaupapa mokowhiti o Inia me te tirohanga toi o te whakauru tuwhena.",
+  "risks": {
+    "heading": "Nga raruraru",
+    "paragraph1": "I hangaia te amiorangi ki te mau i nga ahuatanga wiri me nga huringa waiariki, a kua whakamatauria e ia. Heoi ano, ko te whakarewatanga o te waahi ka mau i nga tupono. Mena ka pakaru te amiorangi i te wa o te whakarewatanga, te horahanga ranei, ki te kore ranei e whakapumau i te korero ki o maatau teihana whenua, ka mahi matou ki te rapu raru me te whakatau i etahi take. He maha nga punaha me nga tikanga taapiri i hangaia hei whakanui ake i nga tupono o te angitu o te misioni.",
+    "paragraph2": "I tua atu, ka noho pea te amiorangi i roto i te orbit mo te iti iho i te 10 tau mena ka pakaru te orbital i nga ahuatanga o te hau me etahi atu mea. Ahakoa kua hoahoatia e matou kia noho mo te tekau tau neke atu, ko te roanga o te ora ka whakawhirinaki ki nga ahuatanga kaore e taea e taatau te whakahaere katoa.",
+    "paragraph3": "Ki te rahua te whakarewanga tuatahi, ki te kore ranei e taea e matou te whakatutuki i tenei kaupapa i whakaritea, ka tuhurahia e matou etahi atu huarahi whakamua, ka uru pea ki te rua o nga nganatanga whakarewatanga me te putea e waatea ana, te mahi tahi me etahi atu misioni, te tuhinga ranei o te nganatanga hei waahanga o te korero a te mahi toi mo te wawata me te herenga."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, Inia",
+    "satellite": "Orbital Temple Satellite"
+  }
+}

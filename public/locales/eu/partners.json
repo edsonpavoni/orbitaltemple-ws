@@ -1,0 +1,50 @@
+{
+  "title": "Bazkideak - Orbital Temple",
+  "heading": "Bazkideak",
+  "intro": "Orbital Temple bazkide apartekoen eskuzabaltasunari, esperientziari eta ikuspegiari esker existitzen da. Sateliteak diseinatuz hasi eta kontakizunak sortzeraino, lurralde urrunetan ateak irekitzetik hasi eta ametsak urrezko bihurtzeraino, lankidetza bakoitzak tenplu hau izarretara hurbiltzen du.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY eta Bazkideak",
+      "description": "Komunikazioa, esperientzia integratuak eta 3Dko irudi harrigarriak, satelitearen ikuspegia espazioko hutsunea ukitu aurretik bizia eman ziona."
+    },
+    "highestMantra": {
+      "name": "Gure Mantra Gorena",
+      "description": "Sathi Royk zuzenduta, Orbital Temple Indiako komunitate espiritual eta artistikoekin lotzen du. Diru-bilketarako, kultur trukerako eta Art Basel erakusketarako bideak irekitzen ditu 2025eko azaroan estreinatuko denaren ondoren."
+    },
+    "allToSpace": {
+      "name": "Guztiak espaziora.",
+      "description": "Brasilgo satelite txikien espezialistak. Lau urteko lankidetza hardware plataforma ireki bat eraikitzen eta Hegoalde Globaletik artea orbitara bidaltzeko prozesuan aitzindari izaten."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Indiako Espazio Ikerketa Erakundea. PSLV misioaren jaurtiketa hornitzailea, Orbital Temple eguzki-sinkronoko orbitara eramango duena 2025eko azaroan."
+    },
+    "mercosul": {
+      "name": "Mercosurren 13. Biurtekoa",
+      "description": "Porto Alegre, Brasil. Marcello Dantasek komisarioa Laura Cattani, Munir Klamt, Tarsila Riso eta Carollina Lauriano komisario laguntzaileekin."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Tailerra",
+      "description": "Sateliteen garapen taldea II ArtSat Tailerrean sortu zen. Fabiane M. Borges-ek koordinatuta, Lázaro Camargok zuzenduta, Ítalo Pinto Rodrigues-en kolaboratzailea, Walter Abrahão dos Santos-ek gainbegiratuta."
+    },
+    "solidConcepts": {
+      "name": "Kontzeptu sendoak",
+      "description": "Eduardo Diasek zuzenduta. Kupula eskultorikorako 3D inprimaketa eta urrezko mikro-galdaketa lan guztiak egin dira, amets digitalak metal preziatuen errealitate bihurtuz."
+    },
+    "ideaSpace": {
+      "name": "Ideien Gunea",
+      "description": "Brasilgo hezkuntza-startup batek Quebrada Espazio Programaren curriculuma garatzen ari da, Brasilgo batxilergoko ikasleei aplikatzeko prest."
+    }
+  },
+  "closing": "Orbital Temple-rekin lankidetzan aritu nahi duzu? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Jarri gurekin</a> harremanetan.",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners logotipoa",
+    "highestMantra": "Gure Mantra Gorenaren Logoa",
+    "allToSpace": "Guztiak Espaziora Logotipoa",
+    "isro": "ISROren logotipoa",
+    "mercosul": "13. Mercosur Biurtekoaren Logoa",
+    "inpe": "INPE ArtSat Tailerraren logotipoa",
+    "solidConcepts": "Kontzeptu Solidoen Logotipoa",
+    "ideaSpace": "Ideia Espazioaren Logotipoa"
+  }
+}

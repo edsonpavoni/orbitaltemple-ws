@@ -1,0 +1,17 @@
+{
+  "title": "Technesch Informatiounen - Orbitaltempel",
+  "heading": "Technesch Informatiounen",
+  "satellite": {
+    "heading": "Satellit",
+    "specs": "Dimensiounen: 50x58x64 mm<br /> 1P PocketQube<br /> Gewiicht: 245 g<br /> Materialien: Aluminium, Gold, Glasfaser an elektronesch Komponenten.<br /> Ëmlafbunn: Héicht 525 ± 25 km; Inklinatioun: SSO 97,6 ± 0,1°"
+  },
+  "antenna": {
+    "heading": "Antenn/Skulptur",
+    "specs": "Dimensiounen: 6 m (Duerchmiesser) an 1,2 m (Héicht)<br /> Gewiicht: 46 kg<br /> Materialien: Aluminium, Epoxy-Spigelplat, gëllen Aluminiumkuppel, déi un enger Gerüststruktur hänkt."
+  },
+  "radio": {
+    "heading": "Radio Spezifikatioune NASA-Katalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Uruff: Status: PLAN FIR 2025"
+  },
+  "imageAlt": "Technesch Informatiounsdiagramm"
+}

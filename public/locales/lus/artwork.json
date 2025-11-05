@@ -1,0 +1,31 @@
+{
+  "title": "A kutchhuak - Orbital Temple",
+  "heading": "A Artwork chu a ni",
+  "intro": {
+    "paragraph1": "Orbital Temple hi satellite a ni a, artistic mission a nei a: outer space-a hriatrengna hmun, khawvela cheng emaw, awm tawh emaw, sentient being zawng zawng tan hawn a ni.",
+    "paragraph2": "Technology hmang hian tu pawhin Temple-ah mi hming an thawn thei a, chu chu mi boral tawh emaw, mi nung tak tak emaw, hriatreng tlak thil nung eng pawh emaw a ni thei."
+  },
+  "sculpture": {
+    "heading": "A Sculpture chu a ni",
+    "paragraph1": "Artwork hian co-dependent element pathum a nei a: a bik takin hming maktaduai tam tak dahna tura siam satellite; satellite hmanga thu inthlengna vantlang lem; leh website hmanga telte’n hmingte, tun atanga an boral thlenga vanram an thawn theihna tur website a ni bawk.",
+    "paragraph2": "Multidisciplinary endeavor angin Orbital Temple hi site-specific sculpture, inhabiting space anga ngaih theih a ni. Artsat project a ni bawk."
+  },
+  "antenna": {
+    "heading": "Antenna Hi Mipui Lemziak A Ni",
+    "paragraph1": "Outer space nena min thlunzawmtu antenna.",
+    "paragraph2": "Orbital satellite nena direct-a inbiakpawhna nei thei tur antenna siam mek a ni.",
+    "paragraph3": "Rangkachak reflective surface, a chunga van lam hawia lang, mass stimulation (or ‘up there’ nena kan inzawmna) bul tanna a ni.",
+    "paragraph4": "Khawvel hmun tam zawkah sculpture te hi dah a nih loh laiin, tuna satellite control mektu kan Frames from Earth te hian passthrough tinah hming te hi an thawn chhuak zel a ni.",
+    "paragraph5": "He vision hi i khawpuiah rawn thlen pui rawh—space exploration, art, leh cosmos-a kan hmun insem chungchang sawihona tichaktu antenna sculpture dah rawh. <a href=\"/support\">Project thlawp dan tur hi zir belh rawh</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Orbital Temple Satellite hmanga siam a ni",
+    "riseNy": "Rise NY-a Orbital Temple-ah hian a awm a",
+    "installation": "Orbital Temple chu Clara Marques-i siam a ni",
+    "antenna": "Orbital Temple Antenna hmanga siam a ni"
+  },
+  "imageCaptions": {
+    "riseNy": "Thlawhna hmuna Orbital Temple awm. RiseNY&Partners siam 3D rendering a ni.",
+    "mercosul": "Mercosul Biennial-ah Orbital Temple dah a ni a, hei hi Brazil khawpui Porto Alegre-ah a ni.<br> Thlalak hi Clara Marques kutchhuak a ni."
+  }
+}

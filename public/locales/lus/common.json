@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "a artwork chu a ni",
+    "sendAName": "hming thawn rawh",
+    "fromTheArtist": "artist hnen atangin a ni",
+    "yetAnotherTemple": "mahse, biak in dang?",
+    "howItWorks": "a hnathawh dan",
+    "spaceLaunch": "space launch leh risk te pawh a awm thei",
+    "briefHistory": "space-a art chanchin tawi te te",
+    "education": "zirna & open source a ni",
+    "sustainability": "sustainability leh space debris te a ni",
+    "press": "press & media te a ni",
+    "team": "pawl",
+    "partners": "partner te an ni",
+    "support": "rinchhan",
+    "technicalInfo": "technical info a ni"
+  },
+  "ritual": {
+    "label": "ritual tih a ni",
+    "ariaLabel": "Ritual-ah lut rawh - Orbital Temple-ah hming thawn rawh"
+  },
+  "footer": {
+    "credits": "Orbital Temple hi Edson Pavoni kutchhuak a ni a, Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, leh he temple hming thawn chhunzawm zel zawng zawngte thawhhonaa siam a ni."
+  }
+}

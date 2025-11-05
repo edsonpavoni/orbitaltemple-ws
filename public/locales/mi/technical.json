@@ -1,0 +1,17 @@
+{
+  "title": "Nga Korero Hangarau - Te Orbital Temple",
+  "heading": "Nga korero Hangarau",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Rahi: 50x58x64 mm<br /> 1P PocketQube<br /> Teina: 245 gr<br /> Rauemi: konumohe, koura, muka karaihe, me nga waahanga hiko.<br /> Orbit: Te teitei 525 ± 25 kiromita; whakahāngaitanga: SSO 97.6 ± 0.1°<br /> Pūwhakarewa: PSLV (Polar Satellite Launch Vehicle) e whakahaeretia ana e ISRO"
+  },
+  "antenna": {
+    "heading": "Antenna/Whakairo",
+    "specs": "Ahu: 6 m (diameter) e 1.2m (teitei)<br /> Taumaha: 46 kg<br /> Rauemi: konumohe, he papa whakaata epoxy, he konumohe koura konumohe e whakatarewa ana i roto i te hanganga scaffolding."
+  },
+  "radio": {
+    "heading": "Te Reo Irirangi",
+    "specs": "Hononga Raro: 468.5 MHz<br /> Whakatikatika: CSS<br /> Aratuku: TBD"
+  },
+  "imageAlt": "Orbital Temple Satellite"
+}

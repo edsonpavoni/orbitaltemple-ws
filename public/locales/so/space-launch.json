@@ -1,0 +1,16 @@
+{
+  "title": "Daahfurka Hawada - Macbadka Orbital",
+  "heading": "Daahfurka Space",
+  "intro": "Macbadka Orbital waxa loo qorsheeyay in lagu bilaabo PSLV (Gaadhiga Dayax-gacmeedka Polar) ee Noofambar 28-keeda, 2025 laga bilaabo Xarunta Satish Dhawan Space Center ee Sriharikota, India.",
+  "partnership": "Daah-furka Macbadka Orbital waa iskaashi ka dhexeeya NewSpace India Limited (NSIL), Shirkad Dawladeed oo Hindiya hoos timaada Waaxda Hawada, Shirkadda Antrix, iyo farshaxanka. Wadashaqeyntaani waxay ka dhigan tahay guul muhiim ah oo u soo hoyatay fanka sahaminta hawada sare, iyada oo la isu keenayo barnaamijka hawada sare ee Hindiya oo leh aragti farshaxaneed oo ka mid ahaanshaha xagjirka ah.",
+  "risks": {
+    "heading": "Khatarta",
+    "paragraph1": "Dayax gacmeedka waxaa loo dhisay si uu ugu adkeysto xaaladaha gariir ba'an iyo wareegyada kulaylka, waxaana uu maray tijaabo adag. Si kastaba ha ahaatee, soo saarista boosku waxay wataan khataro la taaban karo. Haddii dayax-gacmeedku uu waxyeello gaaro xilliga hawada la dirayo ama la dirayo, ama haddii uu ku guuldareysto inuu xiriir la sameeyo saldhigyadayada dhulka, waxaan ka shaqeyn doonnaa xallinta dhibaatooyinka iyo xallinta wixii dhibaato ah. Dayax gacmeedku waxa uu leeyahay habab aan badnayn iyo hab-maamuus kayd ah oo loogu talagalay in lagu kordhiyo fursadaha guusha hawlgalka.",
+    "paragraph2": "Intaa waxaa dheer, dayax gacmeedku waxa uu ku sii jiri karaa orbit wax ka yar 10 sano haddii xaaladaha jawiga ama arrimo kale ay keenaan suuska orbital hore. In kasta oo aan u qaabaynnay inay sii jirto ugu yaraan toban sano, cimriga dhabta ahi wuxuu ku xiran yahay xaalado aynaan si buuxda u xakameyn karin.",
+    "paragraph3": "Haddii daah furka ugu horreeya uu guul-darrsado, ama haddii aynaan awoodin in aan u fulino howlgalkan sidii loo qorsheeyay, waxaan sahamin doonaa wadooyin kale oo horay loo maro, oo ay ka mid tahay isku dayga bilaabista labaad oo leh miisaaniyad la heli karo, iskaashi lala yeesho howlgallada kale, ama dukumeentiga isku dayga oo qayb ka ah sheeko faneedka ku saabsan hamiga iyo xaddididda."
+  },
+  "imageAlts": {
+    "india": "ISRO Space Center, India",
+    "satellite": "Orbital Temple Satellite"
+  }
+}

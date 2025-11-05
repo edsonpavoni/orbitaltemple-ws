@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "די קונסטווערק",
+    "sendAName": "שיק אַ נאָמען",
+    "fromTheArtist": "פונעם קינסטלער",
+    "yetAnotherTemple": "נאך א בית המקדש?",
+    "howItWorks": "ווי עס ארבעט",
+    "spaceLaunch": "ספעיס לאָנטש און ריזיקעס",
+    "briefHistory": "קורצע געשיכטע פון קונסט אין ספעיס",
+    "education": "בילדונג און אפן קוואל",
+    "sustainability": "נאככאַלטיקייט און פּלאַץ דעבריס",
+    "press": "פּרעסע און מעדיע",
+    "team": "מאַנשאַפֿט",
+    "partners": "פּאַרטנערס",
+    "support": "שטיצע",
+    "technicalInfo": "טעכנישע אינפֿאָרמאַציע"
+  },
+  "ritual": {
+    "label": "ריטואַל",
+    "ariaLabel": "אַרייַן דעם ריטואַל - שיקן אַ נאָמען צו די אָרביטאַל טעמפּל"
+  },
+  "footer": {
+    "credits": "אָרביטאַל המקדש איז אַן אַרטוואָרק פון Edson Pavoni, באשאפן אין מיטאַרבעט מיט Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, און אַלע יענע וואָס פאָרזעצן צו שיקן דעם טעמפּל."
+  }
+}

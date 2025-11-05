@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "home": "Lakay",
+    "sendName": "Voye yon non",
+    "about": "A pwopo"
+  },
+  "ritual": {
+    "label": "rituèl",
+    "ariaLabel": "Antre nan seremoni an - Voye yon non nan Tanp Òbital la"
+  },
+  "footer": {
+    "credits": "Orbital Temple se yon travay atistik Edson Pavoni, ki te kreye an kolaborasyon ak Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, ak tout moun ki kontinye voye non nan tanp sa a."
+  }
+}

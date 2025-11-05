@@ -1,0 +1,17 @@
+{
+  "title": "Macluumaadka Farsamada - Macbadka Orbital",
+  "heading": "Macluumaadka Farsamada",
+  "satellite": {
+    "heading": "Satellite",
+    "specs": "Cabirka: 50x58x64 mm<br /> 1P PocketQube<br /> Miisaanka: 245 g<br /> Qalabka: aluminium, dahab, fiberglass, iyo qaybaha elektarooniga ah.<br /> Orbit: Jooga 525 ± 25 km; u janjeero: SSO 97.6 ± 0.1°"
+  },
+  "antenna": {
+    "heading": "Anteenada/Sculpture",
+    "specs": "Cabirka: 6m (dhexroor) iyo 1.2m (dherer)<br /> Miisaanka: 46 kg<br /> Alaabooyinka: aluminium, looxa muraayada epoxy, qubbad aluminium dahab ah oo laga hakiyay qaab dhismeed."
+  },
+  "radio": {
+    "heading": "Faahfaahinta Raadiyaha NASA-Catalog:",
+    "specs": "TBD Downlink: 437 MHz<br /> Wac: Xaaladda: JADWALKA 2025"
+  },
+  "imageAlt": "Sawirka Macluumaadka Farsamada"
+}

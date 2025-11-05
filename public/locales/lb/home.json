@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Orbitaltempel",
+    "subtitle": "ass e Konschtwierk an e Satellit,\nmat dem Zil en radikal inklusiven Tempel ze sinn,\nop enger Plaz wou keng Mauer erreeche kann."
+  },
+  "ritual": {
+    "label": "Ritual"
+  },
+  "cta": {
+    "link": "Nach en Tempel?",
+    "arrowAlt": "Pfeil"
+  },
+  "dome": {
+    "alt": "Kuppel"
+  }
+}

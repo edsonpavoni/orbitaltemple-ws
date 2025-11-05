@@ -1,0 +1,50 @@
+{
+  "title": "Habɔbɔwo - Orbital Gbedoxɔ",
+  "heading": "Dɔwɔhatiwo",
+  "intro": "Orbital Temple li to dɔmenyonyo, nunya, kple ŋutega si le hadɔwɔla tɔxɛwo si me. Tso mɔ̃ɖaŋununya ƒe satelaitwo dzi va ɖo ŋutinya siwo wowɔ kple asi dzi, tso ʋɔtruwo ʋuʋu le anyigba didiwo dzi va ɖo drɔ̃ekuku le sika me dzi la, nuwɔwɔ aduadu ɖesiaɖe nana gbedoxɔ sia tena ɖe ɣletiviwo ŋu wu.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY&Dɔwɔhatiwo",
+      "description": "Kadodo, nuteƒekpɔkpɔ siwo wotsɔ wɔ ɖekae kple 3D ƒe nɔnɔmetata wɔnuku siwo na satelait la ƒe nukpɔkpɔ gagbɔ agbe hafi wòka asi yamenutome ƒe ƒuƒlu ŋu kpɔ."
+    },
+    "highestMantra": {
+      "name": "Míaƒe Mantra Kɔkɔtɔ kekeake",
+      "description": "Sathi Roy ye nɔ ŋgɔ na wo, eye wotsɔ Orbital Gbedoxɔa do ƒome kple India ƒe gbɔgbɔme kple aɖaŋudɔwo ƒe nutoawo. Mɔ siwo dzi woato aʋu gadodo, dekɔnuwo ƒe asitɔtrɔ, kple Art Basel ƒe ɖeɖefia le November 2025 ƒe gɔmedzedze megbe."
+    },
+    "allToSpace": {
+      "name": "Wo Katã Yi Yamenutome",
+      "description": "Braziltɔwo ƒe satelait suewo ŋuti nunyala bibiwo. Ƒe ene ƒe nuwɔwɔ aduadu le xɔtunuwɔƒe si woate ŋu azã faa tutu kple mɔɖeɖedɔa wɔwɔ le ɖoɖo si wowɔ be woaɖo aɖaŋudɔwo ɖe ɣletinyigba dzi tso Xexeame Katã ƒe Anyiehe."
+    },
+    "isro": {
+      "name": "ISRO ƒe ŋkɔ",
+      "description": "Indiatɔwo ƒe Yamenutome Ŋuti Numekuku Habɔbɔ. Launch provider na PSLV dɔdasi si tsɔ Orbital Temple yi ɣe-synchronous orbit le November 2025 me."
+    },
+    "mercosul": {
+      "name": "Mercosur ƒe Ƒe Eve Ƒe Ƒe 13 lia",
+      "description": "Porto Alegre, si le Brazil, ƒe agbalẽa me. Marcello Dantas ye kpɔ edzi kple nudzraɖoƒedzikpɔla ƒe kpeɖeŋutɔ Laura Cattani, Munir Klamt, Tarsila Riso, kple Carollina Lauriano."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat ƒe Dɔwɔƒe",
+      "description": "Satelait wɔwɔ ƒe ƒuƒoƒo si woɖo le II ArtSat Dɔwɔƒea me. Fabiane M. Borges ye wɔ ɖoɖo ɖe eŋu, Lázaro Camargo ye fia mɔe, Ítalo Pinto Rodrigues ye wɔ dɔ aduadu, Walter Abrahão dos Santos ye kpɔ edzi."
+    },
+    "solidConcepts": {
+      "name": "Nukpɔsusu Sesẽwo",
+      "description": "Eduardo Dias ye nɔ ŋgɔ na wo. 3D tata kple sika micro casting katã wɔa dɔ na kpememe dome la, trɔa dijitaal drɔ̃ewo wozua ga xɔasi ŋutɔŋutɔ."
+    },
+    "ideaSpace": {
+      "name": "Susu ƒe Teƒe",
+      "description": "Braziltɔwo ƒe hehenana gɔmedzedze si le Quebrada Yamenutome Ðoɖowɔɖi ƒe nusɔsrɔ̃ɖoɖoa wɔm, si le klalo be woazãe na sekɛndrisukuviwo le Brazil katã."
+    }
+  },
+  "closing": "Èdi be yeawɔ ɖeka kple Orbital Temple? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Do asi ɖa</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Dɔwɔhatiwo ƒe Logo",
+    "highestMantra": "Míaƒe Mantra Logo Kɔkɔtɔ kekeake",
+    "allToSpace": "Wo katã yi Yamenutome Logo",
+    "isro": "ISRO ƒe dzesi",
+    "mercosul": "Mercosur ƒe Ƒe Eve Ƒe Dzesi 13 lia",
+    "inpe": "INPE ArtSat Dɔwɔƒe ƒe dzesi",
+    "solidConcepts": "Nukpɔsusu Sesẽwo ƒe Logo",
+    "ideaSpace": "Susu ƒe Yamenutome Logo"
+  }
+}

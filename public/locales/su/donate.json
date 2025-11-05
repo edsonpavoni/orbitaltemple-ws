@@ -1,0 +1,31 @@
+{
+  "title": "Sumbang ka Candi Orbital",
+  "heading": "Ngalengkepan Sumbangan Anjeun",
+  "donatingTo": "Anjeun nyumbang ka:",
+  "chooseHow": "Pilih kumaha anjeun hoyong ngalengkepan sumbangan anu dikurangan pajak anjeun:",
+  "option1": {
+    "heading": "Pilihan 1: Sumbang Online Ayeuna",
+    "description": "Lengkepkeun sumbangan anjeun langsung nganggo kartu kiridit, kartu debit, atanapi metode pamayaran online anu sanés ngalangkungan sponsor fiskal aman kami, <strong>The Field</strong> . Anjeun bakal nampi resi pajeg instan.",
+    "button": "Sumbang via The Field →"
+  },
+  "option2": {
+    "heading": "Pilihan 2: Deposit Bank ka Yayasan Roy",
+    "description": "Jieun deposit bank langsung atanapi transfer kawat ka <strong>The Roy Foundation</strong> , mitra strategis urang sareng sponsor fiskal. Pilihan ieu idéal pikeun sumbangan anu langkung ageung atanapi transfer internasional.",
+    "bankingInfo": "Émbaran Perbankan",
+    "fields": {
+      "accountName": "Nami akun:",
+      "bankName": "Ngaran Bank:",
+      "accountNumber": "Nomer akun:",
+      "routingNumber": "Nomer Rute:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Rujukan:"
+    },
+    "instructions": "Mangga lebetkeun &quot; <strong>Orbital Temple - {donationType}</strong> &quot; dina kolom rujukan. Saatos réngsé transfer anjeun, email kami di <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> kalayan detil transfer anjeun pikeun nampi resi pajeg anjeun.",
+    "button": "Taros Kami Ngeunaan Deposit →"
+  },
+  "taxInfo": {
+    "heading": "Pajak-deductible méré",
+    "description": "Orbital Temple mangrupikeun proyék anu disponsoran sacara fiskal <strong>The Field (Performance Zone Inc.)</strong> , organisasi nirlaba <strong>501 (c) (3)</strong> . Sadaya kontribusi AS tiasa dikurangan pajak sajauh anu diidinan ku hukum.",
+    "questions": "Patarosan? Hubungi kami di <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

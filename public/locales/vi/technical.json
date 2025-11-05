@@ -1,0 +1,17 @@
+{
+  "title": "Thông tin kỹ thuật - Orbital Temple",
+  "heading": "Thông tin kỹ thuật",
+  "satellite": {
+    "heading": "Vệ tinh",
+    "specs": "Kích thước: 50x58x64 mm<br /> 1P PocketQube<br /> Trọng lượng: 245 gr<br /> Vật liệu: nhôm, vàng, sợi thủy tinh và linh kiện điện tử.<br /> Quỹ đạo: Độ cao 525 ± 25 km; độ nghiêng: SSO 97,6 ± 0,1°<br /> Tên lửa đẩy: PSLV (Phương tiện phóng vệ tinh cực) do ISRO vận hành"
+  },
+  "antenna": {
+    "heading": "Ăng-ten/Tượng điêu khắc",
+    "specs": "Kích thước: 6 m (đường kính) e 1,2 m (chiều cao)<br /> Cân nặng: 46 kg<br /> Vật liệu: nhôm, tấm gương epoxy, mái vòm nhôm màu vàng treo qua kết cấu giàn giáo."
+  },
+  "radio": {
+    "heading": "Thông số kỹ thuật radio",
+    "specs": "Đường xuống: 468,5 MHz<br /> Điều chế: CSS<br /> Băng thông: TBD"
+  },
+  "imageAlt": "Vệ tinh Orbital Temple"
+}

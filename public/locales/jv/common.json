@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "karya seni",
+    "sendAName": "ngirim jeneng",
+    "fromTheArtist": "saka artis",
+    "yetAnotherTemple": "durung, candhi liyane?",
+    "howItWorks": "cara kerjane",
+    "spaceLaunch": "peluncuran ruang lan risiko",
+    "briefHistory": "sajarah singkat seni ing papan",
+    "education": "pendidikan & open source",
+    "sustainability": "kelestarian lan lebu ruang",
+    "press": "pers & media",
+    "team": "tim",
+    "partners": "mitra",
+    "support": "ndhukung",
+    "technicalInfo": "info teknis"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Ketik ritual - Kirim jeneng menyang Kuil Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple minangka karya seni dening Edson Pavoni, digawe kanthi kolaborasi karo Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy, lan kabeh wong sing terus ngirim jeneng candhi iki."
+  }
+}

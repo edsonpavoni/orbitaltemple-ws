@@ -1,0 +1,17 @@
+{
+  "title": "Technical Info - Orbital Temple ah hian a awm a",
+  "heading": "Technical chungchang hriat tur",
+  "satellite": {
+    "heading": "Satellite hmanga siam a ni",
+    "specs": "A zau zawng: 50x58x64 mm<br /> 1P PocketQube ah a awm<br /> A rih zawng: 245 gr<br /> Thil hman tur: aluminium, rangkachak, fiberglass, leh electronic components te.<br /> Orbit: A san zawng 525 ± 25 km; inclination: SSO 97.6 ± 0.1° a ni<br /> Launcher: PSLV (Polar Satellite Launch Vehicle) chu ISRO-in a enkawl a ni"
+  },
+  "antenna": {
+    "heading": "Antenna/Sculpture hmanga siam a ni",
+    "specs": "A len zawng: 6 m (diameter) e 1.2m (a san zawng)<br /> A rih zawng: 46 kg<br /> Thil hman tur: aluminium, epoxy mirrored board, rangkachak aluminium dome, scaffolding structure hmanga innghat."
+  },
+  "radio": {
+    "heading": "Radio Specs a ni",
+    "specs": "Downlink: 468.5 MHz a ni<br /> Modulation: CSS hmanga siam a ni<br /> Bandwidth: TBD a ni"
+  },
+  "imageAlt": "Orbital Temple Satellite hmanga siam a ni"
+}

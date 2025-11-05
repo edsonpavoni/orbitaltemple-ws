@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "home": "Inicio",
+    "sendName": "Enviar un nome",
+    "about": "Acerca de"
+  },
+  "ritual": {
+    "label": "ritual",
+    "ariaLabel": "Entra no ritual: envía un nome ao Templo Orbital"
+  },
+  "footer": {
+    "credits": "Orbital Temple é unha obra de arte de Edson Pavoni, creada en colaboración con Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Sathi Roy e todos aqueles que seguen enviando nomes a este templo."
+  }
+}

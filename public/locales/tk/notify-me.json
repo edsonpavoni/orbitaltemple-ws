@@ -1,0 +1,13 @@
+{
+  "title": "Duýduryş beriň - Orbital ybadathana",
+  "heading": "Rokarlananda habar beriň",
+  "description": "2025-nji ýylyň 28-nji noýabrynda Orbital ybadathanasy ýokary çykar.<br> E-poçtaňyzy goýuň, boşluga ýetende size habar bereris.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Iber",
+    "sendingButton": "Iberýän ...",
+    "successMessage": "Ol ýokary göterilende size ýeteris.",
+    "errorMessage": "Bir zat nädogry boldy Gaýtadan synanyşmagyňyzy haýyş edýäris."
+  },
+  "backLink": "Count Yzyna gaýdyp geliň"
+}

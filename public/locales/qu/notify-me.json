@@ -1,0 +1,13 @@
+{
+  "title": "Notificasqa kay - Yupaychana Wasi Orbital",
+  "heading": "Hatariptinqa Willasqa kay",
+  "description": "28 ñiqin inti raymi killapi 2025 watapi Orbital Yupaychana Wasi wicharinqa.<br> Correo electrónico nisqaykitaqa saqey, chaypin willasqaykiku espacioman chayaqtin.",
+  "form": {
+    "emailPlaceholder": "qampaq@correo electrónico.com",
+    "sendButton": "Apachiy",
+    "sendingButton": "Kachaspa...",
+    "successMessage": "Wichariptinqa chayasqaykichikmi.",
+    "errorMessage": "Imapas mana allintam pasarqa. Ama hina kaspa, hukmanta kallpachakuy."
+  },
+  "backLink": "← Yupayman kutiy"
+}

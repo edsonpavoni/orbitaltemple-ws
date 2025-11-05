@@ -1,0 +1,44 @@
+{
+  "title": "Cynaliadwyedd a Malurion Gofod - Teml Orbital",
+  "heading": "Cynaliadwyedd",
+  "intro": {
+    "paragraph1": "Os yw celfyddyd i’n harwain i’r dyfodol, ni all anwybyddu’r argyfyngau yr ydym yn eu hwynebu—cwymp amgylcheddol, anghydraddoldeb cymdeithasol, a’r her gynyddol o falurion gofod. Mae Orbital Temple wedi’i gynllunio gyda’r realiti hyn mewn golwg, gyda’r nod o fod yn bresenoldeb cyfrifol ar y Ddaear ac mewn orbit.",
+    "paragraph2": "Credwn nad cyfyngiad yw cynaliadwyedd ond rhan hanfodol o'n gweledigaeth artistig. Mae pob penderfyniad ynghylch deunyddiau, orbitau a gweithrediadau yn adlewyrchu ein hymrwymiad i adael y Ddaear a'r gofod yn well nag y gwnaethom eu canfod."
+  },
+  "spaceDebris": {
+    "heading": "Malurion Gofod",
+    "paragraph1": "Mae malurion gofod yn un o'r heriau mwyaf dybryd sy'n wynebu archwilio'r gofod. Mae miloedd o loerennau a darnau sydd wedi darfod yn cylchdroi'r Ddaear, gan fygwth teithiau gweithredol a chreu effaith rhaeadru a allai wneud rhai orbitau'n anhygyrch.",
+    "paragraph2": "Mae Orbital Temple yn mynd i'r afael â hyn mewn sawl ffordd:",
+    "list": {
+      "orbit": "<strong>Orbit cydamserol yr haul ar 525 km:</strong> Mae&#39;r uchder hwn yn sicrhau y bydd llusgo atmosfferig naturiol yn achosi i&#39;r lloeren ailymuno ag atmosffer y Ddaear o fewn tua 10 mlynedd, lle bydd yn llosgi&#39;n llwyr. Nid ydym yn cyfrannu at falurion orbitol hirdymor.",
+      "size": "<strong>Dyluniad PocketQube:</strong> Dim ond 50 × 58 × 64mm a 245g yw&#39;r lloeren, felly mae&#39;n ddigon bach i anweddu&#39;n llwyr wrth ail-fynediad, heb adael unrhyw falurion ar wyneb y Ddaear.",
+      "responsibility": "<strong>Dim darfodiad wedi&#39;i gynllunio:</strong> Yn wahanol i loerennau masnachol a allai gael eu gadael, mae Orbital Temple wedi&#39;i gynllunio i ddad-orbitio&#39;n naturiol, gan gyflawni canllawiau rhyngwladol ar gyfer gweithgaredd gofod cyfrifol."
+    },
+    "paragraph3": "Drwy ddewis orbit isel o amgylch y Ddaear a dyluniad cryno, rydym yn sicrhau bod presenoldeb Orbital Temple yn y gofod yn dros dro ac nad yw'n llygru."
+  },
+  "carbonNeutrality": {
+    "heading": "Niwtraliaeth Carbon",
+    "content": "Bydd yr holl allyriadau carbon sy'n gysylltiedig ag Orbital Temple—gan gynnwys gweithgynhyrchu lloerennau, lansio, gweithrediadau gorsafoedd daear, cynnal gwefannau, a theithio tîm—yn cael eu gwrthbwyso'n llawn trwy raglenni credyd carbon wedi'u gwirio. Rydym wedi ymrwymo i wneud y genhadaeth hon yn niwtral o ran hinsawdd."
+  },
+  "openSource": {
+    "heading": "Caledwedd Ffynhonnell Agored",
+    "paragraph1": "Mae cynaliadwyedd hefyd yn golygu peidio â gwastraffu gwybodaeth. Bydd pob agwedd dechnegol ar Orbital Temple—sgematigau, cod, protocolau cyfathrebu, a dulliau adeiladu—yn cael ei chyhoeddi fel dogfennaeth ffynhonnell agored.",
+    "paragraph2": "Mae hyn yn caniatáu i deithiau yn y dyfodol adeiladu ar ein gwaith yn hytrach na dechrau o'r dechrau, gan leihau ymchwil a datblygu diangen. Mae'n democrateiddio mynediad at dechnoleg gofod, yn enwedig i gymunedau yn y De Byd-eang sydd wedi cael eu heithrio'n hanesyddol o archwilio gofod."
+  },
+  "educational": {
+    "heading": "Effaith Addysgol",
+    "paragraph1": "Mae ein rhaglen addysgol amlieithog am ddim yn dysgu myfyrwyr ledled y byd sut i adeiladu a lansio lloerennau, gyda ffocws ar y De Byd-eang. Drwy rymuso'r genhedlaeth nesaf gyda sgiliau technoleg gofod, rydym yn cyfrannu at gau'r \"Bwlch Gofod\" a chreu cyfleoedd na fyddent yn bodoli fel arall.",
+    "paragraph2": "Mae'r genhadaeth addysgol hon ynddi ei hun yn fath o gynaliadwyedd—buddsoddi mewn pobl a chymunedau i greu newid parhaol y tu hwnt i oes y lloeren."
+  },
+  "tenYear": {
+    "heading": "Cenhadaeth 10 Mlynedd",
+    "paragraph1": "Mae Orbital Temple wedi'i gynllunio ar gyfer cenhadaeth ddegawd o hyd, nid stynt cyhoeddusrwydd byr. Dros ddeng mlynedd, bydd y lloeren yn cylchdroi'r Ddaear tua 50,000 o weithiau, gan dderbyn enwau a gwasanaethu fel atgof y gall gofod fod yn gyffredin, hygyrch i bawb.",
+    "paragraph2": "Ar ôl i'w genhadaeth ddod i ben, bydd y lloeren yn dad-orbitio'n naturiol ac yn llosgi i fyny, heb adael unrhyw olion ac eithrio yng nghofion a dogfennaeth y rhai a gymerodd ran."
+  },
+  "artsResponsibility": {
+    "heading": "Cyfrifoldeb y Celfyddydau",
+    "paragraph1": "Mae celfyddyd wedi bod yn ddrych o'i hamser erioed, gan adlewyrchu ein gwerthoedd a'n dyheadau. Mewn oes o argyfwng hinsawdd ac anghydraddoldeb cynyddol, credwn fod gan artistiaid gyfrifoldeb i greu gwaith sydd nid yn unig yn gwneud sylwadau ar y materion hyn ond sy'n mynd i'r afael â nhw'n weithredol.",
+    "paragraph2": "Teml Orbitol yw ein hymgais i greu gwaith celf sy'n radical yn ei gynhwysiant, yn gyfrifol yn ei effaith amgylcheddol, ac yn hael wrth rannu ei wybodaeth gyda'r byd. Mae'n gelfyddyd sy'n gwahodd pawb i gymryd rhan wrth barchu'r systemau bregus—amgylcheddol ac orbitol—sy'n gwneud bywyd ac archwilio'n bosibl."
+  },
+  "imageAlt": "Lloeren Orbital Temple"
+}

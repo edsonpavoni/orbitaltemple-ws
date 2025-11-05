@@ -1,0 +1,50 @@
+{
+  "title": "Tərəfdaşlar - Orbital Məbədi",
+  "heading": "Tərəfdaşlar",
+  "intro": "Orbital Məbədi qeyri-adi tərəfdaşların səxavəti, təcrübəsi və görmə qabiliyyəti ilə mövcuddur. Mühəndislik peyklərindən sənətkarlıq hekayələrinə, uzaq ölkələrdə qapıların açılmasından xəyalların qızıla dökülməsinə qədər, hər bir əməkdaşlıq bu məbədi ulduzlara yaxınlaşdırır.",
+  "partners": {
+    "riseNy": {
+      "name": "RiseNY & Partners",
+      "description": "Rabitə, inteqrasiya edilmiş təcrübələr və heyrətamiz 3D təsvirlər peykin kosmos boşluğuna toxunmamışdan əvvəl onun görmə qabiliyyətini canlandırdı."
+    },
+    "highestMantra": {
+      "name": "Ən Yüksək Mantramız",
+      "description": "Orbital Məbədini Hindistanın mənəvi və bədii icmaları ilə birləşdirən Sathi Roy tərəfindən idarə olunur. Noyabr 2025-ci ilin açılışından sonra fandreyzinq, mədəni mübadilə və Art Bazel sərgisinə yollar açılır."
+    },
+    "allToSpace": {
+      "name": "Hamısı Kosmosa",
+      "description": "Braziliyalı kiçik peyk mütəxəssisləri. Açıq mənbəli aparat platformasının qurulması və Qlobal Cənubdan orbitə incəsənətin göndərilməsi prosesinə öncülük edən dörd illik əməkdaşlıq."
+    },
+    "isro": {
+      "name": "ISRO",
+      "description": "Hindistan Kosmik Tədqiqatlar Təşkilatı. 2025-ci ilin noyabrında Orbital Məbədi günəşlə sinxron orbitə daşıyan PSLV missiyası üçün provayderi işə salın."
+    },
+    "mercosul": {
+      "name": "13-cü Merkosur Biennali",
+      "description": "Porto Alegre, Braziliya. Kurator köməkçiləri Laura Cattani, Munir Klamt, Tarsila Riso və Carrollina Lauriano ilə Marcello Dantas tərəfindən hazırlanmışdır."
+    },
+    "inpe": {
+      "name": "INPE / ArtSat Workshop",
+      "description": "Peyk inkişaf qrupu II ArtSat Seminarı zamanı formalaşmışdır. Fabiane M. Borges tərəfindən əlaqələndirilir, Lázaro Camargo tərəfindən təlimat verilir, Ítalo Pinto Rodrigues tərəfindən əməkdaşlıq edilir, Valter Abrahão dos Santos tərəfindən idarə olunur."
+    },
+    "solidConcepts": {
+      "name": "Bərk Konseptlər",
+      "description": "Eduardo Dias rəhbərlik edir. Bütün 3D çap və qızılı mikro tökmə rəqəmsal xəyalları qiymətli metal reallığa çevirərək heykəltəraşlıq günbəzi üçün işləyir."
+    },
+    "ideaSpace": {
+      "name": "İdeya Məkanı",
+      "description": "Quebrada Kosmik Proqramı kurikulumunu inkişaf etdirən Braziliya təhsil startapı bütün Braziliyada orta məktəb şagirdlərinə tətbiq olunmağa hazırdır."
+    }
+  },
+  "closing": "Orbital Temple ilə əməkdaşlıq etmək istəyirsiniz? <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">Uzatmaq</a> .",
+  "imageAlts": {
+    "riseNy": "RiseNY&Partners Loqotipi",
+    "highestMantra": "Ən Yüksək Mantra Loqomuz",
+    "allToSpace": "Hamısı Kosmosa Loqo",
+    "isro": "ISRO Loqotipi",
+    "mercosul": "13-cü Mercosur Biennalının Loqosu",
+    "inpe": "INPE ArtSat Workshop loqosu",
+    "solidConcepts": "Solid Concepts Logosu",
+    "ideaSpace": "Idea Space Loqotipi"
+  }
+}

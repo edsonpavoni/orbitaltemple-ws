@@ -1,0 +1,17 @@
+{
+  "title": "Fiosrachadh Teicnigeach - Teampall Orbital",
+  "heading": "Fiosrachadh Teicnigeach",
+  "satellite": {
+    "heading": "Saideal",
+    "specs": "Meudan: 50x58x64 mm<br /> 1P PocketQube<br /> Cuideam: 245g<br /> Stuthan: alùmanum, òr, fiberglass, agus co-phàirtean dealanach.<br /> Orbit: Àirde 525 ± 25 km; claonadh: SSO 97.6 ± 0.1°<br /> Lannsair: PSLV (Carbad Lannsair Saideal Polar) air a ruith le ISRO"
+  },
+  "antenna": {
+    "heading": "Antenna/Dealbh-dhealbh",
+    "specs": "Meudan: 6 m (trast-thomhas) agus 1.2m (àirde)<br /> Cuideam: 46 kg<br /> Stuthan: alùmanum, bòrd sgàthan epocsa, cruinneach alùmanum òrail crochte tro structar sgafaill."
+  },
+  "radio": {
+    "heading": "Sònrachaidhean Rèidio",
+    "specs": "Ceangal sìos: 468.5 MHz<br /> Modúlachadh: CSS<br /> Leud-bann: Ri dhearbhadh"
+  },
+  "imageAlt": "Saideal Teampall Orbital"
+}

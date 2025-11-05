@@ -1,0 +1,61 @@
+{
+  "title": "Foireann - Teampall Fithiseach",
+  "heading": "Foireann",
+  "artist": "Edson Pavoni, ealaíontóir",
+  "roles": {
+    "executiveProducer": {
+      "heading": "Léiritheoir Feidhmiúcháin",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "Innealtóireacht Aeraspáis & Córas",
+      "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
+    },
+    "electronic": {
+      "heading": "Innealtóireacht Leictreonach",
+      "members": "André Bigioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Bogearraí",
+      "members": "Jonathan Cherubina"
+    },
+    "design": {
+      "heading": "Dearadh agus Ailtireacht",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Priontáil 3D",
+      "members": "Coincheapa Soladacha, faoi cheannaireacht Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Rindreáil 3T",
+      "members": "Guilherme Bullejos & RiseNy&Comhpháirtithe"
+    },
+    "research": {
+      "heading": "Taighde",
+      "members": "Roberta Savian Rosa & Clara Marques"
+    },
+    "exhibition": {
+      "heading": "Léiriú Taispeántais, Grianghrafadóireacht & Cruthú Ábhair",
+      "members": "Clara Marques"
+    },
+    "silkScreen": {
+      "heading": "Scagadh Síoda an Taispeántais",
+      "members": "Daphne Alves"
+    },
+    "educational": {
+      "heading": "Tionscadal Oideachais",
+      "members": "Spás Idea"
+    },
+    "communication": {
+      "heading": "Foireann Cumarsáide",
+      "members": "Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Buíochas Speisialta",
+      "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Tavail Vidigal, Andre Holzmeister Cairo, Conceitos Solidos, RiseNY&Partners, IdeaSpace",
+  "imageAlt": "Satailít Teampaill Fhithiseach"
+}

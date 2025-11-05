@@ -1,0 +1,138 @@
+{
+  "title": "Presse & Media - Tempelo ya Orbital",
+  "heading": "Presse & Media",
+  "pressContact": {
+    "heading": "Finá na Contact",
+    "content": "Mpo na mituna ya bapanzi sango, masolo, mpe masengi ya bapanzi sango:<br /> <strong>Email:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Site Internet:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Na ntina na Projet",
+    "paragraph1": "Orbital Temple ezali mosala ya ntɔki mpe satellite oyo ezali na mokano ya kozala tempelo oyo esangisi bato nyonso, etongami esika oyo bifelo moko te ekoki kokóma. Esalemi na artiste brésilien Edson Pavoni, artiste sima ya Memorial ya Inumeráveis oyo ekomaki na 1 sur chaque 6 Brésilien na tango ya pandemie ya COVID, projet ebengisi bato ya mokili mobimba batinda kombo ya mutu oyo balingi ba rappeler. Bankombo yango etindamaka na satellite oyo ezali na orbite, mpe yango esalaka ete ezala ekaniseli ya bato nyonso.",
+    "paragraph2": "Na nzela ya site Internet oyo ezali na minɔkɔ 136, bato oyo bakosala yango basalaka molulu ya sika. Tempelo ya Orbital etalaka mitó ya makambo ya bosangisi, bokundoli, mpe bomoto na biso ya kokabola, kotuna mpo na nini tempelo moko te ya mosuni na Mabele ekoki solo koyamba moto nyonso, mpe kopesa likanisi ya esika lokola esika se moko wapi bosangisi ya radical ekoki kozala."
+  },
+  "aboutArtist": {
+    "heading": "Na ntina na Artiste",
+    "paragraph1": "<strong>Edson Pavoni</strong> azali moyemi ya Brésil oyo mobembo na ye ebandaki na balabala ya São Paulo, esika wapi contexte ya bobola mpe mobulu nde ebongisaki bambula na ye ya ebandeli. Na mboka oyo boklisto epesaki nzela mosika na babalabala, bangi, mpe mobulu, Pavoni azwaki ekimelo na kondima, motó ya likambo oyo na nsima, ntango akokóma motyoli ya kobebisama ya lingomba, ekoyebisa momeseno na ye ya ntɔki.",
+    "paragraph2": "Na 2020, na tango ya pandemie ya COVID-19, Pavoni asala <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (innumerable)</a></strong> , oeuvre d’art na intersection ya art na journalisme. Projet yango etunaki bankoto ya mabota mpe ekomaki masolo ya baye babungisaki na pandemie, kosala esika wapi bokundoli elekaki mituya mpe mituya. Bapowɛti, banzembo mpe ba symphonies esalemaki na masolo yango. Bazulunalo basalaki ba couvertures na kosaleláká bankombo mpe masolo ya kala. Ba stars nionso ya Brésil lokola Fernanda Torres oyo a gagnaki Oscar, mpe ba stars lokola Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo na Lazaro Ramos, mpe basusu mingi batangaki masolo wana na télévision nationale. Mosala yango ekómaki na bato milio 32, moko kati na mikóló minei ya Brésil. Ekómaki réseau ya kobikisa, monument collectif ya mémoire.",
+    "paragraph3": "Nsima ya masolo koleka nkóto zomi na mawa, motindo moko ebimaki: ntango tozali kolobela moto oyo akufi, toponaka biteni ya lisolo na bango lokola nde tozali kokoma mokanda ya toli epai ya mokɛngɛli ya porte ya paradiso. Tosalaka nyonso mpo na kotinda bango na oyo tondimi ete ezali lola. Mosala oyo ebimisaki bososoli ya sika: Bindimeli na biso na ntina na nani abongi na lola ebongisaka mbala moko nani tondimi to tolongolaka na Mabelé. Ba colonisateurs portugais na Brésil bazalaki kondima que ba Noirs bazali na milimo te; bindimeli yango elongisaki kozala boombo. Soki ozalaki autochtone, soki obotamaki na esika ya mabe to olingaki mutu ya mabe, balobi na yo kaka, tii lelo, ba portes ya lola ekangamaki pona yo. Ezali na emonaneli moko ya mikolo mizali koya oyo etondisami te na koboya?",
+    "paragraph4": "Yango nde ndenge Orbital Temple ebotamaki."
+  },
+  "keyFacts": {
+    "heading": "Makambo ya ntina",
+    "artist": "<strong>Mosali ya mayele:</strong> Edson Pavoni (Brésil)",
+    "projectType": "<strong>Lolenge ya projet:</strong> Artwork ya satellite, site-specifique na espace, rituel basé na web",
+    "launchDate": "<strong>Mokolo ya kobanda:</strong> 28 Novɛmbɛ 2025",
+    "launchLocation": "<strong>Esika ya bobandi:</strong> Centre spatial Satish Dhawan, Sriharikota, Inde (ISRO)",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbite:</strong> 525km ya altitude, Moyi-synchrone",
+    "participation": "<strong>Kosangana:</strong> Ofele, polele mpo na moto nyonso na mokili mobimba",
+    "namesSent": {
+      "heading": "<strong>Bankombo oyo etindami na Orbite:</strong>",
+      "caption": "<em>Motango ya bomoi ezongisami sika uta na base de données • Ezongisami sika ya suka: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Ba Prix & Reconnaissance",
+    "mercosul": {
+      "title": "<strong>13e Biennale ya Mercosur</strong> (2022)",
+      "location": "Porto Alegre, na Brésil",
+      "curator": "Ebongisami na Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Prix Lumen 2022 - Prix ya ba futurs</strong>",
+      "status": "Ezali na liste ya molai"
+    },
+    "cubeDesign": {
+      "title": "<strong>Momekano ya CubeDesign 2021</strong>",
+      "award": "Molongi - Catégorie ya ArtSat",
+      "org": "Etombolami na Institut brésilien ya bolukiluki ya spatial (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Ekipe",
+    "content": "Temple orbital esalemi na boyokani na Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, mpe baoyo nyonso bazali kokoba kopesa makanisi mpo na bankombo mpo na tempelo oyo."
+  },
+  "pressCoverage": {
+    "heading": "Emonisami Na / Couverture ya Presse",
+    "paragraph1": "<em>Bakobakisama ya bapanzi-nsango mpe makambo mosusu ntango ekokóma. Pona ba mises à jour ya sika, benga équipe na biso ya presse.</em>",
+    "paragraph2": "Ba expositions mpe ba features ya kala ezali na ba présentations na 13e Bienal ya Mercosul, reconnaissance na Prix Lumen, mpe pona institut brésilien ya recherche spatiale (INPE)."
+  },
+  "images": {
+    "heading": "Bililingi ya résolution ya likolo mpo na kosalela na ba presse",
+    "intro": "Bililingi nyonso ezali mpo na kosalelama na ba éditorial. Finá elilingi nyonso mpo na kozwa fisyé oyo ezali na résolution makasi.",
+    "installationPhotos": {
+      "heading": "Bafɔtɔ ya Tempelo ya Orbital",
+      "credit": "Svp crédit: \"Foto ya Clara Marques / Na ndingisa ya Edson Pavoni, Temple Orbital\".",
+      "view01": "Botali ya botiami 01<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (1,4 MB) Ezali na ba mbongo mingi.",
+      "view02": "Botali ya botiami 02<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (2,9 MB) Ezali na ba mbongo mingi.",
+      "view03": "Botali ya botiami 03<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (11 MB) Ezali na ba mbongo mingi.",
+      "view04": "Botali ya botiami 04<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (3,4 MB) Ezali na ba mbongo mingi.",
+      "view05": "Botali ya botiami 05<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (3,3 MB) Ezali na ba mbongo mingi.",
+      "view06": "Botali ya botiami 06<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (3,7 MB) Ezali na ba mbongo mingi.",
+      "view07": "Botali ya botiami 07<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (3,4 MB) Ezali na ba mbongo mingi.",
+      "view08": "Botali ya botiami 08<br /> Fɔtɔ́: Clara Marques, oyo azali na mbongo mingi<br /> ↓ Télécharger High-Res (2,7 MB) Ezali na ba mbongo mingi.",
+      "satelliteDesign": "Design ya satellite<br /> ↓ Télécharger",
+      "antennaSculpture": "Antenne/Ekeko ya mayemi<br /> ↓ Télécharger"
+    },
+    "renders": {
+      "heading": "Tempelo Orbital Ezali kosala",
+      "credit": "Ba rendu 3D conceptuels ya Temple Orbital. Svp crédit: \"Rendu 3D ya RiseNY&Partners / Na ndingisa ya Edson Pavoni, Temple Orbital\".",
+      "render01": "Bosalisi ya 3D 01<br /> RiseNY&amp;Ba partenaires<br /> ↓ Télécharger High-Res (10 MB) Ezali na ba mbongo mingi.",
+      "render02": "Bosalisi ya 3D 02<br /> RiseNY&amp;Ba partenaires<br /> ↓ Télécharger High-Res (5,9 MB) Ezali na ba mbongo mingi.",
+      "render03": "Bosalisi ya 3D 03<br /> RiseNY&amp;Ba partenaires<br /> ↓ Télécharger High-Res (5,2 MB) Ezali na ba mbongo mingi.",
+      "render04": "Bosalisi ya 3D 04<br /> RiseNY&amp;Ba partenaires<br /> ↓ Télécharger High-Res (11 MB) Ezali na ba mbongo mingi.",
+      "render05": "Bosalisi ya 3D 05<br /> RiseNY&amp;Ba partenaires<br /> ↓ Télécharger High-Res (13 MB) Ezali na ba mbongo mingi."
+    },
+    "artistPhotos": {
+      "heading": "Ba Photos ya Artiste",
+      "photo1": "Fɔtɔ́ 1. Ezali na ntina te<br /> ↓ Télécharger High-Res",
+      "photo2": "Fɔtɔ́ 2. Ezali na ntina te<br /> ↓ Télécharger High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Ba photos ya Sathi Roy",
+      "photo1": "Fɔtɔ́ 1. Ezali na ntina te<br /> ↓ Télécharger haute-res (843 KB)",
+      "photo2": "Fɔtɔ́ 2. Ezali na ntina te<br /> ↓ Télécharger High-Res (1,8 MB) Ezali na ba mbongo mingi."
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Makambo oyo etali makambo ya tekiniki",
+    "satellite": {
+      "heading": "Satellite oyo esalemi",
+      "dimensions": "Bolai na yango: 50 x 58 x 64 mm",
+      "classification": "Bokabolami: 1P PocketQube",
+      "weight": "Kilo: 245g",
+      "materials": "Biloko oyo basalelaka: Aluminium, wolo, fibre de verre, biloko ya elektroniki",
+      "orbit": "Orbite: Bolai 525 ± 25 km; Bokeseni: SSO 97,6 ± 0,1°",
+      "launch": "Lancement: 28 novembre 2025 na nzela ya ISRO, Inde"
+    },
+    "antenna": {
+      "heading": "Antenne/Ekeko ya mayemi",
+      "dimensions": "Dimensions: 6m diamètre x 1,2m ya bosanda",
+      "weight": "Kilo: 46 kg",
+      "materials": "Biloko oyo basalelaka: Aluminium, etanda oyo ezali na talatala na epoxy, dôme ya aluminium ya wolo oyo ekangami na nzela ya structure ya échafaudage"
+    },
+    "radio": {
+      "heading": "Makambo oyo etali radio",
+      "downlink": "Lien ya nse: 437 MHz",
+      "status": "Ezalela ya lancement: Esengelaki kosalema le 28 novembre 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Makoki ya kobakisa",
+    "artwork": "→ Tala mikanda ya misala ya ntɔki",
+    "howItWorks": "→ Ndenge Esalaka",
+    "technicalInfo": "→ Basango ya tekiniki",
+    "spaceLaunch": "→ Basango ya bobandi ya esika",
+    "ritual": "→ Bokutana na Molulu yango"
+  },
+  "imageAlts": {
+    "installation": "Installation ya Temple orbital na Edson Pavoni",
+    "satelliteDesign": "Design ya satellite ya tempelo orbital",
+    "antenna": "Sculpture ya Antena ya Temple Orbital",
+    "render": "Tempelo orbital 3D rendu na RiseNY&Partners",
+    "edsonPortrait": "Edson Pavoni Ezali na elilingi",
+    "sathiPortrait": "Portrait ya Sathi Roy",
+    "lumenPrize": "Prix ya Lumen",
+    "mercosulBienal": "Mercosur Biennale ya mbula mibale"
+  }
+}

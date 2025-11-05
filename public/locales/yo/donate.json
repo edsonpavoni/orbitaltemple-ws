@@ -1,0 +1,31 @@
+{
+  "title": "Ṣetọrẹ si tẹmpili Orbital",
+  "heading": "Pari Ẹbun Rẹ",
+  "donatingTo": "O nṣe itọrẹ si:",
+  "chooseHow": "Yan bi o ṣe fẹ lati pari ẹbun ti a yọkuro owo-ori rẹ:",
+  "option1": {
+    "heading": "Aṣayan 1: Ṣetọrẹ lori Ayelujara Bayi",
+    "description": "Pari ẹbun rẹ lẹsẹkẹsẹ nipa lilo kaadi kirẹditi, kaadi debiti, tabi awọn ọna isanwo ori ayelujara miiran nipasẹ onigbowo inawo ti o ni aabo wa, <strong>Aaye naa</strong> . Iwọ yoo gba iwe-ori owo-ori lẹsẹkẹsẹ.",
+    "button": "Ṣetọrẹ nipasẹ aaye →"
+  },
+  "option2": {
+    "heading": "Aṣayan 2: Idogo Bank si Roy Foundation",
+    "description": "Ṣe idogo idogo taara tabi gbigbe waya si <strong>The Roy Foundation</strong> , alabaṣepọ ilana wa ati onigbowo inawo. Aṣayan yii jẹ apẹrẹ fun awọn ẹbun nla tabi awọn gbigbe ilu okeere.",
+    "bankingInfo": "Ile-ifowopamọ Alaye",
+    "fields": {
+      "accountName": "Orukọ akọọlẹ:",
+      "bankName": "Orukọ Banki:",
+      "accountNumber": "Nọmba ifowopamọ:",
+      "routingNumber": "Nọmba ipa ọna:",
+      "swift": "SWIFT/BIC:",
+      "reference": "Itọkasi:"
+    },
+    "instructions": "Jọwọ fi &quot; <strong>Temple Orbital - {donationType}</strong> &quot; sinu aaye itọkasi. Lẹhin ipari gbigbe rẹ, fi imeeli ranṣẹ si wa ni <a href=\"mailto:sathi.roy@orbitaltemple.art\">sathi.roy@orbitaltemple.art</a> pẹlu awọn alaye gbigbe rẹ lati gba owo-ori rẹ.",
+    "button": "Kan si Wa Nipa Idogo →"
+  },
+  "taxInfo": {
+    "heading": "Tax-Deductible Fifun",
+    "description": "Temple Orbital jẹ iṣẹ akanṣe onigbowo inawo ti <strong>The Field (Performance Zone Inc.)</strong> , <strong>501 (c) (3)</strong> agbari ti kii ṣe ere. Gbogbo awọn ifunni AMẸRIKA jẹ idinku owo-ori si iye ti ofin gba laaye.",
+    "questions": "Awọn ibeere? Kan si wa ni <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a>"
+  }
+}

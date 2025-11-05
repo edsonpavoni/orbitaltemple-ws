@@ -1,0 +1,43 @@
+{
+  "title": "Menntun og opinn hugbúnaður - Orbital Temple",
+  "heading": "Menntun og opinn hugbúnaður",
+  "intro": {
+    "paragraph1": "Öll tækni sem þróuð verður fyrir Orbital Temple verkefnið verður <strong>opinn hugbúnaður</strong> og aðgengileg á netinu á <strong>portúgölsku</strong> , <strong>ensku</strong> , <strong>spænsku</strong> og <strong>hindí</strong> , sem ýtir undir framfarir geimkönnunar á <strong>Suðurhveli jarðar</strong> . Ný verkefni og verkefni geta notað Orbital Temple sem grunn að eigin listrænum eða vísindalegum tilraunum.",
+    "paragraph2": "Sem hluti af fræðslumarkmiði sínu mun Orbital Temple bjóða upp á ókeypis fjöltyngt námskeið um smíði og skjóta upp gervihnetti. Þetta verður verklegt tækifæri til að læra um gervihnattatækni og beita henni í framkvæmd. Allir eldri en <strong>16</strong> ára geta smíðað sinn eigin gervihnött, lært um listasögu geimsins, grundvallarhugtök rafeindatækni, aflfræði og geimvísindi, þar á meðal hvernig á að fjármagna verkefni og hvernig á að smíða loftnet til að eiga samskipti við gervihnetti á braut um jörðu."
+  },
+  "spaceGap": {
+    "heading": "Af hverju þetta skiptir máli: Rýmisbilið",
+    "paragraph1": "Hugtakið <strong>„geimbil“</strong> vísar til bilsins milli þróaðra ríkja sem hafa aðgang að tæknilegum tækifærum sem fást með geimkönnun og þróunarríkja sem skortir aðgang að þessari tækni. Lönd á suðurhveli jarðar verða að greiða verulegar fjárhæðir til erlendra stjórnvalda eða fyrirtækja fyrir grunnaðgang að upplýsingum sem framleiddar eru með gervihnattatækni.",
+    "paragraph2": "Geimtækni býður upp á mikilvæga kosti: gervihnettir hjálpa til við að berjast gegn ólöglegu skógarhöggi, ólöglegum fiskveiðum og ólöglegum viðskiptum með villt dýr, sem nema meira en <strong>73 milljörðum Bandaríkjadala á ári</strong> . Þeir veita nauðsynlegar upplýsingar um loftslag, vatnsframleiðslu og matvælaöryggi. Gervihnettir gera kleift að nota nákvæma áveitu og landbúnaðartækni og hjálpa til við að koma í veg fyrir náttúruhamfarir. Geimferðageirinn gæti skapað allt að <strong>1 milljón störf</strong> fyrir <strong>árið 2030</strong> , en þessi tækifæri eru enn óaðgengileg mörgum á Suðurhveli jarðar.",
+    "paragraph3": "Með því að bjóða upp á opna tækni og menntun stefnum við að því að lýðræðisvæða aðgang að geimnum og styrkja nýja kynslóð til að dreyma lengra en himininn."
+  },
+  "empowering": {
+    "heading": "Að styrkja næstu kynslóð",
+    "intro": "Við munum kenna næstu kynslóð geimfara hvernig á að smíða og skjóta á loft eigin gervihnetti, þar á meðal:",
+    "topics": {
+      "history": "<strong>Listasaga í geimnum:</strong> Að skilja ætterni listrænna gervihnatta og listaverka í geimnum.",
+      "concepts": "<strong>Kjarnahugtök:</strong> <strong>ArtSat</strong> (listrænir gervihnettir), <strong>opinn</strong> geimtækni og <strong>geimbilið</strong> .",
+      "missions": "<strong>Geimleiðangrar:</strong> Hvernig á að hugmynda og hanna leiðangur og hvernig á að mynda teymi til að framkvæma hann.",
+      "electronics": "<strong>Rafmagnstækni í geimnum:</strong> Grundvallarhugtök um rafeindabúnað sem getur lifað af og virkað í geimnum.",
+      "mechanics": "<strong>Vélfræði í geimnum:</strong> Að skilja byggingar- og vélrænar kröfur fyrir hönnun gervihnatta.",
+      "orbits": "<strong>Brautarbrautir og geimskotar:</strong> Mismunandi gerðir af brautum og hvernig á að velja geimskotaraðila fyrir verkefnið þitt.",
+      "financing": "<strong>Fjármögnunaraðferðir:</strong> Hvernig á að tryggja fjármagn og úrræði til að skjóta upp gervihnött. Námskeiðið mun veita úrræði til að afla fjármagns fyrir geimskotið og hjálpa nemendum að finna námsstyrki og styrki frá alþjóðlegum stofnunum sem styðja unga vísindamenn og nemendur við að senda gervihnött út í geim.",
+      "groundStation": "<strong>Þróun jarðstöðva:</strong> Hvernig á að smíða loftnet til að eiga samskipti við Orbital Temple og önnur gervihnetti."
+    }
+  },
+  "technology": {
+    "heading": "Tæknin: PocketQube gervitungl",
+    "paragraph1": "Nemendur munu læra að vinna með <strong>PocketQube</strong> gervihnetti, nanógervihnöttum sem eru aðeins <strong>5 cm³</strong> að stærð og vega allt að <strong>250 g</strong> . Þrátt fyrir smæð sína eru PocketQube öflug tæki sem geta notað jarðathuganir, eftirlit og samskipti.",
+    "paragraph2": "Þessir litlu gervihnettir hafa fjölmörg raunveruleg notkunarsvið, allt frá vísindarannsóknum á loftslagsbreytingum til samskipta milli heimsálfa. Þar sem þeir eru minni og léttari eru þeir hagkvæmari í smíði og geimskoti, sem gerir geiminn aðgengilegri fyrir nemendur, vísindamenn og listamenn um allan heim."
+  },
+  "globalAccess": {
+    "heading": "Alþjóðleg aðgangur, byrjandi frá suðrinu",
+    "paragraph1": "Námskeiðið verður aðgengilegt öllum <strong>16 ára og eldri</strong> , alveg <strong>ókeypis</strong> . Við byrjum með efni á <strong>portúgölsku</strong> , <strong>spænsku</strong> , <strong>ensku</strong> og <strong>hindí</strong> , og stefnum að því að stækka það á fleiri tungumál eftir því sem námið vex.",
+    "paragraph2": "Markmið okkar hefst á suðurhveli jarðar og nær út um allan heim, til að tryggja að næsta kynslóð geimfara komi frá öllum heimshornum."
+  },
+  "callToAction": {
+    "heading": "Hjálpið okkur að láta þetta gerast",
+    "content": "Þetta fræðsluverkefni er nú í þróun. Við leitum að samstarfsaðilum og styrktaraðilum sem deila framtíðarsýn okkar um að auðvelda aðgang að geimtækni. Ef þú eða samtök þín vilja styðja þetta verkefni, vinsamlegast farðu á <a href=\"/support\">stuðningssíðu</a> okkar til að fræðast um samstarfstækifæri."
+  },
+  "imageAlt": "Orbital Temple gervihnöttur"
+}

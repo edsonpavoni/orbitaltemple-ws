@@ -1,0 +1,31 @@
+{
+  "title": "An Saothar Ealaíne - Teampall Fithiseach",
+  "heading": "An Saothar Ealaíne",
+  "intro": {
+    "paragraph1": "Is satailít é Orbital Temple a bhfuil misean ealaíonta aige: séadchomhartha sa spás amuigh atá oscailte do gach créatúr mothaitheach a chónaíonn nó a chónaigh ar an Domhan.",
+    "paragraph2": "Trí mhodhanna teicneolaíocha, is féidir le duine ar bith ainm duine a sheoladh chuig an Teampall, bíodh sé ina dhuine atá imithe ar shlí na fírinne, ina dhuine atá fós beo, nó ina chréatúr ar bith atá tuillte a bheith cuimhneamh air."
+  },
+  "sculpture": {
+    "heading": "An Dealbhóireacht",
+    "paragraph1": "Tá trí ghné chomhspleácha sa saothar ealaíne: satailít atá deartha go speisialta chun billiúin ainmneacha a stóráil; dealbh phoiblí a mhalartaíonn faisnéis leis an satailít; agus suíomh Gréasáin trína seolann rannpháirtithe na hainmneacha, ón lá seo go dtí a mbás, chun na bhflaitheas.",
+    "paragraph2": "Mar thionscadal ildisciplíneach, is féidir Teampall Orbital a mheas mar dhealbh atá sainiúil don suíomh, ag maireachtáil i spás. Is tionscadal Artsat é freisin."
+  },
+  "antenna": {
+    "heading": "An Antenna mar Dhealbh Poiblí",
+    "paragraph1": "Antenna a nascann sinn leis an spás amuigh.",
+    "paragraph2": "Tá antenna á dhearadh a bheidh i gcumarsáid dhíreach leis an satailít fithiseach.",
+    "paragraph3": "Le dromchla frithchaiteach órga, a léiríonn an spéir os a chionn, is pointe tosaigh é le haghaidh spreagadh maise (nó ár gcaidreamh leis an méid atá 'thuas ansin').",
+    "paragraph4": "Cé nach bhfuil na dealbha suiteáilte i bhformhór na gcodanna den domhan, tá ár Frames from Earth, atá ag rialú an tsatailít faoi láthair, ag seoladh na n-ainmneacha ag gach pasáiste.",
+    "paragraph5": "Cabhraigh leis an bhfís seo a thabhairt chuig do chathair—ag suiteáil dealbha antenna a spreagann comhráite faoi thaiscéalaíocht spáis, ealaín, agus ár n-áit chomhroinnte sa chosmas. <a href=\"/support\">Foghlaim tuilleadh faoi thacú leis an tionscadal</a> ."
+  },
+  "imageAlts": {
+    "satellite": "Satailít Teampaill Fithiseach",
+    "riseNy": "Teampall Fithiseach ag Rise NY",
+    "installation": "Teampall Fithiseach le Clara Marques",
+    "antenna": "Antenna Teampaill Fithiseach"
+  },
+  "imageCaptions": {
+    "riseNy": "Teampall Fithiseach sa spás. Rindreáil 3T le RiseNY&Partners.",
+    "mercosul": "Suiteáil Teampaill Fithiseach ag Biennial Mercosul, i Porto Alegre, an Bhrasaíl.<br> Grianghraf le Clara Marques."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Barqarorlik va kosmik vayronalar - Orbital ibodatxonasi",
+  "heading": "Barqarorlik",
+  "intro": {
+    "paragraph1": "Agar san'at bizni kelajakka olib boradigan bo'lsa, u biz duch keladigan inqirozlarni - ekologik inqiroz, ijtimoiy tengsizlik va kosmik vayronalarning kuchayib borayotgan muammolarini e'tiborsiz qoldira olmaydi. Orbital ibodatxonasi ham Yerda, ham orbitada mas'uliyatli ishtirok etishni maqsad qilib, ushbu haqiqatlarni hisobga olgan holda ishlab chiqilgan.",
+    "paragraph2": "Biz barqarorlik cheklov emas, balki badiiy qarashimizning muhim qismi ekanligiga ishonamiz. Materiallar, orbitalar va operatsiyalar haqidagi har bir qaror bizning Yerni ham, kosmosni ham biz topganimizdan ko'ra yaxshiroq tark etishga sodiqligimizni aks ettiradi."
+  },
+  "spaceDebris": {
+    "heading": "Kosmik vayronalar",
+    "paragraph1": "Kosmik qoldiqlar kosmik tadqiqotlar oldida turgan eng dolzarb muammolardan biridir. Minglab ishlamay qolgan sun'iy yo'ldoshlar va parchalar Yer atrofida aylanib, faol missiyalarga tahdid soladi va ba'zi orbitalarni yaroqsiz holga keltiradigan kaskad effektini yaratadi.",
+    "paragraph2": "Orbital Temple buni bir necha usul bilan hal qiladi:",
+    "list": {
+      "orbit": "<strong>Quyosh bilan sinxron orbita 525 km:</strong> Bu balandlik tabiiy atmosfera tortishish sun&#39;iy yo&#39;ldoshning taxminan 10 yil ichida Yer atmosferasiga qayta kirib, u erda butunlay yonib ketishini ta&#39;minlaydi. Biz uzoq muddatli orbital qoldiqlarga hissa qo&#39;shmayapmiz.",
+      "size": "<strong>PocketQube dizayni:</strong> atigi 50 × 58 × 64 mm va 245 g o&#39;lchamdagi sun&#39;iy yo&#39;ldosh qayta kirish paytida butunlay bug&#39;lanib ketadigan darajada kichik bo&#39;lib, Yer yuzasida hech qanday qoldiq qoldirmaydi.",
+      "responsibility": "<strong>Rejalashtirilgan eskirish yo&#39;q:</strong> tashlab qo&#39;yilishi mumkin bo&#39;lgan tijorat sun&#39;iy yo&#39;ldoshlaridan farqli o&#39;laroq, Orbital Temple mas&#39;uliyatli kosmik faoliyat bo&#39;yicha xalqaro ko&#39;rsatmalarni bajarib, tabiiy ravishda orbitadan chiqish uchun mo&#39;ljallangan."
+    },
+    "paragraph3": "Pastki Yer orbitasi va ixcham dizaynni tanlab, biz Orbital Templening kosmosda mavjudligi vaqtinchalik va ifloslanmasligini ta'minlaymiz."
+  },
+  "carbonNeutrality": {
+    "heading": "Uglerod neytralligi",
+    "content": "Orbital Temple bilan bog'liq barcha uglerod chiqindilari, jumladan, sun'iy yo'ldosh ishlab chiqarish, uchirish, yer stansiyasi operatsiyalari, veb-saytlarni joylashtirish va jamoaviy sayohat - tasdiqlangan uglerod kredit dasturlari orqali to'liq qoplanadi. Biz ushbu missiyani iqlimga betaraf qilishga intilamiz."
+  },
+  "openSource": {
+    "heading": "Ochiq kodli apparat",
+    "paragraph1": "Barqarorlik bilimni isrof qilmaslikni ham anglatadi. Orbital Templening har bir texnik jihati - sxemalar, kodlar, aloqa protokollari va qurilish usullari - ochiq manba hujjati sifatida nashr etiladi.",
+    "paragraph2": "Bu kelajakdagi missiyalarni noldan boshlash o'rniga bizning ishimizga asoslanib, ortiqcha tadqiqot va ishlanmalarni kamaytirish imkonini beradi. U kosmik texnologiyalardan foydalanishni demokratlashtiradi, xususan, kosmik tadqiqotlardan tarixan chetlashtirilgan Global janubdagi jamoalar uchun."
+  },
+  "educational": {
+    "heading": "Ta'limga ta'siri",
+    "paragraph1": "Bizning bepul ko'p tilli ta'lim dasturimiz butun dunyo bo'ylab talabalarga sun'iy yo'ldoshlarni qanday qurish va uchirishni o'rgatadi, bunda Global janubga e'tibor beriladi. Kelgusi avlodni kosmik texnologiya ko'nikmalariga ega bo'lish orqali biz \"Kosmik bo'shliq\" ni yopishga va aks holda mavjud bo'lmagan imkoniyatlarni yaratishga hissa qo'shamiz.",
+    "paragraph2": "Ushbu ta'lim missiyasining o'zi barqarorlik shaklidir - sun'iy yo'ldoshning ishlash muddatidan tashqari doimiy o'zgarishlarni yaratish uchun odamlar va jamoalarga sarmoya kiritish."
+  },
+  "tenYear": {
+    "heading": "10 yillik missiya",
+    "paragraph1": "Orbital Temple qisqacha reklama uchun emas, balki o'n yillik missiya uchun mo'ljallangan. O'n yil ichida sun'iy yo'ldosh Yer atrofida taxminan 50 000 marta aylanib, nom oladi va koinot hamma uchun ochiq bo'lishi mumkinligini eslatib turadi.",
+    "paragraph2": "Missiya tugagandan so'ng, sun'iy yo'ldosh tabiiy ravishda orbitadan chiqib ketadi va yonib ketadi va qatnashganlarning xotiralari va hujjatlaridan boshqa hech qanday iz qoldirmaydi."
+  },
+  "artsResponsibility": {
+    "heading": "San'atning mas'uliyati",
+    "paragraph1": "San’at hamisha o‘z davrining ko‘zgusi bo‘lib, qadriyatlarimiz va intilishlarimizni aks ettirgan. Iqlim inqirozi va tengsizlik kuchayib borayotgan bir davrda, biz rassomlar nafaqat ushbu masalalarni sharhlabgina qolmay, balki ularni faol ravishda hal qiluvchi asar yaratishga mas'ul deb hisoblaymiz.",
+    "paragraph2": "Orbital Temple - bu inklyuzivligi jihatidan radikal, atrof-muhitga ta'sirida mas'uliyatli va o'z bilimlarini dunyo bilan baham ko'rishda saxiy san'at asarini yaratishga urinishimiz. Aynan san'at hammani hayot va kashfiyotni mumkin bo'lgan nozik tizimlarga - atrof-muhit va orbitallarga hurmat bilan ishtirok etishga taklif qiladi."
+  },
+  "imageAlt": "Orbital Temple sun'iy yo'ldoshi"
+}

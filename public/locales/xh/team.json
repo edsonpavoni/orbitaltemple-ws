@@ -1,0 +1,61 @@
+{
+  "title": "Iqela - iTempile ye-Orbital",
+  "heading": "Iqela",
+  "artist": "Edson Pavoni, igcisa",
+  "roles": {
+    "executiveProducer": {
+      "heading": "UMvelisi oLawulayo",
+      "members": "Sathi Roy"
+    },
+    "aerospace": {
+      "heading": "I-Aerospace & Systems Engineering",
+      "members": "UPedro Kaled, uJoão Pedro Polito, uVictor Baptista kunye noJoão Victor Alves"
+    },
+    "electronic": {
+      "heading": "Ubunjineli boMbane",
+      "members": "André Biagioni, João Pedro Polito & VK"
+    },
+    "software": {
+      "heading": "Isoftware",
+      "members": "UJonathan Cherubina"
+    },
+    "design": {
+      "heading": "Uyilo kunye noYilo lwezakhiwo",
+      "members": "Guilherme Bullejos"
+    },
+    "printing": {
+      "heading": "Ushicilelo lwe-3D",
+      "members": "Iingqikelelo eziqinileyo, phantsi kobunkokeli buka-Eduardo Dias"
+    },
+    "rendering": {
+      "heading": "Unikezelo lwe-3D",
+      "members": "Guilherme Bullejos & RiseNy&Partners"
+    },
+    "research": {
+      "heading": "Uphando",
+      "members": "URoberta Savian Rosa kunye noClara Marques"
+    },
+    "exhibition": {
+      "heading": "Imveliso yeMboniso, iFoto kunye nokuDalwa koMxholo",
+      "members": "UClara Marques"
+    },
+    "silkScreen": {
+      "heading": "Umboniso weSilk Screening",
+      "members": "UDaphne Alves"
+    },
+    "educational": {
+      "heading": "Iprojekthi yezemfundo",
+      "members": "IdeaSpace"
+    },
+    "communication": {
+      "heading": "IQela loNxibelelwano",
+      "members": "UFlavio Vidigal, uAndre Holzmeister, uPedro Vidigal, uTatiane Putti, uRafael Fernandes, uBruna Cairo"
+    },
+    "specialThanks": {
+      "heading": "Enkosi ngokukhethekileyo",
+      "members": "UGabriela Veiga, uMarcello Dantas, uAnne Valls, uMatias Campos Abad, uSamuel Levy, uBella Nardini, kunye noLeigh Pennington"
+    }
+  },
+  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidizmediister, Andre Pedro, Andre Pedro URafael Fernandes, uBruna Cairo, iConceitos Sólidos, iRiseNY&Partners, IdeaSpace",
+  "imageAlt": "ISathelayithi yeTempile yeOrbital"
+}

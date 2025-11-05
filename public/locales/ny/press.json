@@ -1,0 +1,138 @@
+{
+  "title": "Press & Media - Orbital Temple",
+  "heading": "Press & Media",
+  "pressContact": {
+    "heading": "Dinani Contact",
+    "content": "Pamafunso a atolankhani, zoyankhulana, ndi zopempha zapa media:<br /> <strong>Imelo:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Webusayiti:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Za Ntchitoyi",
+    "paragraph1": "Orbital Temple ndi zojambulajambula komanso setilaiti yomwe ikufuna kukhala kachisi wophatikizana kwambiri, womangidwa pomwe palibe makoma omwe angafike. Ntchitoyi idapangidwa ndi wojambula waku Brazil Edson Pavoni, wojambula kumbuyo kwa Inumeráveis Memorial yomwe idafikira munthu m'modzi mwa anthu 6 aliwonse ku Brazil panthawi ya mliri wa COVID, polojekitiyi imapempha anthu padziko lonse lapansi kuti atumize dzina la munthu yemwe akufuna kumukumbukira. Mayinawa amatumizidwa ku satellite mu orbit, kupanga chikumbutso chamagulu.",
+    "paragraph2": "Kudzera patsamba lomwe likupezeka m'zilankhulo 136, otenga nawo mbali amachita mwambo watsopano. Orbital Temple imayang'ana mitu yophatikizika, kukumbukira, ndi umunthu womwe timagawana nawo, ndikufunsa chifukwa chake palibe kachisi wakuthupi Padziko Lapansi yemwe angalandire aliyense, ndikulingalira kuti danga ndi malo okhawo omwe atha kukhalapo."
+  },
+  "aboutArtist": {
+    "heading": "Za Wojambula",
+    "paragraph1": "<strong>Edson Pavoni</strong> ndi wojambula waku Brazil yemwe ulendo wake unayambira m&#39;misewu ya São Paulo, komwe umphawi ndi chiwawa zidapanga zaka zake zoyambirira. M’dziko limene Chikristu chimapereka njira yotalikirana ndi misewu, mankhwala osokoneza bongo, ndi chiwawa, Pavoni anapeza pothaŵirapo m’chikhulupiriro, mutu umene pambuyo pake, pamene anakhala wotsutsa nkhanza zachipembedzo, udzadziŵitsa ntchito yake yaluso.",
+    "paragraph2": "Mu 2020, panthawi ya mliri wa COVID-19, Pavoni adapanga <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis (osawerengeka)</a></strong> , chojambula chomwe chili pamzere wa zaluso ndi utolankhani. Ntchitoyi idafunsa mabanja masauzande ambiri ndikulemba nkhani za omwe adataya mliriwu, ndikupanga malo omwe kukumbukira kumapitilira ziwerengero ndi ziwerengero. Ndakatulo, nyimbo, ndi masimphoni anapangidwa ndi nkhani zimenezo. Nyuzipepala zinapanga zolemba pogwiritsa ntchito mayina ndi mbiri. Nyenyezi zonse za ku Brazil monga Oscar wopambana Fernanda Torres, ndi nyenyezi monga Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo ndi Lazaro Ramos, ndi ena ambiri amawerenga nkhani zimenezo pa televizioni ya dziko. Ntchitoyi inafikira anthu 32 miliyoni, mmodzi mwa akuluakulu anayi aku Brazil. Inakhala gulu la machiritso, chipilala chokumbukira pamodzi.",
+    "paragraph3": "Pambuyo pa kukambitsirana kopitirira zikwi khumi ndi chisoni, chitsanzo chinatuluka: pamene tilankhula za munthu amene wamwalira, timasankha zidutswa za nkhani yake monga ngati kuti tikulembera mlonda wa pachipata cha paradaiso kalata yoyamikira. Timayesetsa kuwatumiza kumene timakhulupirira kuti ndi kumwamba. Ntchitoyi inayambitsa kumvetsetsa kwatsopano: Zikhulupiriro zathu za yemwe ali woyenera kumwamba zimaumba mwachindunji omwe timavomereza kapena kuwapatula Padziko Lapansi. Atsamunda Achipwitikizi ku Brazil ankakhulupirira kuti anthu akuda alibe miyoyo; chikhulupiriro chimenecho chinalungamitsa ukapolo. Ngati munali mbadwa, ngati munabadwira kumalo olakwika kapena kukonda munthu wolakwika, mumauzidwabe kuti zitseko zakumwamba zatsekedwa kwa inu mpaka pano. Kodi pali masomphenya amtsogolo omwe sali odzazidwa ndi kukanidwa?",
+    "paragraph4": "Umu ndi momwe Orbital Temple inabadwira."
+  },
+  "keyFacts": {
+    "heading": "Mfundo Zofunika Kwambiri",
+    "artist": "<strong>Artist:</strong> Edson Pavoni (Brazil)",
+    "projectType": "<strong>Mtundu wa Pulojekiti:</strong> Zojambula za satellite, malo enieni a malo, miyambo yochokera pa intaneti",
+    "launchDate": "<strong>Tsiku Lomaliza Ntchito:</strong> Novembara 28, 2025",
+    "launchLocation": "<strong>Malo Okhazikitsidwa:</strong> Satish Dhawan Space Center, Sriharikota, India (ISRO)",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km kutalika, Sun-synchronous",
+    "participation": "<strong>Kutenga nawo mbali:</strong> Kwaulere, kotseguka kwa aliyense padziko lonse lapansi",
+    "namesSent": {
+      "heading": "<strong>Mayina Otumizidwa ku Orbit:</strong>",
+      "caption": "<em>Mawerengedwe apompopompo asinthidwa kuchokera munkhokwe • Atsitsimutsidwa komaliza: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Mphotho & Kuzindikiridwa",
+    "mercosul": {
+      "title": "<strong>Zaka 13 za Mercosur Biennial</strong> (2022)",
+      "location": "Porto Alegre, Brazil",
+      "curator": "Wosankhidwa ndi Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Prize 2022 - Futures Award</strong>",
+      "status": "Zolemba zazitali"
+    },
+    "cubeDesign": {
+      "title": "<strong>Mpikisano wa CubeDesign 2021</strong>",
+      "award": "Wopambana - Gulu la ArtSat",
+      "org": "Mothandizidwa ndi Brazilian Institute of Space Research (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Gulu",
+    "content": "Orbital Temple imapangidwa mogwirizana ndi Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ndi onse omwe akupitiliza kupereka mayina a kachisiyu."
+  },
+  "pressCoverage": {
+    "heading": "Zowonetsedwa mu / Press Coverage",
+    "paragraph1": "<em>Makanema atolankhani ndi mawonekedwe adzawonjezedwa akapezeka. Kuti mudziwe zambiri, chonde lemberani gulu lathu la atolankhani.</em>",
+    "paragraph2": "Ziwonetsero zam'mbuyomu ndi mawonekedwe ake akuphatikizapo zowonetsera pa 13th Mercosul Bienal, kuzindikira kuchokera ku Mphoto ya Lumen, ndi kusankhidwa ndi Brazilian Institute of Space Research (INPE)."
+  },
+  "images": {
+    "heading": "Zithunzi Zapamwamba Zogwiritsa Ntchito Atolankhani",
+    "intro": "Zithunzi zonse zilipo kuti zigwiritsidwe ntchito mkonzi. Dinani chithunzi chilichonse kuti mutsitse wapamwamba kwambiri.",
+    "installationPhotos": {
+      "heading": "Zithunzi za Orbital Temple",
+      "credit": "Chonde yamikirani: \"Chithunzi chojambulidwa ndi Clara Marques / Mwachilolezo cha Edson Pavoni, Orbital Temple\"",
+      "view01": "Kuyika View 01<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (1.4 MB)",
+      "view02": "Kuyika View 02<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (2.9 MB)",
+      "view03": "Kuyika View 03<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (11 MB)",
+      "view04": "Kuyika View 04<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (3.4 MB)",
+      "view05": "Kuyika View 05<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (3.3 MB)",
+      "view06": "Kuyika View 06<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (3.7 MB)",
+      "view07": "Kuyika View 07<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (3.4 MB)",
+      "view08": "Kuyika View 08<br /> Chithunzi: Clara Marques<br /> ↓ Tsitsani High-Res (2.7 MB)",
+      "satelliteDesign": "Satellite Design<br /> ↓ Tsitsani",
+      "antennaSculpture": "Mlongoti/Sculpture<br /> ↓ Tsitsani"
+    },
+    "renders": {
+      "heading": "Zithunzi za Orbital Temple",
+      "credit": "Malingaliro a 3D omasulira a Orbital Temple. Chonde thokozani: \"3D Rendering by RiseNY&Partners / Mwachilolezo cha Edson Pavoni, Orbital Temple\"",
+      "render01": "Zithunzi za 3D 01<br /> RiseNY&amp;Partners<br /> ↓ Tsitsani Mawonekedwe Apamwamba (10 MB)",
+      "render02": "Zithunzi za 3D 02<br /> RiseNY&amp;Partners<br /> ↓ Tsitsani Mawonekedwe Apamwamba (5.9 MB)",
+      "render03": "Zithunzi za 3D 03<br /> RiseNY&amp;Partners<br /> ↓ Tsitsani High-Res (5.2 MB)",
+      "render04": "Zithunzi za 3D 04<br /> RiseNY&amp;Partners<br /> ↓ Tsitsani High-Res (11 MB)",
+      "render05": "Zithunzi za 3D05<br /> RiseNY&amp;Partners<br /> ↓ Tsitsani High-Res (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Zithunzi za Artist",
+      "photo1": "Chithunzi 1<br /> ↓ Tsitsani High-Res",
+      "photo2": "Chithunzi 2<br /> ↓ Tsitsani High-Res"
+    },
+    "sathiPhotos": {
+      "heading": "Zithunzi za Sathi Roy",
+      "photo1": "Chithunzi 1<br /> ↓ Tsitsani High-Res (843 KB)",
+      "photo2": "Chithunzi 2<br /> ↓ Tsitsani High-Res (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Mfundo Zaukadaulo",
+    "satellite": {
+      "heading": "Satellite",
+      "dimensions": "Makulidwe: 50 x 58 x 64 mm",
+      "classification": "Gulu: 1P PocketQube",
+      "weight": "Kulemera kwake: 245g",
+      "materials": "Zida: Aluminiyamu, golide, fiberglass, zida zamagetsi",
+      "orbit": "Orbit: Kutalika kwa 525 ± 25 km; Kutengeka: SSO 97.6 ± 0.1°",
+      "launch": "Kukhazikitsa: Novembara 28, 2025 kudzera pa ISRO, India"
+    },
+    "antenna": {
+      "heading": "Mlongoti/Sculpture",
+      "dimensions": "Makulidwe: 6m m'mimba mwake x 1.2m kutalika",
+      "weight": "Kulemera kwake: 46kg",
+      "materials": "Zipangizo: Aluminiyamu, bolodi lowoneka bwino la epoxy, dome la golide la aluminiyamu yoyimitsidwa kudzera pamapangidwe a scaffolding"
+    },
+    "radio": {
+      "heading": "Zofotokozera pawayilesi",
+      "downlink": "Kutsika: 437 MHz",
+      "status": "Nthawi Yoyambira: Idakonzedwa pa Novembara 28, 2025"
+    }
+  },
+  "additionalResources": {
+    "heading": "Zowonjezera Zowonjezera",
+    "artwork": "→ Onani Zolemba Zojambula",
+    "howItWorks": "→ Momwe Zimagwirira Ntchito",
+    "technicalInfo": "→ Zambiri Zaukadaulo",
+    "spaceLaunch": "→ Chidziwitso Choyambitsa Malo",
+    "ritual": "→ Khalani ndi Mwambo"
+  },
+  "imageAlts": {
+    "installation": "Kuyika kwa Orbital Temple ndi Edson Pavoni",
+    "satelliteDesign": "Orbital Temple Satellite Design",
+    "antenna": "Chithunzi cha Orbital Temple Antenna",
+    "render": "Orbital Temple 3D Rendering ndi RiseNY&Partners",
+    "edsonPortrait": "Chithunzi cha Edson Pavoni",
+    "sathiPortrait": "Chithunzi cha Sathi Roy",
+    "lumenPrize": "Mphotho ya Lumen",
+    "mercosulBienal": "Mercosur Biennial"
+  }
+}

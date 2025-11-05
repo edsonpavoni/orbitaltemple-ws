@@ -1,0 +1,13 @@
+{
+  "title": "Kia Whakamōhiotia - Te Orbital Temple",
+  "heading": "Kia Whakamōhiotia Ina Whakatika",
+  "description": "Hei te 28 o Noema 2025, ka piki te Temepara Orbital.<br> Waiho to ī-mēra, ma matou e korero ki a koe ina tae ki te waahi.",
+  "form": {
+    "emailPlaceholder": "your@email.com",
+    "sendButton": "Tukua",
+    "sendingButton": "Tuku ana...",
+    "successMessage": "Ka tae atu ki a koe ina kake.",
+    "errorMessage": "Kua he tetahi. Me ngana ano."
+  },
+  "backLink": "← Hoki ki te tatau"
+}

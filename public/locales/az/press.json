@@ -1,0 +1,138 @@
+{
+  "title": "Mətbuat və Media - Orbital Məbədi",
+  "heading": "Mətbuat və Media",
+  "pressContact": {
+    "heading": "Əlaqə düyməsini basın",
+    "content": "Mətbuat sorğuları, müsahibələr və media sorğuları üçün:<br /> <strong>E-poçt:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Veb sayt:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Layihə haqqında",
+    "paragraph1": "Orbital Məbəd heç bir divarın çata bilməyəcəyi yerdə tikilmiş, köklü şəkildə əhatəli bir məbəd olmağı hədəfləyən bir sənət əsəri və peykdir. COVID pandemiyası zamanı hər 6 braziliyalıdan 1-ə çatan İnumeráveis Memorialının arxasında duran braziliyalı rəssam Edson Pavoni tərəfindən yaradılan layihə dünyanın hər yerindən insanları xatırlamaq istədikləri birinin adını göndərməyə dəvət edir. Bu adlar orbitdəki peykə ötürülür, kollektiv xatirə yaradır.",
+    "paragraph2": "136 dildə mövcud olan vebsayt vasitəsilə iştirakçılar yeni növ ritualla məşğul olurlar. Orbital Məbəd inklüzivlik, yaddaş və ümumi insanlığımız mövzularını araşdırır, nə üçün Yer üzündə heç bir fiziki məbədin hər kəsi həqiqətən qəbul edə bilməyəcəyini sorğulayır və kosmosu radikal inklüzivliyin mövcud ola biləcəyi yeganə yer kimi təklif edir."
+  },
+  "aboutArtist": {
+    "heading": "Rəssam haqqında",
+    "paragraph1": "<strong>Edson Pavoni,</strong> səyahəti ilk illərini yoxsulluq və zorakılıq kontekstinin formalaşdığı San Paulo küçələrində başlayan braziliyalı rəssamdır. Xristianlığın küçələrdən, narkotiklərdən və zorakılıqdan uzaq bir yol təklif etdiyi bir ölkədə, Pavoni imanla sığınacaq tapdı, bu mövzu daha sonra dini sui-istifadənin tənqidçisi olduqda, bədii praktikasına məlumat verəcəkdir.",
+    "paragraph2": "2020-ci ildə, COVID-19 pandemiyası zamanı Pavoni <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">İnumeráveis (saysız-hesabsız)</a></strong> sənət və jurnalistikanın kəsişməsində bir sənət əsəri yaratdı. Layihə minlərlə ailə ilə müsahibə apardı və pandemiya nəticəsində itirilənlərin hekayələrini yazdı, yaddaşın rəqəmləri və statistikanı aşdığı bir məkan yaratdı. Həmin hekayələrlə şeirlər, mahnılar, simfoniyalar yazılmışdır. Qəzetlər adlardan və tarixlərdən istifadə edərək üz qabığı yaratdılar. Oskar qazanan Fernanda Torres kimi bütün braziliyalı ulduzlar və Selton Melo, Eva Wilma, Camila Pitanga, Debora Secco, Tais Araujo və Lazaro Ramos kimi ulduzlar və bir çox başqaları bu hekayələri milli televiziyada oxuyurlar. Layihə 32 milyon insana çatdı, hər dörd braziliyalıdan biri. O, şəfa şəbəkəsinə, kollektiv xatirə abidəsinə çevrildi.",
+    "paragraph3": "Kədərlə on mindən çox söhbətdən sonra belə bir nümunə yarandı: ölən biri haqqında danışanda, cənnət qapıçısına tövsiyə məktubu yazan kimi onun hekayəsindən fraqmentlər seçirik. Onları cənnətə inandığımız yerə göndərmək üçün əlimizdən gələni edirik. Bu iş yeni bir anlayışa səbəb oldu: Cənnətə kimin layiq olduğuna dair inancımız, Yer üzündə kimi qəbul etdiyimizi və ya xaric etdiyimizi birbaşa formalaşdırır. Braziliyadakı Portuqal müstəmləkəçiləri inanırdılar ki, qaradərililərin ruhu yoxdur; bu inanc köləliyə haqq qazandırdı. Əgər yerli idinizsə, yanlış yerdə doğulmusunuzsa və ya yanlış insanı sevmisinizsə, sizə hələ də bu günə qədər cənnət qapılarının üzünüzə bağlı olduğunu söyləyirlər. Gələcəyə rədd cavabı verməyən bir baxış varmı?",
+    "paragraph4": "Orbital Məbədi belə doğuldu."
+  },
+  "keyFacts": {
+    "heading": "Əsas Faktlar",
+    "artist": "<strong>Rəssam:</strong> Edson Pavoni (Braziliya)",
+    "projectType": "<strong>Layihənin növü:</strong> Peyk təsviri, kosmosda sayta xas, veb-əsaslı ritual",
+    "launchDate": "<strong>Başlama tarixi:</strong> 28 noyabr 2025-ci il",
+    "launchLocation": "<strong>Başlama yeri:</strong> Satish Dhawan Kosmik Mərkəzi, Şriharikota, Hindistan (ISRO)",
+    "satellite": "<strong>Peyk:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Orbit:</strong> 525km yüksəklik, Günəş sinxron",
+    "participation": "<strong>İştirak:</strong> Pulsuz, qlobal olaraq hamı üçün açıqdır",
+    "namesSent": {
+      "heading": "<strong>Orbitə göndərilən adlar:</strong>",
+      "caption": "<em>Canlı sayı verilənlər bazasından yeniləndi • Son yeniləmə: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Mükafatlar və Tanınma",
+    "mercosul": {
+      "title": "<strong>13-cü Merkosur Biennali</strong> (2022)",
+      "location": "Porto Alegre, Braziliya",
+      "curator": "Kurator: Marselo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Mükafatı 2022 - Futures Mükafatı</strong>",
+      "status": "Uzun siyahıya alınmışdır"
+    },
+    "cubeDesign": {
+      "title": "<strong>CubeDesign 2021 Müsabiqəsi</strong>",
+      "award": "Qalib - ArtSat Kateqoriya",
+      "org": "Braziliya Kosmik Tədqiqatlar İnstitutu (INPE) tərəfindən dəstəklənir"
+    }
+  },
+  "team": {
+    "heading": "Komanda",
+    "content": "Orbital Məbədi Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andrephnezme, Andrephnezme, Daphnezme, Andrephnezme ilə əməkdaşlıqda yaradılmışdır. Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace və bu məbədin adlarını təklif etməyə davam edənlərin hamısı."
+  },
+  "pressCoverage": {
+    "heading": "Seçilmiş / Mətbuatda yer alan",
+    "paragraph1": "<em>Mətbuat əhatəsi və funksiyalar əlçatan olduqda əlavə olunacaq. Ən son yeniləmələr üçün mətbuat komandamızla əlaqə saxlayın.</em>",
+    "paragraph2": "Əvvəlki sərgilərə və xüsusiyyətlərə 13-cü Merkosul Bienalində təqdimatlar, Lumen Mükafatından tanınma və Braziliya Kosmik Tədqiqatlar İnstitutu (INPE) tərəfindən seçim daxildir."
+  },
+  "images": {
+    "heading": "Mətbuatda istifadə üçün yüksək qətnamə şəkilləri",
+    "intro": "Bütün şəkillər redaksiyada istifadə üçün mövcuddur. Yüksək keyfiyyətli faylı yükləmək üçün istənilən şəklin üzərinə klikləyin.",
+    "installationPhotos": {
+      "heading": "Orbital Məbədin Şəkilləri",
+      "credit": "Zəhmət olmasa kredit verin: \"Foto Clara Marques tərəfindən / Edson Pavoninin izni ilə, Orbital Temple\"",
+      "view01": "Quraşdırma Görünüşü 01<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (1.4 MB)",
+      "view02": "Quraşdırma Görünüşü 02<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (2.9 MB)",
+      "view03": "Quraşdırma Görünüşü 03<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (11 MB)",
+      "view04": "Quraşdırma Görünüşü 04<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (3,4 MB)",
+      "view05": "Quraşdırma Görünüşü 05<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (3.3 MB)",
+      "view06": "Quraşdırma Görünüşü 06<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (3,7 MB)",
+      "view07": "Quraşdırma Görünüşü 07<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (3.4 MB)",
+      "view08": "Quraşdırma Görünüşü 08<br /> Foto: Clara Marques<br /> ↓ Yüksək Çözünürlüklü Yükləyin (2.7 MB)",
+      "satelliteDesign": "Peyk Dizaynı<br /> ↓ Yüklə",
+      "antennaSculpture": "Antenna/Heykəltəraşlıq<br /> ↓ Yüklə"
+    },
+    "renders": {
+      "heading": "Orbital məbədi göstərir",
+      "credit": "Orbital Məbədin konseptual 3D renderləri. Zəhmət olmasa kredit verin: \"RiseNY&Partners tərəfindən 3D Rendering / Edson Pavoni, Orbital Temple-in izni ilə\"",
+      "render01": "3d render 01<br /> RiseNY &amp; Partners<br /> ↓ Yüksək Çözünürlüklü Yükləyin (10 MB)",
+      "render02": "3d render 02<br /> RiseNY &amp; Partners<br /> ↓ Yüksək Çözünürlüklü Yükləyin (5.9 MB)",
+      "render03": "3d render 03<br /> RiseNY &amp; Partners<br /> ↓ Yüksək Çözünürlüklü Yükləyin (5.2 MB)",
+      "render04": "3d render 04<br /> RiseNY &amp; Partners<br /> ↓ Yüksək Çözünürlüklü Yükləyin (11 MB)",
+      "render05": "3d render 05<br /> RiseNY &amp; Partners<br /> ↓ Yüksək Çözünürlüklü Yükləyin (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Rəssam Şəkilləri",
+      "photo1": "Şəkil 1<br /> ↓ Yüksək Çözünürlüklü Yükləyin",
+      "photo2": "Şəkil 2<br /> ↓ Yüksək Res"
+    },
+    "sathiPhotos": {
+      "heading": "Sathi Roy Şəkilləri",
+      "photo1": "Şəkil 1<br /> ↓ Yüksək Çözünürlüklü Yüklə (843 KB)",
+      "photo2": "Şəkil 2<br /> ↓ Yüksək Çözünürlüklü Yükləyin (1.8 MB)"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Texniki Spesifikasiyalar",
+    "satellite": {
+      "heading": "Peyk",
+      "dimensions": "Ölçülər: 50 x 58 x 64 mm",
+      "classification": "Təsnifat: 1P PocketQube",
+      "weight": "Çəki: 245 q",
+      "materials": "Materiallar: Alüminium, qızıl, fiberglas, elektron komponentlər",
+      "orbit": "Orbit: Hündürlük 525 ± 25 km; Meyil: SSO 97.6 ± 0.1°",
+      "launch": "Başlama: ISRO, Hindistan vasitəsilə 28 noyabr 2025-ci il"
+    },
+    "antenna": {
+      "heading": "Antenna/Heykəltəraşlıq",
+      "dimensions": "Ölçülər: 6m diametr x 1.2m hündürlük",
+      "weight": "Çəkisi: 46 kq",
+      "materials": "Materiallar: Alüminium, epoksi güzgülü lövhə, iskele strukturundan asılmış qızılı alüminium günbəz"
+    },
+    "radio": {
+      "heading": "Radio Xüsusiyyətləri",
+      "downlink": "Aşağı keçid: 437 MHz",
+      "status": "Başlama Statusu: 28 Noyabr 2025-ci il planlaşdırılmışdır"
+    }
+  },
+  "additionalResources": {
+    "heading": "Əlavə Resurslar",
+    "artwork": "→ İncəsənət Sənədinə Baxın",
+    "howItWorks": "→ Necə işləyir",
+    "technicalInfo": "→ Texniki məlumat",
+    "spaceLaunch": "→ Kosmosa buraxılış məlumatı",
+    "ritual": "→ Ritualı təcrübədən keçirin"
+  },
+  "imageAlts": {
+    "installation": "Edson Pavoni tərəfindən Orbital Məbədin quraşdırılması",
+    "satelliteDesign": "Orbital Məbədin Peyk Dizaynı",
+    "antenna": "Orbital Məbəd Antenası Heykəli",
+    "render": "RiseNY&Partners tərəfindən Orbital Temple 3D Rendering",
+    "edsonPortrait": "Edson Pavoni portreti",
+    "sathiPortrait": "Sathi Roy portreti",
+    "lumenPrize": "Lumen Mükafatı",
+    "mercosulBienal": "Mercosur Bienali"
+  }
+}

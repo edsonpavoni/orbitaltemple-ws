@@ -1,0 +1,44 @@
+{
+  "title": "Nohaltegkeet & Weltraumschrott - Orbital Temple",
+  "heading": "Nohaltegkeet",
+  "intro": {
+    "paragraph1": "Wann d'Konscht eis an d'Zukunft féiere soll, däerf se d'Krisen, mat deenen mir konfrontéiert sinn, net ignoréieren - Ëmweltkollaps, sozial Ongläichheet an déi wuessend Erausfuerderung vum Weltraumschrott. Den Orbital Temple gouf mat dëse Realitéiten am Kapp entworf, mat dem Zil eng verantwortungsvoll Präsenz souwuel op der Äerd wéi och an der Ëmlafbunn ze sinn.",
+    "paragraph2": "Mir gleewen, datt Nohaltegkeet keng Aschränkung ass, mä en essentiellen Deel vun eiser artistescher Visioun. All Entscheedung iwwer Materialien, Ëmlafbunnen a Betrib reflektéiert eist Engagement, d'Äerd an de Weltraum besser ze hannerloossen, wéi mir se fonnt hunn."
+  },
+  "spaceDebris": {
+    "heading": "Weltraumschrott",
+    "paragraph1": "Weltraumschrott ass eng vun den dréngendsten Erausfuerderungen, mat deenen d'Weltraumfuerschung konfrontéiert ass. Dausende vu futti Satellitten a Fragmenter kreesen ëm d'Äerd, menacéieren aktiv Missiounen a kreéieren e Kaskadeeffekt, deen bestëmmt Ëmlafbunne kéint onbrauchbar maachen.",
+    "paragraph2": "Orbital Temple adresséiert dëst op verschidde Weeër:",
+    "list": {
+      "orbit": "<strong>Sonnesynchron Ëmlafbunn op 525 km:</strong> Dës Héicht garantéiert, datt den natierlechen Loftwiderstand de Satellit bannent ongeféier 10 Joer erëm an d&#39;Äerdatmosphär erakënnt, wou e komplett verbrennt. Mir droen net zu laangfristege Orbitalschutt bäi.",
+      "size": "<strong>PocketQube Design:</strong> Mat nëmme 50×58×64 mm a Gewiicht vun 245 g ass de Satellit kleng genuch, fir beim Réckrees komplett ze verdampfen, sou datt kee Brochstéck op der Äerduewerfläch bleift.",
+      "responsibility": "<strong>Keng geplangt Verouderung:</strong> Am Géigesaz zu kommerzielle Satellitten, déi eventuell opginn ginn, ass den Orbital Temple sou konzipéiert, datt en op natierlech Weis aus der Orbital-Orbit kënnt, an domat international Richtlinne fir verantwortungsvoll Weltraumaktivitéiten erfëllt."
+    },
+    "paragraph3": "Indem mir eng niddreg Äerdëmlafbunn an e kompakten Design wielen, suerge mir dofir, datt d'Präsenz vum Orbital Temple am Weltraum temporär an net-verschmotzungsfäeg ass."
+  },
+  "carbonNeutrality": {
+    "heading": "Kuelestoffneutralitéit",
+    "content": "All CO2-Emissiounen am Zesummenhang mam Orbital Temple – dorënner d'Produktioun vu Satellitten, de Start, de Betrib vun der Buedemstatioun, den Hosting vun de Websäiten an d'Teamreesen – ginn duerch verifizéiert CO2-Kredittprogrammer vollstänneg kompenséiert. Mir engagéieren eis, dës Missioun klimaneutral ze gestalten."
+  },
+  "openSource": {
+    "heading": "Open-Source-Hardware",
+    "paragraph1": "Nohaltegkeet bedeit och, Wëssen net ze verschwenden. All techneschen Aspekt vum Orbital Temple – Schemaen, Code, Kommunikatiounsprotokoller a Konstruktiounsmethoden – gëtt als Open-Source-Dokumentatioun publizéiert.",
+    "paragraph2": "Dëst erlaabt et zukünfteg Missiounen, op eiser Aarbecht opzebauen, anstatt vun Null unzefänken, wat redundant Fuerschung an Entwécklung reduzéiert. Et demokratiséiert den Zougang zu Weltraumtechnologie, besonnesch fir Gemeinschaften am Globale Süden, déi historesch vun der Weltraumfuerschung ausgeschloss waren."
+  },
+  "educational": {
+    "heading": "Bildungsauswierkungen",
+    "paragraph1": "Eist gratis méisproochegt Bildungsprogramm léiert Schüler weltwäit, wéi ee Satellitte baue kann a lancéiert, mat engem Fokus op de globale Süden. Indem mir déi nächst Generatioun mat Weltraumtechnologie-Fäegkeeten ermächtegen, droen mir dozou bäi, d'\"Weltraumlück\" ze schléissen a Méiglechkeeten ze schafen, déi et soss net géif ginn.",
+    "paragraph2": "Dës pädagogesch Missioun ass selwer eng Form vun Nohaltegkeet – Investitiounen an d'Leit a Gemeinschaften, fir dauerhaft Verännerungen iwwer d'Liewensdauer vum Satellit eraus ze schafen."
+  },
+  "tenYear": {
+    "heading": "Eng 10-Joer Missioun",
+    "paragraph1": "Den Orbital Temple ass fir eng Missioun vun engem Jorzéngt entworf, net fir e kuerze Publicitéitsstunt. Iwwer zéng Joer wäert de Satellit ongeféier 50.000 Mol d'Äerd ëmkreesen, Nimm kréien an drun erënneren, datt de Weltraum eppes Gemeinschaftleches ka sinn, dat fir all zougänglech ass.",
+    "paragraph2": "Nodeems seng Missioun ofgeschloss ass, wäert de Satellit natierlech aus der Orbit deaktivéieren a verbrennen, ouni keng Spuer méi ze hannerloossen, ausser an den Erënnerungen an an der Dokumentatioun vun deenen, déi deelgeholl hunn."
+  },
+  "artsResponsibility": {
+    "heading": "Verantwortung vun der Konscht",
+    "paragraph1": "Konscht war ëmmer e Spigel vun hirer Zäit a reflektéiert eis Wäerter an Uspréch. An enger Ära vu Klimakris an wuessender Ongläichheet gleewen mir, datt Kënschtler eng Verantwortung hunn, Wierker ze kreéieren, déi sech net nëmmen op dës Themen konzentréieren, mä se aktiv uspriechen.",
+    "paragraph2": "Orbital Temple ass eise Versuch, e Konschtwierk ze schafen, dat radikal a senger Inklusivitéit ass, verantwortlech a sengem Ëmweltimpakt ass a generéis ass, wann et drëm geet, säi Wëssen mat der Welt ze deelen. Et ass Konscht, déi jiddereen invitéiert, matzemaachen, wärend gläichzäiteg déi fragil Systemer - Ëmwelt- a Orbitalsystemer - respektéiert ginn, déi Liewen an Exploratioun méiglech maachen."
+  },
+  "imageAlt": "Orbital Temple Satellit"
+}

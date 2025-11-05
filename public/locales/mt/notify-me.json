@@ -1,0 +1,13 @@
+{
+  "title": "Kun Notifikat - Tempju Orbitali",
+  "heading": "Kun notifikat meta jogħla",
+  "description": "Fit-28 ta&#39; Novembru 2025, it-Tempju Orbitali se jitla&#39; s-sema.<br> Ħalli l-e-mail tiegħek, u aħna ngħidulek meta jasal fl-ispazju.",
+  "form": {
+    "emailPlaceholder": "tiegħek@email.com",
+    "sendButton": "Ibgħat",
+    "sendingButton": "Qed nibgħat...",
+    "successMessage": "Se nilħqukom meta jitla' 'l fuq.",
+    "errorMessage": "Xi ħaġa marret ħażin. Jekk jogħġbok erġa' pprova."
+  },
+  "backLink": "← Lura għall-countdown"
+}

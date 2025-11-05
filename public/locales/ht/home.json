@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Tanp Òbital",
+    "subtitle": "se yon zèv atistik ak yon satelit,\nki vize pou l vin yon tanp radikal ak enklizif,\nnan yon kote okenn miray pa ka rive."
+  },
+  "ritual": {
+    "label": "rituèl"
+  },
+  "cta": {
+    "link": "Men, yon lòt tanp?",
+    "arrowAlt": "flèch"
+  },
+  "dome": {
+    "alt": "Dòm"
+  }
+}

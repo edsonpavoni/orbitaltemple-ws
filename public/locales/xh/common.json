@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "theArtwork": "umsebenzi wobugcisa",
+    "sendAName": "thumela igama",
+    "fromTheArtist": "ukusuka kwigcisa",
+    "yetAnotherTemple": "ukanti, enye itempile?",
+    "howItWorks": "Ingaba isebenza kanjani",
+    "spaceLaunch": "ukuqaliswa kwendawo kunye nemingcipheko",
+    "briefHistory": "imbali emfutshane yobugcisa esithubeni",
+    "education": "imfundo kunye nomthombo ovulekileyo",
+    "sustainability": "uzinzo kunye nobutyobo bendawo",
+    "press": "cofa & nemidiya",
+    "team": "iqela",
+    "partners": "amaqabane",
+    "support": "inkxaso",
+    "technicalInfo": "ulwazi lobugcisa"
+  },
+  "ritual": {
+    "label": "isithethe",
+    "ariaLabel": "Ngenisa isiko-Thumela igama kwiTempile ye-Orbital"
+  },
+  "footer": {
+    "credits": "Ithempeli le-Orbital ngumsebenzi wobugcisa owenziwe ngu-Edson Pavoni, owenziwe ngokubambisana noPedro Kaled, uJoão Pedro Polito, uVictor Baptista kunye noJoão Victor Alves, uAndré Biagioni, uVK, uJonathan Querubina, uGuilherme Bullejos, uEduardo Dias, uRoberta Savian Rosa, uClara Marques, uSathi Roy uyaqhubeka nokuthumela amagama abo baqhubeka bethumela itempile."
+  }
+}
