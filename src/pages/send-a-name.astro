@@ -37,7 +37,8 @@ import SendNameForm from "../components/NameAscensionForm";
     }
 
     /* Prevent zoom on iOS when focusing inputs */
-    input, textarea, select {
+    /* Exclude inputs with dynamic font sizing (class input-field) */
+    input:not(.input-field), textarea, select {
       font-size: 16px !important; /* Prevents zoom on iOS */
     }
 
