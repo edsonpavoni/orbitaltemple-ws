@@ -327,21 +327,56 @@ export default function PressContent() {
         </div>
 
         <h3 className="subsection-heading" style={{ marginTop: '3rem' }}>{t('images.artistPhotos.heading')}</h3>
+        <p className="body-text">
+          {t('images.artistPhotos.credit')}
+        </p>
 
         <div className="press-images-grid">
           <div className="press-image-item">
-            <a href="/press/edson-pavoni-1.jpg" download="edson-pavoni-portrait-1.jpg">
-              <img src="/press/edson-pavoni-1.webp" alt={t('imageAlts.edsonPortrait')} />
+            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5491.jpg" download="edson-pavoni-portrait-1.jpg">
+              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5491.webp" alt={t('imageAlts.edsonPortrait')} />
               <p className="caption-text" style={{ textAlign: 'center' }}>
                 <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo1') }} />
               </p>
             </a>
           </div>
           <div className="press-image-item">
-            <a href="/press/edson-pavoni-2.jpg" download="edson-pavoni-portrait-2.jpg">
-              <img src="/press/edson-pavoni-2.webp" alt={t('imageAlts.edsonPortrait')} />
+            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5522.jpg" download="edson-pavoni-portrait-2.jpg">
+              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5522.webp" alt={t('imageAlts.edsonPortrait')} />
               <p className="caption-text" style={{ textAlign: 'center' }}>
                 <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo2') }} />
+              </p>
+            </a>
+          </div>
+          <div className="press-image-item">
+            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5529.jpg" download="edson-pavoni-portrait-3.jpg">
+              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5529.webp" alt={t('imageAlts.edsonPortrait')} />
+              <p className="caption-text" style={{ textAlign: 'center' }}>
+                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo3') }} />
+              </p>
+            </a>
+          </div>
+          <div className="press-image-item">
+            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5559.jpg" download="edson-pavoni-portrait-4.jpg">
+              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5559.webp" alt={t('imageAlts.edsonPortrait')} />
+              <p className="caption-text" style={{ textAlign: 'center' }}>
+                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo4') }} />
+              </p>
+            </a>
+          </div>
+          <div className="press-image-item">
+            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5569.jpg" download="edson-pavoni-portrait-5.jpg">
+              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5569.webp" alt={t('imageAlts.edsonPortrait')} />
+              <p className="caption-text" style={{ textAlign: 'center' }}>
+                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo5') }} />
+              </p>
+            </a>
+          </div>
+          <div className="press-image-item">
+            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5838.jpg" download="edson-pavoni-portrait-6.jpg">
+              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5838.webp" alt={t('imageAlts.edsonPortrait')} />
+              <p className="caption-text" style={{ textAlign: 'center' }}>
+                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo6') }} />
               </p>
             </a>
           </div>
