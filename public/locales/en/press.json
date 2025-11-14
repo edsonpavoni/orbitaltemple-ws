@@ -85,8 +85,13 @@
     },
     "artistPhotos": {
       "heading": "Artist Photos",
-      "photo1": "Photo 1<br />↓ Download High-Res",
-      "photo2": "Photo 2<br />↓ Download High-Res"
+      "credit": "Please credit: \"Photo by Alex Korolkovas / Courtesy of Edson Pavoni, Orbital Temple\"",
+      "photo1": "Edson Pavoni Portrait 1<br />Photo: Alex Korolkovas<br />↓ Download High-Res (15.8 MB)",
+      "photo2": "Edson Pavoni Portrait 2<br />Photo: Alex Korolkovas<br />↓ Download High-Res (14.8 MB)",
+      "photo3": "Edson Pavoni Portrait 3<br />Photo: Alex Korolkovas<br />↓ Download High-Res (14.1 MB)",
+      "photo4": "Edson Pavoni Portrait 4<br />Photo: Alex Korolkovas<br />↓ Download High-Res (17.2 MB)",
+      "photo5": "Edson Pavoni Portrait 5<br />Photo: Alex Korolkovas<br />↓ Download High-Res (15.3 MB)",
+      "photo6": "Edson Pavoni Portrait 6<br />Photo: Alex Korolkovas<br />↓ Download High-Res (16.5 MB)"
     },
     "sathiPhotos": {
       "heading": "Sathi Roy Photos",
