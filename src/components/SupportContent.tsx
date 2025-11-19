@@ -1,52 +1,24 @@
 import { useTranslation } from 'react-i18next';
-import { useEffect } from 'react';
+import { useState } from 'react';
 
 export default function SupportContent() {
   const { t, ready } = useTranslation('support');
+  const [isVideoPlaying, setIsVideoPlaying] = useState(false);
+  const [isHovered, setIsHovered] = useState(false);
 
-  useEffect(() => {
-    // Click-to-play functionality for YouTube video
-    const videoContainer = document.getElementById('video-container');
-    const videoThumbnail = document.getElementById('video-thumbnail');
-    const playButton = document.getElementById('play-button');
-    const youtubeIframe = document.getElementById('youtube-iframe') as HTMLIFrameElement;
+  const handleVideoClick = () => {
+    setIsVideoPlaying(true);
+  };
 
-    const handleClick = () => {
-      if (videoThumbnail) videoThumbnail.style.display = 'none';
-      if (playButton) playButton.style.display = 'none';
+  const handleMouseEnter = () => {
+    if (!isVideoPlaying) {
+      setIsHovered(true);
+    }
+  };
 
-      if (youtubeIframe) {
-        youtubeIframe.src = 'https://www.youtube.com/embed/xf-Fj_YaRik?start=14&autoplay=1';
-        youtubeIframe.style.display = 'block';
-      }
-
-      if (videoContainer) videoContainer.style.cursor = 'default';
-    };
-
-    const handleMouseEnter = () => {
-      if (playButton && playButton.style.display !== 'none') {
-        playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
-        playButton.style.background = 'rgba(250, 212, 58, 0.9)';
-      }
-    };
-
-    const handleMouseLeave = () => {
-      if (playButton && playButton.style.display !== 'none') {
-        playButton.style.transform = 'translate(-50%, -50%) scale(1)';
-        playButton.style.background = 'rgba(0, 0, 0, 0.7)';
-      }
-    };
-
-    videoContainer?.addEventListener('click', handleClick);
-    videoContainer?.addEventListener('mouseenter', handleMouseEnter);
-    videoContainer?.addEventListener('mouseleave', handleMouseLeave);
-
-    return () => {
-      videoContainer?.removeEventListener('click', handleClick);
-      videoContainer?.removeEventListener('mouseenter', handleMouseEnter);
-      videoContainer?.removeEventListener('mouseleave', handleMouseLeave);
-    };
-  }, []);
+  const handleMouseLeave = () => {
+    setIsHovered(false);
+  };
 
   if (!ready) {
     return null;
@@ -66,30 +38,59 @@ export default function SupportContent() {
 
       {/* Visual Content Section */}
       <figure style={{ margin: '3rem auto 48px auto', maxWidth: '900px' }}>
-        <div id="video-container" style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '4px', cursor: 'pointer' }}>
+        <div
+          onClick={handleVideoClick}
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+          style={{
+            position: 'relative',
+            paddingBottom: '56.25%',
+            height: 0,
+            overflow: 'hidden',
+            borderRadius: '4px',
+            cursor: isVideoPlaying ? 'default' : 'pointer'
+          }}
+        >
           {/* Video Thumbnail */}
-          <img
-            id="video-thumbnail"
-            src="https://img.youtube.com/vi/xf-Fj_YaRik/maxresdefault.jpg"
-            alt="Orbital Temple video introduction"
-            style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', borderRadius: '4px' }}
-          />
+          {!isVideoPlaying && (
+            <img
+              src="https://img.youtube.com/vi/xf-Fj_YaRik/maxresdefault.jpg"
+              alt="Orbital Temple video introduction"
+              style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', borderRadius: '4px' }}
+            />
+          )}
           {/* Play Button Overlay */}
-          <div id="play-button" style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '80px', height: '80px', background: 'rgba(0, 0, 0, 0.7)', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', transition: 'all 0.3s ease' }}>
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="white" style={{ marginLeft: '4px' }}>
-              <path d="M8 5v14l11-7z"/>
-            </svg>
-          </div>
-          {/* YouTube iframe (hidden initially) */}
-          <iframe
-            id="youtube-iframe"
-            style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', borderRadius: '4px', display: 'none' }}
-            src=""
-            title="Orbital Temple video introduction"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen>
-          </iframe>
+          {!isVideoPlaying && (
+            <div style={{
+              position: 'absolute',
+              top: '50%',
+              left: '50%',
+              transform: isHovered ? 'translate(-50%, -50%) scale(1.1)' : 'translate(-50%, -50%) scale(1)',
+              width: '80px',
+              height: '80px',
+              background: isHovered ? 'rgba(250, 212, 58, 0.9)' : 'rgba(0, 0, 0, 0.7)',
+              borderRadius: '50%',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              transition: 'all 0.3s ease'
+            }}>
+              <svg width="32" height="32" viewBox="0 0 24 24" fill="white" style={{ marginLeft: '4px' }}>
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+            </div>
+          )}
+          {/* YouTube iframe */}
+          {isVideoPlaying && (
+            <iframe
+              style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', borderRadius: '4px' }}
+              src="https://www.youtube.com/embed/xf-Fj_YaRik?autoplay=1"
+              title="Orbital Temple video introduction"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen>
+            </iframe>
+          )}
         </div>
         <figcaption className="caption-text">
           {t('videoCaption')}
