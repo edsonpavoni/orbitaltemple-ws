@@ -1,0 +1,578 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Witnesses Control - Orbital Temple">
+  <!-- Login Screen -->
+  <div id="login-screen" class="login-screen">
+    <div class="login-box">
+      <h1>Witnesses Control</h1>
+      <p style="margin-bottom: 1.5rem; opacity: 0.8;">Enter password to access sculpture control</p>
+      <input
+        type="password"
+        id="admin-password"
+        placeholder="Password"
+        class="login-input"
+        autocomplete="current-password"
+      />
+      <button id="login-button" class="login-button">Login</button>
+      <div id="login-error" class="login-error" style="display: none;">Incorrect password</div>
+    </div>
+  </div>
+
+  <!-- Control Interface (hidden until authenticated) -->
+  <div id="control-interface" class="control-container" style="display: none;">
+    <div class="header-row">
+      <h1>Witness Sculptures</h1>
+      <button id="logout-button" class="btn-logout">Logout</button>
+    </div>
+
+    <!-- Sculptures Status -->
+    <div class="sculptures-grid">
+      <div class="sculpture-card" id="card-001">
+        <div class="sculpture-header">
+          <h2>Witness-001</h2>
+          <span class="status-dot offline" id="status-001"></span>
+        </div>
+        <div class="sculpture-info">
+          <p>State: <span id="state-001">--</span></p>
+          <p>Speed: <span id="speed-001">--</span> RPM</p>
+          <p>Last seen: <span id="lastseen-001">--</span></p>
+        </div>
+      </div>
+
+      <div class="sculpture-card" id="card-002">
+        <div class="sculpture-header">
+          <h2>Witness-002</h2>
+          <span class="status-dot offline" id="status-002"></span>
+        </div>
+        <div class="sculpture-info">
+          <p>State: <span id="state-002">--</span></p>
+          <p>Speed: <span id="speed-002">--</span> RPM</p>
+          <p>Last seen: <span id="lastseen-002">--</span></p>
+        </div>
+      </div>
+
+      <div class="sculpture-card" id="card-003">
+        <div class="sculpture-header">
+          <h2>Witness-003</h2>
+          <span class="status-dot offline" id="status-003"></span>
+        </div>
+        <div class="sculpture-info">
+          <p>State: <span id="state-003">--</span></p>
+          <p>Speed: <span id="speed-003">--</span> RPM</p>
+          <p>Last seen: <span id="lastseen-003">--</span></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <div class="controls-section">
+      <h2>Commands</h2>
+      <div class="controls-grid">
+        <button id="btn-calibrate" class="btn-command btn-primary">
+          Calibrate All
+        </button>
+        <button id="btn-trigger" class="btn-command btn-accent">
+          Trigger Satellite Pass
+        </button>
+        <button id="btn-stop" class="btn-command btn-danger">
+          Stop All
+        </button>
+        <button id="btn-start" class="btn-command btn-success">
+          Start All
+        </button>
+      </div>
+    </div>
+
+    <!-- Activity Log -->
+    <div class="log-section">
+      <h2>Activity Log</h2>
+      <div id="activity-log" class="activity-log">
+        <p class="log-empty">No activity yet...</p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .login-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+  }
+
+  .login-box {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 3rem;
+    border-radius: 12px;
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+  }
+
+  .login-input {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.1rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    margin-bottom: 1rem;
+  }
+
+  .login-button {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.1rem;
+    background: #e94560;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+
+  .login-button:hover {
+    background: #c73e54;
+  }
+
+  .login-error {
+    color: #ff6b6b;
+    margin-top: 1rem;
+  }
+
+  .control-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+
+  .btn-logout {
+    padding: 0.5rem 1rem;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .btn-logout:hover {
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  /* Sculptures Grid */
+  .sculptures-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .sculpture-card {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .sculpture-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .sculpture-header h2 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+
+  .status-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #666;
+  }
+
+  .status-dot.online {
+    background: #2ecc71;
+    box-shadow: 0 0 10px #2ecc71;
+  }
+
+  .status-dot.offline {
+    background: #e74c3c;
+  }
+
+  .sculpture-info p {
+    margin: 0.5rem 0;
+    opacity: 0.8;
+  }
+
+  .sculpture-info span {
+    font-weight: bold;
+    color: #fff;
+  }
+
+  /* Controls Section */
+  .controls-section {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .controls-section h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  .controls-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+
+  .btn-command {
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-weight: bold;
+  }
+
+  .btn-primary {
+    background: #3498db;
+    color: white;
+  }
+
+  .btn-primary:hover {
+    background: #2980b9;
+  }
+
+  .btn-accent {
+    background: #9b59b6;
+    color: white;
+  }
+
+  .btn-accent:hover {
+    background: #8e44ad;
+  }
+
+  .btn-danger {
+    background: #e74c3c;
+    color: white;
+  }
+
+  .btn-danger:hover {
+    background: #c0392b;
+  }
+
+  .btn-success {
+    background: #2ecc71;
+    color: white;
+  }
+
+  .btn-success:hover {
+    background: #27ae60;
+  }
+
+  /* Activity Log */
+  .log-section {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 1.5rem;
+  }
+
+  .log-section h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  .activity-log {
+    max-height: 300px;
+    overflow-y: auto;
+    font-family: monospace;
+    font-size: 0.9rem;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    padding: 1rem;
+  }
+
+  .log-entry {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .log-entry:last-child {
+    border-bottom: none;
+  }
+
+  .log-time {
+    color: #888;
+    margin-right: 1rem;
+  }
+
+  .log-sculpture {
+    color: #3498db;
+    margin-right: 0.5rem;
+  }
+
+  .log-message {
+    color: #fff;
+  }
+
+  .log-empty {
+    opacity: 0.5;
+    text-align: center;
+  }
+
+  .log-command {
+    color: #f39c12;
+  }
+</style>
+
+<script>
+  const FUNCTIONS_URL = 'https://us-central1-orbital-temple.cloudfunctions.net';
+  const ADMIN_PASSWORD_HASH = '7fea0dc3d4f7d03ce7a99144996d445c8c52c68295f237b4a23b7633d6e0d091';
+  const AUTH_SESSION_KEY = 'orbital_witnesses_auth';
+
+  // Authentication
+  async function hashPassword(password: string): Promise<string> {
+    const encoder = new TextEncoder();
+    const data = encoder.encode(password);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  function isAuthenticated(): boolean {
+    return sessionStorage.getItem(AUTH_SESSION_KEY) === 'true';
+  }
+
+  function setAuthenticated(value: boolean) {
+    if (value) {
+      sessionStorage.setItem(AUTH_SESSION_KEY, 'true');
+    } else {
+      sessionStorage.removeItem(AUTH_SESSION_KEY);
+    }
+  }
+
+  async function handleLogin() {
+    const passwordInput = document.getElementById('admin-password') as HTMLInputElement;
+    const loginButton = document.getElementById('login-button') as HTMLButtonElement;
+    const loginError = document.getElementById('login-error') as HTMLDivElement;
+
+    if (!passwordInput || !loginButton || !loginError) return;
+
+    const password = passwordInput.value;
+    if (!password) {
+      loginError.textContent = 'Please enter a password';
+      loginError.style.display = 'block';
+      return;
+    }
+
+    loginButton.disabled = true;
+    loginButton.textContent = 'Verifying...';
+    loginError.style.display = 'none';
+
+    try {
+      const hash = await hashPassword(password);
+      if (hash === ADMIN_PASSWORD_HASH) {
+        setAuthenticated(true);
+        showControlInterface();
+      } else {
+        loginError.textContent = 'Incorrect password';
+        loginError.style.display = 'block';
+        passwordInput.value = '';
+        passwordInput.focus();
+      }
+    } catch (error) {
+      console.error('Login error:', error);
+      loginError.textContent = 'An error occurred';
+      loginError.style.display = 'block';
+    } finally {
+      loginButton.disabled = false;
+      loginButton.textContent = 'Login';
+    }
+  }
+
+  function showLoginScreen() {
+    const loginScreen = document.getElementById('login-screen');
+    const controlInterface = document.getElementById('control-interface');
+    if (loginScreen) loginScreen.style.display = 'flex';
+    if (controlInterface) controlInterface.style.display = 'none';
+  }
+
+  function showControlInterface() {
+    const loginScreen = document.getElementById('login-screen');
+    const controlInterface = document.getElementById('control-interface');
+    if (loginScreen) loginScreen.style.display = 'none';
+    if (controlInterface) controlInterface.style.display = 'block';
+    loadStatus();
+    startPolling();
+  }
+
+  // Status polling
+  let pollInterval: number | null = null;
+
+  function startPolling() {
+    if (pollInterval) clearInterval(pollInterval);
+    pollInterval = setInterval(loadStatus, 5000) as unknown as number;
+  }
+
+  async function loadStatus() {
+    try {
+      const response = await fetch(`${FUNCTIONS_URL}/witnessStatus`);
+      if (response.ok) {
+        const data = await response.json();
+        updateUI(data);
+      }
+    } catch (error) {
+      console.error('Failed to load status:', error);
+    }
+  }
+
+  function updateUI(data: any) {
+    const sculptures = ['001', '002', '003'];
+    const now = Date.now();
+
+    sculptures.forEach(id => {
+      const sculpture = data.sculptures?.[`witness-${id}`];
+      const statusDot = document.getElementById(`status-${id}`);
+      const stateEl = document.getElementById(`state-${id}`);
+      const speedEl = document.getElementById(`speed-${id}`);
+      const lastseenEl = document.getElementById(`lastseen-${id}`);
+
+      if (sculpture) {
+        const lastSeen = sculpture.timestamp || 0;
+        const isOnline = (now - lastSeen) < 30000; // 30 seconds
+
+        if (statusDot) {
+          statusDot.className = `status-dot ${isOnline ? 'online' : 'offline'}`;
+        }
+        if (stateEl) stateEl.textContent = sculpture.state || '--';
+        if (speedEl) speedEl.textContent = sculpture.speed?.toFixed(1) || '--';
+        if (lastseenEl) {
+          lastseenEl.textContent = lastSeen ? formatTime(lastSeen) : '--';
+        }
+      }
+    });
+
+    // Update log
+    if (data.log && Array.isArray(data.log)) {
+      updateLog(data.log);
+    }
+  }
+
+  function formatTime(timestamp: number): string {
+    const diff = Date.now() - timestamp;
+    if (diff < 60000) return `${Math.floor(diff / 1000)}s ago`;
+    if (diff < 3600000) return `${Math.floor(diff / 60000)}m ago`;
+    return new Date(timestamp).toLocaleTimeString();
+  }
+
+  function updateLog(entries: any[]) {
+    const logEl = document.getElementById('activity-log');
+    if (!logEl) return;
+
+    if (entries.length === 0) {
+      logEl.innerHTML = '<p class="log-empty">No activity yet...</p>';
+      return;
+    }
+
+    logEl.innerHTML = entries
+      .slice(-50) // Last 50 entries
+      .reverse()
+      .map(entry => `
+        <div class="log-entry">
+          <span class="log-time">${new Date(entry.timestamp).toLocaleTimeString()}</span>
+          <span class="log-sculpture">${entry.source || 'system'}</span>
+          <span class="log-message ${entry.type === 'command' ? 'log-command' : ''}">${entry.message}</span>
+        </div>
+      `)
+      .join('');
+  }
+
+  // Commands
+  async function sendCommand(action: string) {
+    addLocalLog('web', `Sending command: ${action}`, 'command');
+
+    try {
+      const response = await fetch(`${FUNCTIONS_URL}/witnessCommand`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action, timestamp: Date.now() })
+      });
+
+      if (response.ok) {
+        addLocalLog('web', `Command sent: ${action}`, 'command');
+      } else {
+        addLocalLog('web', `Command failed: ${action}`, 'error');
+      }
+    } catch (error) {
+      console.error('Command error:', error);
+      addLocalLog('web', `Command error: ${error}`, 'error');
+    }
+
+    // Refresh status
+    setTimeout(loadStatus, 1000);
+  }
+
+  function addLocalLog(source: string, message: string, type: string = 'info') {
+    const logEl = document.getElementById('activity-log');
+    if (!logEl) return;
+
+    const emptyMsg = logEl.querySelector('.log-empty');
+    if (emptyMsg) emptyMsg.remove();
+
+    const entry = document.createElement('div');
+    entry.className = 'log-entry';
+    entry.innerHTML = `
+      <span class="log-time">${new Date().toLocaleTimeString()}</span>
+      <span class="log-sculpture">${source}</span>
+      <span class="log-message ${type === 'command' ? 'log-command' : ''}">${message}</span>
+    `;
+    logEl.insertBefore(entry, logEl.firstChild);
+  }
+
+  // Event listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check auth
+    if (isAuthenticated()) {
+      showControlInterface();
+    } else {
+      showLoginScreen();
+    }
+
+    // Login
+    document.getElementById('login-button')?.addEventListener('click', handleLogin);
+    document.getElementById('admin-password')?.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') handleLogin();
+    });
+
+    // Logout
+    document.getElementById('logout-button')?.addEventListener('click', () => {
+      setAuthenticated(false);
+      if (pollInterval) clearInterval(pollInterval);
+      showLoginScreen();
+    });
+
+    // Commands
+    document.getElementById('btn-calibrate')?.addEventListener('click', () => sendCommand('calibrate'));
+    document.getElementById('btn-trigger')?.addEventListener('click', () => sendCommand('trigger'));
+    document.getElementById('btn-stop')?.addEventListener('click', () => sendCommand('stop'));
+    document.getElementById('btn-start')?.addEventListener('click', () => sendCommand('start'));
+  });
+</script>

@@ -640,3 +640,274 @@ export const getLaunchNotifications = functions.https.onRequest(async (req, res)
     res.status(500).json({error: "Internal server error"});
   }
 });
+
+// =============================================================================
+// WITNESS SCULPTURE FUNCTIONS
+// =============================================================================
+
+/**
+ * Witness sculpture status document type
+ */
+interface WitnessStatus {
+  sculptureId: string;
+  state: string;
+  speed: number;
+  position?: number;
+  timestamp: number;
+  ip?: string;
+}
+
+interface WitnessCommand {
+  action: string;
+  timestamp: number;
+  processed?: boolean;
+}
+
+interface WitnessLogEntry {
+  timestamp: number;
+  source: string;
+  message: string;
+  type: string;
+}
+
+/**
+ * HTTP endpoint to get witness sculptures status
+ * GET /witnessStatus
+ */
+export const witnessStatus = functions.https.onRequest(async (req, res) => {
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "GET, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  if (req.method !== "GET") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    // Get all sculpture statuses
+    const sculpturesSnapshot = await admin.firestore()
+      .collection("witnesses")
+      .doc("sculptures")
+      .get();
+
+    // Get activity log
+    const logSnapshot = await admin.firestore()
+      .collection("witnesses")
+      .doc("log")
+      .get();
+
+    // Get pending command
+    const commandSnapshot = await admin.firestore()
+      .collection("witnesses")
+      .doc("command")
+      .get();
+
+    const sculptures = sculpturesSnapshot.exists ? sculpturesSnapshot.data() : {};
+    const log = logSnapshot.exists ? (logSnapshot.data()?.entries || []) : [];
+    const command = commandSnapshot.exists ? commandSnapshot.data() : null;
+
+    res.status(200).json({
+      success: true,
+      sculptures: sculptures,
+      log: log,
+      command: command,
+    });
+  } catch (error) {
+    functions.logger.error("Error fetching witness status", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
+/**
+ * HTTP endpoint to send command to witness sculptures
+ * POST /witnessCommand
+ * Body: { action: string, timestamp: number }
+ */
+export const witnessCommand = functions.https.onRequest(async (req, res) => {
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  if (req.method !== "POST") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const {action, timestamp} = req.body as WitnessCommand;
+
+    if (!action || !["calibrate", "trigger", "stop", "start"].includes(action)) {
+      res.status(400).json({error: "Valid action required (calibrate, trigger, stop, start)"});
+      return;
+    }
+
+    // Save command for sculptures to pick up
+    await admin.firestore().collection("witnesses").doc("command").set({
+      action: action,
+      timestamp: timestamp || Date.now(),
+      processed: false,
+    });
+
+    // Add to activity log
+    await addWitnessLog("web", `Command sent: ${action}`, "command");
+
+    functions.logger.info("Witness command sent", {action, timestamp});
+
+    res.status(200).json({success: true, message: "Command sent"});
+  } catch (error) {
+    functions.logger.error("Error sending witness command", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
+/**
+ * HTTP endpoint for sculptures to report their status
+ * POST /witnessReport
+ * Body: { sculptureId: string, state: string, speed: number, position?: number }
+ */
+export const witnessReport = functions.https.onRequest(async (req, res) => {
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "POST, GET, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  // GET request - sculpture checking for commands
+  if (req.method === "GET") {
+    try {
+      const commandSnapshot = await admin.firestore()
+        .collection("witnesses")
+        .doc("command")
+        .get();
+
+      if (commandSnapshot.exists) {
+        const command = commandSnapshot.data() as WitnessCommand;
+        if (!command.processed) {
+          res.status(200).json({
+            success: true,
+            command: command,
+          });
+          return;
+        }
+      }
+
+      res.status(200).json({success: true, command: null});
+    } catch (error) {
+      functions.logger.error("Error getting witness command", error);
+      res.status(500).json({error: "Internal server error"});
+    }
+    return;
+  }
+
+  // POST request - sculpture reporting status
+  if (req.method !== "POST") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const {sculptureId, state, speed, position, commandAck} = req.body;
+
+    if (!sculptureId || typeof sculptureId !== "string") {
+      res.status(400).json({error: "sculptureId is required"});
+      return;
+    }
+
+    // Get IP address
+    const ipAddress = req.headers["x-forwarded-for"] as string ||
+                     req.headers["x-real-ip"] as string ||
+                     req.connection.remoteAddress ||
+                     "unknown";
+    const cleanIp = ipAddress.split(",")[0].trim();
+
+    // Update sculpture status
+    const statusUpdate: WitnessStatus = {
+      sculptureId: sculptureId,
+      state: state || "unknown",
+      speed: speed || 0,
+      position: position,
+      timestamp: Date.now(),
+      ip: cleanIp,
+    };
+
+    await admin.firestore().collection("witnesses").doc("sculptures").set({
+      [sculptureId]: statusUpdate,
+    }, {merge: true});
+
+    // If acknowledging a command, mark it as processed
+    if (commandAck) {
+      await admin.firestore().collection("witnesses").doc("command").update({
+        processed: true,
+      });
+      await addWitnessLog(sculptureId, `Executed command: ${commandAck}`, "ack");
+    }
+
+    // Check for pending commands
+    const commandSnapshot = await admin.firestore()
+      .collection("witnesses")
+      .doc("command")
+      .get();
+
+    let pendingCommand = null;
+    if (commandSnapshot.exists) {
+      const command = commandSnapshot.data() as WitnessCommand;
+      if (!command.processed) {
+        pendingCommand = command;
+      }
+    }
+
+    res.status(200).json({
+      success: true,
+      command: pendingCommand,
+    });
+  } catch (error) {
+    functions.logger.error("Error processing witness report", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
+/**
+ * Helper function to add entry to witness activity log
+ */
+async function addWitnessLog(source: string, message: string, type: string = "info") {
+  try {
+    const logRef = admin.firestore().collection("witnesses").doc("log");
+    const logDoc = await logRef.get();
+
+    let entries: WitnessLogEntry[] = [];
+    if (logDoc.exists) {
+      entries = logDoc.data()?.entries || [];
+    }
+
+    // Add new entry
+    entries.push({
+      timestamp: Date.now(),
+      source: source,
+      message: message,
+      type: type,
+    });
+
+    // Keep only last 100 entries
+    if (entries.length > 100) {
+      entries = entries.slice(-100);
+    }
+
+    await logRef.set({entries: entries});
+  } catch (error) {
+    functions.logger.error("Error adding witness log entry", error);
+  }
+}

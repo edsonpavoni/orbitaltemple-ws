@@ -18,5 +18,13 @@ service cloud.firestore {
       // Only authenticated users (admin) can update or delete
       allow update, delete: if request.auth != null;
     }
+
+    // Witnesses collection - accessed via Cloud Functions
+    // Direct client access is read-only for status display
+    match /witnesses/{docId} {
+      allow read: if true;
+      // Write operations go through Cloud Functions
+      allow write: if false;
+    }
   }
 }

@@ -25,7 +25,8 @@ export default function RotatingCountdown() {
 
   // Countdown timer
   useEffect(() => {
-    const launchDate = new Date('2025-11-28T14:00:00Z');
+    // December 20, 2025 at 05:59 AM IST (00:29 UTC)
+    const launchDate = new Date('2025-12-20T00:29:00Z');
 
     const calculateTimeLeft = () => {
       const now = new Date();
