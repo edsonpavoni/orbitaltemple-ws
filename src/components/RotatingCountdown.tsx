@@ -25,8 +25,8 @@ export default function RotatingCountdown() {
 
   // Countdown timer
   useEffect(() => {
-    // December 20, 2025 at 05:59 AM IST (00:29 UTC)
-    const launchDate = new Date('2025-12-20T00:29:00Z');
+    // December 25, 2025 at 04:15 UTC - Start of ISRO NOTAM launch window
+    const launchDate = new Date('2025-12-25T04:15:00Z');
 
     const calculateTimeLeft = () => {
       const now = new Date();
