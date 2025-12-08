@@ -13,7 +13,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'en',
     name: 'English',
-    description: 'to launch of the Orbital Temple, an artwork and a satellite, aiming to be a radical inclusive temple, in a place where no wall can reach.',
+    description: 'to the opening of the launch window. ISRO has officially published the NOTAM for PSLV-C62, confirming the launch window from December 25, 2025 to January 23, 2026.',
     notify: 'Notify me at launch',
     days: 'days',
     hours: 'hours',
@@ -23,7 +23,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'pt-BR',
     name: 'Brazilian Portuguese',
-    description: 'para o lançamento do Templo Orbital, uma obra de arte e um satélite, com o objetivo de ser um templo radicalmente inclusivo, em um lugar onde nenhum muro pode alcançar.',
+    description: 'para a abertura da janela de lançamento. A ISRO publicou oficialmente o NOTAM para o PSLV-C62, confirmando a janela de lançamento de 25 de dezembro de 2025 a 23 de janeiro de 2026.',
     notify: 'Me avise no lançamento',
     days: 'dias',
     hours: 'horas',
@@ -33,7 +33,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'hi',
     name: 'Hindi',
-    description: 'ऑर्बिटल टेम्पल के प्रक्षेपण तक, एक कलाकृति और एक उपग्रह, जिसका उद्देश्य एक कट्टरपंथी समावेशी मंदिर बनना है, ऐसी जगह पर जहां कोई दीवार नहीं पहुंच सकती।',
+    description: 'लॉन्च विंडो खुलने तक। ISRO ने PSLV-C62 के लिए आधिकारिक तौर पर NOTAM प्रकाशित किया है, जिसमें 25 दिसंबर 2025 से 23 जनवरी 2026 तक की लॉन्च विंडो की पुष्टि की गई है।',
     notify: 'लॉन्च पर मुझे सूचित करें',
     days: 'दिन',
     hours: 'घंटे',
@@ -43,7 +43,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'zh',
     name: 'Mandarin Chinese',
-    description: '轨道神殿发射倒计时，这是一件艺术品，也是一颗卫星，旨在成为一座激进包容的神殿，在一个没有墙能够触及的地方。',
+    description: '距离发射窗口开启。ISRO已正式发布PSLV-C62的NOTAM，确认发射窗口为2025年12月25日至2026年1月23日。',
     notify: '发射时通知我',
     days: '天',
     hours: '小时',
@@ -53,7 +53,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'es',
     name: 'Spanish',
-    description: 'para el lanzamiento del Templo Orbital, una obra de arte y un satélite, con el objetivo de ser un templo radicalmente inclusivo, en un lugar donde ningún muro puede alcanzar.',
+    description: 'para la apertura de la ventana de lanzamiento. ISRO ha publicado oficialmente el NOTAM para PSLV-C62, confirmando la ventana de lanzamiento del 25 de diciembre de 2025 al 23 de enero de 2026.',
     notify: 'Notificarme en el lanzamiento',
     days: 'días',
     hours: 'horas',
@@ -63,7 +63,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'fr',
     name: 'French',
-    description: 'jusqu\'au lancement du Temple Orbital, une œuvre d\'art et un satellite, visant à être un temple radicalement inclusif, dans un lieu qu\'aucun mur ne peut atteindre.',
+    description: 'jusqu\'à l\'ouverture de la fenêtre de lancement. L\'ISRO a officiellement publié le NOTAM pour PSLV-C62, confirmant la fenêtre de lancement du 25 décembre 2025 au 23 janvier 2026.',
     notify: 'Me notifier au lancement',
     days: 'jours',
     hours: 'heures',
@@ -73,7 +73,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'ar',
     name: 'Modern Standard Arabic',
-    description: 'حتى إطلاق المعبد المداري، عمل فني وقمر صناعي، يهدف إلى أن يكون معبداً شاملاً جذرياً، في مكان لا يمكن لأي جدار أن يصل إليه.',
+    description: 'حتى افتتاح نافذة الإطلاق. نشرت ISRO رسمياً إشعار NOTAM لـ PSLV-C62، مؤكدة نافذة الإطلاق من 25 ديسمبر 2025 إلى 23 يناير 2026.',
     notify: 'أخبرني عند الإطلاق',
     days: 'أيام',
     hours: 'ساعات',
@@ -93,7 +93,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'pt',
     name: 'Portuguese',
-    description: 'para o lançamento do Templo Orbital, uma obra de arte e um satélite, com o objetivo de ser um templo radicalmente inclusivo, em um lugar onde nenhum muro pode alcançar.',
+    description: 'para a abertura da janela de lançamento. A ISRO publicou oficialmente o NOTAM para o PSLV-C62, confirmando a janela de lançamento de 25 de dezembro de 2025 a 23 de janeiro de 2026.',
     notify: 'Notificar-me no lançamento',
     days: 'dias',
     hours: 'horas',
@@ -103,7 +103,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'ru',
     name: 'Russian',
-    description: 'до запуска Орбитального Храма, произведения искусства и спутника, стремящегося стать радикально инклюзивным храмом, в месте, куда не может достичь ни одна стена.',
+    description: 'до открытия окна запуска. ISRO официально опубликовала NOTAM для PSLV-C62, подтвердив окно запуска с 25 декабря 2025 года по 23 января 2026 года.',
     notify: 'Уведомить меня о запуске',
     days: 'дней',
     hours: 'часов',
@@ -133,7 +133,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'de',
     name: 'German',
-    description: 'bis zum Start des Orbital-Tempels, eines Kunstwerks und Satelliten, mit dem Ziel, ein radikal inklusiver Tempel zu sein, an einem Ort, den keine Mauer erreichen kann.',
+    description: 'bis zur Öffnung des Startfensters. ISRO hat offiziell das NOTAM für PSLV-C62 veröffentlicht und das Startfenster vom 25. Dezember 2025 bis 23. Januar 2026 bestätigt.',
     notify: 'Benachrichtige mich beim Start',
     days: 'Tage',
     hours: 'Stunden',
@@ -143,7 +143,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'ja',
     name: 'Japanese',
-    description: 'オービタル・テンプルの打ち上げまで。アート作品であり人工衛星でもあり、どの壁も届かない場所に、根本的に包括的な寺院を目指します。',
+    description: '打ち上げウィンドウの開始まで。ISROはPSLV-C62のNOTAMを正式に発表し、2025年12月25日から2026年1月23日までの打ち上げウィンドウを確認しました。',
     notify: '打ち上げ時に通知する',
     days: '日',
     hours: '時間',
@@ -223,7 +223,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'it',
     name: 'Italian',
-    description: 'al lancio del Tempio Orbitale, un\'opera d\'arte e un satellite, con l\'obiettivo di essere un tempio radicalmente inclusivo, in un luogo dove nessun muro può arrivare.',
+    description: 'all\'apertura della finestra di lancio. ISRO ha ufficialmente pubblicato il NOTAM per PSLV-C62, confermando la finestra di lancio dal 25 dicembre 2025 al 23 gennaio 2026.',
     notify: 'Notificami al lancio',
     days: 'giorni',
     hours: 'ore',
@@ -243,7 +243,7 @@ export const countdownTranslations: CountdownTranslation[] = [
   {
     code: 'ko',
     name: 'Korean',
-    description: '궤도 사원 발사까지, 예술 작품이자 위성으로, 어떤 벽도 닿을 수 없는 곳에 근본적으로 포용적인 사원이 되는 것을 목표로 합니다.',
+    description: '발사 창 개막까지. ISRO가 PSLV-C62에 대한 NOTAM을 공식 발표하여 2025년 12월 25일부터 2026년 1월 23일까지의 발사 창을 확인했습니다.',
     notify: '발사 시 알림',
     days: '일',
     hours: '시간',
