@@ -38,7 +38,7 @@ export default function CountdownPill() {
           gap: 0.25rem;
           background: rgba(255,255,255,0.05);
           padding: 0.75rem 1.5rem;
-          borderRadius: 24px;
+          border-radius: 24px;
           border: 1px solid rgba(255,255,255,0.1);
           text-decoration: none;
           transition: background 0.2s ease, border-color 0.2s ease;

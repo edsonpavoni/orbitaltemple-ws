@@ -286,6 +286,13 @@ a[style*="border"]:hover,
   font-size: 14.76px;
 }
 
+/* Mobile: Scale ritual button to 90% (10% smaller) */
+@media (max-width: 639px) {
+  #ritual-button-container {
+    transform: scale(0.9);
+  }
+}
+
 /* Success Page Text */
 .success-title {
   font-size: 16px;

@@ -4,19 +4,20 @@
 interface Props {
   size?: number;
   label?: string;
+  fontSize?: number;
 }
 
-const { size = 154, label = "ritual" } = Astro.props;
+const { size = 154, label = "ritual", fontSize } = Astro.props;
 const radius = size / 2;
 // Match exact dimensions from ritual-button-v6 CSS:
 // Circle diameter: calc(var(--size) * 0.882), so radius = size * 0.441
 const circleRadius = size * 0.441;
+// Use fixed fontSize if provided, otherwise calculate from size
+const textSize = fontSize || size * 0.12;
 ---
 
-<div class="ritual-placeholder" style={`width: ${size}px; height: ${size}px;`}>
+<div class="ritual-placeholder" style={`--placeholder-size: ${size}px;`}>
   <svg
-    width={size}
-    height={size}
     viewBox={`0 0 ${size} ${size}`}
     xmlns="http://www.w3.org/2000/svg"
     aria-hidden="true"
@@ -38,7 +39,7 @@ const circleRadius = size * 0.441;
       text-anchor="middle"
       dominant-baseline="middle"
       font-family="system-ui, -apple-system, sans-serif"
-      font-size={size * 0.12}
+      font-size={textSize}
       font-weight="700"
       fill="#3C2A00"
       class="button-label"
@@ -55,6 +56,13 @@ const circleRadius = size * 0.441;
     justify-content: center;
     cursor: pointer;
     transition: transform 0.2s ease;
+    width: var(--placeholder-size);
+    height: var(--placeholder-size);
+  }
+
+  .ritual-placeholder svg {
+    width: 100%;
+    height: 100%;
   }
 
   .ritual-placeholder:hover {
