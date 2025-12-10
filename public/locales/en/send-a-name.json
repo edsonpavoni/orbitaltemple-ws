@@ -19,6 +19,9 @@
     "alt": "Loading"
   },
   "success": {
-    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message."
+    "text": "the name\n{{name}}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.",
+    "share": "share",
+    "support": "support the Orbital Temple",
+    "shareText": "I just sent the name {{name}} to the Orbital Temple, a temple in space that accepts everyone."
   }
 }
