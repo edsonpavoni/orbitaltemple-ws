@@ -59,14 +59,14 @@ import "../styles/ritual-button.css";
     <!-- Ritual Button (centered in remaining space) -->
     <div style="flex: 1; display: flex; align-items: center; justify-content: center; position: relative; z-index: 1; min-height: 2rem;">
       <a href="/send-a-name" id="ritual-button-link" style="display: inline-block; text-decoration: none; color: inherit;" aria-label="Enter the ritual - Send a name to the Orbital Temple">
-        <div id="ritual-button-container" style="position: relative; display: flex; justify-content: center; margin: 0;">
+        <div id="ritual-button-container" style="position: relative; display: flex; justify-content: center; align-items: center; margin: 0;">
           <!-- Immediate placeholder (no JS needed) -->
           <div id="ritual-placeholder-wrapper">
-            <RitualButtonPlaceholder size={123} label="ritual" />
+            <RitualButtonPlaceholder size={160} label="send a name" />
           </div>
 
           <!-- Enhanced version (loads after page is interactive) -->
-          <div id="ritual-button-enhanced" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.4s ease-in; pointer-events: none;">
+          <div id="ritual-button-enhanced" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 0; transition: opacity 0.4s ease-in; pointer-events: none;">
             <HomeRitualButton client:only="react" />
           </div>
         </div>

@@ -16,7 +16,8 @@ export default function HomeRitualButton() {
       rotationSec={12.5}
       hoverRotationSec={5}
       hoverSlowToFlat={true}
-      size={123}
+      size={160}
+      className="home-ritual-btn"
     />
   );
 }

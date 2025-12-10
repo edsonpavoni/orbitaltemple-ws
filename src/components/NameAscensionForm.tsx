@@ -368,7 +368,7 @@ export default function SendNameForm() {
               setCurrentStep('name-input');
               setSpeedBoost(prev => prev + 1);
             }}
-            className="btn-action"
+            className="btn-circle-arrow"
             style={{
               opacity: showBreathingButton ? 1 : 0,
               transition: 'opacity 0.6s ease-in-out',
@@ -379,7 +379,9 @@ export default function SendNameForm() {
             }}
           >
             {t('breathing.button')}
-            <img src="/UI/arrow.svg" alt="arrow" />
+            <span className="circle-arrow">
+              <img src="/UI/arrow.svg" alt="arrow" />
+            </span>
           </button>
         </div>
 
@@ -461,7 +463,7 @@ export default function SendNameForm() {
                 }, 0);
               }
             }}
-            className="btn-action"
+            className="btn-circle-arrow"
             style={{
               alignSelf: 'flex-end',
               marginLeft: 'auto',
@@ -473,7 +475,9 @@ export default function SendNameForm() {
             }}
           >
             {t('nameInput.button')}
-            <img src="/UI/arrow.svg" alt="arrow" />
+            <span className="circle-arrow">
+              <img src="/UI/arrow.svg" alt="arrow" />
+            </span>
           </button>
         </div>
 
@@ -555,7 +559,7 @@ export default function SendNameForm() {
                 }, 0);
               }
             }}
-            className="btn-action"
+            className="btn-circle-arrow"
             style={{
               alignSelf: 'flex-end',
               marginLeft: 'auto',
@@ -567,7 +571,9 @@ export default function SendNameForm() {
             }}
           >
             {t('emailInput.button')}
-            <img src="/UI/arrow.svg" alt="arrow" />
+            <span className="circle-arrow">
+              <img src="/UI/arrow.svg" alt="arrow" />
+            </span>
           </button>
         </div>
 
