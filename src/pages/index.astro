@@ -1,13 +1,18 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
-import RotatingCountdown, { RotatingNotifyLink } from "../components/RotatingCountdown";
+import Base from "../layouts/BaseLayout.astro";
+import HomeRitualButton from "../components/HomeRitualButton";
+import RitualButtonPlaceholder from "../components/RitualButtonPlaceholder.astro";
+import HomeHero from "../components/HomeHero";
+import HomeCTA from "../components/HomeCTA";
+import ManifestoContent from "../components/ManifestoContent";
+import FooterCredits from "../components/FooterCredits";
+import "../styles/ritual-button.css";
+// import YetAnotherTemple from "../components/YetAnotherTemple.astro";
 ---
+<Base title="Orbital Temple">
 
-<BaseLayout title="Orbital Temple - Launching November 28, 2025">
-
-  <!-- Full Screen Countdown Section -->
-  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; padding: 1.5rem;">
-
+  <!-- First Fold: Hero Section with Satellite Background -->
+  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 1.5rem 1.5rem 36px 1.5rem;">
     <!-- Satellite Background Video -->
     <div style="position: absolute; inset: 0; z-index: 0;">
       <!-- Mobile Video -->
@@ -37,49 +42,103 @@ import RotatingCountdown, { RotatingNotifyLink } from "../components/RotatingCou
       </video>
     </div>
 
-    <!-- Top spacer -->
-    <div style="flex: 1; position: relative; z-index: 1;"></div>
+    <!-- Top spacer for vertical centering -->
+    <div style="flex: 1; min-height: 2rem;"></div>
 
-    <!-- Content Container (vertically centered) -->
-    <div style="position: relative; z-index: 1; text-align: center; max-width: 800px; width: 100%; margin: 0 auto;">
-      <RotatingCountdown client:only="react" />
+    <!-- Hero Content (centered) -->
+    <div style="text-align: center; max-width: 600px; position: relative; z-index: 1;">
+      <HomeHero client:only="react" />
     </div>
 
-    <!-- Bottom spacer and notify link -->
-    <div style="flex: 1; position: relative; z-index: 1; display: flex; align-items: flex-end; justify-content: center; padding-bottom: 2rem;">
-      <RotatingNotifyLink client:only="react" />
+    <!-- Ritual Button (centered in remaining space) -->
+    <div style="flex: 1; display: flex; align-items: center; justify-content: center; position: relative; z-index: 1; min-height: 2rem;">
+      <a href="/send-a-name" id="ritual-button-link" style="display: inline-block; text-decoration: none; color: inherit;" aria-label="Enter the ritual - Send a name to the Orbital Temple">
+        <div id="ritual-button-container" style="position: relative; display: flex; justify-content: center; margin: 0;">
+          <!-- Immediate placeholder (no JS needed) -->
+          <div id="ritual-placeholder-wrapper">
+            <RitualButtonPlaceholder size={123} label="ritual" />
+          </div>
+
+          <!-- Enhanced version (loads after page is interactive) -->
+          <div id="ritual-button-enhanced" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.4s ease-in; pointer-events: none;">
+            <HomeRitualButton client:only="react" />
+          </div>
+        </div>
+      </a>
     </div>
 
+    <script>
+      // Progressive enhancement: swap placeholder with interactive version when loaded
+      function initRitualButton() {
+        const placeholder = document.getElementById('ritual-placeholder-wrapper');
+        const enhanced = document.getElementById('ritual-button-enhanced');
+
+        if (!placeholder || !enhanced) return;
+
+        // Wait for the React component to be ready
+        const checkInterval = setInterval(() => {
+          const component = enhanced.querySelector('.ritual-wrap-v6');
+          if (component) {
+            // Component is ready, swap
+            enhanced.style.opacity = '1';
+            enhanced.style.pointerEvents = 'auto';
+            placeholder.style.opacity = '0';
+            placeholder.style.pointerEvents = 'none';
+
+            clearInterval(checkInterval);
+          }
+        }, 100);
+
+        // Cleanup after 5 seconds
+        setTimeout(() => clearInterval(checkInterval), 5000);
+      }
+
+      // Run on page load
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initRitualButton);
+      } else {
+        initRitualButton();
+      }
+
+      // Run on Astro page transitions
+      document.addEventListener('astro:page-load', initRitualButton);
+    </script>
+
+    <!-- Bottom link with 36px margin (from padding) -->
+    <div style="position: relative; z-index: 1; width: 100%;">
+      <HomeCTA client:only="react" />
+    </div>
   </section>
 
-  <!-- Styles -->
+  <!-- Second Fold: Dome Image -->
+  <section id="dome" style="position: relative; width: 100%; background-color: var(--color-ot-dark);">
+    <picture>
+      <source media="(min-width: 768px)" srcset="/UI/dome_large.webp" />
+      <img src="/UI/dome.webp" alt="Dome" style="width: 100%; height: auto; display: block;" />
+    </picture>
+  </section>
+
+  <!-- Third Section: Manifesto -->
+  <section style="position: relative; background-color: var(--color-ot-dark);">
+    <ManifestoContent client:only="react" />
+  </section>
+
+  <!-- Footer: Credits -->
+  <footer style="background-color: var(--color-ot-dark); padding: 4rem 1.5rem 2rem 1.5rem;">
+    <FooterCredits client:only="react" />
+  </footer>
+
+  <!-- Responsive Video Styles -->
   <style is:global>
-    /* Hide header on countdown page */
-    body header {
+    /* Mobile: show mobile video, hide desktop video */
+    .mobile-video {
+      display: block !important;
+    }
+    .desktop-video {
       display: none !important;
-      visibility: hidden !important;
-      opacity: 0 !important;
-      pointer-events: none !important;
     }
 
-    /* Countdown sizing - smaller on mobile */
-    .countdown-timer {
-      gap: 1rem !important;
-    }
-
-    .time-unit {
-      min-width: 60px !important;
-    }
-
-    .time-value {
-      font-size: 32px !important;
-    }
-
-    .time-label {
-      font-size: 12px !important;
-    }
-
-    /* Larger countdown on desktop */
+    /* Desktop: hide mobile video, show desktop video */
     @media (min-width: 768px) {
       .mobile-video {
         display: none !important;
@@ -87,31 +146,7 @@ import RotatingCountdown, { RotatingNotifyLink } from "../components/RotatingCou
       .desktop-video {
         display: block !important;
       }
-
-      .countdown-timer {
-        gap: 2rem !important;
-      }
-
-      .time-unit {
-        min-width: 80px !important;
-      }
-
-      .time-value {
-        font-size: 48px !important;
-      }
-
-      .time-label {
-        font-size: 14px !important;
-      }
-    }
-
-    /* Notify link hover effect */
-    .notify-link:hover,
-    .notify-link-rotating:hover {
-      color: var(--color-ot-gold200) !important;
-      text-decoration: underline !important;
-      opacity: 1 !important;
     }
   </style>
 
-</BaseLayout>
+</Base>
