@@ -21,8 +21,8 @@
     "heading": "Key Facts",
     "artist": "<strong>Artist:</strong> Edson Pavoni (Brazil)",
     "projectType": "<strong>Project Type:</strong> Satellite artwork, site-specific on space, web-based ritual",
-    "launchDate": "<strong>Launch Date:</strong> November 28, 2025",
-    "launchLocation": "<strong>Launch Location:</strong> Satish Dhawan Space Centre, Sriharikota, India (ISRO)",
+    "launchDate": "<strong>Launch Window:</strong> December 25, 2025 – January 23, 2026 (ISRO NOTAM confirmed)",
+    "launchLocation": "<strong>Launch Location:</strong> Satish Dhawan Space Centre, Sriharikota, India (ISRO PSLV-C62)",
     "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
     "orbit": "<strong>Orbit:</strong> 525km altitude, Sun-synchronous",
     "participation": "<strong>Participation:</strong> Free, open to everyone globally",
@@ -108,7 +108,7 @@
       "weight": "Weight: 245g",
       "materials": "Materials: Aluminum, gold, fiberglass, electronic components",
       "orbit": "Orbit: Altitude 525 ± 25 km; Inclination: SSO 97.6 ± 0.1°",
-      "launch": "Launch: November 28, 2025 via ISRO, India"
+      "launch": "Launch: December 25, 2025 – January 23, 2026 via ISRO PSLV-C62, India"
     },
     "antenna": {
       "heading": "Antenna/Sculpture",
@@ -119,7 +119,7 @@
     "radio": {
       "heading": "Radio Specifications",
       "downlink": "Downlink: 437 MHz",
-      "status": "Launch Status: Scheduled November 28, 2025"
+      "status": "Launch Status: ISRO NOTAM confirmed window December 25, 2025 – January 23, 2026"
     }
   },
   "additionalResources": {

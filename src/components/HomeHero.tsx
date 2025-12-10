@@ -34,7 +34,7 @@ export default function HomeHero() {
           margin: 0,
           color: '#ffffff'
         }}>
-          The first purely artistic satellite from the Global South
+          A purely artistic satellite from the Global South
         </p>
       </>
     );
