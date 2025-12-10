@@ -6,6 +6,7 @@ import HomeHero from "../components/HomeHero";
 import HomeCTA from "../components/HomeCTA";
 import ManifestoContent from "../components/ManifestoContent";
 import FooterCredits from "../components/FooterCredits";
+import CountdownPill from "../components/CountdownPill";
 import "../styles/ritual-button.css";
 // import YetAnotherTemple from "../components/YetAnotherTemple.astro";
 ---
@@ -42,8 +43,13 @@ import "../styles/ritual-button.css";
       </video>
     </div>
 
-    <!-- Top spacer for vertical centering -->
-    <div style="flex: 1; min-height: 2rem;"></div>
+    <!-- Countdown Pill at top -->
+    <div style="position: relative; z-index: 1; text-align: center; padding-top: 1rem;">
+      <CountdownPill client:only="react" />
+    </div>
+
+    <!-- Spacer for vertical centering -->
+    <div style="flex: 1; min-height: 1rem;"></div>
 
     <!-- Hero Content (centered) -->
     <div style="text-align: center; max-width: 600px; position: relative; z-index: 1;">
