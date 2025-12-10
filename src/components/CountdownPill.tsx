@@ -31,6 +31,12 @@ export default function CountdownPill() {
   return (
     <>
       <style>{`
+        .countdown-pill-wrapper {
+          display: flex;
+          justify-content: center;
+          transform: scale(0.9);
+          transform-origin: top center;
+        }
         .countdown-pill {
           display: inline-flex;
           flex-direction: column;
@@ -48,6 +54,9 @@ export default function CountdownPill() {
           border-color: rgba(255,255,255,0.2);
         }
         @media (min-width: 640px) {
+          .countdown-pill-wrapper {
+            transform: scale(1);
+          }
           .countdown-pill {
             flex-direction: row;
             gap: 0.75rem;
@@ -55,7 +64,8 @@ export default function CountdownPill() {
           }
         }
       `}</style>
-      <a href="/space-launch" className="countdown-pill">
+      <div className="countdown-pill-wrapper">
+        <a href="/space-launch" className="countdown-pill">
         <span style={{
           fontSize: '12px',
           opacity: 0.6,
@@ -73,6 +83,7 @@ export default function CountdownPill() {
           {timeLeft.days}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px', marginRight: '8px' }}>days</span>{pad(timeLeft.hours)}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px', marginRight: '8px' }}>hours</span>{pad(timeLeft.minutes)}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px', marginRight: '8px' }}>mins</span>{pad(timeLeft.seconds)}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px' }}>secs</span>
         </span>
       </a>
+      </div>
     </>
   );
 }
