@@ -42,7 +42,7 @@ export default function MenuContent() {
           </a>
         </h2>
         <h2 style={{ fontSize: 'var(--text-display-md)', lineHeight: 'var(--text-display-md-lh)', fontWeight: 700, margin: 0 }}>
-          <a href="/artist" style={linkStyle} onClick={handleLinkClick}
+          <a href="/#dome" style={linkStyle} onClick={handleLinkClick}
              onMouseOver={(e) => e.currentTarget.style.color = 'var(--color-ot-gold300)'}
              onMouseOut={(e) => e.currentTarget.style.color = 'var(--color-ot-gold600)'}>
             {t('nav.fromTheArtist')}
@@ -51,13 +51,6 @@ export default function MenuContent() {
       </div>
 
       <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
-        <li style={{ fontSize: 'var(--text-display-sm)', lineHeight: 'var(--text-display-sm-lh)' }}>
-          <a href="/#dome" style={linkStyle} onClick={handleLinkClick}
-             onMouseOver={(e) => e.currentTarget.style.color = 'var(--color-ot-gold300)'}
-             onMouseOut={(e) => e.currentTarget.style.color = 'var(--color-ot-gold600)'}>
-            {t('nav.yetAnotherTemple')}
-          </a>
-        </li>
         <li style={{ fontSize: 'var(--text-display-sm)', lineHeight: 'var(--text-display-sm-lh)' }}>
           <a href="/how-it-works" style={linkStyle} onClick={handleLinkClick}
              onMouseOver={(e) => e.currentTarget.style.color = 'var(--color-ot-gold300)'}

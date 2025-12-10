@@ -322,14 +322,6 @@ export default function SendNameForm() {
         paddingBottom: '1.5rem',
         boxSizing: 'border-box',
         overflow: 'hidden',
-        cursor: (currentStep === 'complete' && !isDesktop) ? 'pointer' : 'auto',
-      }}
-      onClick={() => {
-        // On mobile, clicking anywhere on complete screen opens the menu
-        if (currentStep === 'complete' && !isDesktop) {
-          const menuButton = document.getElementById('btn-menu');
-          menuButton?.click();
-        }
       }}
     >
       <div style={{
@@ -600,14 +592,6 @@ export default function SendNameForm() {
             ...getStepStyle('complete'),
             top: isDesktop ? '50%' : 'auto',
             transform: isDesktop ? 'translate(-50%, -50%)' : 'translateX(-50%)',
-            cursor: !isDesktop ? 'pointer' : 'auto',
-          }}
-          onClick={() => {
-            // On mobile, clicking anywhere opens the menu
-            if (!isDesktop) {
-              const menuButton = document.getElementById('btn-menu');
-              menuButton?.click();
-            }
           }}
         >
 
@@ -618,6 +602,68 @@ export default function SendNameForm() {
           }}>
             {renderTextWithBreaks(t('success.text', { name }))}
           </p>
+
+          {/* Share and Support links */}
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            gap: '2rem',
+            marginTop: '2rem',
+            opacity: showCompleteText ? 1 : 0,
+            transition: 'opacity 0.6s ease-in-out',
+            transitionDelay: '0.3s',
+          }}>
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                const shareText = t('success.shareText', { name });
+                const shareUrl = 'https://orbitaltemple.art';
+                if (navigator.share) {
+                  navigator.share({
+                    title: 'Orbital Temple',
+                    text: shareText,
+                    url: shareUrl,
+                  }).catch(() => {
+                    // Fallback to clipboard
+                    navigator.clipboard.writeText(`${shareText} ${shareUrl}`);
+                  });
+                } else {
+                  navigator.clipboard.writeText(`${shareText} ${shareUrl}`);
+                }
+              }}
+              style={{
+                background: 'none',
+                border: 'none',
+                color: 'rgba(255, 255, 255, 0.6)',
+                fontSize: '14px',
+                cursor: 'pointer',
+                padding: '0.5rem',
+                transition: 'color 0.2s ease',
+              }}
+              onMouseEnter={(e) => e.currentTarget.style.color = 'rgba(255, 255, 255, 1)'}
+              onMouseLeave={(e) => e.currentTarget.style.color = 'rgba(255, 255, 255, 0.6)'}
+            >
+              {t('success.share')}
+            </button>
+            <a
+              href="/support"
+              onClick={(e) => e.stopPropagation()}
+              style={{
+                background: 'none',
+                border: 'none',
+                color: 'rgba(255, 255, 255, 0.6)',
+                fontSize: '14px',
+                cursor: 'pointer',
+                padding: '0.5rem',
+                textDecoration: 'none',
+                transition: 'color 0.2s ease',
+              }}
+              onMouseEnter={(e) => e.currentTarget.style.color = 'rgba(255, 255, 255, 1)'}
+              onMouseLeave={(e) => e.currentTarget.style.color = 'rgba(255, 255, 255, 0.6)'}
+            >
+              {t('success.support')}
+            </a>
+          </div>
         </div>
 
       </div>
