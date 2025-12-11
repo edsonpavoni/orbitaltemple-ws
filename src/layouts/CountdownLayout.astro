@@ -46,6 +46,15 @@ const imageUrl = new URL(image, Astro.url.origin).href;
   <body style="margin: 0; padding: 0; min-height: 100vh; background-color: var(--color-ot-dark);">
     <HeaderSimple />
     <slot />
+    <!-- Google Analytics (gtag.js) - loads async, non-blocking -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HVL38VVH3N"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-HVL38VVH3N');
+    </script>
+
     <script>
       // Initialize i18n before components load
       import('../lib/i18n');
