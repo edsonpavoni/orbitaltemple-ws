@@ -7,6 +7,17 @@ type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete';
 // Email validation regex - created once, not per render
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
+// Analytics helper - tracks funnel steps
+const trackStep = (stepName: string, stepNumber: number) => {
+  if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
+    (window as any).gtag('event', 'funnel_step', {
+      event_category: 'send_a_name',
+      event_label: stepName,
+      step_number: stepNumber,
+    });
+  }
+};
+
 // Step order for transition calculations
 const STEP_ORDER: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
 
@@ -44,6 +55,11 @@ export default function SendNameForm() {
   // Email validation function - memoized
   const validateEmail = useCallback((email: string): boolean => {
     return EMAIL_REGEX.test(email);
+  }, []);
+
+  // Track initial page view (Step 1: breathing)
+  useEffect(() => {
+    trackStep('breathing', 1);
   }, []);
 
   // Track viewport height changes and desktop state
@@ -207,9 +223,11 @@ export default function SendNameForm() {
     console.log('handleProceed called', { currentStep, name, email, isEmailValid });
     if (currentStep === 'name-input' && name.length >= 1) {
       console.log('Moving to email-input');
+      trackStep('email-input', 3);
       setCurrentStep('email-input');
     } else if (currentStep === 'email-input' && isEmailValid) {
       console.log('Moving to loading');
+      trackStep('loading', 4);
       setCurrentStep('loading');
     } else {
       console.log('Condition not met', { currentStep, nameLength: name.length, isEmailValid });
@@ -247,6 +265,7 @@ export default function SendNameForm() {
 
       // Wait a bit before showing completion
       setTimeout(() => {
+        trackStep('complete', 5);
         setCurrentStep('complete');
       }, 1000);
     } catch (error) {
@@ -254,6 +273,7 @@ export default function SendNameForm() {
 
       // Still show complete screen but log error
       setTimeout(() => {
+        trackStep('complete', 5);
         setCurrentStep('complete');
       }, 1000);
     }
@@ -357,6 +377,7 @@ export default function SendNameForm() {
 
           <button
             onClick={() => {
+              trackStep('name-input', 2);
               setCurrentStep('name-input');
               setSpeedBoost(prev => prev + 1);
             }}
