@@ -48,9 +48,14 @@
     "individualDonations": {
       "heading": "Individual Donations",
       "intro": "Join the mission at a level that works for you. Individual supporters are the foundation of this historic project.",
+      "stargazer": {
+        "title": "Stargazer",
+        "benefits": "You receive: Name on website honor roll · Personalized digital certificate · Tax-deductible receipt",
+        "button": "Make Tax-Deductible Donation"
+      },
       "orbitalFriend": {
         "title": "Orbital Friend",
-        "benefits": "You receive: Name on website honor roll · Personalized orbital certificate when satellite launches · Documentary thank you credit · Tax-deductible receipt",
+        "benefits": "You receive: All Stargazer benefits · Personalized orbital certificate when satellite launches · Documentary thank you credit · Tax-deductible receipt",
         "button": "Make Tax-Deductible Donation"
       },
       "satelliteSupporter": {
