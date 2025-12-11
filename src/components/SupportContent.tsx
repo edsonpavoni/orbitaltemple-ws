@@ -200,6 +200,26 @@ export default function SupportContent() {
 
       <div style={{ display: 'grid', gap: '1.5rem', marginBottom: '4rem', maxWidth: '900px', marginLeft: 'auto', marginRight: 'auto' }}>
 
+        {/* $100 Tier */}
+        <div style={{ background: 'rgba(250, 212, 58, 0.02)', padding: '1.75rem', borderLeft: '3px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '0.75rem', flexWrap: 'wrap', gap: '1rem' }}>
+            <h3 className="section-subtitle" style={{ margin: 0 }}>{t('waysToSupport.individualDonations.stargazer.title')}</h3>
+            <p className="price-small">$100</p>
+          </div>
+          <p className="body-text body-text--secondary" style={{ marginTop: '0.75rem' }}>
+            {t('waysToSupport.individualDonations.stargazer.benefits')}
+          </p>
+          <div style={{ marginTop: '1.25rem', textAlign: 'right' }}>
+            <a
+              href="https://app.thefield.org/home/donation/general/632877/0"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ display: 'inline-block', padding: '0.5rem 1rem', fontSize: '0.9rem', border: '1px solid var(--color-ot-gold200)', color: 'var(--color-ot-light)', textDecoration: 'none', borderRadius: '3px', transition: 'all 0.2s ease' }}>
+              {t('waysToSupport.individualDonations.stargazer.button')}
+            </a>
+          </div>
+        </div>
+
         {/* $1,000 Tier */}
         <div style={{ background: 'rgba(250, 212, 58, 0.02)', padding: '1.75rem', borderLeft: '3px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '0.75rem', flexWrap: 'wrap', gap: '1rem' }}>
