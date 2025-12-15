@@ -25,9 +25,8 @@ export default function ScopeCountdown() {
 
   // Countdown timer
   useEffect(() => {
-    // December 25, 2025 at 04:15 UTC - Start of ISRO NOTAM launch window
-    // Launch window: Dec 25, 2025 - Jan 23, 2026, daily 04:15-08:15 UTC
-    const launchDate = new Date('2025-12-25T04:15:00Z');
+    // January 10, 2026 at 04:15 UTC - Second week of January launch window
+    const launchDate = new Date('2026-01-10T04:15:00Z');
 
     const calculateTimeLeft = () => {
       const now = new Date();
