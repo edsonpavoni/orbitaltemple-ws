@@ -190,10 +190,11 @@ i18n
       crossDomain: false,
     },
 
-    // Language detection order - prioritize localStorage, but fallback to English
+    // Language detection order - URL param (?lg=) takes priority, then localStorage
     detection: {
-      order: ['localStorage', 'htmlTag', 'navigator'],
+      order: ['querystring', 'localStorage', 'htmlTag', 'navigator'],
       caches: ['localStorage'],
+      lookupQuerystring: 'lg',
       lookupLocalStorage: 'i18nextLng',
     },
 
