@@ -1,17 +1,17 @@
 {
   "breathing": {
-    "text": "Ao entrar\nem um ritual\npara enviar um nome\nao\ntemplo orbital\nno espaço\nrespire\n",
+    "text": "Ao entrar\nneste ritual\nao enviar um nome\nao templo orbital\nno espaço sideral\npor favor tome um segundo\npara respirar fundo",
     "button": "Estou pronto"
   },
   "nameInput": {
     "title": "digite um nome",
-    "subtitle": "Ele se elevará até o Templo Orbital no espaço.",
+    "subtitle": "Ele ascenderá ao Templo Orbital no espaço.",
     "placeholder": "nome",
-    "button": "deixe-o subir"
+    "button": "Ascender"
   },
   "emailInput": {
     "title": "Digite seu e-mail",
-    "subtitle": "Assim, você recebe uma mensagem quando o nome sobe de nível.",
+    "subtitle": "você receberá uma mensagem quando o nome ascender",
     "placeholder": "seu e-mail",
     "button": "Está feito"
   },
@@ -19,6 +19,6 @@
     "alt": "Carregando"
   },
   "success": {
-    "text": "O nome\n{{name}}\nestá agora na fila\npara ascensão.\nQuando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra,\nenviaremos\no nome\ne você receberá\numa mensagem."
+    "text": "O nome\n{{name}}\nestá na fila\npara ascensão.\n\n\nQuando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra,\n\n\nEle ascenderá\ne você receberá\numa mensagem."
   }
 }
