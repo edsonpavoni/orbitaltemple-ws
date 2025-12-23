@@ -1,6 +1,6 @@
 {
   "breathing": {
-    "text": "Ao entrar\nneste ritual\n\n\nenviar um nome\nao templo orbital\n\n\npor favor tome um segundo\npara respirar fundo",
+    "text": "Ao entrar\nneste ritual\n\nenviar um nome\nao templo orbital\n\npor favor tome um segundo\npara respirar fundo",
     "button": "Estou pronto"
   },
   "nameInput": {
@@ -19,6 +19,6 @@
     "alt": "Carregando"
   },
   "success": {
-    "text": "O nome\n{{name}}\nestá na fila\npara ascensão.\n\n\nQuando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra,\n\n\nEle ascenderá\ne você receberá\numa mensagem."
+    "text": "O nome\n{{name}}\nestá na fila\npara ascensão.\n\nQuando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra,\n\nEle ascenderá\ne você receberá\numa mensagem."
   }
 }
