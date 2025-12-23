@@ -19,6 +19,6 @@
     "alt": "Carregando"
   },
   "success": {
-    "text": "O nome\n{{name}}\nestá na fila\npara ascensão.\n\nQuando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra,\n\nEle ascenderá\ne você receberá\numa mensagem."
+    "text": "O nome\n{{name}}\nestá na fila\npara ascensão.\n\nQuando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra,\n\nele ascenderá\ne você receberá\numa mensagem."
   }
 }
