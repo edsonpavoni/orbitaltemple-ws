@@ -107,8 +107,7 @@
       "classification": "Classification: 1P PocketQube",
       "weight": "Weight: 245g",
       "materials": "Materials: Aluminum, gold, fiberglass, electronic components",
-      "orbit": "Orbit: Altitude 525 ± 25 km; Inclination: SSO 97.6 ± 0.1°",
-      "launch": "Launch: December 25, 2025 – January 23, 2026 via ISRO PSLV-C62, India"
+      "orbit": "Orbit: Altitude 525 ± 25 km; Inclination: SSO 97.6 ± 0.1°"
     },
     "antenna": {
       "heading": "Antenna/Sculpture",
@@ -118,8 +117,7 @@
     },
     "radio": {
       "heading": "Radio Specifications",
-      "downlink": "Downlink: 437 MHz",
-      "status": "Launch Status: ISRO NOTAM confirmed window December 25, 2025 – January 23, 2026"
+      "downlink": "Downlink: 437 MHz"
     }
   },
   "additionalResources": {

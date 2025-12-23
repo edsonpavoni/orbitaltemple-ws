@@ -6,8 +6,8 @@
     "paragraph2": "Como parte de su misión educativa, Orbital Temple ofrecerá un curso gratuito y multilingüe sobre cómo construir y lanzar un satélite. Será una oportunidad práctica para aprender sobre tecnología satelital y ponerla en práctica. Cualquier persona mayor de <strong>16</strong> años podrá construir su propio satélite, aprendiendo sobre la historia del arte en el espacio, conceptos fundamentales de electrónica, mecánica y ciencias espaciales, incluyendo cómo financiar proyectos y cómo construir una antena para comunicarse con satélites en órbita."
   },
   "spaceGap": {
-    "heading": "Por qué esto importa: La brecha espacial",
-    "paragraph1": "El término <strong>«brecha espacial»</strong> se refiere a la brecha existente entre las naciones desarrolladas, que tienen acceso a las oportunidades tecnológicas que ofrece la exploración espacial, y las naciones en desarrollo, que carecen de acceso a estas tecnologías. Los países del Sur Global deben pagar sumas considerables a gobiernos o empresas extranjeras para acceder a información básica generada por tecnologías satelitales.",
+    "heading": "Por qué esto importa: The Space Gap",
+    "paragraph1": "El término <strong>«Space Gap»</strong> se refiere a la brecha existente entre las naciones desarrolladas, que tienen acceso a las oportunidades tecnológicas que ofrece la exploración espacial, y las naciones en desarrollo, que carecen de acceso a estas tecnologías. Los países del Sur Global deben pagar sumas considerables a gobiernos o empresas extranjeras para acceder a información básica generada por tecnologías satelitales.",
     "paragraph2": "La tecnología espacial ofrece beneficios cruciales: los satélites ayudan a combatir la tala ilegal, la pesca ilegal y el tráfico ilegal de vida silvestre, que representan más de <strong>73 mil millones de dólares anuales</strong> . Proporcionan información esencial sobre el clima, la producción de agua y la seguridad alimentaria. Los satélites permiten técnicas agrícolas y de riego de precisión, y ayudan a prevenir desastres naturales. La industria espacial podría crear hasta <strong>un millón de empleos</strong> para <strong>2030</strong> ; sin embargo, estas oportunidades siguen siendo inaccesibles para muchos en el Sur Global.",
     "paragraph3": "Al proporcionar tecnología y educación de código abierto, nuestro objetivo es democratizar el acceso al espacio y capacitar a una nueva generación para soñar más allá del cielo."
   },
@@ -16,7 +16,7 @@
     "intro": "Enseñaremos a la próxima generación de exploradores espaciales cómo construir y lanzar sus propios satélites, abarcando temas esenciales como:",
     "topics": {
       "history": "<strong>Historia del arte en el espacio:</strong> Comprender el linaje de los satélites artísticos y las obras de arte espaciales.",
-      "concepts": "<strong>Conceptos clave:</strong> <strong>ArtSat</strong> (satélites artísticos), tecnología espacial <strong>de código abierto</strong> y la <strong>brecha espacial</strong> .",
+      "concepts": "<strong>Conceptos clave:</strong> <strong>ArtSat</strong> (satélites artísticos), tecnología espacial <strong>de código abierto</strong> y la <strong>Space Gap</strong> .",
       "missions": "<strong>Misiones espaciales:</strong> Cómo conceptualizar y diseñar una misión, y cómo formar un equipo para ejecutarla.",
       "electronics": "<strong>Electrónica en el espacio:</strong> Conceptos fundamentales de componentes electrónicos que pueden sobrevivir y funcionar en el entorno espacial.",
       "mechanics": "<strong>Mecánica en el espacio:</strong> Comprensión de los requisitos estructurales y mecánicos para el diseño de satélites.",

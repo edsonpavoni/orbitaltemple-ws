@@ -417,7 +417,6 @@ export default function PressContent() {
           <li>{t('technicalSpecs.satellite.weight')}</li>
           <li>{t('technicalSpecs.satellite.materials')}</li>
           <li>{t('technicalSpecs.satellite.orbit')}</li>
-          <li>{t('technicalSpecs.satellite.launch')}</li>
         </ul>
 
         <h3 className="subsection-heading">{t('technicalSpecs.antenna.heading')}</h3>
@@ -430,8 +429,6 @@ export default function PressContent() {
         <h3 className="subsection-heading">{t('technicalSpecs.radio.heading')}</h3>
         <p className="body-text body-text--section-end">
           {t('technicalSpecs.radio.downlink')}
-          <br />
-          {t('technicalSpecs.radio.status')}
         </p>
       </section>
 

@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Satellite Visualization - Orbital Temple</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background: #000;
+            font-family: 'Libre Franklin', system-ui, -apple-system, sans-serif;
+            color: #fff;
+        }
+        #canvas-container {
+            width: 100vw;
+            height: 100vh;
+        }
+        #header {
+            position: absolute;
+            top: 60px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            z-index: 100;
+        }
+        #header h2 {
+            margin: 0;
+            font-size: 18px;
+            font-weight: 400;
+            color: #999;
+            letter-spacing: 2px;
+        }
+        #header h1 {
+            margin: 10px 0 0 0;
+            font-size: 48px;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: 4px;
+        }
+        #sat-info {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            z-index: 100;
+            font-size: 16px;
+        }
+        #sat-info p {
+            margin: 8px 0;
+            color: #ccc;
+        }
+        #footer {
+            position: absolute;
+            bottom: 100px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            z-index: 100;
+            font-size: 14px;
+            color: #666;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h2>Edson Pavoni</h2>
+        <h1>Orbital Temple</h1>
+    </div>
+
+    <div id="sat-info">
+        <p>Lat: <span id="sat-lat">--</span>°</p>
+        <p>Long: <span id="sat-lon">--</span>°</p>
+    </div>
+
+    <div id="footer">
+        Simulation Scope Miami Location
+    </div>
+
+    <div id="canvas-container"></div>
+
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://cdn.skypack.dev/three@0.128.0",
+            "turf": "https://cdn.skypack.dev/@turf/turf@7.1.0"
+        }
+    }
+    </script>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { OrbitControls } from 'https://cdn.skypack.dev/three@0.128.0/examples/jsm/controls/OrbitControls.js';
+
+        console.log('Satellite Visualization v2.0 - DOM Ready Fix');
+
+        // Wait for DOM to be ready
+        function initVisualization() {
+        console.log('Initializing visualization, readyState:', document.readyState);
+
+        // Scene setup
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 10000);
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.getElementById('canvas-container').appendChild(renderer.domElement);
+
+        // Camera position
+        camera.position.set(0, 0, 15);
+
+        // Create starfield
+        function createStarfield() {
+            const starGeometry = new THREE.BufferGeometry();
+            const starCount = 10000;
+            const positions = new Float32Array(starCount * 3);
+
+            for (let i = 0; i < starCount * 3; i += 3) {
+                // Random position in a sphere
+                const radius = 500 + Math.random() * 500;
+                const theta = Math.random() * Math.PI * 2;
+                const phi = Math.acos((Math.random() * 2) - 1);
+
+                positions[i] = radius * Math.sin(phi) * Math.cos(theta);
+                positions[i + 1] = radius * Math.sin(phi) * Math.sin(theta);
+                positions[i + 2] = radius * Math.cos(phi);
+            }
+
+            starGeometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+
+            const starMaterial = new THREE.PointsMaterial({
+                color: 0xffffff,
+                size: 1,
+                transparent: true,
+                opacity: 0.8
+            });
+
+            const stars = new THREE.Points(starGeometry, starMaterial);
+            scene.add(stars);
+            return stars;
+        }
+
+        const starfield = createStarfield();
+
+        // Camera rotation variables - oscillate back and forth with direction reversal
+        let cameraTime = 0;
+        let oscillationDirection = 1; // 1 or -1 for direction
+        const cameraDistance = 15;
+        const cameraHeight = 3;
+        const oscillationSpeed = 0.0006; // 2x faster oscillation for gentle floating
+        const oscillationAngle = Math.PI / 48; // ~3.75 degrees swing range (even smaller)
+        const maxOscillation = 0.85; // Reverse direction when close to edge
+
+        // Calculate Miami's longitude to center the camera on it
+        const MIAMI_LAT = 25.7617;
+        const MIAMI_LON = -80.1918;
+        const miamiLonRad = (MIAMI_LON + 180) * (Math.PI / 180);
+
+        // Lighting
+        const ambientLight = new THREE.AmbientLight(0xffffff, 0.3);
+        scene.add(ambientLight);
+
+        const sunLight = new THREE.DirectionalLight(0xffffff, 1.5);
+        sunLight.position.set(5, 3, 5);
+        scene.add(sunLight);
+
+        // Create Globe
+        const EARTH_RADIUS = 5;
+        const TILT = 0.41;
+
+        const earthGeometry = new THREE.SphereGeometry(EARTH_RADIUS, 128, 128);
+        const loader = new THREE.TextureLoader();
+
+        const dayTexture = loader.load(
+            '/satellite/assets/8081_earthmap10k.jpg',
+            () => console.log('Day texture loaded'),
+            undefined,
+            (err) => console.error('Error loading day texture:', err)
+        );
+        const nightTexture = loader.load(
+            '/satellite/assets/8081_earthlights10k.jpg',
+            () => console.log('Night texture loaded'),
+            undefined,
+            (err) => console.error('Error loading night texture:', err)
+        );
+
+        const earthMaterial = new THREE.ShaderMaterial({
+            uniforms: {
+                dayTexture: { value: dayTexture },
+                nightTexture: { value: nightTexture },
+                sunDirection: { value: new THREE.Vector3(1, 0, 0) },
+            },
+            vertexShader: `
+                varying vec2 vUv;
+                varying vec3 vNormal;
+
+                void main() {
+                    vUv = uv;
+                    vNormal = normal;
+                    gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+                }
+            `,
+            fragmentShader: `
+                uniform sampler2D dayTexture;
+                uniform sampler2D nightTexture;
+                uniform vec3 sunDirection;
+
+                varying vec2 vUv;
+                varying vec3 vNormal;
+
+                void main() {
+                    vec3 transformedNormal = normalize(vNormal);
+                    float intensity = dot(transformedNormal, -sunDirection);
+                    intensity = clamp(intensity, -0.05, 1.0);
+                    vec4 dayColor = texture2D(dayTexture, vUv);
+                    vec4 nightColor = texture2D(nightTexture, vUv);
+                    gl_FragColor = mix(nightColor, dayColor, intensity);
+                }
+            `
+        });
+
+        const earth = new THREE.Mesh(earthGeometry, earthMaterial);
+        earth.rotation.z = TILT;
+        scene.add(earth);
+
+        // Atmosphere
+        const atmosphereRadius = EARTH_RADIUS * 1.016;
+        const atmosphereGeometry = new THREE.SphereGeometry(atmosphereRadius, 128, 128);
+        const atmosphereMaterial = new THREE.MeshBasicMaterial({
+            color: 0x00aaff,
+            transparent: true,
+            opacity: 0.15,
+            side: THREE.BackSide,
+        });
+        const atmosphere = new THREE.Mesh(atmosphereGeometry, atmosphereMaterial);
+        earth.add(atmosphere);
+
+        // Sun position calculation
+        function calculateSunPosition() {
+            const now = new Date();
+            const dayOfYear = (Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) - Date.UTC(now.getFullYear(), 0, 0)) / 86400000;
+            const declination = 23.44 * Math.cos(((360 / 365) * (dayOfYear + 10)) * (Math.PI / 180));
+
+            const earthTilt = declination * (Math.PI / 180);
+            const utcHours = now.getUTCHours() + now.getUTCMinutes() / 60 + now.getUTCSeconds() / 3600;
+            const sunAngle = (utcHours / 24) * 2 * Math.PI;
+
+            const sunPosition = new THREE.Vector3(
+                Math.cos(sunAngle),
+                Math.sin(earthTilt),
+                Math.sin(sunAngle)
+            );
+
+            return sunPosition.normalize();
+        }
+
+        // Miami marker
+        function latLonToVector3(lat, lon, radius) {
+            const phi = (90 - lat) * (Math.PI / 180);
+            const theta = (lon + 180) * (Math.PI / 180);
+
+            const x = -(radius * Math.sin(phi) * Math.cos(theta));
+            const z = (radius * Math.sin(phi) * Math.sin(theta));
+            const y = (radius * Math.cos(phi));
+
+            return new THREE.Vector3(x, y, z);
+        }
+
+        const miamiPosition = latLonToVector3(MIAMI_LAT, MIAMI_LON, EARTH_RADIUS);
+        const miamiMarker = new THREE.Mesh(
+            new THREE.SphereGeometry(0.06, 16, 16),
+            new THREE.MeshBasicMaterial({ color: 0xffffff })
+        );
+        miamiMarker.position.copy(miamiPosition);
+        earth.add(miamiMarker);
+
+        // Satellite
+        const SATELLITE_ALTITUDE = 525;
+        const VISUAL_ALTITUDE = 2000;
+        const SATELLITE_RADIUS = EARTH_RADIUS * (6371 + VISUAL_ALTITUDE) / 6371;
+        const ORBIT_INCLINATION = 97.6 * (Math.PI / 180);
+
+        const satellite = new THREE.Mesh(
+            new THREE.SphereGeometry(0.2, 32, 32),
+            new THREE.MeshBasicMaterial({ color: 0xff8800 })
+        );
+        scene.add(satellite);
+
+        // Connection line
+        const connectionLineGeometry = new THREE.BufferGeometry();
+        const connectionLineMaterial = new THREE.LineBasicMaterial({
+            color: 0xff8800,
+            transparent: true,
+            opacity: 0.5,
+            depthTest: false
+        });
+        const connectionLine = new THREE.Line(connectionLineGeometry, connectionLineMaterial);
+        connectionLine.renderOrder = 999;
+        scene.add(connectionLine);
+
+        // Orbit path - complete orbit (not just trail)
+        const orbitPoints = [];
+        const orbitSegments = 200; // Number of segments for smooth orbit
+
+        // Pre-calculate full orbit path
+        for (let i = 0; i <= orbitSegments; i++) {
+            const angle = (i / orbitSegments) * Math.PI * 2;
+            const x = SATELLITE_RADIUS * Math.cos(angle);
+            const y = SATELLITE_RADIUS * Math.sin(angle) * Math.sin(ORBIT_INCLINATION);
+            const z = SATELLITE_RADIUS * Math.sin(angle) * Math.cos(ORBIT_INCLINATION);
+            orbitPoints.push(new THREE.Vector3(x, y, z));
+        }
+
+        const orbitGeometry = new THREE.BufferGeometry().setFromPoints(orbitPoints);
+        const orbitMaterial = new THREE.LineDashedMaterial({
+            color: 0xffff00,
+            transparent: true,
+            opacity: 0.3,
+            dashSize: 0.2,
+            gapSize: 0.1
+        });
+        const orbitLine = new THREE.Line(orbitGeometry, orbitMaterial);
+        orbitLine.computeLineDistances();
+        scene.add(orbitLine);
+
+        // Satellite simulation based on real orbital period
+        // Launch time: December 5, 2024, 02:47:00 UTC (current time when this was created)
+        const LAUNCH_TIME = new Date('2024-12-05T02:47:00Z').getTime();
+
+        // Orbital period for sun-synchronous orbit at 525km altitude (approximately 95 minutes)
+        const ORBITAL_PERIOD_MS = 95 * 60 * 1000; // 95 minutes in milliseconds
+
+        let startTime = new Date();
+
+        // Helper function to project vector onto plane defined by normal
+        function projectOnPlane(vector, planeNormal) {
+            const normalComponent = planeNormal.clone().multiplyScalar(vector.dot(planeNormal));
+            return vector.clone().sub(normalComponent);
+        }
+
+        function updateSatellite() {
+            // Calculate orbital position based on time since launch
+            const now = Date.now();
+            const timeSinceLaunch = now - LAUNCH_TIME;
+            const orbitProgress = (timeSinceLaunch % ORBITAL_PERIOD_MS) / ORBITAL_PERIOD_MS;
+            const orbitAngle = orbitProgress * Math.PI * 2;
+
+            const x = SATELLITE_RADIUS * Math.cos(orbitAngle);
+            const y = SATELLITE_RADIUS * Math.sin(orbitAngle) * Math.sin(ORBIT_INCLINATION);
+            const z = SATELLITE_RADIUS * Math.sin(orbitAngle) * Math.cos(ORBIT_INCLINATION);
+
+            satellite.position.set(x, y, z);
+
+            // Calculate lat/lon
+            const satPos = satellite.position.clone().normalize();
+            const lat = 90 - Math.acos(satPos.y) * (180 / Math.PI);
+            const lon = Math.atan2(satPos.z, -satPos.x) * (180 / Math.PI) - 180;
+
+            const satLatEl = document.getElementById('sat-lat');
+            const satLonEl = document.getElementById('sat-lon');
+            if (satLatEl) satLatEl.textContent = lat.toFixed(2);
+            if (satLonEl) satLonEl.textContent = lon.toFixed(2);
+
+            // Update connection line
+            const miamiWorldPos = earth.localToWorld(miamiPosition.clone());
+            connectionLineGeometry.setFromPoints([satellite.position, miamiWorldPos]);
+
+            // Calculate sculpture angle based on the orange line direction
+            // Vector from Miami to satellite
+            const directionVector = satellite.position.clone().sub(miamiWorldPos);
+
+            // Get Miami's local up vector (normal to Earth surface at Miami)
+            const miamiUp = miamiWorldPos.clone().normalize();
+
+            // Get Miami's local north vector (in the xz plane pointing toward north pole)
+            const northPole = new THREE.Vector3(0, EARTH_RADIUS, 0);
+            const toNorth = northPole.clone().sub(miamiWorldPos);
+            const miamiNorth = projectOnPlane(toNorth, miamiUp).normalize();
+
+            // Get Miami's local east vector
+            const miamiEast = new THREE.Vector3().crossVectors(miamiNorth, miamiUp).normalize();
+
+            // Project direction vector onto Miami's local horizontal plane
+            const horizontalDirection = projectOnPlane(directionVector, miamiUp).normalize();
+
+            // Calculate angle from north (clockwise when viewed from above Miami)
+            const northComponent = horizontalDirection.dot(miamiNorth);
+            const eastComponent = horizontalDirection.dot(miamiEast);
+
+            let sculptureAngle = Math.atan2(eastComponent, northComponent) * (180 / Math.PI);
+            if (sculptureAngle < 0) sculptureAngle += 360;
+
+            // Store angle for Firebase
+            window.currentSculptureAngle = sculptureAngle;
+        }
+
+        function updateLighting() {
+            const sunDirection = calculateSunPosition();
+            earthMaterial.uniforms.sunDirection.value.copy(sunDirection);
+            sunLight.position.copy(sunDirection.multiplyScalar(10));
+        }
+
+        function updateEarthRotation() {
+            const now = new Date();
+            const rotation = (2 * Math.PI) / 86164;
+            earth.rotation.y += rotation * (now - startTime) / 1000;
+            startTime = now;
+        }
+
+        function updateCameraPosition() {
+            cameraTime += oscillationSpeed * oscillationDirection;
+
+            const sineValue = Math.sin(cameraTime);
+
+            if (Math.abs(sineValue) > maxOscillation) {
+                oscillationDirection *= -1;
+            }
+
+            const oscillation = sineValue * oscillationAngle;
+            const currentAngle = miamiLonRad + oscillation;
+
+            camera.position.x = Math.cos(currentAngle) * cameraDistance;
+            camera.position.z = Math.sin(currentAngle) * cameraDistance;
+            camera.position.y = cameraHeight;
+            camera.lookAt(0, 0, 0);
+        }
+
+        function animate() {
+            requestAnimationFrame(animate);
+
+            updateSatellite();
+            updateEarthRotation();
+            updateLighting();
+            updateCameraPosition();
+
+            renderer.render(scene, camera);
+        }
+
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+
+        animate();
+        }
+
+        // Initialize when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initVisualization);
+        } else {
+            initVisualization();
+        }
+    </script>
+
+    <script type="module">
+        // Firebase Realtime Database connection
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js';
+        import { getDatabase, ref, set } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js';
+
+        // Firebase configuration
+        const firebaseConfig = {
+            apiKey: "REDACTED-GCP-KEY",
+            authDomain: "orbital-temple.firebaseapp.com",
+            databaseURL: "https://orbital-temple-default-rtdb.firebaseio.com",
+            projectId: "orbital-temple",
+            storageBucket: "orbital-temple.firebasestorage.app",
+            messagingSenderId: "811887257933",
+            appId: "1:811887257933:web:e8a5ef835911dc94cbaf04"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const database = getDatabase(app);
+        const sculptureRef = ref(database, 'sculpture/angle');
+
+        let lastSentAngle = -999;
+
+        // Send angle updates to Firebase
+        setInterval(() => {
+            if (window.currentSculptureAngle !== undefined) {
+                // Only send if angle changed by more than 0.5 degrees
+                if (Math.abs(window.currentSculptureAngle - lastSentAngle) > 0.5) {
+                    set(sculptureRef, {
+                        angle: window.currentSculptureAngle,
+                        timestamp: Date.now()
+                    }).then(() => {
+                        lastSentAngle = window.currentSculptureAngle;
+                        console.log('Angle updated:', window.currentSculptureAngle.toFixed(1), '°');
+                    }).catch((error) => {
+                        console.error('Error updating Firebase:', error);
+                    });
+                }
+            }
+        }, 100);
+
+        console.log('Firebase Realtime Database connected');
+    </script>
+</body>
+</html>

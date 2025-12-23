@@ -1,0 +1,16 @@
+{
+  "name": "email-outreach",
+  "version": "1.0.0",
+  "description": "This folder contains scripts to export Firebase names data for the Resend email campaign announcing the launch window.",
+  "main": "browser-export-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "resend": "^6.6.0"
+  }
+}

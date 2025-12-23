@@ -1,0 +1,6 @@
+Orbital Temple Launch Email Campaign
+Date: 2025-12-12T01:17:50.635Z
+Total: 12241
+Success: 12184
+Failed: 57
+Time: 405 minutes

@@ -1,0 +1,511 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import RitualButtonV6React from '../components/RitualButton';
+---
+
+<BaseLayout title="Ritual Button Exploration | Orbital Temple">
+  <style>
+    .test-container {
+      min-height: 100vh;
+      background: var(--color-ot-bg);
+      padding: 2rem;
+      padding-top: 120px;
+    }
+
+    .section-title {
+      color: var(--color-ot-gold100);
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 1rem;
+      opacity: 0.6;
+    }
+
+    .button-section {
+      margin-bottom: 3rem;
+      padding: 2rem;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+    }
+
+    .button-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 3rem;
+      align-items: flex-start;
+      margin-top: 1.5rem;
+    }
+
+    .button-demo {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .button-label {
+      color: var(--color-ot-gold100);
+      font-size: 11px;
+      opacity: 0.5;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      text-align: center;
+    }
+
+    .notes {
+      color: var(--color-ot-gold100);
+      font-size: 12px;
+      opacity: 0.5;
+      margin-top: 0.5rem;
+      font-style: italic;
+      text-align: center;
+      max-width: 150px;
+    }
+
+    /* Alternative text-based buttons */
+    .alt-button-section {
+      margin-top: 4rem;
+    }
+
+    .text-btn-demo {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.75rem;
+      min-width: 200px;
+    }
+
+    /* Option A: Simple text link with arrow */
+    .ritual-btn-text {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 18px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    .ritual-btn-text:hover {
+      color: var(--color-ot-gold300);
+    }
+    .ritual-btn-text .arrow {
+      transition: transform 0.3s ease;
+    }
+    .ritual-btn-text:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    /* Option B: Circle arrow style (like send-a-name) */
+    .ritual-btn-circle {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 18px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    .ritual-btn-circle .circle-arrow {
+      width: 40px;
+      height: 40px;
+      border: 1px solid var(--color-ot-gold100);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+      flex-shrink: 0;
+    }
+    .ritual-btn-circle:hover .circle-arrow {
+      background: var(--color-ot-gold100);
+    }
+    .ritual-btn-circle:hover .circle-arrow img {
+      filter: invert(1);
+    }
+    .ritual-btn-circle .circle-arrow img {
+      width: 11px;
+      height: auto;
+      transform: rotate(-90deg);
+      margin-left: 1px;
+      transition: all 0.3s ease;
+    }
+    .ritual-btn-circle:hover .circle-arrow img {
+      transform: rotate(-90deg) translateY(3px);
+    }
+
+    /* Option C: Pill button */
+    .ritual-btn-pill {
+      background: transparent;
+      border: 1px solid var(--color-ot-gold100);
+      color: var(--color-ot-gold100);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 14px 28px;
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    .ritual-btn-pill:hover {
+      background: var(--color-ot-gold100);
+      color: var(--color-ot-bg);
+    }
+    .ritual-btn-pill .arrow {
+      transition: all 0.3s ease;
+    }
+    .ritual-btn-pill:hover .arrow {
+      filter: invert(1);
+      transform: translateX(4px);
+    }
+
+    /* Option D: Filled button with glow */
+    .ritual-btn-filled {
+      background: var(--color-ot-gold100);
+      border: none;
+      color: var(--color-ot-bg);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 16px 32px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 0 0 rgba(212, 175, 55, 0);
+    }
+    .ritual-btn-filled:hover {
+      box-shadow: 0 0 25px 4px rgba(212, 175, 55, 0.4);
+      transform: translateY(-2px);
+    }
+    .ritual-btn-filled .arrow {
+      filter: invert(1);
+      transition: transform 0.3s ease;
+    }
+    .ritual-btn-filled:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    /* Option E: Minimal with underline */
+    .ritual-btn-underline {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 20px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.5rem 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 14px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      text-decoration: none;
+      position: relative;
+    }
+    .ritual-btn-underline::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 1px;
+      background: var(--color-ot-gold100);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.3s ease;
+    }
+    .ritual-btn-underline:hover::after {
+      transform: scaleX(1);
+    }
+    .ritual-btn-underline .arrow {
+      transition: transform 0.3s ease;
+    }
+    .ritual-btn-underline:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    /* Combined dome + text layouts */
+    .combo-section {
+      margin-top: 4rem;
+    }
+
+    .combo-demo {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1rem;
+      padding: 2rem;
+      background: rgba(255, 255, 255, 0.02);
+      border-radius: 12px;
+      min-width: 250px;
+    }
+
+    .combo-text {
+      color: var(--color-ot-gold100);
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      margin-top: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .combo-text-large {
+      font-size: 18px;
+    }
+
+    .combo-text .arrow {
+      width: 12px;
+      height: auto;
+      transform: rotate(-90deg);
+    }
+  </style>
+
+  <div class="test-container">
+    <h1 class="section-title">Ritual Button Exploration - Home Page</h1>
+
+    <!-- Current 3D Button with different labels -->
+    <div class="button-section">
+      <p class="section-title">3D Dome Button - Text Variations</p>
+      <p style="color: var(--color-ot-gold100); opacity: 0.6; font-size: 14px; margin-bottom: 1rem;">
+        Current dome button style with different label text
+      </p>
+
+      <div class="button-row">
+        <div class="button-demo">
+          <span class="button-label">Current: "ritual"</span>
+          <a href="/send-a-name" style="text-decoration: none;">
+            <RitualButtonV6React
+              label="ritual"
+              orbitRotationAxis="y"
+              orbitTiltX={25}
+              rotationSec={12.5}
+              hoverRotationSec={5}
+              hoverSlowToFlat={true}
+              size={100}
+              client:visible
+            />
+          </a>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">"enter"</span>
+          <a href="/send-a-name" style="text-decoration: none;">
+            <RitualButtonV6React
+              label="enter"
+              orbitRotationAxis="y"
+              orbitTiltX={25}
+              rotationSec={12.5}
+              hoverRotationSec={5}
+              hoverSlowToFlat={true}
+              size={100}
+              client:visible
+            />
+          </a>
+          <span class="notes">Short, action-oriented</span>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">"send a name"</span>
+          <a href="/send-a-name" style="text-decoration: none;">
+            <RitualButtonV6React
+              label="send a name"
+              orbitRotationAxis="y"
+              orbitTiltX={25}
+              rotationSec={12.5}
+              hoverRotationSec={5}
+              hoverSlowToFlat={true}
+              size={100}
+              client:visible
+            />
+          </a>
+          <span class="notes">Describes the action</span>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">"enter the ritual"</span>
+          <a href="/send-a-name" style="text-decoration: none;">
+            <RitualButtonV6React
+              label="enter the ritual"
+              orbitRotationAxis="y"
+              orbitTiltX={25}
+              rotationSec={12.5}
+              hoverRotationSec={5}
+              hoverSlowToFlat={true}
+              size={100}
+              client:visible
+            />
+          </a>
+          <span class="notes">Inviting, ceremonial</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Alternative text-based buttons -->
+    <div class="button-section alt-button-section">
+      <p class="section-title">Alternative: Text-Based Buttons</p>
+      <p style="color: var(--color-ot-gold100); opacity: 0.6; font-size: 14px; margin-bottom: 1rem;">
+        Simpler button styles without the 3D dome
+      </p>
+
+      <div class="button-row">
+        <div class="text-btn-demo">
+          <span class="button-label">Text + Arrow</span>
+          <a href="/send-a-name" class="ritual-btn-text">
+            enter the ritual
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(-90deg);" />
+          </a>
+        </div>
+
+        <div class="text-btn-demo">
+          <span class="button-label">Circle Arrow</span>
+          <a href="/send-a-name" class="ritual-btn-circle">
+            send a name
+            <span class="circle-arrow">
+              <img src="/UI/arrow.svg" alt="arrow" />
+            </span>
+          </a>
+        </div>
+
+        <div class="text-btn-demo">
+          <span class="button-label">Pill Button</span>
+          <a href="/send-a-name" class="ritual-btn-pill">
+            enter
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(-90deg);" />
+          </a>
+        </div>
+
+        <div class="text-btn-demo">
+          <span class="button-label">Filled Glow</span>
+          <a href="/send-a-name" class="ritual-btn-filled">
+            send a name
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(-90deg);" />
+          </a>
+        </div>
+
+        <div class="text-btn-demo">
+          <span class="button-label">Underline</span>
+          <a href="/send-a-name" class="ritual-btn-underline">
+            enter the ritual
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(-90deg);" />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Combination: Dome + Text below -->
+    <div class="button-section combo-section">
+      <p class="section-title">Combination: Dome + Text Label</p>
+      <p style="color: var(--color-ot-gold100); opacity: 0.6; font-size: 14px; margin-bottom: 1rem;">
+        3D dome with additional text label below
+      </p>
+
+      <div class="button-row">
+        <div class="combo-demo">
+          <span class="button-label">Dome + "Enter"</span>
+          <a href="/send-a-name" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+            <RitualButtonV6React
+              label=""
+              orbitRotationAxis="y"
+              orbitTiltX={25}
+              rotationSec={12.5}
+              hoverRotationSec={5}
+              hoverSlowToFlat={true}
+              size={90}
+              client:visible
+            />
+            <span class="combo-text combo-text-large">
+              enter
+              <img class="arrow" src="/UI/arrow.svg" alt="arrow" />
+            </span>
+          </a>
+        </div>
+
+        <div class="combo-demo">
+          <span class="button-label">Dome + "Send a Name"</span>
+          <a href="/send-a-name" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+            <RitualButtonV6React
+              label=""
+              orbitRotationAxis="y"
+              orbitTiltX={25}
+              rotationSec={12.5}
+              hoverRotationSec={5}
+              hoverSlowToFlat={true}
+              size={90}
+              client:visible
+            />
+            <span class="combo-text">
+              send a name
+              <img class="arrow" src="/UI/arrow.svg" alt="arrow" />
+            </span>
+          </a>
+        </div>
+
+        <div class="combo-demo">
+          <span class="button-label">Dome + "Enter the Ritual"</span>
+          <a href="/send-a-name" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+            <RitualButtonV6React
+              label=""
+              orbitRotationAxis="y"
+              orbitTiltX={25}
+              rotationSec={12.5}
+              hoverRotationSec={5}
+              hoverSlowToFlat={true}
+              size={90}
+              client:visible
+            />
+            <span class="combo-text">
+              enter the ritual
+              <img class="arrow" src="/UI/arrow.svg" alt="arrow" />
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Recommendations -->
+    <div class="button-section">
+      <p class="section-title">Recommendations</p>
+      <div style="color: var(--color-ot-gold100); font-size: 14px; line-height: 1.8; opacity: 0.8;">
+        <p><strong>Text Options Analysis:</strong></p>
+        <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+          <li><strong>"ritual"</strong> (current) - Poetic but may not clearly indicate action</li>
+          <li><strong>"enter"</strong> - Clear call-to-action, works well with the dome visual</li>
+          <li><strong>"send a name"</strong> - Describes what user will do, most explicit</li>
+          <li><strong>"enter the ritual"</strong> - Inviting, maintains ceremonial feel</li>
+        </ul>
+        <p style="margin-top: 1.5rem;"><strong>Button Style Analysis:</strong></p>
+        <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+          <li><strong>3D Dome</strong> - Unique, artistic, but "ritual" label may be unclear</li>
+          <li><strong>Circle Arrow</strong> - Consistent with send-a-name flow</li>
+          <li><strong>Filled Glow</strong> - High visibility, clear CTA</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

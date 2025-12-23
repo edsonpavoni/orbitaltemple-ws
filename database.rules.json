@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "sculpture": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}

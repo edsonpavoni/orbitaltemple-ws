@@ -1,0 +1,776 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Button Exploration | Orbital Temple">
+  <style>
+    .test-container {
+      min-height: 100vh;
+      background: var(--color-ot-bg);
+      padding: 2rem;
+      padding-top: 120px;
+    }
+
+    .section-title {
+      color: var(--color-ot-gold100);
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 1rem;
+      opacity: 0.6;
+    }
+
+    .button-section {
+      margin-bottom: 3rem;
+      padding: 2rem;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+    }
+
+    .button-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2rem;
+      align-items: center;
+      margin-top: 1rem;
+    }
+
+    .button-demo {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .button-label {
+      color: var(--color-ot-gold100);
+      font-size: 11px;
+      opacity: 0.5;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    /* Current button style for reference */
+    .btn-current {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+    }
+    .btn-current img {
+      height: 14px;
+      width: auto;
+      transform: rotate(270deg);
+    }
+    .btn-current:hover {
+      color: var(--color-ot-gold300);
+    }
+
+    /* OPTION A: Underline with arrow animation */
+    .btn-option-a {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.75rem 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      position: relative;
+    }
+    .btn-option-a::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 1px;
+      background: var(--color-ot-gold100);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.3s ease;
+    }
+    .btn-option-a:hover::after {
+      transform: scaleX(1);
+    }
+    .btn-option-a .arrow {
+      transition: transform 0.3s ease;
+    }
+    .btn-option-a:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    /* OPTION B: Pill button with border */
+    .btn-option-b {
+      background: transparent;
+      border: 1px solid var(--color-ot-gold100);
+      color: var(--color-ot-gold100);
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 12px 24px;
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      transition: all 0.3s ease;
+    }
+    .btn-option-b:hover {
+      background: var(--color-ot-gold100);
+      color: var(--color-ot-bg);
+    }
+    .btn-option-b .arrow {
+      transition: transform 0.3s ease;
+    }
+    .btn-option-b:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    /* OPTION C: Filled button with glow */
+    .btn-option-c {
+      background: var(--color-ot-gold100);
+      border: none;
+      color: var(--color-ot-bg);
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 14px 28px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 0 0 rgba(212, 175, 55, 0);
+    }
+    .btn-option-c:hover {
+      box-shadow: 0 0 20px 2px rgba(212, 175, 55, 0.4);
+      transform: translateY(-1px);
+    }
+    .btn-option-c .arrow {
+      filter: invert(1);
+      transition: transform 0.3s ease;
+    }
+    .btn-option-c:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    /* OPTION D: Circle arrow button (minimal) - POLISHED */
+    .btn-option-d {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+    }
+    .btn-option-d .circle-arrow {
+      width: 36px;
+      height: 36px;
+      border: 1px solid var(--color-ot-gold100);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+      flex-shrink: 0;
+    }
+    .btn-option-d:hover .circle-arrow {
+      background: var(--color-ot-gold100);
+    }
+    .btn-option-d:hover .circle-arrow img {
+      filter: invert(1);
+    }
+    .btn-option-d .circle-arrow img {
+      width: 10px;
+      height: auto;
+      transform: rotate(-90deg);
+      margin-left: 1px;
+      transition: all 0.3s ease;
+    }
+    .btn-option-d:hover .circle-arrow img {
+      transform: rotate(-90deg) translateY(3px);
+    }
+
+    /* OPTION E: Pulsing border (draws attention) */
+    .btn-option-e {
+      background: transparent;
+      border: 1px solid var(--color-ot-gold100);
+      color: var(--color-ot-gold100);
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 14px 28px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      position: relative;
+      overflow: hidden;
+      animation: pulse-border 2s ease-in-out infinite;
+    }
+    @keyframes pulse-border {
+      0%, 100% {
+        box-shadow: 0 0 0 0 rgba(212, 175, 55, 0.4);
+      }
+      50% {
+        box-shadow: 0 0 0 6px rgba(212, 175, 55, 0);
+      }
+    }
+    .btn-option-e:hover {
+      background: var(--color-ot-gold100);
+      color: var(--color-ot-bg);
+      animation: none;
+    }
+    .btn-option-e .arrow {
+      transition: all 0.3s ease;
+    }
+    .btn-option-e:hover .arrow {
+      filter: invert(1);
+      transform: translateX(4px);
+    }
+
+    /* OPTION F: Full-width bottom CTA */
+    .btn-option-f-container {
+      width: 100%;
+      max-width: 400px;
+    }
+    .btn-option-f {
+      width: 100%;
+      background: linear-gradient(135deg, var(--color-ot-gold100) 0%, #c9a227 100%);
+      border: none;
+      color: var(--color-ot-bg);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 18px 28px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      transition: all 0.3s ease;
+    }
+    .btn-option-f:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.3);
+    }
+    .btn-option-f .arrow {
+      filter: invert(1);
+      transition: transform 0.3s ease;
+    }
+    .btn-option-f:hover .arrow {
+      transform: translateX(6px);
+    }
+
+    /* OPTION G: Text + Progress indicator */
+    .btn-option-g {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.75rem 0;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 8px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+    }
+    .btn-option-g .text-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .btn-option-g .progress-bar {
+      width: 80px;
+      height: 2px;
+      background: rgba(212, 175, 55, 0.2);
+      border-radius: 1px;
+      overflow: hidden;
+    }
+    .btn-option-g .progress-fill {
+      width: 33%;
+      height: 100%;
+      background: var(--color-ot-gold100);
+      transition: width 0.3s ease;
+    }
+    .btn-option-g:hover .progress-fill {
+      width: 66%;
+    }
+    .btn-option-g .arrow {
+      transition: transform 0.3s ease;
+    }
+    .btn-option-g:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    /* OPTION H: Step indicator button */
+    .btn-option-h {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+    }
+    .btn-option-h .step-indicator {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .btn-option-h .step-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: rgba(212, 175, 55, 0.3);
+      transition: all 0.3s ease;
+    }
+    .btn-option-h .step-dot.active {
+      background: var(--color-ot-gold100);
+    }
+    .btn-option-h .step-dot.next {
+      border: 1px solid var(--color-ot-gold100);
+      background: transparent;
+      animation: pulse-dot 1.5s ease-in-out infinite;
+    }
+    @keyframes pulse-dot {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.3); }
+    }
+    .btn-option-h:hover .step-dot.next {
+      background: var(--color-ot-gold100);
+      animation: none;
+    }
+
+    /* OPTION I: Chevron animation button */
+    .btn-option-i {
+      background: none;
+      border: none;
+      color: var(--color-ot-gold100);
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.75rem 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-transform: lowercase;
+      font-variant: small-caps;
+    }
+    .btn-option-i .chevrons {
+      display: flex;
+      gap: 2px;
+    }
+    .btn-option-i .chevron {
+      width: 0;
+      height: 0;
+      border-top: 6px solid transparent;
+      border-bottom: 6px solid transparent;
+      border-left: 8px solid var(--color-ot-gold100);
+      opacity: 0.3;
+      animation: chevron-pulse 1.5s ease-in-out infinite;
+    }
+    .btn-option-i .chevron:nth-child(1) { animation-delay: 0s; }
+    .btn-option-i .chevron:nth-child(2) { animation-delay: 0.2s; }
+    .btn-option-i .chevron:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes chevron-pulse {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+    .btn-option-i:hover .chevron {
+      opacity: 1;
+      animation: none;
+    }
+
+    /* Simulation area */
+    .simulation-area {
+      background: var(--color-ot-bg);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      padding: 3rem 2rem;
+      margin-top: 4rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .sim-title {
+      color: var(--color-ot-gold100);
+      font-size: 24px;
+      font-weight: 700;
+      text-transform: lowercase;
+      font-variant: small-caps;
+    }
+
+    .sim-subtitle {
+      color: var(--color-ot-gold100);
+      font-size: 14px;
+      opacity: 0.7;
+      text-align: center;
+      line-height: 1.6;
+    }
+
+    .sim-input {
+      width: 100%;
+      max-width: 300px;
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid var(--color-ot-gold100);
+      color: var(--color-ot-gold100);
+      font-size: 24px;
+      padding: 0.5rem 0;
+      text-align: center;
+      outline: none;
+    }
+    .sim-input::placeholder {
+      color: var(--color-ot-gold100);
+      opacity: 0.3;
+    }
+
+    .sim-button-area {
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+      padding-right: 1rem;
+    }
+
+    /* Style selector */
+    .style-selector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+      justify-content: center;
+    }
+    .style-btn {
+      background: transparent;
+      border: 1px solid rgba(212, 175, 55, 0.3);
+      color: var(--color-ot-gold100);
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 12px;
+      transition: all 0.2s ease;
+    }
+    .style-btn:hover,
+    .style-btn.active {
+      background: var(--color-ot-gold100);
+      color: var(--color-ot-bg);
+    }
+
+    .notes {
+      color: var(--color-ot-gold100);
+      font-size: 12px;
+      opacity: 0.5;
+      margin-top: 0.5rem;
+      font-style: italic;
+    }
+  </style>
+
+  <div class="test-container">
+    <h1 class="section-title">Button Exploration - Send a Name Flow</h1>
+
+    <!-- All button options -->
+    <div class="button-section">
+      <p class="section-title">All Options</p>
+
+      <div class="button-row">
+        <div class="button-demo">
+          <span class="button-label">Current</span>
+          <button class="btn-current">
+            i'm ready
+            <img src="/UI/arrow.svg" alt="arrow" />
+          </button>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">A: Underline</span>
+          <button class="btn-option-a">
+            i'm ready
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(270deg);" />
+          </button>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">B: Pill Border</span>
+          <button class="btn-option-b">
+            i'm ready
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(270deg);" />
+          </button>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">C: Filled Glow</span>
+          <button class="btn-option-c">
+            i'm ready
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(270deg);" />
+          </button>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">D: Circle Arrow</span>
+          <button class="btn-option-d">
+            i'm ready
+            <span class="circle-arrow">
+              <img src="/UI/arrow.svg" alt="arrow" />
+            </span>
+          </button>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">E: Pulse Border</span>
+          <button class="btn-option-e">
+            i'm ready
+            <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(270deg);" />
+          </button>
+        </div>
+      </div>
+
+      <div class="button-row" style="margin-top: 2rem;">
+        <div class="button-demo">
+          <span class="button-label">F: Full Width CTA</span>
+          <div class="btn-option-f-container">
+            <button class="btn-option-f">
+              i'm ready
+              <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(270deg);" />
+            </button>
+          </div>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">G: Progress Bar</span>
+          <button class="btn-option-g">
+            <span class="text-row">
+              i'm ready
+              <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(270deg);" />
+            </span>
+            <span class="progress-bar">
+              <span class="progress-fill"></span>
+            </span>
+          </button>
+          <span class="notes">Shows step progress</span>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">H: Step Dots</span>
+          <button class="btn-option-h">
+            i'm ready
+            <span class="step-indicator">
+              <span class="step-dot active"></span>
+              <span class="step-dot next"></span>
+              <span class="step-dot"></span>
+            </span>
+          </button>
+          <span class="notes">Pulsing next step</span>
+        </div>
+
+        <div class="button-demo">
+          <span class="button-label">I: Chevrons</span>
+          <button class="btn-option-i">
+            i'm ready
+            <span class="chevrons">
+              <span class="chevron"></span>
+              <span class="chevron"></span>
+              <span class="chevron"></span>
+            </span>
+          </button>
+          <span class="notes">Animated forward motion</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Simulation Section -->
+    <div class="button-section">
+      <p class="section-title">Interactive Simulation</p>
+      <p style="color: var(--color-ot-gold100); opacity: 0.6; font-size: 14px; margin-bottom: 1rem;">
+        Select a style and test how it feels in context
+      </p>
+
+      <div class="style-selector">
+        <button class="style-btn active" data-style="current">Current</button>
+        <button class="style-btn" data-style="a">A: Underline</button>
+        <button class="style-btn" data-style="b">B: Pill</button>
+        <button class="style-btn" data-style="c">C: Filled</button>
+        <button class="style-btn" data-style="d">D: Circle</button>
+        <button class="style-btn" data-style="e">E: Pulse</button>
+        <button class="style-btn" data-style="f">F: Full Width</button>
+        <button class="style-btn" data-style="g">G: Progress</button>
+        <button class="style-btn" data-style="h">H: Dots</button>
+        <button class="style-btn" data-style="i">I: Chevrons</button>
+      </div>
+
+      <div class="simulation-area">
+        <h2 class="sim-title">type a name</h2>
+        <p class="sim-subtitle">
+          send the name of someone special to rise<br/>
+          alongside the Orbital Temple
+        </p>
+        <input type="text" class="sim-input" placeholder="name" id="sim-name-input" />
+        <div class="sim-button-area" id="sim-button-container">
+          <!-- Button will be inserted here by JS -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Recommendations -->
+    <div class="button-section">
+      <p class="section-title">Recommendations</p>
+      <div style="color: var(--color-ot-gold100); font-size: 14px; line-height: 1.8; opacity: 0.8;">
+        <p><strong>For better discoverability:</strong></p>
+        <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+          <li><strong>Option E (Pulse Border)</strong> - The subtle animation draws attention without being aggressive</li>
+          <li><strong>Option C (Filled Glow)</strong> - High contrast makes it unmistakably clickable</li>
+          <li><strong>Option I (Chevrons)</strong> - Animation suggests forward motion/progression</li>
+        </ul>
+        <p style="margin-top: 1.5rem;"><strong>For maintaining minimal aesthetic:</strong></p>
+        <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+          <li><strong>Option A (Underline)</strong> - Clean, subtle hover effect</li>
+          <li><strong>Option H (Step Dots)</strong> - Shows progress while staying minimal</li>
+        </ul>
+        <p style="margin-top: 1.5rem;"><strong>For mobile clarity:</strong></p>
+        <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+          <li><strong>Option B (Pill)</strong> - Clear tap target with visible boundary</li>
+          <li><strong>Option F (Full Width)</strong> - Large touch target, unmissable CTA</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Style selector functionality
+    const styleBtns = document.querySelectorAll('.style-btn');
+    const buttonContainer = document.getElementById('sim-button-container');
+    const nameInput = document.getElementById('sim-name-input');
+
+    const buttonTemplates = {
+      current: `<button class="btn-current" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <img src="/UI/arrow.svg" alt="arrow" />
+      </button>`,
+      a: `<button class="btn-option-a" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(270deg);" />
+      </button>`,
+      b: `<button class="btn-option-b" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(270deg);" />
+      </button>`,
+      c: `<button class="btn-option-c" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(270deg);" />
+      </button>`,
+      d: `<button class="btn-option-d" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <span class="circle-arrow">
+          <img src="/UI/arrow.svg" alt="arrow" />
+        </span>
+      </button>`,
+      e: `<button class="btn-option-e" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 12px; transform: rotate(270deg);" />
+      </button>`,
+      f: `<div class="btn-option-f-container" style="width: 100%; opacity: 0; transition: opacity 0.3s;">
+        <button class="btn-option-f">
+          let it ascend
+          <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(270deg);" />
+        </button>
+      </div>`,
+      g: `<button class="btn-option-g" style="opacity: 0; transition: opacity 0.3s;">
+        <span class="text-row">
+          let it ascend
+          <img class="arrow" src="/UI/arrow.svg" alt="arrow" style="height: 14px; transform: rotate(270deg);" />
+        </span>
+        <span class="progress-bar">
+          <span class="progress-fill" style="width: 66%;"></span>
+        </span>
+      </button>`,
+      h: `<button class="btn-option-h" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <span class="step-indicator">
+          <span class="step-dot active"></span>
+          <span class="step-dot active"></span>
+          <span class="step-dot next"></span>
+        </span>
+      </button>`,
+      i: `<button class="btn-option-i" style="opacity: 0; transition: opacity 0.3s;">
+        let it ascend
+        <span class="chevrons">
+          <span class="chevron"></span>
+          <span class="chevron"></span>
+          <span class="chevron"></span>
+        </span>
+      </button>`
+    };
+
+    let currentStyle = 'current';
+
+    function updateButton() {
+      buttonContainer.innerHTML = buttonTemplates[currentStyle];
+      const btn = buttonContainer.querySelector('button, .btn-option-f-container');
+
+      // Show button only if input has content
+      if (nameInput.value.length > 0) {
+        setTimeout(() => {
+          btn.style.opacity = '1';
+        }, 50);
+      }
+    }
+
+    styleBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        styleBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentStyle = btn.dataset.style;
+        updateButton();
+      });
+    });
+
+    nameInput.addEventListener('input', () => {
+      const btn = buttonContainer.querySelector('button, .btn-option-f-container');
+      if (btn) {
+        btn.style.opacity = nameInput.value.length > 0 ? '1' : '0';
+      }
+    });
+
+    // Initialize with current style
+    updateButton();
+  </script>
+</BaseLayout>

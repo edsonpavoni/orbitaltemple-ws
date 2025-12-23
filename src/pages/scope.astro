@@ -1,0 +1,115 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ScopeCountdown from "../components/ScopeCountdown";
+---
+
+<BaseLayout title="Edson Pavoni - Orbital Temple - Scope Art Fair">
+
+  <!-- Full Screen Countdown Section -->
+  <section style="position: relative; min-height: 100vh; display: flex; flex-direction: column; padding: 1.5rem;">
+
+    <!-- Satellite Background Video -->
+    <div style="position: absolute; inset: 0; z-index: 0;">
+      <!-- Mobile Video -->
+      <video
+        autoplay
+        loop
+        muted
+        playsinline
+        poster="/videos/mobile_placeholder.webp"
+        style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6; display: block;"
+        class="mobile-video">
+        <source src="/videos/mobile.webm" type="video/webm" />
+        <source src="/videos/mobile_h264.mp4" type="video/mp4" />
+      </video>
+
+      <!-- Desktop Video -->
+      <video
+        autoplay
+        loop
+        muted
+        playsinline
+        poster="/videos/desk_placeholder.webp"
+        style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6; display: none;"
+        class="desktop-video">
+        <source src="/videos/desk_h264.webm" type="video/webm" />
+        <source src="/videos/desk_h264.mp4" type="video/mp4" />
+      </video>
+    </div>
+
+    <!-- Top spacer -->
+    <div style="flex: 1; position: relative; z-index: 1;"></div>
+
+    <!-- Content Container (vertically centered) -->
+    <div style="position: relative; z-index: 1; text-align: center; max-width: 800px; width: 100%; margin: 0 auto;">
+      <ScopeCountdown client:only="react" />
+    </div>
+
+    <!-- Bottom spacer with QR code -->
+    <div style="flex: 1; position: relative; z-index: 1; display: flex; align-items: flex-end; justify-content: center; padding-bottom: 2rem;">
+      <div style="text-align: center;">
+        <img
+          src="/qr-code-scope.png"
+          alt="QR Code to Orbital Temple Preview"
+          style="width: 150px; height: 150px;"
+        />
+      </div>
+    </div>
+
+  </section>
+
+  <!-- Styles -->
+  <style is:global>
+    /* Hide header on countdown page */
+    body header {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }
+
+    /* Countdown sizing - smaller on mobile */
+    .countdown-timer {
+      gap: 1rem !important;
+    }
+
+    .time-unit {
+      min-width: 60px !important;
+    }
+
+    .time-value {
+      font-size: 32px !important;
+    }
+
+    .time-label {
+      font-size: 12px !important;
+    }
+
+    /* Larger countdown on desktop */
+    @media (min-width: 768px) {
+      .mobile-video {
+        display: none !important;
+      }
+      .desktop-video {
+        display: block !important;
+      }
+
+      .countdown-timer {
+        gap: 2rem !important;
+      }
+
+      .time-unit {
+        min-width: 80px !important;
+      }
+
+      .time-value {
+        font-size: 48px !important;
+      }
+
+      .time-label {
+        font-size: 14px !important;
+      }
+    }
+  </style>
+
+</BaseLayout>
