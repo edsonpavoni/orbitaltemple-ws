@@ -37,7 +37,7 @@ export default function SupportDocumentaryContent() {
       </p>
 
       <p className="body-text">
-        Conceived by Brazilian artist Edson Pavoni, with executive direction from Bengali-American Sathi Roy, the Orbital Temple transforms satellite technology into a 10-year public memorial. People around the world will send names to space via a multilingual site, creating a decentralized ritual of remembrance that transcends borders.
+        Conceived by Brazilian artist Edson Pavoni, the Orbital Temple transforms satellite technology into a 10-year public memorial. People around the world will send names to space via a multilingual site, creating a decentralized ritual of remembrance that transcends borders.
       </p>
 
       <p className="body-text body-text--section-end">
@@ -83,10 +83,6 @@ export default function SupportDocumentaryContent() {
 
       <p className="body-text" style={{ marginBottom: 'var(--space-sm)' }}>
         <strong>Artist:</strong> Edson Pavoni (Brazil)
-      </p>
-
-      <p className="body-text" style={{ marginBottom: 'var(--space-sm)' }}>
-        <strong>Executive Producer:</strong> Sathi Roy (India)
       </p>
 
       <p className="body-text" style={{ marginBottom: 'var(--space-sm)' }}>
@@ -144,28 +140,6 @@ export default function SupportDocumentaryContent() {
           </p>
           <p className="body-text body-text--secondary">
             <span dangerouslySetInnerHTML={{ __html: t('people.edson.paragraph3') }} />
-          </p>
-        </div>
-
-        {/* Sathi Roy */}
-        <div>
-          <img
-            src="/sponsors/sathi-roy-portrait.webp"
-            alt="Sathi Roy"
-            style={{ width: '100%', aspectRatio: '1', objectFit: 'cover', borderRadius: '4px', marginBottom: '1.5rem' }}
-          />
-          <h3 className="section-subtitle">{t('people.sathi.name')}</h3>
-          <p className="body-text body-text--secondary">
-            {t('people.sathi.role')}
-          </p>
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('people.sathi.paragraph1') }} />
-          </p>
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('people.sathi.paragraph2') }} />
-          </p>
-          <p className="body-text body-text--secondary">
-            <span dangerouslySetInnerHTML={{ __html: t('people.sathi.paragraph3') }} />
           </p>
         </div>
 

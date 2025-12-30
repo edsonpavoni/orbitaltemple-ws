@@ -88,11 +88,6 @@
       "photo1": "ስእሊ 1<br /> ↓ Download ልዑል ረዝ",
       "photo2": "ስእሊ 2<br /> ↓ Download ልዑል ረዝ"
     },
-    "sathiPhotos": {
-      "heading": "ሳቲ ሮይ ስእልታት",
-      "photo1": "ስእሊ 1<br /> ↓ Download ልዑል ረዝ (843 KB)",
-      "photo2": "ስእሊ 2<br /> ↓ Download ልዑል ርዝነት (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "ቴክኒካዊ ስፔሲፊኬሽን",
@@ -131,7 +126,6 @@
     "antenna": "ኦርቢታል ቤተ መቕደስ ኣንቴና ቅርጻ",
     "render": "ኦርቢታል ቤተ መቕደስ 3D ምቕራብ ብ RiseNY&Partners",
     "edsonPortrait": "ኤድሰን ፓቮኒ ስእሊ",
-    "sathiPortrait": "ሳቲ ሮይ ስእሊ",
     "lumenPrize": "ሽልማት ሉመን",
     "mercosulBienal": "መርኮሱር ክልተ ዓመት"
   }

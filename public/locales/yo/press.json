@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Egbe",
-    "content": "Orbital Temple ni a ṣẹda ni ifowosowopo pẹlu Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holz, Pedroel Rabtister, Andrea Putti, Andrea Putti, Andrea Putti, Andre Putti, Vidiister, Andrea Putti. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ati gbogbo awọn ti o tẹsiwaju lati daba awọn orukọ fun tẹmpili yii."
+    "content": "Orbital Temple ni a ṣẹda ni ifowosowopo pẹlu Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holz, Pedroel Rabtister, Andrea Putti, Andrea Putti, Andrea Putti, Andre Putti, Vidiister, Andrea Putti. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ati gbogbo awọn ti o tẹsiwaju lati daba awọn orukọ fun tẹmpili yii."
   },
   "pressCoverage": {
     "heading": "Ifihan Ni / Tẹ Ideri",
@@ -88,11 +88,6 @@
       "photo1": "Fọto 1<br /> ↓ Ṣe igbasilẹ High-Res",
       "photo2": "Fọto 2<br /> ↓ Ṣe igbasilẹ High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Awọn fọto Sathi Roy",
-      "photo1": "Fọto 1<br /> ↓ Ṣe igbasilẹ Awọn Res giga (843 KB)",
-      "photo2": "Fọto 2<br /> ↓ Ṣe igbasilẹ Awọn Res giga (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Imọ ni pato",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple Antenna Sculpture",
     "render": "Orbital Temple 3D Rendering nipasẹ RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Aworan",
-    "sathiPortrait": "Aworan Sathi Roy",
     "lumenPrize": "Lumen joju",
     "mercosulBienal": "Mercosur Ọdun-ọdun"
   }

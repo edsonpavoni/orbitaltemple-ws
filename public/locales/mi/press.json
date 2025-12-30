@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Kapa",
-    "content": "Ko te temepara o Orbital i hangaia ma te mahi tahi me Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andres Vidigal, Pedro Fernan, Rafael Puglia Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, me te hunga katoa e kii tonu ana i nga ingoa mo tenei whare tapu."
+    "content": "Ko te temepara o Orbital i hangaia ma te mahi tahi me Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andres Vidigal, Pedro Fernan, Rafael Puglia Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, me te hunga katoa e kii tonu ana i nga ingoa mo tenei whare tapu."
   },
   "pressCoverage": {
     "heading": "Kei roto / Press Coverage",
@@ -88,11 +88,6 @@
       "photo1": "Whakaahua 1<br /> ↓ Tikiake High-Res",
       "photo2": "Whakaahua 2<br /> ↓ Tikiake High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Whakaahua",
-      "photo1": "Whakaahua 1<br /> ↓ Tikiake Tirohanga-Take (843 KB)",
-      "photo2": "Whakaahua 2<br /> ↓ Tikiake Ahu-Tuite (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Whakatakotoranga Hangarau",
@@ -131,7 +126,6 @@
     "antenna": "Whakairo Orbital Temple Antenna Sculpture",
     "render": "Orbital Temple 3D Rendering na RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Portrait",
-    "sathiPortrait": "Whakaahua Sathi Roy",
     "lumenPrize": "Tohu Lumen",
     "mercosulBienal": "Mercosur rua tau"
   }

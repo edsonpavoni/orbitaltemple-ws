@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Tim",
-    "content": "Orbital Temple je kreiran u saradnji sa Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Flazmei Vidigal, Pedro Alves, Daphmei Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, i svi oni koji i dalje predlažu imena za ovaj hram."
+    "content": "Orbital Temple je kreiran u saradnji sa Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Flazmei Vidigal, Pedro Alves, Daphmei Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, i svi oni koji i dalje predlažu imena za ovaj hram."
   },
   "pressCoverage": {
     "heading": "Istaknuto u / Izvještavanje u medijima",
@@ -88,11 +88,6 @@
       "photo1": "Fotografija 1<br /> ↓ Preuzmi sliku visoke rezolucije",
       "photo2": "Fotografija 2<br /> ↓ Preuzmi sliku visoke rezolucije"
     },
-    "sathiPhotos": {
-      "heading": "Fotografije Sathi Roya",
-      "photo1": "Fotografija 1<br /> ↓ Preuzmi sliku visoke rezolucije (843 KB)",
-      "photo2": "Fotografija 2<br /> ↓ Preuzmi sliku visoke rezolucije (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tehničke specifikacije",
@@ -131,7 +126,6 @@
     "antenna": "Skulptura orbitalne hramske antene",
     "render": "3D renderiranje Orbitalnog hrama od strane RiseNY&Partners",
     "edsonPortrait": "Portret Edsona Pavonija",
-    "sathiPortrait": "Portret Sathi Roya",
     "lumenPrize": "Lumenova nagrada",
     "mercosulBienal": "Bijenale Mercosura"
   }

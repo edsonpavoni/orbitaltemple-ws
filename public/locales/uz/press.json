@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Jamoa",
-    "content": "Orbital Temple Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, João Viktor Alves, André Biagioni, VK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Visa, Andregal Alves, Daphardioio, Andres Alves bilan hamkorlikda yaratilgan. Pedro Vidigal, Tatyane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace va ushbu ma'badga nom berishda davom etayotganlar."
+    "content": "Orbital Temple Pedro Kaled, João Pedro Polito, Viktor Baptista, João Viktor Alves, André Biagioni, VK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Visa, Andregal Alves, Daphardioio, Andres Alves bilan hamkorlikda yaratilgan. Pedro Vidigal, Tatyane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace va ushbu ma'badga nom berishda davom etayotganlar."
   },
   "pressCoverage": {
     "heading": "Tanlangan / Matbuot yoritilishi",
@@ -88,11 +88,6 @@
       "photo1": "Surat 1<br /> ↓ Yuqori aniqlikni yuklab oling",
       "photo2": "2-rasm<br /> ↓ Yuqori aniqlikni yuklab oling"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy fotosuratlari",
-      "photo1": "Surat 1<br /> ↓ Yuqori aniqlikdagi yuklab olish (843 KB)",
-      "photo2": "2-rasm<br /> ↓ Yuqori aniqlikdagi yuklab olish (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Texnik spetsifikatsiyalar",
@@ -131,7 +126,6 @@
     "antenna": "Orbital ibodatxona antennasi haykali",
     "render": "RiseNY&Partners tomonidan Orbital Temple 3D renderlash",
     "edsonPortrait": "Edson Pavoni portreti",
-    "sathiPortrait": "Sathi Roy portreti",
     "lumenPrize": "Lumen mukofoti",
     "mercosulBienal": "Merkosur Bienali"
   }

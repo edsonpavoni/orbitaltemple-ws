@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Tîm",
-    "content": "Mae Orbital Temple yn cael ei greu ar y cyd â Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Vidigal R. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, a phawb sy'n parhau i awgrymu enwau ar gyfer y deml hon."
+    "content": "Mae Orbital Temple yn cael ei greu ar y cyd â Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Vidigal R. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, a phawb sy'n parhau i awgrymu enwau ar gyfer y deml hon."
   },
   "pressCoverage": {
     "heading": "Wedi'i gynnwys yn / Sylw yn y Wasg",
@@ -88,11 +88,6 @@
       "photo1": "Llun 1<br /> ↓ Lawrlwytho Cydraniad Uchel",
       "photo2": "Llun 2<br /> ↓ Lawrlwytho Cydraniad Uchel"
     },
-    "sathiPhotos": {
-      "heading": "Lluniau Sathi Roy",
-      "photo1": "Llun 1<br /> ↓ Lawrlwytho Cydraniad Uchel (843 KB)",
-      "photo2": "Llun 2<br /> ↓ Lawrlwytho Cydraniad Uchel (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Manylebau Technegol",
@@ -131,7 +126,6 @@
     "antenna": "Cerflun Antena Teml Orbitol",
     "render": "Rendro 3D Teml Orbitol gan RiseNY&Partners",
     "edsonPortrait": "Portread Edson Pavoni",
-    "sathiPortrait": "Portread Sathi Roy",
     "lumenPrize": "Gwobr Lumen",
     "mercosulBienal": "Biennal Mercosur"
   }

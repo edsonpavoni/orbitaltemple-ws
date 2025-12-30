@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Topar",
-    "content": "“Orbital Temple” Sathi Roý, Pedro Kaled, João Pedro Polito, Wiktor Baptista, João Wiktor Alves, Andre Biagioni, WK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Holidigal Tatiane Putti, Rafael Fernandes, Bruna Kair, Gaty düşünjeler, RiseNY & Partners, IdeaSpace we bu ybadathana atlaryny teklip etmegi dowam etdirýänleriň hemmesi."
+    "content": "“Orbital Temple” Pedro Kaled, João Pedro Polito, Wiktor Baptista, João Wiktor Alves, Andre Biagioni, WK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Holidigal Tatiane Putti, Rafael Fernandes, Bruna Kair, Gaty düşünjeler, RiseNY & Partners, IdeaSpace we bu ybadathana atlaryny teklip etmegi dowam etdirýänleriň hemmesi."
   },
   "pressCoverage": {
     "heading": "Aýratyn / Içerki metbugat",
@@ -88,11 +88,6 @@
       "photo1": "Surat 1<br /> High High-Res-i göçürip alyň",
       "photo2": "Surat 2<br /> High High-Res-i göçürip alyň"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Suratlar",
-      "photo1": "Surat 1<br /> High “High-Res” -i göçürip alyň (843 KB)",
-      "photo2": "Surat 2<br /> High High-Res (1.8 MB) göçürip alyň"
-    }
   },
   "technicalSpecs": {
     "heading": "Tehniki aýratynlyklar",
@@ -131,7 +126,6 @@
     "antenna": "Orbital ybadathana antenna heýkeli",
     "render": "“RiseNY & Partners” tarapyndan “Orbital Temple 3D Rendering”",
     "edsonPortrait": "Edson Pavoni portreti",
-    "sathiPortrait": "Sathi Roý portreti",
     "lumenPrize": "Lumen baýragy",
     "mercosulBienal": "Mercosur Biennial"
   }

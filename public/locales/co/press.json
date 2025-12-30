@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Squadra",
-    "content": "Orbital Temple hè stata creata in cullaburazione cù Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Cairn, Fertianan Solid, Pedro Pudigal, Rafael RiseNY&Partners, IdeaSpace, è tutti quelli chì cuntinueghjanu à suggerisce nomi per stu tempiu."
+    "content": "Orbital Temple hè stata creata in cullaburazione cù Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Cairn, Fertianan Solid, Pedro Pudigal, Rafael RiseNY&Partners, IdeaSpace, è tutti quelli chì cuntinueghjanu à suggerisce nomi per stu tempiu."
   },
   "pressCoverage": {
     "heading": "Prisentatu in / Cupertura di stampa",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Scaricate in Alta Risoluzione",
       "photo2": "Foto 2<br /> ↓ Scaricate in Alta Risoluzione"
     },
-    "sathiPhotos": {
-      "heading": "Ritratti di Sathi Roy",
-      "photo1": "Foto 1<br /> ↓ Scaricà Alta Risoluzione (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Scaricà Alta Risoluzione (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Specifiche tecniche",
@@ -131,7 +126,6 @@
     "antenna": "Scultura di l'antenna di u tempiu orbitale",
     "render": "Rendering 3D di u Tempiu Orbitale da RiseNY&Partners",
     "edsonPortrait": "Ritrattu di Edson Pavoni",
-    "sathiPortrait": "Ritrattu di Sathi Roy",
     "lumenPrize": "Premiu Lumen",
     "mercosulBienal": "Biennale di u Mercosur"
   }

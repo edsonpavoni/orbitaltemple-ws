@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Թիմ",
-    "content": "Orbital Temple-ը ստեղծվել է Sathi Roy-ի, Pedro Kaled-ի, João Pedro Polito-ի, Victor Baptista-ի, João Victor Alves-ի, André Biagioni-ի, VK-ի, Jonathan Querubina-ի, Guilherme Bullejos-ի, Eduardo Dias-ի, Roberta Savian Rosa-ի, Clara Marques-ի, Անդրեո-Վիկտորի, Անդրեո-ի, Անդրեո-ի, Ֆլաոդրոյի, Անդրեո-Պեյգալ-ի, Անդրե-Պեյգալ-ի, Ֆլադովիսի հետ: Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace և բոլոր նրանք, ովքեր շարունակում են անուններ առաջարկել այս տաճարի համար:"
+    "content": "Orbital Temple-ը ստեղծվել է -ի, Pedro Kaled-ի, João Pedro Polito-ի, Victor Baptista-ի, João Victor Alves-ի, André Biagioni-ի, VK-ի, Jonathan Querubina-ի, Guilherme Bullejos-ի, Eduardo Dias-ի, Roberta Savian Rosa-ի, Clara Marques-ի, Անդրեո-Վիկտորի, Անդրեո-ի, Անդրեո-ի, Ֆլաոդրոյի, Անդրեո-Պեյգալ-ի, Անդրե-Պեյգալ-ի, Ֆլադովիսի հետ: Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace և բոլոր նրանք, ովքեր շարունակում են անուններ առաջարկել այս տաճարի համար:"
   },
   "pressCoverage": {
     "heading": "Ընտրված / Մամուլի լուսաբանում",
@@ -88,11 +88,6 @@
       "photo1": "Լուսանկար 1<br /> ↓ Բարձր թույլտվությամբ ներբեռնում",
       "photo2": "Լուսանկար 2<br /> ↓ Բարձր թույլտվությամբ ներբեռնում"
     },
-    "sathiPhotos": {
-      "heading": "Սաթի Ռոյ լուսանկարներ",
-      "photo1": "Լուսանկար 1<br /> ↓ Բարձր թույլտվությամբ ներբեռնում (843 ԿԲ)",
-      "photo2": "Լուսանկար 2<br /> ↓ Բարձր թույլտվությամբ ներբեռնում (1.8 ՄԲ)"
-    }
   },
   "technicalSpecs": {
     "heading": "Տեխնիկական բնութագրեր",
@@ -131,7 +126,6 @@
     "antenna": "Օրբիտալ տաճարի անտենայի քանդակ",
     "render": "Օրբիտալ տաճարի եռաչափ պատկերացում RiseNY&Partners-ի կողմից",
     "edsonPortrait": "Էդսոն Պավոնիի դիմանկարը",
-    "sathiPortrait": "Սաթի Ռոյի դիմանկարը",
     "lumenPrize": "Լումեն մրցանակ",
     "mercosulBienal": "Մերկոսուրի բիենալե"
   }

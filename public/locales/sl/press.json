@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ekipa",
-    "content": "Orbital Temple je ustvarjen v sodelovanju s Sathi Royem, Pedrom Kaledom, João Pedrom Politom, Victorjem Baptisto, Joãom Victorjem Alvesom, Andréjem Biagionijem, VK, Jonathanom Querubino, Guilhermejem Bullejosom, Eduardom Diasom, Roberto Savian Rosa, Claro Marques, Daphne Alves, Flaviom Vidigalom, Andreom Holzmeistrom, Pedrom Vidigalom, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace in vsi tisti, ki še naprej predlagajo imena za ta tempelj."
+    "content": "Orbital Temple je ustvarjen v sodelovanju s em, Pedrom Kaledom, João Pedrom Politom, Victorjem Baptisto, Joãom Victorjem Alvesom, Andréjem Biagionijem, VK, Jonathanom Querubino, Guilhermejem Bullejosom, Eduardom Diasom, Roberto Savian Rosa, Claro Marques, Daphne Alves, Flaviom Vidigalom, Andreom Holzmeistrom, Pedrom Vidigalom, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace in vsi tisti, ki še naprej predlagajo imena za ta tempelj."
   },
   "pressCoverage": {
     "heading": "Predstavljeno v / Pokritost v medijih",
@@ -88,11 +88,6 @@
       "photo1": "Fotografija 1<br /> ↓ Prenesi visokoločljivostno sliko",
       "photo2": "Fotografija 2<br /> ↓ Prenesi visokoločljivostno sliko"
     },
-    "sathiPhotos": {
-      "heading": "Fotografije Sathija Roya",
-      "photo1": "Fotografija 1<br /> ↓ Prenesi visokoločljivostno sliko (843 KB)",
-      "photo2": "Fotografija 2<br /> ↓ Prenesi visokoločljivostno sliko (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tehnične specifikacije",
@@ -131,7 +126,6 @@
     "antenna": "Skulptura orbitalne tempeljske antene",
     "render": "3D-upodobitev orbitalnega templja, ki jo je izdelal RiseNY&Partners",
     "edsonPortrait": "Portret Edsona Pavonija",
-    "sathiPortrait": "Portret Sathija Roya",
     "lumenPrize": "Nagrada Lumen",
     "mercosulBienal": "Bienale Mercosurja"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Команда",
-    "content": "Orbital Temple створено у співпраці з Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace та всі ті, хто продовжує пропонувати назви для цього храму."
+    "content": "Orbital Temple створено у співпраці з Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace та всі ті, хто продовжує пропонувати назви для цього храму."
   },
   "pressCoverage": {
     "heading": "Рекомендовано в / Висвітлення в пресі",
@@ -88,11 +88,6 @@
       "photo1": "Фото 1<br /> ↓ Завантажити високої роздільної здатності",
       "photo2": "Фото 2<br /> ↓ Завантажити високої роздільної здатності"
     },
-    "sathiPhotos": {
-      "heading": "Фотографії Саті Роя",
-      "photo1": "Фото 1<br /> ↓ Завантажити високої роздільної здатності (843 КБ)",
-      "photo2": "Фото 2<br /> ↓ Завантажити зображення високої роздільної здатності (1,8 МБ)"
-    }
   },
   "technicalSpecs": {
     "heading": "Технічні характеристики",
@@ -131,7 +126,6 @@
     "antenna": "Скульптура орбітальної храмової антени",
     "render": "3D-рендеринг Орбітального храму від RiseNY&Partners",
     "edsonPortrait": "Портрет Едсона Павоні",
-    "sathiPortrait": "Портрет Саті Роя",
     "lumenPrize": "Премія Люмена",
     "mercosulBienal": "Бієнале Меркосур"
   }

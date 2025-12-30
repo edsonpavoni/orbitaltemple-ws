@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "အဖွဲ",
-    "content": "Orbital Temple ကို Sathi Roy၊ Pedro Kaled၊ João Pedro Polito၊ Victor Baptista၊ João Victor Alves၊ André Biagioni၊ VK၊ Jonathan Querubina၊ Guilherme Bullejos၊ Eduardo Dias၊ Roberta Savian Rosa၊ Clara Marques၊ Daphne Holdigal Alves၊ And Flav တို့နှင့် ပူးပေါင်းဖန်တီးထားသည်။ Tatiane Putti၊ Rafael Fernandes၊ Bruna Cairo၊ Solid Concepts၊ RiseNY&Partners၊ IdeaSpace နှင့် ဤဘုရားကျောင်းအတွက် အမည်များကို ဆက်လက်အကြံပြုနေသူများအားလုံး။"
+    "content": "Orbital Temple ကို ၊ Pedro Kaled၊ João Pedro Polito၊ Victor Baptista၊ João Victor Alves၊ André Biagioni၊ VK၊ Jonathan Querubina၊ Guilherme Bullejos၊ Eduardo Dias၊ Roberta Savian Rosa၊ Clara Marques၊ Daphne Holdigal Alves၊ And Flav တို့နှင့် ပူးပေါင်းဖန်တီးထားသည်။ Tatiane Putti၊ Rafael Fernandes၊ Bruna Cairo၊ Solid Concepts၊ RiseNY&Partners၊ IdeaSpace နှင့် ဤဘုရားကျောင်းအတွက် အမည်များကို ဆက်လက်အကြံပြုနေသူများအားလုံး။"
   },
   "pressCoverage": {
     "heading": "အထူးဖော်ပြထားသည် / စာနယ်ဇင်းလွှမ်းခြုံ",
@@ -88,11 +88,6 @@
       "photo1": "ဓာတ်ပုံ ၁<br /> ↓ မြင့်မားသော Res ကို ဒေါင်းလုဒ်လုပ်ပါ။",
       "photo2": "ဓာတ်ပုံ ၂<br /> ↓ မြင့်မားသော Res ကို ဒေါင်းလုဒ်လုပ်ပါ။"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy ဓာတ်ပုံများ",
-      "photo1": "ဓာတ်ပုံ ၁<br /> ↓ မြင့်မားသော Res (843 KB) ဒေါင်းလုဒ်လုပ်ပါ",
-      "photo2": "ဓာတ်ပုံ ၂<br /> ↓ Res မြင့်မားသော ဒေါင်းလုဒ်လုပ်ရန် (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "နည်းပညာဆိုင်ရာသတ်မှတ်ချက်များ",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple Antenna ပန်းပုရုပ်",
     "render": "RiseNY&Partners မှ Orbital Temple 3D Rendering",
     "edsonPortrait": "Edson Pavoni ပုံတူ",
-    "sathiPortrait": "Sathi Roy ပုံတူ",
     "lumenPrize": "Lumen ဆု",
     "mercosulBienal": "Mercosur နှစ်နှစ်တစ်ကြိမ်"
   }

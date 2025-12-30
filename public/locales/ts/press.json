@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Xipanu",
-    "content": "Tempele ya Orbital yi tumbuluxiwile hi ku tirhisana na Sathi Roy, Pedro Kaled, João Pedro Polito, Muhluri Baptista, João Vhictor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, na hinkwavo lava yaka emahlweni va ringanyeta mavito ya tempele leyi."
+    "content": "Tempele ya Orbital yi tumbuluxiwile hi ku tirhisana na Pedro Kaled, João Pedro Polito, Muhluri Baptista, João Vhictor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, na hinkwavo lava yaka emahlweni va ringanyeta mavito ya tempele leyi."
   },
   "pressCoverage": {
     "heading": "Featured In / Vuhangalasi bya Mahungu",
@@ -88,11 +88,6 @@
       "photo1": "Xifaniso 1<br /> ↓ Download Xifaniso xa le henhla xa High-Res",
       "photo2": "Xifaniso xa 2<br /> ↓ Download Xifaniso xa le henhla xa High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Swifaniso swa Sathi Roy",
-      "photo1": "Xifaniso 1<br /> ↓ Download Xifaniso xa le henhla (843 KB)",
-      "photo2": "Xifaniso xa 2<br /> ↓ Download Xifaniso xa le henhla (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Swihlawulekisi swa Xithekiniki",
@@ -131,7 +126,6 @@
     "antenna": "Xifaniso xa Antena ya Tempele ya Orbital",
     "render": "Ku hundzuluxeriwa ka 3D ka Tempele ya Orbital hi RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Xifaniso xa xifaniso",
-    "sathiPortrait": "Xifaniso xa Sathi Roy",
     "lumenPrize": "Sagwadi ra Lumen",
     "mercosulBienal": "Mercosur Biennial ya lembe na lembe"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Foireann",
-    "content": "Cruthaítear Orbital Temple i gcomhar le Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedrozedigal, André Vidigal. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, agus iad siúd go léir a leanann orthu ag moladh ainmneacha don teampall seo."
+    "content": "Cruthaítear Orbital Temple i gcomhar le Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedrozedigal, André Vidigal. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, agus iad siúd go léir a leanann orthu ag moladh ainmneacha don teampall seo."
   },
   "pressCoverage": {
     "heading": "Réadmhaoin i / Clúdach Preasa",
@@ -88,11 +88,6 @@
       "photo1": "Grianghraf 1<br /> ↓ Íoslódáil Ardtaifigh",
       "photo2": "Grianghraf 2<br /> ↓ Íoslódáil Ardtaifigh"
     },
-    "sathiPhotos": {
-      "heading": "Grianghraif Sathi Roy",
-      "photo1": "Grianghraf 1<br /> ↓ Íoslódáil Ardtaifigh (843 KB)",
-      "photo2": "Grianghraf 2<br /> ↓ Íoslódáil Ardtaifigh (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Sonraíochtaí Teicniúla",
@@ -131,7 +126,6 @@
     "antenna": "Dealbh Antenna Teampaill Fithiseach",
     "render": "Rindreáil 3D den Teampall Fithiseach le RiseNY&Partners",
     "edsonPortrait": "Portráid Edson Pavoni",
-    "sathiPortrait": "Portráid Sathi Roy",
     "lumenPrize": "Duais Lumen",
     "mercosulBienal": "Débhliantúil Mercosur"
   }

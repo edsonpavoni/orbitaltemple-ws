@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Huñu",
-    "content": "Orbital yupaychana wasiqa Sathi Roywan, Pedro Kaledwan, João Pedro Politowan, Víctor Baptistawan, João Víctor Alveswan, André Biagioniwan, VKwan, Jonathan Querubinawan, Guilherme Bullejoswan, Eduardo Diaswan, Roberta Savian Rosawan, Clara Marqueswan, Daphne Alveswan, Flavio Vidigalwan, Andre Holzmeisterwan, Pedro Vidigalwan, Tatiane Puttiwan, Rafaelwan kuska kamasqa Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, hinallataq llapan kay yupaychana wasipaq sutikunata yuyaychaspa puriqkuna."
+    "content": "Orbital yupaychana wasiqa wan, Pedro Kaledwan, João Pedro Politowan, Víctor Baptistawan, João Víctor Alveswan, André Biagioniwan, VKwan, Jonathan Querubinawan, Guilherme Bullejoswan, Eduardo Diaswan, Roberta Savian Rosawan, Clara Marqueswan, Daphne Alveswan, Flavio Vidigalwan, Andre Holzmeisterwan, Pedro Vidigalwan, Tatiane Puttiwan, Rafaelwan kuska kamasqa Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, hinallataq llapan kay yupaychana wasipaq sutikunata yuyaychaspa puriqkuna."
   },
   "pressCoverage": {
     "heading": "Destacado En / Prensa Cobertura",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Alto-Res nisqamanta hurquy",
       "photo2": "Foto 2<br /> ↓ Alto-Res nisqamanta hurquy"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Fotokuna",
-      "photo1": "Foto 1<br /> ↓ Alto-Res (843 KB) nisqamanta hurquy.",
-      "photo2": "Foto 2<br /> ↓ Alto-Res (1.8 MB) nisqamanta hurquy."
-    }
   },
   "technicalSpecs": {
     "heading": "Especificaciones Técnicas nisqamanta",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Templo Antena Escultura",
     "render": "Orbital Templo 3D Renderización RiseNY&Partners nisqap rurasqan",
     "edsonPortrait": "Edson Pavoni sutiyuq runap rikch'aynin",
-    "sathiPortrait": "Sathi Roy Retrato",
     "lumenPrize": "Premio Lumen nisqa",
     "mercosulBienal": "Mercosur Bienal nisqa"
   }

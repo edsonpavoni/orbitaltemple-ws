@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ekipu",
-    "content": "Orbital Temple dabɔra jɛkafɔ kɔnɔ ni Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael ye Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ani mɔgɔ minnu bɛɛ bɛ taa a fɛ ka tɔgɔw fɔ nin batoso in na."
+    "content": "Orbital Temple dabɔra jɛkafɔ kɔnɔ ni Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael ye Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ani mɔgɔ minnu bɛɛ bɛ taa a fɛ ka tɔgɔw fɔ nin batoso in na."
   },
   "pressCoverage": {
     "heading": "A jiralen bɛ In / Press Coverage kɔnɔ",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1nan<br /> ↓ Télécharger High-Res",
       "photo2": "Foto 2nan<br /> ↓ Télécharger High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy ka fotow",
-      "photo1": "Foto 1nan<br /> ↓ Télécharger High-Res (843 KB) Bamako, Mali.",
-      "photo2": "Foto 2nan<br /> ↓ Télécharger High-Res (1,8 MB) Bamako, Mali."
-    }
   },
   "technicalSpecs": {
     "heading": "Fɛɛrɛko ɲɛfɔli",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple Antenne Ja",
     "render": "Orbital Temple 3D Rendering ka bɔ RiseNY&Partners fɛ",
     "edsonPortrait": "Edson Pavoni ka ja",
-    "sathiPortrait": "Sathi Roy ka ja",
     "lumenPrize": "Lumen Jara",
     "mercosulBienal": "Mercosur ka san fila kɛ"
   }

@@ -88,11 +88,6 @@
       "photo1": "ፎቶ 1<br /> ↓ High-Res ያውርዱ",
       "photo2": "ፎቶ 2<br /> ↓ High-Res ያውርዱ"
     },
-    "sathiPhotos": {
-      "heading": "የሳቲ ሮይ ፎቶዎች",
-      "photo1": "ፎቶ 1<br /> ↓ ከፍተኛ ሪስ (843 ኪባ) አውርድ",
-      "photo2": "ፎቶ 2<br /> ↓ ከፍተኛ ጥራት አውርድ (1.8 ሜባ)"
-    }
   },
   "technicalSpecs": {
     "heading": "ቴክኒካዊ ዝርዝሮች",
@@ -131,7 +126,6 @@
     "antenna": "የምሕዋር ቤተመቅደስ አንቴና ቅርፃቅርፅ",
     "render": "የምህዋር ቤተመቅደስ 3D አቀራረብ በRiseNY&Partners",
     "edsonPortrait": "የኤድሰን ፓቮኒ የቁም ሥዕል",
-    "sathiPortrait": "የሳቲ ሮይ የቁም ምስል",
     "lumenPrize": "የሉመን ሽልማት",
     "mercosulBienal": "Mercosur Biennial"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Zespół",
-    "content": "Orbital Temple powstaje we współpracy z Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace i wszyscy, którzy nadal proponują nazwy tej świątyni."
+    "content": "Orbital Temple powstaje we współpracy z Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace i wszyscy, którzy nadal proponują nazwy tej świątyni."
   },
   "pressCoverage": {
     "heading": "Polecane w / Relacje prasowe",
@@ -88,11 +88,6 @@
       "photo1": "Zdjęcie 1<br /> ↓ Pobierz w wysokiej rozdzielczości",
       "photo2": "Zdjęcie 2<br /> ↓ Pobierz w wysokiej rozdzielczości"
     },
-    "sathiPhotos": {
-      "heading": "Zdjęcia Sathi Roy",
-      "photo1": "Zdjęcie 1<br /> ↓ Pobierz w wysokiej rozdzielczości (843 KB)",
-      "photo2": "Zdjęcie 2<br /> ↓ Pobierz w wysokiej rozdzielczości (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Dane techniczne",
@@ -131,7 +126,6 @@
     "antenna": "Rzeźba antenowa świątyni orbitalnej",
     "render": "Wizualizacja 3D Świątyni Orbitalnej autorstwa RiseNY&Partners",
     "edsonPortrait": "Portret Edsona Pavoniego",
-    "sathiPortrait": "Portret Sathi Roya",
     "lumenPrize": "Nagroda Lumen",
     "mercosulBienal": "Dwuletnie Mercosur"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Equipe",
-    "content": "Orbital Temple gëtt an Zesummenaarbecht mat Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Raffael Putti, Ta Pedro, Putti, Raffael Holzmeister, Ta Pedro Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, an all déi, déi weider Nimm fir dësen Tempel virschloen."
+    "content": "Orbital Temple gëtt an Zesummenaarbecht mat Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Raffael Putti, Ta Pedro, Putti, Raffael Holzmeister, Ta Pedro Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, an all déi, déi weider Nimm fir dësen Tempel virschloen."
   },
   "pressCoverage": {
     "heading": "Featured In / Presseberichterstattung",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Héichopléisend eroflueden",
       "photo2": "Foto 2<br /> ↓ Héichopléisend eroflueden"
     },
-    "sathiPhotos": {
-      "heading": "Fotoe vum Sathi Roy",
-      "photo1": "Foto 1<br /> ↓ Héichopléisend eroflueden (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Héichopléisend eroflueden (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Technesch Spezifikatiounen",
@@ -131,7 +126,6 @@
     "antenna": "Skulptur vun der Orbitaltempelantenn",
     "render": "3D-Rendering vum Orbitaltempel vu RiseNY&Partners",
     "edsonPortrait": "Portrait vum Edson Pavoni",
-    "sathiPortrait": "Portrait vum Sathi Roy",
     "lumenPrize": "Lumen Präis",
     "mercosulBienal": "Mercosur Biennale"
   }

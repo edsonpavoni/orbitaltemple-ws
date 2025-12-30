@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Tama",
-    "content": "Templo Orbital ukax Sathi Roy, Pedro Kaled, João Pedro Polito, Víctor Baptista, João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael jupanakamp chikt’ataw lurasi Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ukat taqi khitinakatix aka templo ukan sutinak uñt’ayasipki."
+    "content": "Templo Orbital ukax Pedro Kaled, João Pedro Polito, Víctor Baptista, João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael jupanakamp chikt’ataw lurasi Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ukat taqi khitinakatix aka templo ukan sutinak uñt’ayasipki."
   },
   "pressCoverage": {
     "heading": "Uñacht’ayata In / Prensa Cobertura",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1. Ukax mä juk’a pachanakanwa<br /> ↓ Uñt’ayañataki Alto-Res",
       "photo2": "Foto 2. Ukax mä juk’a pachanakanwa<br /> ↓ Uñt’ayañataki Alto-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy sat chachan fotonakapa",
-      "photo1": "Foto 1. Ukax mä juk’a pachanakanwa<br /> ↓ Alto-Res (843 KB) ukar apkataña",
-      "photo2": "Foto 2. Ukax mä juk’a pachanakanwa<br /> ↓ Alto-Res (1.8 MB) ukar apkataña."
-    }
   },
   "technicalSpecs": {
     "heading": "Especificaciones Técnicas ukanaka",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Templo Antena Escultura ukax mä jach’a uñacht’äwiwa",
     "render": "Templo Orbital 3D Renderización ukax RiseNY&Partners ukan luratawa",
     "edsonPortrait": "Edson Pavoni sat chachan jamuqapa",
-    "sathiPortrait": "Sathi Roy sat chachan jamuqapa",
     "lumenPrize": "Premio Lumen ukax wali askiwa",
     "mercosulBienal": "Mercosur ukax Bienal ukan uñt’ayatawa"
   }

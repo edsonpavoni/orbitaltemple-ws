@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "ٽيم",
-    "content": "Orbital Temple Sathi Roy، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، Flaviodrome Al Viisterome، Andrea Marques، Daphine Alves جي تعاون سان ٺاھيو ويو آھي. Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ۽ اھي سڀ جيڪي ھن مندر لاءِ نالا تجويز ڪندا رھندا آھن."
+    "content": "Orbital Temple ، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، Flaviodrome Al Viisterome، Andrea Marques، Daphine Alves جي تعاون سان ٺاھيو ويو آھي. Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ۽ اھي سڀ جيڪي ھن مندر لاءِ نالا تجويز ڪندا رھندا آھن."
   },
   "pressCoverage": {
     "heading": "نمايان ٿيل / پريس ڪوريج",
@@ -88,11 +88,6 @@
       "photo1": "فوٽو 1<br /> ↓ هاءِ ريزوليوشن ڊائون لوڊ ڪريو",
       "photo2": "فوٽو 2<br /> ↓ هاءِ ريزوليوشن ڊائون لوڊ ڪريو"
     },
-    "sathiPhotos": {
-      "heading": "سٿي راءِ جون تصويرون",
-      "photo1": "فوٽو 1<br /> ↓ هاءِ ريزوليوشن ڊائون لوڊ ڪريو (843 KB)",
-      "photo2": "فوٽو 2<br /> ↓ هاءِ ريزوليوشن ڊائون لوڊ ڪريو (1.8 ايم بي)"
-    }
   },
   "technicalSpecs": {
     "heading": "ٽيڪنيڪل وضاحتون",
@@ -131,7 +126,6 @@
     "antenna": "مداري مندر اينٽينا مجسمو",
     "render": "رائز اين وائي ۽ پارٽنرز پاران آربيٽل ٽيمپل 3D رينڊرنگ",
     "edsonPortrait": "ايڊسن پاووني پورٽريٽ",
-    "sathiPortrait": "سٿي راءِ پورٽريٽ",
     "lumenPrize": "لومين انعام",
     "mercosulBienal": "مرڪوسور ٻه ساليانو"
   }

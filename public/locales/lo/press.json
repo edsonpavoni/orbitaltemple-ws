@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "ທີມງານ",
-    "content": "ວັດ Orbital ຖືກສ້າງຂື້ນໂດຍການຮ່ວມມືກັບ Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Holdigal, ແລະ Flavrodigal. Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ແລະທຸກຄົນທີ່ສືບຕໍ່ແນະນໍາຊື່ສໍາລັບພຣະວິຫານນີ້."
+    "content": "ວັດ Orbital ຖືກສ້າງຂື້ນໂດຍການຮ່ວມມືກັບ Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Holdigal, ແລະ Flavrodigal. Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ແລະທຸກຄົນທີ່ສືບຕໍ່ແນະນໍາຊື່ສໍາລັບພຣະວິຫານນີ້."
   },
   "pressCoverage": {
     "heading": "ເດັ່ນໃນ / ການຄຸ້ມຄອງຂ່າວ",
@@ -88,11 +88,6 @@
       "photo1": "ຮູບ 1<br /> ↓ ດາວໂຫຼດ High-Res",
       "photo2": "ຮູບ 2<br /> ↓ ດາວໂຫຼດ High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy ຮູບພາບ",
-      "photo1": "ຮູບ 1<br /> ↓ ດາວໂຫລດຄວາມລະອຽດສູງ (843 KB)",
-      "photo2": "ຮູບ 2<br /> ↓ ດາວໂຫລດຄວາມລະອຽດສູງ (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "ຂໍ້ມູນຈໍາເພາະ",
@@ -131,7 +126,6 @@
     "antenna": "ຮູບປັ້ນເສົາອາກາດຂອງວັດ Orbital",
     "render": "ການສະແດງຮູບສາມມິຕິຂອງວັດ Orbital ໂດຍ RiseNY&Partners",
     "edsonPortrait": "ຮູບຄົນ Edson Pavoni",
-    "sathiPortrait": "Sathi Roy ຮູບຄົນ",
     "lumenPrize": "ລາງວັນ Lumen",
     "mercosulBienal": "Mercosur ສອງປີ"
   }

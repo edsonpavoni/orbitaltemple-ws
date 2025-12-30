@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Sehlopha",
-    "content": "Tempele ya Orbital e hlolwa ka tirišano le Sathi Roy, Pedro Kaled, João Pedro Polito, Mofenyi Baptista, João Mofenyi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, le bohle bao ba tšwelago pele go šišinya maina a tempele ye."
+    "content": "Tempele ya Orbital e hlolwa ka tirišano le Pedro Kaled, João Pedro Polito, Mofenyi Baptista, João Mofenyi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, le bohle bao ba tšwelago pele go šišinya maina a tempele ye."
   },
   "pressCoverage": {
     "heading": "Featured Ka / Tobetsa Kgašo",
@@ -88,11 +88,6 @@
       "photo1": "Setšoantšo 1<br /> ↓ Download Phahameng-Res",
       "photo2": "Setšoantšo sa 2<br /> ↓ Download Phahameng-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Difoto",
-      "photo1": "Setšoantšo 1<br /> ↓ Download Phahameng-Res (843 KB) .",
-      "photo2": "Setšoantšo sa 2<br /> ↓ Download High-Res (1.8 MB) ."
-    }
   },
   "technicalSpecs": {
     "heading": "Ditlhalošo tša Sethekniki",
@@ -131,7 +126,6 @@
     "antenna": "Setšoantšo sa Antena sa Tempele ya Orbital",
     "render": "Orbital Tempele 3D Phetolelo ka RiseNY & Balekane",
     "edsonPortrait": "Edson Pavoni Setšoantšo sa Setšoantšo",
-    "sathiPortrait": "Setšoantšo sa Sathi Roy",
     "lumenPrize": "Sefoka sa Lumen",
     "mercosulBienal": "Mercosur Selemo sa Biennial"
   }

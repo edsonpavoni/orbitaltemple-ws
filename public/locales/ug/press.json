@@ -88,11 +88,6 @@
       "photo1": "سۈرەت 1<br /> High Download High-Res",
       "photo2": "2-رەسىم<br /> High Download High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy سۈرەتلىرى",
-      "photo1": "سۈرەت 1<br /> High High Res (843 KB) نى چۈشۈرۈڭ",
-      "photo2": "2-رەسىم<br /> High High Res (1.8 MB) نى چۈشۈرۈڭ"
-    }
   },
   "technicalSpecs": {
     "heading": "تېخنىكىلىق ئۆلچىمى",
@@ -131,7 +126,6 @@
     "antenna": "ئوربىتا بۇتخانىسى ئانتېننا ھەيكەل",
     "render": "RiseNY & Partners نىڭ ئوربىتا ئىبادەتخانىسى 3D رەسىملىرى",
     "edsonPortrait": "ئېدسون پاۋونىنىڭ سۈرىتى",
-    "sathiPortrait": "Sathi Roy Portrait",
     "lumenPrize": "Lumen مۇكاپاتى",
     "mercosulBienal": "Mercosur Biennial"
   }

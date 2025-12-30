@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Team",
-    "content": "Orbital Temple er laget i samarbeid med Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedro Putti, Andre Vidro Putti, Ta Pedro. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace og alle de som fortsetter å foreslå navn på dette tempelet."
+    "content": "Orbital Temple er laget i samarbeid med Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedro Putti, Andre Vidro Putti, Ta Pedro. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace og alle de som fortsetter å foreslå navn på dette tempelet."
   },
   "pressCoverage": {
     "heading": "Fremhevet i / Pressedekning",
@@ -88,11 +88,6 @@
       "photo1": "Bilde 1<br /> ↓ Last ned høyoppløselig",
       "photo2": "Bilde 2<br /> ↓ Last ned høyoppløselig"
     },
-    "sathiPhotos": {
-      "heading": "Bilder fra Sathi Roy",
-      "photo1": "Bilde 1<br /> ↓ Last ned høyoppløselig (843 KB)",
-      "photo2": "Bilde 2<br /> ↓ Last ned høyoppløselig (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tekniske spesifikasjoner",
@@ -131,7 +126,6 @@
     "antenna": "Skulptur av antennen til orbitaltempelet",
     "render": "3D-gjengivelse av orbitaltempelet av RiseNY&Partners",
     "edsonPortrait": "Portrett av Edson Pavoni",
-    "sathiPortrait": "Sathi Roy-portrett",
     "lumenPrize": "Lumen-prisen",
     "mercosulBienal": "Mercosur-biennalen"
   }

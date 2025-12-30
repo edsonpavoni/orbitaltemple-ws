@@ -382,26 +382,6 @@ export default function PressContent() {
           </div>
         </div>
 
-        <h3 className="subsection-heading" style={{ marginTop: '3rem' }}>{t('images.sathiPhotos.heading')}</h3>
-
-        <div className="press-images-grid">
-          <div className="press-image-item">
-            <a href="/press/sathi-roy-01.jpg" download="sathi-roy-portrait-1.jpg">
-              <img src="/press/sathi-roy-01.webp" alt={t('imageAlts.sathiPortrait')} />
-              <p className="caption-text" style={{ textAlign: 'center' }}>
-                <span dangerouslySetInnerHTML={{ __html: t('images.sathiPhotos.photo1') }} />
-              </p>
-            </a>
-          </div>
-          <div className="press-image-item">
-            <a href="/press/sathi-roy-02.jpg" download="sathi-roy-portrait-2.jpg">
-              <img src="/press/sathi-roy-02.webp" alt={t('imageAlts.sathiPortrait')} />
-              <p className="caption-text" style={{ textAlign: 'center' }}>
-                <span dangerouslySetInnerHTML={{ __html: t('images.sathiPhotos.photo2') }} />
-              </p>
-            </a>
-          </div>
-        </div>
       </section>
 
       {/* Technical Specifications */}

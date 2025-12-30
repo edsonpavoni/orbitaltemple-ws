@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Kooxda",
-    "content": "Macbadka Orbital waxaa la abuuray iyada oo lala kaashanayo Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holz, Pedroel Rafister, Andrea Putti, Andrea Putti, Andrea Putti. Fernandes, Bruna Qaahira, Fikrado Adag, RiseNY& Partners, IdeaSpace, iyo dhammaan kuwa sii wada inay soo jeediyaan magacyada macbadkan."
+    "content": "Macbadka Orbital waxaa la abuuray iyada oo lala kaashanayo Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holz, Pedroel Rafister, Andrea Putti, Andrea Putti, Andrea Putti. Fernandes, Bruna Qaahira, Fikrado Adag, RiseNY& Partners, IdeaSpace, iyo dhammaan kuwa sii wada inay soo jeediyaan magacyada macbadkan."
   },
   "pressCoverage": {
     "heading": "Lagu Soo Bandhigay Gudaha/Saxaafadda",
@@ -88,11 +88,6 @@
       "photo1": "Sawirka 1<br /> ↓ Soo deji High-Res",
       "photo2": "Sawirka 2<br /> ↓ Soo deji High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sawirrada Sathi Roy",
-      "photo1": "Sawirka 1<br /> ↓ Soo dejiso-Res-sare (843 KB)",
-      "photo2": "Sawirka 2<br /> ↓ Soo dejiso-Res-sare (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tilmaamaha Farsamada",
@@ -131,7 +126,6 @@
     "antenna": "Farshaxanka Anteenada Macbadka Orbital",
     "render": "Orbital Temple 3D soo bandhigida by RiseNY&Partners",
     "edsonPortrait": "Sawirka Edson Pavoni",
-    "sathiPortrait": "Sawirka Sathi Roy",
     "lumenPrize": "Lumen Prize",
     "mercosulBienal": "Mercosur Biennial"
   }

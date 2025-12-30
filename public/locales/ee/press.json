@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Dɔwɔha",
-    "content": "Wowɔ Orbital Gbedoxɔa le nuwɔwɔ aduadu kple Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, kple amesiwo katã yi edzi le ŋkɔwo dom ɖa na gbedoxɔ sia."
+    "content": "Wowɔ Orbital Gbedoxɔa le nuwɔwɔ aduadu kple Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, kple amesiwo katã yi edzi le ŋkɔwo dom ɖa na gbedoxɔ sia."
   },
   "pressCoverage": {
     "heading": "Featured In / Nyadzɔdzɔŋlɔlawo ƒe Nyatakakawo",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1 lia<br /> ↓ Tsɔ High-Res ƒe kɔpi",
       "photo2": "Foto 2 lia<br /> ↓ Tsɔ High-Res ƒe kɔpi"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy ƒe Fotowo",
-      "photo1": "Foto 1 lia<br /> ↓ Tsɔ Kɔkɔe (843 KB) ƒe kɔpi",
-      "photo2": "Foto 2 lia<br /> ↓ Tsɔ High-Res (1.8 MB) ƒe kɔpi"
-    }
   },
   "technicalSpecs": {
     "heading": "Mɔ̃ɖaŋununya Ŋuti Nyatakakawo",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Gbedoxɔ ƒe Antenna Kpememe",
     "render": "Orbital Gbedoxɔ 3D Gɔmeɖeɖe si RiseNY&Partners wɔ",
     "edsonPortrait": "Edson Pavoni ƒe Nɔnɔmetata",
-    "sathiPortrait": "Sathi Roy ƒe Nɔnɔmetata",
     "lumenPrize": "Lumen ƒe Nunana",
     "mercosulBienal": "Mercosur Ƒe Eve Ƒe Ƒe Ðeka"
   }

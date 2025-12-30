@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "팀",
-    "content": "Orbital Temple은 Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace 및 이 사원의 이름을 계속 제안하는 모든 사람들."
+    "content": "Orbital Temple은 Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace 및 이 사원의 이름을 계속 제안하는 모든 사람들."
   },
   "pressCoverage": {
     "heading": "특집 / 언론 보도",
@@ -88,11 +88,6 @@
       "photo1": "사진 1<br /> ↓ 고해상도 다운로드",
       "photo2": "사진 2<br /> ↓ 고해상도 다운로드"
     },
-    "sathiPhotos": {
-      "heading": "사티 로이 사진",
-      "photo1": "사진 1<br /> ↓ 고해상도 다운로드 (843KB)",
-      "photo2": "사진 2<br /> ↓ 고해상도 다운로드 (1.8MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "기술 사양",
@@ -131,7 +126,6 @@
     "antenna": "궤도 사원 안테나 조각품",
     "render": "RiseNY&Partners의 Orbital Temple 3D 렌더링",
     "edsonPortrait": "에드슨 파보니 초상화",
-    "sathiPortrait": "사티 로이 초상화",
     "lumenPrize": "루멘상",
     "mercosulBienal": "메르코수르 비엔날레"
   }

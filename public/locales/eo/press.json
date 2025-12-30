@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Teamo",
-    "content": "Orbital Temple estas kreita kunlabore kun Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiana, Pedro Pudigal, Rafael Fertiane Solid, Cairo Fernanne Concept RiseNY&Partners, IdeaSpace, kaj ĉiuj, kiuj daŭre proponas nomojn por ĉi tiu templo."
+    "content": "Orbital Temple estas kreita kunlabore kun Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiana, Pedro Pudigal, Rafael Fertiane Solid, Cairo Fernanne Concept RiseNY&Partners, IdeaSpace, kaj ĉiuj, kiuj daŭre proponas nomojn por ĉi tiu templo."
   },
   "pressCoverage": {
     "heading": "Elstara En / Gazetara Kovrado",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Elŝuti Alt-Rezolucian",
       "photo2": "Foto 2<br /> ↓ Elŝuti Alt-Rezolucian"
     },
-    "sathiPhotos": {
-      "heading": "Fotoj de Sathi Roy",
-      "photo1": "Foto 1<br /> ↓ Elŝuti Alt-Rezolucian (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Elŝuti Alt-Rezolucian (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Teknikaj Specifoj",
@@ -131,7 +126,6 @@
     "antenna": "Skulptaĵo de Orbita Templa Anteno",
     "render": "3D-Interpreto de Orbitala Templo fare de RiseNY&Partners",
     "edsonPortrait": "Portreto de Edson Pavoni",
-    "sathiPortrait": "Portreto de Sathi Roy",
     "lumenPrize": "Lumen-Premio",
     "mercosulBienal": "Merkosudo Dujara"
   }

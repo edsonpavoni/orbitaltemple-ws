@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "מאַנשאַפֿט",
-    "content": "אָרביטאַל המקדש איז באשאפן אין מיטאַרבעט מיט Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Raffio Vidigal, Raffia Putt Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace און אַלע יענע וואָס פאָרזעצן צו פאָרשלאָגן נעמען פֿאַר דעם טעמפּל."
+    "content": "אָרביטאַל המקדש איז באשאפן אין מיטאַרבעט מיט Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Raffio Vidigal, Raffia Putt Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace און אַלע יענע וואָס פאָרזעצן צו פאָרשלאָגן נעמען פֿאַר דעם טעמפּל."
   },
   "pressCoverage": {
     "heading": "ארויסגעשטעלט אין / פרעסע קאַווערידזש",
@@ -88,11 +88,6 @@
       "photo1": "פאָטאָ 1<br /> ↓ אראָפּלאָדן הויך-רעזאָלוציע",
       "photo2": "פאָטאָ 2<br /> ↓ אראָפּלאָדן הויך-רעזאָלוציע"
     },
-    "sathiPhotos": {
-      "heading": "סאַטי רוי פאָטאָס",
-      "photo1": "פאָטאָ 1<br /> ↓ אראָפּלאָדן הויך-רעזאָלוציע (843 KB)",
-      "photo2": "פאָטאָ 2<br /> ↓ אראָפּלאָדן הויך-רעזאָלוציע (1.8 מעגאבייט)"
-    }
   },
   "technicalSpecs": {
     "heading": "טעכנישע ספּעציפֿיקאַציעס",
@@ -131,7 +126,6 @@
     "antenna": "אָרביטאַל טעמפּל אַנטענע סקולפּטור",
     "render": "אָרביטאַל טעמפּל 3D רענדערינג דורך RiseNY&Partners",
     "edsonPortrait": "עדסאָן פּאַוואָני פּאָרטרעט",
-    "sathiPortrait": "סאטי רוי פּאָרטרעט",
     "lumenPrize": "לומען פרייז",
     "mercosulBienal": "מערקאָסור ביענאַלע"
   }

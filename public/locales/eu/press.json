@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Taldea",
-    "content": "Orbital Temple Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiane Solid, Pedro Puttigal, Tairo Fertia Solid, eta RiseNY&Partners, IdeaSpace eta tenplu honen izenak iradokitzen jarraitzen duten guztiak."
+    "content": "Orbital Temple Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiane Solid, Pedro Puttigal, Tairo Fertia Solid, eta RiseNY&Partners, IdeaSpace eta tenplu honen izenak iradokitzen jarraitzen duten guztiak."
   },
   "pressCoverage": {
     "heading": "Prentsa-estaldura / Agertokia",
@@ -88,11 +88,6 @@
       "photo1": "1. argazkia<br /> ↓ Deskargatu bereizmen handikoa",
       "photo2": "2. argazkia<br /> ↓ Deskargatu bereizmen handikoa"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Royren argazkiak",
-      "photo1": "1. argazkia<br /> ↓ Deskargatu bereizmen handikoa (843 KB)",
-      "photo2": "2. argazkia<br /> ↓ Deskargatu bereizmen handikoa (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Zehaztapen teknikoak",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple Antenna Eskultura",
     "render": "Orbita-tenpluaren 3D errendatzea RiseNY&Partners-ek egina",
     "edsonPortrait": "Edson Pavoniren erretratua",
-    "sathiPortrait": "Sathi Royren erretratua",
     "lumenPrize": "Lumen Saria",
     "mercosulBienal": "Mercosurren Biurtekoa"
   }

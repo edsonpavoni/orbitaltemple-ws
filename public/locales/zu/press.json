@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ithimba",
-    "content": "I-Orbital Temple idalwe ngokubambisana noSathi Roy, uPedro Kaled, uJoão Pedro Polito, uVictor Baptista, uJoão Victor Alves, u-André Biagioni, u-VK, u-Jonathan Querubina, u-Guilherme Bullejos, u-Eduardo Dias, uRoberta Savian Rosa, uClara Marques, uDaphne Alves, uFlavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, nabo bonke labo abaqhubeka nokuphakamisa amagama aleli thempeli."
+    "content": "I-Orbital Temple idalwe ngokubambisana nouPedro Kaled, uJoão Pedro Polito, uVictor Baptista, uJoão Victor Alves, u-André Biagioni, u-VK, u-Jonathan Querubina, u-Guilherme Bullejos, u-Eduardo Dias, uRoberta Savian Rosa, uClara Marques, uDaphne Alves, uFlavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, nabo bonke labo abaqhubeka nokuphakamisa amagama aleli thempeli."
   },
   "pressCoverage": {
     "heading": "Okufakiwe Ku / Cindezela Ukusabalala",
@@ -88,11 +88,6 @@
       "photo1": "Isithombe 1<br /> ↓ Landa i-High-Res",
       "photo2": "Isithombe 2<br /> ↓ Landa i-High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Izithombe zeSathi Roy",
-      "photo1": "Isithombe 1<br /> ↓ Khipha ku-internet High-Res (843 KB)",
-      "photo2": "Isithombe 2<br /> ↓ Landa i-High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Imininingwane Yezobuchwepheshe",
@@ -131,7 +126,6 @@
     "antenna": "Isithombe se-Antenna sethempeli le-Orbital",
     "render": "I-Orbital Temple 3D Rendering eyenziwe yi-RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Portrait",
-    "sathiPortrait": "Isithombe sika-Sathi Roy",
     "lumenPrize": "Lumen Umklomelo",
     "mercosulBienal": "I-Mercosur Biennial"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ikipe",
-    "content": "Urusengero rwa Orbital rwakozwe ku bufatanye na Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Vidmeal, Flavio Tatiane Putti, Rafael Fernandes, Bruna Cairo, Ibitekerezo bikomeye, RiseNY & Abafatanyabikorwa, IdeaSpace, hamwe nabakomeje gutanga amazina yuru rusengero."
+    "content": "Urusengero rwa Orbital rwakozwe ku bufatanye na Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Vidmeal, Flavio Tatiane Putti, Rafael Fernandes, Bruna Cairo, Ibitekerezo bikomeye, RiseNY & Abafatanyabikorwa, IdeaSpace, hamwe nabakomeje gutanga amazina yuru rusengero."
   },
   "pressCoverage": {
     "heading": "Byerekanwe Muri / Kanda Igipfukisho",
@@ -88,11 +88,6 @@
       "photo1": "Ifoto 1<br /> ↓ Kuramo High-Res",
       "photo2": "Ifoto 2<br /> ↓ Kuramo High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Amafoto",
-      "photo1": "Ifoto 1<br /> ↓ Kuramo High-Res (843 KB)",
-      "photo2": "Ifoto 2<br /> ↓ Kuramo High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Ibisobanuro bya tekiniki",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Urusengero Antenna Igishusho",
     "render": "Orbital Temple 3D Gutanga by RiseNY & Abafatanyabikorwa",
     "edsonPortrait": "Igishushanyo cya Edson Pavoni",
-    "sathiPortrait": "Sathi Roy",
     "lumenPrize": "Igihembo cya Lumen",
     "mercosulBienal": "Mercosur Biennial"
   }

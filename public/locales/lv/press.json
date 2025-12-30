@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Komanda",
-    "content": "Orbital Temple ir izveidots sadarbībā ar Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, João Viktor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzmeister, Tati Pedro, Tati Pedro Rafaels Fernandess, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace un visi tie, kas turpina ieteikt šī tempļa nosaukumus."
+    "content": "Orbital Temple ir izveidots sadarbībā ar Pedro Kaled, João Pedro Polito, Viktor Baptista, João Viktor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzmeister, Tati Pedro, Tati Pedro Rafaels Fernandess, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace un visi tie, kas turpina ieteikt šī tempļa nosaukumus."
   },
   "pressCoverage": {
     "heading": "Piedāvātais / Preses atspoguļojums",
@@ -88,11 +88,6 @@
       "photo1": "1. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu",
       "photo2": "2. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy fotogrāfijas",
-      "photo1": "1. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (843 KB)",
-      "photo2": "2. fotoattēls<br /> ↓ Lejupielādēt augstas izšķirtspējas attēlu (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tehniskās specifikācijas",
@@ -131,7 +126,6 @@
     "antenna": "Orbitālā tempļa antenas skulptūra",
     "render": "Orbitālā tempļa 3D renderējums, ko veidojis RiseNY&Partners",
     "edsonPortrait": "Edsona Pavoni portrets",
-    "sathiPortrait": "Sathi Roy portrets",
     "lumenPrize": "Lumena balva",
     "mercosulBienal": "Mercosur biennāle"
   }

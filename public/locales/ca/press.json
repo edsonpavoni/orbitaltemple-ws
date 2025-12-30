@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Equip",
-    "content": "Orbital Temple es crea en col·laboració amb Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Tairo Fertiane Solid, RiseNY&Partners, IdeaSpace i tots aquells que continuen suggerint noms per a aquest temple."
+    "content": "Orbital Temple es crea en col·laboració amb Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Tairo Fertiane Solid, RiseNY&Partners, IdeaSpace i tots aquells que continuen suggerint noms per a aquest temple."
   },
   "pressCoverage": {
     "heading": "Destacat a / Cobertura de premsa",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Descarregar alta resolució",
       "photo2": "Foto 2<br /> ↓ Descarregar alta resolució"
     },
-    "sathiPhotos": {
-      "heading": "Fotos de Sathi Roy",
-      "photo1": "Foto 1<br /> ↓ Descarregar Alta resolució (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Descarrega alta resolució (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Especificacions tècniques",
@@ -131,7 +126,6 @@
     "antenna": "Escultura de l'antena del temple orbital",
     "render": "Renderització 3D del Temple Orbital per RiseNY&Partners",
     "edsonPortrait": "Retrat d'Edson Pavoni",
-    "sathiPortrait": "Retrat de Sathi Roy",
     "lumenPrize": "Premi Lumen",
     "mercosulBienal": "Biennal del Mercosur"
   }

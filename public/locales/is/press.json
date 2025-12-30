@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Lið",
-    "content": "Orbital Temple er búið til í samstarfi við Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedigal, Andre Vidro Putelister, Ta Pedro. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace og allir þeir sem halda áfram að stinga upp á nöfnum á þetta musteri."
+    "content": "Orbital Temple er búið til í samstarfi við Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedigal, Andre Vidro Putelister, Ta Pedro. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace og allir þeir sem halda áfram að stinga upp á nöfnum á þetta musteri."
   },
   "pressCoverage": {
     "heading": "Í fréttum / Umfjöllun fjölmiðla",
@@ -88,11 +88,6 @@
       "photo1": "Mynd 1<br /> ↓ Sækja í hárri upplausn",
       "photo2": "Mynd 2<br /> ↓ Sækja í hárri upplausn"
     },
-    "sathiPhotos": {
-      "heading": "Myndir af Sathi Roy",
-      "photo1": "Mynd 1<br /> ↓ Sækja í hárri upplausn (843 KB)",
-      "photo2": "Mynd 2<br /> ↓ Sækja í hárri upplausn (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tæknilegar upplýsingar",
@@ -131,7 +126,6 @@
     "antenna": "Loftnetsskúlptúr úr orbital musteri",
     "render": "Þrívíddarmynd af Orbital-hofinu eftir RiseNY&Partners",
     "edsonPortrait": "Portrett af Edson Pavoni",
-    "sathiPortrait": "Mynd af Sathi Roy",
     "lumenPrize": "Lumen-verðlaunin",
     "mercosulBienal": "Mercosur tvíæringurinn"
   }

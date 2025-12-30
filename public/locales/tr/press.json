@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Takım",
-    "content": "Orbital Temple, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael ile işbirliği içinde oluşturuldu. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ve bu tapınağa isim önermeye devam eden herkes."
+    "content": "Orbital Temple, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael ile işbirliği içinde oluşturuldu. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ve bu tapınağa isim önermeye devam eden herkes."
   },
   "pressCoverage": {
     "heading": "Öne Çıkanlar / Basın Kapsamı",
@@ -88,11 +88,6 @@
       "photo1": "Fotoğraf 1<br /> ↓ Yüksek Çözünürlüklü İndir",
       "photo2": "Fotoğraf 2<br /> ↓ Yüksek Çözünürlüklü İndir"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Fotoğrafları",
-      "photo1": "Fotoğraf 1<br /> ↓ Yüksek Çözünürlüklü İndir (843 KB)",
-      "photo2": "Fotoğraf 2<br /> ↓ Yüksek Çözünürlüklü İndir (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Teknik Özellikler",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Tapınak Anten Heykeli",
     "render": "RiseNY&Partners tarafından hazırlanan Orbital Temple 3D Görselleştirmesi",
     "edsonPortrait": "Edson Pavoni Portresi",
-    "sathiPortrait": "Sathi Roy Portresi",
     "lumenPrize": "Lumen Ödülü",
     "mercosulBienal": "Mercosur Bienali"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ομάδα",
-    "content": "Το Orbital Temple δημιουργείται σε συνεργασία με τους Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andreogal, Fladrovi, Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace και όλοι όσοι συνεχίζουν να προτείνουν ονόματα για αυτόν τον ναό."
+    "content": "Το Orbital Temple δημιουργείται σε συνεργασία με τους Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andreogal, Fladrovi, Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace και όλοι όσοι συνεχίζουν να προτείνουν ονόματα για αυτόν τον ναό."
   },
   "pressCoverage": {
     "heading": "Προβεβλημένα σε / Κάλυψη από τον Τύπο",
@@ -88,11 +88,6 @@
       "photo1": "Φωτογραφία 1<br /> ↓ Λήψη υψηλής ανάλυσης",
       "photo2": "Φωτογραφία 2<br /> ↓ Λήψη υψηλής ανάλυσης"
     },
-    "sathiPhotos": {
-      "heading": "Φωτογραφίες Σάθι Ρόι",
-      "photo1": "Φωτογραφία 1<br /> ↓ Λήψη υψηλής ανάλυσης (843 KB)",
-      "photo2": "Φωτογραφία 2<br /> ↓ Λήψη υψηλής ανάλυσης (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Τεχνικές προδιαγραφές",
@@ -131,7 +126,6 @@
     "antenna": "Γλυπτό κεραίας τροχιακού ναού",
     "render": "Τρισδιάστατη απεικόνιση του τροχιακού ναού από την RiseNY&Partners",
     "edsonPortrait": "Πορτρέτο του Έντσον Παβόνι",
-    "sathiPortrait": "Πορτρέτο της Σάθι Ρόι",
     "lumenPrize": "Βραβείο Lumen",
     "mercosulBienal": "Μπιενάλε της Mercosur"
   }

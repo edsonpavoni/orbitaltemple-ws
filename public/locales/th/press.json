@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "ทีม",
-    "content": "Orbital Temple สร้างขึ้นโดยความร่วมมือกับ Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace และทุกคนที่ยังคงแนะนำชื่อวัดแห่งนี้ต่อไป"
+    "content": "Orbital Temple สร้างขึ้นโดยความร่วมมือกับ Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace และทุกคนที่ยังคงแนะนำชื่อวัดแห่งนี้ต่อไป"
   },
   "pressCoverage": {
     "heading": "นำเสนอใน / การรายงานข่าว",
@@ -88,11 +88,6 @@
       "photo1": "ภาพที่ 1<br /> ↓ ดาวน์โหลดความละเอียดสูง",
       "photo2": "ภาพที่ 2<br /> ↓ ดาวน์โหลดความละเอียดสูง"
     },
-    "sathiPhotos": {
-      "heading": "ภาพถ่ายโดย Sathi Roy",
-      "photo1": "ภาพที่ 1<br /> ↓ ดาวน์โหลดความละเอียดสูง (843 KB)",
-      "photo2": "ภาพที่ 2<br /> ↓ ดาวน์โหลดความละเอียดสูง (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "ข้อมูลจำเพาะทางเทคนิค",
@@ -131,7 +126,6 @@
     "antenna": "ประติมากรรมเสาอากาศวิหารโคจร",
     "render": "การเรนเดอร์ 3D Orbital Temple โดย RiseNY&Partners",
     "edsonPortrait": "ภาพเหมือนของเอ็ดสัน ปาโวนี",
-    "sathiPortrait": "ภาพเหมือนของ Sathi Roy",
     "lumenPrize": "รางวัลลูเมน",
     "mercosulBienal": "เมอร์โคซูร์ เบียนนี"
   }

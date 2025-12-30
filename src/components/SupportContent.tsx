@@ -539,28 +539,6 @@ export default function SupportContent() {
           </p>
         </div>
 
-        {/* Sathi Roy */}
-        <div>
-          <img
-            src="/sponsors/sathi-roy-portrait.webp"
-            alt="Sathi Roy"
-            style={{ width: '100%', aspectRatio: '1', objectFit: 'cover', borderRadius: '4px', marginBottom: '1.5rem' }}
-          />
-          <h3 className="section-subtitle" style={{ marginBottom: '0.5rem' }}>{t('people.sathi.name')}</h3>
-          <p className="body-text body-text--secondary" style={{ marginBottom: '1rem' }}>
-            {t('people.sathi.role')}
-          </p>
-          <p className="body-text" style={{ marginBottom: '0.75rem' }}>
-            <span dangerouslySetInnerHTML={{ __html: t('people.sathi.paragraph1') }} />
-          </p>
-          <p className="body-text" style={{ marginBottom: '0.75rem' }}>
-            <span dangerouslySetInnerHTML={{ __html: t('people.sathi.paragraph2') }} />
-          </p>
-          <p className="body-text body-text--secondary">
-            <span dangerouslySetInnerHTML={{ __html: t('people.sathi.paragraph3') }} />
-          </p>
-        </div>
-
       </div>
 
       <p className="body-text" style={{ textAlign: 'center', marginBottom: '3rem', fontStyle: 'italic', opacity: 0.95 }}>

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Đội",
-    "content": "Đền quỹ đạo được tạo ra với sự cộng tác của Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, và tất cả những người tiếp tục đề xuất tên cho ngôi chùa này."
+    "content": "Đền quỹ đạo được tạo ra với sự cộng tác của Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, và tất cả những người tiếp tục đề xuất tên cho ngôi chùa này."
   },
   "pressCoverage": {
     "heading": "Nổi bật trong / Tin tức báo chí",
@@ -88,11 +88,6 @@
       "photo1": "Ảnh 1<br /> ↓ Tải xuống độ phân giải cao",
       "photo2": "Ảnh 2<br /> ↓ Tải xuống độ phân giải cao"
     },
-    "sathiPhotos": {
-      "heading": "Ảnh Sathi Roy",
-      "photo1": "Ảnh 1<br /> ↓ Tải xuống độ phân giải cao (843 KB)",
-      "photo2": "Ảnh 2<br /> ↓ Tải xuống độ phân giải cao (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Thông số kỹ thuật",
@@ -131,7 +126,6 @@
     "antenna": "Tượng ăng-ten đền Orbital",
     "render": "Bản vẽ 3D của Orbital Temple do RiseNY&Partners thực hiện",
     "edsonPortrait": "Chân dung Edson Pavoni",
-    "sathiPortrait": "Chân dung Sathi Roy",
     "lumenPrize": "Giải thưởng Lumen",
     "mercosulBienal": "Triển lãm song niên Mercosur"
   }

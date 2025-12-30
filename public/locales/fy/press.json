@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ploech",
-    "content": "Orbital Temple is makke yn gearwurking mei Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putti, Ta Pedikal, Andre Vidro Putti, Ta Pedro. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, en al dyjingen dy't trochgean mei it foarstellen fan nammen foar dizze timpel."
+    "content": "Orbital Temple is makke yn gearwurking mei Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putti, Ta Pedikal, Andre Vidro Putti, Ta Pedro. Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, en al dyjingen dy't trochgean mei it foarstellen fan nammen foar dizze timpel."
   },
   "pressCoverage": {
     "heading": "Featured In / Parseberjochten",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Download hege resolúsje",
       "photo2": "Foto 2<br /> ↓ Download hege resolúsje"
     },
-    "sathiPhotos": {
-      "heading": "Foto's fan Sathi Roy",
-      "photo1": "Foto 1<br /> ↓ Download hege resolúsje (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Download hege resolúsje (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Technyske spesifikaasjes",
@@ -131,7 +126,6 @@
     "antenna": "Skulptuer fan in orbitale timpelantenne",
     "render": "Orbitale Tempel 3D-rendering troch RiseNY&Partners",
     "edsonPortrait": "Portret fan Edson Pavoni",
-    "sathiPortrait": "Portret fan Sathi Roy",
     "lumenPrize": "Lumenpriis",
     "mercosulBienal": "Mercosur Biënnale"
   }

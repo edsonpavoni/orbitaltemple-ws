@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Pawl",
-    "content": "Orbital Temple hi Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael te thawhhonaa siam a ni Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, leh he temple hming rawn rawt chhunzawm zel zawng zawngte."
+    "content": "Orbital Temple hi Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael te thawhhonaa siam a ni Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, leh he temple hming rawn rawt chhunzawm zel zawng zawngte."
   },
   "pressCoverage": {
     "heading": "Featured In / Press Coverage a ni",
@@ -88,11 +88,6 @@
       "photo1": "Thlalak 1<br /> ↓ Download High-Res",
       "photo2": "Thlalak 2<br /> ↓ Download High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy thlalak te",
-      "photo1": "Thlalak 1<br /> ↓ Download High-Res (843 KB) a ni a, a man pawh a to hle.",
-      "photo2": "Thlalak 2<br /> ↓ Download High-Res (1.8 MB) a ni a, a man pawh a to hle."
-    }
   },
   "technicalSpecs": {
     "heading": "Technical lam thil chi hrang hrang",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple antenna hmanga siam a ni",
     "render": "Orbital Temple 3D Rendering chu RiseNY&Partners te chuan an siam a ni",
     "edsonPortrait": "Edson Pavoni thlalak a ni",
-    "sathiPortrait": "Sathi Roy thlalak a ni",
     "lumenPrize": "Lumen Lawmman pek a ni",
     "mercosulBienal": "Mercosur kum hnih chhunga neih a ni"
   }

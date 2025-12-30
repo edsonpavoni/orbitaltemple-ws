@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Echipă",
-    "content": "Templul Orbital este creat în colaborare cu Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fernanne Concept, Pedro Vidigal, Rafael Fernanne Solid RiseNY&Partners, IdeaSpace și toți cei care continuă să sugereze nume pentru acest templu."
+    "content": "Templul Orbital este creat în colaborare cu Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fernanne Concept, Pedro Vidigal, Rafael Fernanne Solid RiseNY&Partners, IdeaSpace și toți cei care continuă să sugereze nume pentru acest templu."
   },
   "pressCoverage": {
     "heading": "Articole din presă / Articole din presă",
@@ -88,11 +88,6 @@
       "photo1": "Fotografia 1<br /> ↓ Descarcă rezoluție înaltă",
       "photo2": "Fotografia 2<br /> ↓ Descarcă rezoluție înaltă"
     },
-    "sathiPhotos": {
-      "heading": "Fotografii cu Sathi Roy",
-      "photo1": "Fotografia 1<br /> ↓ Descarcă rezoluție înaltă (843 KB)",
-      "photo2": "Fotografia 2<br /> ↓ Descarcă rezoluție înaltă (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Specificații tehnice",
@@ -131,7 +126,6 @@
     "antenna": "Sculptura Antenei Orbitale a Templului",
     "render": "Randare 3D a Templului Orbital de RiseNY&Partners",
     "edsonPortrait": "Portretul lui Edson Pavoni",
-    "sathiPortrait": "Portretul lui Sathi Roy",
     "lumenPrize": "Premiul Lumen",
     "mercosulBienal": "Bienala Mercosur"
   }

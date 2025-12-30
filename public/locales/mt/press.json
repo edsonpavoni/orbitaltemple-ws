@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Tim",
-    "content": "Orbital Temple huwa maħluq b'kollaborazzjoni ma' Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiane Solid Concept RiseNY&Partners, IdeaSpace, u dawk kollha li jkomplu jissuġġerixxu ismijiet għal dan it-tempju."
+    "content": "Orbital Temple huwa maħluq b'kollaborazzjoni ma' Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Rafael Fertiane Solid Concept RiseNY&Partners, IdeaSpace, u dawk kollha li jkomplu jissuġġerixxu ismijiet għal dan it-tempju."
   },
   "pressCoverage": {
     "heading": "Dehru Fi / Kopertura tal-Istampa",
@@ -88,11 +88,6 @@
       "photo1": "Ritratt 1<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja",
       "photo2": "Ritratt 2<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja"
     },
-    "sathiPhotos": {
-      "heading": "Ritratti ta' Sathi Roy",
-      "photo1": "Ritratt 1<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (843 KB)",
-      "photo2": "Ritratt 2<br /> ↓ Niżżel b&#39;Riżoluzzjoni Għolja (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Speċifikazzjonijiet Tekniċi",
@@ -131,7 +126,6 @@
     "antenna": "Skultura tal-Antenna tat-Tempju Orbitali",
     "render": "Rendering 3D tat-Tempju Orbitali minn RiseNY&Partners",
     "edsonPortrait": "Ritratt ta' Edson Pavoni",
-    "sathiPortrait": "Ritratt ta' Sathi Roy",
     "lumenPrize": "Premju Lumen",
     "mercosulBienal": "Il-Biennali tal-Mercosur"
   }

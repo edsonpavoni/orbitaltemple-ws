@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Koponan",
-    "content": "Ang Orbital Temple ay nilikha sa pakikipagtulungan kasama sina Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andres Fernandes, Rafael Vidigal, Andres Fernandes Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, at lahat ng patuloy na nagmumungkahi ng mga pangalan para sa templong ito."
+    "content": "Ang Orbital Temple ay nilikha sa pakikipagtulungan kasama sina Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andres Fernandes, Rafael Vidigal, Andres Fernandes Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, at lahat ng patuloy na nagmumungkahi ng mga pangalan para sa templong ito."
   },
   "pressCoverage": {
     "heading": "Itinatampok Sa / Press Coverage",
@@ -88,11 +88,6 @@
       "photo1": "Larawan 1<br /> ↓ I-download ang High-Res",
       "photo2": "Larawan 2<br /> ↓ I-download ang High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Mga Larawan ni Sathi Roy",
-      "photo1": "Larawan 1<br /> ↓ I-download ang High-Res (843 KB)",
-      "photo2": "Larawan 2<br /> ↓ I-download ang High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Teknikal na Pagtutukoy",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple Antenna Sculpture",
     "render": "Orbital Temple 3D Rendering ng RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Portrait",
-    "sathiPortrait": "Larawan ni Sathi Roy",
     "lumenPrize": "Lumen Prize",
     "mercosulBienal": "Mercosur Biennial"
   }

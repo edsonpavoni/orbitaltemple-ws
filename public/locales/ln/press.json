@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ekipe",
-    "content": "Temple orbital esalemi na boyokani na Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, mpe baoyo nyonso bazali kokoba kopesa makanisi mpo na bankombo mpo na tempelo oyo."
+    "content": "Temple orbital esalemi na boyokani na Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, mpe baoyo nyonso bazali kokoba kopesa makanisi mpo na bankombo mpo na tempelo oyo."
   },
   "pressCoverage": {
     "heading": "Emonisami Na / Couverture ya Presse",
@@ -88,11 +88,6 @@
       "photo1": "Fɔtɔ́ 1. Ezali na ntina te<br /> ↓ Télécharger High-Res",
       "photo2": "Fɔtɔ́ 2. Ezali na ntina te<br /> ↓ Télécharger High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Ba photos ya Sathi Roy",
-      "photo1": "Fɔtɔ́ 1. Ezali na ntina te<br /> ↓ Télécharger haute-res (843 KB)",
-      "photo2": "Fɔtɔ́ 2. Ezali na ntina te<br /> ↓ Télécharger High-Res (1,8 MB) Ezali na ba mbongo mingi."
-    }
   },
   "technicalSpecs": {
     "heading": "Makambo oyo etali makambo ya tekiniki",
@@ -131,7 +126,6 @@
     "antenna": "Sculpture ya Antena ya Temple Orbital",
     "render": "Tempelo orbital 3D rendu na RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Ezali na elilingi",
-    "sathiPortrait": "Portrait ya Sathi Roy",
     "lumenPrize": "Prix ya Lumen",
     "mercosulBienal": "Mercosur Biennale ya mbula mibale"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Komanda",
-    "content": "Orbital Temple sukurta bendradarbiaujant su Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzgal, Tati Pegal, Tati Pedro. Rafaelis Fernandesas, Bruna Cairo, „Solid Concepts“, „RiseNY&Partners“, „IdeaSpace“ ir visi tie, kurie ir toliau siūlo šios šventyklos pavadinimus."
+    "content": "Orbital Temple sukurta bendradarbiaujant su Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzgal, Tati Pegal, Tati Pedro. Rafaelis Fernandesas, Bruna Cairo, „Solid Concepts“, „RiseNY&Partners“, „IdeaSpace“ ir visi tie, kurie ir toliau siūlo šios šventyklos pavadinimus."
   },
   "pressCoverage": {
     "heading": "Rekomenduojama / Spaudos aprėptis",
@@ -88,11 +88,6 @@
       "photo1": "1 nuotrauka<br /> ↓ Atsisiųsti didelės raiškos",
       "photo2": "2 nuotrauka<br /> ↓ Atsisiųsti didelės raiškos"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy nuotraukos",
-      "photo1": "1 nuotrauka<br /> ↓ Atsisiųsti didelės raiškos (843 KB)",
-      "photo2": "2 nuotrauka<br /> ↓ Atsisiųsti didelės raiškos (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Techninės specifikacijos",
@@ -131,7 +126,6 @@
     "antenna": "Orbitinės šventyklos antenos skulptūra",
     "render": "Orbitinės šventyklos 3D vizualizacija, sukurta „RiseNY&Partners“",
     "edsonPortrait": "Edsono Pavoni portretas",
-    "sathiPortrait": "Sathi Roy portretas",
     "lumenPrize": "Lumeno premija",
     "mercosulBienal": "Mercosur bienalė"
   }

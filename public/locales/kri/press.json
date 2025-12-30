@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Tim",
-    "content": "Dɛn mek Ɔbital Tɛmpl wit Sathi Roy, Pita Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Rɔbata Savian Rosa, Klara Maks, Daphne Alves, Flavio Vidigal, Andru Holzmeister, Pedro Vidigal, Tatiane Putti, Rafaɛl Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ɛn ɔl di wan dɛn we kɔntinyu fɔ gi nem fɔ dis tɛmpul."
+    "content": "Dɛn mek Ɔbital Tɛmpl wit Pita Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Rɔbata Savian Rosa, Klara Maks, Daphne Alves, Flavio Vidigal, Andru Holzmeister, Pedro Vidigal, Tatiane Putti, Rafaɛl Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ɛn ɔl di wan dɛn we kɔntinyu fɔ gi nem fɔ dis tɛmpul."
   },
   "pressCoverage": {
     "heading": "Featured In / Prɛs Kɔvarej",
@@ -88,11 +88,6 @@
       "photo1": "Fɔto 1<br /> ↓ Daunlod Ay-Rɛs",
       "photo2": "Fɔto 2 na di 2<br /> ↓ Daunlod Ay-Rɛs"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Na di pikchɔ dɛn",
-      "photo1": "Fɔto 1<br /> ↓ Daunlod Ay-Rɛs (843 KB)",
-      "photo2": "Fɔto 2 na di 2<br /> ↓ Daunlod Ay-Rɛs (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Teknik Spɛsifikeshɔn dɛn",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Tempul Antena Skulpchɔ",
     "render": "Orbital Tempul 3D Rɛndrin bay RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni pikchɔ we dɛn mek",
-    "sathiPortrait": "Sathi Roy pikchɔ we dɛn mek",
     "lumenPrize": "Lumen Prayz",
     "mercosulBienal": "Mercosur Biɛnal we dɛn kin gɛt"
   }

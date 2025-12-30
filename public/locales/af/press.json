@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Span",
-    "content": "Orbital Temple is geskep in samewerking met Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedro, Rafael Holzme Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, en almal wat aanhou om name vir hierdie tempel voor te stel."
+    "content": "Orbital Temple is geskep in samewerking met Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Vidro Putelister, Ta Pedro, Rafael Holzme Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, en almal wat aanhou om name vir hierdie tempel voor te stel."
   },
   "pressCoverage": {
     "heading": "Uitgelig in / Persdekking",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Laai hoë resolusie af",
       "photo2": "Foto 2<br /> ↓ Laai hoë resolusie af"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Fotos",
-      "photo1": "Foto 1<br /> ↓ Laai hoë resolusie af (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Laai hoë resolusie af (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tegniese Spesifikasies",
@@ -131,7 +126,6 @@
     "antenna": "Orbitale Tempel Antenne Beeldhouwerk",
     "render": "Orbitale Tempel 3D-weergawe deur RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Portret",
-    "sathiPortrait": "Sathi Roy Portret",
     "lumenPrize": "Lumen-prys",
     "mercosulBienal": "Mercosur Biënnale"
   }

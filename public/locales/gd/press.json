@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Sgioba",
-    "content": "Tha Orbital Temple air a chruthachadh ann an co-obrachadh le Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedrozivatial, Taphne Alves, Flavio Vidigal, Pedroz Tavachati Fernandes, Bruna Cairo, Solid Concepts, RiseNY & Partners, IdeaSpace, agus a h-uile duine a tha fhathast a’ moladh ainmean airson an teampall seo."
+    "content": "Tha Orbital Temple air a chruthachadh ann an co-obrachadh le Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedrozivatial, Taphne Alves, Flavio Vidigal, Pedroz Tavachati Fernandes, Bruna Cairo, Solid Concepts, RiseNY & Partners, IdeaSpace, agus a h-uile duine a tha fhathast a’ moladh ainmean airson an teampall seo."
   },
   "pressCoverage": {
     "heading": "Air a nochdadh ann an / Craoladh sna meadhanan",
@@ -88,11 +88,6 @@
       "photo1": "Dealbh 1<br /> ↓ Luchdaich sìos Àrd-Rùn",
       "photo2": "Dealbh 2<br /> ↓ Luchdaich sìos Àrd-Rùn"
     },
-    "sathiPhotos": {
-      "heading": "Dealbhan Sathi Roy",
-      "photo1": "Dealbh 1<br /> ↓ Luchdaich sìos Àrd-Rùn (843 KB)",
-      "photo2": "Dealbh 2<br /> ↓ Luchdaich sìos Àrd-Rùn (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Sònrachaidhean Teicnigeach",
@@ -131,7 +126,6 @@
     "antenna": "Dealbh Antenna Teampall Orbital",
     "render": "Dealbh 3D de Teampall Orbital le RiseNY&Partners",
     "edsonPortrait": "Dealbh-camara Edson Pavoni",
-    "sathiPortrait": "Dealbh Sathi Roy",
     "lumenPrize": "Duais Lumen",
     "mercosulBienal": "Dà-bhliadhnail Mercosur"
   }

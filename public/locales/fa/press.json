@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "تیم",
-    "content": "Orbital Temple با همکاری Sathi Roy، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، آندره ویکتور، دافووی، ساخته شده است. Vidigal، Tatiane Putti، Rafael Fernandes، Bruna Cairo، Solid Concepts، RiseNY&Partners، IdeaSpace و همه کسانی که به پیشنهاد نام برای این معبد ادامه می دهند."
+    "content": "Orbital Temple با همکاری ، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، آندره ویکتور، دافووی، ساخته شده است. Vidigal، Tatiane Putti، Rafael Fernandes، Bruna Cairo، Solid Concepts، RiseNY&Partners، IdeaSpace و همه کسانی که به پیشنهاد نام برای این معبد ادامه می دهند."
   },
   "pressCoverage": {
     "heading": "ویژه در / پوشش مطبوعاتی",
@@ -88,11 +88,6 @@
       "photo1": "عکس ۱<br /> ↓ دانلود با وضوح بالا",
       "photo2": "عکس ۲<br /> ↓ دانلود با وضوح بالا"
     },
-    "sathiPhotos": {
-      "heading": "عکس‌های ساتی روی",
-      "photo1": "عکس ۱<br /> ↓ دانلود با کیفیت بالا (۸۴۳ کیلوبایت)",
-      "photo2": "عکس ۲<br /> ↓ دانلود با کیفیت بالا (۱.۸ مگابایت)"
-    }
   },
   "technicalSpecs": {
     "heading": "مشخصات فنی",
@@ -131,7 +126,6 @@
     "antenna": "مجسمه آنتن معبد مداری",
     "render": "رندر سه بعدی معبد مداری توسط RiseNY&Partners",
     "edsonPortrait": "پرتره ادسون پاونی",
-    "sathiPortrait": "پرتره ساتی روی",
     "lumenPrize": "جایزه لومن",
     "mercosulBienal": "دوسالانه مرکوسور"
   }

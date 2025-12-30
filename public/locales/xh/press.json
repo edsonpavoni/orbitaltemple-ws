@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Iqela",
-    "content": "Itempile ye-Orbital idalwe ngokubambisana noSathi Roy, uPedro Kaled, uJoão Pedro Polito, uVictor Baptista, uJoão Victor Alves, uAndré Biagioni, uVK, uJonathan Querubina, uGuilherme Bullejos, uEduardo Dias, uRoberta Savian Rosa, uClara Marques, uDaphne Alves, uFlavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, nabo bonke abo baqhubeka nokucebisa amagama ale tempile."
+    "content": "Itempile ye-Orbital idalwe ngokubambisana nouPedro Kaled, uJoão Pedro Polito, uVictor Baptista, uJoão Victor Alves, uAndré Biagioni, uVK, uJonathan Querubina, uGuilherme Bullejos, uEduardo Dias, uRoberta Savian Rosa, uClara Marques, uDaphne Alves, uFlavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, nabo bonke abo baqhubeka nokucebisa amagama ale tempile."
   },
   "pressCoverage": {
     "heading": "Ibonakaliswe ngaphakathi / Cinezela uFundo",
@@ -88,11 +88,6 @@
       "photo1": "Ifoto 1<br /> ↓ Khuphela iiRes eziPhezulu",
       "photo2": "Ifoto 2<br /> ↓ Khuphela iiRes eziPhezulu"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Iifoto",
-      "photo1": "Ifoto 1<br /> ↓ Khuphela i-High-Res (843 KB)",
-      "photo2": "Ifoto yesi-2<br /> ↓ Khuphela IiRes eziPhezulu (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Iinkcazo zobuGcisa",
@@ -131,7 +126,6 @@
     "antenna": "Umfanekiso weAntenna yeTempile yeOrbital",
     "render": "ITempile ye-Orbital iNguqulelo ye-3D yiRiseNY&Amaqabane",
     "edsonPortrait": "Edson Pavoni Umfanekiso",
-    "sathiPortrait": "Umfanekiso kaSathi Roy",
     "lumenPrize": "Lumen ibhaso",
     "mercosulBienal": "I-Mercosur Biennial"
   }

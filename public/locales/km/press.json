@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "ក្រុម",
-    "content": "ប្រាសាទគន្លងត្រូវបានបង្កើតឡើងដោយសហការជាមួយ Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Holdigal, And Flav Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace និងអស់អ្នកដែលបន្តណែនាំឈ្មោះសម្រាប់ប្រាសាទនេះ។"
+    "content": "ប្រាសាទគន្លងត្រូវបានបង្កើតឡើងដោយសហការជាមួយ Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Holdigal, And Flav Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace និងអស់អ្នកដែលបន្តណែនាំឈ្មោះសម្រាប់ប្រាសាទនេះ។"
   },
   "pressCoverage": {
     "heading": "លក្ខណៈពិសេសនៅក្នុង / ការគ្របដណ្តប់សារព័ត៌មាន",
@@ -88,11 +88,6 @@
       "photo1": "រូបថត ១<br /> ↓ ទាញយក High-Res",
       "photo2": "រូបថត ២<br /> ↓ ទាញយក High-Res"
     },
-    "sathiPhotos": {
-      "heading": "រូបថតរបស់ Sathi Roy",
-      "photo1": "រូបថត ១<br /> ↓ ទាញយក Res ខ្ពស់ (843 KB)",
-      "photo2": "រូបថត ២<br /> ↓ ទាញយកកម្រិតខ្ពស់ (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "លក្ខណៈបច្ចេកទេស",
@@ -131,7 +126,6 @@
     "antenna": "រូបចម្លាក់អង់តែនប្រាសាទគន្លង",
     "render": "Orbital Temple កំពុងបង្ហាញ 3D ដោយ RiseNY&Partners",
     "edsonPortrait": "រូបគំនូរ Edson Pavoni",
-    "sathiPortrait": "Sathi Roy Portrait",
     "lumenPrize": "រង្វាន់ Lumen",
     "mercosulBienal": "Mercosur ពីរឆ្នាំ"
   }

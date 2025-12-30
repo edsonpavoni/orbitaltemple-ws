@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Turma",
-    "content": "Templum orbitale in collaboratione creatur cum Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, T. Vidigal Pedro Holzmeister, T. Cairo, Conceptus solidi, RiseNY & Socii, IdeaSpace, omnesque qui pergunt nomina huic templo suggerere."
+    "content": "Templum orbitale in collaboratione creatur cum Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, T. Vidigal Pedro Holzmeister, T. Cairo, Conceptus solidi, RiseNY & Socii, IdeaSpace, omnesque qui pergunt nomina huic templo suggerere."
   },
   "pressCoverage": {
     "heading": "In Praesentato / Nuntiis Publicis",
@@ -88,11 +88,6 @@
       "photo1": "Photographia 1<br /> ↓ Altae Resolutionis Deprime",
       "photo2": "Photographia II<br /> ↓ Altae Resolutionis Deprime"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Photographemata",
-      "photo1": "Photographia 1<br /> ↓ Deprime Altae Resolutionis (843 KB)",
-      "photo2": "Photographia II<br /> ↓ Deprime Altae Resolutionis (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Specificationes Technicae",
@@ -131,7 +126,6 @@
     "antenna": "Sculptura Antennae Templi Orbitalis",
     "render": "Redditio Tridimensionalis Templi Orbitalis a RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Imago",
-    "sathiPortrait": "Imago Sathi Roy",
     "lumenPrize": "Praemium Lumen",
     "mercosulBienal": "Biennale Mercosurense"
   }

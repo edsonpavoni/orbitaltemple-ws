@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Csapat",
-    "content": "Az Orbital Temple: Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Andrei Holzgal, Tati Pedro, Flavio Vidigal, Rafael Fernandes, Bruna Cairo, a Solid Concepts, a RiseNY&Partners, az IdeaSpace és mindazok, akik továbbra is neveket javasolnak ennek a templomnak."
+    "content": "Az Orbital Temple: Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Andrei Holzgal, Tati Pedro, Flavio Vidigal, Rafael Fernandes, Bruna Cairo, a Solid Concepts, a RiseNY&Partners, az IdeaSpace és mindazok, akik továbbra is neveket javasolnak ennek a templomnak."
   },
   "pressCoverage": {
     "heading": "Kiemelt / Sajtómegjelenések",
@@ -88,11 +88,6 @@
       "photo1": "1. fotó<br /> ↓ Nagy felbontású letöltés",
       "photo2": "2. fotó<br /> ↓ Nagy felbontású letöltés"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy fotói",
-      "photo1": "1. fotó<br /> ↓ Nagy felbontású letöltés (843 KB)",
-      "photo2": "2. fotó<br /> ↓ Nagy felbontású letöltés (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Műszaki adatok",
@@ -131,7 +126,6 @@
     "antenna": "Orbitális templom antenna szobor",
     "render": "Orbitális templom 3D renderelése a RiseNY&Partners-től",
     "edsonPortrait": "Edson Pavoni portréja",
-    "sathiPortrait": "Sathi Roy portréja",
     "lumenPrize": "Lumen-díj",
     "mercosulBienal": "Mercosur Biennálé"
   }

@@ -88,11 +88,6 @@
       "photo1": "وێنەی یەکەم<br /> ↓ داگرتنی High-Res",
       "photo2": "وێنەی ٢<br /> ↓ داگرتنی High-Res"
     },
-    "sathiPhotos": {
-      "heading": "وێنەکانی ساتی ڕۆی",
-      "photo1": "وێنەی یەکەم<br /> ↓ داگرتنی High-Res (843 KB)",
-      "photo2": "وێنەی ٢<br /> ↓ داگرتنی High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "تایبەتمەندییە تەکنیکییەکان",
@@ -131,7 +126,6 @@
     "antenna": "پەیکەری ئەنتێنەی پەرستگای ئۆربیتاڵ",
     "render": "ڕێندەرکردنی سێ ڕەهەندی پەرستگای ئۆربیتاڵ لەلایەن RiseNY&Partners",
     "edsonPortrait": "ئێدسۆن پاڤۆنی پۆرترێت",
-    "sathiPortrait": "پۆرترێتی ساتی ڕۆی",
     "lumenPrize": "خەڵاتی لومێن",
     "mercosulBienal": "دوو ساڵەی مێرکۆسۆر"
   }

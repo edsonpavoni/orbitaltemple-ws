@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Team",
-    "content": "Orbital Temple inogadzirwa pamwe chete naSathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, uye vese vanoramba vachipa mazita etemberi iyi."
+    "content": "Orbital Temple inogadzirwa pamwe chete naPedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, uye vese vanoramba vachipa mazita etemberi iyi."
   },
   "pressCoverage": {
     "heading": "Inoratidzirwa Mu / Press Coverage",
@@ -88,11 +88,6 @@
       "photo1": "Mufananidzo 1<br /> ↓ Dhawunirodha High-Res",
       "photo2": "Mufananidzo 2<br /> ↓ Dhawunirodha High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Photos",
-      "photo1": "Mufananidzo 1<br /> ↓ Dhawunirodha High-Res (843 KB)",
-      "photo2": "Mufananidzo 2<br /> ↓ Dhawunirodha High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Zvidimbu zvehunyanzvi",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temberi Antenna Sculpture",
     "render": "Orbital Tembere 3D Rendering neRiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Mufananidzo",
-    "sathiPortrait": "Mufananidzo weSathi Roy",
     "lumenPrize": "Lumen Prize",
     "mercosulBienal": "Mercosur Biennial"
   }

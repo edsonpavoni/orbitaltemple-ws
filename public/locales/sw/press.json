@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Timu",
-    "content": "Orbital Temple imeundwa kwa ushirikiano na Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Dhana Imara, RiseNY&Partners, IdeaSpace, na wale wote wanaoendelea kupendekeza majina ya hekalu hili."
+    "content": "Orbital Temple imeundwa kwa ushirikiano na Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Dhana Imara, RiseNY&Partners, IdeaSpace, na wale wote wanaoendelea kupendekeza majina ya hekalu hili."
   },
   "pressCoverage": {
     "heading": "Imeangaziwa Katika / Vyombo vya Habari",
@@ -88,11 +88,6 @@
       "photo1": "Picha 1<br /> ↓ Pakua Ubora wa Juu",
       "photo2": "Picha 2<br /> ↓ Pakua Ubora wa Juu"
     },
-    "sathiPhotos": {
-      "heading": "Picha za Sathi Roy",
-      "photo1": "Picha 1<br /> ↓ Pakua High-Res (843 KB)",
-      "photo2": "Picha 2<br /> ↓ Pakua Ubora wa Juu (MB 1.8)"
-    }
   },
   "technicalSpecs": {
     "heading": "Maelezo ya kiufundi",
@@ -131,7 +126,6 @@
     "antenna": "Uchongaji wa Antena ya Hekalu la Orbital",
     "render": "Utoaji wa 3D wa Orbital Temple na RiseNY&Partners",
     "edsonPortrait": "Picha ya Edson Pavoni",
-    "sathiPortrait": "Picha ya Sathi Roy",
     "lumenPrize": "Tuzo la Lumen",
     "mercosulBienal": "Mercosur miaka miwili"
   }

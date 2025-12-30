@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Meeskond",
-    "content": "Orbital Temple on loodud koostöös järgmistega: Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzgal, Tati Pegal, Tati Pedro. Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ja kõik need, kes jätkavad sellele templile nimede soovitamist."
+    "content": "Orbital Temple on loodud koostöös järgmistega: Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holzgal, Tati Pegal, Tati Pedro. Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ja kõik need, kes jätkavad sellele templile nimede soovitamist."
   },
   "pressCoverage": {
     "heading": "Esitletud / Pressiteates",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Laadi alla kõrgresolutsiooniga",
       "photo2": "Foto 2<br /> ↓ Laadi alla kõrgresolutsiooniga"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy fotod",
-      "photo1": "Foto 1<br /> ↓ Laadi alla kõrgresolutsiooniga (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Laadi alla kõrgresolutsiooniga (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tehnilised andmed",
@@ -131,7 +126,6 @@
     "antenna": "Orbitaalse templi antenni skulptuur",
     "render": "Orbitaalse templi 3D-renderdus ettevõttelt RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni portree",
-    "sathiPortrait": "Sathi Roy portree",
     "lumenPrize": "Lumeni auhind",
     "mercosulBienal": "Mercosuri biennaal"
   }

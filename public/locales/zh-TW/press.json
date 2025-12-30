@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "團隊",
-    "content": "Orbital Temple 是與 Sathi Roy、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vinea、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vined、Andre Holiigal、Clara Marques、Daphne Alves、Flavio Vine、Andre、Fyati、Fircaak、Fylaroy、Flavio Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace 以及所有繼續為這座寺廟建議名稱的人。"
+    "content": "Orbital Temple 是與 、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vinea、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vined、Andre Holiigal、Clara Marques、Daphne Alves、Flavio Vine、Andre、Fyati、Fircaak、Fylaroy、Flavio Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace 以及所有繼續為這座寺廟建議名稱的人。"
   },
   "pressCoverage": {
     "heading": "媒體報導/專題報導",
@@ -88,11 +88,6 @@
       "photo1": "照片 1<br /> ↓ 下載高清圖片",
       "photo2": "照片 2<br /> ↓ 下載高清圖片"
     },
-    "sathiPhotos": {
-      "heading": "薩蒂·羅伊照片",
-      "photo1": "照片 1<br /> ↓ 下載高清圖片 (843 KB)",
-      "photo2": "照片 2<br /> ↓ 下載高清圖片 (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "技術規格",
@@ -131,7 +126,6 @@
     "antenna": "軌道神廟天線雕塑",
     "render": "RiseNY&Partners製作的軌道神廟3D渲染圖",
     "edsonPortrait": "愛德森·帕沃尼肖像",
-    "sathiPortrait": "薩蒂·羅伊肖像",
     "lumenPrize": "流明獎",
     "mercosulBienal": "南方共同市場雙年展"
   }

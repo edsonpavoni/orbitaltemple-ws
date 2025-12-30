@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Aty",
-    "content": "Templo Orbital ojejapo oñondive Sathi Roy, Pedro Kaled, João Pedro Polito, Víctor Baptista, João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Días, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andrés Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceptos Sólidos, RiseNY&Partners, IdeaSpace, ha opavave osegíva opropone téra ko templo-pe ĝuarã."
+    "content": "Templo Orbital ojejapo oñondive Pedro Kaled, João Pedro Polito, Víctor Baptista, João Víctor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Días, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andrés Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceptos Sólidos, RiseNY&Partners, IdeaSpace, ha opavave osegíva opropone téra ko templo-pe ĝuarã."
   },
   "pressCoverage": {
     "heading": "Ojekuaauka En / Cobertura de Prensa",
@@ -88,11 +88,6 @@
       "photo1": "Ta’anga 1.1<br /> ↓ Emboguejy Alto-Res",
       "photo2": "Ta’anga 2.1<br /> ↓ Emboguejy Alto-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Ta'angambyry",
-      "photo1": "Ta’anga 1.1<br /> ↓ Emboguejy High-Res (843 KB) Ñe&#39;ẽpoty ha ñe&#39;ẽpoty ñemohenda.",
-      "photo2": "Ta’anga 2.1<br /> ↓ Emboguejy High-Res (1,8 MB) Ñe&#39;ẽpoty ha ñe&#39;ẽpoty ñemohenda."
-    }
   },
   "technicalSpecs": {
     "heading": "Especificaciones Técnicas rehegua",
@@ -131,7 +126,6 @@
     "antenna": "Escultura de Antena Templo Orbital rehegua",
     "render": "Templo Orbital Renderización 3D ojapóva RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Retekue rehegua",
-    "sathiPortrait": "Sathi Roy Retrato rehegua",
     "lumenPrize": "Jopói Lumen rehegua",
     "mercosulBienal": "Mercosur Bienal rehegua"
   }

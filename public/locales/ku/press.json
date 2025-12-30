@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Kom",
-    "content": "Perestgeha Orbital bi hevkariya Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andreigal Victor, Davigal Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, û hemû kesên ku berdewam pêşniyara navan ji bo vê perestgehê dikin."
+    "content": "Perestgeha Orbital bi hevkariya Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andreigal Victor, Davigal Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, û hemû kesên ku berdewam pêşniyara navan ji bo vê perestgehê dikin."
   },
   "pressCoverage": {
     "heading": "Taybetmendî / Bernameyên Çapemeniyê",
@@ -88,11 +88,6 @@
       "photo1": "Wêne 1<br /> ↓ Dakêşana Bilind-Çareseriyê",
       "photo2": "Wêne 2<br /> ↓ Dakêşana Bilind-Çareseriyê"
     },
-    "sathiPhotos": {
-      "heading": "Wêneyên Sathi Roy",
-      "photo1": "Wêne 1<br /> ↓ Dakêşana Bilind-Çareseriyê (843 KB)",
-      "photo2": "Wêne 2<br /> ↓ Dakêşana Bilind-Çareseriyê (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Taybetmendiyên Teknîkî",
@@ -131,7 +126,6 @@
     "antenna": "Peykerê Antena Perestgeha Orbital",
     "render": "Renderkirina 3D ya Perestgeha Orbital ji hêla RiseNY&Partners ve",
     "edsonPortrait": "Portreya Edson Pavoni",
-    "sathiPortrait": "Portreya Sathi Roy",
     "lumenPrize": "Xelata Lumen",
     "mercosulBienal": "Bienala Mercosurê"
   }

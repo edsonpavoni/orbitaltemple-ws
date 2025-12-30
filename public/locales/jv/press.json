@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "tim",
-    "content": "Kuil Orbital digawe kanthi kolaborasi karo Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Holzmegal, Andre Holzme Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, lan kabeh sing terus menehi saran jeneng kanggo candhi iki."
+    "content": "Kuil Orbital digawe kanthi kolaborasi karo Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Holzmegal, Andre Holzme Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, lan kabeh sing terus menehi saran jeneng kanggo candhi iki."
   },
   "pressCoverage": {
     "heading": "Ditampilake Ing / Cakupan Pencet",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Unduh Resolusi Tinggi",
       "photo2": "Foto 2<br /> ↓ Unduh Resolusi Tinggi"
     },
-    "sathiPhotos": {
-      "heading": "Foto Sathi Roy",
-      "photo1": "Foto 1<br /> ↓ Unduh Resolusi Tinggi (843 KB)",
-      "photo2": "Foto 2<br /> ↓ Unduh Resolusi Tinggi (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Spesifikasi Teknis",
@@ -131,7 +126,6 @@
     "antenna": "Patung Antena Candi Orbit",
     "render": "Orbital Temple 3D Rendering dening RiseNY&Partners",
     "edsonPortrait": "Potret Edson Pavoni",
-    "sathiPortrait": "Potret Sathi Roy",
     "lumenPrize": "Hadiah Lumen",
     "mercosulBienal": "Mercosur biennial"
   }

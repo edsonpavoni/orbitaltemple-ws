@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Au",
-    "content": "Orbital Temple ua fausia i le galulue faatasi ma Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Ta'afaele Vidigal, Andrei Vidigal, Andrei Vidigal, Andrei Vidigal, Andrei Vidigal Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ma i latou uma o loʻo faʻaauau pea ona fautuaina igoa mo lenei malumalu."
+    "content": "Orbital Temple ua fausia i le galulue faatasi ma Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Ta'afaele Vidigal, Andrei Vidigal, Andrei Vidigal, Andrei Vidigal, Andrei Vidigal Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ma i latou uma o loʻo faʻaauau pea ona fautuaina igoa mo lenei malumalu."
   },
   "pressCoverage": {
     "heading": "Fa'aalia I / Fa'asalalau Fa'asalalau",
@@ -88,11 +88,6 @@
       "photo1": "Ata 1<br /> ↓ La&#39;u i lalo High-Res",
       "photo2": "Ata 2<br /> ↓ La&#39;u i lalo High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Ata Sathi Roy",
-      "photo1": "Ata 1<br /> ↓ La&#39;u mai i lalo High-Res (843 KB)",
-      "photo2": "Ata 2<br /> ↓ La&#39;u mai le maualuga-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Fa'amatalaga Fa'apitoa",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple Antenna Sculpture",
     "render": "Orbital Temple 3D Rendering e RiseNY&Paaga",
     "edsonPortrait": "Ata Edson Pavoni",
-    "sathiPortrait": "Ata Sathi Roy",
     "lumenPrize": "Lumen Prize",
     "mercosulBienal": "Mercosur Lua tausaga"
   }

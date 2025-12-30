@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Tím",
-    "content": "Orbital Temple je vytvorený v spolupráci so Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, André Holzme Vidigal, André Holzme Vidigal, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace a všetci tí, ktorí naďalej navrhujú mená pre tento chrám."
+    "content": "Orbital Temple je vytvorený v spolupráci so Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, André Holzme Vidigal, André Holzme Vidigal, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace a všetci tí, ktorí naďalej navrhujú mená pre tento chrám."
   },
   "pressCoverage": {
     "heading": "Vybrané v / Tlačové spravodajstvo",
@@ -88,11 +88,6 @@
       "photo1": "Fotografia 1<br /> ↓ Stiahnuť vo vysokom rozlíšení",
       "photo2": "Fotografia 2<br /> ↓ Stiahnuť vo vysokom rozlíšení"
     },
-    "sathiPhotos": {
-      "heading": "Fotografie Sathiho Roya",
-      "photo1": "Fotografia 1<br /> ↓ Stiahnuť vo vysokom rozlíšení (843 KB)",
-      "photo2": "Fotografia 2<br /> ↓ Stiahnuť vo vysokom rozlíšení (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Technické špecifikácie",
@@ -131,7 +126,6 @@
     "antenna": "Socha orbitálnej chrámovej antény",
     "render": "3D rendering Orbital Temple od RiseNY&Partners",
     "edsonPortrait": "Portrét Edsona Pavoniho",
-    "sathiPortrait": "Portrét Sathiho Roya",
     "lumenPrize": "Lumenova cena",
     "mercosulBienal": "Bienále Mercosuru"
   }

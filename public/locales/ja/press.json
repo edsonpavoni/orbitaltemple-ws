@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "チーム",
-    "content": "Orbital Temple は、Sathi Roy、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister とのコラボレーションにより作成されました。 Pedro Vidigal、Tatiane Putti、Rafael Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace、そしてこの寺院の名前を提案し続けているすべての人々。"
+    "content": "Orbital Temple は、、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister とのコラボレーションにより作成されました。 Pedro Vidigal、Tatiane Putti、Rafael Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace、そしてこの寺院の名前を提案し続けているすべての人々。"
   },
   "pressCoverage": {
     "heading": "特集記事 / 報道",
@@ -88,11 +88,6 @@
       "photo1": "写真1<br /> ↓高解像度版をダウンロード",
       "photo2": "写真2<br /> ↓高解像度版をダウンロード"
     },
-    "sathiPhotos": {
-      "heading": "サティ・ロイの写真",
-      "photo1": "写真1<br /> ↓高解像度版をダウンロード（843 KB）",
-      "photo2": "写真2<br /> ↓高解像度版をダウンロード（1.8 MB）"
-    }
   },
   "technicalSpecs": {
     "heading": "技術仕様",
@@ -131,7 +126,6 @@
     "antenna": "軌道寺院アンテナ彫刻",
     "render": "RiseNY&Partnersによるオービタル・テンプルの3Dレンダリング",
     "edsonPortrait": "エドソン・パヴォーニのポートレート",
-    "sathiPortrait": "サティ・ロイの肖像",
     "lumenPrize": "ルーメン賞",
     "mercosulBienal": "メルコスールビエンナーレ"
   }

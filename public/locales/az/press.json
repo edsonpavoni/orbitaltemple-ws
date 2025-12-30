@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Komanda",
-    "content": "Orbital Məbədi Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andrephnezme, Andrephnezme, Daphnezme, Andrephnezme ilə əməkdaşlıqda yaradılmışdır. Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace və bu məbədin adlarını təklif etməyə davam edənlərin hamısı."
+    "content": "Orbital Məbədi Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Andrephnezme, Andrephnezme, Daphnezme, Andrephnezme ilə əməkdaşlıqda yaradılmışdır. Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace və bu məbədin adlarını təklif etməyə davam edənlərin hamısı."
   },
   "pressCoverage": {
     "heading": "Seçilmiş / Mətbuatda yer alan",
@@ -88,11 +88,6 @@
       "photo1": "Şəkil 1<br /> ↓ Yüksək Çözünürlüklü Yükləyin",
       "photo2": "Şəkil 2<br /> ↓ Yüksək Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Şəkilləri",
-      "photo1": "Şəkil 1<br /> ↓ Yüksək Çözünürlüklü Yüklə (843 KB)",
-      "photo2": "Şəkil 2<br /> ↓ Yüksək Çözünürlüklü Yükləyin (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Texniki Spesifikasiyalar",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Məbəd Antenası Heykəli",
     "render": "RiseNY&Partners tərəfindən Orbital Temple 3D Rendering",
     "edsonPortrait": "Edson Pavoni portreti",
-    "sathiPortrait": "Sathi Roy portreti",
     "lumenPrize": "Lumen Mükafatı",
     "mercosulBienal": "Mercosur Bienali"
   }

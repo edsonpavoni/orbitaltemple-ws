@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "කණ්ඩායම",
-    "content": "Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Alques, Flavorine Marques, Fuard Savian Marques, Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, සහ මෙම විහාරස්ථානය සඳහා දිගටම නම් යෝජනා කරන සියලුම දෙනා."
+    "content": "Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Alques, Flavorine Marques, Fuard Savian Marques, Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, සහ මෙම විහාරස්ථානය සඳහා දිගටම නම් යෝජනා කරන සියලුම දෙනා."
   },
   "pressCoverage": {
     "heading": "/ මාධ්‍ය ආවරණයේ විශේෂාංගගත කර ඇත",
@@ -88,11 +88,6 @@
       "photo1": "ඡායාරූපය 1<br /> ↓ ඉහළ විභේදන බාගන්න",
       "photo2": "ඡායාරූපය 2<br /> ↓ ඉහළ විභේදන බාගන්න"
     },
-    "sathiPhotos": {
-      "heading": "සති රෝයි ඡායාරූප",
-      "photo1": "ඡායාරූපය 1<br /> ↓ ඉහළ විභේදනය බාගන්න (843 KB)",
-      "photo2": "ඡායාරූපය 2<br /> ↓ High-Res (1.8 MB) බාගන්න"
-    }
   },
   "technicalSpecs": {
     "heading": "තාක්ෂණික පිරිවිතර",
@@ -131,7 +126,6 @@
     "antenna": "කක්ෂීය පන්සල් ඇන්ටෙනා මූර්ති",
     "render": "RiseNY&Partners විසින් Orbital Temple 3D විදැහුම්කරණය",
     "edsonPortrait": "එඩ්සන් පවෝනි ප්‍රතිමූර්තිය",
-    "sathiPortrait": "සති රෝයි ආලේඛ්‍ය චිත්‍රය",
     "lumenPrize": "ලුමෙන් ත්‍යාගය",
     "mercosulBienal": "මර්කෝසූර් ද්විවාර්ෂික"
   }

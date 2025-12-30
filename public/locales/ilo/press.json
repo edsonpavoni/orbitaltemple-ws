@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Yasmang",
-    "content": "Ti Templo Orbital ket naparsua babaen ti pannakitinnulong da Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ken amin dagidiay agtultuloy a mangisingasing kadagiti nagan para iti daytoy a templo."
+    "content": "Ti Templo Orbital ket naparsua babaen ti pannakitinnulong da Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ken amin dagidiay agtultuloy a mangisingasing kadagiti nagan para iti daytoy a templo."
   },
   "pressCoverage": {
     "heading": "Naitampok Iti / Sakup ti Prensa",
@@ -88,11 +88,6 @@
       "photo1": "Ladawan 1<br /> ↓ I-download ti Nangato-Res",
       "photo2": "Ladawan 2<br /> ↓ I-download ti Nangato-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Dagiti Ladawan",
-      "photo1": "Ladawan 1<br /> ↓ I-download ti Nangato-Res (843 KB) .",
-      "photo2": "Ladawan 2<br /> ↓ I-download ti Nangato-Res (1.8 MB) ."
-    }
   },
   "technicalSpecs": {
     "heading": "Teknikal nga Espesipikasion",
@@ -131,7 +126,6 @@
     "antenna": "Eskultura ti Antena ti Templo ti Orbital",
     "render": "Orbital nga Templo 3D nga Pag-render ni RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni nga Larawan",
-    "sathiPortrait": "Sathi Roy nga Larawan",
     "lumenPrize": "Premio Lumen",
     "mercosulBienal": "Biennial ti Mercosur"
   }

@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Joukkue",
-    "content": "Orbital Temple on luotu yhteistyössä Sathi Royn, Pedro Kaledin, João Pedro Politon, Victor Baptistan, João Victor Alvesin, André Biagionin, VK:n, Jonathan Querubinan, Guilherme Bullejosin, Eduardo Diasin, Roberta Savian Rosan, Clara Marquesin, Daphne Alvesin, Flavio Holzmeisterin, Tati Pedron, Flavio Vidigalin, Tati Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ja kaikki, jotka ehdottavat edelleen nimiä tälle temppelille."
+    "content": "Orbital Temple on luotu yhteistyössä Pedro Kaledin, João Pedro Politon, Victor Baptistan, João Victor Alvesin, André Biagionin, VK:n, Jonathan Querubinan, Guilherme Bullejosin, Eduardo Diasin, Roberta Savian Rosan, Clara Marquesin, Daphne Alvesin, Flavio Holzmeisterin, Tati Pedron, Flavio Vidigalin, Tati Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace ja kaikki, jotka ehdottavat edelleen nimiä tälle temppelille."
   },
   "pressCoverage": {
     "heading": "Esittelyssä / Lehdistössä",
@@ -88,11 +88,6 @@
       "photo1": "Kuva 1<br /> ↓ Lataa korkearesoluutioinen",
       "photo2": "Kuva 2<br /> ↓ Lataa korkearesoluutioinen"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Royn kuvat",
-      "photo1": "Kuva 1<br /> ↓ Lataa korkearesoluutioinen (843 kt)",
-      "photo2": "Kuva 2<br /> ↓ Lataa korkearesoluutioinen (1,8 Mt)"
-    }
   },
   "technicalSpecs": {
     "heading": "Tekniset tiedot",
@@ -131,7 +126,6 @@
     "antenna": "Orbitaalitemppelin antenniveistos",
     "render": "Orbitaalisen temppelin 3D-renderöinti RiseNY&Partnersilta",
     "edsonPortrait": "Edson Pavonin muotokuva",
-    "sathiPortrait": "Sathi Royn muotokuva",
     "lumenPrize": "Lumen-palkinto",
     "mercosulBienal": "Mercosurin biennaali"
   }

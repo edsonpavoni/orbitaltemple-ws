@@ -88,11 +88,6 @@
       "photo1": "ফটো ১<br /> ↓ ডাউনলোড High-Res",
       "photo2": "ফটো ২<br /> ↓ ডাউনলোড High-Res"
     },
-    "sathiPhotos": {
-      "heading": "সতী ৰয় ফটো",
-      "photo1": "ফটো ১<br /> ↓ ডাউনলোড উচ্চ-ৰেজ (843 KB)",
-      "photo2": "ফটো ২<br /> ↓ ডাউনলোড High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "কাৰিকৰী নিৰ্দিষ্টকৰণ",
@@ -131,7 +126,6 @@
     "antenna": "কক্ষপথ মন্দিৰ এন্টেনা ভাস্কৰ্য্য",
     "render": "কক্ষপথ মন্দিৰ 3D ৰেণ্ডাৰ RiseNY&Partners দ্বাৰা",
     "edsonPortrait": "এডচন পাভোনি প্ৰতিকৃতি",
-    "sathiPortrait": "সতী ৰয় প্ৰতিকৃতি",
     "lumenPrize": "লুমেন বঁটা",
     "mercosulBienal": "মাৰ্কোছুৰ দ্বিবাৰ্ষিকী"
   }

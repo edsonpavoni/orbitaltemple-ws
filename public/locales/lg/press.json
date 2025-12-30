@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ekibinja",
-    "content": "Orbital Temple yatondebwawo nga bakolagana ne Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, n’abo bonna abagenda mu maaso n’okuteesa ku mannya ga yeekaalu eno."
+    "content": "Orbital Temple yatondebwawo nga bakolagana ne Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, n’abo bonna abagenda mu maaso n’okuteesa ku mannya ga yeekaalu eno."
   },
   "pressCoverage": {
     "heading": "Ebiragiddwa Mu / Ebiwandiiko by'amawulire",
@@ -88,11 +88,6 @@
       "photo1": "Ekifaananyi 1<br /> ↓ Download Omulimu gwa High-Res",
       "photo2": "Ekifaananyi 2<br /> ↓ Download Omulimu gwa High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Ebifaananyi bya Sathi Roy",
-      "photo1": "Ekifaananyi 1<br /> ↓ Download Obulungi bwa waggulu (843 KB)",
-      "photo2": "Ekifaananyi 2<br /> ↓ Download Obulungi bwa waggulu (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Ebikwata ku by’ekikugu",
@@ -131,7 +126,6 @@
     "antenna": "Ekibumbe kya Antenna ya Yeekaalu ya Orbital",
     "render": "Orbital Temple 3D Okulaga okukolebwa RiseNY&Partners",
     "edsonPortrait": "Ekifaananyi kya Edson Pavoni",
-    "sathiPortrait": "Ekifaananyi kya Sathi Roy",
     "lumenPrize": "Ekirabo kya Lumen",
     "mercosulBienal": "Mercosur Emyaka ebiri egy’omwaka"
   }

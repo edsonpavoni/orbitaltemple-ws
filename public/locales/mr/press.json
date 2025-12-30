@@ -88,11 +88,6 @@
       "photo1": "फोटो १<br /> ↓ उच्च-रिझोल्यूशन डाउनलोड करा",
       "photo2": "फोटो २<br /> ↓ उच्च-रिझोल्यूशन डाउनलोड करा"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Photos",
-      "photo1": "फोटो १<br /> ↓ उच्च-रिझोल्यूशन (843 KB) डाउनलोड करा",
-      "photo2": "फोटो २<br /> ↓ हाय-रेझोल्यूशन (१.८ एमबी) डाउनलोड करा"
-    }
   },
   "technicalSpecs": {
     "heading": "तांत्रिक माहिती",
@@ -131,7 +126,6 @@
     "antenna": "कक्षीय मंदिर अँटेना शिल्प",
     "render": "RiseNY&Partners द्वारे ऑर्बिटल टेंपल 3D रेंडरिंग",
     "edsonPortrait": "एडसन पावोनी पोर्ट्रेट",
-    "sathiPortrait": "Sathi Roy Portrait",
     "lumenPrize": "लुमेन पुरस्कार",
     "mercosulBienal": "मर्कोसुर द्वैवार्षिक"
   }

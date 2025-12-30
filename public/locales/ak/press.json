@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ekuo",
-    "content": "Wɔde Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael abom ayɛ Orbital Asɔredan no Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ne wɔn a wɔkɔ so de din ho nyansahyɛ ma saa asɔredan yi nyinaa."
+    "content": "Wɔde Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael abom ayɛ Orbital Asɔredan no Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ne wɔn a wɔkɔ so de din ho nyansahyɛ ma saa asɔredan yi nyinaa."
   },
   "pressCoverage": {
     "heading": "Wɔada no adi Wɔ / Press Coverage mu",
@@ -88,11 +88,6 @@
       "photo1": "Mfonini 1<br /> ↓ Twe High-Res",
       "photo2": "Mfonini 2<br /> ↓ Twe High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Mfonini ahorow",
-      "photo1": "Mfonini 1<br /> ↓ Twe High-Res (843 KB) .",
-      "photo2": "Mfonini 2<br /> ↓ Twe High-Res (1.8 MB) ."
-    }
   },
   "technicalSpecs": {
     "heading": "Mfiridwuma Ho Nsɛm a Wɔakyerɛkyerɛ Mu",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Asɔredan Antenna Nsusuwii",
     "render": "Orbital Asɔredan 3D Nkyerɛase a RiseNY&Partners yɛe",
     "edsonPortrait": "Edson Pavoni Mfonini a Wɔde Yɛ Mfonini",
-    "sathiPortrait": "Sathi Roy Mfonini a Wɔde Yɛ Mfonini",
     "lumenPrize": "Lumen Nkonimdi",
     "mercosulBienal": "Mercosur Mfirihyia Abien a Wɔde Di Dwuma"
   }

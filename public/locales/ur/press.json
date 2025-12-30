@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "ٹیم",
-    "content": "Orbital Temple Sathi Roy، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، Flaviodrome Alves، Daphine Alves کے اشتراک سے بنایا گیا ہے۔ Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace، اور وہ تمام لوگ جو اس مندر کے لیے نام تجویز کرتے رہتے ہیں۔"
+    "content": "Orbital Temple ، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، Flaviodrome Alves، Daphine Alves کے اشتراک سے بنایا گیا ہے۔ Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace، اور وہ تمام لوگ جو اس مندر کے لیے نام تجویز کرتے رہتے ہیں۔"
   },
   "pressCoverage": {
     "heading": "/ پریس کوریج میں نمایاں",
@@ -88,11 +88,6 @@
       "photo1": "تصویر 1<br /> ↓ ڈاؤن لوڈ ہائی-ریز",
       "photo2": "تصویر 2<br /> ↓ ڈاؤن لوڈ ہائی-ریز"
     },
-    "sathiPhotos": {
-      "heading": "ساتھی رائے کی تصاویر",
-      "photo1": "تصویر 1<br /> ↓ ڈاؤن لوڈ ہائی-ریز (843 KB)",
-      "photo2": "تصویر 2<br /> ↓ ڈاؤن لوڈ ہائی-ریز (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "تکنیکی وضاحتیں",
@@ -131,7 +126,6 @@
     "antenna": "مداری مندر اینٹینا مجسمہ",
     "render": "Orbital Temple 3D Rendering by RiseNY&Partners",
     "edsonPortrait": "ایڈسن پاوونی پورٹریٹ",
-    "sathiPortrait": "ساتھی رائے پورٹریٹ",
     "lumenPrize": "لیمن پرائز",
     "mercosulBienal": "مرکوسر دو سالہ"
   }

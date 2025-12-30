@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Ekipa",
-    "content": "Ny Tempoly Orbital dia noforonina miaraka amin'i Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Holzmegal, Andre Holzmegal Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ary ireo rehetra izay manohy manolotra anarana ho an'ity tempoly ity."
+    "content": "Ny Tempoly Orbital dia noforonina miaraka amin'i Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Pedro Holzmegal, Andre Holzmegal Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ary ireo rehetra izay manohy manolotra anarana ho an'ity tempoly ity."
   },
   "pressCoverage": {
     "heading": "Asongadina ao amin'ny fandrakofana an-gazety",
@@ -88,11 +88,6 @@
       "photo1": "Sary 1<br /> ↓ Download High-Res",
       "photo2": "Sary 2<br /> ↓ Download High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Photos",
-      "photo1": "Sary 1<br /> ↓ Ampidino ny Res Avo (843 Kio)",
-      "photo2": "Sary 2<br /> ↓ Ampidino ny Res Avo (1,8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Famaritana ara-teknika",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Temple Antenna Sculpture",
     "render": "Orbital Temple 3D Rendering nataon'i RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Portrait",
-    "sathiPortrait": "Sathi Roy Portrait",
     "lumenPrize": "Loka Lumen",
     "mercosulBienal": "Mercosur roa taona"
   }

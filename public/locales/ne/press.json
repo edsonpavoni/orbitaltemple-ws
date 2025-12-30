@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "टोली",
-    "content": "Orbital Temple Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, रोबर्टा Savian Rosa, Clara Marques, Flaviedrome Alves, Flaviedrome Alves, Clara Marques, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, को सहकार्यमा सिर्जना गरिएको हो। Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY & Partners, IdeaSpace, र यस मन्दिरको लागि नामहरू सुझाव गर्न जारी राख्ने सबै।"
+    "content": "Orbital Temple Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, रोबर्टा Savian Rosa, Clara Marques, Flaviedrome Alves, Flaviedrome Alves, Clara Marques, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, को सहकार्यमा सिर्जना गरिएको हो। Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY & Partners, IdeaSpace, र यस मन्दिरको लागि नामहरू सुझाव गर्न जारी राख्ने सबै।"
   },
   "pressCoverage": {
     "heading": "विशेष / प्रेस कभरेजमा",
@@ -88,11 +88,6 @@
       "photo1": "फोटो १<br /> ↓ उच्च-रिजोल्युसन डाउनलोड गर्नुहोस्",
       "photo2": "फोटो २<br /> ↓ उच्च-रिजोल्युसन डाउनलोड गर्नुहोस्"
     },
-    "sathiPhotos": {
-      "heading": "साथी रोयका तस्बिरहरू",
-      "photo1": "फोटो १<br /> ↓ उच्च-रिजोल्युसन (८४३ केबी) डाउनलोड गर्नुहोस्",
-      "photo2": "फोटो २<br /> ↓ उच्च-रिजोल्युसन डाउनलोड गर्नुहोस् (१.८ एमबी)"
-    }
   },
   "technicalSpecs": {
     "heading": "प्राविधिक विशिष्टताहरू",
@@ -131,7 +126,6 @@
     "antenna": "कक्षीय मन्दिर एन्टेना मूर्तिकला",
     "render": "RiseNY&Partners द्वारा अर्बिटल टेम्पल थ्रीडी रेन्डरिङ",
     "edsonPortrait": "एडसन पावोनी पोर्ट्रेट",
-    "sathiPortrait": "साथी रोयको चित्र",
     "lumenPrize": "लुमेन पुरस्कार",
     "mercosulBienal": "मर्कोसुर द्विवार्षिक"
   }

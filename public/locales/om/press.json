@@ -88,11 +88,6 @@
       "photo1": "Suuraa 1<br /> ↓ Download Ol&#39;aanaa-Res",
       "photo2": "Suuraa 2ffaa<br /> ↓ Download Ol&#39;aanaa-Res"
     },
-    "sathiPhotos": {
-      "heading": "Suuraalee Sathi Roy",
-      "photo1": "Suuraa 1<br /> ↓ Download Ol&#39;aanaa-Res (843 KB) .",
-      "photo2": "Suuraa 2<br /> ↓ Download High-Res (1.8 MB) Afaan Oromoo fi Jechoota Dinqisiiso Afaan Oromoo."
-    }
   },
   "technicalSpecs": {
     "heading": "Ispeesifikeeshinii Teeknikaa",
@@ -131,7 +126,6 @@
     "antenna": "Fakkii Anteenaa Mana Qulqullummaa Orbital",
     "render": "Mana Qulqullummaa Orbital 3D Rendering kan RiseNY&Partners",
     "edsonPortrait": "Suuraa Edson Pavoni",
-    "sathiPortrait": "Suuraa Sathi Roy",
     "lumenPrize": "Badhaasa Lumen",
     "mercosulBienal": "Mercosur Biennaal jedhamuun beekama"
   }

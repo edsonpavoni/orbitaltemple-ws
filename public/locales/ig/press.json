@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Otu",
-    "content": "Emebere ụlọ nsọ Orbital na mmekorita ya na Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holz, Pedroel Rafa, Vidister, André Putti, Vidister, Andréfane Putti, Vidister, Andrea Putti, Vidister, Andrea Putti, Vidister, Andrea Putti, Vidister, Andrea Putti, Vidister, Andréfati. Fernandes, Bruna Cairo, Solid Concepts, RiseNY& Partners, IdeaSpace, na ndị niile na-aga n'ihu na-atụ aro aha maka temple a."
+    "content": "Emebere ụlọ nsọ Orbital na mmekorita ya na Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Holz, Pedroel Rafa, Vidister, André Putti, Vidister, Andréfane Putti, Vidister, Andrea Putti, Vidister, Andrea Putti, Vidister, Andrea Putti, Vidister, Andrea Putti, Vidister, Andréfati. Fernandes, Bruna Cairo, Solid Concepts, RiseNY& Partners, IdeaSpace, na ndị niile na-aga n'ihu na-atụ aro aha maka temple a."
   },
   "pressCoverage": {
     "heading": "Egosiputara na / Pịa mkpuchi",
@@ -88,11 +88,6 @@
       "photo1": "Foto 1<br /> ↓ Budata High-Res",
       "photo2": "Foto nke 2<br /> ↓ Budata High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Foto Sathi Roy",
-      "photo1": "Foto 1<br /> ↓ Budata High-Res (843 KB)",
-      "photo2": "Foto nke 2<br /> ↓ Budata High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Nkọwa nka nka",
@@ -131,7 +126,6 @@
     "antenna": "Ọkpụrụkpụ Antenna Temple Orbital",
     "render": "Orbital Temple 3D Rendering site na RiseNY&Ndị mmekọ",
     "edsonPortrait": "Eserese Edson Pavoni",
-    "sathiPortrait": "Foto nke Sathi Roy",
     "lumenPrize": "Ihe nrite Lumen",
     "mercosulBienal": "Mercosur biennial"
   }

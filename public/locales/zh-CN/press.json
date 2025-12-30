@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "团队",
-    "content": "Orbital Temple 是与 Sathi Roy、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister、Pedro Vidigal 合作创建的Tatiane Putti、Rafael Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace 以及所有继续为这座寺庙建议名称的人。"
+    "content": "Orbital Temple 是与 、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister、Pedro Vidigal 合作创建的Tatiane Putti、Rafael Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace 以及所有继续为这座寺庙建议名称的人。"
   },
   "pressCoverage": {
     "heading": "媒体报道/专题报道",
@@ -88,11 +88,6 @@
       "photo1": "照片 1<br /> ↓ 下载高清图片",
       "photo2": "照片 2<br /> ↓ 下载高清图片"
     },
-    "sathiPhotos": {
-      "heading": "萨蒂·罗伊照片",
-      "photo1": "照片 1<br /> ↓ 下载高清图片 (843 KB)",
-      "photo2": "照片 2<br /> ↓ 下载高清图片 (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "技术规格",
@@ -131,7 +126,6 @@
     "antenna": "轨道神庙天线雕塑",
     "render": "RiseNY&Partners制作的轨道神庙3D渲染图",
     "edsonPortrait": "埃德森·帕沃尼肖像",
-    "sathiPortrait": "萨蒂·罗伊肖像",
     "lumenPrize": "流明奖",
     "mercosulBienal": "南方共同市场双年展"
   }

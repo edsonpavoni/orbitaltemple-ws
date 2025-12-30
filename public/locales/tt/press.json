@@ -88,11 +88,6 @@
       "photo1": "Фото 1<br /> High High-Res йөкләү",
       "photo2": "2 нче фото<br /> High High-Res йөкләү"
     },
-    "sathiPhotos": {
-      "heading": "Сати Рой фотолары",
-      "photo1": "Фото 1<br /> High High-Res йөкләү (843 КБ)",
-      "photo2": "2 нче фото<br /> High High-Res йөкләү (1,8 Мб)"
-    }
   },
   "technicalSpecs": {
     "heading": "Техник үзенчәлекләр",
@@ -131,7 +126,6 @@
     "antenna": "Орбиталь гыйбадәтханә антенна скульптура",
     "render": "RiseNY & Partners тарафыннан Orbital Temple 3D Rendering",
     "edsonPortrait": "Эдсон Павони портреты",
-    "sathiPortrait": "Сати Рой портреты",
     "lumenPrize": "Люмен премиясе",
     "mercosulBienal": "Меркосур ике еллык"
   }

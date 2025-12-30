@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Sehlopha",
-    "content": "Orbital Temple e bōpiloe ka kopanelo le Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, le bohle ba tsoelang pele ho hlahisa mabitso bakeng sa tempele ena."
+    "content": "Orbital Temple e bōpiloe ka kopanelo le Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, le bohle ba tsoelang pele ho hlahisa mabitso bakeng sa tempele ena."
   },
   "pressCoverage": {
     "heading": "E kenyelelitsoe ho / Tobetsa Ts'ebetso",
@@ -88,11 +88,6 @@
       "photo1": "Senepe 1<br /> ↓ Khoasolla li-High-Res",
       "photo2": "Senepe 2<br /> ↓ Khoasolla li-High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Roy Photos",
-      "photo1": "Senepe 1<br /> ↓ Khoasolla High-Res (843 KB)",
-      "photo2": "Senepe 2<br /> ↓ Khoasolla li-High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Litlhaloso tsa Tekheniki",
@@ -131,7 +126,6 @@
     "antenna": "Setšoantšo sa Antenna sa Orbital Temple",
     "render": "Orbital Temple 3D Rendering ka RiseNY&Partners",
     "edsonPortrait": "Setšoantšo sa Edson Pavoni",
-    "sathiPortrait": "Setšoantšo sa Sathi Roy",
     "lumenPrize": "Moputso oa Lumen",
     "mercosulBienal": "Mercosur Biennial"
   }

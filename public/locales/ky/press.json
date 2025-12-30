@@ -88,11 +88,6 @@
       "photo1": "Сүрөт 1<br /> ↓ High-Res жүктөп алыңыз",
       "photo2": "Сүрөт 2<br /> ↓ High-Res жүктөп алыңыз"
     },
-    "sathiPhotos": {
-      "heading": "Сати Рой сүрөттөрү",
-      "photo1": "Сүрөт 1<br /> ↓ Жогорку чечимди жүктөп алыңыз (843 KB)",
-      "photo2": "Сүрөт 2<br /> ↓ Жогорку чечимди жүктөп алуу (1,8 МБ)"
-    }
   },
   "technicalSpecs": {
     "heading": "Техникалык мүнөздөмөлөр",
@@ -131,7 +126,6 @@
     "antenna": "Орбиталык храмдын антеннасынын скульптурасы",
     "render": "RiseNY&Partners тарабынан Orbital Temple 3D рендеринги",
     "edsonPortrait": "Эдсон Павони портрети",
-    "sathiPortrait": "Сати Рой портрети",
     "lumenPrize": "Lumen сыйлыгы",
     "mercosulBienal": "Mercosur Biennial"
   }

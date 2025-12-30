@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Pab neeg",
-    "content": "Lub Tuam Tsev Orbital yog tsim los ntawm kev koom tes nrog Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Holdigal, Daphne Alves, Thiab Flavre Tatiane Putti, Rafael Fernandes, Bruna Cairo, Cov Ntsiab Lus Tseem Ceeb, RiseNY & Cov Neeg Koom Tes, IdeaSpace, thiab txhua tus uas txuas ntxiv qhia npe rau lub tuam tsev no."
+    "content": "Lub Tuam Tsev Orbital yog tsim los ntawm kev koom tes nrog Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Holdigal, Daphne Alves, Thiab Flavre Tatiane Putti, Rafael Fernandes, Bruna Cairo, Cov Ntsiab Lus Tseem Ceeb, RiseNY & Cov Neeg Koom Tes, IdeaSpace, thiab txhua tus uas txuas ntxiv qhia npe rau lub tuam tsev no."
   },
   "pressCoverage": {
     "heading": "Featured Hauv / Xovxwm Kev Pabcuam",
@@ -88,11 +88,6 @@
       "photo1": "Duab 1<br /> ↓ Download High-Res",
       "photo2": "Duab 2<br /> ↓ Download High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Sathi Rau Photos",
-      "photo1": "Duab 1<br /> ↓ Download High-Res (843 KB)",
-      "photo2": "Duab 2<br /> ↓ Download tau siab heev (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Technical Specifications",
@@ -131,7 +126,6 @@
     "antenna": "Orbital Tuam Tsev Antenna Sculpture",
     "render": "Lub Tuam Tsev Orbital 3D Rendering los ntawm RiseNY&Partners",
     "edsonPortrait": "Edson Pavoni Portrait",
-    "sathiPortrait": "Sathi Roy Portrait",
     "lumenPrize": "Lumen nqi zog",
     "mercosulBienal": "Mercosur Biennial"
   }

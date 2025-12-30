@@ -50,7 +50,7 @@
   },
   "team": {
     "heading": "Gulu",
-    "content": "Orbital Temple imapangidwa mogwirizana ndi Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ndi onse omwe akupitiliza kupereka mayina a kachisiyu."
+    "content": "Orbital Temple imapangidwa mogwirizana ndi Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Pedro Vidigal Vigal Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, ndi onse omwe akupitiliza kupereka mayina a kachisiyu."
   },
   "pressCoverage": {
     "heading": "Zowonetsedwa mu / Press Coverage",
@@ -88,11 +88,6 @@
       "photo1": "Chithunzi 1<br /> ↓ Tsitsani High-Res",
       "photo2": "Chithunzi 2<br /> ↓ Tsitsani High-Res"
     },
-    "sathiPhotos": {
-      "heading": "Zithunzi za Sathi Roy",
-      "photo1": "Chithunzi 1<br /> ↓ Tsitsani High-Res (843 KB)",
-      "photo2": "Chithunzi 2<br /> ↓ Tsitsani High-Res (1.8 MB)"
-    }
   },
   "technicalSpecs": {
     "heading": "Mfundo Zaukadaulo",
@@ -131,7 +126,6 @@
     "antenna": "Chithunzi cha Orbital Temple Antenna",
     "render": "Orbital Temple 3D Rendering ndi RiseNY&Partners",
     "edsonPortrait": "Chithunzi cha Edson Pavoni",
-    "sathiPortrait": "Chithunzi cha Sathi Roy",
     "lumenPrize": "Mphotho ya Lumen",
     "mercosulBienal": "Mercosur Biennial"
   }
