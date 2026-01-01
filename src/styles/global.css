@@ -324,6 +324,7 @@ a[style*="border"]:hover,
   transition: transform .25s ease, visibility 0s linear .25s;
   visibility: hidden;
   z-index: 60;
+  overflow-y: auto;
 }
 
 .drawer[data-open="true"] {
