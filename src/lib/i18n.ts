@@ -100,7 +100,7 @@ export const SUPPORTED_LANGUAGES = [
   { code: 'pl', name: 'Polish', nativeName: 'Polski'},
   { code: 'ps', name: 'Pashto', nativeName: 'پښتو', rtl: true },
   { code: 'pt', name: 'Portuguese', nativeName: 'Português'},
-  { code: 'pt-BR', name: 'Portuguese (Brazil)', nativeName: 'Português Brasileiro'},
+  { code: 'br', name: 'Brazilian Portuguese', nativeName: 'Brasileiro'},
   { code: 'qu', name: 'Quechua', nativeName: 'Runasimi'},
   { code: 'ro', name: 'Romanian', nativeName: 'Română'},
   { code: 'ru', name: 'Russian', nativeName: 'Русский'},
