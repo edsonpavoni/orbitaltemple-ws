@@ -91,7 +91,7 @@ export default function LanguageSwitcher() {
       marginBottom: '0.5rem',
     },
     selectedLabel: {
-      fontSize: '14px',
+      fontSize: '16px',
       fontWeight: 600,
       color: '#553903',
       marginBottom: '1.5rem',
