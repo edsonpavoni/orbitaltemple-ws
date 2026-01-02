@@ -3,10 +3,6 @@
   "heading": "Komanda",
   "artist": "Edson Pavoni, rəssam",
   "roles": {
-    "executiveProducer": {
-      "heading": "İcraçı Prodüser",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Aerokosmik və Sistem Mühəndisliyi",
       "members": "Pedro Kaled, João Pedro Polito, Viktor Baptista və João Viktor Alves"
@@ -56,6 +52,6 @@
       "members": "Qabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini və Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Markes, Daphne Vigal Alves, Flavia Alves, Flavia Pedroi, Holziome Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Viktor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Markes, Daphne Vigal Alves, Flavia Alves, Flavia Pedroi, Holziome Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
   "imageAlt": "Orbital Məbədin peyki"
 }

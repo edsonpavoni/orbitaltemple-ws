@@ -3,10 +3,6 @@
   "heading": "Ikipe",
   "artist": "Edson Pavoni, umuhanzi",
   "roles": {
-    "executiveProducer": {
-      "heading": "Umuyobozi mukuru",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Ikirere & Sisitemu Ubwubatsi",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Dlaphne Alves, Flavio Vidid Putti, Rafael Fernandes, Bruna Cairo, Ibitekerezo bikomeye, RiseNY & Abafatanyabikorwa, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Dlaphne Alves, Flavio Vidid Putti, Rafael Fernandes, Bruna Cairo, Ibitekerezo bikomeye, RiseNY & Abafatanyabikorwa, IdeaSpace",
   "imageAlt": "Orbital Urusengero Satelite"
 }

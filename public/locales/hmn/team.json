@@ -3,10 +3,6 @@
   "heading": "Pab neeg",
   "artist": "Edson Pavoni, tus kws kos duab",
   "roles": {
-    "executiveProducer": {
-      "heading": "Tus tsim tawm",
-      "members": "Sathi Rau"
-    },
     "aerospace": {
       "heading": "Aerospace & Systems Engineering",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, André Vidigalister, Flaretiaz Vidime Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY & Cov koom tes, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, André Vidigalister, Flaretiaz Vidime Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY & Cov koom tes, IdeaSpace",
   "imageAlt": "Orbital Tuam Tsev Satellite"
 }

@@ -16,11 +16,47 @@ function isValidEmail(email: string): boolean {
 interface NameSubmission {
   name: string;
   email: string;
+  language?: string;
+}
+
+// Email translations for different languages
+interface EmailTemplate {
+  queuedSubject: (name: string) => string;
+  queuedBody: (name: string) => string;
+  ascendedSubject: (name: string) => string;
+  ascendedBody: (name: string, date: string, time: string) => string;
+}
+
+const EMAIL_TEMPLATES: Record<string, EmailTemplate> = {
+  en: {
+    queuedSubject: (name) => `${name} is now queued for ascension`,
+    queuedBody: (name) => `the name\n${name}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
+    ascendedSubject: (name) => `${name} ascension to the orbital temple in space`,
+    ascendedBody: (name, date, time) => `today, ${date}, at ${time} the name ${name} ascend, and there it remains.`,
+  },
+  br: {
+    queuedSubject: (name) => `${name} está agora na fila para ascensão`,
+    queuedBody: (name) => `o nome\n${name}\nestá agora na fila\npara ascensão.\n\nquando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra\n\nenviaremos\no nome\ne você receberá\numa mensagem.`,
+    ascendedSubject: (name) => `${name} ascendeu ao templo orbital no espaço`,
+    ascendedBody: (name, date, time) => `hoje, ${date}, às ${time}, o nome ${name} ascendeu, e lá ele permanece.`,
+  },
+  pt: {
+    queuedSubject: (name) => `${name} está agora na fila para ascensão`,
+    queuedBody: (name) => `o nome\n${name}\nestá agora na fila\npara ascensão.\n\nquando o\ntemplo no espaço\nse alinhar com\na nossa antena\nna Terra\n\nenviaremos\no nome\ne receberá\numa mensagem.`,
+    ascendedSubject: (name) => `${name} ascendeu ao templo orbital no espaço`,
+    ascendedBody: (name, date, time) => `hoje, ${date}, às ${time}, o nome ${name} ascendeu, e lá permanece.`,
+  },
+};
+
+// Get email template for a language (fallback to English)
+function getEmailTemplate(language: string): EmailTemplate {
+  return EMAIL_TEMPLATES[language] || EMAIL_TEMPLATES.en;
 }
 
 interface NameDocument {
   name: string;
   email: string;
+  language: string;
   status: "pending" | "sent" | "confirmed" | "deleted";
   createdAt: admin.firestore.Timestamp;
   sentAt?: admin.firestore.Timestamp;
@@ -65,7 +101,7 @@ export const submitName = functions.https.onRequest(async (req, res) => {
   }
 
   try {
-    const {name, email} = req.body as NameSubmission;
+    const {name, email, language = "en"} = req.body as NameSubmission;
 
     // Validate input
     if (!name || typeof name !== "string" || name.trim().length === 0) {
@@ -77,6 +113,9 @@ export const submitName = functions.https.onRequest(async (req, res) => {
       res.status(400).json({error: "Valid email is required"});
       return;
     }
+
+    // Get email template for the user's language
+    const emailTemplate = getEmailTemplate(language);
 
     // Get IP address from request
     const ipAddress = req.headers["x-forwarded-for"] as string ||
@@ -106,6 +145,7 @@ export const submitName = functions.https.onRequest(async (req, res) => {
     const nameDoc: NameDocument = {
       name: name.trim(),
       email: email.trim().toLowerCase(),
+      language: language,
       status: "pending",
       createdAt: admin.firestore.Timestamp.now(),
       ipAddress: cleanIp,
@@ -118,6 +158,7 @@ export const submitName = functions.https.onRequest(async (req, res) => {
     functions.logger.info("Name submitted successfully", {
       id: docRef.id,
       name: nameDoc.name,
+      language: language,
       country: country,
       ip: cleanIp,
     });
@@ -129,8 +170,8 @@ export const submitName = functions.https.onRequest(async (req, res) => {
       const emailResult = await resend.emails.send({
         from: "Orbital Temple <noreply@orbitaltemple.art>",
         to: [email.trim().toLowerCase()],
-        subject: `${name.trim()} is now queued for ascension`,
-        text: `the name\n${name.trim()}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
+        subject: emailTemplate.queuedSubject(name.trim()),
+        text: emailTemplate.queuedBody(name.trim()),
       });
 
       functions.logger.info("Immediate confirmation email sent", {
@@ -183,28 +224,39 @@ export const sendConfirmationEmail = functions.firestore
         // Initialize Resend with API key from environment variable
         const resend = new Resend(process.env.RESEND_API_KEY);
 
-        // Format the confirmation timestamp
+        // Get email template for the user's language
+        const emailTemplate = getEmailTemplate(afterData.language || "en");
+
+        // Format the confirmation timestamp based on language
         const confirmedAt = afterData.confirmedAt || admin.firestore.Timestamp.now();
         const date = confirmedAt.toDate();
 
-        const formattedDate = date.toLocaleDateString("en-US", {
+        // Use appropriate locale for date formatting
+        const localeMap: Record<string, string> = {
+          en: "en-US",
+          br: "pt-BR",
+          pt: "pt-PT",
+        };
+        const locale = localeMap[afterData.language] || "en-US";
+
+        const formattedDate = date.toLocaleDateString(locale, {
           year: "numeric",
           month: "long",
           day: "numeric",
         });
 
-        const formattedTime = date.toLocaleTimeString("en-US", {
+        const formattedTime = date.toLocaleTimeString(locale, {
           hour: "numeric",
           minute: "2-digit",
-          hour12: true,
+          hour12: afterData.language !== "br" && afterData.language !== "pt",
         });
 
         // Send email via Resend
         const emailResult = await resend.emails.send({
           from: "Orbital Temple <noreply@orbitaltemple.art>",
           to: [afterData.email],
-          subject: `${afterData.name} ascension to the orbital temple in space`,
-          text: `today, ${formattedDate}, at ${formattedTime} the name ${afterData.name} ascend, and there it remains.`,
+          subject: emailTemplate.ascendedSubject(afterData.name),
+          text: emailTemplate.ascendedBody(afterData.name, formattedDate, formattedTime),
         });
 
         functions.logger.info("Confirmation email sent", {

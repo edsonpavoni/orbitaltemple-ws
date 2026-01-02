@@ -3,10 +3,6 @@
   "heading": "කණ්ඩායම",
   "artist": "එඩ්සන් පවෝනි, කලාකරු",
   "roles": {
-    "executiveProducer": {
-      "heading": "විධායක නිෂ්පාදක",
-      "members": "සති රෝයි"
-    },
     "aerospace": {
       "heading": "අභ්‍යවකාශ සහ පද්ධති ඉංජිනේරු විද්‍යාව",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Daphere Aldigal, Flavio Marques, Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Daphere Aldigal, Flavio Marques, Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace",
   "imageAlt": "කක්ෂීය දේවමාළිගා චන්ද්‍රිකාව"
 }

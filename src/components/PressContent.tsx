@@ -1,8 +1,21 @@
 import { useTranslation } from 'react-i18next';
 import NameCounter from './NameCounter';
+import { SUPPORTED_LANGUAGES } from '../lib/i18n';
 
 export default function PressContent() {
   const { t, ready } = useTranslation('press');
+
+  // Get current language from URL path
+  const getCurrentLang = () => {
+    if (typeof window === 'undefined') return 'en';
+    const pathParts = window.location.pathname.split('/').filter(Boolean);
+    const urlLang = pathParts[0];
+    const isSupported = SUPPORTED_LANGUAGES.some(lang => lang.code === urlLang);
+    return isSupported ? urlLang : 'en';
+  };
+
+  const lang = getCurrentLang();
+  const localePath = (path: string) => `/${lang}${path}`;
 
   if (!ready) {
     return null;
@@ -418,11 +431,11 @@ export default function PressContent() {
           {t('additionalResources.heading')}
         </h2>
         <p className="body-text additional-resources-links">
-          <a href="/artwork">{t('additionalResources.artwork')}</a><br />
-          <a href="/how-it-works">{t('additionalResources.howItWorks')}</a><br />
-          <a href="/info">{t('additionalResources.technicalInfo')}</a><br />
-          <a href="/space-launch">{t('additionalResources.spaceLaunch')}</a><br />
-          <a href="/">{t('additionalResources.ritual')}</a>
+          <a href={localePath('/artwork')}>{t('additionalResources.artwork')}</a><br />
+          <a href={localePath('/how-it-works')}>{t('additionalResources.howItWorks')}</a><br />
+          <a href={localePath('/info')}>{t('additionalResources.technicalInfo')}</a><br />
+          <a href={localePath('/space-launch')}>{t('additionalResources.spaceLaunch')}</a><br />
+          <a href={localePath('/')}>{t('additionalResources.ritual')}</a>
         </p>
       </section>
     </div>

@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import Starfield from './Starfield';
+import { SUPPORTED_LANGUAGES } from '../lib/i18n';
 
 type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete';
 
@@ -20,6 +21,15 @@ const trackStep = (stepName: string, stepNumber: number) => {
 
 // Step order for transition calculations
 const STEP_ORDER: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
+
+// Get current language from URL path
+const getCurrentLang = (): string => {
+  if (typeof window === 'undefined') return 'en';
+  const pathParts = window.location.pathname.split('/').filter(Boolean);
+  const urlLang = pathParts[0];
+  const isSupported = SUPPORTED_LANGUAGES.some(lang => lang.code === urlLang);
+  return isSupported ? urlLang : 'en';
+};
 
 export default function SendNameForm() {
   const { t, ready } = useTranslation('send-a-name');
@@ -244,6 +254,7 @@ export default function SendNameForm() {
   const submitNameToServer = async () => {
     try {
       const FUNCTIONS_URL = 'https://us-central1-orbital-temple.cloudfunctions.net';
+      const language = getCurrentLang();
 
       const response = await fetch(`${FUNCTIONS_URL}/submitName`, {
         method: 'POST',
@@ -253,6 +264,7 @@ export default function SendNameForm() {
         body: JSON.stringify({
           name: name,
           email: email,
+          language: language,
         }),
       });
 

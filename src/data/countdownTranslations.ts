@@ -21,7 +21,7 @@ export const countdownTranslations: CountdownTranslation[] = [
     seconds: 'seconds'
   },
   {
-    code: 'pt-BR',
+    code: 'br',
     name: 'Brazilian Portuguese',
     description: 'para o lançamento do Templo Orbital, uma obra de arte e um satélite, com o objetivo de ser um templo radicalmente inclusivo, em um lugar onde nenhum muro pode alcançar.',
     notify: 'Me avise no lançamento',

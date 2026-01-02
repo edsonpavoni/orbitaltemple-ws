@@ -3,10 +3,6 @@
   "heading": "Topar",
   "artist": "Edson Pavoni, suratkeş",
   "roles": {
-    "executiveProducer": {
-      "heading": "Executiveerine ýetiriji öndüriji",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Aerokosmos we ulgamlar in Engineeringenerligi",
       "members": "Pedro Kaled, João Pedro Polito, Wiktor Baptista we João Wiktor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marsello Dantas, Anne Valls, Matias Campos Abad, Samuel Lewi, Bella Nardini we Le Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roý, Pedro Kaled, João Pedro Polito, Wiktor Baptista, João Wiktor Alves, Andre Biagioni, VK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Alwes, Flawioid Putti, Rafael Fernandes, Bruna Kair, Conceitos Sólidos, RiseNY & Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Wiktor Baptista, João Wiktor Alves, Andre Biagioni, VK, Jonatan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Alwes, Flawioid Putti, Rafael Fernandes, Bruna Kair, Conceitos Sólidos, RiseNY & Partners, IdeaSpace",
   "imageAlt": "Orbital ybadathana hemrasy"
 }

@@ -1,0 +1,43 @@
+---
+import Base from "../../layouts/BaseLayout.astro";
+import Footer from "../../components/Footer.astro";
+import SpaceLaunchContent from "../../components/SpaceLaunchContent";
+import { LANGUAGE_CODES, isValidLanguage } from "../../lib/i18n-config";
+
+export function getStaticPaths() {
+  return LANGUAGE_CODES.map((lang) => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+
+if (!isValidLanguage(lang)) {
+  return Astro.redirect('/en/space-launch', 302);
+}
+
+const lgParam = Astro.url.searchParams.get('lg');
+if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
+  return Astro.redirect(`/${lgParam}/space-launch`, 301);
+}
+---
+<Base lang={lang}>
+
+  <main class="artwork-page">
+
+    <SpaceLaunchContent client:only="react" />
+
+    <!-- Footer -->
+    <footer class="artwork-footer">
+      <Footer />
+    </footer>
+
+  </main>
+
+  <script define:vars={{ lang }}>
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('i18nextLng', lang);
+    }
+  </script>
+
+</Base>

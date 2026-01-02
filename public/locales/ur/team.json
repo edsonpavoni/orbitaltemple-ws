@@ -3,10 +3,6 @@
   "heading": "ٹیم",
   "artist": "ایڈسن پاوونی، آرٹسٹ",
   "roles": {
-    "executiveProducer": {
-      "heading": "ایگزیکٹو پروڈیوسر",
-      "members": "ساتھی رائے"
-    },
     "aerospace": {
       "heading": "ایرو اسپیس اینڈ سسٹم انجینئرنگ",
       "members": "Pedro Kaled، João Pedro Polito، Victor Baptista اور João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "گیبریلا ویگا، مارسیلو ڈینٹس، این والس، میٹیاس کیمپوس آباد، سیموئیل لیوی، بیلا نارڈینی، اور لی پیننگٹن"
     }
   },
-  "credits": "Edson Pavoni، Sathi Roy، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، Daphne Alves، Flavio Pedro Videistane، آندرے پیوڈیگل، آندرے الویس رافیل فرنینڈس، برونا قاہرہ، Conceitos Sólidos، RiseNY&Partners، IdeaSpace",
+  "credits": "Edson Pavoni، ، Pedro Kaled، João Pedro Polito، Victor Baptista، João Victor Alves، André Biagioni، VK، Jonathan Querubina، Guilherme Bullejos، Eduardo Dias، Roberta Savian Rosa، Clara Marques، Daphne Alves، Flavio Pedro Videistane، آندرے پیوڈیگل، آندرے الویس رافیل فرنینڈس، برونا قاہرہ، Conceitos Sólidos، RiseNY&Partners، IdeaSpace",
   "imageAlt": "آربیٹل ٹیمپل سیٹلائٹ"
 }

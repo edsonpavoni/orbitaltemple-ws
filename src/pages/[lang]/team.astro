@@ -1,0 +1,42 @@
+---
+import Base from "../../layouts/BaseLayout.astro";
+import Footer from "../../components/Footer.astro";
+import TeamContent from "../../components/TeamContent";
+import { LANGUAGE_CODES, isValidLanguage } from "../../lib/i18n-config";
+
+export function getStaticPaths() {
+  return LANGUAGE_CODES.map((lang) => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+
+if (!isValidLanguage(lang)) {
+  return Astro.redirect('/en/team', 302);
+}
+
+const lgParam = Astro.url.searchParams.get('lg');
+if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
+  return Astro.redirect(`/${lgParam}/team`, 301);
+}
+---
+<Base lang={lang}>
+
+  <main class="artwork-page">
+    <TeamContent client:only="react" />
+
+    <!-- Footer -->
+    <footer class="artwork-footer">
+      <Footer />
+    </footer>
+
+  </main>
+
+  <script define:vars={{ lang }}>
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('i18nextLng', lang);
+    }
+  </script>
+
+</Base>

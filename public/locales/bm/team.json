@@ -3,10 +3,6 @@
   "heading": "Ekipu",
   "artist": "Edson Pavoni, min ye dɔnkilidala ye",
   "roles": {
-    "executiveProducer": {
-      "heading": "Ɲɛmɔgɔyaso ɲɛmɔgɔba",
-      "members": "Sathi Roy ye baara kɛ"
-    },
     "aerospace": {
       "heading": "Aerospace & Systems Engineering (Aerospace & Sistɛmuw ka Ɛntɛrinɛti).",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabiriyɛli Veiga, Marselɔ Dantas, Anne Valls, Matias Campos Abad, Samuyɛli Levi, Bɛlɛ Nardini, & Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafaɛl Fernandes, Bruna Kayira, Conceitos Sólidos, RiseNY&Jɛɲɔgɔnya, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafaɛl Fernandes, Bruna Kayira, Conceitos Sólidos, RiseNY&Jɛɲɔgɔnya, IdeaSpace",
   "imageAlt": "Sateliti min bɛ wele ko Orbital Temple"
 }

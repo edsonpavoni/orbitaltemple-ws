@@ -3,10 +3,6 @@
   "heading": "Jamoa",
   "artist": "Edson Pavoni, rassom",
   "roles": {
-    "executiveProducer": {
-      "heading": "Ijrochi prodyuser",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Aerokosmik va tizim muhandisligi",
       "members": "Pedro Kaled, João Pedro Polito, Viktor Baptista va João Viktor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veyga, Marcello Dantas, Enn Valls, Matias Kampos Abad, Samuel Levi, Bella Nardini va Ley Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Viktor Baptista, Joau Viktor Alves, Andre Biagioni, VK, Jonatan Kerubina, Gilyerme Bulyexos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Vigal Alves, Flav Pedroi, Andregal Vidiome Tatyane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Viktor Baptista, Joau Viktor Alves, Andre Biagioni, VK, Jonatan Kerubina, Gilyerme Bulyexos, Eduardo Dias, Roberta Savian Rosa, Klara Markes, Dafne Vigal Alves, Flav Pedroi, Andregal Vidiome Tatyane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
   "imageAlt": "Orbital Temple sun'iy yo'ldoshi"
 }

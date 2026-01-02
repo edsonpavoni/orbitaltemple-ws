@@ -3,10 +3,6 @@
   "heading": "Komanda",
   "artist": "Edsonas Pavoni, menininkas",
   "roles": {
-    "executiveProducer": {
-      "heading": "Vykdomasis prodiuseris",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Aviacijos ir kosmoso sistemų inžinerija",
       "members": "Pedro Kaledas, João Pedro Polito, Victoras Baptista ir João Victoras Alvesas"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini ir Leigh Pennington"
     }
   },
-  "credits": "Edsonas Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Peadro Vidigal, Andre Holzgal. Fernandes, Bruna Cairo, Conceitos Solidos, RiseNY&Partners, IdeaSpace",
+  "credits": "Edsonas Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Peadro Vidigal, Andre Holzgal. Fernandes, Bruna Cairo, Conceitos Solidos, RiseNY&Partners, IdeaSpace",
   "imageAlt": "Orbitinės šventyklos palydovas"
 }

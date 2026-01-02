@@ -3,10 +3,6 @@
   "heading": "Ekibinja",
   "artist": "Edson Pavoni, omuyimbi",
   "roles": {
-    "executiveProducer": {
-      "heading": "Omukulembeze wa Pulodyusa",
-      "members": "Sathi Roy, omuwandiisi w’ebitabo"
-    },
     "aerospace": {
       "heading": "Engineering mu by'ennyonyi n'enkola",
       "members": "Pedro Kaled, João Pedro Polito, Omuwanguzi Baptista & João Omuwanguzi Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, ne Leigh Pennington, abaana abato, abaana abato"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Omuwanguzi Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Endowooza Ennywevu, RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Omuwanguzi Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Endowooza Ennywevu, RiseNY&Partners, IdeaSpace",
   "imageAlt": "Satellite ya Yeekaalu ey’enkulungo"
 }

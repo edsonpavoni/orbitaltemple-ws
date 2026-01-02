@@ -3,10 +3,6 @@
   "heading": "Xipanu",
   "artist": "Edson Pavoni, mutshila wa swifaniso",
   "roles": {
-    "executiveProducer": {
-      "heading": "Muhumelerisinkulu",
-      "members": "Sathi Roy u vula leswaku"
-    },
     "aerospace": {
       "heading": "Vuinjhiniyere bya Swihahampfhuka & Tisisiteme",
       "members": "Pedro Kaled, João Pedro Polito, Muhluri Baptista & João Muhluri Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuwele Levy, Bella Nardini, & Leigh Pennington, na vona va vulavula hi ku rhula"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Muhluri Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Vatirhisani, Xivandla xa Miehleketo",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Muhluri Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Vatirhisani, Xivandla xa Miehleketo",
   "imageAlt": "Sathelayiti ya Tempele ya Orbital"
 }

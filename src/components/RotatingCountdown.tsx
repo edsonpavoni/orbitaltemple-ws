@@ -1,6 +1,16 @@
 import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { countdownTranslations } from '../data/countdownTranslations';
+import { SUPPORTED_LANGUAGES } from '../lib/i18n';
+
+// Get current language from URL path
+const getCurrentLang = () => {
+  if (typeof window === 'undefined') return 'en';
+  const pathParts = window.location.pathname.split('/').filter(Boolean);
+  const urlLang = pathParts[0];
+  const isSupported = SUPPORTED_LANGUAGES.some(lang => lang.code === urlLang);
+  return isSupported ? urlLang : 'en';
+};
 
 interface TimeLeft {
   days: number;
@@ -88,6 +98,7 @@ export default function RotatingCountdown() {
 // Separate component for notify link that syncs with language rotation
 export function RotatingNotifyLink() {
   const { i18n } = useTranslation();
+  const lang = getCurrentLang();
 
   // Get translation based on current i18n language
   const currentTranslation = countdownTranslations.find(t => t.code === i18n.language)
@@ -96,7 +107,7 @@ export function RotatingNotifyLink() {
 
   return (
     <a
-      href="/notify-me"
+      href={`/${lang}/notify-me`}
       style={{
         color: '#ffffff',
         opacity: 0.6,

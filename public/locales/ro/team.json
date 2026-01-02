@@ -3,10 +3,6 @@
   "heading": "Echipă",
   "artist": "Edson Pavoni, artist",
   "roles": {
-    "executiveProducer": {
-      "heading": "Producător Executiv",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Inginerie Aerospațială și de Sisteme",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista și João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini și Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Ta Fertiane, Rafael Puttili, Rafael Brunei, Puttigal RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Ta Fertiane, Rafael Puttili, Rafael Brunei, Puttigal RiseNY&Partners, IdeaSpace",
   "imageAlt": "Satelitul Orbital Temple"
 }

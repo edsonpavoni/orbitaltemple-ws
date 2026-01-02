@@ -175,7 +175,7 @@ export default function LanguageSwitcher() {
                 onMouseLeave={(e) => (e.currentTarget.style.opacity = '1')}
               >
                 <span style={isSelected ? styles.nativeNameSelected : styles.nativeName}>
-                  {lang.nativeName}{isSelected ? ' .' : ''}
+                  {lang.nativeName}
                 </span>
                 <span style={styles.englishName}>{lang.name}</span>
               </button>
@@ -200,7 +200,7 @@ export default function LanguageSwitcher() {
                 onMouseLeave={(e) => (e.currentTarget.style.opacity = '1')}
               >
                 <span style={isSelected ? styles.nativeNameSelected : styles.nativeName}>
-                  {lang.nativeName}{isSelected ? ' .' : ''}
+                  {lang.nativeName}
                 </span>
                 <span style={styles.englishName}>{lang.name}</span>
               </button>

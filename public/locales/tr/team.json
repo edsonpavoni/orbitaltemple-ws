@@ -3,10 +3,6 @@
   "heading": "Takım",
   "artist": "Edson Pavoni, sanatçı",
   "roles": {
-    "executiveProducer": {
-      "heading": "Yönetici Yapımcı",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Havacılık ve Sistem Mühendisliği",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista ve João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini ve Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Kahire, Sağlam Kavramlar, RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Kahire, Sağlam Kavramlar, RiseNY&Partners, IdeaSpace",
   "imageAlt": "Orbital Temple Uydusu"
 }

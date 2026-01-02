@@ -1,7 +1,19 @@
 import { useState, useEffect } from 'react';
+import { SUPPORTED_LANGUAGES } from '../lib/i18n';
 
 export default function CountdownPill() {
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
+
+  // Get current language from URL path
+  const getCurrentLang = () => {
+    if (typeof window === 'undefined') return 'en';
+    const pathParts = window.location.pathname.split('/').filter(Boolean);
+    const urlLang = pathParts[0];
+    const isSupported = SUPPORTED_LANGUAGES.some(lang => lang.code === urlLang);
+    return isSupported ? urlLang : 'en';
+  };
+
+  const lang = getCurrentLang();
 
   useEffect(() => {
     // January 11, 2026 at 04:15 UTC - Launch window opening date confirmed by India
@@ -65,7 +77,7 @@ export default function CountdownPill() {
         }
       `}</style>
       <div className="countdown-pill-wrapper">
-        <a href="/space-launch" className="countdown-pill">
+        <a href={`/${lang}/space-launch`} className="countdown-pill">
         <span style={{
           fontSize: '12px',
           opacity: 0.6,

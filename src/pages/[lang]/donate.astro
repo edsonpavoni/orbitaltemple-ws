@@ -1,0 +1,60 @@
+---
+import Base from "../../layouts/BaseLayout.astro";
+import Footer from "../../components/Footer.astro";
+import DonateContent from "../../components/DonateContent";
+import { LANGUAGE_CODES, isValidLanguage } from "../../lib/i18n-config";
+
+export function getStaticPaths() {
+  return LANGUAGE_CODES.map((lang) => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+
+if (!isValidLanguage(lang)) {
+  return Astro.redirect('/en/donate', 302);
+}
+
+const lgParam = Astro.url.searchParams.get('lg');
+if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
+  return Astro.redirect(`/${lgParam}/donate`, 301);
+}
+
+// Get URL parameters
+const url = new URL(Astro.request.url);
+const donationType = url.searchParams.get("type") || "General Support";
+const amount = url.searchParams.get("amount") || "0";
+---
+<Base lang={lang}>
+
+  <main class="artwork-page">
+    <DonateContent client:only="react" donationType={donationType} amount={amount} />
+
+    <!-- Footer -->
+    <footer class="artwork-footer">
+      <Footer />
+    </footer>
+
+  </main>
+
+  <script define:vars={{ lang }}>
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('i18nextLng', lang);
+    }
+  </script>
+
+</Base>
+
+<style is:global>
+  /* Hover effects for buttons */
+  a[style*="background: var(--color-ot-gold200)"]:hover {
+    background: var(--color-ot-gold100) !important;
+    transform: translateY(-2px);
+  }
+
+  a[style*="border: 2px solid"]:hover {
+    background: rgba(250, 212, 58, 0.1) !important;
+    border-color: var(--color-ot-gold100) !important;
+  }
+</style>

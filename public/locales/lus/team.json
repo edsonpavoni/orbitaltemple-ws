@@ -3,10 +3,6 @@
   "heading": "Pawl",
   "artist": "Edson Pavoni, lemziak thiam",
   "roles": {
-    "executiveProducer": {
-      "heading": "Executive Producer a ni",
-      "members": "Sathi Roy chuan a rawn ti a"
-    },
     "aerospace": {
       "heading": "Aerospace & Systems Engineering te chu a hlawhtling hle",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista leh João Victor Alves te an ni"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini leh Leigh Pennington te chuan an khelh danah an khel tha hle"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna te an ni Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace te chuan an rawn tarlang a ni",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna te an ni Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace te chuan an rawn tarlang a ni",
   "imageAlt": "Orbital Temple Satellite hmanga siam a ni"
 }

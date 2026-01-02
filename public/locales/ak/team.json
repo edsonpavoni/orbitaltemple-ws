@@ -3,10 +3,6 @@
   "heading": "Ekuo",
   "artist": "Edson Pavoni, mfoniniyɛfo",
   "roles": {
-    "executiveProducer": {
-      "heading": "Ɔyɛkyerɛfo Panyin",
-      "members": "Sathi Roy na ɔkyerɛwee"
-    },
     "aerospace": {
       "heading": "Ahunmu & Nhyehyɛe Ho Mfiridwuma",
       "members": "Pedro Kaled, João Pedro Polito, Nkonimdi Baptista & João Nkonimdi Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, ne Leigh Pennington, wɔn a wɔyɛ adwuma wɔ hɔ no mu biara"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Nkonimdi Baptista, João Nkonimdi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Ayɔnkofo, Adwene Ahunmu",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Nkonimdi Baptista, João Nkonimdi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Ayɔnkofo, Adwene Ahunmu",
   "imageAlt": "Orbital Asɔredan Satellite a Wɔde Di Dwuma"
 }

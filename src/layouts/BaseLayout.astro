@@ -1,18 +1,121 @@
 ---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import { isRTL } from "../lib/i18n-config";
+
+// Meta translations for different languages (server-side)
+const META_TRANSLATIONS: Record<string, { title: string; description: string }> = {
+  en: {
+    title: "Orbital Temple",
+    description: "Orbital Temple is a satellite with an artistic mission: a memorial in outer space open to every sentient being who lives or has lived on Earth.",
+  },
+  pt: {
+    title: "Templo Orbital",
+    description: "Templo Orbital é um satélite com uma missão artística: um memorial no espaço aberto a todo ser senciente que vive ou viveu na Terra.",
+  },
+  br: {
+    title: "Templo Orbital",
+    description: "Templo Orbital é um satélite com uma missão artística: um memorial no espaço aberto a todo ser senciente que vive ou viveu na Terra.",
+  },
+  es: {
+    title: "Templo Orbital",
+    description: "Templo Orbital es un satélite con una misión artística: un memorial en el espacio abierto a todo ser sintiente que vive o vivió en la Tierra.",
+  },
+  fr: {
+    title: "Temple Orbital",
+    description: "Temple Orbital est un satellite avec une mission artistique: un mémorial dans l'espace ouvert à tout être sensible qui vit ou a vécu sur Terre.",
+  },
+  de: {
+    title: "Orbital Temple",
+    description: "Orbital Temple ist ein Satellit mit einer künstlerischen Mission: ein Denkmal im Weltraum, offen für jedes fühlende Wesen, das auf der Erde lebt oder gelebt hat.",
+  },
+  it: {
+    title: "Tempio Orbitale",
+    description: "Tempio Orbitale è un satellite con una missione artistica: un memoriale nello spazio aperto a ogni essere senziente che vive o ha vissuto sulla Terra.",
+  },
+  ja: {
+    title: "オービタルテンプル",
+    description: "オービタルテンプルは芸術的使命を持つ人工衛星です。地球に生きる、または生きていたすべての生命のための宇宙の記念碑。",
+  },
+  zh: {
+    title: "轨道神殿",
+    description: "轨道神殿是一颗具有艺术使命的卫星：一座向所有生活在地球上或曾经生活在地球上的有情众生开放的太空纪念碑。",
+  },
+  ko: {
+    title: "오비탈 템플",
+    description: "오비탈 템플은 예술적 사명을 가진 인공위성입니다: 지구에 살고 있거나 살았던 모든 생명체에게 열린 우주의 기념비.",
+  },
+  ru: {
+    title: "Орбитальный Храм",
+    description: "Орбитальный Храм — это спутник с художественной миссией: мемориал в космосе, открытый для всех чувствующих существ, живущих или живших на Земле.",
+  },
+  ar: {
+    title: "المعبد المداري",
+    description: "المعبد المداري هو قمر صناعي بمهمة فنية: نصب تذكاري في الفضاء مفتوح لكل كائن حي يعيش أو عاش على الأرض.",
+  },
+  hi: {
+    title: "ऑर्बिटल टेम्पल",
+    description: "ऑर्बिटल टेम्पल एक कलात्मक मिशन वाला उपग्रह है: अंतरिक्ष में एक स्मारक जो पृथ्वी पर रहने वाले या रहे हर संवेदनशील प्राणी के लिए खुला है।",
+  },
+  'zh-CN': {
+    title: "轨道神殿",
+    description: "轨道神殿是一颗具有艺术使命的卫星：一座向所有生活在地球上或曾经生活在地球上的有情众生开放的太空纪念碑。",
+  },
+  bn: {
+    title: "অরবিটাল টেম্পল",
+    description: "অরবিটাল টেম্পল একটি শৈল্পিক মিশন সহ একটি উপগ্রহ: মহাকাশে একটি স্মৃতিসৌধ যা পৃথিবীতে বাস করে বা বাস করেছে এমন প্রতিটি সংবেদনশীল সত্তার জন্য উন্মুক্ত।",
+  },
+  ur: {
+    title: "آربیٹل ٹیمپل",
+    description: "آربیٹل ٹیمپل ایک فنکارانہ مشن کے ساتھ ایک سیٹلائٹ ہے: خلا میں ایک یادگار جو زمین پر رہنے والے یا رہ چکے ہر حساس مخلوق کے لیے کھلا ہے۔",
+  },
+};
+
+// Get language from props or URL path
+const lang = Astro.props.lang || Astro.params.lang || 'en';
+
+// Get meta translations for the current language (fallback to English)
+const meta = META_TRANSLATIONS[lang] || META_TRANSLATIONS.en;
+
 const {
-  title = "Orbital Temple",
-  description = "Orbital Temple is a satellite with an artistic mission: a memorial in outer space open to every sentient being who lives or has lived on Earth.",
+  title = meta.title,
+  description = meta.description,
   image = "/og.jpg",
   url = Astro.url.href
 } = Astro.props;
 
-import "../styles/global.css";
-import Header from "../components/Header.astro";
-
 // Ensure image URL is absolute and uses the current domain (not hardcoded site)
 const imageUrl = new URL(image, Astro.url.origin).href;
+
+// Get locale code for OG tags
+const localeMap: Record<string, string> = {
+  en: 'en_US',
+  pt: 'pt_BR',
+  'br': 'pt_BR',
+  es: 'es_ES',
+  fr: 'fr_FR',
+  de: 'de_DE',
+  it: 'it_IT',
+  ja: 'ja_JP',
+  zh: 'zh_CN',
+  'zh-CN': 'zh_CN',
+  'zh-TW': 'zh_TW',
+  ko: 'ko_KR',
+  ru: 'ru_RU',
+  ar: 'ar_SA',
+  hi: 'hi_IN',
+  bn: 'bn_BD',
+  ur: 'ur_PK',
+};
+const ogLocale = localeMap[lang] || lang;
+
+// Determine text direction
+const dir = isRTL(lang) ? 'rtl' : 'ltr';
+
+// Base URL for hreflang links
+const baseUrl = 'https://orbitaltemple.art';
 ---
-<html lang="en">
+<html lang={lang} dir={dir}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
@@ -27,7 +130,7 @@ const imageUrl = new URL(image, Astro.url.origin).href;
     <link rel="manifest" href="/fav/site.webmanifest" />
     <meta name="theme-color" content="#FAD43A" />
 
-    <!-- Open Graph / Facebook -->
+    <!-- Open Graph / Facebook / WhatsApp -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={url} />
     <meta property="og:title" content={title} />
@@ -35,6 +138,8 @@ const imageUrl = new URL(image, Astro.url.origin).href;
     <meta property="og:image" content={imageUrl} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="535" />
+    <meta property="og:locale" content={ogLocale} />
+    <meta property="og:site_name" content="Orbital Temple" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -42,6 +147,24 @@ const imageUrl = new URL(image, Astro.url.origin).href;
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageUrl} />
+
+    <!-- Alternate language versions (hreflang for SEO) -->
+    <link rel="alternate" hreflang="en" href={`${baseUrl}/en/`} />
+    <link rel="alternate" hreflang="pt-BR" href={`${baseUrl}/br/`} />
+    <link rel="alternate" hreflang="pt" href={`${baseUrl}/pt/`} />
+    <link rel="alternate" hreflang="es" href={`${baseUrl}/es/`} />
+    <link rel="alternate" hreflang="fr" href={`${baseUrl}/fr/`} />
+    <link rel="alternate" hreflang="de" href={`${baseUrl}/de/`} />
+    <link rel="alternate" hreflang="ja" href={`${baseUrl}/ja/`} />
+    <link rel="alternate" hreflang="zh" href={`${baseUrl}/zh/`} />
+    <link rel="alternate" hreflang="zh-Hans" href={`${baseUrl}/zh-CN/`} />
+    <link rel="alternate" hreflang="ko" href={`${baseUrl}/ko/`} />
+    <link rel="alternate" hreflang="ru" href={`${baseUrl}/ru/`} />
+    <link rel="alternate" hreflang="ar" href={`${baseUrl}/ar/`} />
+    <link rel="alternate" hreflang="hi" href={`${baseUrl}/hi/`} />
+    <link rel="alternate" hreflang="bn" href={`${baseUrl}/bn/`} />
+    <link rel="alternate" hreflang="ur" href={`${baseUrl}/ur/`} />
+    <link rel="alternate" hreflang="x-default" href={`${baseUrl}/en/`} />
   </head>
   <body style="margin: 0; padding: 0; min-height: 100vh; background-color: var(--color-ot-dark);">
     <Header />

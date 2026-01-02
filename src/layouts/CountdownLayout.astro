@@ -1,4 +1,11 @@
 ---
+import "../styles/global.css";
+import HeaderSimple from "../components/HeaderSimple.astro";
+import { isRTL } from "../lib/i18n-config";
+
+// Get language from props or URL path
+const lang = Astro.props.lang || Astro.params.lang || 'en';
+
 const {
   title = "Orbital Temple",
   description = "The first purely artistic orbital satellite from the Global South. Launching November 28, 2025.",
@@ -6,13 +13,13 @@ const {
   url = Astro.url.href
 } = Astro.props;
 
-import "../styles/global.css";
-import HeaderSimple from "../components/HeaderSimple.astro";
-
 // Ensure image URL is absolute and uses the current domain (not hardcoded site)
 const imageUrl = new URL(image, Astro.url.origin).href;
+
+// Determine text direction
+const dir = isRTL(lang) ? 'rtl' : 'ltr';
 ---
-<html lang="en">
+<html lang={lang} dir={dir}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />

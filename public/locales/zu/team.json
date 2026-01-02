@@ -3,10 +3,6 @@
   "heading": "Ithimba",
   "artist": "Edson Pavoni, umculi",
   "roles": {
-    "executiveProducer": {
-      "heading": "Umkhiqizi Omkhulu",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "I-Aerospace & Systems Engineering",
       "members": "U-Pedro Kaled, u-João Pedro Polito, u-Victor Baptista no-João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidizmelo Put, Andre Vidigal, Andre Pedro Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidizmelo Put, Andre Vidigal, Andre Pedro Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
   "imageAlt": "I-Orbital Temple Satellite"
 }

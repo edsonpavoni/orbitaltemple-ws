@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "title": "Templo Orbital",
+    "description": "Templo Orbital é um satélite com uma missão artística: um memorial no espaço aberto a todo ser senciente que vive ou viveu na Terra."
+  },
   "nav": {
     "theArtwork": "a obra de arte",
     "sendAName": "enviar um nome",

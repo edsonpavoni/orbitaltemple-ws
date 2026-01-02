@@ -3,10 +3,6 @@
   "heading": "Equipo",
   "artist": "Edson Pavoni, artista",
   "roles": {
-    "executiveProducer": {
-      "heading": "Productor ejecutivo",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Ingeniería aeroespacial y de sistemas",
       "members": "Pedro Kaled, João Pedro Polito, Víctor Baptista y João Víctor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matías Campos Abad, Samuel Levy, Bella Nardini y Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY y socios, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY y socios, IdeaSpace",
   "imageAlt": "Satélite del Templo Orbital"
 }

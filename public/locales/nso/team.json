@@ -3,10 +3,6 @@
   "heading": "Sehlopha",
   "artist": "Edson Pavoni, motaki",
   "roles": {
-    "executiveProducer": {
-      "heading": "Motšweletšiphethiši",
-      "members": "Sathi Roy o ile a re"
-    },
     "aerospace": {
       "heading": "Boentšenere bja Sefofane & Ditshepedišo",
       "members": "Pedro Kaled, João Pedro Polito, Mofenyi Baptista & João Mofenyi Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, & Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Mofenyi Baptista, João Mofenyi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Dikgopolo tše di Tiilego, RiseNY & Balekane, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Mofenyi Baptista, João Mofenyi Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Klara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Dikgopolo tše di Tiilego, RiseNY & Balekane, IdeaSpace",
   "imageAlt": "Sathalaete ya Tempele ya Orbital"
 }

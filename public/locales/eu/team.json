@@ -3,10 +3,6 @@
   "heading": "Taldea",
   "artist": "Edson Pavoni, artista",
   "roles": {
-    "executiveProducer": {
-      "heading": "Ekoizle exekutiboa",
-      "members": "Sathi Roy"
-    },
     "aerospace": {
       "heading": "Aeroespazial eta Sistemen Ingeniaritza",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista eta João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini eta Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Ta Fertiane, Puttini, Rafael Sódes, Rafael Bruni RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Ta Fertiane, Puttini, Rafael Sódes, Rafael Bruni RiseNY&Partners, IdeaSpace",
   "imageAlt": "Orbital Temple satelitea"
 }

@@ -3,10 +3,6 @@
   "heading": "Ομάδα",
   "artist": "Έντσον Παβόνι, καλλιτέχνης",
   "roles": {
-    "executiveProducer": {
-      "heading": "Εκτελεστικός Παραγωγός",
-      "members": "Σάθι Ρόι"
-    },
     "aerospace": {
       "heading": "Αεροδιαστημική και Συστηματική Μηχανική",
       "members": "Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves"
@@ -56,6 +52,6 @@
       "members": "Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini και Leigh Pennington"
     }
   },
-  "credits": "Edson Pavoni, Sathi Roy, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Victor Alves, Andreanetio Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
+  "credits": "Edson Pavoni, Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Victor Alves, Andreanetio Putti, Rafael Fernandes, Bruna Cairo, Conceitos Sólidos, RiseNY&Partners, IdeaSpace",
   "imageAlt": "Δορυφόρος Orbital Temple"
 }

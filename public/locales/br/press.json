@@ -1,0 +1,131 @@
+{
+  "title": "Imprensa e Mídia - Orbital Temple",
+  "heading": "Imprensa e Mídia",
+  "pressContact": {
+    "heading": "Contato de Imprensa",
+    "content": "Para solicitações de imprensa, entrevistas e pedidos de mídia:<br /> <strong>E-mail:</strong> <a href=\"mailto:gabriela.veiga@orbitaltemple.art\">gabriela.veiga@orbitaltemple.art</a><br /> <strong>Site:</strong> <a href=\"https://orbitaltemple.art\">orbitaltemple.art</a>"
+  },
+  "aboutProject": {
+    "heading": "Sobre o Projeto",
+    "paragraph1": "O Orbital Temple (Templo Orbital) é uma obra de arte e um satélite que busca ser um templo radicalmente inclusivo, erguido onde paredes não podem alcançar. Criado pelo artista brasileiro Edson Pavoni — o nome por trás do Memorial Inumeráveis, que alcançou um em cada seis brasileiros durante a pandemia de COVID — o projeto convida pessoas de todo o mundo a enviar o nome de alguém que desejam lembrar. Esses nomes são transmitidos para um satélite em órbita, criando um memorial coletivo.",
+    "paragraph2": "Através de um site disponível em 136 idiomas, os participantes se engajam em um novo tipo de ritual. O Orbital Temple explora temas de inclusão, memória e nossa humanidade compartilhada, questionando por que nenhum templo físico na Terra consegue ser verdadeiramente acolhedor para todos e propondo o espaço como o único lugar onde a inclusão radical pode existir."
+  },
+  "aboutArtist": {
+    "heading": "Sobre o Artista",
+    "paragraph1": "<strong>Edson Pavoni</strong> é um artista brasileiro cuja jornada começou nas ruas de São Paulo, onde um contexto de pobreza e violência moldou seus primeiros anos. Em um país onde o cristianismo oferecia um caminho longe das ruas, das drogas e da violência, Pavoni encontrou refúgio na fé — um tema que mais tarde, ao tornar-se crítico do abuso religioso, informaria sua prática artística.",
+    "paragraph2": "Em 2020, durante a pandemia de COVID-19, Pavoni criou <strong><a href=\"https://inumeraveis.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: inherit; text-decoration: none; transition: text-decoration 0.2s;\" onmouseover=\"this.style.textDecoration='underline'\" onmouseout=\"this.style.textDecoration='none'\">Inumeráveis</a></strong>, uma obra na intersecção entre arte e jornalismo. O projeto entrevistou milhares de famílias e escreveu as histórias daqueles perdidos para a pandemia, criando um espaço onde a memória transcendia números e estatísticas. Poemas, canções e sinfonias foram criados a partir dessas histórias. Jornais criaram capas usando os nomes e trajetórias. Grandes nomes brasileiros, como a indicada ao Oscar Fernanda Torres, além de estrelas como Selton Mello, Eva Wilma, Camila Pitanga, Deborah Secco, Taís Araújo e Lázaro Ramos, leram essas histórias em rede nacional. O projeto alcançou 32 milhões de pessoas, um em cada quatro adultos brasileiros, tornando-se uma rede de cura e um monumento coletivo à memória.",
+    "paragraph3": "Após mais de dez mil conversas com o luto, um padrão emergiu: quando falamos de alguém que morreu, selecionamos fragmentos de sua história como se escrevêssemos uma carta de recomendação para o guardião do paraíso. Fazemos o nosso melhor para enviá-los ao que acreditamos ser o céu. Esse trabalho despertou uma nova compreensão: nossas crenças sobre quem merece o céu moldam diretamente quem aceitamos ou excluímos na Terra. Os colonizadores portugueses no Brasil acreditavam que pessoas negras não tinham alma; essa crença justificou a escravidão. Se você fosse indígena, se tivesse nascido no lugar errado ou amado a pessoa errada, ainda hoje lhe diriam que as portas do céu estão fechadas para você. Existe uma visão de futuro que não seja alimentada pela rejeição?",
+    "paragraph4": "Foi assim que nasceu o Orbital Temple."
+  },
+  "keyFacts": {
+    "heading": "Informações Principais",
+    "artist": "<strong>Artista:</strong> Edson Pavoni (Brasil)",
+    "projectType": "<strong>Tipo de Projeto:</strong> Obra de arte satélite, site-specific no espaço, ritual baseado na web",
+    "launchDate": "<strong>Janela de Lançamento:</strong> 25 de dezembro de 2025 – 23 de janeiro de 2026 (NOTAM da ISRO confirmado)",
+    "launchLocation": "<strong>Local de Lançamento:</strong> Satish Dhawan Space Centre, Sriharikota, Índia (ISRO PSLV-C62)",
+    "satellite": "<strong>Satélite:</strong> 1P PocketQube, 50x58x64mm, 245g",
+    "orbit": "<strong>Órbita:</strong> 525km de altitude, heliossíncrona",
+    "participation": "<strong>Participação:</strong> Gratuita, aberta a todos globalmente",
+    "namesSent": {
+      "heading": "<strong>Nomes Enviados para a Órbita:</strong>",
+      "caption": "<em>Contagem ao vivo atualizada do banco de dados • Última atualização: {date}</em>"
+    }
+  },
+  "awards": {
+    "heading": "Prêmios e Reconhecimento",
+    "mercosul": {
+      "title": "<strong>13ª Bienal do Mercosul</strong> (2022)",
+      "location": "Porto Alegre, Brasil",
+      "curator": "Curadoria de Marcelo Dantas"
+    },
+    "lumen": {
+      "title": "<strong>Lumen Prize 2022 - Futures Award</strong>",
+      "status": "Longlisted (Lista de finalistas)"
+    },
+    "cubeDesign": {
+      "title": "<strong>Competição CubeDesign 2021</strong>",
+      "award": "Vencedor - Categoria ArtSat",
+      "org": "Promovido pelo Instituto Nacional de Pesquisas Espaciais (INPE)"
+    }
+  },
+  "team": {
+    "heading": "Equipe",
+    "content": "O Orbital Temple é criado em colaboração com Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, e todos aqueles que continuam a enviar nomes para este templo."
+  },
+  "pressCoverage": {
+    "heading": "Na Mídia / Cobertura de Imprensa",
+    "paragraph1": "<em>A cobertura de imprensa e destaques serão adicionados conforme disponibilizados. Para as atualizações mais recentes, entre em contato com nossa equipe de imprensa.</em>",
+    "paragraph2": "Exposições anteriores e destaques incluem apresentações na 13ª Bienal do Mercosul, reconhecimento pelo Lumen Prize e seleção pelo Instituto Nacional de Pesquisas Espaciais (INPE)."
+  },
+  "images": {
+    "heading": "Imagens em Alta Resolução para Uso da Imprensa",
+    "intro": "Todas as imagens estão disponíveis para uso editorial. Clique em qualquer imagem para baixar o arquivo em alta resolução.",
+    "installationPhotos": {
+      "heading": "Fotos do Orbital Temple",
+      "credit": "Crédito obrigatório: \"Foto de Clara Marques / Cortesia de Edson Pavoni, Orbital Temple\"",
+      "view01": "Vista da Instalação 01<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (1,4 MB)",
+      "view02": "Vista da Instalação 02<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (2,9 MB)",
+      "view03": "Vista da Instalação 03<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (11 MB)",
+      "view04": "Vista da Instalação 04<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (3,4 MB)",
+      "view05": "Vista da Instalação 05<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (3,3 MB)",
+      "view06": "Vista da Instalação 06<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (3,7 MB)",
+      "view07": "Vista da Instalação 07<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (3,4 MB)",
+      "view08": "Vista da Instalação 08<br /> Foto: Clara Marques<br /> ↓ Baixar em alta resolução (2,7 MB)",
+      "satelliteDesign": "Design do Satélite<br /> ↓ Baixar",
+      "antennaSculpture": "Antena/Escultura<br /> ↓ Baixar"
+    },
+    "renders": {
+      "heading": "Renders do Orbital Temple",
+      "credit": "Renders conceituais em 3D. Crédito obrigatório: \"Renderização 3D por RiseNY&Partners / Cortesia de Edson Pavoni, Orbital Temple\"",
+      "render01": "Renderização 3D 01<br /> RiseNY&amp;Partners<br /> ↓ Baixar em alta resolução (10 MB)",
+      "render02": "Renderização 3D 02<br /> RiseNY&amp;Partners<br /> ↓ Baixar em alta resolução (5,9 MB)",
+      "render03": "Renderização 3D 03<br /> RiseNY&amp;Partners<br /> ↓ Baixar em alta resolução (5,2 MB)",
+      "render04": "Renderização 3D 04<br /> RiseNY&amp;Partners<br /> ↓ Baixar em alta resolução (11 MB)",
+      "render05": "Renderização 3D 05<br /> RiseNY&amp;Partners<br /> ↓ Baixar em alta resolução (13 MB)"
+    },
+    "artistPhotos": {
+      "heading": "Fotos do Artista",
+      "credit": "Crédito obrigatório: \"Foto de Alex Korolkovas / Cortesia de Edson Pavoni, Orbital Temple\"",
+      "photo1": "Foto 1<br /> ↓ Baixar em alta resolução",
+      "photo2": "Foto 2<br /> ↓ Baixar em alta resolução"
+    }
+  },
+  "technicalSpecs": {
+    "heading": "Especificações Técnicas",
+    "satellite": {
+      "heading": "Satélite",
+      "dimensions": "Dimensões: 50 x 58 x 64 mm",
+      "classification": "Classificação: 1P PocketQube",
+      "weight": "Peso: 245g",
+      "materials": "Materiais: Alumínio, ouro, fibra de vidro, componentes eletrônicos",
+      "orbit": "Órbita: Altitude 525 ± 25 km; Inclinação: SSO 97,6 ± 0,1°"
+    },
+    "antenna": {
+      "heading": "Antena/Escultura",
+      "dimensions": "Dimensões: 6m de diâmetro x 1,2m de altura",
+      "weight": "Peso: 46 kg",
+      "materials": "Materiais: Alumínio, placa espelhada de epóxi, cúpula de alumínio dourado suspensa por estrutura de andaime"
+    },
+    "radio": {
+      "heading": "Especificações de Rádio",
+      "downlink": "Downlink: 437 MHz"
+    }
+  },
+  "additionalResources": {
+    "heading": "Recursos Adicionais",
+    "artwork": "→ Ver Documentação da Obra",
+    "howItWorks": "→ Como Funciona",
+    "technicalInfo": "→ Informações Técnicas",
+    "spaceLaunch": "→ Informações sobre o Lançamento Espacial",
+    "ritual": "→ Vivencie o Ritual"
+  },
+  "imageAlts": {
+    "installation": "Instalação do Orbital Temple por Edson Pavoni",
+    "satelliteDesign": "Design do Satélite Orbital Temple",
+    "antenna": "Escultura de Antena do Orbital Temple",
+    "render": "Renderização 3D do Orbital Temple por RiseNY&Partners",
+    "edsonPortrait": "Retrato de Edson Pavoni",
+    "lumenPrize": "Lumen Prize",
+    "mercosulBienal": "Bienal do Mercosul"
+  }
+}
