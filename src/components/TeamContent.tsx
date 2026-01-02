@@ -20,13 +20,6 @@ export default function TeamContent() {
       </p>
 
       <h3 className="subsection-heading">
-        {t('roles.executiveProducer.heading')}
-      </h3>
-      <p className="body-text">
-        {t('roles.executiveProducer.members')}
-      </p>
-
-      <h3 className="subsection-heading">
         {t('roles.aerospace.heading')}
       </h3>
       <p className="body-text">
