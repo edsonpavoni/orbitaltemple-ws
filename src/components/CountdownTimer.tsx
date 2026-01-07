@@ -16,8 +16,8 @@ export default function CountdownTimer() {
   });
 
   useEffect(() => {
-    // January 12, 2026 at 04:15 UTC - Launch window opening date confirmed by India
-    const launchDate = new Date('2026-01-12T04:15:00Z');
+    // January 12, 2026 at 10:17 AM IST (04:47 UTC)
+    const launchDate = new Date('2026-01-12T04:47:00Z');
 
     const calculateTimeLeft = () => {
       const now = new Date();
