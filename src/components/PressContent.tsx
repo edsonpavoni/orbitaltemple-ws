@@ -55,8 +55,11 @@ export default function PressContent() {
         <p className="body-text">
           {t('aboutProject.paragraph1')}
         </p>
-        <p className="body-text body-text--section-end">
+        <p className="body-text">
           {t('aboutProject.paragraph2')}
+        </p>
+        <p className="body-text body-text--section-end">
+          {t('aboutProject.paragraph3')}
         </p>
       </section>
 
@@ -96,7 +99,7 @@ export default function PressContent() {
             <span dangerouslySetInnerHTML={{ __html: t('keyFacts.launchDate') }} />
           </li>
           <li style={{ marginBottom: '0.5rem' }}>
-            <span dangerouslySetInnerHTML={{ __html: t('keyFacts.launchLocation') }} />
+            <span dangerouslySetInnerHTML={{ __html: t('keyFacts.nextLaunch') }} />
           </li>
           <li style={{ marginBottom: '0.5rem' }}>
             <span dangerouslySetInnerHTML={{ __html: t('keyFacts.satellite') }} />
