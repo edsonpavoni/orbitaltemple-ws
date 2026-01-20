@@ -1,0 +1,33 @@
+{
+  "title": "Updates - Orbital Temple",
+  "heading": "Updates",
+  "readIn": "Read in",
+  "latestUpdate": "Latest Update",
+  "updates": {
+    "fire-and-ashes": {
+      "date": "January 20, 2026",
+      "title": "Fire and Ashes",
+      "content": {
+        "greeting": "Hello from the artist,",
+        "opening": "When you keep pushing the limits, sometimes the limits push back.",
+        "launch": "On January 16, 2026, the Orbital Temple was launched into space. It was aboard the PSLV-C62. A legendary Indian rocket with more than 60 successful launches.",
+        "different": "But this time, the story was different.",
+        "failure": "The rocket lifted off beautifully and reached space. But in the final stage, it lost control. It failed to deploy the satellites. Our temple was in space for only 10 minutes. Then it fell back. It burned into ashes as it entered our atmosphere.",
+        "whatNow": "So, what now? I am Brazilian. We don't give up. Now, we do it again.",
+        "backup": "We already have a backup satellite ready. We are talking to space agencies and private companies. We are finding a new rocket for our project.",
+        "community": "Space is hard. But there are already 19,078 of us who sent names. From all over the world, people have replied to this invitation. We are looking at the sky differently.",
+        "seeking": "You will be the first to know when a new date is confirmed. Your name is still with us. It is waiting for its time.",
+        "thanks": "Thank you for walking this path with me.",
+        "signature": "With love,",
+        "name": "Edson Pavoni"
+      }
+    }
+  },
+  "support": {
+    "heading": "Support the mission",
+    "text": "Sending names to the Orbital Temple will always be free. As an independent art project, we rely on your support. If you would like to help, you can make a tax-deductible donation here:"
+  },
+  "follow": {
+    "heading": "Follow the journey"
+  }
+}

@@ -7,8 +7,9 @@
   },
   "aboutProject": {
     "heading": "关于本项目",
-    "paragraph1": "“轨道圣殿”是一件艺术作品，也是一颗卫星，旨在打造一座真正包容一切的圣殿，建造在墙壁无法触及的地方。该项目由巴西艺术家埃德森·帕沃尼（Edson Pavoni）创作，他也是“Inumeráveis”纪念碑的创作者，该纪念碑在新冠疫情期间触及了六分之一的巴西人。“轨道圣殿”邀请世界各地的人们发送他们想要缅怀的人的名字。这些名字将被传输到一颗轨道卫星，最终形成一座集体纪念碑。",
-    "paragraph2": "参与者可以通过一个提供136种语言版本的网站，参与一种全新的仪式。“轨道神庙”探索包容、记忆和我们共同的人性等主题，质疑为何地球上没有任何一座实体神庙能够真正接纳所有人，并提出太空或许是唯一能够实现真正包容的地方。"
+    "paragraph1": ""轨道圣殿"是一件艺术作品，也是一颗卫星，旨在打造一座真正包容一切的圣殿，建造在墙壁无法触及的地方。该项目由巴西艺术家埃德森·帕沃尼（Edson Pavoni）创作，他也是"Inumeráveis"纪念碑的创作者，该纪念碑在新冠疫情期间触及了六分之一的巴西人。"轨道圣殿"邀请世界各地的人们发送他们想要缅怀的人的名字。这些名字将被传输到一颗轨道卫星，最终形成一座集体纪念碑。",
+    "paragraph2": "参与者可以通过一个提供136种语言版本的网站，参与一种全新的仪式。"轨道神庙"探索包容、记忆和我们共同的人性等主题，质疑为何地球上没有任何一座实体神庙能够真正接纳所有人，并提出太空或许是唯一能够实现真正包容的地方。",
+    "paragraph3": "2026年1月16日，第一颗轨道神庙卫星搭载在ISRO的PSLV-C62火箭上。火箭到达太空，但在最后阶段失败，卫星在重返大气层时烧毁。备用卫星已准备就绪，新的发射正在计划中。"
   },
   "aboutArtist": {
     "heading": "关于艺术家",
@@ -21,13 +22,13 @@
     "heading": "关键事实",
     "artist": "<strong>艺术家：</strong>埃德森·帕沃尼（巴西）",
     "projectType": "<strong>项目类型：</strong>卫星艺术作品，特定场域空间艺术，基于网络的仪式",
-    "launchDate": "<strong>发布日期：</strong> 2025年11月28日",
-    "launchLocation": "<strong>发射地点：</strong>印度斯里哈里科塔岛萨蒂什·达万航天中心（ISRO）",
+    "launchDate": "<strong>首次发射：</strong>2026年1月16日 — PSLV-C62到达太空但未能部署卫星。轨道神庙在重返大气层时烧毁。",
+    "nextLaunch": "<strong>下次发射：</strong>新发射日期待公布。备用卫星已准备就绪。",
     "satellite": "<strong>卫星：</strong> 1P PocketQube，50x58x64毫米，245克",
-    "orbit": "<strong>轨道：</strong>高度525公里，太阳同步轨道",
+    "orbit": "<strong>目标轨道：</strong>高度525公里，太阳同步轨道",
     "participation": "<strong>参与方式：</strong>免费，面向全球所有人开放。",
     "namesSent": {
-      "heading": "<strong>送入轨道的名称：</strong>",
+      "heading": "<strong>等待升天的名字：</strong>",
       "caption": "<em>实时统计数据已从数据库更新 • 上次刷新时间：{date}</em>"
     }
   },
@@ -50,7 +51,7 @@
   },
   "team": {
     "heading": "团队",
-    "content": "Orbital Temple 是与 、Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister、Pedro Vidigal 合作创建的Tatiane Putti、Rafael Fernandes、Bruna Cairo、Solid Concepts、RiseNY&Partners、IdeaSpace 以及所有继续为这座寺庙建议名称的人。"
+    "content": "轨道神庙是与Pedro Kaled、João Pedro Polito、Victor Baptista、João Victor Alves、André Biagioni、VK、Jonathan Querubina、Guilherme Bullejos、Eduardo Dias、Roberta Savian Rosa、Clara Marques、Daphne Alves、Flavio Vidigal、Andre Holzmeister、Pedro Vidigal、Tatiane Putti、Rafael Fernandes、Bruna Cairo、Gabriela Veiga、Marcello Dantas、Anne Valls、Matias Campos Abad、Samuel Levy、Bella Nardini、Leigh Pennington、Nima Gardideh，以及所有继续向这座神庙发送名字的人合作创建的。"
   },
   "pressCoverage": {
     "heading": "媒体报道/专题报道",
@@ -97,8 +98,7 @@
       "classification": "分类：1P PocketQube",
       "weight": "重量：245克",
       "materials": "材料：铝、金、玻璃纤维、电子元件",
-      "orbit": "轨道：高度 525 ± 25 公里；倾角：太阳同步轨道倾角 97.6 ± 0.1°",
-      "launch": "发射日期：2025年11月28日，由印度空间研究组织（ISRO）发射。"
+      "orbit": "目标轨道：高度 525 ± 25 公里；倾角：太阳同步轨道倾角 97.6 ± 0.1°"
     },
     "antenna": {
       "heading": "天线/雕塑",
@@ -109,7 +109,7 @@
     "radio": {
       "heading": "无线电技术规格",
       "downlink": "下行链路：437 MHz",
-      "status": "发布状态：计划于2025年11月28日发布"
+      "status": "状态：等待新发射"
     }
   },
   "additionalResources": {

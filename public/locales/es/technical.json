@@ -3,7 +3,7 @@
   "heading": "Información técnica",
   "satellite": {
     "heading": "Satélite",
-    "specs": "Dimensiones: 50 x 58 x 64 mm<br /> 1P PocketQube<br /> Peso: 245 gramos<br /> Materiales: aluminio, oro, fibra de vidrio y componentes electrónicos.<br /> Órbita: Altitud 525 ± 25 km; inclinación: SSO 97,6 ± 0,1°<br /> Lanzador: PSLV (Vehículo de Lanzamiento de Satélites Polares) operado por la ISRO"
+    "specs": "Dimensiones: 50 x 58 x 64 mm<br /> 1P PocketQube<br /> Peso: 245 gramos<br /> Materiales: aluminio, oro, fibra de vidrio y componentes electrónicos.<br /> Órbita objetivo: Altitud 525 ± 25 km; inclinación: SSO 97,6 ± 0,1°<br /> Lanzador: Por anunciar"
   },
   "antenna": {
     "heading": "Antena/Escultura",
@@ -11,7 +11,7 @@
   },
   "radio": {
     "heading": "Especificaciones de la radio",
-    "specs": "Enlace descendente: 468,5 MHz<br /> Modulación: CSS<br /> Ancho de banda: Por determinar"
+    "specs": "Enlace descendente: 437 MHz<br /> Modulación: CSS<br /> Estado: Esperando nuevo lanzamiento"
   },
   "imageAlt": "Satélite del Templo Orbital"
 }

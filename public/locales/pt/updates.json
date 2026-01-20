@@ -1,0 +1,33 @@
+{
+  "title": "Atualizações - Templo Orbital",
+  "heading": "Atualizações",
+  "readIn": "Ler em",
+  "latestUpdate": "Última Atualização",
+  "updates": {
+    "fire-and-ashes": {
+      "date": "20 de janeiro de 2026",
+      "title": "Fogo e Cinzas",
+      "content": {
+        "greeting": "Olá do artista,",
+        "opening": "Quando você empurra os limites, às vezes os limites empurram de volta.",
+        "launch": "Em 16 de janeiro de 2026, o Templo Orbital foi lançado ao espaço. Estava a bordo do PSLV-C62. Um lendário foguete indiano com mais de 60 lançamentos bem-sucedidos.",
+        "different": "Mas desta vez, a história foi diferente.",
+        "failure": "O foguete decolou belíssimo e alcançou o espaço. Mas no estágio final, perdeu o controle. Falhou em liberar os satélites. Nosso templo ficou no espaço por apenas 10 minutos. Depois caiu de volta. Queimou em cinzas ao entrar na atmosfera.",
+        "whatNow": "E agora? Eu sou brasileiro. Nós não desistimos nunca.",
+        "backup": "Já temos um satélite reserva pronto para um novo lançamento. Estamos conversando com agências espaciais e empresas privadas. Estamos encontrando um novo foguete para nosso projeto.",
+        "community": "O espaço é difícil. Mas já somos 19.078 de nós que enviaram nomes. De todo o mundo, pessoas que responderam a este convite. Estamos olhando para o céu de um jeito diferente.",
+        "seeking": "Você será o primeiro a saber quando uma nova data for confirmada. Seu nome ainda está conosco. Esperando seu momento.",
+        "thanks": "Obrigado por caminhar este caminho comigo.",
+        "signature": "Com amor,",
+        "name": "Edson Pavoni"
+      }
+    }
+  },
+  "support": {
+    "heading": "Apoie a missão",
+    "text": "Enviar nomes para o Templo Orbital será sempre gratuito. Como um projeto de arte independente, contamos com seu apoio. Se você quiser ajudar, você pode fazer uma doação aqui:"
+  },
+  "follow": {
+    "heading": "Acompanhe a jornada do Templo Orbital"
+  }
+}

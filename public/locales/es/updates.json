@@ -1,0 +1,33 @@
+{
+  "title": "Actualizaciones - Templo Orbital",
+  "heading": "Actualizaciones",
+  "readIn": "Leer en",
+  "latestUpdate": "Última Actualización",
+  "updates": {
+    "fire-and-ashes": {
+      "date": "20 de enero de 2026",
+      "title": "Fuego y Cenizas",
+      "content": {
+        "greeting": "Hola del artista,",
+        "opening": "Cuando sigues empujando los límites, a veces los límites empujan de vuelta.",
+        "launch": "El 16 de enero de 2026, el Templo Orbital fue lanzado al espacio. Estaba a bordo del PSLV-C62. Un legendario cohete indio con más de 60 lanzamientos exitosos.",
+        "different": "Pero esta vez, la historia fue diferente.",
+        "failure": "El cohete despegó hermosamente y llegó al espacio. Pero en la etapa final, perdió el control. No logró desplegar los satélites. Nuestro templo estuvo en el espacio solo 10 minutos. Luego cayó de vuelta. Se quemó en cenizas al entrar en nuestra atmósfera.",
+        "whatNow": "¿Y ahora qué? Soy brasileño. No nos rendimos. Ahora, lo hacemos de nuevo.",
+        "backup": "Ya tenemos un satélite de respaldo listo. Estamos hablando con agencias espaciales y empresas privadas. Estamos encontrando un nuevo cohete para nuestro proyecto.",
+        "community": "El espacio es difícil. Pero ya somos 19,078 de nosotros que enviamos nombres. De todo el mundo, personas han respondido a esta invitación. Estamos mirando el cielo de manera diferente.",
+        "seeking": "Serás el primero en saber cuando se confirme una nueva fecha. Tu nombre todavía está con nosotros. Está esperando su momento.",
+        "thanks": "Gracias por caminar este camino conmigo.",
+        "signature": "Con amor,",
+        "name": "Edson Pavoni"
+      }
+    }
+  },
+  "support": {
+    "heading": "Apoya la misión",
+    "text": "Enviar nombres al Templo Orbital siempre será gratis. Como proyecto de arte independiente, dependemos de tu apoyo. Si te gustaría ayudar, puedes hacer una donación deducible de impuestos aquí:"
+  },
+  "follow": {
+    "heading": "Sigue el viaje"
+  }
+}

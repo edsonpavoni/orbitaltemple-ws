@@ -1,14 +1,13 @@
 {
   "title": "Space Launch - Orbital Temple",
   "heading": "Space Launch",
-  "intro": "Orbital Temple will launch from India aboard ISRO's PSLV-C62 rocket (Polar Satellite Launch Vehicle). ISRO has officially published the NOTAM confirming the launch window from December 25, 2025 to January 23, 2026.",
-  "partnership": "The Orbital Temple launch is a partnership between NewSpace India Limited (NSIL), a Government of India Company under Department of Space, Antrix Corporation, and the artist. This collaboration represents a significant milestone for art in space exploration, bringing together India's space program with an artistic vision of radical inclusivity.",
-  "risks": {
-    "heading": "Risks",
-    "paragraph1": "The satellite was built to endure extreme vibration conditions and thermal cycles, and has undergone rigorous testing. However, space launches carry inherent risks. If the satellite is damaged during launch or deployment, or if it fails to establish communication with our ground stations, we will work to troubleshoot and resolve any issues. The satellite has redundant systems and backup protocols designed to maximize the chances of mission success.",
-    "paragraph2": "Additionally, the satellite may stay in orbit for less than 10 years if atmospheric conditions or other factors cause earlier orbital decay. While we have designed it to last at least a decade, the actual lifespan depends on conditions we cannot fully control.",
-    "paragraph3": "If the first launch fails, or if we are unable to accomplish this mission as planned, we will explore alternative paths forward, potentially including a second launch attempt with available budget, partnership with other missions, or documentation of the attempt as part of the artwork's narrative about aspiration and limitation."
+  "intro": "On January 16, 2026, the Orbital Temple was aboard ISRO's PSLV-C62 rocket. The rocket launched successfully, but did not deploy its satellites. The Orbital Temple did not reach orbit.",
+  "status": {
+    "heading": "What happens now",
+    "paragraph1": "We are working on a new launch opportunity. The date is not yet confirmed.",
+    "paragraph2": "Temples take time to build. Some took centuries. The Orbital Temple carries the names of those who believed in it, and that commitment remains. We will try again."
   },
+  "partnership": "The first Orbital Temple launch was a partnership between NewSpace India Limited (NSIL), a Government of India Company under Department of Space, Antrix Corporation, and the artist. This collaboration represented a significant milestone for art in space exploration, bringing together India's space program with an artistic vision of radical inclusivity. We are now exploring new launch opportunities.",
   "imageAlts": {
     "india": "ISRO Space Center, India",
     "satellite": "Orbital Temple Satellite"

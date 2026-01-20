@@ -7,8 +7,9 @@
   },
   "aboutProject": {
     "heading": "Acerca del proyecto",
-    "paragraph1": "Orbital Temple es una obra de arte y un satélite que aspira a ser un templo radicalmente inclusivo, construido donde ningún muro puede llegar. Creado por el artista brasileño Edson Pavoni, autor del Memorial Inuméraveis, que llegó a uno de cada seis brasileños durante la pandemia de COVID-19, el proyecto invita a personas de todo el mundo a enviar el nombre de alguien a quien deseen recordar. Estos nombres se transmiten a un satélite en órbita, creando un memorial colectivo.",
-    "paragraph2": "A través de una página web disponible en 136 idiomas, los participantes se involucran en un nuevo tipo de ritual. El Templo Orbital explora temas de inclusión, memoria y nuestra humanidad compartida, cuestionando por qué ningún templo físico en la Tierra puede acoger verdaderamente a todos y proponiendo el espacio como el único lugar donde podría existir una inclusión radical."
+    "paragraph1": "Orbital Temple es una obra de arte y un satélite que aspira a ser un templo radicalmente inclusivo, construido donde ningún muro puede llegar. Creado por el artista brasileño Edson Pavoni, autor del Memorial Inuméraveis, que llegó a uno de cada seis brasileños durante la pandemia de COVID-19, el proyecto invita a personas de todo el mundo a enviar el nombre de alguien a quien deseen recordar. Estos nombres serán transmitidos a un satélite en órbita, creando un memorial colectivo.",
+    "paragraph2": "A través de una página web disponible en 136 idiomas, los participantes se involucran en un nuevo tipo de ritual. El Templo Orbital explora temas de inclusión, memoria y nuestra humanidad compartida, cuestionando por qué ningún templo físico en la Tierra puede acoger verdaderamente a todos y proponiendo el espacio como el único lugar donde podría existir una inclusión radical.",
+    "paragraph3": "El 16 de enero de 2026, el primer satélite del Templo Orbital estaba a bordo del cohete PSLV-C62 de ISRO. El cohete llegó al espacio pero falló en su etapa final, y el satélite se quemó al reingresar. Un satélite de respaldo está listo y se está planificando un nuevo lanzamiento."
   },
   "aboutArtist": {
     "heading": "Acerca del artista",
@@ -21,13 +22,13 @@
     "heading": "Datos clave",
     "artist": "<strong>Artista:</strong> Edson Pavoni (Brasil)",
     "projectType": "<strong>Tipo de proyecto:</strong> Obra de arte satelital, específica para el espacio, ritual basado en la web",
-    "launchDate": "<strong>Fecha de lanzamiento:</strong> 28 de noviembre de 2025",
-    "launchLocation": "<strong>Lugar de lanzamiento:</strong> Centro Espacial Satish Dhawan, Sriharikota, India (ISRO)",
+    "launchDate": "<strong>Primer lanzamiento:</strong> 16 de enero de 2026 — PSLV-C62 llegó al espacio pero no desplegó los satélites. El Templo Orbital se quemó al reingresar.",
+    "nextLaunch": "<strong>Próximo lanzamiento:</strong> Nueva fecha por anunciar. Un satélite de respaldo está listo.",
     "satellite": "<strong>Satélite:</strong> 1P PocketQube, 50 x 58 x 64 mm, 245 g",
-    "orbit": "<strong>Órbita:</strong> altitud de 525 km, heliosíncrona",
+    "orbit": "<strong>Órbita objetivo:</strong> altitud de 525 km, heliosíncrona",
     "participation": "<strong>Participación:</strong> Gratuita, abierta a todo el mundo.",
     "namesSent": {
-      "heading": "<strong>Nombres enviados a la órbita:</strong>",
+      "heading": "<strong>Nombres en cola para ascensión:</strong>",
       "caption": "<em>Recuento en vivo actualizado desde la base de datos • Última actualización: {fecha}</em>"
     }
   },
@@ -50,7 +51,7 @@
   },
   "team": {
     "heading": "Equipo",
-    "content": "Orbital Temple se crea en colaboración con Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace y todos aquellos que siguen sugiriendo nombres para este templo."
+    "content": "Orbital Temple se crea en colaboración con Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, Leigh Pennington, Nima Gardideh, y todos aquellos que siguen enviando nombres a este templo."
   },
   "pressCoverage": {
     "heading": "Aparece en / Cobertura de prensa",
@@ -97,8 +98,7 @@
       "classification": "Clasificación: 1P PocketQube",
       "weight": "Peso: 245 g",
       "materials": "Materiales: Aluminio, oro, fibra de vidrio, componentes electrónicos",
-      "orbit": "Órbita: Altitud 525 ± 25 km; Inclinación: SSO 97,6 ± 0,1°",
-      "launch": "Lanzamiento: 28 de noviembre de 2025 a través de ISRO, India"
+      "orbit": "Órbita objetivo: Altitud 525 ± 25 km; Inclinación: SSO 97,6 ± 0,1°"
     },
     "antenna": {
       "heading": "Antena/Escultura",
@@ -109,7 +109,7 @@
     "radio": {
       "heading": "Especificaciones de radio",
       "downlink": "Enlace descendente: 437 MHz",
-      "status": "Estado de lanzamiento: Programado para el 28 de noviembre de 2025"
+      "status": "Estado: Esperando nuevo lanzamiento"
     }
   },
   "additionalResources": {

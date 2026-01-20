@@ -2,7 +2,8 @@
   "title": "Cómo funciona - Templo Orbital",
   "heading": "Cómo funciona",
   "intro": "El proyecto del Templo Orbital consta de tres elementos interconectados que trabajan juntos para enviar nombres al templo en el espacio.",
-  "paragraph1": "El satélite orbita la Tierra a una altitud aproximada de 525 km, almacenando los nombres en su memoria. Las estaciones terrestres se comunican con el satélite durante sus pasadas, transmitiendo los nombres que las personas han enviado a través del sitio web.",
-  "paragraph2": "Al enviar un nombre, este se añade a una cola y se transmitirá al satélite en el próximo paso disponible. Recibirás un correo electrónico de confirmación cuando tu nombre se haya cargado correctamente al Templo Orbital.",
+  "paragraph1": "Una vez lanzado, el satélite orbitará la Tierra a una altitud aproximada de 525 km, almacenando los nombres en su memoria. Las estaciones terrestres se comunicarán con el satélite durante sus pasadas, transmitiendo los nombres que las personas han enviado a través del sitio web.",
+  "paragraph2": "Al enviar un nombre, este se añade a una cola. Después de que el satélite alcance la órbita, tu nombre será transmitido durante una pasada disponible. Recibirás un correo electrónico de confirmación cuando tu nombre se haya cargado correctamente al Templo Orbital.",
+  "paragraph3": "El 16 de enero de 2026, el primer satélite estaba a bordo del PSLV-C62 de ISRO. El cohete llegó al espacio pero falló en desplegar su carga útil. Un satélite de respaldo está listo, y estamos trabajando en un nuevo lanzamiento.",
   "imageAlt": "Diagrama del sistema de templos orbitales"
 }

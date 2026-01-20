@@ -7,8 +7,9 @@
   },
   "aboutProject": {
     "heading": "About the Project",
-    "paragraph1": "Orbital Temple is an artwork and a satellite that aims to be a radically inclusive temple, built where no walls can reach. Created by Brazilian artist Edson Pavoni, the artist behind the Inumeráveis Memorial that reached 1 in each 6 Brazilians during the COVID pandemic, the project invites people from around the world to send the name of someone they wish to remember. These names are transmitted to a satellite in orbit, creating a collective memorial.",
-    "paragraph2": "Through a website available in 136 languages, participants engage in a new kind of ritual. The Orbital Temple explores themes of inclusion, memory, and our shared humanity, questioning why no physical temple on Earth can truly welcome everyone, and proposing space as the only place where radical inclusivity might exist."
+    "paragraph1": "Orbital Temple is an artwork and a satellite that aims to be a radically inclusive temple, built where no walls can reach. Created by Brazilian artist Edson Pavoni, the artist behind the Inumeráveis Memorial that reached 1 in each 6 Brazilians during the COVID pandemic, the project invites people from around the world to send the name of someone they wish to remember. These names will be transmitted to a satellite in orbit, creating a collective memorial.",
+    "paragraph2": "Through a website available in 136 languages, participants engage in a new kind of ritual. The Orbital Temple explores themes of inclusion, memory, and our shared humanity, questioning why no physical temple on Earth can truly welcome everyone, and proposing space as the only place where radical inclusivity might exist.",
+    "paragraph3": "On January 16, 2026, the first Orbital Temple satellite was aboard ISRO's PSLV-C62 rocket. The rocket reached space but failed in its final stage, and the satellite burned up on re-entry. A backup satellite is ready, and a new launch is being planned."
   },
   "aboutArtist": {
     "heading": "About the Artist",
@@ -21,13 +22,13 @@
     "heading": "Key Facts",
     "artist": "<strong>Artist:</strong> Edson Pavoni (Brazil)",
     "projectType": "<strong>Project Type:</strong> Satellite artwork, site-specific on space, web-based ritual",
-    "launchDate": "<strong>Launch Window:</strong> December 25, 2025 – January 23, 2026 (ISRO NOTAM confirmed)",
-    "launchLocation": "<strong>Launch Location:</strong> Satish Dhawan Space Centre, Sriharikota, India (ISRO PSLV-C62)",
+    "launchDate": "<strong>First Launch:</strong> January 16, 2026 — PSLV-C62 reached space but failed to deploy satellites. The Orbital Temple burned up on re-entry.",
+    "nextLaunch": "<strong>Next Launch:</strong> New launch date to be announced. A backup satellite is ready.",
     "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
-    "orbit": "<strong>Orbit:</strong> 525km altitude, Sun-synchronous",
+    "orbit": "<strong>Target Orbit:</strong> 525km altitude, Sun-synchronous",
     "participation": "<strong>Participation:</strong> Free, open to everyone globally",
     "namesSent": {
-      "heading": "<strong>Names Sent to Orbit:</strong>",
+      "heading": "<strong>Names Queued for Ascension:</strong>",
       "caption": "<em>Live count updated from database • Last refreshed: {date}</em>"
     }
   },
@@ -50,7 +51,7 @@
   },
   "team": {
     "heading": "Team",
-    "content": "Orbital Temple is created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Solid Concepts, RiseNY&Partners, IdeaSpace, and all those who continue to send names to this temple."
+    "content": "Orbital Temple is created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, Leigh Pennington, Nima Gardideh, and all those who continue to send names to this temple."
   },
   "pressCoverage": {
     "heading": "Featured In / Press Coverage",
