@@ -1,7 +1,27 @@
+import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
 export default function FooterCredits() {
   const { t, ready } = useTranslation('common');
+  const [nameCount, setNameCount] = useState<number | null>(null);
+
+  useEffect(() => {
+    const fetchCachedCount = async () => {
+      try {
+        const response = await fetch('https://us-central1-orbital-temple.cloudfunctions.net/getCachedNameCount');
+        if (response.ok) {
+          const data = await response.json();
+          if (data.success && data.total) {
+            setNameCount(data.total);
+          }
+        }
+      } catch (err) {
+        console.error('Error fetching cached name count:', err);
+      }
+    };
+
+    fetchCachedCount();
+  }, []);
 
   if (!ready) {
     return null;
@@ -17,7 +37,7 @@ export default function FooterCredits() {
       margin: '0 auto',
       textAlign: 'left'
     }}>
-      {t('footer.credits')}
+      {t('footer.credits', { count: nameCount ? nameCount.toLocaleString() : '...' })}
     </p>
   );
 }

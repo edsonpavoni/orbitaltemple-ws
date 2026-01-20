@@ -2,6 +2,7 @@
   "nav": {
     "theArtwork": "la obra de arte",
     "sendAName": "enviar un nombre",
+    "updates": "actualizaciones",
     "fromTheArtist": "del artista",
     "yetAnotherTemple": "¿otro templo más?",
     "howItWorks": "cómo funciona",
@@ -20,6 +21,6 @@
     "ariaLabel": "Participa en el ritual: envía un nombre al Templo Orbital."
   },
   "footer": {
-    "credits": "Templo Orbital es una obra de arte de Edson Pavoni, creada en colaboración con Pedro Kaled, João Pedro Polito, Victor Baptista & João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques y todos aquellos que continúan enviando nombres a este templo."
+    "credits": "Templo Orbital es una obra de arte de Edson Pavoni, creada en colaboración con Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, Leigh Pennington, Nima Gardideh, y las {{count}} personas que ya han enviado nombres a este templo."
   }
 }

@@ -932,6 +932,149 @@ export const witnessReport = functions.https.onRequest(async (req, res) => {
   }
 });
 
+// =============================================================================
+// UNSUBSCRIBE FUNCTIONS
+// =============================================================================
+
+/**
+ * HTTP endpoint to unsubscribe an email from updates
+ * POST /unsubscribe
+ * Body: { email: string, captchaToken: string }
+ */
+export const unsubscribe = functions.https.onRequest(async (req, res) => {
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  if (req.method !== "POST") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const {email, captchaToken} = req.body;
+
+    // Validate email
+    if (!email || typeof email !== "string" || !isValidEmail(email)) {
+      res.status(400).json({error: "Valid email is required"});
+      return;
+    }
+
+    // Validate captcha token
+    if (!captchaToken || typeof captchaToken !== "string") {
+      res.status(400).json({error: "Captcha verification is required"});
+      return;
+    }
+
+    // Verify reCAPTCHA token with Google
+    const recaptchaSecret = process.env.RECAPTCHA_SECRET_KEY;
+    if (!recaptchaSecret) {
+      functions.logger.error("RECAPTCHA_SECRET_KEY not configured");
+      res.status(500).json({error: "Server configuration error"});
+      return;
+    }
+
+    const recaptchaResponse = await fetch(
+      `https://www.google.com/recaptcha/api/siteverify?secret=${recaptchaSecret}&response=${captchaToken}`,
+      {method: "POST"}
+    );
+    const recaptchaData = await recaptchaResponse.json();
+
+    if (!recaptchaData.success) {
+      functions.logger.warn("reCAPTCHA verification failed", {email, recaptchaData});
+      res.status(400).json({error: "Captcha verification failed. Please try again."});
+      return;
+    }
+
+    const cleanEmail = email.trim().toLowerCase();
+
+    // Check if already unsubscribed
+    const existingSnapshot = await admin.firestore()
+      .collection("unsubscribed")
+      .where("email", "==", cleanEmail)
+      .limit(1)
+      .get();
+
+    if (!existingSnapshot.empty) {
+      res.status(200).json({
+        success: true,
+        message: "Email already unsubscribed",
+      });
+      return;
+    }
+
+    // Add to unsubscribed collection
+    await admin.firestore().collection("unsubscribed").add({
+      email: cleanEmail,
+      unsubscribedAt: admin.firestore.Timestamp.now(),
+      ipAddress: req.headers["x-forwarded-for"] as string ||
+                 req.headers["x-real-ip"] as string ||
+                 req.connection.remoteAddress ||
+                 "unknown",
+    });
+
+    functions.logger.info("Email unsubscribed", {email: cleanEmail});
+
+    res.status(200).json({
+      success: true,
+      message: "Successfully unsubscribed",
+    });
+  } catch (error) {
+    functions.logger.error("Error processing unsubscribe", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
+/**
+ * HTTP endpoint to check if an email is unsubscribed
+ * GET /checkUnsubscribed?email=xxx
+ */
+export const checkUnsubscribed = functions.https.onRequest(async (req, res) => {
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "GET, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  if (req.method !== "GET") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    const email = req.query.email as string;
+
+    if (!email || !isValidEmail(email)) {
+      res.status(400).json({error: "Valid email is required"});
+      return;
+    }
+
+    const cleanEmail = email.trim().toLowerCase();
+
+    const snapshot = await admin.firestore()
+      .collection("unsubscribed")
+      .where("email", "==", cleanEmail)
+      .limit(1)
+      .get();
+
+    res.status(200).json({
+      success: true,
+      unsubscribed: !snapshot.empty,
+    });
+  } catch (error) {
+    functions.logger.error("Error checking unsubscribed status", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
+
 /**
  * Helper function to add entry to witness activity log
  */
@@ -963,3 +1106,99 @@ async function addWitnessLog(source: string, message: string, type: string = "in
     functions.logger.error("Error adding witness log entry", error);
   }
 }
+
+// =============================================================================
+// CACHED NAME COUNT FUNCTIONS
+// =============================================================================
+
+/**
+ * Helper function to update the cached name count in Firestore
+ */
+async function updateCachedNameCount(): Promise<{total: number; updatedAt: number}> {
+  const namesCollection = admin.firestore().collection("names");
+
+  // Get total count
+  const totalSnapshot = await namesCollection.count().get();
+  const total = totalSnapshot.data().count;
+
+  const cacheData = {
+    total: total,
+    updatedAt: Date.now(),
+  };
+
+  // Store in Firestore cache
+  await admin.firestore().collection("cache").doc("nameCount").set(cacheData);
+
+  functions.logger.info("Name count cache updated", {total, updatedAt: cacheData.updatedAt});
+
+  return cacheData;
+}
+
+/**
+ * Scheduled function to update name count cache every hour
+ * Runs at minute 0 of every hour
+ */
+export const updateNameCountCache = functions.pubsub
+  .schedule("0 * * * *")
+  .timeZone("UTC")
+  .onRun(async () => {
+    try {
+      await updateCachedNameCount();
+      functions.logger.info("Scheduled name count cache update completed");
+    } catch (error) {
+      functions.logger.error("Error in scheduled name count cache update", error);
+    }
+  });
+
+/**
+ * HTTP endpoint to get cached name count (for footer credits)
+ * GET /getCachedNameCount
+ * Returns cached count that updates hourly, much lighter on the database
+ */
+export const getCachedNameCount = functions.https.onRequest(async (req, res) => {
+  // Enable CORS
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Access-Control-Allow-Methods", "GET, OPTIONS");
+  res.set("Access-Control-Allow-Headers", "Content-Type");
+
+  // Handle preflight request
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
+  // Only accept GET requests
+  if (req.method !== "GET") {
+    res.status(405).json({error: "Method not allowed"});
+    return;
+  }
+
+  try {
+    // Try to get cached count
+    const cacheDoc = await admin.firestore().collection("cache").doc("nameCount").get();
+
+    if (cacheDoc.exists) {
+      const cacheData = cacheDoc.data();
+      res.status(200).json({
+        success: true,
+        total: cacheData?.total || 0,
+        updatedAt: cacheData?.updatedAt || 0,
+        cached: true,
+      });
+      return;
+    }
+
+    // Cache doesn't exist, create it
+    const freshData = await updateCachedNameCount();
+
+    res.status(200).json({
+      success: true,
+      total: freshData.total,
+      updatedAt: freshData.updatedAt,
+      cached: false,
+    });
+  } catch (error) {
+    functions.logger.error("Error fetching cached name count", error);
+    res.status(500).json({error: "Internal server error"});
+  }
+});
