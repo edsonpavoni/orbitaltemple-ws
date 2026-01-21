@@ -57,10 +57,10 @@ export default function MenuContent() {
           </a>
         </h2>
         <h2 style={{ fontSize: 'var(--text-display-md)', lineHeight: 'var(--text-display-md-lh)', fontWeight: 700, margin: 0 }}>
-          <a href={localePath('/#dome')} style={linkStyle} onClick={handleLinkClick}
+          <a href={localePath('/updates')} style={linkStyle} onClick={handleLinkClick}
              onMouseOver={(e) => e.currentTarget.style.color = 'var(--color-ot-gold300)'}
              onMouseOut={(e) => e.currentTarget.style.color = 'var(--color-ot-gold600)'}>
-            {t('nav.fromTheArtist')}
+            {t('nav.updates')}
           </a>
         </h2>
       </div>

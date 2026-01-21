@@ -1,9 +1,6 @@
-import { useState, useEffect } from 'react';
 import { SUPPORTED_LANGUAGES } from '../lib/i18n';
 
 export default function CountdownPill() {
-  const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
-
   // Get current language from URL path
   const getCurrentLang = () => {
     if (typeof window === 'undefined') return 'en';
@@ -14,31 +11,6 @@ export default function CountdownPill() {
   };
 
   const lang = getCurrentLang();
-
-  useEffect(() => {
-    // January 12, 2026 at 10:17 AM IST (04:47 UTC)
-    const launchDate = new Date('2026-01-12T04:47:00Z');
-
-    const calculateTimeLeft = () => {
-      const now = new Date();
-      const difference = launchDate.getTime() - now.getTime();
-
-      if (difference > 0) {
-        setTimeLeft({
-          days: Math.floor(difference / (1000 * 60 * 60 * 24)),
-          hours: Math.floor((difference / (1000 * 60 * 60)) % 24),
-          minutes: Math.floor((difference / 1000 / 60) % 60),
-          seconds: Math.floor((difference / 1000) % 60),
-        });
-      }
-    };
-
-    calculateTimeLeft();
-    const timer = setInterval(calculateTimeLeft, 1000);
-    return () => clearInterval(timer);
-  }, []);
-
-  const pad = (n: number) => String(n).padStart(2, '0');
 
   return (
     <>
@@ -85,14 +57,14 @@ export default function CountdownPill() {
           letterSpacing: '0.1em',
           color: '#ffffff',
         }}>
-          Ascends to space in
+          Mission Update
         </span>
         <span style={{
-          fontSize: '18px',
-          fontWeight: 600,
+          fontSize: '16px',
+          fontWeight: 500,
           color: '#ffffff',
         }}>
-          {timeLeft.days}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px', marginRight: '8px' }}>days</span>{pad(timeLeft.hours)}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px', marginRight: '8px' }}>hours</span>{pad(timeLeft.minutes)}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px', marginRight: '8px' }}>mins</span>{pad(timeLeft.seconds)}<span style={{ fontSize: '12px', fontWeight: 400, opacity: 0.7, marginLeft: '3px' }}>secs</span>
+          New launch date TBA
         </span>
       </a>
       </div>

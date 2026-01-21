@@ -26,21 +26,17 @@ export default function SpaceLaunchContent() {
 
       <p className="body-text body-text--section-end" dangerouslySetInnerHTML={{ __html: t('partnership') }} />
 
-      {/* Risks Section */}
+      {/* Status Section */}
       <h2 className="section-heading" style={{ marginTop: '72px' }}>
-        {t('risks.heading')}
+        {t('status.heading')}
       </h2>
 
       <p className="body-text">
-        {t('risks.paragraph1')}
-      </p>
-
-      <p className="body-text">
-        {t('risks.paragraph2')}
+        {t('status.paragraph1')}
       </p>
 
       <p className="body-text body-text--section-end">
-        {t('risks.paragraph3')}
+        {t('status.paragraph2')}
       </p>
 
       {/* Satellite Image */}
