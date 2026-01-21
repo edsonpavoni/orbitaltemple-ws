@@ -25,6 +25,18 @@
       "**/.*",
       "**/node_modules/**"
     ],
+    "redirects": [
+      {
+        "source": "/updates",
+        "destination": "/en/updates",
+        "type": 302
+      },
+      {
+        "source": "/unsubscribe",
+        "destination": "/en/unsubscribe",
+        "type": 302
+      }
+    ],
     "rewrites": [
       {
         "source": "/satellite",
