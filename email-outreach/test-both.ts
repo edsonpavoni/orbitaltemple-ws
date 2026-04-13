@@ -175,7 +175,7 @@ async function main() {
 
   if (enSuccess && ptSuccess) {
     console.log('💡 Next step: Review the emails and run the full campaign:');
-    console.log('   RESEND_API_KEY=REDACTED_RESEND_KEY npx tsx send-launch-emails.ts\n');
+    console.log('   RESEND_API_KEY=YOUR_RESEND_API_KEY npx tsx send-launch-emails.ts\n');
   }
 }
 

@@ -24,13 +24,13 @@ npm install resend
 Create `.env` file:
 
 ```bash
-echo "RESEND_API_KEY=REDACTED_RESEND_KEY" > .env
+echo "RESEND_API_KEY=YOUR_RESEND_API_KEY" > .env
 ```
 
 ### Step 3: Send the Emails! (About 2 hours for 12K emails)
 
 ```bash
-RESEND_API_KEY=REDACTED_RESEND_KEY npx tsx send-launch-emails.ts
+RESEND_API_KEY=YOUR_RESEND_API_KEY npx tsx send-launch-emails.ts
 ```
 
 **That's it!** The script will:

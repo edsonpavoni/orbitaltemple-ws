@@ -20,7 +20,6 @@
 		"@google-cloud/translate": "^9.2.1",
 		"@playwright/test": "^1.56.1",
 		"astro": "^5.14.5",
-		"deepl-node": "^1.20.0",
 		"dotenv": "^17.2.3",
 		"tsx": "^4.20.6"
 	},
@@ -32,9 +31,6 @@
 		"test": "playwright test",
 		"test:ui": "playwright test --ui",
 		"test:report": "playwright show-report",
-		"translate": "tsx scripts/translate.ts",
-		"translate:lang": "tsx scripts/translate.ts --lang",
-		"translate:force": "tsx scripts/translate.ts --force",
 		"translate:google": "tsx scripts/translate-google.ts",
 		"translate:google:lang": "tsx scripts/translate-google.ts --lang",
 		"translate:google:all": "tsx scripts/translate-google.ts --all246"
