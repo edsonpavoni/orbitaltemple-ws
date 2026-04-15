@@ -48,3 +48,6 @@ functions/service-account-key.json
 # Sensitive data files
 *.csv
 names_e-mails_*.csv
+email-outreach/*.txt
+email-outreach/sent-emails.txt
+email-outreach/batch-send-log.txt

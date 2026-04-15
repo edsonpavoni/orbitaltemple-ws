@@ -39,6 +39,10 @@
     ],
     "rewrites": [
       {
+        "source": "/api/schedule",
+        "function": "schedule"
+      },
+      {
         "source": "/satellite",
         "destination": "/satellite.html"
       },

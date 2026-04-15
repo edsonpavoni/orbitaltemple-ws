@@ -5,6 +5,9 @@ import {Resend} from "resend";
 // Initialize Firebase Admin
 admin.initializeApp();
 
+// Orbital Witness schedule API (see src/schedule.ts)
+export {schedule} from "./schedule";
+
 // Helper functions
 function isValidEmail(email: string): boolean {
   if (!email) return false;
