@@ -12,9 +12,9 @@ Root cause: the Firebase project was downgraded from **Blaze to the Spark (free)
 
 The lesson: **the site looking fine is not evidence the backend is fine.** Hosting is static and survives almost anything.
 
-## The check: `/healthz`
+## The check: `/healthCheck`
 
-`https://us-central1-orbital-temple.cloudfunctions.net/healthz`
+`https://us-central1-orbital-temple.cloudfunctions.net/healthCheck`
 
 Returns **200** only when the backend is genuinely healthy. Returns **503** otherwise, with a `reason`:
 
@@ -28,18 +28,18 @@ The staleness check is the important one. `updateNameCountCache` runs hourly via
 
 **A plain "is it up" probe would have stayed green through this entire outage.** Freshness is what catches it.
 
-One honest limitation: when functions are down, `/healthz` is down too, so it can't report *why*. That's fine — the external monitor sees the failure either way. Don't expect a useful error payload in the worst case.
+One honest limitation: when functions are down, `/healthCheck` is down too, so it can't report *why*. That's fine — the external monitor sees the failure either way. Don't expect a useful error payload in the worst case.
 
 ## Setup: UptimeRobot (free tier)
 
-> **Order matters: deploy before configuring the monitor.** `/healthz` only exists once `firebase deploy --only functions` has run. Pointing UptimeRobot at it beforehand produces an immediate, permanent alert on an endpoint that was never deployed — which reads as "the monitor is broken" and gets it switched off.
+> **Order matters: deploy before configuring the monitor.** `/healthCheck` only exists once `firebase deploy --only functions` has run. Pointing UptimeRobot at it beforehand produces an immediate, permanent alert on an endpoint that was never deployed — which reads as "the monitor is broken" and gets it switched off.
 
 The monitor must live **outside** this Firebase project. The failure mode was "Google turned this project off", so a Google Cloud Monitoring check billed to the same project is a smoke detector wired to the burning building.
 
 1. Create an account at <https://uptimerobot.com> (free tier: 50 monitors, 5-minute interval).
 2. Add **Monitor 1 — backend**:
    - Type: `HTTP(s)`
-   - URL: `https://us-central1-orbital-temple.cloudfunctions.net/healthz`
+   - URL: `https://us-central1-orbital-temple.cloudfunctions.net/healthCheck`
    - Interval: 5 minutes
    - Alert when: status code is not 200
 3. Add **Monitor 2 — site**:

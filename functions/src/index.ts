@@ -1219,7 +1219,7 @@ const CACHE_STALE_AFTER_MS = 2 * 60 * 60 * 1000;
 
 /**
  * Public health check for external uptime monitoring.
- * GET /healthz
+ * GET /healthCheck
  *
  * Returns 200 only when the backend is genuinely healthy. This deliberately
  * checks freshness, not just liveness: during the Jul-Aug 2026 outage
@@ -1229,7 +1229,7 @@ const CACHE_STALE_AFTER_MS = 2 * 60 * 60 * 1000;
  * Non-200 here covers, in one signal: functions down (billing detached or plan
  * downgraded), Firestore unreachable, and an orphaned Cloud Scheduler job.
  */
-export const healthz = functions.https.onRequest(async (req, res) => {
+export const healthCheck = functions.https.onRequest(async (req, res) => {
   res.set("Access-Control-Allow-Origin", "*");
   res.set("Cache-Control", "no-store");
 

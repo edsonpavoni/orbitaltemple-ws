@@ -56,7 +56,15 @@ export async function submitNameDirect(params: {
     email: params.email.trim().toLowerCase(),
     language: params.language,
     status: 'pending',
-    createdAt: firestore.serverTimestamp(),
+    // Timestamp.now(), not serverTimestamp(). firestore.rules gates this write
+    // on keys().hasAll([... 'createdAt']), and a server timestamp is sent as a
+    // field transform rather than a literal value, so relying on it here means
+    // relying on how the rules engine treats a sentinel. A concrete Timestamp
+    // is unambiguously present in request.resource.data, and it matches what
+    // submitName writes server-side (admin.firestore.Timestamp.now()).
+    // Cost: this trusts the client clock, which enrichPendingSubmissions could
+    // correct later if it ever matters.
+    createdAt: firestore.Timestamp.now(),
     // Flags for enrichPendingSubmissions: no IP geolocation, no email sent yet.
     needsEnrichment: true,
     confirmationEmailSent: false,
