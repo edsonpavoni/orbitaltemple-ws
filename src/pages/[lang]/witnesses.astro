@@ -29,12 +29,12 @@ if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
       <input
         type="password"
         id="admin-password"
-        placeholder="Password"
+        placeholder="Admin key"
         class="login-input"
         autocomplete="current-password"
       />
       <button id="login-button" class="login-button">Login</button>
-      <div id="login-error" class="login-error" style="display: none;">Incorrect password</div>
+      <div id="login-error" class="login-error" style="display: none;">Incorrect admin key</div>
     </div>
   </div>
 
@@ -369,28 +369,26 @@ if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
 
 <script>
   const FUNCTIONS_URL = 'https://us-central1-orbital-temple.cloudfunctions.net';
-  const ADMIN_PASSWORD_HASH = 'REDACTED-ADMIN-HASH';
-  const AUTH_SESSION_KEY = 'orbital_witnesses_auth';
+  const AUTH_SESSION_KEY = 'orbital_witnesses_key';
 
-  // Authentication
-  async function hashPassword(password: string): Promise<string> {
-    const encoder = new TextEncoder();
-    const data = encoder.encode(password);
-    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-    const hashArray = Array.from(new Uint8Array(hashBuffer));
-    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  // The admin key is typed in at login and verified by the server. It is
+  // never baked into this page. The previous version compared a SHA-256 hash
+  // in the browser, which shipped the hash to every visitor and gated nothing,
+  // since witnessCommand accepted requests without it.
+  function getAdminKey(): string {
+    return sessionStorage.getItem(AUTH_SESSION_KEY) || '';
   }
 
   function isAuthenticated(): boolean {
-    return sessionStorage.getItem(AUTH_SESSION_KEY) === 'true';
+    return getAdminKey() !== '';
   }
 
   function setAuthenticated(value: boolean) {
-    if (value) {
-      sessionStorage.setItem(AUTH_SESSION_KEY, 'true');
-    } else {
-      sessionStorage.removeItem(AUTH_SESSION_KEY);
-    }
+    if (!value) sessionStorage.removeItem(AUTH_SESSION_KEY);
+  }
+
+  function adminHeaders(extra: Record<string, string> = {}): Record<string, string> {
+    return {'x-admin-key': getAdminKey(), ...extra};
   }
 
   async function handleLogin() {
@@ -412,12 +410,14 @@ if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
     loginError.style.display = 'none';
 
     try {
-      const hash = await hashPassword(password);
-      if (hash === ADMIN_PASSWORD_HASH) {
-        setAuthenticated(true);
+      const check = await fetch(`${FUNCTIONS_URL}/getNames?limit=1`, {
+        headers: {'x-admin-key': password.trim()},
+      });
+      if (check.ok) {
+        sessionStorage.setItem(AUTH_SESSION_KEY, password.trim());
         showControlInterface();
       } else {
-        loginError.textContent = 'Incorrect password';
+        loginError.textContent = 'Incorrect admin key';
         loginError.style.display = 'block';
         passwordInput.value = '';
         passwordInput.focus();
@@ -536,7 +536,7 @@ if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
     try {
       const response = await fetch(`${FUNCTIONS_URL}/witnessCommand`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: adminHeaders({ 'Content-Type': 'application/json' }),
         body: JSON.stringify({ action, timestamp: Date.now() })
       });
 

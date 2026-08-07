@@ -7,16 +7,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <div id="login-screen" class="login-screen">
     <div class="login-box">
       <h1>Admin Login</h1>
-      <p style="margin-bottom: 1.5rem; opacity: 0.8;">Enter password to access admin panel</p>
+      <p style="margin-bottom: 1.5rem; opacity: 0.8;">Enter the admin key</p>
       <input
         type="password"
         id="admin-password"
-        placeholder="Password"
+        placeholder="Admin key"
         class="login-input"
         autocomplete="current-password"
       />
       <button id="login-button" class="login-button">Login</button>
-      <div id="login-error" class="login-error" style="display: none;">Incorrect password</div>
+      <div id="login-error" class="login-error" style="display: none;">Incorrect admin key</div>
     </div>
   </div>
 
@@ -603,27 +603,39 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <script>
   const FUNCTIONS_URL = 'https://us-central1-orbital-temple.cloudfunctions.net';
-  const ADMIN_PASSWORD_HASH = 'REDACTED-ADMIN-HASH';
-  const AUTH_SESSION_KEY = 'orbital_admin_auth';
+  const AUTH_SESSION_KEY = 'orbital_admin_key';
 
-  // Authentication functions
-  async function hashPassword(password: string): Promise<string> {
-    const encoder = new TextEncoder();
-    const data = encoder.encode(password);
-    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-    const hashArray = Array.from(new Uint8Array(hashBuffer));
-    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  // The admin key is never baked into this page. It is typed in at login,
+  // verified by the server, and held in sessionStorage for the tab's lifetime.
+  // The previous version compared a SHA-256 hash here in the browser, which
+  // protected nothing: the hash shipped to every visitor, and the endpoints
+  // accepted requests without it anyway.
+  function getAdminKey(): string {
+    return sessionStorage.getItem(AUTH_SESSION_KEY) || '';
   }
 
   function isAuthenticated(): boolean {
-    return sessionStorage.getItem(AUTH_SESSION_KEY) === 'true';
+    return getAdminKey() !== '';
   }
 
   function setAuthenticated(value: boolean) {
-    if (value) {
-      sessionStorage.setItem(AUTH_SESSION_KEY, 'true');
-    } else {
-      sessionStorage.removeItem(AUTH_SESSION_KEY);
+    if (!value) sessionStorage.removeItem(AUTH_SESSION_KEY);
+  }
+
+  // Every privileged request carries the key; the server decides.
+  function adminHeaders(extra: Record<string, string> = {}): Record<string, string> {
+    return {'x-admin-key': getAdminKey(), ...extra};
+  }
+
+  // A 401 means the key is wrong or was revoked. Drop it and re-prompt
+  // rather than leaving the page in a half-broken state.
+  function handleAuthFailure() {
+    sessionStorage.removeItem(AUTH_SESSION_KEY);
+    showLoginScreen();
+    const loginError = document.getElementById('login-error') as HTMLDivElement;
+    if (loginError) {
+      loginError.textContent = 'Session rejected. Enter the admin key again.';
+      loginError.style.display = 'block';
     }
   }
 
@@ -634,10 +646,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     if (!passwordInput || !loginButton || !loginError) return;
 
-    const password = passwordInput.value;
+    const key = passwordInput.value.trim();
 
-    if (!password) {
-      loginError.textContent = 'Please enter a password';
+    if (!key) {
+      loginError.textContent = 'Please enter the admin key';
       loginError.style.display = 'block';
       return;
     }
@@ -647,22 +659,26 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     loginError.style.display = 'none';
 
     try {
-      const hash = await hashPassword(password);
+      // Verify against the server with the cheapest privileged call there is.
+      const response = await fetch(`${FUNCTIONS_URL}/getNames?limit=1`, {
+        headers: {'x-admin-key': key},
+      });
 
-      if (hash === ADMIN_PASSWORD_HASH) {
-        // Correct password
-        setAuthenticated(true);
+      if (response.ok) {
+        sessionStorage.setItem(AUTH_SESSION_KEY, key);
         showAdminInterface();
-      } else {
-        // Incorrect password
-        loginError.textContent = 'Incorrect password';
+      } else if (response.status === 401) {
+        loginError.textContent = 'Incorrect admin key';
         loginError.style.display = 'block';
         passwordInput.value = '';
         passwordInput.focus();
+      } else {
+        loginError.textContent = `Server error (${response.status})`;
+        loginError.style.display = 'block';
       }
     } catch (error) {
       console.error('Login error:', error);
-      loginError.textContent = 'An error occurred';
+      loginError.textContent = 'Could not reach the server';
       loginError.style.display = 'block';
     } finally {
       loginButton.disabled = false;
@@ -752,7 +768,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     try {
       // Build URL with limit parameter if provided
       const url = limit ? `${FUNCTIONS_URL}/getNames?limit=${limit}` : `${FUNCTIONS_URL}/getNames`;
-      const response = await fetch(url);
+      const response = await fetch(url, { headers: adminHeaders() });
+
+      if (response.status === 401) {
+        handleAuthFailure();
+        return;
+      }
 
       if (!response.ok) {
         throw new Error('Failed to fetch names');
@@ -946,9 +967,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     try {
       const response = await fetch(`${FUNCTIONS_URL}/updateNameStatus`, {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
+        headers: adminHeaders({ 'Content-Type': 'application/json' }),
         body: JSON.stringify({ nameId, status }),
       });
 
@@ -1102,9 +1121,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             // Update to confirmed status
             const response = await fetch(`${FUNCTIONS_URL}/updateNameStatus`, {
               method: 'POST',
-              headers: {
-                'Content-Type': 'application/json',
-              },
+              headers: adminHeaders({ 'Content-Type': 'application/json' }),
               body: JSON.stringify({
                 nameId: nameRecord.id,
                 status: 'confirmed'
