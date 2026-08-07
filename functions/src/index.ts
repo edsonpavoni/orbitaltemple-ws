@@ -1,5 +1,6 @@
 import * as functions from "firebase-functions";
 import * as admin from "firebase-admin";
+import * as crypto from "crypto";
 import {Resend} from "resend";
 
 // Initialize Firebase Admin
@@ -7,6 +8,55 @@ admin.initializeApp();
 
 // Orbital Witness schedule API (see src/schedule.ts)
 export {schedule} from "./schedule";
+
+/**
+ * Reject a request unless it carries the admin key.
+ *
+ * Until 2026-08-07 the admin endpoints below had no authentication at all:
+ * getNames returned every subscriber's name, email and IP address to anyone
+ * who curled it, updateNameStatus let anyone edit or delete memorial records,
+ * and sendLaunchNotifications let anyone email every subscriber from
+ * noreply@orbitaltemple.art. The /admin page compared a SHA-256 hash in
+ * browser JavaScript, which protected nothing: the functions accepted direct
+ * requests regardless, and the check itself was bypassable from devtools.
+ *
+ * The key lives in functions/.env (ADMIN_API_KEY), never in client source.
+ * Callers send it as the x-admin-key header.
+ *
+ * Returns true if the caller is authorised. If not, it has already sent 401
+ * and the handler must return immediately.
+ */
+function requireAdmin(
+  req: functions.https.Request,
+  res: functions.Response
+): boolean {
+  const expected = process.env.ADMIN_API_KEY;
+
+  if (!expected) {
+    // Fail closed. A missing key must never mean "allow everyone".
+    functions.logger.error("ADMIN_API_KEY is not configured; denying request");
+    res.status(503).json({error: "Server not configured for admin access"});
+    return false;
+  }
+
+  const provided = (req.get("x-admin-key") || "").trim();
+
+  // Constant-time compare so response timing can't be used to guess the key.
+  const a = Buffer.from(provided);
+  const b = Buffer.from(expected);
+  const ok = a.length === b.length && crypto.timingSafeEqual(a, b);
+
+  if (!ok) {
+    functions.logger.warn("Rejected unauthorised admin request", {
+      path: req.path,
+      ip: req.headers["x-forwarded-for"] || "unknown",
+    });
+    res.status(401).json({error: "Unauthorized"});
+    return false;
+  }
+
+  return true;
+}
 
 // Helper functions
 function isValidEmail(email: string): boolean {
@@ -286,11 +336,16 @@ export const getNames = functions.https.onRequest(async (req, res) => {
   // Enable CORS
   res.set("Access-Control-Allow-Origin", "*");
   res.set("Access-Control-Allow-Methods", "GET, OPTIONS");
-  res.set("Access-Control-Allow-Headers", "Content-Type");
+  res.set("Access-Control-Allow-Headers", "Content-Type, x-admin-key");
 
   // Handle preflight request
   if (req.method === "OPTIONS") {
     res.status(204).send("");
+    return;
+  }
+
+  // Admin-only endpoint: verify the caller server-side.
+  if (!requireAdmin(req, res)) {
     return;
   }
 
@@ -385,11 +440,16 @@ export const updateNameStatus = functions.https.onRequest(async (req, res) => {
   // Enable CORS
   res.set("Access-Control-Allow-Origin", "*");
   res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
-  res.set("Access-Control-Allow-Headers", "Content-Type");
+  res.set("Access-Control-Allow-Headers", "Content-Type, x-admin-key");
 
   // Handle preflight request
   if (req.method === "OPTIONS") {
     res.status(204).send("");
+    return;
+  }
+
+  // Admin-only endpoint: verify the caller server-side.
+  if (!requireAdmin(req, res)) {
     return;
   }
 
@@ -549,11 +609,16 @@ export const sendLaunchNotifications = functions.https.onRequest(async (req, res
   // Enable CORS
   res.set("Access-Control-Allow-Origin", "*");
   res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
-  res.set("Access-Control-Allow-Headers", "Content-Type");
+  res.set("Access-Control-Allow-Headers", "Content-Type, x-admin-key");
 
   // Handle preflight request
   if (req.method === "OPTIONS") {
     res.status(204).send("");
+    return;
+  }
+
+  // Admin-only endpoint: verify the caller server-side.
+  if (!requireAdmin(req, res)) {
     return;
   }
 
@@ -652,11 +717,16 @@ export const getLaunchNotifications = functions.https.onRequest(async (req, res)
   // Enable CORS
   res.set("Access-Control-Allow-Origin", "*");
   res.set("Access-Control-Allow-Methods", "GET, OPTIONS");
-  res.set("Access-Control-Allow-Headers", "Content-Type");
+  res.set("Access-Control-Allow-Headers", "Content-Type, x-admin-key");
 
   // Handle preflight request
   if (req.method === "OPTIONS") {
     res.status(204).send("");
+    return;
+  }
+
+  // Admin-only endpoint: verify the caller server-side.
+  if (!requireAdmin(req, res)) {
     return;
   }
 
@@ -787,10 +857,15 @@ export const witnessStatus = functions.https.onRequest(async (req, res) => {
 export const witnessCommand = functions.https.onRequest(async (req, res) => {
   res.set("Access-Control-Allow-Origin", "*");
   res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
-  res.set("Access-Control-Allow-Headers", "Content-Type");
+  res.set("Access-Control-Allow-Headers", "Content-Type, x-admin-key");
 
   if (req.method === "OPTIONS") {
     res.status(204).send("");
+    return;
+  }
+
+  // Admin-only endpoint: verify the caller server-side.
+  if (!requireAdmin(req, res)) {
     return;
   }
 
