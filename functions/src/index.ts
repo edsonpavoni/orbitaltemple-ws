@@ -1205,3 +1205,136 @@ export const getCachedNameCount = functions.https.onRequest(async (req, res) => 
     res.status(500).json({error: "Internal server error"});
   }
 });
+
+// =============================================================================
+// HEALTH & RECOVERY
+// =============================================================================
+
+/**
+ * How stale the name count cache is allowed to get before the site is
+ * considered unhealthy. updateNameCountCache runs hourly, so anything past two
+ * hours means the scheduler stopped firing even if HTTP still looks fine.
+ */
+const CACHE_STALE_AFTER_MS = 2 * 60 * 60 * 1000;
+
+/**
+ * Public health check for external uptime monitoring.
+ * GET /healthz
+ *
+ * Returns 200 only when the backend is genuinely healthy. This deliberately
+ * checks freshness, not just liveness: during the Jul-Aug 2026 outage
+ * getCachedNameCount kept returning 200 with a name count that had been frozen
+ * for weeks, so a plain "is it up" probe would have stayed green the whole time.
+ *
+ * Non-200 here covers, in one signal: functions down (billing detached or plan
+ * downgraded), Firestore unreachable, and an orphaned Cloud Scheduler job.
+ */
+export const healthz = functions.https.onRequest(async (req, res) => {
+  res.set("Access-Control-Allow-Origin", "*");
+  res.set("Cache-Control", "no-store");
+
+  try {
+    const cacheDoc = await admin.firestore().collection("cache").doc("nameCount").get();
+
+    if (!cacheDoc.exists) {
+      res.status(503).json({
+        status: "unhealthy",
+        reason: "name-count-cache-missing",
+      });
+      return;
+    }
+
+    const updatedAt = cacheDoc.data()?.updatedAt || 0;
+    const ageMs = Date.now() - updatedAt;
+
+    if (ageMs > CACHE_STALE_AFTER_MS) {
+      res.status(503).json({
+        status: "unhealthy",
+        reason: "name-count-cache-stale",
+        ageMinutes: Math.round(ageMs / 60000),
+        lastUpdated: new Date(updatedAt).toISOString(),
+      });
+      return;
+    }
+
+    res.status(200).json({
+      status: "healthy",
+      total: cacheDoc.data()?.total || 0,
+      ageMinutes: Math.round(ageMs / 60000),
+    });
+  } catch (error) {
+    functions.logger.error("Health check failed", error);
+    res.status(503).json({status: "unhealthy", reason: "firestore-unreachable"});
+  }
+});
+
+/**
+ * Backfill names that were written by the client-side Firestore fallback.
+ *
+ * When the functions backend is down, the site writes submissions straight to
+ * Firestore so they are not lost. Those documents skip the two things
+ * submitName does server-side: IP geolocation, and the immediate confirmation
+ * email. IP is unrecoverable after the fact, but the email is not, so this
+ * sends it as soon as the backend is healthy again and clears the flag.
+ *
+ * Without this, a fallback submission is just a slower silent failure: the name
+ * is stored, but the submitter never hears back.
+ */
+async function enrichSubmissions(): Promise<{processed: number; failed: number}> {
+  const snapshot = await admin.firestore()
+    .collection("names")
+    .where("needsEnrichment", "==", true)
+    .limit(50)
+    .get();
+
+  let processed = 0;
+  let failed = 0;
+
+  for (const doc of snapshot.docs) {
+    const data = doc.data();
+
+    try {
+      const emailTemplate = getEmailTemplate(data.language || "en");
+      const resend = new Resend(process.env.RESEND_API_KEY);
+
+      await resend.emails.send({
+        from: "Orbital Temple <noreply@orbitaltemple.art>",
+        to: [data.email],
+        subject: emailTemplate.queuedSubject(data.name),
+        text: emailTemplate.queuedBody(data.name),
+      });
+
+      await doc.ref.update({
+        needsEnrichment: false,
+        confirmationEmailSent: true,
+        country: data.country || "Unknown",
+        countryCode: data.countryCode || "XX",
+      });
+
+      processed++;
+    } catch (error) {
+      functions.logger.error("Failed to enrich submission", {id: doc.id, error});
+      failed++;
+    }
+  }
+
+  if (processed > 0 || failed > 0) {
+    functions.logger.info("Enriched fallback submissions", {processed, failed});
+  }
+
+  return {processed, failed};
+}
+
+/**
+ * Scheduled backfill of fallback submissions, every 15 minutes.
+ */
+export const enrichPendingSubmissions = functions.pubsub
+  .schedule("*/15 * * * *")
+  .timeZone("UTC")
+  .onRun(async () => {
+    try {
+      await enrichSubmissions();
+    } catch (error) {
+      functions.logger.error("Error in scheduled enrichment", error);
+    }
+  });

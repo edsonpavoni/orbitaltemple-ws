@@ -1,29 +1,11 @@
-import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import NameCounter from './NameCounter';
 import { SUPPORTED_LANGUAGES } from '../lib/i18n';
+import { useNameCount } from '../lib/useNameCount';
 
 export default function PressContent() {
   const { t, ready } = useTranslation('press');
-  const [nameCount, setNameCount] = useState<number | null>(null);
-
-  useEffect(() => {
-    const fetchCachedCount = async () => {
-      try {
-        const response = await fetch('https://us-central1-orbital-temple.cloudfunctions.net/getCachedNameCount');
-        if (response.ok) {
-          const data = await response.json();
-          if (data.success && data.total) {
-            setNameCount(data.total);
-          }
-        }
-      } catch (err) {
-        console.error('Error fetching cached name count:', err);
-      }
-    };
-
-    fetchCachedCount();
-  }, []);
+  const nameCount = useNameCount();
 
   // Get current language from URL path
   const getCurrentLang = () => {

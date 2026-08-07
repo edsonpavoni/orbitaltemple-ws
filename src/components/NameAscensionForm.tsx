@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import Starfield from './Starfield';
 import { SUPPORTED_LANGUAGES } from '../lib/i18n';
 
-type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete';
+type Step = 'breathing' | 'name-input' | 'email-input' | 'loading' | 'complete' | 'error';
 
 // Email validation regex - created once, not per render
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -20,7 +20,7 @@ const trackStep = (stepName: string, stepNumber: number) => {
 };
 
 // Step order for transition calculations
-const STEP_ORDER: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete'];
+const STEP_ORDER: Step[] = ['breathing', 'name-input', 'email-input', 'loading', 'complete', 'error'];
 
 // Get current language from URL path
 const getCurrentLang = (): string => {
@@ -223,7 +223,7 @@ export default function SendNameForm() {
     } else if (currentStep === 'name-input' || currentStep === 'email-input' || currentStep === 'loading') {
       // During journey: show bottom portion only (about 72px visible)
       domeImage.style.transform = 'translateY(-70%)';
-    } else if (currentStep === 'complete') {
+    } else if (currentStep === 'complete' || currentStep === 'error') {
       // Final page: animate down but not fully - show about 50% of dome
       domeImage.style.transform = 'translateY(-20%)';
     }
@@ -252,9 +252,12 @@ export default function SendNameForm() {
   }, [currentStep]);
 
   const submitNameToServer = async () => {
+    const language = getCurrentLang();
+
+    // Primary path: the submitName function, which also resolves the
+    // submitter's country and sends the confirmation email server-side.
     try {
       const FUNCTIONS_URL = 'https://us-central1-orbital-temple.cloudfunctions.net';
-      const language = getCurrentLang();
 
       const response = await fetch(`${FUNCTIONS_URL}/submitName`, {
         method: 'POST',
@@ -269,27 +272,53 @@ export default function SendNameForm() {
       });
 
       if (!response.ok) {
-        throw new Error('Failed to submit name');
+        throw new Error(`submitName responded ${response.status}`);
       }
 
       const data = await response.json();
       console.log('Name submitted successfully:', data);
 
-      // Wait a bit before showing completion
       setTimeout(() => {
         trackStep('complete', 5);
         setCurrentStep('complete');
       }, 1000);
+      return;
     } catch (error) {
-      console.error('Error submitting name:', error);
+      console.error('submitName failed, trying direct Firestore write:', error);
+    }
 
-      // Still show complete screen but log error
+    // Fallback: write straight to Firestore. Firestore stays available even
+    // when every Cloud Function is down (e.g. the project falls back to the
+    // Spark plan), so the name is still recorded rather than lost. The doc is
+    // flagged for enrichPendingSubmissions to backfill country + send the
+    // confirmation email once the functions backend is healthy.
+    try {
+      const { submitNameDirect } = await import('../lib/firebaseClient');
+      const id = await submitNameDirect({ name, email, language });
+      console.warn('Name saved via Firestore fallback:', id);
+
       setTimeout(() => {
-        trackStep('complete', 5);
+        trackStep('complete-fallback', 5);
         setCurrentStep('complete');
       }, 1000);
+      return;
+    } catch (fallbackError) {
+      console.error('Firestore fallback also failed:', fallbackError);
     }
+
+    // Both paths failed. Never claim success here: the name was not saved
+    // anywhere, and the submitter needs to know so they can retry.
+    setTimeout(() => {
+      trackStep('error', 5);
+      setCurrentStep('error');
+    }, 1000);
   };
+
+  // Retry a failed submission from the error screen.
+  const retrySubmission = useCallback(() => {
+    trackStep('loading', 4);
+    setCurrentStep('loading');
+  }, []);
 
   // Calculate step visibility with fade transitions
   const getStepStyle = useCallback((step: Step): React.CSSProperties => {
@@ -637,6 +666,44 @@ export default function SendNameForm() {
           </p>
 
           {/* Share and Support links - temporarily hidden */}
+        </div>
+
+        {/* Step 5b: Error - shown only when the name could not be saved at all */}
+        <div
+          style={{
+            ...getStepStyle('error'),
+            top: isDesktop ? '50%' : 'auto',
+            transform: isDesktop ? 'translate(-50%, -50%)' : 'translateX(-50%)',
+          }}
+        >
+          <p className="page-subtitle" style={{ marginTop: isDesktop ? '0' : '4rem' }}>
+            {renderTextWithBreaks(
+              t('error.text', {
+                name,
+                defaultValue:
+                  'we could not reach\nthe temple.\n\nthe name\n{{name}}\nwas not saved.\n\nplease try again.',
+              })
+            )}
+          </p>
+
+          <button
+            type="button"
+            onClick={retrySubmission}
+            className="btn-circle-arrow"
+            style={{
+              alignSelf: 'flex-end',
+              marginLeft: 'auto',
+              marginRight: 0,
+              opacity: currentStep === 'error' ? 1 : 0,
+              transition: 'opacity 0.6s ease-in-out',
+              pointerEvents: currentStep === 'error' ? 'auto' : 'none',
+            }}
+          >
+            {t('error.button', { defaultValue: 'try again' })}
+            <span className="circle-arrow">
+              <img src="/UI/arrow.svg" alt="arrow" />
+            </span>
+          </button>
         </div>
 
       </div>

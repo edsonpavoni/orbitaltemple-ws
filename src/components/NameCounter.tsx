@@ -17,16 +17,28 @@ export default function NameCounter() {
       try {
         const response = await fetch('https://us-central1-orbital-temple.cloudfunctions.net/getNameCount');
         if (!response.ok) {
-          throw new Error('Failed to fetch');
+          throw new Error(`getNameCount responded ${response.status}`);
         }
         const data = await response.json();
         if (data.success && data.stats) {
           setStats(data.stats);
-        } else {
-          setError(true);
+          setLoading(false);
+          return;
         }
+        throw new Error('getNameCount returned no stats');
       } catch (err) {
-        console.error('Error fetching name count:', err);
+        console.error('Error fetching name count, counting directly:', err);
+      }
+
+      // Fallback: count straight from Firestore, which stays available when
+      // the functions backend is down. Only the total is available this way,
+      // so the per-status breakdown is omitted rather than guessed.
+      try {
+        const { countNamesDirect } = await import('../lib/firebaseClient');
+        const total = await countNamesDirect();
+        setStats({ total, pending: 0, sent: 0, confirmed: 0 });
+      } catch (fallbackErr) {
+        console.error('Direct name count also failed:', fallbackErr);
         setError(true);
       } finally {
         setLoading(false);
