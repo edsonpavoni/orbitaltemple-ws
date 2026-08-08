@@ -676,34 +676,39 @@ export default function SendNameForm() {
             transform: isDesktop ? 'translate(-50%, -50%)' : 'translateX(-50%)',
           }}
         >
-          <p className="page-subtitle" style={{ marginTop: isDesktop ? '0' : '4rem' }}>
-            {renderTextWithBreaks(
-              t('error.text', {
-                name,
-                defaultValue:
-                  'we could not reach\nthe temple.\n\nthe name\n{{name}}\nwas not saved.\n\nplease try again.',
-              })
-            )}
-          </p>
+          {/* Rendered only while active. The other steps stay mounted and are
+              hidden with opacity, but this one repeats the submitted name, so
+              leaving it mounted would put the name in the DOM twice and let a
+              screen reader read out both "is now queued" and "was not saved". */}
+          {currentStep === 'error' && (
+            <>
+              <p className="page-subtitle" style={{ marginTop: isDesktop ? '0' : '4rem' }}>
+                {renderTextWithBreaks(
+                  t('error.text', {
+                    name,
+                    defaultValue:
+                      'we could not reach\nthe temple.\n\nthe name\n{{name}}\nwas not saved.\n\nplease try again.',
+                  })
+                )}
+              </p>
 
-          <button
-            type="button"
-            onClick={retrySubmission}
-            className="btn-circle-arrow"
-            style={{
-              alignSelf: 'flex-end',
-              marginLeft: 'auto',
-              marginRight: 0,
-              opacity: currentStep === 'error' ? 1 : 0,
-              transition: 'opacity 0.6s ease-in-out',
-              pointerEvents: currentStep === 'error' ? 'auto' : 'none',
-            }}
-          >
-            {t('error.button', { defaultValue: 'try again' })}
-            <span className="circle-arrow">
-              <img src="/UI/arrow.svg" alt="arrow" />
-            </span>
-          </button>
+              <button
+                type="button"
+                onClick={retrySubmission}
+                className="btn-circle-arrow"
+                style={{
+                  alignSelf: 'flex-end',
+                  marginLeft: 'auto',
+                  marginRight: 0,
+                }}
+              >
+                {t('error.button', { defaultValue: 'try again' })}
+                <span className="circle-arrow">
+                  <img src="/UI/arrow.svg" alt="arrow" />
+                </span>
+              </button>
+            </>
+          )}
         </div>
 
       </div>
