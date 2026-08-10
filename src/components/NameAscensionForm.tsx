@@ -254,22 +254,38 @@ export default function SendNameForm() {
   const submitNameToServer = async () => {
     const language = getCurrentLang();
 
+    // Neither path is allowed to hang. A dead network makes fetch stall and
+    // makes the Firestore SDK retry with backoff indefinitely, so without a
+    // deadline the loading spinner spins forever and the submitter never
+    // learns their name was not saved.
+    const withTimeout = <T,>(work: Promise<T>, ms: number, label: string): Promise<T> =>
+      Promise.race([
+        work,
+        new Promise<T>((_, reject) =>
+          setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms)
+        ),
+      ]);
+
     // Primary path: the submitName function, which also resolves the
     // submitter's country and sends the confirmation email server-side.
     try {
       const FUNCTIONS_URL = 'https://us-central1-orbital-temple.cloudfunctions.net';
 
-      const response = await fetch(`${FUNCTIONS_URL}/submitName`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          name: name,
-          email: email,
-          language: language,
+      const response = await withTimeout(
+        fetch(`${FUNCTIONS_URL}/submitName`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            name: name,
+            email: email,
+            language: language,
+          }),
         }),
-      });
+        15000,
+        'submitName'
+      );
 
       if (!response.ok) {
         throw new Error(`submitName responded ${response.status}`);
@@ -294,7 +310,11 @@ export default function SendNameForm() {
     // confirmation email once the functions backend is healthy.
     try {
       const { submitNameDirect } = await import('../lib/firebaseClient');
-      const id = await submitNameDirect({ name, email, language });
+      const id = await withTimeout(
+        submitNameDirect({ name, email, language }),
+        15000,
+        'Firestore fallback'
+      );
       console.warn('Name saved via Firestore fallback:', id);
 
       setTimeout(() => {
