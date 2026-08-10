@@ -51,3 +51,7 @@ names_e-mails_*.csv
 email-outreach/*.txt
 email-outreach/sent-emails.txt
 email-outreach/batch-send-log.txt
+
+# PR / press outreach working notes — journalist names, addresses and
+# pitch angles. Private working material, not code. Keep out of git.
+pr-strategy/
