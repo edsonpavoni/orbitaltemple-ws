@@ -607,7 +607,7 @@ Andar com fe eu vou, que a fe nao costuma faia.|T+00:01:00|B:2|C:NO|V:3.7</div>
   <div class="wire"><span class="u">SAT_ID</span>-artworkAscension&amp;@<span class="u">CID</span>|<span class="u">ArtistName</span>|<span class="u">WorkTitle</span>#<span class="u">HMAC</span>
 
 <span class="c">comes back as</span>  OK:ART_STORED|&lt;CID&gt;
-<span class="c">is kept as</span>     T+00:15:32|QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG|Artist Name|Work Title</div>
+<span class="c">is kept as</span>     T+00:15:32|QmExampleExampleExampleExampleExampleExample00|Artist Name|Work Title</div>
 
   <p class="note">
     The satellite becomes the first node of that network off the surface of the Earth. It holds
@@ -639,7 +639,7 @@ Andar com fe eu vou, que a fe nao costuma faia.|T+00:01:00|B:2|C:NO|V:3.7</div>
         <s class="b" id="rPayL">Your data, 0 bytes</s>
         <s class="c" id="rFreeL">Free, 187 bytes</s>
       </div>
-      <textarea id="payload" spellcheck="false" aria-label="Your uplink payload">QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG|Your Name|Your Work Title</textarea>
+      <textarea id="payload" spellcheck="false" aria-label="Your uplink payload">QmExampleExampleExampleExampleExampleExample00|Your Name|Your Work Title</textarea>
       <p class="small" id="rMsg" style="margin-top:10px"></p>
     </div>
     <div class="panel-foot"><span>255 byte hard ceiling</span><span id="rBytes"></span></div>
@@ -655,12 +655,12 @@ Andar com fe eu vou, que a fe nao costuma faia.|T+00:01:00|B:2|C:NO|V:3.7</div>
 <div class="spine ref">
   <span class="dir">Reference</span>
   <h2>The complete instrument</h2>
-  <span class="sub">Every command it accepts, every field it measures, every word it can say back.</span>
+  <span class="sub">Every command open to artists, every field it measures, every word it can say back.</span>
 </div>
 
 <h4 style="margin-top:6px">1. Everything you can say to it</h4>
 <p class="small" style="max-width:74ch;margin-bottom:14px">
-  All 22 commands. Every one must carry a valid signature. A wrong satellite identity is rejected in
+  The 13 commands open to artists. Maintenance commands are held by the mission team and are not listed. Every one must carry a valid signature. A wrong satellite identity is rejected in
   total silence, which is worth knowing before concluding the radio is dead.
 </p>
 <div class="tw">
@@ -675,21 +675,13 @@ Andar com fe eu vou, que a fe nao costuma faia.|T+00:01:00|B:2|C:NO|V:3.7</div>
     <tr><td class="m">GetRadStatus</td><td class="dim">none</td><td class="m">RAD:SEU_TOTAL:n|LAST_SCRUB:ns_ago</td><td class="dim">no</td><td><span class="tag safe">safe</span></td><td class="m">loop.cpp:371</td></tr>
     <tr><td class="m">ListDir</td><td class="dim">path</td><td class="m">DIR: / D: / F:name,size / END:DIR</td><td class="dim">no</td><td><span class="tag safe">safe</span></td><td class="m">loop.cpp:313</td></tr>
     <tr><td class="m">CreateDir</td><td class="dim">path</td><td class="m">OK:DIR_CREATED:&lt;path&gt;</td><td class="dim">SD</td><td><span class="tag safe">safe</span></td><td class="m">loop.cpp:317</td></tr>
-    <tr><td class="m">RemoveDir</td><td class="dim">path</td><td class="m">OK:DIR_REMOVED</td><td class="dim">SD</td><td><span class="tag care">no undo</span></td><td class="m">loop.cpp:321</td></tr>
     <tr><td class="m">AppendFile</td><td class="dim">path @ text</td><td class="m">OK:APPENDED:&lt;n&gt;B</td><td class="dim">SD</td><td><span class="tag art">artistic</span></td><td class="m">loop.cpp:329</td></tr>
-    <tr><td class="m">WriteFile</td><td class="dim">path @ text</td><td class="m">OK:WRITTEN:&lt;n&gt;B</td><td class="dim">SD</td><td><span class="tag danger">truncates</span></td><td class="m">loop.cpp:325</td></tr>
     <tr><td class="m">ReadFile</td><td class="dim">path</td><td class="m">FILE:path,size / chunks / END:FILE</td><td class="dim">no</td><td><span class="tag care">text only</span></td><td class="m">loop.cpp:333</td></tr>
-    <tr><td class="m">RenameFile</td><td class="dim">old @ new</td><td class="m">OK:RENAMED</td><td class="dim">SD</td><td><span class="tag care">clobbers</span></td><td class="m">loop.cpp:337</td></tr>
-    <tr><td class="m">DeleteFile</td><td class="dim">path</td><td class="m">OK:DELETED</td><td class="dim">SD</td><td><span class="tag danger">no undo</span></td><td class="m">loop.cpp:341</td></tr>
-    <tr><td class="m">TestFileIO</td><td class="dim">path</td><td class="m">READ:nB/nms then WRITE:131072B/nms</td><td class="dim">SD</td><td><span class="tag danger">overwrites 128 kB</span></td><td class="m">loop.cpp:345</td></tr>
     <tr><td class="m">AccelRecord</td><td class="dim">none</td><td class="m">OK:ACCEL_RECORDING:60s</td><td class="dim">SD</td><td><span class="tag art">artistic</span></td><td class="m">loop.cpp:382</td></tr>
     <tr><td class="m">AccelStatus</td><td class="dim">none</td><td class="m">ACCEL:IDLE | REC:n% | COMPLETE | ERROR</td><td class="dim">no</td><td><span class="tag safe">safe</span></td><td class="m">loop.cpp:387</td></tr>
     <tr><td class="m">AccelList</td><td class="dim">none</td><td class="m">ACCEL:RECORDINGS / F:name,size / END:n</td><td class="dim">no</td><td><span class="tag safe">safe</span></td><td class="m">loop.cpp:392</td></tr>
-    <tr><td class="m">AccelCancel</td><td class="dim">none</td><td class="m">OK:ACCEL_CANCELLED, silent if idle</td><td class="dim">deletes partial</td><td><span class="tag care">no undo</span></td><td class="m">loop.cpp:397</td></tr>
     <tr><td class="m">artworkAscension</td><td class="dim">@ CID|Artist|Title</td><td class="m">OK:ART_STORED|&lt;CID&gt;</td><td class="dim">SD</td><td><span class="tag art">artistic</span></td><td class="m">loop.cpp:403</td></tr>
     <tr><td class="m">artworkList</td><td class="dim">none</td><td class="m">ART:LIST_START / ART:n|&hellip; / ART:LIST_END</td><td class="dim">no</td><td><span class="tag safe">safe</span></td><td class="m">loop.cpp:441</td></tr>
-    <tr><td class="m">MCURestart</td><td class="dim">none</td><td class="m">OK:RESTARTING</td><td class="dim">state, boot count</td><td><span class="tag danger">re-arms burn wire</span></td><td class="m">loop.cpp:349</td></tr>
-    <tr><td class="m">ForceOperational</td><td class="dim">none</td><td class="m">OK:FORCED_OPERATIONAL</td><td class="dim">EEPROM, forever</td><td><span class="tag danger">irreversible</span></td><td class="m">loop.cpp:363</td></tr>
     <tr><td class="m">anything else</td><td class="dim">&mdash;</td><td class="m">ERR:UNKNOWN_CMD:&lt;cmd&gt;</td><td class="dim">no</td><td><span class="tag safe">safe</span></td><td class="m">loop.cpp:446</td></tr>
   </tbody>
 </table>
@@ -742,17 +734,12 @@ Andar com fe eu vou, que a fe nao costuma faia.|T+00:01:00|B:2|C:NO|V:3.7</div>
     <tr><td class="dim">reply</td><td class="m">ART:LIST_START &middot; ART:&lt;n&gt;|&lt;line&gt; &middot; ART:LIST_END|COUNT:&lt;n&gt;</td><td class="dim">artworkList. ART:EMPTY if nothing has ascended.</td></tr>
     <tr><td class="dim">reply</td><td class="m">ACCEL:RECORDINGS &middot; ACCEL:F:&lt;name&gt;,&lt;size&gt; &middot; ACCEL:END:&lt;n&gt;</td><td class="dim">AccelList. Up to 20. ACCEL:NO_RECORDINGS if none.</td></tr>
     <tr><td class="dim">reply</td><td class="m">ACCEL:IDLE | ACCEL:REC:&lt;n&gt;% | ACCEL:COMPLETE | ACCEL:ERROR</td><td class="dim">AccelStatus</td></tr>
-    <tr><td class="dim">reply</td><td class="m">READ:&lt;n&gt;B/&lt;ms&gt;ms &middot; WRITE:131072B/&lt;ms&gt;ms</td><td class="dim">TestFileIO</td></tr>
 
-    <tr><td class="dim">acknowledgement</td><td class="m">OK:WRITTEN:&lt;n&gt;B</td><td class="dim">WriteFile</td></tr>
     <tr><td class="dim">acknowledgement</td><td class="m">OK:APPENDED:&lt;n&gt;B</td><td class="dim">AppendFile</td></tr>
-    <tr><td class="dim">acknowledgement</td><td class="m">OK:DELETED &middot; OK:RENAMED</td><td class="dim">DeleteFile, RenameFile</td></tr>
-    <tr><td class="dim">acknowledgement</td><td class="m">OK:DIR_CREATED:&lt;path&gt; &middot; OK:DIR_REMOVED</td><td class="dim">CreateDir, RemoveDir</td></tr>
+    <tr><td class="dim">acknowledgement</td><td class="m">OK:DIR_CREATED:&lt;path&gt;</td><td class="dim">CreateDir</td></tr>
     <tr><td class="dim">acknowledgement</td><td class="m">OK:ART_STORED|&lt;CID&gt;</td><td class="dim">artworkAscension</td></tr>
     <tr><td class="dim">acknowledgement</td><td class="m">OK:ACCEL_RECORDING:60s</td><td class="dim">AccelRecord accepted</td></tr>
     <tr><td class="dim">acknowledgement</td><td class="m">OK:ACCEL_COMPLETE:&lt;file&gt;:&lt;n&gt;B</td><td class="dim">Recording finished. 21,616 bytes.</td></tr>
-    <tr><td class="dim">acknowledgement</td><td class="m">OK:ACCEL_CANCELLED</td><td class="dim">AccelCancel, only if one was running</td></tr>
-    <tr><td class="dim">acknowledgement</td><td class="m">OK:RESTARTING &middot; OK:FORCED_OPERATIONAL</td><td class="dim">MCURestart, ForceOperational</td></tr>
 
     <tr><td class="dim">refusal</td><td class="m">ERR:AUTH_FAILED</td><td class="dim">Signature did not verify</td></tr>
     <tr><td class="dim">refusal</td><td class="m">ERR:PATH_TRAVERSAL_BLOCKED</td><td class="dim">Path contained ".."</td></tr>
@@ -761,7 +748,6 @@ Andar com fe eu vou, que a fe nao costuma faia.|T+00:01:00|B:2|C:NO|V:3.7</div>
     <tr><td class="dim">refusal</td><td class="m">ERR:OPEN_FILE_FAILED &middot; ERR:WRITE_FAILED &middot; ERR:APPEND_FAILED</td><td class="dim">File operations</td></tr>
     <tr><td class="dim">refusal</td><td class="m">ERR:OPEN_DIR_FAILED &middot; ERR:NOT_A_DIRECTORY &middot; ERR:MKDIR_FAILED &middot; ERR:RMDIR_FAILED</td><td class="dim">Directory operations</td></tr>
     <tr><td class="dim">refusal</td><td class="m">ERR:RENAME_FAILED &middot; ERR:DELETE_FAILED</td><td class="dim">Rename, delete</td></tr>
-    <tr><td class="dim">refusal</td><td class="m">ERR:TEST_OPEN_FAILED &middot; ERR:TEST_WRITE_OPEN_FAILED</td><td class="dim">TestFileIO</td></tr>
     <tr><td class="dim">refusal</td><td class="m">ERR:IMU_NOT_AVAILABLE &middot; ERR:ACCEL_BUSY</td><td class="dim">AccelRecord, sensor missing or already running</td></tr>
     <tr><td class="dim">refusal</td><td class="m">ERR:ACCEL_FILE_ERROR &middot; ERR:ACCEL_WRITE_ERROR &middot; ERR:ACCEL_WRITE_FAILED</td><td class="dim">Recording could not be stored</td></tr>
     <tr><td class="dim">refusal</td><td class="m">ERR:ART_INVALID_FORMAT &middot; ERR:ART_INVALID_CID</td><td class="dim">artworkAscension: wrong pipe count, or CID under 10 characters</td></tr>
@@ -805,7 +791,7 @@ Andar com fe eu vou, que a fe nao costuma faia.|T+00:01:00|B:2|C:NO|V:3.7</div>
   <thead><tr><th>Path</th><th class="m">Format</th><th>Written when</th></tr></thead>
   <tbody>
     <tr><td class="m">/artworks.log</td><td class="m">T+HH:MM:SS|CID|Artist|Title</td><td class="dim">Every artworkAscension. Append only, kept until re-entry.</td></tr>
-    <tr><td class="m">/names/&hellip;</td><td class="m">whatever was written</td><td class="dim">WriteFile or AppendFile. No fixed convention.</td></tr>
+    <tr><td class="m">/names/&hellip;</td><td class="m">whatever was written</td><td class="dim">AppendFile. No fixed convention.</td></tr>
     <tr><td class="m">/log.txt</td><td class="m">[&lt;uptime ms&gt;] &lt;message&gt;</td><td class="dim">Every boot, every telemetry frame, hourly and daily health records.</td></tr>
     <tr><td class="m">/accel/rec_&lt;ms&gt;.bin</td><td class="m">16 byte header, then 1800 float32 triples</td><td class="dim">AccelRecord, and once automatically on first contact.</td></tr>
   </tbody>
@@ -1415,7 +1401,7 @@ const hash01 = n => { const s = Math.sin(n*127.1)*43758.5453; return s - Math.fl
   if(!el) return;
   const V = fitted(el, 180);
   const phaseEl = document.getElementById("cidPhase"), btn = document.getElementById("cidPlay");
-  const CID = "QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG";
+  const CID = "QmExampleExampleExampleExampleExampleExample00";
   const STAGES = [
     [0,   "Your work, on Earth. Any size at all."],
     [110, "Hashed. The address is the work itself, so it cannot point at the wrong thing."],
