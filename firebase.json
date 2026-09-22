@@ -35,12 +35,31 @@
         "source": "/unsubscribe",
         "destination": "/en/unsubscribe",
         "type": 302
+      },
+      {
+        "regex": "^/([^/]+)/support-documentary/?$",
+        "destination": "/:1/support",
+        "type": 302
+      },
+      {
+        "source": "/support-documentary",
+        "destination": "/en/support",
+        "type": 302
+      },
+      {
+        "source": "/countdown-test{,/**}",
+        "destination": "/countdown",
+        "type": 302
       }
     ],
     "rewrites": [
       {
         "source": "/api/schedule",
         "function": "schedule"
+      },
+      {
+        "source": "/api/missionTle",
+        "function": "missionTle"
       },
       {
         "source": "/satellite",
