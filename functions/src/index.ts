@@ -1,13 +1,13 @@
 import * as functions from "firebase-functions/v1";
 import * as admin from "firebase-admin";
-import * as crypto from "crypto";
+import {requireAdmin} from "./adminAuth";
 import {Resend} from "resend";
 
 // Initialize Firebase Admin
 admin.initializeApp();
 
 // Orbital Witness schedule API (see src/schedule.ts)
-export {schedule} from "./schedule";
+export {schedule, missionTle} from "./schedule";
 
 /**
  * Reject a request unless it carries the admin key.
@@ -26,37 +26,6 @@ export {schedule} from "./schedule";
  * Returns true if the caller is authorised. If not, it has already sent 401
  * and the handler must return immediately.
  */
-function requireAdmin(
-  req: functions.https.Request,
-  res: functions.Response
-): boolean {
-  const expected = process.env.ADMIN_API_KEY;
-
-  if (!expected) {
-    // Fail closed. A missing key must never mean "allow everyone".
-    functions.logger.error("ADMIN_API_KEY is not configured; denying request");
-    res.status(503).json({error: "Server not configured for admin access"});
-    return false;
-  }
-
-  const provided = (req.get("x-admin-key") || "").trim();
-
-  // Constant-time compare so response timing can't be used to guess the key.
-  const a = Buffer.from(provided);
-  const b = Buffer.from(expected);
-  const ok = a.length === b.length && crypto.timingSafeEqual(a, b);
-
-  if (!ok) {
-    functions.logger.warn("Rejected unauthorised admin request", {
-      path: req.path,
-      ip: req.headers["x-forwarded-for"] || "unknown",
-    });
-    res.status(401).json({error: "Unauthorized"});
-    return false;
-  }
-
-  return true;
-}
 
 // Helper functions
 function isValidEmail(email: string): boolean {
