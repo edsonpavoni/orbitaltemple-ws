@@ -1,0 +1,624 @@
+---
+const FIREBASE_API_KEY = import.meta.env.PUBLIC_FIREBASE_API_KEY;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Witness Tracker — Orbital Temple</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=Libre+Franklin:wght@300;400;700&display=swap');
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: #ffffff;
+            color: #1a1a1a;
+            font-family: 'IBM Plex Mono', monospace;
+            overflow: hidden;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #canvas-container {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 1;
+        }
+
+        .panel {
+            position: absolute;
+            z-index: 10;
+            pointer-events: none;
+        }
+
+        #title-panel {
+            top: 40px;
+            left: 48px;
+        }
+
+        #title-panel h1 {
+            font-family: 'Libre Franklin', sans-serif;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 6px;
+            text-transform: uppercase;
+            color: #999;
+            margin-bottom: 4px;
+        }
+
+        #title-panel h2 {
+            font-family: 'Libre Franklin', sans-serif;
+            font-weight: 700;
+            font-size: 22px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #1a1a1a;
+        }
+
+        #satellite-panel {
+            top: 40px;
+            right: 48px;
+            text-align: right;
+        }
+
+        #observer-panel {
+            bottom: 40px;
+            left: 48px;
+        }
+
+        #azimuth-panel {
+            bottom: 40px;
+            right: 48px;
+            text-align: right;
+        }
+
+        .data-label {
+            font-size: 10px;
+            font-weight: 500;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #999;
+            margin-bottom: 2px;
+        }
+
+        .data-value {
+            font-size: 13px;
+            font-weight: 400;
+            color: #1a1a1a;
+            margin-bottom: 12px;
+            letter-spacing: 1px;
+        }
+
+        .data-value.large {
+            font-size: 28px;
+            font-weight: 300;
+            letter-spacing: 2px;
+        }
+
+        .data-value.accent {
+            color: #8B7355;
+        }
+
+        #status-indicator {
+            position: absolute;
+            top: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+            text-align: center;
+        }
+
+        .status-dot {
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+
+        .status-dot.above { background: #8B7355; }
+        .status-dot.below { background: #ccc; }
+
+        #compass {
+            position: absolute;
+            bottom: 120px;
+            right: 48px;
+            width: 120px;
+            height: 120px;
+            z-index: 10;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="title-panel" class="panel">
+        <h1>Orbital Temple</h1>
+        <h2>Witness Tracker</h2>
+    </div>
+
+    <div id="satellite-panel" class="panel">
+        <div class="data-label">Satellite</div>
+        <div class="data-value" id="sat-name">FLOCK 4BE-27 (proxy)</div>
+        <div class="data-label">Latitude</div>
+        <div class="data-value" id="sat-lat">—</div>
+        <div class="data-label">Longitude</div>
+        <div class="data-value" id="sat-lon">—</div>
+        <div class="data-label">Altitude</div>
+        <div class="data-value" id="sat-alt">—</div>
+    </div>
+
+    <div id="observer-panel" class="panel">
+        <div class="data-label">Observer</div>
+        <div class="data-value">Brooklyn, NY</div>
+        <div class="data-label">Position</div>
+        <div class="data-value">40.6892°N  73.9857°W</div>
+        <div class="data-label">Range</div>
+        <div class="data-value" id="obs-range">—</div>
+    </div>
+
+    <div id="status-indicator" class="panel">
+        <span class="status-dot below" id="vis-dot"></span>
+        <span class="data-label" id="vis-status" style="letter-spacing: 2px;">CALCULATING</span>
+    </div>
+
+    <div id="azimuth-panel" class="panel">
+        <div class="data-label">Sculpture Azimuth</div>
+        <div class="data-value large accent" id="azimuth-value">—</div>
+        <div class="data-label">Elevation</div>
+        <div class="data-value" id="elevation-value">—</div>
+    </div>
+
+    <canvas id="compass"></canvas>
+
+    <div id="canvas-container"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/satellite.js@5.0.0/dist/satellite.min.js"></script>
+
+    <script type="module">
+        import * as THREE from 'https://cdn.skypack.dev/three@0.128.0';
+        import { OrbitControls } from 'https://cdn.skypack.dev/three@0.128.0/examples/jsm/controls/OrbitControls.js';
+
+        const satLib = window.satellite;
+
+        // ─── CONFIG ───
+        const EARTH_RADIUS_KM = 6371;
+        const EARTH_RADIUS = 5; // Three.js units
+        const SCALE = EARTH_RADIUS / EARTH_RADIUS_KM;
+
+        // Observer: Brooklyn, NY
+        const OBSERVER = {
+            name: 'Brooklyn, NY',
+            lat: 40.6892,
+            lon: -73.9857,
+            alt: 0.01 // km above sea level
+        };
+
+        const observerGd = {
+            longitude: satLib.degreesToRadians(OBSERVER.lon),
+            latitude: satLib.degreesToRadians(OBSERVER.lat),
+            height: OBSERVER.alt
+        };
+
+        // TLE: FLOCK 4BE-27 (~530km SSO, 97.4° — proxy for Orbital Temple)
+        const TLE_LINE1 = '1 60513U 24149AX  26076.45727768  .00006967  00000+0  22266-3 0  9990';
+        const TLE_LINE2 = '2 60513  97.3863 158.3692 0002630 263.1519  96.9424 15.32763116 88088';
+
+        const satrec = satLib.twoline2satrec(TLE_LINE1, TLE_LINE2);
+
+        // ─── SCENE ───
+        const scene = new THREE.Scene();
+        scene.background = new THREE.Color(0xffffff);
+
+        const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.set(0, 6, 14);
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+        document.getElementById('canvas-container').appendChild(renderer.domElement);
+
+        const controls = new OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
+        controls.enablePan = false;
+        controls.minDistance = 8;
+        controls.maxDistance = 30;
+        controls.autoRotate = true;
+        controls.autoRotateSpeed = 0.15;
+
+        // ─── EARTH ───
+        // Solid white sphere
+        const earthGeo = new THREE.SphereGeometry(EARTH_RADIUS, 64, 64);
+        const earthMat = new THREE.MeshBasicMaterial({
+            color: 0xf8f8f8,
+            transparent: true,
+            opacity: 0.95
+        });
+        const earth = new THREE.Mesh(earthGeo, earthMat);
+        scene.add(earth);
+
+        // Grid lines — latitude
+        const gridColor = 0xd0d0d0;
+        const gridMat = new THREE.LineBasicMaterial({ color: gridColor, transparent: true, opacity: 0.4 });
+
+        for (let lat = -60; lat <= 60; lat += 30) {
+            const phi = (90 - lat) * (Math.PI / 180);
+            const radius = EARTH_RADIUS * Math.sin(phi);
+            const y = EARTH_RADIUS * Math.cos(phi);
+            const points = [];
+            for (let i = 0; i <= 64; i++) {
+                const theta = (i / 64) * Math.PI * 2;
+                points.push(new THREE.Vector3(
+                    radius * Math.cos(theta), y, radius * Math.sin(theta)
+                ));
+            }
+            const geo = new THREE.BufferGeometry().setFromPoints(points);
+            const line = new THREE.Line(geo, gridMat);
+            earth.add(line);
+        }
+
+        // Equator — slightly stronger
+        const eqMat = new THREE.LineBasicMaterial({ color: 0xaaaaaa, transparent: true, opacity: 0.5 });
+        const eqPoints = [];
+        for (let i = 0; i <= 64; i++) {
+            const theta = (i / 64) * Math.PI * 2;
+            eqPoints.push(new THREE.Vector3(
+                EARTH_RADIUS * Math.cos(theta), 0, EARTH_RADIUS * Math.sin(theta)
+            ));
+        }
+        earth.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(eqPoints), eqMat));
+
+        // Grid lines — longitude
+        for (let lon = 0; lon < 360; lon += 30) {
+            const theta = lon * (Math.PI / 180);
+            const points = [];
+            for (let i = 0; i <= 64; i++) {
+                const phi = (i / 64) * Math.PI;
+                points.push(new THREE.Vector3(
+                    EARTH_RADIUS * Math.sin(phi) * Math.cos(theta),
+                    EARTH_RADIUS * Math.cos(phi),
+                    EARTH_RADIUS * Math.sin(phi) * Math.sin(theta)
+                ));
+            }
+            const geo = new THREE.BufferGeometry().setFromPoints(points);
+            earth.add(new THREE.Line(geo, gridMat));
+        }
+
+        // ─── OBSERVER MARKER ───
+        function latLonToVec3(lat, lon, radius) {
+            const phi = (90 - lat) * (Math.PI / 180);
+            const theta = (lon + 180) * (Math.PI / 180);
+            return new THREE.Vector3(
+                -(radius * Math.sin(phi) * Math.cos(theta)),
+                radius * Math.cos(phi),
+                radius * Math.sin(phi) * Math.sin(theta)
+            );
+        }
+
+        const observerPos = latLonToVec3(OBSERVER.lat, OBSERVER.lon, EARTH_RADIUS);
+
+        // Observer dot
+        const obsDot = new THREE.Mesh(
+            new THREE.CircleGeometry(0.06, 16),
+            new THREE.MeshBasicMaterial({ color: 0x1a1a1a, side: THREE.DoubleSide })
+        );
+        obsDot.position.copy(observerPos);
+        obsDot.lookAt(0, 0, 0);
+        earth.add(obsDot);
+
+        // Observer ring
+        const obsRing = new THREE.Line(
+            new THREE.BufferGeometry().setFromPoints(
+                Array.from({ length: 33 }, (_, i) => {
+                    const a = (i / 32) * Math.PI * 2;
+                    return new THREE.Vector3(Math.cos(a) * 0.12, Math.sin(a) * 0.12, 0);
+                })
+            ),
+            new THREE.LineBasicMaterial({ color: 0x1a1a1a })
+        );
+        obsRing.position.copy(observerPos);
+        obsRing.lookAt(0, 0, 0);
+        earth.add(obsRing);
+
+        // ─── SATELLITE ───
+        const BRASS_COLOR = 0x8B7355;
+
+        const satDot = new THREE.Mesh(
+            new THREE.SphereGeometry(0.08, 16, 16),
+            new THREE.MeshBasicMaterial({ color: BRASS_COLOR })
+        );
+        scene.add(satDot);
+
+        // Satellite ring (halo)
+        const satRingGeo = new THREE.BufferGeometry().setFromPoints(
+            Array.from({ length: 33 }, (_, i) => {
+                const a = (i / 32) * Math.PI * 2;
+                return new THREE.Vector3(Math.cos(a) * 0.18, Math.sin(a) * 0.18, 0);
+            })
+        );
+        const satRing = new THREE.Line(satRingGeo, new THREE.LineBasicMaterial({
+            color: BRASS_COLOR, transparent: true, opacity: 0.5
+        }));
+        scene.add(satRing);
+
+        // ─── CONNECTION LINE ───
+        const connGeo = new THREE.BufferGeometry();
+        const connMat = new THREE.LineBasicMaterial({
+            color: BRASS_COLOR,
+            transparent: true,
+            opacity: 0.3
+        });
+        const connLine = new THREE.Line(connGeo, connMat);
+        scene.add(connLine);
+
+        // ─── ORBIT PATH ───
+        // Propagate one full orbit to draw the path
+        function computeOrbitPath() {
+            const now = new Date();
+            const period = (2 * Math.PI) / (satrec.no * 1440 / (2 * Math.PI)); // minutes
+            const points = [];
+
+            for (let i = 0; i <= 200; i++) {
+                const t = new Date(now.getTime() + (i / 200) * period * 60 * 1000);
+                const posVel = satLib.propagate(satrec, t);
+                if (posVel.position) {
+                    const gmst = satLib.gstime(t);
+                    const geo = satLib.eciToGeodetic(posVel.position, gmst);
+                    const lat = satLib.degreesLat(geo.latitude);
+                    const lon = satLib.degreesLong(geo.longitude);
+                    const alt = geo.height;
+                    const r = EARTH_RADIUS * (1 + alt / EARTH_RADIUS_KM);
+                    points.push(latLonToVec3(lat, lon, r));
+                }
+            }
+            return points;
+        }
+
+        let orbitPath;
+        function updateOrbitPath() {
+            const points = computeOrbitPath();
+            if (orbitPath) scene.remove(orbitPath);
+            const geo = new THREE.BufferGeometry().setFromPoints(points);
+            const mat = new THREE.LineDashedMaterial({
+                color: 0xaaaaaa,
+                transparent: true,
+                opacity: 0.35,
+                dashSize: 0.15,
+                gapSize: 0.08
+            });
+            orbitPath = new THREE.Line(geo, mat);
+            orbitPath.computeLineDistances();
+            scene.add(orbitPath);
+        }
+        updateOrbitPath();
+        // Refresh orbit path every 5 minutes
+        setInterval(updateOrbitPath, 5 * 60 * 1000);
+
+        // ─── TRAIL ───
+        const TRAIL_LENGTH = 80;
+        const trailPositions = [];
+        const trailGeo = new THREE.BufferGeometry();
+        const trailMat = new THREE.LineBasicMaterial({
+            color: BRASS_COLOR,
+            transparent: true,
+            opacity: 0.15
+        });
+        const trail = new THREE.Line(trailGeo, trailMat);
+        scene.add(trail);
+
+        // ─── TRACKING STATE ───
+        let currentAzimuth = 0;
+        let currentElevation = 0;
+        let currentRange = 0;
+        let isAboveHorizon = false;
+
+        // ─── UPDATE SATELLITE POSITION ───
+        function updateSatellite() {
+            const now = new Date();
+            const posVel = satLib.propagate(satrec, now);
+
+            if (!posVel.position) return;
+
+            const gmst = satLib.gstime(now);
+            const geo = satLib.eciToGeodetic(posVel.position, gmst);
+            const lat = satLib.degreesLat(geo.latitude);
+            const lon = satLib.degreesLong(geo.longitude);
+            const alt = geo.height;
+
+            // 3D position
+            const r = EARTH_RADIUS * (1 + alt / EARTH_RADIUS_KM);
+            const pos = latLonToVec3(lat, lon, r);
+            satDot.position.copy(pos);
+
+            // Satellite ring follows and faces camera
+            satRing.position.copy(pos);
+            satRing.lookAt(camera.position);
+
+            // Trail
+            trailPositions.push(pos.clone());
+            if (trailPositions.length > TRAIL_LENGTH) trailPositions.shift();
+            trailGeo.setFromPoints(trailPositions);
+
+            // Connection line
+            const obsWorldPos = earth.localToWorld(observerPos.clone());
+            connGeo.setFromPoints([pos, obsWorldPos]);
+
+            // Look angles (azimuth, elevation, range)
+            const positionEcf = satLib.eciToEcf(posVel.position, gmst);
+            const lookAngles = satLib.ecfToLookAngles(observerGd, positionEcf);
+            currentAzimuth = lookAngles.azimuth * (180 / Math.PI);
+            currentElevation = lookAngles.elevation * (180 / Math.PI);
+            currentRange = lookAngles.rangeSat;
+            isAboveHorizon = currentElevation > 0;
+
+            // Update connection line opacity
+            connMat.opacity = isAboveHorizon ? 0.5 : 0.12;
+
+            // Update UI
+            document.getElementById('sat-lat').textContent = lat.toFixed(4) + '°' + (lat >= 0 ? 'N' : 'S');
+            document.getElementById('sat-lon').textContent = Math.abs(lon).toFixed(4) + '°' + (lon >= 0 ? 'E' : 'W');
+            document.getElementById('sat-alt').textContent = alt.toFixed(1) + ' km';
+            document.getElementById('azimuth-value').textContent = currentAzimuth.toFixed(1) + '°';
+            document.getElementById('elevation-value').textContent = currentElevation.toFixed(1) + '°';
+            document.getElementById('obs-range').textContent = currentRange.toFixed(0) + ' km';
+
+            // Visibility status
+            const dot = document.getElementById('vis-dot');
+            const status = document.getElementById('vis-status');
+            if (isAboveHorizon) {
+                dot.className = 'status-dot above';
+                status.textContent = 'ABOVE HORIZON';
+            } else {
+                dot.className = 'status-dot below';
+                status.textContent = 'BELOW HORIZON';
+            }
+
+            // Store for Firebase
+            window.currentSculptureAngle = currentAzimuth;
+        }
+
+        // ─── COMPASS CANVAS ───
+        const compassCanvas = document.getElementById('compass');
+        const ctx = compassCanvas.getContext('2d');
+        const DPR = window.devicePixelRatio || 1;
+        compassCanvas.width = 120 * DPR;
+        compassCanvas.height = 120 * DPR;
+        ctx.scale(DPR, DPR);
+
+        function drawCompass() {
+            const w = 120, h = 120;
+            const cx = w / 2, cy = h / 2;
+            const r = 45;
+
+            ctx.clearRect(0, 0, w, h);
+
+            // Outer circle
+            ctx.beginPath();
+            ctx.arc(cx, cy, r, 0, Math.PI * 2);
+            ctx.strokeStyle = '#d0d0d0';
+            ctx.lineWidth = 1;
+            ctx.stroke();
+
+            // Cardinal ticks and labels
+            const cardinals = [
+                { label: 'N', angle: -Math.PI / 2 },
+                { label: 'E', angle: 0 },
+                { label: 'S', angle: Math.PI / 2 },
+                { label: 'W', angle: Math.PI }
+            ];
+
+            ctx.font = '9px IBM Plex Mono';
+            ctx.fillStyle = '#999';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+
+            cardinals.forEach(c => {
+                const tx = cx + Math.cos(c.angle) * (r + 12);
+                const ty = cy + Math.sin(c.angle) * (r + 12);
+                ctx.fillText(c.label, tx, ty);
+
+                // Tick
+                const ix = cx + Math.cos(c.angle) * (r - 4);
+                const iy = cy + Math.sin(c.angle) * (r - 4);
+                const ox = cx + Math.cos(c.angle) * r;
+                const oy = cy + Math.sin(c.angle) * r;
+                ctx.beginPath();
+                ctx.moveTo(ix, iy);
+                ctx.lineTo(ox, oy);
+                ctx.strokeStyle = '#aaa';
+                ctx.lineWidth = 1;
+                ctx.stroke();
+            });
+
+            // Azimuth pointer (0° = North, clockwise)
+            const azRad = (currentAzimuth - 90) * (Math.PI / 180); // Convert: 0°=North -> canvas coords
+            const px = cx + Math.cos(azRad) * (r - 8);
+            const py = cy + Math.sin(azRad) * (r - 8);
+
+            // Line from center to pointer
+            ctx.beginPath();
+            ctx.moveTo(cx, cy);
+            ctx.lineTo(px, py);
+            ctx.strokeStyle = '#8B7355';
+            ctx.lineWidth = 1.5;
+            ctx.stroke();
+
+            // Pointer dot
+            ctx.beginPath();
+            ctx.arc(px, py, 3, 0, Math.PI * 2);
+            ctx.fillStyle = '#8B7355';
+            ctx.fill();
+
+            // Center dot
+            ctx.beginPath();
+            ctx.arc(cx, cy, 2, 0, Math.PI * 2);
+            ctx.fillStyle = '#1a1a1a';
+            ctx.fill();
+        }
+
+        // ─── EARTH ROTATION ───
+        function updateEarthRotation() {
+            const now = new Date();
+            const gmst = satLib.gstime(now);
+            earth.rotation.y = gmst;
+        }
+
+        // ─── ANIMATION LOOP ───
+        function animate() {
+            requestAnimationFrame(animate);
+            updateSatellite();
+            updateEarthRotation();
+            drawCompass();
+            controls.update();
+            renderer.render(scene, camera);
+        }
+
+        // ─── RESIZE ───
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+
+        animate();
+    </script>
+
+    <script type="module" define:vars={{ FIREBASE_API_KEY }}>
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js';
+        import { getDatabase, ref, set } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js';
+
+        const firebaseConfig = {
+            apiKey: FIREBASE_API_KEY,
+            authDomain: "orbital-temple.firebaseapp.com",
+            databaseURL: "https://orbital-temple-default-rtdb.firebaseio.com",
+            projectId: "orbital-temple",
+            storageBucket: "orbital-temple.firebasestorage.app",
+            messagingSenderId: "811887257933",
+            appId: "1:811887257933:web:e8a5ef835911dc94cbaf04"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const database = getDatabase(app);
+        const sculptureRef = ref(database, 'sculpture/angle');
+
+        let lastSentAngle = -999;
+
+        setInterval(() => {
+            if (window.currentSculptureAngle !== undefined) {
+                if (Math.abs(window.currentSculptureAngle - lastSentAngle) > 0.5) {
+                    set(sculptureRef, {
+                        angle: window.currentSculptureAngle,
+                        timestamp: Date.now()
+                    }).then(() => {
+                        lastSentAngle = window.currentSculptureAngle;
+                    }).catch(console.error);
+                }
+            }
+        }, 100);
+    </script>
+</body>
+</html>

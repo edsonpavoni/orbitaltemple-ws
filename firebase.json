@@ -64,14 +64,6 @@
       {
         "source": "/v1/orbit/**",
         "function": "orbit"
-      },
-      {
-        "source": "/satellite",
-        "destination": "/satellite.html"
-      },
-      {
-        "source": "/sculpture-control",
-        "destination": "/sculpture-control.html"
       }
     ],
     "headers": [
