@@ -5,38 +5,53 @@ site entirely. Kept because it is worth something later, not because it works.
 
 ---
 
-## `witness-tracker.astro` — 🟡 KEEP. Possibly the Oct 1 projection.
+## `witness-tracker.astro` — 🟢 A WORKING TOOL, NOT A DEAD PAGE
 
-**Archived 2026-09-22** at Edson's request: *"the witness tracker we might use. Hold it somewhere for later."*
+**Archived 2026-09-22.** Edson: *"the witness tracker we might use. Hold it somewhere for later."* and then, importantly:
 
-624 lines of three.js: a white Earth sphere with latitude grid and equator, an
-observer at Brooklyn, and a satellite propagated live with `satellite.js`.
-Nothing on the site ever linked to it.
+> **"I use this to make the OW video. And I think we can use it a bit for the user interface at some point."**
 
-🔴 **Why this might matter more than it looks.** `plans/LAUNCH-16-DAYS-2026-09-15.md`
-carries deliverable **#6, "Projection / visual piece built — the thing he
-regretted not polishing."** This is a working 3D Earth with a live orbit on it.
-It is closer to that deliverable than anything else that exists.
+**So this is a production asset.** Footage from it is in the Orbital Witnesses video. It is archived only to keep it off the public site — it is not abandoned code and should not be treated as such by anyone tidying up later.
 
-**And it is now much cheaper to finish than when it was written.** Its orbit
-comes from a hardcoded proxy TLE:
+624 lines of three.js: a white Earth sphere with latitude grid and equator, an observer at Brooklyn, and a satellite propagated live with `satellite.js`. It was **untracked** until 2026-09-22 — it existed on one disk and nowhere else.
+
+### Running it
+
+Astro does not build `archive/`, so:
+
+```bash
+cp archive/pages/witness-tracker.astro src/pages/     # temporarily
+pnpm dev                                              # localhost:4321/witness-tracker
+# record, then remove it from src/pages/ again
+```
+
+⚠️ **If the recording workflow used the LIVE url** (`orbitaltemple.art/witness-tracker`), that stopped working on 2026-09-22 — **say so and it goes straight back.** The point was to remove a dead page, not a working one.
+
+### 🔴 It can be better than it was
+
+Its orbit is a hardcoded stand-in:
 
 ```js
 // TLE: FLOCK 4BE-27 (~530km SSO, 97.4° — proxy for Orbital Temple)
 ```
 
-That proxy exists because there was no service to ask. **There is now.** Point it
-at the real API and it follows whatever the sculptures follow, including the
-mission TLE on launch night:
+That proxy exists because **there was no service to ask** when it was written. There is now:
 
 ```js
-const r = await fetch("https://orbitaltemple.art/v1/orbit/position?lat=40.6799&lon=-74.0028");
-// { look:{az,el,range_km}, ground_track:{lat,lon,alt_km}, ... }
-// or /v1/orbit/tle to propagate locally with satellite.js, as it already does
+// follow exactly what the twelve sculptures follow, mission TLE included
+const {tle} = await (await fetch("https://orbitaltemple.art/v1/orbit/tle")).json();
+// or ask for the answer outright:
+// /v1/orbit/position?lat=40.6799&lon=-74.0028  -> az, el, range, ground track
 ```
 
-**To bring it back:** move it to `src/pages/`, swap the proxy TLE for
-`/v1/orbit/tle`, rebuild, deploy. Docs: <https://orbitaltemple.art/api/>
+**For the next video, the footage would show the real orbit** — and on launch night, the actual temple rather than a proxy. Docs: <https://orbitaltemple.art/api/>
+
+### Two futures
+
+| | |
+|---|---|
+| 🎬 **Video** | What it already does. One fetch makes the orbit real. |
+| 🖥️ **Interface** | Edson's own note. It is also the nearest thing that exists to `LAUNCH-16-DAYS` deliverable **#6, "projection / visual piece built — the thing he regretted not polishing."** A 3D Earth carrying the temple's live orbit, projected, is a real candidate for Oct 1 — though **not** a thing to start from scratch nine days out. |
 
 ---
 
