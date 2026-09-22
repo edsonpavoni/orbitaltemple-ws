@@ -50,8 +50,16 @@ functions/service-account-key.json
 names_e-mails_*.csv
 email-outreach/*.txt
 email-outreach/sent-emails.txt
+email-outreach/sent-once-again.txt
 email-outreach/batch-send-log.txt
 
 # PR / press outreach working notes — journalist names, addresses and
 # pitch angles. Private working material, not code. Keep out of git.
 pr-strategy/
+email-outreach/batch-once-again.log
+email-outreach/typo-fixes-once-again.txt
+
+# Build cache and browser-automation screenshots. .playwright-mcp was
+# 129 MB of debug PNGs tracked by accident (untracked 2026-09-22).
+.playwright-mcp/
+.astro/
