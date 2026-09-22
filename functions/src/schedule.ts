@@ -20,14 +20,14 @@ import {requireAdmin, validateTleLine} from "./adminAuth";
 // Current stand-in for Orbital Temple. When Orbital Temple itself launches
 // (Transporter-17, June 2026), swap this constant for the real NORAD catalog
 // number. Clients will pick up the change on their next daily fetch.
-const DEFAULT_NORAD = 68377; // SUPERVIEW NEO-2 OBJECT A (same SSO)
+export const DEFAULT_NORAD = 68377; // SUPERVIEW NEO-2 OBJECT A (same SSO)
 const DEFAULT_SAT_NAME = "ORBITAL_TEMPLE_STANDIN";
 
 // Observer default: Edson's home in São Paulo — República, near Galeria
 // Metrópole / Av. São Luís. 23°32'45"S, 46°38'30"W. Clients may override via
 // ?lat=&lon=.
-const DEFAULT_LAT = -23.5458;
-const DEFAULT_LON = -46.6417;
+export const DEFAULT_LAT = -23.5458;
+export const DEFAULT_LON = -46.6417;
 
 // 24 hours at 1-minute resolution = 1440 samples ≈ 30 KB JSON.
 // Clients cubic-spline between minutes for smooth motion.
@@ -86,7 +86,7 @@ async function readMissionTle(): Promise<MissionTleDoc | null> {
 }
 
 /** Epoch of a TLE line 1 as an ISO string. Cols 19-20 year, 21-32 day-of-year. */
-function tleEpochISO(line1: string): string | null {
+export function tleEpochISO(line1: string): string | null {
   if (!line1 || line1.length < 32) return null;
   const yy = parseInt(line1.substring(18, 20), 10);
   const doy = parseFloat(line1.substring(20, 32));
@@ -96,7 +96,7 @@ function tleEpochISO(line1: string): string | null {
   return new Date(ms).toISOString();
 }
 
-async function fetchTLE(norad: number): Promise<{lines: [string, string]; source: string; name: string}> {
+export async function fetchTLE(norad: number): Promise<{lines: [string, string]; source: string; name: string}> {
   // Precedence: mission TLE > Celestrak > hardcoded fallback.
   const mission = await readMissionTle();
   if (mission) {
@@ -127,7 +127,7 @@ async function fetchTLE(norad: number): Promise<{lines: [string, string]; source
   }
 }
 
-function startOfNextUTCDay(now: Date): Date {
+export function startOfNextUTCDay(now: Date): Date {
   const d = new Date(Date.UTC(
     now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + 1,
     0, 0, 0, 0,
@@ -135,7 +135,7 @@ function startOfNextUTCDay(now: Date): Date {
   return d;
 }
 
-function generateSchedule(
+export function generateSchedule(
   tle: [string, string],
   observerLatDeg: number,
   observerLonDeg: number,

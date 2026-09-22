@@ -9,6 +9,10 @@ admin.initializeApp();
 // Orbital Witness schedule API (see src/schedule.ts)
 export {schedule, missionTle} from "./schedule";
 
+// Consolidated orbit API (v1) — same element set the sculptures use.
+// See src/orbit.ts. Reachable at /v1/orbit/** once hosting is next deployed.
+export {orbit} from "./orbit";
+
 /**
  * Reject a request unless it carries the admin key.
  *

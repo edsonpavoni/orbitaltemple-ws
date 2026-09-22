@@ -62,6 +62,10 @@
         "function": "missionTle"
       },
       {
+        "source": "/v1/orbit/**",
+        "function": "orbit"
+      },
+      {
         "source": "/satellite",
         "destination": "/satellite.html"
       },
