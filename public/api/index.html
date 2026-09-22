@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Orbital Temple API</title>
+<meta name="description" content="Every endpoint the Orbital Temple serves: where the satellite is, when it passes over you, and which orbit everything is following.">
+<meta property="og:title" content="Orbital Temple API">
+<meta property="og:description" content="Every endpoint the Orbital Temple serves.">
+<meta property="og:type" content="article">
+<link rel="icon" href="/fav/favicon.ico">
+<style>html{background:#080A0F}body{margin:0}</style>
+</head>
+<body>
+<style>
+:root{
+  --ink:#080A0F; --panel:#0D1017; --panel-2:#131722;
+  --line:#212736; --line-soft:#181C27;
+  --text:#E7E3D9; --muted:#8B90A0; --dim:#555B6B;
+  --gold:#E4AE4E; --gold-deep:#A87A26;
+  --steel:#7BA4D6; --steel-deep:#3E5D82;
+  --sage:#7FA88A; --sage-deep:#3B5443;
+  --alert:#D4593F;
+  --display:Baskerville,"Hoefler Text","Iowan Old Style",Palatino,Georgia,serif;
+  --body:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,Roboto,sans-serif;
+  --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ink);color:var(--text);font-family:var(--body);
+  font-size:16px;line-height:1.62;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1120px;margin:0 auto;padding:34px 26px 110px}
+a{color:var(--gold)}
+.eyebrow{font-family:var(--mono);font-size:10.5px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--dim);margin:0 0 18px}
+h1{font-family:var(--display);font-weight:400;font-size:clamp(34px,5.6vw,58px);
+  line-height:1.08;margin:0 0 20px}
+h2{font-family:var(--display);font-weight:400;font-size:clamp(24px,3.4vw,32px);margin:0}
+h3{font-family:var(--mono);font-size:13px;letter-spacing:.06em;margin:0 0 6px;color:var(--text)}
+.lede{max-width:66ch;font-size:19px;line-height:1.6;color:#CFCBC2}
+.lede b{color:var(--text);font-weight:600}
+.note{max-width:70ch;color:var(--muted);font-size:15px}
+.note b{color:var(--text);font-weight:600}
+.spine{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;
+  margin:64px 0 22px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.spine .dir{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;
+  padding:3px 9px;border-radius:2px;white-space:nowrap}
+.spine.get .dir{color:var(--gold);border:1px solid var(--gold-deep)}
+.spine.admin .dir{color:var(--alert);border:1px solid #7A3227}
+.spine.soon .dir{color:var(--muted);border:1px solid var(--line)}
+.spine h2{margin:0}
+.spine .sub{color:var(--muted);font-size:15px;flex:1 1 320px;min-width:0}
+.ep{background:var(--panel);border:1px solid var(--line);border-radius:4px;
+  padding:20px 22px;margin:0 0 16px}
+.ep-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:4px}
+.verb{font-family:var(--mono);font-size:10px;letter-spacing:.12em;padding:3px 8px;
+  border-radius:2px;color:var(--sage);border:1px solid var(--sage-deep)}
+.verb.post{color:var(--gold);border-color:var(--gold-deep)}
+.verb.del{color:var(--alert);border-color:#7A3227}
+.path{font-family:var(--mono);font-size:15px;color:var(--text)}
+.ep p{color:var(--muted);font-size:14.5px;margin:8px 0 0;max-width:72ch}
+.ep p b{color:var(--text)}
+pre{background:var(--ink);border:1px solid var(--line-soft);border-radius:3px;
+  padding:13px 15px;overflow-x:auto;font-family:var(--mono);font-size:12.5px;
+  line-height:1.55;color:#BFC4D0;margin:13px 0 0}
+pre .c{color:var(--dim)}
+pre .k{color:var(--steel)}
+pre .v{color:var(--sage)}
+table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:14px}
+th{text-align:left;font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--dim);padding:0 12px 7px;border-bottom:1px solid var(--line)}
+td{padding:9px 12px;border-bottom:1px solid var(--line-soft);vertical-align:top;line-height:1.5}
+td code,p code,li code{font-family:var(--mono);font-size:12.5px;color:var(--gold)}
+.tag{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+  padding:2px 7px;border:1px solid var(--line);border-radius:2px;color:var(--muted)}
+.tag.safe{color:var(--sage);border-color:var(--sage-deep)}
+.tag.care{color:var(--gold);border-color:var(--gold-deep)}
+.tag.danger{color:var(--alert);border-color:#7A3227}
+.callout{border-left:2px solid var(--gold-deep);background:var(--panel-2);
+  padding:16px 20px;margin:26px 0;border-radius:0 3px 3px 0}
+.callout.warn{border-left-color:var(--alert)}
+.callout p{margin:0;color:#CFCBC2;font-size:15px;max-width:74ch}
+.callout p+p{margin-top:9px}
+.base{font-family:var(--mono);font-size:13px;background:var(--panel-2);
+  border:1px solid var(--line);border-radius:3px;padding:12px 15px;
+  margin:16px 0;color:var(--steel);overflow-x:auto}
+.back{display:inline-block;font-family:var(--mono);font-size:11px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--muted);text-decoration:none;border:1px solid var(--line);
+  padding:7px 14px;border-radius:2px;margin-bottom:26px}
+.back:hover{color:var(--gold);border-color:var(--gold-deep)}
+ul{color:var(--muted);font-size:14.5px;max-width:72ch}
+li{margin-bottom:6px}
+footer{margin-top:80px;padding-top:24px;border-top:1px solid var(--line);
+  color:var(--dim);font-size:13px;font-family:var(--mono)}
+@media(max-width:640px){.wrap{padding:24px 16px 80px}}
+</style>
+
+<div class="wrap">
+
+<a class="back" href="/instrument/">&larr; Instrument</a>
+
+<p class="eyebrow">Orbital Temple / API reference / v1</p>
+<h1>Everything the temple<br>will tell a machine.</h1>
+
+<p class="lede">
+  One service. The same orbit for everyone. <b>The twelve sculptures are not a special
+  case — they are the first client of this API</b>, and anything they can ask for, you
+  can ask for too.
+</p>
+
+<p class="note" style="margin-top:14px">
+  Every route resolves its element set through the same resolver the sculptures use, so
+  a mission TLE set once applies everywhere at once. An artist and a sculpture can never
+  be looking at different orbits.
+</p>
+
+<div class="callout">
+  <p><b>Base URL, today:</b></p>
+  <div class="base">https://us-central1-orbital-temple.cloudfunctions.net/orbit</div>
+  <p>The friendlier <code>https://orbitaltemple.art/v1/orbit/…</code> is configured and
+  goes live with the next site deploy. Both will work; prefer the short one once it does.</p>
+</div>
+
+<p class="note">
+  Reads are public and need no key — it is the open sky, and a satellite carrying
+  thousands of names. Writes are admin-only. <b>CORS is open</b>, so you can call these
+  straight from a browser, a sketch, a Max patch or a microcontroller.
+</p>
+
+<!-- ==================== PUBLIC ==================== -->
+
+<div class="spine get">
+  <span class="dir">Public &middot; no key</span>
+  <h2>Where it is</h2>
+  <span class="sub">Four routes. Everything below is live right now.</span>
+</div>
+
+<div class="ep">
+  <div class="ep-head"><span class="verb">GET</span><span class="path">/position</span>
+    <span class="tag safe">public</span></div>
+  <p>Where the satellite is <b>this second</b>, from wherever you are: look angles, the
+  point on Earth it is directly above, how fast the range is changing, and the doppler
+  shift your receiver would have to chase.</p>
+  <table>
+    <tr><th>param</th><th>default</th><th></th></tr>
+    <tr><td><code>lat</code>, <code>lon</code></td><td>São Paulo</td><td>your observer position</td></tr>
+    <tr><td><code>freq_hz</code></td><td>401500000</td><td>downlink frequency the doppler is computed for</td></tr>
+    <tr><td><code>norad</code></td><td>68377</td><td>catalogue number, while a stand-in is flying</td></tr>
+  </table>
+<pre><span class="c"># Brooklyn, right now</span>
+curl "<span class="k">…/orbit/position</span>?lat=40.6799&amp;lon=-74.0028"
+
+{
+  <span class="k">"utc"</span>: <span class="v">"2026-09-22T19:10:59.747Z"</span>,
+  <span class="k">"look"</span>:         { <span class="k">"az"</span>: <span class="v">101.843</span>, <span class="k">"el"</span>: <span class="v">-22.166</span>, <span class="k">"range_km"</span>: <span class="v">5948.25</span>, <span class="k">"above_horizon"</span>: <span class="v">false</span> },
+  <span class="k">"ground_track"</span>: { <span class="k">"lat"</span>: <span class="v">15.3774</span>, <span class="k">"lon"</span>: <span class="v">-19.73629</span>, <span class="k">"alt_km"</span>: <span class="v">508.713</span> },
+  <span class="k">"range_rate_km_s"</span>: <span class="v">-5.11257</span>,     <span class="c">// negative = approaching</span>
+  <span class="k">"doppler_hz"</span>: <span class="v">6847.06</span>,
+  <span class="k">"satellite"</span>: { <span class="k">"tle_source"</span>: <span class="v">"celestrak"</span>, <span class="k">"tle_epoch_utc"</span>: <span class="v">"2026-09-22T11:12:51.791Z"</span> }
+}</pre>
+</div>
+
+<div class="ep">
+  <div class="ep-head"><span class="verb">GET</span><span class="path">/passes</span>
+    <span class="tag safe">public</span></div>
+  <p>When it comes over you next, how high it gets, and for how long. <b>Rise and set
+  azimuths tell you which way to face.</b></p>
+  <table>
+    <tr><th>param</th><th>default</th><th></th></tr>
+    <tr><td><code>hours</code></td><td>24</td><td>how far ahead to look, up to 72</td></tr>
+    <tr><td><code>min_el</code></td><td>10</td><td>degrees above the horizon to count as a pass</td></tr>
+  </table>
+<pre>curl "<span class="k">…/orbit/passes</span>?lat=40.6799&amp;lon=-74.0028&amp;hours=24&amp;min_el=10"
+
+<span class="c">rise (UTC)             max el    dur   rise az   set az</span>
+2026-09-22T22:23:42      81.9   450s       164      350
+2026-09-23T11:27:52      66.9   450s         6      202</pre>
+  <p style="margin-top:11px">Two passes in a day is normal for one satellite in a
+  sun-synchronous orbit. It is overhead for seven and a half minutes at a time.</p>
+</div>
+
+<div class="ep">
+  <div class="ep-head"><span class="verb">GET</span><span class="path">/tle</span>
+    <span class="tag safe">public</span></div>
+  <p>The element set everything is currently following, where it came from, and how old
+  it is. <b>If you propagate your own orbit, start here</b> — this is the same one the
+  sculptures use.</p>
+<pre>curl "<span class="k">…/orbit/tle</span>"
+
+{
+  <span class="k">"name"</span>: <span class="v">"SUPERVIEW NEO-2 05"</span>,
+  <span class="k">"tle"</span>: [ <span class="v">"1 68377U 26062A   26265.46726611  …"</span>,
+            <span class="v">"2 68377  97.4395 271.3917 0001571  …"</span> ],
+  <span class="k">"tle_source"</span>: <span class="v">"celestrak"</span>,          <span class="c">// "mission" | "celestrak" | "fallback"</span>
+  <span class="k">"tle_epoch_utc"</span>: <span class="v">"2026-09-22T11:12:51.791Z"</span>
+}</pre>
+  <p style="margin-top:11px"><code>tle_source</code> is the field to watch.
+  <b><code>mission</code></b> means a specific element set has been pinned — which is what
+  happens at launch, before the object has a catalogue number.
+  <b><code>fallback</code></b> means the upstream fetch failed and a hardcoded orbit is
+  being served: treat that as stale.</p>
+</div>
+
+<div class="ep">
+  <div class="ep-head"><span class="verb">GET</span><span class="path">/schedule</span>
+    <span class="tag safe">public</span></div>
+  <p>Twenty-four hours of azimuth and elevation at one-minute resolution. <b>This is
+  exactly what each sculpture downloads once a day and then plays against its own
+  clock</b>, with no network chatter in between. Fetch it once, interpolate locally,
+  and your piece keeps working offline too.</p>
+  <table>
+    <tr><th>param</th><th>default</th><th></th></tr>
+    <tr><td><code>hours</code></td><td>24</td><td>window length, up to 48</td></tr>
+  </table>
+<pre>curl "<span class="k">…/orbit/schedule</span>?lat=40.6799&amp;lon=-74.0028&amp;hours=24"
+
+{
+  <span class="k">"valid_from_utc"</span>: <span class="v">"2026-09-22T00:00:00.000Z"</span>,
+  <span class="k">"samples_interval_sec"</span>: <span class="v">60</span>,
+  <span class="k">"samples_count"</span>: <span class="v">1440</span>,
+  <span class="k">"samples"</span>: [ { <span class="k">"t"</span>: <span class="v">0</span>, <span class="k">"az"</span>: <span class="v">189.21</span>, <span class="k">"el"</span>: <span class="v">-35.06</span> }, … ]
+}</pre>
+  <p style="margin-top:11px"><b>Elevation goes negative and that is not an error.</b> For
+  most of every orbit the satellite is below your horizon — on the other side of the
+  Earth. The sculptures keep pointing at it through the planet.</p>
+</div>
+
+<div class="callout">
+  <p><b>The sculptures' own path, unchanged:</b>
+  <code>https://orbital-temple.web.app/api/schedule</code></p>
+  <p>Byte-identical to <code>/orbit/schedule</code>. It stays exactly where it is —
+  twelve sculptures fetch it every day.</p>
+</div>
+
+<!-- ==================== ADMIN ==================== -->
+
+<div class="spine admin">
+  <span class="dir">Admin &middot; key required</span>
+  <h2>Pinning an orbit</h2>
+  <span class="sub">How a satellite with no catalogue number gets followed anyway.</span>
+</div>
+
+<p class="note">
+  A newly launched object has no NORAD number until it is tracked and catalogued, which
+  can take days. Until then no public source can describe it. <b>The mission TLE is the
+  override</b>: paste a predicted element set once and every client — sculptures,
+  artists, this API — follows it immediately.
+</p>
+
+<div class="ep">
+  <div class="ep-head"><span class="verb">GET</span><span class="verb post">POST</span><span class="verb del">DELETE</span>
+    <span class="path">/api/missionTle</span><span class="tag danger">admin key</span></div>
+  <p>Both lines are checksum-validated with the same rule the sculptures apply, on write
+  <b>and</b> on read, and must carry the same catalogue number — pasting line 2 of a
+  different object is the likeliest mistake and it is silent afterwards. <b>An element
+  set the boards would refuse cannot be stored here.</b></p>
+<pre>curl -X POST "<span class="k">…/missionTle</span>" \
+  -H <span class="v">"x-admin-key: ••••"</span> -H <span class="v">"Content-Type: application/json"</span> \
+  -d <span class="v">'{"line1":"1 …","line2":"2 …","name":"ORBITAL TEMPLE"}'</span>
+
+<span class="c"># DELETE disables it and falls back to the catalogue.</span>
+<span class="c"># GET returns what is pinned, with its epoch.</span></pre>
+</div>
+
+<!-- ==================== NOT YET ==================== -->
+
+<div class="spine soon">
+  <span class="dir">Not built</span>
+  <h2>What the satellite measures</h2>
+  <span class="sub">Named here because it is promised, and because it is not ready.</span>
+</div>
+
+<div class="callout warn">
+  <p><b>There is no telemetry endpoint yet, and it would be dishonest to imply
+  otherwise.</b> Everything above is computed on the ground by propagating an orbit.
+  None of it is measured by the spacecraft.</p>
+  <p>The satellite's own frame — battery, temperature, ambient light, gyroscope,
+  accelerometer, magnetometer, storage, and the count of cosmic-ray bit flips it has
+  corrected — comes down to ground stations. <b>Nothing yet carries it from there to
+  here.</b> That link is the missing piece, and it is the one worth asking about.</p>
+</div>
+
+<p class="note">
+  When it exists it will appear as <code>/v1/telemetry/latest</code> and
+  <code>/v1/telemetry/history</code>, in the same shape as everything above. Two fields
+  are worth waiting for: <b>LUX</b>, which is sunrise roughly fifteen times a day, and
+  <b>SEU</b>, a running count of the moments a charged particle changed the satellite's
+  mind and the satellite changed it back.
+</p>
+
+<!-- ==================== NOTES ==================== -->
+
+<div class="spine soon">
+  <span class="dir">Notes</span>
+  <h2>Small print</h2>
+  <span class="sub">Caching, errors, and what to expect.</span>
+</div>
+
+<ul>
+  <li><code>/position</code> is cached 1 s, <code>/passes</code> and <code>/tle</code> 5 min,
+      <code>/schedule</code> 1 h. Pass a changing query parameter to bypass the cache.</li>
+  <li>Errors are JSON with an <code>error</code> field. An unknown route returns
+      <code>404</code> and lists the routes that do exist.</li>
+  <li>Every response carries <code>schema</code>, so you can tell if a shape changes
+      under you.</li>
+  <li>Angles are degrees, distances kilometres, times ISO-8601 UTC. Azimuth is compass
+      degrees from north; elevation is degrees above the horizon, and negative below it.</li>
+  <li>While a stand-in satellite is flying, <code>norad</code> lets you point any route
+      at a different catalogued object.</li>
+</ul>
+
+<footer>
+  Orbital Temple &middot; API reference<br>
+  Last updated 2026-09-22. <b>This page is the record — every new endpoint is added here
+  when it ships.</b>
+</footer>
+
+</div>
+</body>
+</html>
