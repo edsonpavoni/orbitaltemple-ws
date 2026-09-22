@@ -7,6 +7,7 @@ import {
   DEFAULT_NORAD,
   fetchTLE,
   generateSchedule,
+  satnumOf,
   startOfNextUTCDay,
   tleEpochISO,
 } from "./schedule";
@@ -134,7 +135,7 @@ export const orbit = functions.https.onRequest(async (req, res) => {
       res.status(200).json({
         schema: "orbital-temple/orbit.tle/1",
         name: t.name,
-        norad,
+        norad: satnumOf(t.lines[0]) ?? norad,
         tle: t.lines,
         tle_source: t.source,           // "mission" | "celestrak" | "fallback"
         tle_epoch_utc: tleEpochISO(t.lines[0]),
@@ -166,7 +167,7 @@ export const orbit = functions.https.onRequest(async (req, res) => {
         schema: "orbital-temple/orbit.position/1",
         utc: now.toISOString(),
         observer: {lat: obs.lat, lon: obs.lon},
-        satellite: {name: t.name, norad, tle_source: t.source,
+        satellite: {name: t.name, norad: satnumOf(t.lines[0]) ?? norad, tle_source: t.source,
           tle_epoch_utc: tleEpochISO(t.lines[0])},
         look: {
           az: round(look.azDeg, 3),
@@ -231,7 +232,7 @@ export const orbit = functions.https.onRequest(async (req, res) => {
         schema: "orbital-temple/orbit.passes/1",
         generated_at_utc: new Date().toISOString(),
         observer: {lat: obs.lat, lon: obs.lon},
-        satellite: {name: t.name, norad, tle_source: t.source,
+        satellite: {name: t.name, norad: satnumOf(t.lines[0]) ?? norad, tle_source: t.source,
           tle_epoch_utc: tleEpochISO(t.lines[0])},
         window_hours: hours,
         min_elevation_deg: minEl,

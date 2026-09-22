@@ -96,6 +96,11 @@ export function tleEpochISO(line1: string): string | null {
   return new Date(ms).toISOString();
 }
 
+export function satnumOf(line1: string): number | null {
+  const n = parseInt((line1 || "").substring(2, 7), 10);
+  return isFinite(n) ? n : null;
+}
+
 export async function fetchTLE(norad: number): Promise<{lines: [string, string]; source: string; name: string}> {
   // Precedence: mission TLE > Celestrak > hardcoded fallback.
   const mission = await readMissionTle();
@@ -218,7 +223,10 @@ export const schedule = functions
       observer: {lat, lon},
       satellite: {
         name: tleInfo.name,
-        norad,
+        // The catalogue number of the element set ACTUALLY in use. A mission
+        // TLE overrides the query default, and echoing the default back would
+        // name one satellite while describing another.
+        norad: satnumOf(tleInfo.lines[0]) ?? norad,
         tle: tleInfo.lines,
         tle_source: tleInfo.source,
         // Epoch of the element set actually used, so "is this current?" is a
