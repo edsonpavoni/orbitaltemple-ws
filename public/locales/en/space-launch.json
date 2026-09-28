@@ -1,15 +1,26 @@
 {
   "title": "Space Launch - Orbital Temple",
   "heading": "Space Launch",
-  "intro": "On January 12, 2026, the Orbital Temple was aboard ISRO's PSLV-C62 rocket. The rocket lifted off and reached space, but failed in its final stage. The Orbital Temple was in space for only 10 minutes before the rocket lost control and burned up in the atmosphere.",
-  "status": {
-    "heading": "What happens now",
-    "paragraph1": "A second Orbital Temple is cleared to fly on SpaceX's Transporter-18 mission from Vandenberg, California, scheduled for Thursday, October 1, 2026 at 2:18 PM New York time (18:18 UTC).",
+  "launch": {
+    "date": "Thursday, October 1, 2026 · 2:18 PM New York time",
+    "paragraph1": "The Orbital Temple launches on SpaceX's Transporter-18 mission from Vandenberg, California, on <strong>Thursday, October 1, 2026 at 2:18 PM New York time (18:18 UTC)</strong>. The backup day is Friday, October 2.",
+    "paragraph2": "It carries more than 19,000 names. Days to weeks after launch, the temple is released into its own orbit, and from there the names begin to circle the Earth.",
+    "watch": "Watch the launch live on <a href=\"https://www.spacex.com/launches/transporter18\" target=\"_blank\" rel=\"noopener noreferrer\">SpaceX's webcast</a>."
+  },
+  "firstAttempt": {
+    "heading": "This is the second time",
+    "paragraph1": "On January 12, 2026, the first Orbital Temple was aboard ISRO's PSLV-C62 rocket. The rocket lifted off and reached space, but failed in its final stage. The Orbital Temple was in space for only 10 minutes before the rocket lost control and burned up in the atmosphere.",
+    "partnership": "That first launch was a partnership between NewSpace India Limited (NSIL), a Government of India Company under the Department of Space, Antrix Corporation, and the artist, a milestone for art in space exploration that brought India's space program together with an artistic vision of radical inclusivity.",
     "paragraph2": "Temples take time to build. Some took centuries. The Orbital Temple carries the names of those who believed in it, and that commitment remains. We are trying again."
   },
-  "partnership": "The first Orbital Temple launch was a partnership between NewSpace India Limited (NSIL), a Government of India Company under Department of Space, Antrix Corporation, and the artist. This collaboration represented a significant milestone for art in space exploration, bringing together India's space program with an artistic vision of radical inclusivity. The second launch is on SpaceX's Transporter-18.",
   "imageAlts": {
     "india": "ISRO Space Center, India",
-    "satellite": "Orbital Temple Satellite"
+    "satellite": "Orbital Temple Satellite",
+    "falcon9": "SpaceX Falcon 9 on the launch pad at Vandenberg, California",
+    "pslv": "ISRO's PSLV-C62 rocket at ignition on the launch pad, January 12, 2026"
+  },
+  "captions": {
+    "falcon9": "Falcon 9 on the launch pad at Vandenberg, California. Source: SpaceX",
+    "pslv": "Ignition sequence on the launch pad. Source: The Times of India / ISRO's PSLV-C62 mission"
   }
 }

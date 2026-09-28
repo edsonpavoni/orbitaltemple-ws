@@ -1,15 +1,26 @@
 {
   "title": "Lançamento Espacial - Templo Orbital",
   "heading": "Lançamento espacial",
-  "intro": "Em 12 de janeiro de 2026, o Templo Orbital estava a bordo do foguete PSLV-C62 da ISRO. O foguete decolou e chegou ao espaço, mas falhou em seu estágio final. O Templo Orbital ficou no espaço por apenas 10 minutos antes do foguete perder o controle e queimar na atmosfera.",
-  "status": {
-    "heading": "O que acontece agora",
-    "paragraph1": "Um segundo Templo Orbital está autorizado a voar na missão Transporter-18 da SpaceX, da base de Vandenberg, na Califórnia, prevista para quinta-feira, 1º de outubro de 2026, às 15h18 (horário de Brasília).",
-    "paragraph2": "Templos levam tempo para serem construídos. Alguns levaram séculos. O Templo Orbital carrega os nomes daqueles que acreditaram nele, e esse compromisso permanece. Estamos tentando de novo."
+  "launch": {
+    "date": "Quinta-feira, 1º de outubro de 2026 · 15h18 (Brasília)",
+    "paragraph1": "O Templo Orbital será lançado na missão Transporter-18 da SpaceX, da base de Vandenberg, na Califórnia, na <strong>quinta-feira, 1º de outubro de 2026, às 15h18 (horário de Brasília; 14h18 em Nova York, 18h18 UTC)</strong>. A data reserva é sexta-feira, 2 de outubro.",
+    "paragraph2": "Ele leva mais de 19.000 nomes. Dias ou semanas depois do lançamento, o templo é solto em sua própria órbita, e a partir daí os nomes começam a circular a Terra.",
+    "watch": "Assista ao lançamento ao vivo na <a href=\"https://www.spacex.com/launches/transporter18\" target=\"_blank\" rel=\"noopener noreferrer\">transmissão da SpaceX</a>."
   },
-  "partnership": "O primeiro lançamento do Templo Orbital foi uma parceria entre a NewSpace India Limited (NSIL), uma empresa do governo indiano vinculada ao Departamento Espacial, a Antrix Corporation e o artista. Essa colaboração representou um marco significativo para a arte na exploração espacial, unindo o programa espacial da Índia a uma visão artística de inclusão radical. O segundo lançamento é na Transporter-18 da SpaceX.",
+  "firstAttempt": {
+    "heading": "Esta é a segunda vez",
+    "paragraph1": "Em 12 de janeiro de 2026, o primeiro Templo Orbital estava a bordo do foguete PSLV-C62 da ISRO. O foguete decolou e chegou ao espaço, mas falhou em seu último estágio. O Templo Orbital ficou no espaço por apenas 10 minutos antes de o foguete perder o controle e queimar na atmosfera.",
+    "partnership": "Aquele primeiro lançamento foi uma parceria entre a NewSpace India Limited (NSIL), empresa do governo indiano vinculada ao Departamento Espacial, a Antrix Corporation e o artista, um marco para a arte na exploração espacial, que uniu o programa espacial da Índia a uma visão artística de inclusão radical.",
+    "paragraph2": "Templos levam tempo para serem construídos. Alguns levaram séculos. O Templo Orbital carrega os nomes de quem acreditou nele, e esse compromisso continua. Estamos tentando de novo."
+  },
   "imageAlts": {
     "india": "Centro Espacial ISRO, Índia",
-    "satellite": "Satélite do Templo Orbital"
+    "satellite": "Satélite do Templo Orbital",
+    "falcon9": "Foguete Falcon 9 da SpaceX na plataforma de lançamento em Vandenberg, Califórnia",
+    "pslv": "Foguete PSLV-C62 da ISRO na ignição, na plataforma de lançamento, 12 de janeiro de 2026"
+  },
+  "captions": {
+    "falcon9": "Falcon 9 na plataforma de lançamento em Vandenberg, Califórnia. Fonte: SpaceX",
+    "pslv": "Sequência de ignição na plataforma de lançamento. Fonte: The Times of India / missão PSLV-C62 da ISRO"
   }
 }

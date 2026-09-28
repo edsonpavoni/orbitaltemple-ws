@@ -14,35 +14,55 @@ export default function SpaceLaunchContent() {
         {t('heading')}
       </h1>
 
-      {/* Content */}
-      <p className="body-text body-text--section-end">
-        {t('intro')}
-      </p>
-
-      {/* Image */}
+      {/* Falcon 9 on the pad (image: SpaceX) */}
       <figure className="artwork-image">
-        <img src="/launch/india.webp" alt={t('imageAlts.india')} />
+        <img src="/launch/falcon9-transporter18.webp" alt={t('imageAlts.falcon9')} style={{ width: '100%', height: 'auto' }} />
+        <figcaption className="caption-text" style={{ marginTop: '0.75rem', textAlign: 'right' }}>
+          {t('captions.falcon9')}
+        </figcaption>
       </figure>
 
-      <p className="body-text body-text--section-end" dangerouslySetInnerHTML={{ __html: t('partnership') }} />
+      {/* The launch that is coming */}
+      <h2 className="section-heading">
+        {t('launch.date')}
+      </h2>
 
-      {/* Status Section */}
+      <p className="body-text" dangerouslySetInnerHTML={{ __html: t('launch.paragraph1') }} />
+
+      <p className="body-text">
+        {t('launch.paragraph2')}
+      </p>
+
+      <p className="body-text body-text--section-end" dangerouslySetInnerHTML={{ __html: t('launch.watch') }} />
+
+      {/* Satellite Image */}
+      <div style={{ marginTop: '2rem', marginBottom: '4rem', maxWidth: '100%' }}>
+        <img src="/satellite/OT_site_0010.webp" alt={t('imageAlts.satellite')} style={{ width: '100%', height: 'auto', borderRadius: '8px', opacity: 0.9 }} />
+      </div>
+
+      {/* The first attempt */}
       <h2 className="section-heading" style={{ marginTop: '72px' }}>
-        {t('status.heading')}
+        {t('firstAttempt.heading')}
       </h2>
 
       <p className="body-text">
-        {t('status.paragraph1')}
+        {t('firstAttempt.paragraph1')}
+      </p>
+
+      <figure className="artwork-image">
+        <img src="/launch/pslv-c62-ignition.webp" alt={t('imageAlts.pslv')} style={{ width: '100%', height: 'auto' }} />
+        <figcaption className="caption-text" style={{ marginTop: '0.75rem', textAlign: 'right' }}>
+          {t('captions.pslv')}
+        </figcaption>
+      </figure>
+
+      <p className="body-text">
+        {t('firstAttempt.partnership')}
       </p>
 
       <p className="body-text body-text--section-end">
-        {t('status.paragraph2')}
+        {t('firstAttempt.paragraph2')}
       </p>
-
-      {/* Satellite Image */}
-      <div style={{ marginTop: '6rem', marginBottom: '4rem', maxWidth: '100%' }}>
-        <img src="/satellite/OT_site_0010.webp" alt={t('imageAlts.satellite')} style={{ width: '100%', height: 'auto', borderRadius: '8px', opacity: 0.9 }} />
-      </div>
     </div>
   );
 }
