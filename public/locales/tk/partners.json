@@ -4,15 +4,15 @@
   "intro": "Orbital ybadathanasy sahylyk, tejribe we adatdan daşary hyzmatdaşlaryň görüşi arkaly bar. In engineeringenerçilik emeli hemralaryndan başlap, kyssa ýasamaklyga, uzak ýurtlarda gapylary açmakdan başlap, altyna arzuw etmeklige çenli her bir hyzmatdaşlyk bu ybadathanany ýyldyzlara ýakynlaşdyrýar.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY we hyzmatdaşlar",
+      "name": "RiseNY&Partners",
       "description": "Sputnikiň kosmos boşlugyna degmezden ozal görüşini janlandyran aragatnaşyk, toplumlaýyn tejribeler we ajaýyp 3D şekillendiriş şekilleri."
     },
     "highestMantra": {
-      "name": "Iň beýik mantramyz",
+      "name": "Our Highest Mantra",
       "description": "Sathi Roýyň ýolbaşçylygynda Orbital ybadathanasyny Hindistanyň ruhy we sungat jemgyýetleri bilen birleşdirýär. 2025-nji ýylyň noýabr aýynda açylandan soň ýygnamak, medeni alyş-çalyş we Art Bazel sergisine ýol açmak."
     },
     "allToSpace": {
-      "name": "Hemmesi kosmosa",
+      "name": "All to Space",
       "description": "Braziliýanyň kiçi hemra hünärmenleri. Dört ýyllyk hyzmatdaşlyk açyk çeşme enjam platformasyny gurmak we Global Günortadan orbitada sungaty ibermek üçin başlangyç."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Sputnik ösüş topary II ArtSat ussahanasynda döredildi. Lazaro Kamargo tarapyndan görkezilen Fabiane M. Borges, Walter Abrahão dos Santos tarapyndan ýolbaşçylyk edilýän alotalo Pinto Rodrigues bilen bilelikde işleýär."
     },
     "solidConcepts": {
-      "name": "Gaty düşünjeler",
+      "name": "Solid Concepts",
       "description": "Eduardo Dias tarapyndan ýolbaşçylyk edildi. 3D çap we altyn mikro guýma heýkeltaraş gümmez üçin işleýär, sanly düýşleri gymmatly metal hakykatyna öwürýär."
     },
     "ideaSpace": {
-      "name": "Ideýa giňişligi",
+      "name": "Idea Space",
       "description": "Braziliýadaky orta mekdep okuwçylaryna ulanylmaga taýyn bolan Quebrada kosmos maksatnamasynyň okuw meýilnamasyny düzýän Braziliýa bilim başlangyjy."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY & Partners logo",
     "highestMantra": "Iň ýokary mantranyň nyşany",
-    "allToSpace": "Hemmesi kosmos nyşany",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO nyşany",
     "mercosul": "13-nji Merkosur iki ýyllyk logosy",
     "inpe": "INPE ArtSat ussahanasynyň nyşany",

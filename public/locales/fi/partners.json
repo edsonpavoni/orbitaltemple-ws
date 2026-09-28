@@ -8,11 +8,11 @@
       "description": "Viestintä, integroidut kokemukset ja upeat 3D-kuvat herättivät satelliitin vision eloon ennen kuin se edes kosketti avaruuden tyhjyyttä."
     },
     "highestMantra": {
-      "name": "Korkein mantramme",
+      "name": "Our Highest Mantra",
       "description": "Sathi Royn johdolla Orbital Temple yhdistetään Intian henkisiin ja taiteellisiin yhteisöihin. Avataan väyliä varainhankintaan, kulttuurivaihtoon ja Art Basel -näyttelyyn marraskuussa 2025 lanseerauksen jälkeen."
     },
     "allToSpace": {
-      "name": "Kaikki avaruuteen",
+      "name": "All to Space",
       "description": "Brasilialaiset pienten satelliittien asiantuntijat. Neljä vuotta yhteistyötä avoimen lähdekoodin laitteistoalustan rakentamisessa ja edelläkävijänä taiteen lähettämisessä kiertoradalle etelästä."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Satelliittikehitysryhmä muodostui II ArtSat Workshopin aikana. Koordinoija Fabiane M. Borges, ohjaajana Lázaro Camargo, yhteistyössä Ítalo Pinto Rodrigues, ohjaajana Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Vankat konseptit",
+      "name": "Solid Concepts",
       "description": "Eduardo Diasin johdolla. Kaikki veistoksellisen kupolin 3D-tulostus ja kullan mikrovalaminen muuttavat digitaaliset unelmat jalometallitodellisuudeksi."
     },
     "ideaSpace": {
-      "name": "Idea-avaruus",
+      "name": "Idea Space",
       "description": "Brasilialainen koulutusalan startup-yritys kehittää Quebrada Space Program -opetussuunnitelmaa, joka on valmis sovellettavaksi lukiolaisille kaikkialla Brasiliassa."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partners-logo",
     "highestMantra": "Korkeimman mantramme logo",
-    "allToSpace": "All to Space -logo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO-logo",
     "mercosul": "Mercosurin 13. biennaalin logo",
     "inpe": "INPE ArtSat -työpajan logo",

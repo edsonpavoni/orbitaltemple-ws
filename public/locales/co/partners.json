@@ -4,15 +4,15 @@
   "intro": "U Tempiu Orbitale esiste grazia à a generosità, a cumpetenza è a visione di partenarii straordinarii. Da l'ingegneria di satelliti à a creazione di narrazioni, da l'apertura di porte in terre luntane à a trasfurmazione di sogni in oru, ogni cullaburazione avvicina stu tempiu à e stelle.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Partenarii",
+      "name": "RiseNY&Partners",
       "description": "Cumunicazione, sperienze integrate è stupende immagini di rendering 3D chì anu datu vita à a visione di u satellitu prima ch'ellu tuccassi u viotu di u spaziu."
     },
     "highestMantra": {
-      "name": "U nostru Mantra più altu",
+      "name": "Our Highest Mantra",
       "description": "Guidatu da Sathi Roy, chì cunnetta u Tempiu Orbitale cù e cumunità spirituali è artistiche di l'India. Apre percorsi per a raccolta di fondi, u scambiu culturale è una mostra Art Basel dopu u lanciu di nuvembre 2025."
     },
     "allToSpace": {
-      "name": "Tutti à u Spaziu",
+      "name": "All to Space",
       "description": "Specialisti brasiliani di picculi satelliti. Quattru anni di cullaburazione per custruisce una piattaforma hardware open source è pioniere di u prucessu per mandà l'arte in orbita da u Sud Globale."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "A squadra di sviluppu satellitu hè stata formata durante u II Workshop ArtSat. Cuurdinatu da Fabiane M. Borges, struitu da Lázaro Camargo, cullaburatu da Ítalo Pinto Rodrigues, tutelatu da Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Cuncetti Solidi",
+      "name": "Solid Concepts",
       "description": "Guidatu da Eduardo Dias. Tuttu u travagliu di stampa 3D è di microfusione d'oru per a cupola scultorea, trasfurmendu i sogni digitali in realtà di metalli preziosi."
     },
     "ideaSpace": {
-      "name": "Spaziu d'idee",
+      "name": "Idea Space",
       "description": "Startup educativa brasiliana chì sviluppa u curriculum di u Programma Spaziale Quebrada, prontu à esse applicatu à i studienti di u liceu in tuttu u Brasile."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo di RiseNY&Partners",
     "highestMantra": "U nostru Logo di Mantra Più Altu",
-    "allToSpace": "Logo di Tuttu à u Spaziu",
+    "allToSpace": "All to Space logo",
     "isro": "Logo di l'ISRO",
     "mercosul": "Logo di a 13a Biennale di u Mercosur",
     "inpe": "Logo di l'attellu INPE ArtSat",

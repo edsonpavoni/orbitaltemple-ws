@@ -8,11 +8,11 @@
       "description": "Komunikacja, zintegrowane doświadczenia i oszałamiające obrazy 3D, które ożywiły wizję satelity, zanim jeszcze dotknął on próżni kosmicznej."
     },
     "highestMantra": {
-      "name": "Nasza najwyższa mantra",
+      "name": "Our Highest Mantra",
       "description": "Pod kierownictwem Sathi Roya, Orbital Temple łączy się ze społecznością duchową i artystyczną Indii. Otwiera możliwości zbierania funduszy, wymiany kulturalnej i wystawy Art Basel po jej otwarciu w listopadzie 2025 roku."
     },
     "allToSpace": {
-      "name": "Wszystko w kosmos",
+      "name": "All to Space",
       "description": "Brazylijscy specjaliści od małych satelitów. Cztery lata współpracy przy tworzeniu platformy sprzętowej open source i pionierskim procesie wysyłania dzieł sztuki na orbitę z Globalnego Południa."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Zespół zajmujący się rozwojem satelity powstał podczas II Warsztatów ArtSat. Koordynatorem jest Fabiane M. Borges, kierownictwo: Lázaro Camargo, współpraca: Ítalo Pinto Rodrigues, nadzór: Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Solidne koncepcje",
+      "name": "Solid Concepts",
       "description": "Pod kierownictwem Eduardo Diasa. Druk 3D i mikroodlewy ze złota dla rzeźbiarskiej kopuły, przekształcając cyfrowe marzenia w rzeczywistość z metali szlachetnych."
     },
     "ideaSpace": {
-      "name": "Przestrzeń Pomysłów",
+      "name": "Idea Space",
       "description": "Brazylijski startup edukacyjny opracowuje program nauczania Quebrada Space Program, gotowy do wdrożenia w szkołach średnich w całej Brazylii."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo RiseNY&Partners",
     "highestMantra": "Nasze logo z najwyższą mantrą",
-    "allToSpace": "Logo „Wszystko w kosmosie”",
+    "allToSpace": "All to Space logo",
     "isro": "Logo ISRO",
     "mercosul": "Logo 13. Biennale Mercosuru",
     "inpe": "Logo warsztatu INPE ArtSat",

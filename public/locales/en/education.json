@@ -2,7 +2,7 @@
   "title": "Education & Open Source - Orbital Temple",
   "heading": "Education & Open Source",
   "intro": {
-    "paragraph1": "All technology developed for the Orbital Temple mission will be <strong>open source</strong> and available online in <strong>Portuguese</strong>, <strong>English</strong>, <strong>Spanish</strong>, and <strong>Hindi</strong>, fostering the advancement of space exploration in the <strong>Global South</strong>. New missions and projects can use Orbital Temple as a foundation for their own artistic or scientific experiments.",
+    "paragraph1": "All technology developed for the Orbital Temple mission will be <strong>open source</strong> and available online in <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong>, fostering the advancement of space exploration in the <strong>Global South</strong>. New missions and projects can use Orbital Temple as a foundation for their own artistic or scientific experiments.",
     "paragraph2": "As a part of its educational mission, Orbital Temple will offer a free multilingual course on how to build and launch a satellite. It will be a hands-on opportunity to learn about satellite technology and put it into practice. Anyone above the age of <strong>16</strong> will be able to build their own satellite, learning about the history of art in space, fundamental concepts of electronics, mechanics and space science, including how to finance projects and how to build an antenna to communicate with satellites in orbit."
   },
   "spaceGap": {
@@ -32,7 +32,7 @@
   },
   "globalAccess": {
     "heading": "Global Access, Starting from the Global South",
-    "paragraph1": "The course will be available to anyone <strong>16 years or older</strong>, completely <strong>free of charge</strong>. We are starting with content in <strong>Portuguese</strong>, <strong>Spanish</strong>, <strong>English</strong>, and <strong>Hindi</strong>, with plans to expand to additional languages as the program grows.",
+    "paragraph1": "The course will be available to anyone <strong>16 years or older</strong>, completely <strong>free of charge</strong>. We are starting with content in <strong>Portuguese</strong>, <strong>Spanish</strong>, and <strong>English</strong>, with plans to expand to additional languages as the program grows.",
     "paragraph2": "Our mission begins in the Global South and extends to the world, ensuring that the next generation of space explorers comes from all corners of Earth."
   },
   "callToAction": {

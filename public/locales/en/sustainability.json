@@ -10,8 +10,8 @@
     "paragraph1": "Space debris is one of the most pressing challenges facing space exploration. Thousands of defunct satellites and fragments orbit Earth, threatening active missions and creating a cascade effect that could make certain orbits unusable.",
     "paragraph2": "Orbital Temple addresses this in several ways:",
     "list": {
-      "orbit": "<strong>Sun-synchronous orbit at 525 km:</strong> This altitude ensures natural atmospheric drag will cause the satellite to re-enter Earth's atmosphere within approximately 10 years, where it will burn up completely. We are not contributing to long-term orbital debris.",
-      "size": "<strong>PocketQube design:</strong> At just 50×58×64mm and 245g, the satellite is small enough to completely vaporize during re-entry, leaving no debris on Earth's surface.",
+      "orbit": "<strong>Sun-synchronous orbit at about 500 to 560 km:</strong> This altitude ensures natural atmospheric drag will cause the satellite to re-enter Earth's atmosphere within four to ten years, where it will burn up completely. We are not contributing to long-term orbital debris.",
+      "size": "<strong>PocketQube design:</strong> At just a 5 cm cube and 250 g, the satellite is small enough to completely vaporize during re-entry, leaving no debris on Earth's surface.",
       "responsibility": "<strong>No planned obsolescence:</strong> Unlike commercial satellites that may be abandoned, Orbital Temple is designed to deorbit naturally, fulfilling international guidelines for responsible space activity."
     },
     "paragraph3": "By choosing a low Earth orbit and a compact design, we ensure that Orbital Temple's presence in space is temporary and non-polluting."
@@ -31,8 +31,8 @@
     "paragraph2": "This educational mission is itself a form of sustainability—investing in people and communities to create lasting change beyond the satellite's lifespan."
   },
   "tenYear": {
-    "heading": "A 10-Year Mission",
-    "paragraph1": "Orbital Temple is designed for a decade-long mission, not a brief publicity stunt. Over ten years, the satellite will orbit Earth approximately 50,000 times, receiving names and serving as a reminder that space can be a commons, accessible to all.",
+    "heading": "Four to Ten Years in Orbit",
+    "paragraph1": "Orbital Temple is designed for a mission of years, not a brief publicity stunt. Over four to ten years in orbit, the satellite will circle Earth again and again, receiving names and serving as a reminder that space can be a commons, accessible to all.",
     "paragraph2": "After its mission concludes, the satellite will naturally de-orbit and burn up, leaving no trace except in the memories and documentation of those who participated."
   },
   "artsResponsibility": {

@@ -1,10 +1,10 @@
 {
   "hero": {
     "title": "Templo Orbital",
-    "subtitle": "Es una obra de arte y un satélite,\nque aspira a ser un templo radicalmente inclusivo,\nen un lugar donde ningún muro puede llegar."
+    "subtitle": "es una obra de arte y un satélite,\nque aspira a ser un templo radicalmente inclusivo,\nen un lugar donde ningún muro puede llegar."
   },
   "ritual": {
-    "label": "ritual"
+    "label": "enviar un nombre"
   },
   "cta": {
     "link": "¿Otro templo más?",

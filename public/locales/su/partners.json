@@ -4,15 +4,15 @@
   "intro": "Kuil Orbital aya ngaliwatan kamurahan, kaahlian, sareng visi mitra anu luar biasa. Ti satelit rékayasa pikeun ngarajin narasi, tina muka panto di tanah anu jauh dugi ka tuang impian dina emas, unggal kolaborasi ngadeukeutkeun kuil ieu ka béntang.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY & Mitra",
+      "name": "RiseNY&Partners",
       "description": "Komunikasi, pangalaman terpadu jeung 3D stunning render imagery nu mawa visi satelit pikeun hirup saméméh kungsi keuna kakosongan rohangan."
     },
     "highestMantra": {
-      "name": "Mantra pangluhurna urang",
+      "name": "Our Highest Mantra",
       "description": "Dipimpin ku Sathi Roy, ngahubungkeun Kuil Orbital sareng komunitas spiritual sareng artistik India. Ngabuka jalur pikeun ngumpulkeun dana, bursa budaya, sareng paméran Art Basel saatos peluncuran Nopémber 2025."
     },
     "allToSpace": {
-      "name": "Sadayana ka Angkasa",
+      "name": "All to Space",
       "description": "spesialis satelit leutik Brasil. Opat taun kolaborasi ngawangun platform hardware open source sareng naratas prosés ngirim seni kana orbit ti Global South."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Tim ngembangkeun satelit kabentuk salila II ArtSat Workshop. Dikoordinir ku Fabiane M. Borges, diparentahkeun ku Lázaro Camargo, dikolaborasikeun ku Ítalo Pinto Rodrigues, diawasan ku Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Konsép Padet",
+      "name": "Solid Concepts",
       "description": "Dipingpin ku Eduardo Dias. Sadaya percetakan 3D sareng tuang mikro emas dianggo pikeun kubah patung, ngarobih impian digital janten kanyataan logam mulia."
     },
     "ideaSpace": {
-      "name": "Spasi gagasan",
+      "name": "Idea Space",
       "description": "Startup atikan Brasil ngamekarkeun kurikulum Program Spasi Quebrada, siap dilarapkeun ka siswa SMA sakuliah Brazil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo RiseNY & Mitra",
     "highestMantra": "Logo Mantra pangluhurna kami",
-    "allToSpace": "Sadayana ka Spasi Logo",
+    "allToSpace": "All to Space logo",
     "isro": "Logo ISRO",
     "mercosul": "13 Mercosur Biennial Logo",
     "inpe": "Logo Bengkel INPE ArtSat",

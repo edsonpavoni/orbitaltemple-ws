@@ -28,12 +28,12 @@ export default function SupportDocumentaryContent() {
 
       {/* Subtitle */}
       <h2 className="section-heading" style={{ marginTop: 'var(--space-lg)' }}>
-        A Rare Cultural Milestone in India's Space History
+        A Participatory Art Satellite from the Global South
       </h2>
 
       {/* Opening Content */}
       <p className="body-text">
-        On November 28, 2025, India will launch <em>Orbital Temple</em> aboard an ISRO rocket from the Satish Dhawan Space Centre, a first-of-its-kind, participatory art satellite created in and launched by the Global South.
+        On Thursday, October 1, 2026, <em>Orbital Temple</em> launches on SpaceX's Transporter-18 from Vandenberg, California: a first-of-its-kind, participatory art satellite created in the Global South. Its first flight, on India's PSLV-C62 in January 2026, ended when the rocket failed.
       </p>
 
       <p className="body-text">
@@ -41,7 +41,7 @@ export default function SupportDocumentaryContent() {
       </p>
 
       <p className="body-text body-text--section-end">
-        This is a powerful moment for India: the country's space program becomes host to an artwork that fuses spirituality, open-source innovation, and radical inclusivity.
+        It is an artwork that fuses spirituality, open-source innovation, and radical inclusivity.
       </p>
 
       {/* Funding Progress */}
@@ -90,11 +90,11 @@ export default function SupportDocumentaryContent() {
       </p>
 
       <p className="body-text" style={{ marginBottom: 'var(--space-sm)' }}>
-        <strong>Launch Date:</strong> November 28, 2025
+        <strong>Launch Date:</strong> October 1, 2026, 2:18 PM New York time
       </p>
 
       <p className="body-text" style={{ marginBottom: 'var(--space-sm)' }}>
-        <strong>Launch Location:</strong> Satish Dhawan Space Centre, Sriharikota, India (ISRO)
+        <strong>Launch Location:</strong> Vandenberg, California (SpaceX Transporter-18)
       </p>
 
       <p className="body-text" style={{ marginBottom: 'var(--space-sm)' }}>

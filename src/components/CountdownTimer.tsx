@@ -26,7 +26,7 @@ export default function CountdownTimer() {
         maxWidth: '400px',
         lineHeight: 1.4
       }}>
-        New launch date to be announced
+        Thursday, October 1, 2026 · 2:18 PM New York
       </div>
     </div>
   );

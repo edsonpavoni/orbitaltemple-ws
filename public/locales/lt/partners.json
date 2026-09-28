@@ -4,15 +4,15 @@
   "intro": "Orbitinė šventykla egzistuoja dėl nepaprastų partnerių dosnumo, patirties ir vizijos. Nuo palydovų inžinerijos iki istorijų kūrimo, nuo durų atvėrimo tolimose žemėse iki svajonių liejimo auksu – kiekvienas bendradarbiavimas priartina šią šventyklą prie žvaigždžių.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY ir partneriai",
+      "name": "RiseNY&Partners",
       "description": "Bendravimas, integruota patirtis ir stulbinantys 3D vaizdai, kurie įkūnijo palydovo viziją dar prieš jam pasiekiant kosmoso tuštumą."
     },
     "highestMantra": {
-      "name": "Mūsų aukščiausia mantra",
+      "name": "Our Highest Mantra",
       "description": "Sathi Roy vadovaujamas projektas sujungia Orbitalinę šventyklą su Indijos dvasinėmis ir meninėmis bendruomenėmis. Atveria kelius lėšų rinkimui, kultūriniams mainams ir Art Basel parodai po jos atidarymo 2025 m. lapkritį."
     },
     "allToSpace": {
-      "name": "Viskas į kosmosą",
+      "name": "All to Space",
       "description": "Brazilijos mažųjų palydovų specialistai. Ketveri metai bendradarbiavimo kuriant atvirojo kodo techninės įrangos platformą ir pradedant meno kūrinių siuntimą į orbitą iš Pietų pasaulio."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Palydovų kūrimo komanda susiformavo II ArtSat seminaro metu. Koordinavo Fabiane M. Borges, instruktavo Lázaro Camargo, bendradarbiavo Ítalo Pinto Rodrigues, prižiūri Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Tvirtos koncepcijos",
+      "name": "Solid Concepts",
       "description": "Vadovauja Eduardo Dias. Visi skulptūrinio kupolo 3D spausdinimo ir aukso mikroliejimo darbai, skaitmenines svajones paverčiantys tauriųjų metalų realybe."
     },
     "ideaSpace": {
-      "name": "Idėjų erdvė",
+      "name": "Idea Space",
       "description": "Brazilijos švietimo startuolis, kuriantis „Quebrada Space“ programos mokymo programą, kuri bus paruošta taikyti vidurinių mokyklų mokiniams visoje Brazilijoje."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "„RiseNY&Partners“ logotipas",
     "highestMantra": "Mūsų aukščiausios mantros logotipas",
-    "allToSpace": "„All to Space“ logotipas",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO logotipas",
     "mercosul": "13-osios Mercosur bienalės logotipas",
     "inpe": "INPE ArtSat dirbtuvių logotipas",

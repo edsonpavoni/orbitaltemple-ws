@@ -3,15 +3,15 @@
   "heading": "Technical Info",
   "satellite": {
     "heading": "Satellite",
-    "specs": "Dimensions: 50x58x64 mm<br />1P PocketQube<br />Weight: 245 gr<br />Materials: aluminum, gold, fiberglass, and electronic components.<br />Orbit: Altitude 525 ± 25 km; inclination: SSO 97.6 ± 0.1°"
+    "specs": "Dimensions: 5 cm cube (5 × 5 × 30 cm with the antenna deployed)<br />1P PocketQube<br />Weight: 250 g<br />Materials: aluminum, gold, fiberglass, and electronic components.<br />Orbit: sun-synchronous, about 500 to 560 km; inclination about 97.5°"
   },
   "antenna": {
     "heading": "Antenna/Sculpture",
-    "specs": "Dimensions: 6 m (diameter) e 1.2m (height)<br />Weight: 46 kg<br />Materials: aluminum, epoxy mirrored board, golden aluminum dome suspended through a scaffolding structure."
+    "specs": "Dimensions: 6 m (diameter) e 1.2m (height)<br />Weight: 46 kg<br />Materials: aluminum, epoxy mirrored board, golden aluminum dome suspended through a scaffolding structure.<br />Status: designed"
   },
   "radio": {
     "heading": "Radio Specs",
-    "specs": "Downlink: 437 MHz<br />Status: Awaiting new launch"
+    "specs": "Uplink: 401.5 MHz<br />Downlink: 468.5 MHz<br />Status: Cleared for Transporter-18, October 1, 2026"
   },
   "imageAlt": "Technical Info Diagram"
 }

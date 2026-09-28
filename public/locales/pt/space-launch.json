@@ -1,13 +1,13 @@
 {
   "title": "Lançamento Espacial - Templo Orbital",
   "heading": "Lançamento espacial",
-  "intro": "Em 16 de janeiro de 2026, o Templo Orbital estava a bordo do foguete PSLV-C62 da ISRO. O foguete decolou e chegou ao espaço, mas falhou em seu estágio final. O Templo Orbital ficou no espaço por apenas 10 minutos antes do foguete perder o controle e queimar na atmosfera.",
+  "intro": "Em 12 de janeiro de 2026, o Templo Orbital estava a bordo do foguete PSLV-C62 da ISRO. O foguete decolou e chegou ao espaço, mas falhou em seu estágio final. O Templo Orbital ficou no espaço por apenas 10 minutos antes do foguete perder o controle e queimar na atmosfera.",
   "status": {
     "heading": "O que acontece agora",
-    "paragraph1": "Estamos trabalhando em uma nova oportunidade de lançamento. A data ainda não foi confirmada.",
-    "paragraph2": "Templos levam tempo para serem construídos. Alguns levaram séculos. O Templo Orbital carrega os nomes daqueles que acreditaram nele, e esse compromisso permanece. Tentaremos novamente."
+    "paragraph1": "Um segundo Templo Orbital está autorizado a voar na missão Transporter-18 da SpaceX, da base de Vandenberg, na Califórnia, prevista para quinta-feira, 1º de outubro de 2026, às 15h18 (horário de Brasília).",
+    "paragraph2": "Templos levam tempo para serem construídos. Alguns levaram séculos. O Templo Orbital carrega os nomes daqueles que acreditaram nele, e esse compromisso permanece. Estamos tentando de novo."
   },
-  "partnership": "O primeiro lançamento do Templo Orbital foi uma parceria entre a NewSpace India Limited (NSIL), uma empresa do governo indiano vinculada ao Departamento Espacial, a Antrix Corporation e o artista. Essa colaboração representou um marco significativo para a arte na exploração espacial, unindo o programa espacial da Índia a uma visão artística de inclusão radical. Estamos agora explorando novas oportunidades de lançamento.",
+  "partnership": "O primeiro lançamento do Templo Orbital foi uma parceria entre a NewSpace India Limited (NSIL), uma empresa do governo indiano vinculada ao Departamento Espacial, a Antrix Corporation e o artista. Essa colaboração representou um marco significativo para a arte na exploração espacial, unindo o programa espacial da Índia a uma visão artística de inclusão radical. O segundo lançamento é na Transporter-18 da SpaceX.",
   "imageAlts": {
     "india": "Centro Espacial ISRO, Índia",
     "satellite": "Satélite do Templo Orbital"

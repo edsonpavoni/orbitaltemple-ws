@@ -8,11 +8,11 @@
       "description": "Cumarsáid, eispéiris chomhtháite agus íomhánna rindreála 3T iontacha a thug fís an tsatailít chun beochta sula ndeachaigh sé i dteagmháil le folús an spáis riamh."
     },
     "highestMantra": {
-      "name": "Ár Mantra is Airde",
+      "name": "Our Highest Mantra",
       "description": "Faoi stiúir Sathi Roy, ag ceangal Teampall Orbital le pobail spioradálta agus ealaíonta na hIndia. Ag oscailt bealaí chun bailiú airgid, malartú cultúrtha, agus taispeántas Art Basel i ndiaidh an tseolta i mí na Samhna 2025."
     },
     "allToSpace": {
-      "name": "Gach Rud go Spás",
+      "name": "All to Space",
       "description": "Speisialtóirí satailíte beaga Brasaíleacha. Ceithre bliana de chomhoibriú ag tógáil ardán crua-earraí foinse oscailte agus ag ceannródaíocht sa phróiseas chun ealaín a sheoladh isteach i bhfithis ón Deisceart Domhanda."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Bunaíodh an fhoireann forbartha satailíte le linn Cheardlann II ArtSat. Comhordaithe ag Fabiane M. Borges, treoir ag Lázaro Camargo, i gcomhar le Ítalo Pinto Rodrigues, faoi mhaoirseacht Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Coincheapa Soladacha",
+      "name": "Solid Concepts",
       "description": "Faoi stiúir Eduardo Dias. Déantar an obair phriontála 3T agus an obair micrea-réitigh óir go léir don chruinneachán dealbhóireachta, ag athrú aislingí digiteacha ina réaltacht miotail lómhara."
     },
     "ideaSpace": {
-      "name": "Spás Smaointe",
+      "name": "Idea Space",
       "description": "Gnólacht nuathionscanta oideachais sa Bhrasaíl ag forbairt churaclam Chlár Spáis Quebrada, atá réidh le cur i bhfeidhm ar dhaltaí ardscoile ar fud na Brasaíle."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Lógó RiseNY&Partners",
     "highestMantra": "Lógó Ár Mantra is Airde",
-    "allToSpace": "Lógó All to Space",
+    "allToSpace": "All to Space logo",
     "isro": "Lógó ISRO",
     "mercosul": "Lógó 13ú Débhliantúil Mercosur",
     "inpe": "Lógó Cheardlann INPE ArtSat",

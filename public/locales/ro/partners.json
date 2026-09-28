@@ -4,15 +4,15 @@
   "intro": "Templul Orbital există prin generozitatea, expertiza și viziunea unor parteneri extraordinari. De la proiectarea sateliților la crearea de narațiuni, de la deschiderea de uși în ținuturi îndepărtate la transformarea viselor în aur, fiecare colaborare aduce acest templu mai aproape de stele.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Parteneri",
+      "name": "RiseNY&Partners",
       "description": "Comunicare, experiențe integrate și imagini 3D uimitoare care au adus la viață viziunea satelitului înainte ca acesta să atingă vreodată vidul spațiului."
     },
     "highestMantra": {
-      "name": "Cea mai înaltă mantră a noastră",
+      "name": "Our Highest Mantra",
       "description": "Condusă de Sathi Roy, conectează Templul Orbital cu comunitățile spirituale și artistice ale Indiei. Deschide căi pentru strângerea de fonduri, schimb cultural și o expoziție Art Basel după lansarea din noiembrie 2025."
     },
     "allToSpace": {
-      "name": "Toți în spațiu",
+      "name": "All to Space",
       "description": "Specialiști brazilieni în sateliți mici. Patru ani de colaborare în construirea unei platforme hardware open source și în pionieratul procesului de trimitere a artei pe orbită din Sudul Global."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Echipa de dezvoltare a satelitului s-a format în cadrul celui de-al II-lea Atelier ArtSat. Coordonat de Fabiane M. Borges, instruit de Lázaro Camargo, colaborat de Ítalo Pinto Rodrigues, supravegheat de Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Concepte solide",
+      "name": "Solid Concepts",
       "description": "Condus de Eduardo Dias. Toate lucrările de imprimare 3D și microturnare a aurului pentru cupola sculpturală, transformând visele digitale în realitate din metale prețioase."
     },
     "ideaSpace": {
-      "name": "Spațiu de idei",
+      "name": "Idea Space",
       "description": "Startup-ul educațional brazilian dezvoltă programa de învățământ a Programului Spațial Quebrada, gata de a fi aplicată elevilor de liceu din Brazilia."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Sigla RiseNY&Partners",
     "highestMantra": "Logoul nostru cel mai înalt al mantrei",
-    "allToSpace": "Logoul All to Space",
+    "allToSpace": "All to Space logo",
     "isro": "Sigla ISRO",
     "mercosul": "Logo-ul celei de-a 13-a Bienale a Mercosur",
     "inpe": "Logoul Atelierului INPE ArtSat",

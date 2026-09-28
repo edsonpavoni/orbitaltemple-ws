@@ -8,11 +8,11 @@
       "description": "Kommunikation, integrerade upplevelser och fantastiska 3D-renderbilder som väckte satellitens vision till liv innan den ens nuddade rymdens tomhet."
     },
     "highestMantra": {
-      "name": "Vårt högsta mantra",
+      "name": "Our Highest Mantra",
       "description": "Leds av Sathi Roy, kopplar Orbital Temple samman med Indiens andliga och konstnärliga samhällen. Öppnar vägar för insamlingar, kulturellt utbyte och en Art Basel-utställning efter lanseringen i november 2025."
     },
     "allToSpace": {
-      "name": "Allt till rymden",
+      "name": "All to Space",
       "description": "Brasilianska specialister på små satelliter. Fyra års samarbete med att bygga en öppen källkodsplattform för hårdvara och vara pionjär i processen att skicka konst till omloppsbana från det globala syd."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Satellitutvecklingsteamet bildades under II ArtSat Workshop. Koordinerad av Fabiane M. Borges, instruerad av Lázaro Camargo, samarbetad av Ítalo Pinto Rodrigues, övervakad av Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Solida koncept",
+      "name": "Solid Concepts",
       "description": "Leds av Eduardo Dias. All 3D-utskrift och mikrogjutning av guld används för den skulpturala kupolen, som förvandlar digitala drömmar till verklighet av ädelmetaller."
     },
     "ideaSpace": {
-      "name": "Idéutrymme",
+      "name": "Idea Space",
       "description": "Brasiliansk utbildningsstartup utvecklar Quebradas rymdprograms läroplan, redo att tillämpas på gymnasieelever över hela Brasilien."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partners-logotypen",
     "highestMantra": "Vår högsta mantra-logotyp",
-    "allToSpace": "All to Space-logotypen",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO-logotyp",
     "mercosul": "13:e Mercosurbiennalens logotyp",
     "inpe": "INPE ArtSat Workshop-logotyp",

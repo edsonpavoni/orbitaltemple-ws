@@ -1,24 +1,28 @@
 {
   "breathing": {
-    "text": "Al entrar\nen un ritual\npara enviar un nombre\nal\ntemplo orbital\nen el espacio\nrespira hondo",
-    "button": "Estoy listo"
+    "text": "al entrar\nen un ritual\n\npara enviar un nombre\nal\ntemplo orbital\nen el espacio\n\nrespira\nhondo",
+    "button": "estoy listo"
   },
   "nameInput": {
-    "title": "Escribe un nombre",
-    "subtitle": "Se elevará hasta el Templo Orbital en el espacio.",
+    "title": "escribe un nombre",
+    "subtitle": "se elevará hasta el Templo Orbital en el espacio.",
     "placeholder": "nombre",
     "button": "que ascienda"
   },
   "emailInput": {
-    "title": "Escribe tu correo electrónico",
-    "subtitle": "Así, recibes un mensaje cuando el nombre asciende.",
+    "title": "escribe tu correo electrónico",
+    "subtitle": "para que recibas un mensaje cuando el nombre ascienda.",
     "placeholder": "tu correo electrónico",
-    "button": "Ya está hecho."
+    "button": "ya está hecho"
   },
   "loading": {
     "alt": "Cargando"
   },
   "success": {
-    "text": "El nombre\n{{name}}\nestá ahora en cola\npara su ascensión.\nCuando el\ntemplo en el espacio\nse alinee con\nnuestra antena\nen la Tierra,\nenviaremos\nel nombre\ny recibirás\nun mensaje."
+    "text": "el nombre\n{{name}}\nya está en cola\npara su ascensión.\n\ncuando el\ntemplo en el espacio\nse alinee con\nnuestra antena\nen la Tierra\n\nenviaremos\nel nombre\ny recibirás\nun mensaje."
+  },
+  "error": {
+    "text": "no pudimos llegar\nal templo.\n\nel nombre\n{{name}}\nno se guardó.\n\npor favor, inténtalo de nuevo.",
+    "button": "intentar de nuevo"
   }
 }

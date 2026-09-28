@@ -1,0 +1,11 @@
+{
+  "title": "Cancelar suscripción - Templo Orbital",
+  "heading": "Cancelar la suscripción a las actualizaciones por correo",
+  "intro": "Para dejar de recibir actualizaciones del Templo Orbital, confirma la cancelación de tu suscripción a continuación.",
+  "unsubscribeButton": "Cancelar suscripción",
+  "successMessage": "Tu suscripción se canceló correctamente.",
+  "thanks": "Gracias por ser parte de este viaje.",
+  "tryAgain": "Intentar de nuevo",
+  "noEmail": "No se encontró ninguna dirección de correo electrónico. Usa el enlace para cancelar la suscripción que aparece en tu correo.",
+  "backToHome": "Volver al inicio"
+}

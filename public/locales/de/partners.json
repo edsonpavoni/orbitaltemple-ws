@@ -8,11 +8,11 @@
       "description": "Kommunikation, integrierte Erlebnisse und atemberaubende 3D-Renderings, die die Vision des Satelliten zum Leben erweckten, noch bevor er die Leere des Weltraums berührte."
     },
     "highestMantra": {
-      "name": "Unser höchstes Mantra",
+      "name": "Our Highest Mantra",
       "description": "Unter der Leitung von Sathi Roy wird der Orbital Temple mit Indiens spirituellen und künstlerischen Gemeinschaften vernetzt. Dadurch werden Wege für Spendenaktionen, kulturellen Austausch und eine Ausstellung auf der Art Basel im Anschluss an die Eröffnung im November 2025 geebnet."
     },
     "allToSpace": {
-      "name": "Alles ins Weltall",
+      "name": "All to Space",
       "description": "Brasilianische Kleinsatelliten-Spezialisten. Vier Jahre Zusammenarbeit beim Aufbau einer Open-Source-Hardwareplattform und Pionierarbeit beim Transport von Kunstwerken aus dem globalen Süden in den Orbit."
     },
     "isro": {
@@ -32,7 +32,7 @@
       "description": "Unter der Leitung von Eduardo Dias. Sämtliche Arbeiten im Bereich 3D-Druck und Goldmikroguss für die skulpturale Kuppel verwandeln digitale Visionen in Realität aus Edelmetall."
     },
     "ideaSpace": {
-      "name": "Ideenraum",
+      "name": "Idea Space",
       "description": "Das brasilianische Bildungs-Startup entwickelt den Lehrplan des Quebrada-Weltraumprogramms, der für Gymnasiasten in ganz Brasilien eingesetzt werden soll."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partners Logo",
     "highestMantra": "Unser höchstes Mantra-Logo",
-    "allToSpace": "Alle ins Weltall-Logo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO-Logo",
     "mercosul": "Logo der 13. Mercosur-Biennale",
     "inpe": "INPE ArtSat Workshop Logo",

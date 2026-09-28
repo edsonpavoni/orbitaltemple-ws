@@ -4,15 +4,15 @@
   "intro": "Orbital Temple jeżisti permezz tal-ġenerożità, l-għarfien espert, u l-viżjoni ta’ msieħba straordinarji. Mill-inġinerija tas-satelliti sal-ħolqien ta’ narrattivi, mill-ftuħ ta’ bibien f’artijiet imbiegħda sal-ħolqien ta’ ħolm fid-deheb, kull kollaborazzjoni tressaq dan it-tempju eqreb lejn il-kwiekeb.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Imsieħba",
+      "name": "RiseNY&Partners",
       "description": "Komunikazzjoni, esperjenzi integrati u immaġni 3D tal-għaġeb li taw il-ħajja lill-viżjoni tas-satellita qabel ma qatt mess il-vojt tal-ispazju."
     },
     "highestMantra": {
-      "name": "L-Ogħla Mantra Tagħna",
+      "name": "Our Highest Mantra",
       "description": "Immexxija minn Sathi Roy, li tgħaqqad it-Tempju Orbitali mal-komunitajiet spiritwali u artistiċi tal-Indja. Tiftaħ mogħdijiet għall-ġbir ta' fondi, skambju kulturali, u wirja ta' Art Basel wara t-tnedija f'Novembru 2025."
     },
     "allToSpace": {
-      "name": "Kollha għall-Ispazju",
+      "name": "All to Space",
       "description": "Speċjalisti Brażiljani ta' satelliti żgħar. Erba' snin ta' kollaborazzjoni fil-bini ta' pjattaforma ta' ħardwer open source u pijunieri fil-proċess biex tintbagħat l-arti fl-orbita min-Nofsinhar Globali."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "It-tim tal-iżvilupp tas-satellita ffurmat matul it-II ArtSat Workshop. Ikkoordinat minn Fabiane M. Borges, struzzjonijiet minn Lázaro Camargo, ikkollaborat minn Ítalo Pinto Rodrigues, sorveljat minn Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Kunċetti Solidi",
+      "name": "Solid Concepts",
       "description": "Immexxi minn Eduardo Dias. L-istampar 3D u x-xogħol kollu tal-mikro-ikkastjar tad-deheb għall-koppla skulturali, jittrasformaw il-ħolm diġitali f'realtà ta' metall prezzjuż."
     },
     "ideaSpace": {
-      "name": "Spazju tal-Ideat",
+      "name": "Idea Space",
       "description": "Startup edukattiv Brażiljan li qed jiżviluppa l-kurrikulu tal-Programm Spazjali Quebrada, lest biex jiġi applikat għal studenti tal-iskola sekondarja madwar il-Brażil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo ta' RiseNY&Partners",
     "highestMantra": "L-Ogħla Logo tal-Mantra Tagħna",
-    "allToSpace": "Logo ta' Kollox għall-Ispazju",
+    "allToSpace": "All to Space logo",
     "isro": "Logo tal-ISRO",
     "mercosul": "Logo tat-13-il Biennali tal-Mercosur",
     "inpe": "Logo tal-Workshop tal-INPE ArtSat",

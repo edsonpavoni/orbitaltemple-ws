@@ -8,11 +8,11 @@
       "description": "Komunikācija, integrēta pieredze un satriecoši 3D renderējuma attēli, kas atdzīvināja satelīta redzējumu, pirms tas jebkad pieskārās kosmosa tukšumam."
     },
     "highestMantra": {
-      "name": "Mūsu augstākā mantra",
+      "name": "Our Highest Mantra",
       "description": "Sathi Roy vadībā Orbital Temple savieno Indijas garīgās un mākslinieciskās kopienas. Pēc izstādes atklāšanas 2025. gada novembrī tiek atvērtas iespējas līdzekļu piesaistei, kultūras apmaiņai un Art Basel izstādei."
     },
     "allToSpace": {
-      "name": "Viss kosmosā",
+      "name": "All to Space",
       "description": "Brazīlijas mazo satelītu speciālisti. Četru gadu sadarbība atvērtā pirmkoda aparatūras platformas izveidē un mākslas darbu nosūtīšanas orbītā no globālajiem dienvidiem procesa pionierdarbs."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Satelītu izstrādes komanda tika izveidota II ArtSat semināra laikā. Koordinē Fabiane M. Borges, instruējis Lāzaro Kamargo, sadarbojies Italo Pinto Rodrigess, uzrauga Valters Abrahão dos Santoss."
     },
     "solidConcepts": {
-      "name": "Stabilas koncepcijas",
+      "name": "Solid Concepts",
       "description": "Eduardo Diasa vadībā. Visi skulpturālā kupola 3D drukāšanas un zelta mikroliešanas darbi, pārveidojot digitālos sapņus dārgmetāla realitātē."
     },
     "ideaSpace": {
-      "name": "Ideju telpa",
+      "name": "Idea Space",
       "description": "Brazīlijas izglītības jaunuzņēmums, kas izstrādā Quebrada kosmosa programmas mācību programmu, kas ir gatava piemērošanai vidusskolēniem visā Brazīlijā."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partners logotips",
     "highestMantra": "Mūsu augstākās mantras logotips",
-    "allToSpace": "Viss kosmosam Logo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO logotips",
     "mercosul": "13. Mercosur biennāles logotips",
     "inpe": "INPE ArtSat darbnīcas logotips",

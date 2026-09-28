@@ -4,15 +4,15 @@
   "intro": "Orbital Məbədi qeyri-adi tərəfdaşların səxavəti, təcrübəsi və görmə qabiliyyəti ilə mövcuddur. Mühəndislik peyklərindən sənətkarlıq hekayələrinə, uzaq ölkələrdə qapıların açılmasından xəyalların qızıla dökülməsinə qədər, hər bir əməkdaşlıq bu məbədi ulduzlara yaxınlaşdırır.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY & Partners",
+      "name": "RiseNY&Partners",
       "description": "Rabitə, inteqrasiya edilmiş təcrübələr və heyrətamiz 3D təsvirlər peykin kosmos boşluğuna toxunmamışdan əvvəl onun görmə qabiliyyətini canlandırdı."
     },
     "highestMantra": {
-      "name": "Ən Yüksək Mantramız",
+      "name": "Our Highest Mantra",
       "description": "Orbital Məbədini Hindistanın mənəvi və bədii icmaları ilə birləşdirən Sathi Roy tərəfindən idarə olunur. Noyabr 2025-ci ilin açılışından sonra fandreyzinq, mədəni mübadilə və Art Bazel sərgisinə yollar açılır."
     },
     "allToSpace": {
-      "name": "Hamısı Kosmosa",
+      "name": "All to Space",
       "description": "Braziliyalı kiçik peyk mütəxəssisləri. Açıq mənbəli aparat platformasının qurulması və Qlobal Cənubdan orbitə incəsənətin göndərilməsi prosesinə öncülük edən dörd illik əməkdaşlıq."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Peyk inkişaf qrupu II ArtSat Seminarı zamanı formalaşmışdır. Fabiane M. Borges tərəfindən əlaqələndirilir, Lázaro Camargo tərəfindən təlimat verilir, Ítalo Pinto Rodrigues tərəfindən əməkdaşlıq edilir, Valter Abrahão dos Santos tərəfindən idarə olunur."
     },
     "solidConcepts": {
-      "name": "Bərk Konseptlər",
+      "name": "Solid Concepts",
       "description": "Eduardo Dias rəhbərlik edir. Bütün 3D çap və qızılı mikro tökmə rəqəmsal xəyalları qiymətli metal reallığa çevirərək heykəltəraşlıq günbəzi üçün işləyir."
     },
     "ideaSpace": {
-      "name": "İdeya Məkanı",
+      "name": "Idea Space",
       "description": "Quebrada Kosmik Proqramı kurikulumunu inkişaf etdirən Braziliya təhsil startapı bütün Braziliyada orta məktəb şagirdlərinə tətbiq olunmağa hazırdır."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partners Loqotipi",
     "highestMantra": "Ən Yüksək Mantra Loqomuz",
-    "allToSpace": "Hamısı Kosmosa Loqo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO Loqotipi",
     "mercosul": "13-cü Mercosur Biennalının Loqosu",
     "inpe": "INPE ArtSat Workshop loqosu",

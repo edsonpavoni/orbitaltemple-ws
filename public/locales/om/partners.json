@@ -4,19 +4,19 @@
   "intro": "Orbital Temple kan jiraatu arjummaa, ogummaa fi mul’ata michoota adda ta’aniin. Saatalaayitii injinariingii irraa kaasee hanga seeneffama hojii harkaa hojjechuutti, lafa fagootti balbala banuu irraa kaasee hanga abjuu warqeedhaan darbachuutti, tumsi tokkoon tokkoon mana qulqullummaa kana urjiileetti dhiheessa.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Michoota",
+      "name": "RiseNY&Partners",
       "description": "Walqunnamtiin, muuxannoowwan walitti makamaa fi fakkiiwwan 3D ajaa'ibsiisoo ta'an kanneen mul'ata saatalaayitiin kun osoo duwwaa hawaa hin tuqin dura jireenyatti fide."
     },
     "highestMantra": {
-      "name": "Mantra Keenya Ol'aanaa",
+      "name": "Our Highest Mantra",
       "description": "Sathi Roy tiin kan hoogganamu, Orbital Temple hawaasa hafuuraa fi aartii Hindii waliin kan wal qunnamsiisu. Daandiiwwan maallaqa walitti qabuu, waljijjiirraa aadaa, fi agarsiisa Art Basel Eebba Adoolessa 2025 hordofuun banuun."
     },
     "allToSpace": {
-      "name": "Hundi isaanii gara Hawaatti",
+      "name": "All to Space",
       "description": "Ogeessota saatalaayitii xixiqqaa Biraazil. Walta'iinsa waggoota afuriif waltajjii haardwaara madda banaa ijaaruu fi adeemsa aartii Kibba Addunyaa irraa gara orbiititti erguuf qajeelchaa ta'uu."
     },
     "isro": {
-      "name": "ISROON",
+      "name": "ISRO",
       "description": "Dhaabbata Qorannoo Hawaa Hindii. Ergama PSLV kan Orbital Temple gara orbit aduu-walsimsiisaa geessuuf Adoolessa 2025tti dhiyeessaa furguggisuu."
     },
     "mercosul": {
@@ -28,11 +28,11 @@
       "description": "Gareen misooma saatalaayitii kun yeroo II ArtSat Workshop ijaarame. Qindeessaan Fabiane M. Borges, qajeelfama Lázaro Camargo, tumsa Ítalo Pinto Rodrigues, kan to’atu Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Yaad-rimeewwan Jajjaboo",
+      "name": "Solid Concepts",
       "description": "Eduardo Dias tiin kan hoogganamu. Maxxansi 3D fi warqee maaykiroo kaastiin hundinuu sculptural dome kanaaf hojjetu, abjuu dijitaalaa gara dhugaa sibiilaa gatii guddaa qabuutti jijjiira."
     },
     "ideaSpace": {
-      "name": "Iddoo Yaada",
+      "name": "Idea Space",
       "description": "Jalqaba barnootaa Biraazil kaarikulamii Sagantaa Hawaa Kuubraadaa qopheessaa jiru, barattoota mana barumsaa sadarkaa lammaffaa guutuu Biraazil keessatti hojiirra oolchuuf qophaa'e."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Asxaa RiseNY&Partners jedhamuun beekama",
     "highestMantra": "Asxaa Mantra keenya isa Ol'aanaa",
-    "allToSpace": "All to Space Asxaa",
+    "allToSpace": "All to Space logo",
     "isro": "Asxaa ISRO",
     "mercosul": "Asxaa waggaa lamaa Mercosur 13ffaa",
     "inpe": "Asxaa Workshop INPE ArtSat",

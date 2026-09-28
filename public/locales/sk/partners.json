@@ -8,11 +8,11 @@
       "description": "Komunikácia, integrované zážitky a ohromujúce 3D renderované snímky, ktoré vdýchli život vízii satelitu ešte predtým, ako sa vôbec dotkol prázdnoty vesmíru."
     },
     "highestMantra": {
-      "name": "Naša najvyššia mantra",
+      "name": "Our Highest Mantra",
       "description": "Pod vedením Sathiho Roya spája Orbital Temple s duchovnými a umeleckými komunitami Indie. Otvára cesty k získavaniu finančných prostriedkov, kultúrnej výmene a výstave Art Basel po spustení v novembri 2025."
     },
     "allToSpace": {
-      "name": "Všetko do vesmíru",
+      "name": "All to Space",
       "description": "Brazílski špecialisti na malé satelity. Štyri roky spolupráce pri budovaní hardvérovej platformy s otvoreným zdrojovým kódom a priekopníckom procese posielania umenia na obežnú dráhu z globálneho Juhu."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Satelitný vývojový tím vznikol počas II ArtSat Workshopu. Koordinuje Fabiane M. Borges, inštruuje Lázaro Camargo, spolupracuje Ítalo Pinto Rodrigues, pod dohľadom Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Solídne koncepty",
+      "name": "Solid Concepts",
       "description": "Pod vedením Eduarda Diasa. Všetky práce na 3D tlači a mikroodlievaní zlata pre sochársku kupolu, premieňajú digitálne sny na realitu z drahých kovov."
     },
     "ideaSpace": {
-      "name": "Priestor nápadov",
+      "name": "Idea Space",
       "description": "Brazílsky vzdelávací startup vyvíja učebné osnovy vesmírneho programu Quebrada, ktoré sú pripravené na aplikáciu stredoškolákom v celej Brazílii."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo RiseNY&Partners",
     "highestMantra": "Logo našej najvyššej mantry",
-    "allToSpace": "Logo Všetko do vesmíru",
+    "allToSpace": "All to Space logo",
     "isro": "Logo ISRO",
     "mercosul": "Logo 13. bienále Mercosuru",
     "inpe": "Logo workshopu INPE ArtSat",

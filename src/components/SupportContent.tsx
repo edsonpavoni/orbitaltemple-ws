@@ -106,34 +106,6 @@ export default function SupportContent() {
         <span dangerouslySetInnerHTML={{ __html: t('accomplished.content') }} />
       </p>
 
-      {/* Funding Progress */}
-      <h2 className="section-heading">
-        {t('funding.heading')}
-      </h2>
-
-      <div style={{ maxWidth: '600px', margin: '0 auto 3rem auto', padding: '2rem', background: 'rgba(250, 212, 58, 0.03)', border: '1px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
-
-        <p className="body-text text-center" style={{ marginBottom: '1rem' }}>
-          <strong className="price-standard">$29,000</strong> {t('funding.raised')} <strong className="price-standard">$241,000</strong> {t('funding.goal')}
-        </p>
-
-        {/* Progress Bar */}
-        <div style={{ width: '100%', height: '8px', background: 'rgba(250, 212, 58, 0.1)', borderRadius: '4px', overflow: 'hidden', marginBottom: '1.5rem' }}>
-          <div style={{ width: '12.03%', height: '100%', background: 'var(--color-ot-gold200)', borderRadius: '4px' }}></div>
-        </div>
-
-        <div style={{ textAlign: 'center' }}>
-          <a
-            href="https://app.thefield.org/home/donation/general/632877/0"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ display: 'inline-block', padding: '0.875rem 2rem', background: 'var(--color-ot-gold200)', color: 'var(--color-ot-dark)', fontWeight: 700, fontSize: '1rem', textDecoration: 'none', borderRadius: '4px', transition: 'all 0.2s ease' }}>
-            {t('funding.button')}
-          </a>
-        </div>
-
-      </div>
-
       {/* What We Need Support For */}
       <h2 className="section-heading">
         {t('needs.heading')}
@@ -148,19 +120,10 @@ export default function SupportContent() {
           · <strong>{t('needs.launch.title')}</strong> $32,000
         </p>
         <p className="body-text" style={{ margin: 0 }}>
-          · <strong>{t('needs.travel.title')}</strong> $6,000
-        </p>
-        <p className="body-text" style={{ margin: 0 }}>
           · <strong>{t('needs.carbon.title')}</strong> $2,000
         </p>
         <p className="body-text" style={{ margin: 0 }}>
           · <strong>{t('needs.education.title')}</strong> $46,000
-        </p>
-        <p className="body-text" style={{ margin: 0 }}>
-          · <strong>{t('needs.docPreProd.title')}</strong> $38,000
-        </p>
-        <p className="body-text" style={{ margin: 0 }}>
-          · <strong>{t('needs.docProd.title')}</strong> $88,000
         </p>
       </div>
 
@@ -316,29 +279,6 @@ export default function SupportContent() {
           </div>
         </div>
 
-        {/* Artist Travel */}
-        <div style={{ background: 'rgba(250, 212, 58, 0.03)', padding: '2rem', borderLeft: '4px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '1rem', flexWrap: 'wrap', gap: '1rem' }}>
-            <h3 className="section-subtitle" style={{ margin: 0 }}>{t('fundingOpportunities.travel.title')}</h3>
-            <p className="price-standard">$6,000</p>
-          </div>
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.travel.description') }} />
-          </p>
-          <p className="body-text body-text--secondary" style={{ marginTop: '1rem' }}>
-            {t('fundingOpportunities.travel.benefits')}
-          </p>
-          <div style={{ marginTop: '1.5rem', textAlign: 'right' }}>
-            <a
-              href="https://app.thefield.org/home/donation/general/632877/0"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ display: 'inline-block', padding: '0.5rem 1rem', fontSize: '0.9rem', border: '1px solid var(--color-ot-gold200)', color: 'var(--color-ot-light)', textDecoration: 'none', borderRadius: '3px', transition: 'all 0.2s ease' }}>
-              {t('fundingOpportunities.travel.button')}
-            </a>
-          </div>
-        </div>
-
         {/* Carbon Offset */}
         <div style={{ background: 'rgba(250, 212, 58, 0.03)', padding: '2rem', borderLeft: '4px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '1rem', flexWrap: 'wrap', gap: '1rem' }}>
@@ -381,97 +321,6 @@ export default function SupportContent() {
               rel="noopener noreferrer"
               style={{ display: 'inline-block', padding: '0.5rem 1rem', fontSize: '0.9rem', border: '1px solid var(--color-ot-gold200)', color: 'var(--color-ot-light)', textDecoration: 'none', borderRadius: '3px', transition: 'all 0.2s ease' }}>
               {t('fundingOpportunities.education.button')}
-            </a>
-          </div>
-        </div>
-
-        {/* Documentary Pre-Production */}
-        <div style={{ background: 'rgba(250, 212, 58, 0.03)', padding: '2rem', borderLeft: '4px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '1rem', flexWrap: 'wrap', gap: '1rem' }}>
-            <h3 className="section-subtitle" style={{ margin: 0 }}>{t('fundingOpportunities.docPreProd.title')}</h3>
-            <p className="price-standard">$38,000</p>
-          </div>
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.docPreProd.description') }} />
-          </p>
-          <p className="body-text body-text--secondary" style={{ marginTop: '1rem' }}>
-            {t('fundingOpportunities.docPreProd.benefits')}
-          </p>
-          <div style={{ marginTop: '1.5rem', textAlign: 'right' }}>
-            <a
-              href="https://app.thefield.org/home/donation/general/632877/0"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ display: 'inline-block', padding: '0.5rem 1rem', fontSize: '0.9rem', border: '1px solid var(--color-ot-gold200)', color: 'var(--color-ot-light)', textDecoration: 'none', borderRadius: '3px', transition: 'all 0.2s ease' }}>
-              {t('fundingOpportunities.docPreProd.button')}
-            </a>
-          </div>
-        </div>
-
-        {/* Documentary Production */}
-        <div style={{ background: 'rgba(250, 212, 58, 0.03)', padding: '2rem', borderLeft: '4px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: '1rem', flexWrap: 'wrap', gap: '1rem' }}>
-            <h3 className="section-subtitle" style={{ margin: 0 }}>{t('fundingOpportunities.docProd.title')}</h3>
-            <p className="price-standard">$88,000</p>
-          </div>
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.docProd.description') }} />
-          </p>
-          <p className="body-text body-text--secondary" style={{ marginTop: '1rem' }}>
-            {t('fundingOpportunities.docProd.benefits')}
-          </p>
-          <div style={{ marginTop: '1.5rem', textAlign: 'right' }}>
-            <a
-              href="https://app.thefield.org/home/donation/general/632877/0"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ display: 'inline-block', padding: '0.5rem 1rem', fontSize: '0.9rem', border: '1px solid var(--color-ot-gold200)', color: 'var(--color-ot-light)', textDecoration: 'none', borderRadius: '3px', transition: 'all 0.2s ease' }}>
-              {t('fundingOpportunities.docProd.button')}
-            </a>
-          </div>
-        </div>
-
-        {/* Art Collector */}
-        <div style={{ background: 'linear-gradient(135deg, rgba(250, 212, 58, 0.12) 0%, rgba(250, 212, 58, 0.03) 100%)', padding: '3rem', border: '3px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
-          <h3 className="section-heading text-gold" style={{ margin: '0 0 1.5rem 0' }}>{t('fundingOpportunities.artCollector.title')}</h3>
-
-          <figure style={{ margin: '0 0 2rem 0' }}>
-            <img
-              src="/press/edson-pavoni-orbital-temple-clara-marques-07.webp"
-              alt={t('fundingOpportunities.artCollector.imageAlt')}
-              style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '4px' }}
-            />
-            <figcaption style={{ fontSize: 'var(--text-body-sm)', lineHeight: 'var(--text-body-sm-lh)', color: 'var(--color-ot-gold100)', opacity: 0.6, marginTop: '8px', textAlign: 'right' }}>
-              {t('fundingOpportunities.artCollector.imageCaption')}
-            </figcaption>
-          </figure>
-
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.artCollector.paragraph1') }} />
-          </p>
-
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.artCollector.paragraph2') }} />
-          </p>
-
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.artCollector.paragraph3') }} />
-          </p>
-
-          <p className="body-text">
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.artCollector.paragraph4') }} />
-          </p>
-
-          <p className="body-text" style={{ marginBottom: '2rem' }}>
-            <span dangerouslySetInnerHTML={{ __html: t('fundingOpportunities.artCollector.paragraph5') }} />
-          </p>
-
-          <div style={{ marginTop: '2rem', textAlign: 'center' }}>
-            <p className="price-small" style={{ margin: '0 0 1rem 0' }}>$50,000</p>
-            <a
-              href="mailto:gabriela.veiga@orbitaltemple.art?subject=Orbital Temple Art Collector Inquiry"
-              style={{ display: 'inline-block', padding: '1rem 2.5rem', background: 'var(--color-ot-gold200)', color: 'var(--color-ot-dark)', fontWeight: 700, fontSize: '1.1rem', textDecoration: 'none', borderRadius: '4px', transition: 'all 0.2s ease' }}>
-              {t('fundingOpportunities.artCollector.button')}
             </a>
           </div>
         </div>
@@ -563,7 +412,7 @@ export default function SupportContent() {
             {t('join.fundSpecific.description')}
           </p>
           <a
-            href="mailto:sathi.roy@orbitaltemple.art?subject=Orbital Temple Sponsorship Inquiry"
+            href="mailto:gabriela.veiga@orbitaltemple.art?subject=Orbital Temple Sponsorship Inquiry"
             style={{ display: 'inline-block', padding: '1rem 2rem', background: 'var(--color-ot-gold200)', color: 'var(--color-ot-dark)', fontWeight: 700, fontSize: '1.1rem', textDecoration: 'none', borderRadius: '4px', transition: 'all 0.2s ease' }}>
             {t('join.fundSpecific.button')}
           </a>

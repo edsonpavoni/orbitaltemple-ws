@@ -9,7 +9,7 @@
     "heading": "About the Project",
     "paragraph1": "Orbital Temple is an artwork and a satellite that aims to be a radically inclusive temple, built where no walls can reach. Created by Brazilian artist Edson Pavoni, the artist behind the Inumeráveis Memorial that reached 1 in each 6 Brazilians during the COVID pandemic, the project invites people from around the world to send the name of someone they wish to remember. These names will be transmitted to a satellite in orbit, creating a collective memorial.",
     "paragraph2": "Through a website available in 136 languages, participants engage in a new kind of ritual. The Orbital Temple explores themes of inclusion, memory, and our shared humanity, questioning why no physical temple on Earth can truly welcome everyone, and proposing space as the only place where radical inclusivity might exist.",
-    "paragraph3": "On January 16, 2026, the first Orbital Temple satellite was aboard ISRO's PSLV-C62 rocket. The rocket reached space but failed in its final stage, and the satellite burned up on re-entry. A backup satellite is ready, and a new launch is being planned."
+    "paragraph3": "On January 12, 2026, the first Orbital Temple satellite was aboard ISRO's PSLV-C62 rocket. The rocket reached space but failed in its final stage, and the satellite burned up on re-entry. A second satellite is cleared to fly on SpaceX's Transporter-18 mission, scheduled for Thursday, October 1, 2026."
   },
   "aboutArtist": {
     "heading": "About the Artist",
@@ -22,10 +22,10 @@
     "heading": "Key Facts",
     "artist": "<strong>Artist:</strong> Edson Pavoni (Brazil)",
     "projectType": "<strong>Project Type:</strong> Satellite artwork, site-specific on space, web-based ritual",
-    "launchDate": "<strong>First Launch:</strong> January 16, 2026 — PSLV-C62 reached space but failed to deploy satellites. The Orbital Temple burned up on re-entry.",
-    "nextLaunch": "<strong>Next Launch:</strong> New launch date to be announced. A backup satellite is ready.",
-    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 50x58x64mm, 245g",
-    "orbit": "<strong>Target Orbit:</strong> 525km altitude, Sun-synchronous",
+    "launchDate": "<strong>First Launch:</strong> January 12, 2026 — PSLV-C62 reached space but failed to deploy satellites. The Orbital Temple burned up on re-entry.",
+    "nextLaunch": "<strong>Next Launch:</strong> SpaceX Transporter-18, from Vandenberg, California, scheduled for Thursday, October 1, 2026 at 2:18 PM New York time (18:18 UTC).",
+    "satellite": "<strong>Satellite:</strong> 1P PocketQube, 5 cm cube, 250 g",
+    "orbit": "<strong>Target Orbit:</strong> about 500 to 560 km, sun-synchronous",
     "participation": "<strong>Participation:</strong> Free, open to everyone globally",
     "namesSent": {
       "heading": "<strong>Names Queued for Ascension:</strong>",
@@ -51,7 +51,7 @@
   },
   "team": {
     "heading": "Team",
-    "content": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Gabriela Veiga, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, Leigh Pennington, Nima Gardideh, and all {{count}} people who have already sent names to this temple."
+    "content": "Orbital Temple is an artwork by Edson Pavoni, created in collaboration with Pedro Kaled, João Pedro Polito, Victor Baptista, João Victor Alves, André Biagioni, VK, Jonathan Querubina, Guilherme Bullejos, Eduardo Dias, Roberta Savian Rosa, Clara Marques, Daphne Alves, Flavio Vidigal, Andre Holzmeister, Pedro Vidigal, Tatiane Putti, Rafael Fernandes, Bruna Cairo, Gabriela Veiga, Kate Chapman Specter, Marcello Dantas, Anne Valls, Matias Campos Abad, Samuel Levy, Bella Nardini, Leigh Pennington, Nima Gardideh, and all {{count}} people who have already sent names to this temple."
   },
   "pressCoverage": {
     "heading": "Featured In / Press Coverage",
@@ -99,11 +99,11 @@
     "heading": "Technical Specifications",
     "satellite": {
       "heading": "Satellite",
-      "dimensions": "Dimensions: 50 x 58 x 64 mm",
+      "dimensions": "Dimensions: 5 cm cube (5 × 5 × 30 cm with the antenna deployed)",
       "classification": "Classification: 1P PocketQube",
-      "weight": "Weight: 245g",
+      "weight": "Weight: 250 g",
       "materials": "Materials: Aluminum, gold, fiberglass, electronic components",
-      "orbit": "Orbit: Altitude 525 ± 25 km; Inclination: SSO 97.6 ± 0.1°"
+      "orbit": "Orbit: sun-synchronous, about 500 to 560 km; inclination about 97.5°"
     },
     "antenna": {
       "heading": "Antenna/Sculpture",
@@ -113,7 +113,7 @@
     },
     "radio": {
       "heading": "Radio Specifications",
-      "downlink": "Downlink: 437 MHz"
+      "downlink": "Uplink: 401.5 MHz · Downlink: 468.5 MHz"
     }
   },
   "additionalResources": {

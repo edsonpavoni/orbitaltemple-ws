@@ -2,7 +2,7 @@
   "title": "Educação e Código Aberto - Templo Orbital",
   "heading": "Educação e código aberto",
   "intro": {
-    "paragraph1": "Toda a tecnologia desenvolvida para a missão Orbital Temple será <strong>de código aberto</strong> e estará disponível online em <strong>português</strong> , <strong>inglês</strong> , <strong>espanhol</strong> e <strong>hindi</strong> , fomentando o avanço da exploração espacial no <strong>Sul Global</strong> . Novas missões e projetos poderão usar o Orbital Temple como base para seus próprios experimentos artísticos ou científicos.",
+    "paragraph1": "Toda a tecnologia desenvolvida para a missão Orbital Temple será <strong>de código aberto</strong> e estará disponível online em <strong>português</strong>, <strong>inglês</strong> e <strong>espanhol</strong> , fomentando o avanço da exploração espacial no <strong>Sul Global</strong> . Novas missões e projetos poderão usar o Orbital Temple como base para seus próprios experimentos artísticos ou científicos.",
     "paragraph2": "Como parte de sua missão educacional, o Templo Orbital oferecerá um curso multilíngue gratuito sobre como construir e lançar um satélite. Será uma oportunidade prática para aprender sobre tecnologia de satélites e colocá-la em prática. Qualquer pessoa com mais de <strong>16</strong> anos poderá construir seu próprio satélite, aprendendo sobre a história da arte no espaço, conceitos fundamentais de eletrônica, mecânica e ciência espacial, incluindo como financiar projetos e como construir uma antena para se comunicar com satélites em órbita."
   },
   "spaceGap": {
@@ -32,7 +32,7 @@
   },
   "globalAccess": {
     "heading": "Acesso global, começando pelo Sul Global",
-    "paragraph1": "O curso estará disponível <strong>gratuitamente</strong> para qualquer pessoa <strong>com 16 anos ou mais</strong> . Começaremos com conteúdo em <strong>português</strong> , <strong>espanhol</strong> , <strong>inglês</strong> e <strong>hindi</strong> , com planos de expansão para outros idiomas à medida que o programa crescer.",
+    "paragraph1": "O curso estará disponível <strong>gratuitamente</strong> para qualquer pessoa <strong>com 16 anos ou mais</strong> . Começaremos com conteúdo em <strong>português</strong>, <strong>espanhol</strong> e <strong>inglês</strong> , com planos de expansão para outros idiomas à medida que o programa crescer.",
     "paragraph2": "Nossa missão começa no Sul Global e se estende ao mundo, garantindo que a próxima geração de exploradores espaciais venha de todos os cantos da Terra."
   },
   "callToAction": {

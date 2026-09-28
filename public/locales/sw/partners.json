@@ -4,15 +4,15 @@
   "intro": "Orbital Temple inapatikana kupitia ukarimu, utaalam, na maono ya washirika wa ajabu. Kuanzia satelaiti za uhandisi hadi kuunda masimulizi, kuanzia kufungua milango katika nchi za mbali hadi kutoa ndoto kwa dhahabu, kila ushirikiano huleta hekalu hili karibu na nyota.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Washirika",
+      "name": "RiseNY&Partners",
       "description": "Mawasiliano, hali ya utumiaji iliyojumuishwa na taswira nzuri ya 3D ambayo iliboresha maono ya setilaiti kabla haijagusa utupu wa nafasi."
     },
     "highestMantra": {
-      "name": "Mantra Yetu ya Juu",
+      "name": "Our Highest Mantra",
       "description": "Ikiongozwa na Sathi Roy, ikiunganisha Hekalu la Orbital na jumuiya za kiroho na kisanii za India. Kufungua njia za kuchangisha pesa, kubadilishana kitamaduni, na maonyesho ya Art Basel kufuatia uzinduzi wa Novemba 2025."
     },
     "allToSpace": {
-      "name": "Wote kwa Nafasi",
+      "name": "All to Space",
       "description": "Wataalamu wa satelaiti ndogo wa Brazil. Miaka minne ya ushirikiano kujenga jukwaa la vifaa huria na kuanzisha mchakato wa kutuma sanaa kwenye obiti kutoka Global South."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Timu ya ukuzaji satelaiti iliundwa wakati wa Warsha ya II ya ArtSat. Imeratibiwa na Fabiane M. Borges, ikielekezwa na Lázaro Camargo, ikishirikiana na Ítalo Pinto Rodrigues, inayosimamiwa na Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Dhana Imara",
+      "name": "Solid Concepts",
       "description": "Ikiongozwa na Eduardo Dias. Kazi zote za uchapishaji za 3D na uwekaji mdogo wa dhahabu kwa ajili ya kuba la uchongaji, kubadilisha ndoto za kidijitali kuwa uhalisia wa madini ya thamani."
     },
     "ideaSpace": {
-      "name": "Nafasi ya Wazo",
+      "name": "Idea Space",
       "description": "Kuanzishwa kwa elimu ya Brazili kutayarisha mtaala wa Mpango wa Anga wa Quebrada, tayari kutumika kwa wanafunzi wa shule za upili kote Brazili."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Nembo ya RiseNY&Washirika",
     "highestMantra": "Nembo yetu ya Juu ya Mantra",
-    "allToSpace": "Nembo ya Nafasi zote",
+    "allToSpace": "All to Space logo",
     "isro": "Nembo ya ISRO",
     "mercosul": "Nembo ya 13 ya Mercosur ya Miaka Miwili",
     "inpe": "Nembo ya Warsha ya INPE ArtSat",

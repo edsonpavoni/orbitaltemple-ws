@@ -4,15 +4,15 @@
   "intro": "Tẹmpili Orbital wa nipasẹ oninurere, oye, ati iran ti awọn alabaṣepọ alailẹgbẹ. Lati awọn satẹlaiti imọ-ẹrọ si awọn itan-akọọlẹ iṣẹda, lati ṣiṣi awọn ilẹkun ni awọn ilẹ ti o jinna si sisọ awọn ala ni goolu, ifowosowopo kọọkan n mu tẹmpili yii sunmọ awọn irawọ.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Awọn alabaṣiṣẹpọ",
+      "name": "RiseNY&Partners",
       "description": "Ibaraẹnisọrọ, awọn iriri iṣọpọ ati awọn aworan 3D iyalẹnu ti o mu iran satẹlaiti wa si igbesi aye ṣaaju ki o to kan ofo aaye."
     },
     "highestMantra": {
-      "name": "Mantra ti o ga julọ",
+      "name": "Our Highest Mantra",
       "description": "Ti ṣe itọsọna nipasẹ Sathi Roy, sisopọ Tẹmpili Orbital pẹlu awọn agbegbe ti ẹmi ati iṣẹ ọna India. Awọn ọna ṣiṣi si ikowojo, paṣipaarọ aṣa, ati iṣafihan Art Basel kan ni atẹle ifilọlẹ Oṣu kọkanla ọdun 2025."
     },
     "allToSpace": {
-      "name": "Gbogbo si Space",
+      "name": "All to Space",
       "description": "Brazil kekere satẹlaiti ojogbon. Ọdun mẹrin ti ifowosowopo kikọ ipilẹ ohun elo orisun orisun ṣiṣi ati aṣaaju-ọna ilana lati firanṣẹ aworan si orbit lati Gusu Agbaye."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Ẹgbẹ idagbasoke satẹlaiti ti o ṣẹda lakoko Idanileko II ArtSat. Iṣọkan nipasẹ Fabiane M. Borges, ti a kọ nipasẹ Lázaro Camargo, ti ifọwọsowọpọ nipasẹ Ítalo Pinto Rodrigues, ti Walter Abrahão dos Santos ṣe abojuto."
     },
     "solidConcepts": {
-      "name": "Awọn imọran ti o lagbara",
+      "name": "Solid Concepts",
       "description": "Olori nipasẹ Eduardo Dias. Gbogbo titẹ sita 3D ati iṣẹ simẹnti micro goolu fun dome sculptural, yiyipada awọn ala oni nọmba sinu otito irin iyebiye."
     },
     "ideaSpace": {
-      "name": "Ero Space",
+      "name": "Idea Space",
       "description": "Ibẹrẹ eto ẹkọ Ilu Brazil ti n dagbasoke eto-ẹkọ Eto Space Quebrada, ti ṣetan lati lo si awọn ọmọ ile-iwe giga kọja Ilu Brazil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY & Awọn alabaṣepọ Logo",
     "highestMantra": "Logo Mantra ti o ga julọ",
-    "allToSpace": "Gbogbo to Space Logo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO Logo",
     "mercosul": "13th Mercosur Biennial Logo",
     "inpe": "INPE ArtSat onifioroweoro Logo",

@@ -1,11 +1,11 @@
 {
   "title": "Apoie o Templo Orbital - Junte-se à Missão",
   "heading": "Apoie o Templo Orbital",
-  "vision": "Em <strong>28 de novembro de 2025</strong> , <strong>o Templo Orbital</strong> será lançado da <strong>Índia</strong> a bordo de um foguete <strong>da ISRO</strong> . Um satélite de arte participativa do Sul Global, ele é um monumento à inclusão radical, uma plataforma para a educação e um catalisador para a conversa global sobre o futuro do sagrado na era da tecnologia, da IA e da exploração espacial.",
+  "vision": "<strong>O Templo Orbital</strong> será lançado na missão <strong>Transporter-18 da SpaceX</strong>, da base de Vandenberg, na Califórnia, prevista para <strong>quinta-feira, 1º de outubro de 2026</strong>. Um satélite de arte participativa do Sul Global, ele é um monumento à inclusão radical, uma plataforma para a educação e um catalisador para a conversa global sobre o futuro do sagrado na era da tecnologia, da IA e da exploração espacial.",
   "videoCaption": "Vídeo de introdução ao Templo Orbital, 1 min.",
   "accomplished": {
     "heading": "O que conquistamos",
-    "content": "Após quatro anos de pesquisa e desenvolvimento, a missão está pronta. Concluímos <strong>o desenvolvimento de hardware e software</strong> para o satélite, passamos nos <strong>testes oficiais de vibração</strong> exigidos para a certificação de voo e finalizamos nosso contrato com a ISRO. O satélite está construído. A tecnologia funciona. Estamos autorizados a lançá-lo."
+    "content": "Após cinco anos de pesquisa e desenvolvimento, e um primeiro lançamento em janeiro de 2026 que terminou com a falha do foguete, a missão está pronta de novo. Concluímos <strong>o desenvolvimento de hardware e software</strong> para o satélite, passamos nos <strong>testes oficiais de vibração</strong> exigidos para a certificação de voo e concluímos, a documentação exigida pela SpaceX e pela NASA. O satélite está construído. A tecnologia funciona. Estamos autorizados a voar na Transporter-18."
   },
   "funding": {
     "heading": "Progresso no financiamento",
@@ -16,12 +16,12 @@
   },
   "needs": {
     "heading": "Para que precisamos de apoio?",
-    "intro": "Para concluir esta missão histórica e maximizar o seu impacto, precisamos de apoio para cinco componentes críticos:",
+    "intro": "Para concluir esta missão histórica e maximizar o seu impacto, precisamos de apoio para três componentes críticos:",
     "launch": {
-      "title": "Custos de lançamento da ISRO:"
+      "title": "Custos de lançamento:"
     },
     "travel": {
-      "title": "Jornada artística à Índia:"
+      "title": "Documentar o lançamento:"
     },
     "carbon": {
       "title": "Programa de compensação de carbono:"
@@ -37,11 +37,11 @@
     }
   },
   "decade": {
-    "heading": "A década que se aproxima",
-    "intro": "Esta missão não termina em 28 de novembro de 2025. Ela está apenas começando.",
-    "paragraph1": "Durante os próximos <strong>10 anos</strong> , este satélite orbitará a Terra, respondendo a nomes enviados de todos os cantos do planeta. O programa educacional visa capacitar <strong>milhares de adolescentes</strong> em tecnologia de satélites, reduzindo a <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">desigualdade espacial</a> no Sul Global. O documentário alcançará <strong>milhões de pessoas</strong> em todo o mundo, estimulando conversas sobre pertencimento, memória e o sagrado.",
-    "paragraph2": "O Templo Orbital está em parceria com <strong></strong> e <strong>a Fundação Roy</strong> para tornar essa visão de dez anos culturalmente significativa. A Fundação Roy é uma organização sem fins lucrativos dedicada a expandir o acesso à educação espiritual, cura emocional e ferramentas de consciência para comunidades carentes em todo o mundo, conectando a sabedoria ancestral à tecnologia moderna para criar um mundo mais consciente, conectado e compassivo. Juntos, estamos construindo a infraestrutura para garantir que o Templo Orbital se torne um movimento duradouro que alcance comunidades em todo o mundo.",
-    "paragraph3": "Seu apoio não financia apenas um lançamento; ele cria um movimento que terá repercussões por uma década e inspirará a próxima geração de artistas e engenheiros espaciais."
+    "heading": "Os anos que virão",
+    "intro": "Esta missão não termina no lançamento. Ela está apenas começando.",
+    "paragraph1": "Durante <strong>quatro a dez anos</strong>, este satélite orbitará a Terra, respondendo a nomes enviados de todos os cantos do planeta. O programa educacional visa capacitar <strong>milhares de adolescentes</strong> em tecnologia de satélites, reduzindo a <a href=\"https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1064&context=irj\" target=\"_blank\" rel=\"noopener noreferrer\">desigualdade espacial</a> no Sul Global.",
+    "paragraph2": "Estamos construindo a infraestrutura para garantir que o Templo Orbital se torne um movimento duradouro que alcance comunidades em todo o mundo.",
+    "paragraph3": "Seu apoio não financia apenas um lançamento; ele cria um movimento que terá repercussões por anos e inspirará a próxima geração de artistas e engenheiros espaciais."
   },
   "waysToSupport": {
     "heading": "Formas de Apoiar",
@@ -50,7 +50,7 @@
       "intro": "Junte-se à missão no nível que for melhor para você. Os apoiadores individuais são a base deste projeto histórico.",
       "orbitalFriend": {
         "title": "Amigo Orbital",
-        "benefits": "Você receberá: Nome na lista de honra do site · Certificado orbital personalizado no lançamento do satélite · Crédito de agradecimento no documentário · Recibo dedutível de impostos",
+        "benefits": "Você receberá: Nome na lista de honra do site · Certificado orbital personalizado no lançamento do satélite · Recibo dedutível de impostos",
         "button": "Faça uma doação dedutível de impostos"
       },
       "satelliteSupporter": {
@@ -60,7 +60,7 @@
       },
       "spaceAdvocate": {
         "title": "Defensor do Espaço",
-        "benefits": "Você recebe: Todos os benefícios de Apoiador Satélite · Nome impresso nos créditos do documentário · Convite para exibição privada do documentário · Atualizações trimestrais da equipe · Recibo dedutível de impostos",
+        "benefits": "Você recebe: Todos os benefícios de Apoiador Satélite · Atualizações trimestrais da equipe · Recibo dedutível de impostos",
         "button": "Faça uma doação dedutível de impostos"
       }
     }
@@ -70,13 +70,13 @@
     "intro": "Sua contribuição financia diretamente aspectos específicos da missão. Escolha o que mais lhe interessa ou combine várias opções para gerar um impacto maior.",
     "launch": {
       "title": "Financie o lançamento espacial",
-      "description": "O custo real do lançamento a bordo do foguete <strong>da ISRO</strong> em <strong>28 de novembro de 2025.</strong> Isso enviará o Templo Orbital para a órbita, onde permanecerá por uma década como um satélite de arte participativa e um templo no céu, acessível a qualquer pessoa no mundo.",
-      "benefits": "Você receberá: o título de \"Patrocinador do Lançamento\" · Destaque em todos os comunicados de imprensa · Agradecimento no documentário · Acesso VIP aos eventos de lançamento · Participação em videoconferências trimestrais com Edson e a equipe da missão · Certificado com dados orbitais do satélite · Recibo dedutível de impostos",
+      "description": "O custo do lançamento a bordo da missão <strong>Transporter-18 da SpaceX</strong>, prevista para <strong>quinta-feira, 1º de outubro de 2026</strong>. Isso enviará o Templo Orbital para a órbita, onde permanecerá de quatro a dez anos como um satélite de arte participativa e um templo no céu, acessível a qualquer pessoa no mundo.",
+      "benefits": "Você receberá: o título de \"Patrocinador do Lançamento\" · Destaque em todos os comunicados de imprensa · Acesso VIP aos eventos de lançamento · Participação em videoconferências trimestrais com Edson e a equipe da missão · Certificado com dados orbitais do satélite · Recibo dedutível de impostos",
       "button": "Faça uma doação dedutível de impostos"
     },
     "travel": {
-      "title": "Financie a viagem do artista à Índia.",
-      "description": "Custos de viagem, hospedagem e produção para o artista Edson Pavoni e sua equipe principal acompanharem o lançamento na <strong>Índia em 28 de novembro de 2025.</strong> Esta viagem é essencial para a filmagem do documentário, cobertura da mídia e representação do Sul Global neste momento histórico.",
+      "title": "Financie a documentação do lançamento",
+      "description": "Custos de produção para o artista Edson Pavoni e sua equipe principal documentarem o lançamento em <strong>1º de outubro de 2026</strong> e o primeiro contato com o satélite. Isso é essencial para a filmagem do documentário, a cobertura da mídia e a representação do Sul Global neste momento histórico.",
       "benefits": "Você receberá: Agradecimento pessoal do artista · Acesso ao documentário de bastidores · Seu nome nos créditos do documentário · Recibo dedutível de impostos",
       "button": "Faça uma doação dedutível de impostos"
     },
@@ -89,7 +89,7 @@
     "education": {
       "title": "Financie o Programa Educacional",
       "description": "Desenvolver e lançar um curso multilíngue completo para ensinar adolescentes do Sul Global a construir satélites. Isso inclui o desenvolvimento do currículo, a produção de vídeos, a hospedagem da plataforma e o primeiro ano de bolsas de estudo para alunos carentes. Cria uma infraestrutura duradoura para a educação espacial.",
-      "benefits": "Você recebe: reconhecimento como \"Patrocinador Fundador da Área da Educação\" · Bolsas de estudo em seu nome · Destaque em materiais educacionais · Encontro com a primeira turma de alunos financiados pela sua bolsa (virtual ou presencial) · Participação em um documentário · Oportunidade de palestrar em eventos de lançamento · Recibo dedutível de impostos",
+      "benefits": "Você recebe: reconhecimento como \"Patrocinador Fundador da Área da Educação\" · Bolsas de estudo em seu nome · Destaque em materiais educacionais · Encontro com a primeira turma de alunos financiados pela sua bolsa (virtual ou presencial) · Oportunidade de palestrar em eventos de lançamento · Recibo dedutível de impostos",
       "button": "Faça uma doação dedutível de impostos"
     },
     "docPreProd": {
@@ -108,7 +108,7 @@
       "title": "Torne-se o único colecionador de arte do Templo Orbital",
       "imageAlt": "Instalação do Templo Orbital na Bienal do Mercosul",
       "imageCaption": "Orbital Temple at the 13th Mercosul Biennial, Porto Alegre. Foto de Clara Marques.",
-      "paragraph1": "Três satélites idênticos foram construídos para esta missão. <strong>Um</strong> será lançado ao espaço em 28 de novembro de 2025. <strong>Outro</strong> viajará para exposições em museus ao redor do mundo. <strong>O terceiro</strong> está reservado para um colecionador generoso que deseja financiar esta visão e possuir uma peça da história da arte espacial.",
+      "paragraph1": "Três satélites idênticos foram construídos para esta missão. <strong>Um</strong> será lançado ao espaço na Transporter-18 da SpaceX, em 1º de outubro de 2026. <strong>Outro</strong> viajará para exposições em museus ao redor do mundo. <strong>O terceiro</strong> está reservado para um colecionador generoso que deseja financiar esta visão e possuir uma peça da história da arte espacial.",
       "paragraph2": "Esta não é uma réplica; é um dos três satélites originais. Uma <strong>espaçonave totalmente funcional</strong> que também é uma <strong>escultura</strong> . O satélite mede <strong>5 cm³</strong> e pesa <strong>245 g</strong> , com uma cúpula feita de <strong>ouro</strong> .",
       "paragraph3": "Esta é uma <strong>obra de arte única (1/1)</strong> .",
       "paragraph4": "Como colecionador, você receberá a mesma instalação criada para a <strong>13ª Bienal do Mercosul</strong> , uma exposição museológica completa que apresenta o satélite como arte e tecnologia. Esta instalação já foi exibida em importantes espaços internacionais e representa o mais alto padrão de apresentação de arte espacial.",
@@ -127,7 +127,7 @@
   },
   "people": {
     "heading": "As pessoas por trás desta missão",
-    "intro": "O Orbital Temple é um compromisso de 10 anos. É liderado por duas pessoas que dedicaram suas vidas a conectar arte, tecnologia e relações humanas, e que estão construindo a infraestrutura para sustentar essa visão na próxima década.",
+    "intro": "O Templo Orbital é um compromisso de longo prazo, liderado por um artista cuja obra conecta arte, tecnologia e relações humanas, construindo a infraestrutura para sustentar essa visão nos próximos anos.",
     "edson": {
       "name": "Edson Pavoni",
       "role": "Artista e Tecnólogo",
@@ -135,14 +135,14 @@
       "paragraph2": "Seu trabalho foi exibido na 13ª Bienal do Mercosul (Brasil), na IX Bienal Internacional (Uzbequistão) e no Prêmio Global de Arte Digital da NTU (Singapura).",
       "paragraph3": "Com mais de <strong>20 anos de experiência na área de arte e tecnologia</strong> , trabalhou com equipes criativas para os <strong>Jogos Olímpicos do Rio de Janeiro de 2016</strong> e <strong>para o Banco Interamericano de Desenvolvimento</strong> . Nomeado um dos <strong>50 profissionais brasileiros mais inovadores</strong> pela revista Proxxima, recebeu dois <strong>prêmios IF Design Awards</strong> consecutivos (2017-2018) e foi finalista <strong>do Prêmio Lumen Futures</strong> . Seu trabalho foi exibido em duas bienais e apresentado no <strong>Museu Ludwig de Arte Contemporânea</strong> (Budapeste), <strong>no Instituto Inhotim</strong> (Brasil) e <strong>no Museu do Design e da Moda</strong> (Lisboa), com exposições em Nova York, Pequim, Singapura, Dubai, Rio de Janeiro e outras cidades."
     },
-    "together": "Em parceria com a Fundação Roy, estamos construindo uma missão de 10 anos que une arte, tecnologia, educação e o sagrado, começando com o lançamento de um satélite em 28 de novembro de 2025 e continuando com um movimento que alcançará comunidades carentes em todo o mundo e inspirará a próxima geração."
+    "together": "Estamos construindo uma missão de longo prazo que une arte, tecnologia, educação e o sagrado, começando com o lançamento de um satélite na missão Transporter-18 da SpaceX, em 1º de outubro de 2026, e continuando com um movimento que alcançará comunidades carentes em todo o mundo e inspirará a próxima geração."
   },
   "join": {
     "heading": "Junte-se a nós",
-    "content": "O satélite está construído. A tecnologia está pronta. A data de lançamento está definida: <strong>28 de novembro de 2025.</strong> Este é o momento de se juntar a uma missão que reinventa o que a arte pode fazer, aonde ela pode chegar e a quem ela pode servir.",
+    "content": "O satélite está construído. A tecnologia está pronta. Ele está autorizado a voar na <strong>Transporter-18 da SpaceX</strong>, prevista para <strong>quinta-feira, 1º de outubro de 2026</strong>. Este é o momento de se juntar a uma missão que reinventa o que a arte pode fazer, aonde ela pode chegar e a quem ela pode servir.",
     "fundSpecific": {
       "heading": "Financie um componente específico ou torne-se um sócio fundador.",
-      "description": "Escolha uma das oportunidades de financiamento acima, informe-se sobre como se tornar um colecionador de arte ou discuta um patrocínio personalizado que esteja alinhado com a sua visão.",
+      "description": "Escolha uma das oportunidades de financiamento acima ou discuta um patrocínio personalizado que esteja alinhado com a sua visão.",
       "button": "Entre em contato conosco para começar →"
     },
     "generalDonation": {

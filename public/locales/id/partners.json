@@ -8,11 +8,11 @@
       "description": "Komunikasi, pengalaman terpadu, dan citra render 3D yang menakjubkan yang menghidupkan visi satelit sebelum menyentuh ruang hampa."
     },
     "highestMantra": {
-      "name": "Mantra Tertinggi Kami",
+      "name": "Our Highest Mantra",
       "description": "Dipimpin oleh Sathi Roy, Orbital Temple menghubungkan komunitas spiritual dan seni India. Membuka jalur penggalangan dana, pertukaran budaya, dan pameran Art Basel setelah peluncurannya pada November 2025."
     },
     "allToSpace": {
-      "name": "Semua ke Luar Angkasa",
+      "name": "All to Space",
       "description": "Spesialis satelit kecil Brasil. Empat tahun kolaborasi membangun platform perangkat keras sumber terbuka dan merintis proses pengiriman karya seni ke orbit dari belahan bumi selatan."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Tim pengembangan satelit dibentuk pada Workshop ArtSat II. Dikoordinasikan oleh Fabiane M. Borges, diinstruksikan oleh Lázaro Camargo, berkolaborasi oleh Ítalo Pinto Rodrigues, diawasi oleh Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Konsep Padat",
+      "name": "Solid Concepts",
       "description": "Dipimpin oleh Eduardo Dias. Semua proses pencetakan 3D dan pengecoran mikro emas digunakan untuk kubah pahatan ini, mengubah mimpi digital menjadi kenyataan dari logam mulia."
     },
     "ideaSpace": {
-      "name": "Ruang Ide",
+      "name": "Idea Space",
       "description": "Perusahaan rintisan pendidikan Brasil mengembangkan kurikulum Program Luar Angkasa Quebrada, siap diterapkan pada siswa sekolah menengah atas di seluruh Brasil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo RiseNY&Partners",
     "highestMantra": "Logo Mantra Tertinggi Kami",
-    "allToSpace": "Logo Semua ke Luar Angkasa",
+    "allToSpace": "All to Space logo",
     "isro": "Logo ISRO",
     "mercosul": "Logo Biennial Mercosur ke-13",
     "inpe": "Logo Lokakarya Seni INPE",

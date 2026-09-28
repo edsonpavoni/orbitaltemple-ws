@@ -1,19 +1,19 @@
 {
-  "title": "La obra de arte - Templo orbital",
+  "title": "La obra de arte - Templo Orbital",
   "heading": "La obra de arte",
   "intro": {
-    "paragraph1": "Orbital Temple es un satélite con una misión artística: un monumento conmemorativo en el espacio exterior abierto a todos los seres sensibles que viven o han vivido en la Tierra.",
+    "paragraph1": "El Templo Orbital es un satélite con una misión artística: un memorial en el espacio exterior abierto a todos los seres sensibles que viven o han vivido en la Tierra.",
     "paragraph2": "Mediante medios tecnológicos, cualquiera puede enviar el nombre de alguien al Templo, ya sea alguien que haya fallecido, una persona que esté muy viva o cualquier ser que merezca ser recordado."
   },
   "sculpture": {
     "heading": "La escultura",
-    "paragraph1": "La obra de arte tiene tres elementos interdependientes: un satélite especialmente diseñado para almacenar miles de millones de nombres; una escultura pública que intercambia información con el satélite; y un sitio web a través del cual los participantes envían los nombres, desde ahora hasta que fallezcan, al cielo.",
-    "paragraph2": "Como proyecto multidisciplinario, Orbital Temple puede considerarse una escultura específica del lugar, que habita el espacio. También es un proyecto de Artsat."
+    "paragraph1": "La obra tiene tres elementos interdependientes: un satélite especialmente diseñado para almacenar miles de millones de nombres; una escultura pública de antena, diseñada para intercambiar información con el satélite; y un sitio web a través del cual los participantes envían los nombres, desde ahora hasta que ellos mismos hayan partido, al cielo.",
+    "paragraph2": "Como proyecto multidisciplinario, el Templo Orbital puede considerarse una escultura site-specific que habita el espacio. También es un proyecto Artsat."
   },
   "antenna": {
     "heading": "La antena como escultura pública",
     "paragraph1": "Una antena que nos conecta con el espacio exterior.",
-    "paragraph2": "Se está diseñando una antena que estará en comunicación directa con el satélite en órbita.",
+    "paragraph2": "Se ha diseñado una antena que estará en comunicación directa con el satélite en órbita.",
     "paragraph3": "Con una superficie reflectante dorada que refleja el cielo que hay sobre ella, es un punto de partida para la estimulación masiva (o nuestra relación con lo que está \"allá arriba\").",
     "paragraph4": "Una vez que el satélite alcance la órbita, las estaciones terrestres se comunicarán con él durante cada pasada, transmitiendo los nombres que se han enviado.",
     "paragraph5": "Ayuda a hacer realidad esta visión en tu ciudad: instala esculturas de antenas que inspiren conversaciones sobre la exploración espacial, el arte y nuestro lugar compartido en el cosmos. <a href=\"/support\">Descubre cómo apoyar el proyecto</a>."
@@ -21,11 +21,11 @@
   "imageAlts": {
     "satellite": "Satélite del Templo Orbital",
     "riseNy": "Templo Orbital en Rise, Nueva York",
-    "installation": "Templo Orbital de Clara Marques",
-    "antenna": "Antena orbital del templo"
+    "installation": "Templo Orbital, foto de Clara Marques",
+    "antenna": "Antena del Templo Orbital"
   },
   "imageCaptions": {
-    "riseNy": "Templo orbital en el espacio. Representación 3D realizada por RiseNY&Partners.",
-    "mercosul": "Instalación del Templo Orbital en la Bienal del Mercosur, en Porto Alegre, Brasil.<br> Fotografía de Clara Marques."
+    "riseNy": "El Templo Orbital en el espacio. Render 3D de RiseNY&Partners.",
+    "mercosul": "Instalación del Templo Orbital en la Bienal del Mercosur, en Porto Alegre, Brasil. <br>Foto de Clara Marques."
   }
 }

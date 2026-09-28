@@ -4,15 +4,15 @@
   "intro": "Mae Orbital Temple yn bodoli trwy haelioni, arbenigedd a gweledigaeth partneriaid eithriadol. O beirianneg lloerennau i greu naratifau, o agor drysau mewn gwledydd pell i fwrw breuddwydion mewn aur, mae pob cydweithrediad yn dod â'r deml hon yn agosach at y sêr.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Partneriaid",
+      "name": "RiseNY&Partners",
       "description": "Cyfathrebu, profiadau integredig a delweddaeth rendro 3D syfrdanol a ddaeth â gweledigaeth y lloeren yn fyw cyn iddi gyffwrdd â gwagle'r gofod."
     },
     "highestMantra": {
-      "name": "Ein Mantra Uchaf",
+      "name": "Our Highest Mantra",
       "description": "Dan arweiniad Sathi Roy, yn cysylltu Teml Orbital â chymunedau ysbrydol ac artistig India. Yn agor llwybrau i godi arian, cyfnewid diwylliannol, ac arddangosfa Art Basel yn dilyn y lansiad ym mis Tachwedd 2025."
     },
     "allToSpace": {
-      "name": "Pawb i'r Gofod",
+      "name": "All to Space",
       "description": "Arbenigwyr lloerennau bach o Frasil. Pedair blynedd o gydweithio wrth adeiladu platfform caledwedd ffynhonnell agored ac arloesi'r broses o anfon celf i orbit o'r De Byd-eang."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Ffurfiwyd y tîm datblygu lloeren yn ystod Gweithdy ArtSat II. Wedi'i gydlynu gan Fabiane M. Borges, wedi'i gyfarwyddo gan Lázaro Camargo, wedi'i gydweithio gan Ítalo Pinto Rodrigues, dan oruchwyliaeth Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Cysyniadau Solet",
+      "name": "Solid Concepts",
       "description": "Dan arweiniad Eduardo Dias. Yr holl waith argraffu 3D a micro-gastio aur ar gyfer y gromen gerfluniol, gan drawsnewid breuddwydion digidol yn realiti metel gwerthfawr."
     },
     "ideaSpace": {
-      "name": "Gofod Syniadau",
+      "name": "Idea Space",
       "description": "Cwmni addysg newydd o Frasil yn datblygu cwricwlwm Rhaglen Ofod Quebrada, yn barod i'w gymhwyso i fyfyrwyr ysgol uwchradd ledled Brasil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo RiseNY&Partneriaid",
     "highestMantra": "Ein Logo Mantra Uchaf",
-    "allToSpace": "Logo Popeth i'r Gofod",
+    "allToSpace": "All to Space logo",
     "isro": "Logo ISRO",
     "mercosul": "Logo 13eg Bienniwm Mercosur",
     "inpe": "Logo Gweithdy INPE ArtSat",

@@ -3,14 +3,38 @@
   "heading": "Atualizações",
   "readIn": "Ler em",
   "latestUpdate": "Última Atualização",
+  "previousUpdate": "Atualização anterior",
   "updates": {
+    "once-again": {
+      "date": "14 de setembro de 2026",
+      "title": "Mais uma vez",
+      "content": {
+        "greeting": "Olá do artista,",
+        "paragraphs": [
+          "Em janeiro eu escrevi para você sobre fogo e cinzas. Hoje escrevo sobre recomeçar.",
+          "O primeiro lançamento do Templo Orbital falhou de forma espetacular. O foguete chegou ao espaço, perdeu o controle no último estágio, e o nosso templo queimou na atmosfera depois de dez minutos acima da Terra. Sentimos as lágrimas. Respiramos. Começamos de novo.",
+          "Depois de oito meses de trabalho contínuo, construímos um novo templo, encontramos um novo foguete e entregamos toda a documentação exigida pela NASA e pela SpaceX. Estamos autorizados a voar. O novo templo vai subir à órbita na missão Transporter-18, prevista para o fim de outubro de 2026. O dia exato será anunciado nas próximas semanas.",
+          "Dentro dele vão 19.518 nomes, enviados de todos os cantos do mundo. O nome que você enviou está entre eles.",
+          "Construir e lançar uma escultura ao espaço é tecnicamente brutal e caro. Justificar isso é ainda mais difícil. Temos tanto a reparar na Terra. Há gente passando fome, florestas queimando, guerras abertas. Por que um artista passaria anos trabalhando pra enviar um templo para o céu?",
+          "Porque o espaço também é o nosso meio ambiente. Como brasileiro e latino-americano, sei que o acesso à tecnologia espacial é essencial para cuidar do que amamos na Terra. Com ela protegemos a Amazônia, vemos uma enchente chegando, lemos a saúde dos nossos corais e defendemos a soberania dos nossos territórios. Um país que não alcança o espaço depende de quem alcança.",
+          "O espaço não é um parquinho de bilionários. É o bem comum mais antigo da humanidade.",
+          "O espaço carrega um poder ancestral de nos unir. Os primeiros humanos olharam para as estrelas e criaram os mitos em que nascemos. O Templo Orbital reflete de volta esses mitos para nós. Ele aponta para um futuro mais inclusivo, em que somos aceitos não pelo nosso comportamento individual ou pelo grupo a que pertencemos, mas porque somos humanos.",
+          "Uma obra-templo aberta a todos não apaga as nossas diferenças nem perdoa as injustiças que nos dividem. Faz o oposto. A inclusão radical no céu exige justiça agora.",
+          "Não no céu. Justiça aqui, na Terra.",
+          "Nos dias em torno do lançamento, vamos nos reunir em Nova York para um ritual e uma exposição das Testemunhas Orbitais, uma nova coleção de esculturas que se move junto com o satélite no espaço. Se você estiver por perto, está convidado. Se estiver longe, olhe para o céu.",
+          "Em janeiro eu disse que o seu nome estava esperando o momento dele. Esse momento está perto."
+        ],
+        "signature": "Com carinho,",
+        "name": "Edson Pavoni"
+      }
+    },
     "fire-and-ashes": {
       "date": "20 de janeiro de 2026",
       "title": "Fogo e Cinzas",
       "content": {
         "greeting": "Olá do artista,",
         "opening": "Quando você empurra os limites, às vezes os limites empurram de volta.",
-        "launch": "Em 16 de janeiro de 2026, o Templo Orbital foi lançado ao espaço. Estava a bordo do PSLV-C62. Um lendário foguete indiano com mais de 60 lançamentos bem-sucedidos.",
+        "launch": "Em 12 de janeiro de 2026, o Templo Orbital foi lançado ao espaço. Estava a bordo do PSLV-C62. Um lendário foguete indiano com mais de 60 lançamentos bem-sucedidos.",
         "different": "Mas desta vez, a história foi diferente.",
         "failure": "O foguete decolou belíssimo e alcançou o espaço. Mas no estágio final, perdeu o controle. Falhou em liberar os satélites. Nosso templo ficou no espaço por apenas 10 minutos. Depois caiu de volta. Queimou em cinzas ao entrar na atmosfera.",
         "whatNow": "E agora? Eu sou brasileiro. Nós não desistimos nunca.",

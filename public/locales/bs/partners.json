@@ -8,11 +8,11 @@
       "description": "Komunikacija, integrirana iskustva i zapanjujuće 3D renderirane slike koje su oživjele viziju satelita prije nego što je ikada dotaknuo prazninu svemira."
     },
     "highestMantra": {
-      "name": "Naša najviša mantra",
+      "name": "Our Highest Mantra",
       "description": "Predvođeno od strane Sathi Roy, povezivanje Orbital Templea s indijskim duhovnim i umjetničkim zajednicama. Otvara puteve prikupljanja sredstava, kulturne razmjene i izložbe Art Basel nakon pokretanja u novembru 2025."
     },
     "allToSpace": {
-      "name": "Sve u svemir",
+      "name": "All to Space",
       "description": "Brazilski stručnjaci za male satelite. Četiri godine saradnje na izgradnji hardverske platforme otvorenog koda i pionirskog procesa slanja umjetnosti u orbitu s globalnog Juga."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Tim za razvoj satelita formiran je tokom II ArtSat radionice. Koordinira Fabiane M. Borges, podučava Lázaro Camargo, sarađuje Ítalo Pinto Rodrigues, nadgleda Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Čvrsti koncepti",
+      "name": "Solid Concepts",
       "description": "Predvođen Eduardom Diasom. Sav rad na 3D printanju i mikrolijevanju zlata za skulpturalnu kupolu, pretvarajući digitalne snove u stvarnost od plemenitih metala."
     },
     "ideaSpace": {
-      "name": "Prostor za ideje",
+      "name": "Idea Space",
       "description": "Brazilski obrazovni startup razvija nastavni plan i program Svemirskog programa Quebrada, spreman za primjenu na srednjoškolce širom Brazila."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logotip RiseNY&Partners",
     "highestMantra": "Logo naše najviše mantre",
-    "allToSpace": "Logo \"Sve u svemir\"",
+    "allToSpace": "All to Space logo",
     "isro": "Logotip ISRO-a",
     "mercosul": "Logo 13. bijenala Mercosura",
     "inpe": "Logo INPE ArtSat radionice",

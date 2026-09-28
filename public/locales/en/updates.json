@@ -3,14 +3,38 @@
   "heading": "Updates",
   "readIn": "Read in",
   "latestUpdate": "Latest Update",
+  "previousUpdate": "Previous Update",
   "updates": {
+    "once-again": {
+      "date": "September 14, 2026",
+      "title": "Once Again",
+      "content": {
+        "greeting": "Hello from the artist,",
+        "paragraphs": [
+          "In January I wrote to you about fire and ashes. Today I write about starting again.",
+          "The first launch of the Orbital Temple failed spectacularly. The rocket reached space, lost control in its final stage, and our temple burned in the atmosphere after ten minutes above the Earth. We felt the tears. We breathed. We began again.",
+          "After eight months of continuous work, we built a new temple, found a new rocket, and filed every document NASA and SpaceX required. We are cleared to fly. The new temple will travel to orbit on the Transporter-18 mission, scheduled for late October 2026. The exact day will be announced in the coming weeks.",
+          "Inside it go 19,518 names, sent from every corner of the world. The name you sent is among them.",
+          "Building and launching a sculpture into space is technically brutal and expensive. Justifying it is harder. We have so much to repair on Earth. People are hungry, forests are burning, wars are open. Why would an artist spend years sending a temple into the sky?",
+          "Because space is also our environment. As a Brazilian and a Latin American, I know that access to space technology is crucial to caring for what we love on Earth. With it we protect the Amazon, see a flood coming, read the health of our corals, and defend the sovereignty of our lands. A country that cannot reach space depends on someone who can.",
+          "Space is not a playground for billionaires. It is humanity's oldest commons.",
+          "Space carries an ancestral power to unite us. The first humans looked at the stars and made the myths we were born into. The Orbital Temple reflects those myths back to us. It points to a more inclusive future where we are accepted not because of our individual behavior or the group we belong to, but because we are human.",
+          "An artwork-temple open to everyone does not erase our differences or forgive the injustices that divide us. It does the opposite. Radical inclusion in heaven demands justice right now.",
+          "Not in heaven. Here, on Earth.",
+          "In the days around the launch, we will gather in New York for a ritual and an exhibition of the Orbital Witnesses, a new collection of sculptures that will move in sync with the satellite in space. If you are near, you are invited. If you are far, look up.",
+          "In January I said your name was waiting for its time. That time is close."
+        ],
+        "signature": "With love,",
+        "name": "Edson Pavoni"
+      }
+    },
     "fire-and-ashes": {
       "date": "January 20, 2026",
       "title": "Fire and Ashes",
       "content": {
         "greeting": "Hello from the artist,",
         "opening": "When you keep pushing the limits, sometimes the limits push back.",
-        "launch": "On January 16, 2026, the Orbital Temple was launched into space. It was aboard the PSLV-C62. A legendary Indian rocket with more than 60 successful launches.",
+        "launch": "On January 12, 2026, the Orbital Temple was launched into space. It was aboard the PSLV-C62. A legendary Indian rocket with more than 60 successful launches.",
         "different": "But this time, the story was different.",
         "failure": "The rocket lifted off beautifully and reached space. But in the final stage, it lost control. It failed to deploy the satellites. Our temple was in space for only 10 minutes. Then it fell back. It burned into ashes as it entered our atmosphere.",
         "whatNow": "So, what now? I am Brazilian. We don't give up. Now, we do it again.",

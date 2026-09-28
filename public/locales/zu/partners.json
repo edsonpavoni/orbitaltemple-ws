@@ -4,15 +4,15 @@
   "intro": "I-Orbital Temple ikhona ngokuphana, ubuchwepheshe, kanye nombono wabalingani abamangalisayo. Kusukela kumasathelayithi onjiniyela kuya ekudwebeni okulandisayo, kusukela ekuvuleni iminyango emazweni akude ukuya ekusakazeni amaphupho ngegolide, ukubambisana ngakunye kusondeza leli thempeli eduze kwezinkanyezi.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Ozakwethu",
+      "name": "RiseNY&Partners",
       "description": "Ukuxhumana, ukuzizwisa okuhlanganisiwe kanye nesithombe esimangalisayo se-3D esiphilise umbono wesathelayithi ngaphambi kokuthi ithinte ukungabikho kwendawo."
     },
     "highestMantra": {
-      "name": "I-Mantra yethu Ephakeme kakhulu",
+      "name": "Our Highest Mantra",
       "description": "Iholwa ngu-Sathi Roy, ixhumanisa i-Orbital Temple nemiphakathi yase-India yokomoya nezobuciko. Ivula izindlela zokuqongelela imali, ukushintshana ngamasiko, kanye nombukiso we-Art Basel ngemva kokwethulwa ngoNovemba 2025."
     },
     "allToSpace": {
-      "name": "Konke ku-Space",
+      "name": "All to Space",
       "description": "Ochwepheshe besathelayithi abancane baseBrazil. Iminyaka emine yokubambisana kwakha inkundla yehadiwe yomthombo ovulekile kanye nokuphayona inqubo yokuthumela ubuciko ku-orbit kusuka ku-Global South."
     },
     "isro": {
@@ -28,7 +28,7 @@
       "description": "Ithimba lokuthuthukisa isathelayithi lakhiwe ngesikhathi se-II ArtSat Workshop. Ididiyelwe ngu-Fabiane M. Borges, eyalwe ngu-Lázaro Camargo, ehlanganiswe ngu-Ítalo Pinto Rodrigues, egadwe u-Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Imiqondo Eqinile",
+      "name": "Solid Concepts",
       "description": "Iholwa ngu-Eduardo Dias. Konke ukuphrinta kwe-3D nomsebenzi wokulingisa owenziwe ngegolide we-sculptural dome, ukuguqula amaphupho edijithali abe into yangempela yensimbi eyigugu."
     },
     "ideaSpace": {
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Ilogo ye-RiseNY&Partners",
     "highestMantra": "Ilogo Yethu Ephakeme Ye-Mantra",
-    "allToSpace": "Konke ku-Space Logo",
+    "allToSpace": "All to Space logo",
     "isro": "Ilogo ye-ISRO",
     "mercosul": "Ilogo ye-13 ye-Mercosur Biennial",
     "inpe": "Ilogo ye-INPE ArtSat Workshop",

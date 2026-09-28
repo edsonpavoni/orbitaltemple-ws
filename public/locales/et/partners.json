@@ -4,15 +4,15 @@
   "intro": "Orbitaaltempel eksisteerib tänu erakordsete partnerite heldusele, asjatundlikkusele ja visioonile. Alates satelliitide loomisest kuni lugude loomiseni, uste avamisest kaugetes maades kuni unistuste kulla valamiseni – iga koostöö toob selle templi tähtedele lähemale.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Partnerid",
+      "name": "RiseNY&Partners",
       "description": "Suhtlus, integreeritud kogemused ja vapustavad 3D-renderduspildid äratasid satelliidi nägemuse ellu enne, kui see kosmose tühjust puudutas."
     },
     "highestMantra": {
-      "name": "Meie kõrgeim mantra",
+      "name": "Our Highest Mantra",
       "description": "Sathi Roy juhtimisel ühendab Orbitali Templit India vaimsete ja kunstikogukondadega. Avatakse võimalusi rahakogumiseks, kultuurivahetuseks ja Art Baseli näituseks pärast selle avamist 2025. aasta novembris."
     },
     "allToSpace": {
-      "name": "Kõik kosmosesse",
+      "name": "All to Space",
       "description": "Brasiilia väikesatelliitide spetsialistid. Neli aastat koostööd avatud lähtekoodiga riistvaraplatvormi loomisel ja teedrajava rollis protsessis, mille abil kunsti orbiidile saata globaalsest lõunast."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Satelliidi arendusmeeskond moodustati II ArtSati töötoa käigus. Koordineeris Fabiane M. Borges, juhendas Lázaro Camargo, tegi koostööd Ítalo Pinto Rodrigues, juhendas Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Kindlad kontseptsioonid",
+      "name": "Solid Concepts",
       "description": "Eduardo Diase juhtimisel. Kõik skulpturaalse kupli 3D-printimise ja kulla mikrovalamise tööd muudavad digitaalsed unistused väärismetallist reaalsuseks."
     },
     "ideaSpace": {
-      "name": "Ideeruum",
+      "name": "Idea Space",
       "description": "Brasiilia haridusettevõte, mis arendab Quebrada kosmoseprogrammi õppekava, mis on valmis rakendamiseks keskkooliõpilastele kogu Brasiilias."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partnersi logo",
     "highestMantra": "Meie kõrgeima mantra logo",
-    "allToSpace": "Kõik kosmosesse logo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO logo",
     "mercosul": "13. Mercosuri biennaali logo",
     "inpe": "INPE ArtSat töötoa logo",

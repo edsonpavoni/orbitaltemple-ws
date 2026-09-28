@@ -1,11 +1,11 @@
 {
-  "title": "Reciba notificaciones - Templo Orbital",
-  "heading": "Reciba una notificación cuando suba",
-  "description": "El 28 de noviembre de 2025, el Templo Orbital ascenderá.<br> Déjanos tu correo electrónico y te avisaremos cuando llegue al espacio.",
+  "title": "Recibe una notificación - Templo Orbital",
+  "heading": "Recibe una notificación cuando ascienda",
+  "description": "El Templo Orbital se lanzará en la misión Transporter-18 de SpaceX, programada para el jueves 1 de octubre de 2026, a las 2:18 p. m. (hora de Nueva York).<br>Déjanos tu correo electrónico y te avisaremos cuando llegue al espacio.",
   "form": {
     "emailPlaceholder": "tu@correo.com",
     "sendButton": "Enviar",
-    "sendingButton": "Envío...",
+    "sendingButton": "Enviando...",
     "successMessage": "Nos pondremos en contacto contigo cuando ascienda.",
     "errorMessage": "Algo salió mal. Por favor, inténtalo de nuevo."
   },

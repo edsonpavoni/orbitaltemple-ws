@@ -62,43 +62,6 @@ export default function DonateContent({ donationType, amount }: DonateContentPro
           </div>
         </div>
 
-        {/* Option 2: Roy Foundation Deposit */}
-        <div style={{ background: 'rgba(250, 212, 58, 0.03)', padding: '2.5rem', borderLeft: '4px solid var(--color-ot-gold200)', borderRadius: '4px' }}>
-          <h3 className="section-subtitle" style={{ marginBottom: '1rem' }}>
-            {t('option2.heading')}
-          </h3>
-          <p className="body-text" style={{ marginBottom: '1.5rem' }}>
-            <span dangerouslySetInnerHTML={{ __html: t('option2.description') }} />
-          </p>
-
-          {/* Banking Details */}
-          <div style={{ background: 'rgba(0, 0, 0, 0.2)', padding: '1.5rem', borderRadius: '4px', marginBottom: '1.5rem' }}>
-            <p className="body-text" style={{ marginBottom: '0.75rem', fontWeight: 600, color: 'var(--color-ot-gold200)' }}>
-              {t('option2.bankingInfo')}
-            </p>
-            <p className="body-text body-text--secondary" style={{ margin: '0.5rem 0', fontFamily: 'monospace' }}>
-              <strong>{t('option2.fields.accountName')}</strong> The Roy Foundation<br />
-              <strong>{t('option2.fields.bankName')}</strong> [Bank Name - Mock Data]<br />
-              <strong>{t('option2.fields.accountNumber')}</strong> XXXX-XXXX-XXXX-1234<br />
-              <strong>{t('option2.fields.routingNumber')}</strong> 123456789<br />
-              <strong>{t('option2.fields.swift')}</strong> MOCKBIC123<br />
-              <strong>{t('option2.fields.reference')}</strong> Orbital Temple - {donationType}
-            </p>
-          </div>
-
-          <p className="body-text body-text--secondary" style={{ marginBottom: '1.5rem', fontSize: '0.9rem' }}>
-            <span dangerouslySetInnerHTML={{ __html: t('option2.instructions').replace('{donationType}', donationType) }} />
-          </p>
-
-          <div style={{ textAlign: 'center' }}>
-            <a
-              href={`mailto:sathi.roy@orbitaltemple.art?subject=Bank Deposit for Orbital Temple&body=I've completed a bank deposit for Orbital Temple.%0A%0ADonation Type: ${donationType}%0AAmount: $${amount}%0A%0APlease find my transfer details below:`}
-              style={{ display: 'inline-block', padding: '1rem 2rem', border: '2px solid var(--color-ot-gold200)', color: 'var(--color-ot-light)', fontWeight: 700, fontSize: '1.1rem', textDecoration: 'none', borderRadius: '4px', transition: 'all 0.2s ease' }}>
-              {t('option2.button')}
-            </a>
-          </div>
-        </div>
-
       </div>
 
       {/* Tax Information */}

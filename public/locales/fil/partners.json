@@ -8,11 +8,11 @@
       "description": "Komunikasyon, pinagsama-samang mga karanasan, at nakamamanghang 3D render imagery na nagbigay-buhay sa paningin ng satellite bago pa man nito mahawakan ang kawalan ng espasyo."
     },
     "highestMantra": {
-      "name": "Ang Aming Pinakamataas na Mantra",
+      "name": "Our Highest Mantra",
       "description": "Pinangunahan ni Sathi Roy, na nag-uugnay sa Orbital Temple sa mga espirituwal at artistikong komunidad ng India. Pagbubukas ng mga landas sa pangangalap ng pondo, pagpapalitan ng kultura, at isang eksibisyon ng Art Basel kasunod ng paglulunsad noong Nobyembre 2025."
     },
     "allToSpace": {
-      "name": "Lahat sa Space",
+      "name": "All to Space",
       "description": "Mga espesyalista sa maliit na satellite ng Brazil. Apat na taon ng pakikipagtulungan sa pagbuo ng isang open source na platform ng hardware at pangunguna sa proseso upang ipadala ang sining sa orbit mula sa Global South."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Ang satellite development team ay nabuo sa panahon ng II ArtSat Workshop. Inayos ni Fabiane M. Borges, inutusan ni Lázaro Camargo, pinagtulungan ni Ítalo Pinto Rodrigues, pinangangasiwaan ni Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Solid na Konsepto",
+      "name": "Solid Concepts",
       "description": "Pinangunahan ni Eduardo Dias. Gumagana ang lahat ng 3D printing at gold micro casting para sa sculptural dome, na ginagawang mahalagang realidad ng metal ang mga digital na pangarap."
     },
     "ideaSpace": {
-      "name": "Space ng Ideya",
+      "name": "Idea Space",
       "description": "Brazilian education startup na bumubuo ng Quebrada Space Program curriculum, na handang ilapat sa mga mag-aaral sa high school sa buong Brazil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo ng RiseNY&Partners",
     "highestMantra": "Ang Aming Pinakamataas na Logo ng Mantra",
-    "allToSpace": "Lahat sa Logo ng Space",
+    "allToSpace": "All to Space logo",
     "isro": "Logo ng ISRO",
     "mercosul": "Ika-13 Mercosur Biennial Logo",
     "inpe": "Logo ng INPE ArtSat Workshop",

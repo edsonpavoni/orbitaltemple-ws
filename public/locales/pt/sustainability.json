@@ -10,8 +10,8 @@
     "paragraph1": "O lixo espacial é um dos desafios mais urgentes enfrentados pela exploração espacial. Milhares de satélites inativos e fragmentos orbitam a Terra, ameaçando missões em andamento e criando um efeito cascata que pode tornar certas órbitas inutilizáveis.",
     "paragraph2": "O Templo Orbital aborda isso de diversas maneiras:",
     "list": {
-      "orbit": "<strong>Órbita heliosíncrona a 525 km:</strong> Essa altitude garante que o arrasto atmosférico natural fará com que o satélite reentre na atmosfera terrestre em aproximadamente 10 anos, onde se desintegrará completamente. Não estamos contribuindo para a formação de detritos orbitais a longo prazo.",
-      "size": "<strong>Design do PocketQube:</strong> Com apenas 50×58×64mm e 245g, o satélite é pequeno o suficiente para se vaporizar completamente durante a reentrada, não deixando detritos na superfície da Terra.",
+      "orbit": "<strong>Órbita heliossíncrona a cerca de 500 a 560 km:</strong> Essa altitude garante que o arrasto atmosférico natural fará com que o satélite reentre na atmosfera terrestre em quatro a dez anos, onde se desintegrará completamente. Não estamos contribuindo para a formação de detritos orbitais a longo prazo.",
+      "size": "<strong>Design do PocketQube:</strong> Com apenas 5 cm de lado e 250 g, o satélite é pequeno o suficiente para se vaporizar completamente durante a reentrada, não deixando detritos na superfície da Terra.",
       "responsibility": "<strong>Sem obsolescência programada:</strong> Ao contrário dos satélites comerciais que podem ser abandonados, o Templo Orbital foi projetado para sair de órbita naturalmente, cumprindo as diretrizes internacionais para atividades espaciais responsáveis."
     },
     "paragraph3": "Ao escolher uma órbita terrestre baixa e um design compacto, garantimos que a presença do Templo Orbital no espaço seja temporária e não poluente."
@@ -31,8 +31,8 @@
     "paragraph2": "Essa missão educacional é, em si, uma forma de sustentabilidade — investir em pessoas e comunidades para criar mudanças duradouras que ultrapassem a vida útil do satélite."
   },
   "tenYear": {
-    "heading": "Uma missão de 10 anos",
-    "paragraph1": "O Templo Orbital foi projetado para uma missão de dez anos, não para uma breve jogada de marketing. Ao longo de dez anos, o satélite orbitará a Terra aproximadamente 50.000 vezes, recebendo nomes e servindo como um lembrete de que o espaço pode ser um bem comum, acessível a todos.",
+    "heading": "De quatro a dez anos em órbita",
+    "paragraph1": "O Templo Orbital foi projetado para uma missão de anos, não para uma breve jogada de marketing. Durante quatro a dez anos em órbita, o satélite dará voltas e voltas ao redor da Terra, recebendo nomes e servindo como um lembrete de que o espaço pode ser um bem comum, acessível a todos.",
     "paragraph2": "Após o término de sua missão, o satélite sairá de órbita naturalmente e se desintegrará na atmosfera, não deixando vestígios, exceto nas memórias e documentos daqueles que participaram."
   },
   "artsResponsibility": {

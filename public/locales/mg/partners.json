@@ -8,11 +8,11 @@
       "description": "Ny fifandraisana, ny traikefa natambatra ary ny sary 3D mahavariana izay nampiaina ny fahitan'ny zanabolana talohan'ny nanohinany ny habakabaka."
     },
     "highestMantra": {
-      "name": "Ny Mantra avo indrindra",
+      "name": "Our Highest Mantra",
       "description": "Notarihin'i Sathi Roy, mampifandray ny Tempolin'i Orbital amin'ireo vondrom-piarahamonina ara-panahy sy ara-javakanto ao India. Fanokafana lalana mankany amin'ny fanangonam-bola, fifanakalozana ara-kolontsaina ary fampirantiana Art Basel taorian'ny fandefasana ny Novambra 2025."
     },
     "allToSpace": {
-      "name": "Rehetra ho an'ny Space",
+      "name": "All to Space",
       "description": "Breziliana manampahaizana manokana amin'ny zanabolana. Niara-niasa nandritra ny efa-taona tamin'ny fananganana sehatra hardware loharano misokatra ary nisava lalana ny dingana handefasana ny zavakanto ho any amin'ny orbit avy amin'ny Global South."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Ny ekipa fampandrosoana amin'ny zanabolana dia niforona nandritra ny atrikasa ArtSat II. Narindran'i Fabiane M. Borges, notarihin'i Lázaro Camargo, niara-niasa tamin'i Ítalo Pinto Rodrigues, notarihin'i Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Hevitra mivaingana",
+      "name": "Solid Concepts",
       "description": "Notarihin’i Eduardo Dias. Ny fanontam-pirinty 3D sy ny fanariana madinika volamena rehetra dia miasa ho an'ny dome sculptural, manova ny nofinofy nomerika ho zava-misy metaly sarobidy."
     },
     "ideaSpace": {
-      "name": "Hevitra Space",
+      "name": "Idea Space",
       "description": "Fanombohana fampianarana breziliana mamolavola ny fandaharam-pianarana Quebrada Space Program, vonona hampiharina amin'ny mpianatra eny amin'ny lise manerana an'i Brezila."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partners Logo",
     "highestMantra": "Logo Mantra avo indrindra",
-    "allToSpace": "Rehetra mankany Space Logo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO Logo",
     "mercosul": "Logo faha-13 Mercosur Biennial",
     "inpe": "INPE ArtSat Workshop Logo",

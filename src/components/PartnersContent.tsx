@@ -37,21 +37,6 @@ export default function PartnersContent() {
           </p>
         </div>
 
-        {/* Our Highest Mantra */}
-        <div className="partner-card">
-          <div className="partner-logo-container">
-            <a href="https://www.ourhighestmantra.com/" target="_blank" rel="noopener noreferrer">
-              <img src="/partners/highest-mantra.webp" alt={t('imageAlts.highestMantra')} className="partner-logo partner-logo-small" />
-            </a>
-          </div>
-          <h3 className="partner-name">
-            <a href="https://www.ourhighestmantra.com/" target="_blank" rel="noopener noreferrer">{t('partners.highestMantra.name')}</a>
-          </h3>
-          <p className="partner-description">
-            {t('partners.highestMantra.description')}
-          </p>
-        </div>
-
         {/* All to Space */}
         <div className="partner-card">
           <div className="partner-logo-container">
@@ -65,6 +50,20 @@ export default function PartnersContent() {
           </p>
         </div>
 
+        {/* UAI Labs */}
+        <div className="partner-card">
+          <div className="partner-logo-container">
+            <a href="https://www.uailabs.com.br/" target="_blank" rel="noopener noreferrer">
+              <img src="/partners/uai-labs.webp" alt={t('imageAlts.uaiLabs')} className="partner-logo" />
+            </a>
+          </div>
+          <h3 className="partner-name">
+            <a href="https://www.uailabs.com.br/" target="_blank" rel="noopener noreferrer">{t('partners.uaiLabs.name')}</a>
+          </h3>
+          <p className="partner-description">
+            {t('partners.uaiLabs.description')}
+          </p>
+        </div>
         {/* ISRO */}
         <div className="partner-card">
           <div className="partner-logo-container">
@@ -77,6 +76,21 @@ export default function PartnersContent() {
           </h3>
           <p className="partner-description">
             {t('partners.isro.description')}
+          </p>
+        </div>
+
+        {/* Our Highest Mantra */}
+        <div className="partner-card">
+          <div className="partner-logo-container">
+            <a href="https://www.ourhighestmantra.com/" target="_blank" rel="noopener noreferrer">
+              <img src="/partners/highest-mantra.webp" alt={t('imageAlts.highestMantra')} className="partner-logo partner-logo-small" />
+            </a>
+          </div>
+          <h3 className="partner-name">
+            <a href="https://www.ourhighestmantra.com/" target="_blank" rel="noopener noreferrer">{t('partners.highestMantra.name')}</a>
+          </h3>
+          <p className="partner-description">
+            {t('partners.highestMantra.description')}
           </p>
         </div>
 

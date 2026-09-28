@@ -366,38 +366,6 @@ export default function PressContent() {
               </p>
             </a>
           </div>
-          <div className="press-image-item">
-            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5529.jpg" download="edson-pavoni-portrait-3.jpg">
-              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5529.webp" alt={t('imageAlts.edsonPortrait')} />
-              <p className="caption-text" style={{ textAlign: 'center' }}>
-                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo3') }} />
-              </p>
-            </a>
-          </div>
-          <div className="press-image-item">
-            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5559.jpg" download="edson-pavoni-portrait-4.jpg">
-              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5559.webp" alt={t('imageAlts.edsonPortrait')} />
-              <p className="caption-text" style={{ textAlign: 'center' }}>
-                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo4') }} />
-              </p>
-            </a>
-          </div>
-          <div className="press-image-item">
-            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5569.jpg" download="edson-pavoni-portrait-5.jpg">
-              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5569.webp" alt={t('imageAlts.edsonPortrait')} />
-              <p className="caption-text" style={{ textAlign: 'center' }}>
-                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo5') }} />
-              </p>
-            </a>
-          </div>
-          <div className="press-image-item">
-            <a href="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5838.jpg" download="edson-pavoni-portrait-6.jpg">
-              <img src="/press/25_11_13_Edson_Pavoni_by_Alex_Korolkovas_A__5838.webp" alt={t('imageAlts.edsonPortrait')} />
-              <p className="caption-text" style={{ textAlign: 'center' }}>
-                <span dangerouslySetInnerHTML={{ __html: t('images.artistPhotos.photo6') }} />
-              </p>
-            </a>
-          </div>
         </div>
 
       </section>

@@ -2,20 +2,44 @@
   "title": "Actualizaciones - Templo Orbital",
   "heading": "Actualizaciones",
   "readIn": "Leer en",
-  "latestUpdate": "Última Actualización",
+  "latestUpdate": "Última actualización",
+  "previousUpdate": "Actualización anterior",
   "updates": {
+    "once-again": {
+      "date": "14 de septiembre de 2026",
+      "title": "Una vez más",
+      "content": {
+        "greeting": "Hola del artista,",
+        "paragraphs": [
+          "En enero te escribí sobre fuego y cenizas. Hoy te escribo sobre volver a empezar.",
+          "El primer lanzamiento del Templo Orbital fracasó de forma espectacular. El cohete llegó al espacio, perdió el control en su etapa final, y nuestro templo ardió en la atmósfera tras diez minutos sobre la Tierra. Sentimos las lágrimas. Respiramos. Empezamos de nuevo.",
+          "Tras ocho meses de trabajo continuo, construimos un nuevo templo, encontramos un nuevo cohete y presentamos todos los documentos que exigieron la NASA y SpaceX. Tenemos autorización para volar. El nuevo templo viajará a la órbita en la misión Transporter-18, prevista para fines de octubre de 2026. El día exacto se anunciará en las próximas semanas.",
+          "Dentro van 19.518 nombres, enviados desde todos los rincones del mundo. El nombre que enviaste está entre ellos.",
+          "Construir y lanzar una escultura al espacio es técnicamente brutal y costoso. Justificarlo es más difícil. Tenemos tanto que reparar en la Tierra. Hay gente con hambre, bosques en llamas, guerras abiertas. ¿Por qué un artista pasaría años enviando un templo al cielo?",
+          "Porque el espacio también es nuestro entorno. Como brasileño y latinoamericano, sé que el acceso a la tecnología espacial es crucial para cuidar lo que amamos en la Tierra. Con ella protegemos la Amazonía, vemos venir una inundación, leemos la salud de nuestros corales y defendemos la soberanía de nuestros territorios. Un país que no puede llegar al espacio depende de quien sí puede.",
+          "El espacio no es un patio de juegos para multimillonarios. Es el bien común más antiguo de la humanidad.",
+          "El espacio tiene un poder ancestral para unirnos. Los primeros humanos miraron las estrellas y crearon los mitos en los que nacimos. El Templo Orbital nos devuelve esos mitos. Señala un futuro más inclusivo, donde somos aceptados no por nuestro comportamiento individual ni por el grupo al que pertenecemos, sino porque somos humanos.",
+          "Una obra-templo abierta a todos no borra nuestras diferencias ni perdona las injusticias que nos dividen. Hace lo contrario. La inclusión radical en el cielo exige justicia ahora mismo.",
+          "No en el cielo. Aquí, en la Tierra.",
+          "En los días cercanos al lanzamiento, nos reuniremos en Nueva York para un ritual y una exposición de los Testigos Orbitales, una nueva colección de esculturas que se moverán en sincronía con el satélite en el espacio. Si estás cerca, estás invitado. Si estás lejos, mira hacia arriba.",
+          "En enero te dije que tu nombre esperaba su momento. Ese momento está cerca."
+        ],
+        "signature": "Con amor,",
+        "name": "Edson Pavoni"
+      }
+    },
     "fire-and-ashes": {
       "date": "20 de enero de 2026",
-      "title": "Fuego y Cenizas",
+      "title": "Fuego y cenizas",
       "content": {
         "greeting": "Hola del artista,",
         "opening": "Cuando sigues empujando los límites, a veces los límites empujan de vuelta.",
-        "launch": "El 16 de enero de 2026, el Templo Orbital fue lanzado al espacio. Estaba a bordo del PSLV-C62. Un legendario cohete indio con más de 60 lanzamientos exitosos.",
+        "launch": "El 12 de enero de 2026, el Templo Orbital fue lanzado al espacio. Estaba a bordo del PSLV-C62. Un legendario cohete indio con más de 60 lanzamientos exitosos.",
         "different": "Pero esta vez, la historia fue diferente.",
         "failure": "El cohete despegó hermosamente y llegó al espacio. Pero en la etapa final, perdió el control. No logró desplegar los satélites. Nuestro templo estuvo en el espacio solo 10 minutos. Luego cayó de vuelta. Se quemó en cenizas al entrar en nuestra atmósfera.",
         "whatNow": "¿Y ahora qué? Soy brasileño. No nos rendimos. Ahora, lo hacemos de nuevo.",
-        "backup": "Ya tenemos un satélite de respaldo listo. Estamos hablando con agencias espaciales y empresas privadas. Estamos encontrando un nuevo cohete para nuestro proyecto.",
-        "community": "El espacio es difícil. Pero ya somos 19,078 de nosotros que enviamos nombres. De todo el mundo, personas han respondido a esta invitación. Estamos mirando el cielo de manera diferente.",
+        "backup": "Ya tenemos un satélite de respaldo listo. Estamos hablando con agencias espaciales y empresas privadas. Estamos buscando un nuevo cohete para nuestro proyecto.",
+        "community": "El espacio es difícil. Pero ya somos 19.078 quienes enviamos nombres. Desde todo el mundo, las personas han respondido a esta invitación. Estamos mirando el cielo de otra manera.",
         "seeking": "Serás el primero en saber cuando se confirme una nueva fecha. Tu nombre todavía está con nosotros. Está esperando su momento.",
         "thanks": "Gracias por caminar este camino conmigo.",
         "signature": "Con amor,",

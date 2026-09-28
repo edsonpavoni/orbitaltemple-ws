@@ -8,11 +8,11 @@
       "description": "Komunikasyon, integrated nga mga kasinatian ug makabungog nga 3D render imagery nga nagdala sa panan-awon sa satellite sa kinabuhi sa wala pa kini makahikap sa kahaw-ang sa kawanangan."
     },
     "highestMantra": {
-      "name": "Ang Atong Labing Taas nga Mantra",
+      "name": "Our Highest Mantra",
       "description": "Gipangunahan ni Sathi Roy, nga nagkonektar sa Orbital Temple sa mga espiritwal ug artistikong komunidad sa India. Pag-abli sa mga agianan sa pagkolekta sa pondo, pagbinayloay sa kultura, ug usa ka exhibition sa Art Basel pagkahuman sa paglansad sa Nobyembre 2025."
     },
     "allToSpace": {
-      "name": "Tanan sa Space",
+      "name": "All to Space",
       "description": "Mga espesyalista sa gamay nga satellite sa Brazil. Upat ka tuig nga kolaborasyon sa pagtukod sa usa ka open source hardware platform ug pagpayunir sa proseso sa pagpadala sa art ngadto sa orbit gikan sa Global South."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Ang satellite development team naporma atol sa II ArtSat Workshop. Gi-coordinate ni Fabiane M. Borges, gimandoan ni Lázaro Camargo, gitambayayongan ni Ítalo Pinto Rodrigues, gidumala ni Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Solid nga mga Konsepto",
+      "name": "Solid Concepts",
       "description": "Gipangunahan ni Eduardo Dias. Ang tanan nga 3D nga pag-imprenta ug bulawan nga micro casting nagtrabaho alang sa sculptural dome, nagbag-o sa digital nga mga damgo ngadto sa bililhon nga metal nga kamatuoran."
     },
     "ideaSpace": {
-      "name": "Ideya nga Luna",
+      "name": "Idea Space",
       "description": "Ang pagsugod sa edukasyon sa Brazil nagpalambo sa kurikulum sa Quebrada Space Program, andam nga magamit sa mga estudyante sa high school sa tibuuk Brazil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo sa RiseNY&Partners",
     "highestMantra": "Ang Atong Labing Taas nga Logo sa Mantra",
-    "allToSpace": "Tanan sa Space Logo",
+    "allToSpace": "All to Space logo",
     "isro": "Logo sa ISRO",
     "mercosul": "Ika-13 nga Mercosur Biennial Logo",
     "inpe": "Logo sa INPE ArtSat Workshop",

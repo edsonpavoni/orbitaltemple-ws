@@ -8,11 +8,11 @@
       "description": "Communication, expériences intégrées et images 3D époustouflantes qui ont donné vie à la vision du satellite avant même qu'il ne touche le vide spatial."
     },
     "highestMantra": {
-      "name": "Notre mantra suprême",
+      "name": "Our Highest Mantra",
       "description": "Sous l'impulsion de Sathi Roy, ce projet établit des liens entre le Temple Orbital et les communautés spirituelles et artistiques indiennes. Il ouvre la voie à la levée de fonds, aux échanges culturels et à une exposition à Art Basel après son lancement en novembre 2025."
     },
     "allToSpace": {
-      "name": "Tout dans l'espace",
+      "name": "All to Space",
       "description": "Spécialistes brésiliens des petits satellites. Quatre années de collaboration pour développer une plateforme matérielle open source et ouvrir la voie à l'envoi d'œuvres d'art en orbite depuis les pays du Sud."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "L'équipe de développement du satellite s'est formée lors du II Atelier ArtSat. Coordonné par Fabiane M. Borges, chargé de Lázaro Camargo, collaboré par Ítalo Pinto Rodrigues, supervisé par Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Concepts solides",
+      "name": "Solid Concepts",
       "description": "Sous la direction d'Eduardo Dias, l'ensemble des travaux d'impression 3D et de micro-moulage d'or pour le dôme sculptural transforme les rêves numériques en une précieuse réalité métallique."
     },
     "ideaSpace": {
-      "name": "Espace d'idées",
+      "name": "Idea Space",
       "description": "Une start-up brésilienne du secteur de l'éducation développe le programme scolaire Quebrada Space Program, prêt à être appliqué aux lycéens de tout le Brésil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logo de RiseNY&Partners",
     "highestMantra": "Notre logo de mantra suprême",
-    "allToSpace": "Logo All to Space",
+    "allToSpace": "All to Space logo",
     "isro": "Logo de l'ISRO",
     "mercosul": "Logo de la 13e Biennale du Mercosur",
     "inpe": "Logo de l'atelier INPE ArtSat",

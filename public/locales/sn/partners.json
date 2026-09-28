@@ -4,15 +4,15 @@
   "intro": "Orbital Tembere iripo kuburikidza nerupo, hunyanzvi, uye chiono chevadyidzani vanoshamisa. Kubva pamasatellite einjiniya kusvika pakugadzira rondedzero, kubva pakuvhura magonhi kunyika dziri kure kusvika pakukanda zviroto mugoridhe, kubatana kwega kwega kunoswededza temberi iyi pedyo nenyeredzi.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY & Partners",
+      "name": "RiseNY&Partners",
       "description": "Kukurukurirana, zviitiko zvakasanganiswa uye 3D inokatyamadza inopa mifananidzo yakaita kuti chiono chesatellite ive mhenyu isati yambobata kushaikwa kwenzvimbo."
     },
     "highestMantra": {
-      "name": "Yedu Yepamusoro Mantra",
+      "name": "Our Highest Mantra",
       "description": "Inotungamirwa naSathi Roy, inobatanidza Orbital Tembere nenharaunda dzemweya nehunyanzvi dzeIndia. Kuvhura nzira dzekutsvaga mari, kuchinjana kwetsika, uye kuratidzwa kweArt Basel zvichitevera kutangwa kwaNovember 2025."
     },
     "allToSpace": {
-      "name": "Zvese kune Space",
+      "name": "All to Space",
       "description": "Brazilian diki satellite nyanzvi. Makore mana ekubatana kuvaka yakavhurika sosi hardware chikuva uye kupayona maitiro ekutumira art mu orbit kubva kuGlobal South."
     },
     "isro": {
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "RiseNY&Partners Logo",
     "highestMantra": "Yedu Yepamusoro Mantra Logo",
-    "allToSpace": "Zvese kune Space Logo",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO Logo",
     "mercosul": "13th Mercosur Biennial Logo",
     "inpe": "INPE ArtSat Workshop Logo",

@@ -4,15 +4,15 @@
   "intro": "Itempile ye-Orbital ikhona ngesisa, ubuchule, kunye nombono wamaqabane angaqhelekanga. Ukusuka kwiisathelayithi zobunjineli ukuya kwiingxelo zokuyila, ukusuka ekuvuleni iingcango kumazwe akude ukuya ekuphoseni amaphupha ngegolide, intsebenziswano nganye izisa le tempile kufutshane neenkwenkwezi.",
   "partners": {
     "riseNy": {
-      "name": "RiseNY&Amaqabane",
+      "name": "RiseNY&Partners",
       "description": "Unxibelelwano, amava adityanisiweyo kunye ne-3D emangalisayo enikezela ngemifanekiso eyenze waphila umbono wesathelayithi ngaphambi kokuba ichukumise ukungabikho kwendawo."
     },
     "highestMantra": {
-      "name": "Eyona Mantra yethu iphakamileyo",
+      "name": "Our Highest Mantra",
       "description": "Ikhokelwa nguSathi Roy, edibanisa iTempile ye-Orbital kunye noluntu lwaseIndiya lokomoya kunye nobugcisa. Ukuvula iindlela zokunyusa imali, ukutshintshiselana ngenkcubeko, kunye nomboniso we-Art Basel olandela ukusungulwa ngoNovemba ka-2025."
     },
     "allToSpace": {
-      "name": "Konke ukuya kwiSithuba",
+      "name": "All to Space",
       "description": "Iingcali zesathelayithi ezincinci zaseBrazil. Iminyaka emine yentsebenziswano yokwakha iqonga lomthombo ovulekileyo we-hardware kunye noovulindlela kwinkqubo yokuthumela ubugcisa kwi-orbit evela kwi-Global South."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Iqela lophuhliso lwesathelayithi lenziwe ngexesha le-II ArtSat Workshop. Iququzelelwa nguFabiane M. Borges, eyalelwa nguLázaro Camargo, esebenzisana no-Ítalo Pinto Rodrigues, ejongwe nguWalter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Iingcamango eziqinileyo",
+      "name": "Solid Concepts",
       "description": "Ikhokelwa nguEduardo Dias. Yonke imisebenzi yoshicilelo ye-3D kunye negolide encinci yokuphosa kwidome eqingqiweyo, iguqula amaphupha edijithali abe yinyani yentsimbi exabisekileyo."
     },
     "ideaSpace": {
-      "name": "Umbono Isithuba",
+      "name": "Idea Space",
       "description": "Ukuqaliswa kwemfundo yaseBrazil ukuphuhlisa ikharityhulam yeNkqubo yeSithuba seQuebrada, elungele ukusetyenziswa kubafundi bezikolo eziphakamileyo kulo lonke elaseBrazil."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "ILogo yeRiseNY&Partners",
     "highestMantra": "Eyona Logo yethu iPhakamileyo yeMantra",
-    "allToSpace": "Konke ukuya kwiLogo yeSithuba",
+    "allToSpace": "All to Space logo",
     "isro": "ISRO Ilogo",
     "mercosul": "13th Mercosur Biennial Logo",
     "inpe": "INPE ArtSat Workshop Logo",

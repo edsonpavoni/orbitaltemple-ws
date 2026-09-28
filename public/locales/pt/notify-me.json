@@ -1,7 +1,7 @@
 {
   "title": "Seja notificado - Templo Orbital",
   "heading": "Seja notificado quando aumentar.",
-  "description": "Em 28 de novembro de 2025, o Templo Orbital será lançado.<br> Deixe seu e-mail e avisaremos quando houver espaço disponível.",
+  "description": "O Templo Orbital será lançado na missão Transporter-18 da SpaceX, prevista para quinta-feira, 1º de outubro de 2026, às 15h18 (horário de Brasília).<br> Deixe seu e-mail e avisaremos quando ele chegar ao espaço.",
   "form": {
     "emailPlaceholder": "seu@email.com",
     "sendButton": "Enviar",

@@ -8,11 +8,11 @@
       "description": "Danûstandin, ezmûnên yekgirtî û wêneyên renderkirina 3D yên ecêb ku dîtina peykê berî ku bigihîje valahiya fezayê, zindî kirin."
     },
     "highestMantra": {
-      "name": "Mantra me ya herî bilind",
+      "name": "Our Highest Mantra",
       "description": "Bi rêberiya Sathi Roy, Orbital Perestgeh bi civakên giyanî û hunerî yên Hindistanê ve girêdide. Piştî destpêkirina Mijdara 2025an, rêyên berhevkirina pereyan, danûstandina çandî û pêşangeheke Art Basel vedike."
     },
     "allToSpace": {
-      "name": "Hemû bo fezayê",
+      "name": "All to Space",
       "description": "Pisporên peykên piçûk ên Brezîlyayî. Çar sal hevkarî ji bo avakirina platformek alavên çavkaniya vekirî û pêşengiya pêvajoya şandina hunerê ji Başûrê Cîhanê bo fezayê."
     },
     "isro": {
@@ -28,11 +28,11 @@
       "description": "Tîma pêşkeftina satelîtê di Atolyeya II ArtSat de hate damezrandin. Ji hêla Fabiane M. Borges ve hatî rêve kirin, ji hêla Lázaro Camargo ve hatî rêve kirin, ji hêla Ítalo Pinto Rodrigues ve hatî hevkarî kirin, bi çavdêriya Walter Abrahão dos Santos."
     },
     "solidConcepts": {
-      "name": "Têgehên Sabît",
+      "name": "Solid Concepts",
       "description": "Bi serokatiya Eduardo Dias. Hemû çapkirina 3D û mîkrorijandina zêr ji bo qubeya peykersaziyê dixebite, xewnên dîjîtal vediguherîne rastiya metalên hêja."
     },
     "ideaSpace": {
-      "name": "Cihê Ramanan",
+      "name": "Idea Space",
       "description": "Startupeke perwerdehiyê ya Brezîlyayî bernameya fezayê ya Quebrada pêş dixe, ku amade ye ji bo xwendekarên lîseyê li seranserê Brezîlyayê were sepandin."
     }
   },
@@ -40,7 +40,7 @@
   "imageAlts": {
     "riseNy": "Logoya RiseNY&Partners",
     "highestMantra": "Logoya Me ya Mantra ya Herî Bilind",
-    "allToSpace": "Logoya Hemûyan bo Fezayê",
+    "allToSpace": "All to Space logo",
     "isro": "Logoya ISRO",
     "mercosul": "Logoya 13emîn Bienala Mercosurê",
     "inpe": "Logoya Atolyeya INPE ArtSat",

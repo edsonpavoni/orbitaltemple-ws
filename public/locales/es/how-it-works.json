@@ -2,8 +2,8 @@
   "title": "Cómo funciona - Templo Orbital",
   "heading": "Cómo funciona",
   "intro": "El proyecto del Templo Orbital consta de tres elementos interconectados que trabajan juntos para enviar nombres al templo en el espacio.",
-  "paragraph1": "Una vez lanzado, el satélite orbitará la Tierra a una altitud aproximada de 525 km, almacenando los nombres en su memoria. Las estaciones terrestres se comunicarán con el satélite durante sus pasadas, transmitiendo los nombres que las personas han enviado a través del sitio web.",
-  "paragraph2": "Al enviar un nombre, este se añade a una cola. Después de que el satélite alcance la órbita, tu nombre será transmitido durante una pasada disponible. Recibirás un correo electrónico de confirmación cuando tu nombre se haya cargado correctamente al Templo Orbital.",
-  "paragraph3": "El 16 de enero de 2026, el primer satélite estaba a bordo del PSLV-C62 de ISRO. El cohete llegó al espacio pero falló en desplegar su carga útil. Un satélite de respaldo está listo, y estamos trabajando en un nuevo lanzamiento.",
-  "imageAlt": "Diagrama del sistema de templos orbitales"
+  "paragraph1": "Una vez lanzado, el satélite orbitará la Tierra a una altitud de entre 500 y 560 km aproximadamente, llevando en su memoria los más de 19.000 nombres ya enviados. Luego, las estaciones terrestres se comunicarán con el satélite durante sus pasadas, transmitiendo los nuevos nombres que las personas envíen a través del sitio web.",
+  "paragraph2": "Los más de 19.000 nombres enviados hasta ahora ya están en la memoria del satélite, y todas las personas que enviaron uno recibirán una confirmación cuando esté en órbita. Los nombres nuevos se suman a una cola y nuestra estación terrestre los transmite durante las pasadas del satélite. Recibirás un correo electrónico de confirmación cuando el tuyo se haya cargado en el Templo Orbital.",
+  "paragraph3": "El 12 de enero de 2026, el primer satélite voló a bordo del PSLV-C62 de ISRO. El cohete llegó al espacio, pero no logró desplegar su carga útil. Un segundo satélite ya tiene autorización para volar en la misión Transporter-18 de SpaceX, programada para el jueves 1 de octubre de 2026.",
+  "imageAlt": "Diagrama del sistema del Templo Orbital"
 }

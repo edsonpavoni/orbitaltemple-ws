@@ -64,7 +64,7 @@ export default function ScopeCountdown() {
             maxWidth: '400px',
             lineHeight: 1.4
           }}>
-            {currentTranslation.statusMessage || 'New launch date to be announced'}
+            {currentTranslation.statusMessage || 'Thursday, October 1, 2026 · 2:18 PM New York'}
           </div>
         </div>
       </div>
@@ -79,7 +79,7 @@ export default function ScopeCountdown() {
         margin: '0 auto',
         textAlign: 'center'
       }}>
-        {currentTranslation.statusDescription || 'We are working on a new launch opportunity.'}
+        {currentTranslation.statusDescription || 'Cleared to fly on SpaceX Transporter-18.'}
       </p>
     </>
   );
