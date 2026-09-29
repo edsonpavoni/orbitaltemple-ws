@@ -63,3 +63,8 @@ email-outreach/typo-fixes-once-again.txt
 # 129 MB of debug PNGs tracked by accident (untracked 2026-09-22).
 .playwright-mcp/
 .astro/
+
+# Launch-day mail (email-outreach/launch-mail): recipient snapshot, ledgers, logs, arm file
+email-outreach/launch-mail/state/
+email-outreach/launch-mail/state-sim/
+email-outreach/launch-mail/ARMED
