@@ -42,7 +42,8 @@ def background(args, tag):
         os.makedirs(LOGS, exist_ok=True)
         logf = os.path.join(LOGS, f"{tag}-{time.strftime('%Y%m%d-%H%M%S')}.log")
         out = open(logf, "a")
-        p = subprocess.Popen([node(), SENDER] + args, cwd=HERE, stdin=subprocess.DEVNULL, stdout=out,
+        env = {k: v for k, v in os.environ.items() if k != "LAUNCH_MAIL_SIM"}   # a stray export must not divert the real send
+        p = subprocess.Popen([node(), SENDER] + args, cwd=HERE, env=env, stdin=subprocess.DEVNULL, stdout=out,
                              stderr=subprocess.STDOUT, start_new_session=True, close_fds=True)
         out.close()
         note(f"started {tag} pid={p.pid} args={args} → {logf}")

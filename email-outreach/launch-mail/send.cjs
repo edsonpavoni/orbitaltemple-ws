@@ -224,9 +224,11 @@ async function postBatch(key, emails, idem) {
 }
 
 // Sends one chunk. Returns {sent:[ids], failed:[[id,email,msg]...]}. Throws Quota; network errors retry until NET_WINDOW.
-async function sendChunk(key, chunk, pressMs, idem, net) {
+async function sendChunk(key, chunk, pressMs, net) {
   let backoff = 2000;
   const payload = chunk.map((rec) => message(rec, pressMs));
+  // Key = hash of the exact payload: a retry of the same batch is deduped by Resend; a changed body gets a new key (no 409).
+  const idem = `${EVENT}/${crypto.createHash('sha256').update(JSON.stringify(payload)).digest('hex').slice(0, 48)}`;
   for (;;) {
     let r;
     try { r = await postBatch(key, payload, idem); }
@@ -249,7 +251,9 @@ async function sendChunk(key, chunk, pressMs, idem, net) {
       if (Date.now() - net.okAt > NET_WINDOW_MS) throw new Error(`Resend ${r.status} for ${NET_WINDOW_MS / 60000} min`);
       log(`Resend ${r.status} ${name}; retry in ${backoff / 1000}s`); await sleep(backoff); backoff = Math.min(60000, backoff * 2); continue;
     }
-    return { sent: [], failed: chunk.map((c) => [c.id, c.email, `HTTP ${r.status} ${name}: ${msg}`]), headers: r.headers };
+    // Any other whole-batch rejection (401/403 key or domain, 400/422 payload, 409 idempotency) is
+    // systemic: stop without a done marker so a fix + re-run still sends.
+    throw new Error(`Resend rejected a whole batch: HTTP ${r.status} ${name}: ${msg}`);
   }
 }
 
@@ -266,9 +270,8 @@ async function sendAll(key, queue, pressMs) {
       const wait = slot - Date.now(); slot = Math.max(slot, Date.now()) + 1000 / RATE;
       if (wait > 0) await sleep(wait);
       const chunk = chunks[idx];
-      const idem = `${EVENT}/${crypto.createHash('sha256').update(chunk.map((c) => c.id).join(',')).digest('hex').slice(0, 40)}`;
       try {
-        const r = await sendChunk(key, chunk, pressMs, idem, net);
+        const r = await sendChunk(key, chunk, pressMs, net);
         if (r.sent.length) { fs.writeSync(ledgerFd, r.sent.join('\n') + '\n'); fs.fsyncSync(ledgerFd); }
         if (r.failed.length) fs.appendFileSync(FAILED, r.failed.map((f) => f.join('\t')).join('\n') + '\n');
         sent += r.sent.length; failed += r.failed.length; lastHeaders = r.headers || lastHeaders;
@@ -339,7 +342,12 @@ async function main() {
     console.log(bad.length ? `\n✗ LINT:\n  ${bad.join('\n  ')}` : '\n✓ lint clean (matches index.ts; no UARX/OSSIE/in orbit/transmitting)');
     process.exit(bad.length ? 1 : 0);
   }
-  if (bad.length) { log(`REFUSING (lint):\n  ${bad.join('\n  ')}`); process.exit(1); }
+  if (bad.length) {
+    // At press time only forbidden words stop the send; a drift from index.ts is logged and the copy in this file goes out.
+    const fatal = mode !== 'send' ? bad : bad.filter((b) => b.includes('forbidden'));
+    if (fatal.length) { log(`REFUSING (lint):\n  ${fatal.join('\n  ')}`); process.exit(1); }
+    log(`WARNING (lint, sending anyway with the text in send.cjs):\n  ${bad.join('\n  ')}`);
+  }
 
   if (mode === 'test') {
     const key = apiKey();
@@ -417,6 +425,12 @@ async function main() {
       releaseLock();
       await reportMail(key, `[launch mail] STOPPED${quota ? ' (QUOTA)' : ''}: ${res.sent} sent`, `${JSON.stringify(summary, null, 1)}\n\n${res.stop.message}`);
       process.exit(quota ? 2 : 3);
+    }
+    if (res.failed > Math.max(50, 0.02 * q.queue.length)) {   // per-address rejections beyond a few % → don't seal it
+      log(`⛔ ${res.failed} addresses rejected (>2%): NOT marking done. Check state/failed-${EVENT}.txt, then resume.`);
+      releaseLock();
+      await reportMail(key, `[launch mail] ${res.sent} sent, ${res.failed} rejected — not sealed`, JSON.stringify(summary, null, 1));
+      process.exit(5);
     }
     fs.writeFileSync(DONE, JSON.stringify(summary, null, 1));
     releaseLock();
