@@ -328,7 +328,7 @@ async function sendAll(key, queue, pressMs) {
         if (r.sent.length) { fs.writeSync(ledgerFd, r.sent.join('\n') + '\n'); fs.fsyncSync(ledgerFd); }
         if (r.failed.length) fs.appendFileSync(FAILED, r.failed.map((f) => f.join('\t')).join('\n') + '\n');
         sent += r.sent.length; failed += r.failed.length; lastHeaders = r.headers || lastHeaders;
-        for (const [, e, m] of r.failed) log(`✗ ${e}: ${m}`);
+        for (const [e, , m] of r.failed) log(`✗ ${e}: ${m}`);
         log(`batch ${idx + 1}/${chunks.length} · +${r.sent.length} · total sent ${sent} · ${((Date.now() - t0) / 1000).toFixed(1)}s`);
       } catch (e) { stop = e; }
     }

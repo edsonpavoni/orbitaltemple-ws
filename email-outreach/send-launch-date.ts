@@ -286,8 +286,8 @@ async function main() {
   const t0 = Date.now();
   for (let b = 0; b < batches; b++) {
     const chunk = queue.slice(b * BATCH, (b + 1) * BATCH);
-    const bccIdx = new Set<number>();
-    chunk.forEach((_, i) => { if ((b * BATCH + i + 1) % BCC_EVERY === 0) bccIdx.add(i); });
+    const bccIdx = new Set<number>();   // ~1 in 500, chosen by address (not position) so a resumed batch hashes the same
+    chunk.forEach(([e], i) => { if (parseInt(crypto.createHash('sha256').update(e).digest('hex').slice(0, 8), 16) % BCC_EVERY === 0) bccIdx.add(i); });
     const wait = last + MIN_GAP_MS - Date.now();
     if (wait > 0) await delay(wait);
     last = Date.now();
