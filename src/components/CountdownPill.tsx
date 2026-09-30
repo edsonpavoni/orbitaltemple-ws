@@ -12,6 +12,14 @@ export default function CountdownPill() {
 
   const lang = getCurrentLang();
 
+  // The launch, in the three languages kept current; every other language shows English
+  const TEXT: Record<string, { label: string; date: string }> = {
+    en: { label: 'Launch · SpaceX Transporter-18', date: 'Thursday, October 1 · 2:18 PM New York' },
+    pt: { label: 'Lançamento · SpaceX Transporter-18', date: 'Quinta-feira, 1º de outubro · 15h18 Brasília' },
+    es: { label: 'Lanzamiento · SpaceX Transporter-18', date: 'Jueves 1 de octubre · 2:18 p. m. Nueva York' },
+  };
+  const text = TEXT[lang] || TEXT.en;
+
   return (
     <>
       <style>{`
@@ -57,14 +65,14 @@ export default function CountdownPill() {
           letterSpacing: '0.1em',
           color: '#ffffff',
         }}>
-          Mission Update
+          {text.label}
         </span>
         <span style={{
           fontSize: '16px',
           fontWeight: 500,
           color: '#ffffff',
         }}>
-          New launch date TBA
+          {text.date}
         </span>
       </a>
       </div>
