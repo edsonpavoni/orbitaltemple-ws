@@ -58,7 +58,7 @@ const EMAIL_TEMPLATES: Record<string, EmailTemplate> = {
     queuedSubject: (name) => `${name} is now queued for ascension`,
     queuedBody: (name) => `the name\n${name}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
     ascendedSubject: (name) => `${name} ascension to the orbital temple in space`,
-    ascendedBody: (name, date, time) => `today, ${date}, at ${time} the name ${name} ascend, and there it remains.`,
+    ascendedBody: (name, date, time) => `today, ${date}, at ${time} the name ${name} ascended, and there it remains.`,
   },
   br: {
     queuedSubject: (name) => `${name} está agora na fila para ascensão`,

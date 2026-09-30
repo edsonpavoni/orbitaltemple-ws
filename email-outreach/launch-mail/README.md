@@ -1,8 +1,10 @@
 # launch-mail: the DEPLOYED-button email
 
 When Gabi presses **DEPLOYED** on the show page, every name sender gets the site's own "ascended"
-message. It goes out **one email per name** (19,515 names on Sep 29), dated with the press, through
-Resend's batch API. It sends **once ever**, and only if **ARMED**.
+message. It goes out **one email per address** (14,101 addresses covering 19,262 names on Sep 30),
+dated with the press, through Resend's batch API. An address with one name gets the site's text
+as-is; an address with several names gets one email listing them all. It sends **once ever**, and
+only if **ARMED**.
 
 `notify.py` is the hook that show.py calls; it never blocks and never raises. `send.cjs` does the
 work: it reads Firestore, applies the exclusions, sends in batches, and keeps the ledger. The patch
@@ -27,17 +29,17 @@ date it was made.
 
 | | |
 |---|---|
-| `python3 …/notify.py status` | Shows whether it is armed, how many names have been sent, and whether the send is done |
+| `python3 …/notify.py status` | Shows whether it is armed, how many addresses have been sent, and whether the send is done |
 | `python3 …/notify.py disarm` | Removes ARMED, so a press becomes a dry-run |
 | `python3 …/notify.py dry-run` | Shows the real counts and estimate. Sends nothing |
-| `python3 …/notify.py test` | Sends en + pt + br to edsonpavoni@gmail.com only |
+| `python3 …/notify.py test` | Sends en single, en multi, pt single, pt multi, br multi to edsonpavoni@gmail.com only |
 | `python3 …/notify.py in-space` | Sends by hand, exactly as the button does, if show.py fails. Also resumes an interrupted send |
 | `node send.cjs lint` | Prints the texts and checks they still match `functions/src/index.ts` |
 
 ## Safety
 
 - **Once only.**
-  - `state/sent-in-space.txt` lists every name doc id sent, fsynced after each batch.
+  - `state/sent-in-space-addresses.txt` lists every address sent, fsynced after each batch.
   - `state/in-space.done.json` marks the send finished.
   - `state/in-space.lock` stops two runs at once. A stale lock from a dead process is taken over and the run resumes.
   - Batches carry an Idempotency-Key, so a retried batch is not re-sent.

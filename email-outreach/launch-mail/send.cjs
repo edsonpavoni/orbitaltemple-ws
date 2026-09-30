@@ -1,11 +1,13 @@
 #!/usr/bin/env node
 /**
  * Launch-day email: the site's own "ascended" message (functions/src/index.ts, EMAIL_TEMPLATES
- * ascendedSubject/ascendedBody), ONE EMAIL PER NAME, dated with the DEPLOYED press.
+ * ascendedSubject/ascendedBody), ONE EMAIL PER ADDRESS, dated with the DEPLOYED press.
+ * An address with one name gets the site's text as-is; an address with several names gets ONE
+ * email listing them all (PLURAL below, same style; Edson's decision Sep 30).
  * Fired by the DEPLOYED button (show.py → notify.py → this file).
  *
  *   node send.cjs lint                 render en/br/pt, check the text still matches index.ts, refuse forbidden words
- *   node send.cjs test                 send en + pt + br to edsonpavoni@gmail.com ONLY (never the list)
+ *   node send.cjs test                 send en single, en multi, pt single, pt multi, br multi to edsonpavoni@gmail.com ONLY
  *   node send.cjs dry-run              read the real list, count, estimate time, send nothing
  *   node send.cjs arm [--from HH:MM] [--until HH:MM] [--date YYYY-MM-DD]
  *                                      checks + writes ARMED (default: today 14:30–23:59 local)
@@ -13,12 +15,14 @@
  *   node send.cjs status               ARMED? sent so far? done?
  *   node send.cjs send [--who X] [--press-ms EPOCH_MS]
  *                                      what the button runs. Real send ONLY if ARMED and inside the
- *                                      window; otherwise a dry-run. Once ever: a ledger of sent name
- *                                      ids (resumable) + a done marker + a run lock.
+ *                                      window; otherwise a dry-run. Once ever: a ledger of sent
+ *                                      addresses (resumable) + a done marker + a run lock.
  *
- * List: Firestore `names` (same source as the Sep 14 "Once again" send). One email per name doc,
- * template chosen exactly like sendConfirmationEmail: EMAIL_TEMPLATES[language] || en
- * (br → br, pt → pt, missing/other → en). From, subject, plain-text body: as the site.
+ * List: Firestore `names` (same source as the Sep 14 "Once again" send). Names are grouped by
+ * address after the exclusions; identical names on one address are listed once; names are listed
+ * in sign-up order (createdAt). Template per address like sendConfirmationEmail:
+ * EMAIL_TEMPLATES[language] || en (br → br, pt → pt, missing/other → en). Mixed-language address:
+ * the most common language saved on its names (missing counts as en); a tie → pt, then br, then en.
  * Excluded: status=deleted, addresses in the `unsubscribed` collection, addresses failing the
  * site's isValidEmail, and addresses Resend is known to reject (trailing dot, "..", example.com).
  * NOT done: no Firestore writes. Names stay "pending" (flipping them to "confirmed" would fire
@@ -39,7 +43,7 @@ const SIM = Number(process.env.LAUNCH_MAIL_SIM || 0);
 const STATE = path.join(HERE, SIM ? 'state-sim' : 'state');
 const LOGS = path.join(STATE, 'logs');
 const ARMED = SIM ? path.join(STATE, 'ARMED') : path.join(HERE, 'ARMED');
-const LEDGER = path.join(STATE, `sent-${EVENT}.txt`);          // one name doc id per line
+const LEDGER = path.join(STATE, `sent-${EVENT}-addresses.txt`); // one email address per line
 const FAILED = path.join(STATE, `failed-${EVENT}.txt`);
 const DONE = path.join(STATE, `${EVENT}.done.json`);
 const LOCK = path.join(STATE, `${EVENT}.lock`);
@@ -91,7 +95,7 @@ function apiKey() {
 const EMAIL_TEMPLATES = {
   en: {
     ascendedSubject: (name) => `${name} ascension to the orbital temple in space`,
-    ascendedBody: (name, date, time) => `today, ${date}, at ${time} the name ${name} ascend, and there it remains.`,
+    ascendedBody: (name, date, time) => `today, ${date}, at ${time} the name ${name} ascended, and there it remains.`,
   },
   br: {
     ascendedSubject: (name) => `${name} ascendeu ao templo orbital no espaço`,
@@ -100,6 +104,21 @@ const EMAIL_TEMPLATES = {
   pt: {
     ascendedSubject: (name) => `${name} ascendeu ao templo orbital no espaço`,
     ascendedBody: (name, date, time) => `hoje, ${date}, às ${time}, o nome ${name} ascendeu, e lá permanece.`,
+  },
+};
+// Several names on one address (NOT in index.ts; the site never sends this). Same voice as above.
+const PLURAL = {
+  en: {
+    subject: (n) => `${n} names ascended to the orbital temple in space`,
+    body: (names, date, time) => `today, ${date}, at ${time} these names ascended, and there they remain:\n\n${names.join('\n')}`,
+  },
+  br: {
+    subject: (n) => `${n} nomes ascenderam ao templo orbital no espaço`,
+    body: (names, date, time) => `hoje, ${date}, às ${time}, estes nomes ascenderam, e lá eles permanecem:\n\n${names.join('\n')}`,
+  },
+  pt: {
+    subject: (n) => `${n} nomes ascenderam ao templo orbital no espaço`,
+    body: (names, date, time) => `hoje, ${date}, às ${time}, estes nomes ascenderam, e lá permanecem:\n\n${names.join('\n')}`,
   },
 };
 const getEmailTemplate = (language) => EMAIL_TEMPLATES[language] || EMAIL_TEMPLATES.en;
@@ -118,16 +137,24 @@ function formatWhen(pressMs, language) {
 function unsubUrl(email, language) {   // the Sep "Once again" shape
   return `https://orbitaltemple.art/${language === 'br' || language === 'pt' ? 'pt' : 'en'}/unsubscribe?e=${Buffer.from(email).toString('base64')}`;
 }
+// rec = { email, language, names: [..] } (one recipient address; names already deduped, one line each)
 function message(rec, pressMs) {
-  const language = rec.language || 'en';
-  const t = getEmailTemplate(language);
+  const language = templateKey(rec.language || 'en');
   const { date, time } = formatWhen(pressMs, language);
-  const name = String(rec.name || '');
+  const names = rec.names.map((n) => String(n || '').replace(/\s+/g, ' ').trim());
+  let subject, text;
+  if (names.length === 1) {
+    const t = getEmailTemplate(language);
+    subject = t.ascendedSubject(names[0]); text = t.ascendedBody(names[0], date, time);
+  } else {
+    const t = PLURAL[language];
+    subject = t.subject(names.length); text = t.body(names, date, time);
+  }
   const m = {
     from: FROM,
     to: [rec.email.trim().toLowerCase()],
-    subject: t.ascendedSubject(name).replace(/\s+/g, ' ').trim(),   // a newline in a name would break the header
-    text: t.ascendedBody(name, date, time),
+    subject: subject.replace(/\s+/g, ' ').trim(),   // a newline in a name would break the header
+    text,
     tags: [{ name: 'campaign', value: EVENT }],
   };
   if (LIST_UNSUBSCRIBE_HEADER) m.headers = { 'List-Unsubscribe': `<${unsubUrl(m.to[0], language)}>` };
@@ -142,8 +169,10 @@ function lint() {
       const body = fn.toString().split('=> ')[1];
       if (src && !src.includes(body)) bad.push(`${lang}: template text no longer matches index.ts: ${body}`);
     }
-    const m = message({ name: 'X', email: 'x@y.org', language: lang }, Date.now());
-    for (const re of FORBIDDEN) for (const part of [m.subject, m.text]) if (re.test(part)) bad.push(`${lang}: forbidden ${re} in "${part}"`);
+    for (const names of [['X'], ['X', 'Y', 'Z']]) {
+      const m = message({ names, email: 'x@y.org', language: lang }, Date.now());
+      for (const re of FORBIDDEN) for (const part of [m.subject, m.text]) if (re.test(part)) bad.push(`${lang}: forbidden ${re} in "${part}"`);
+    }
   }
   return bad;
 }
@@ -165,7 +194,7 @@ async function fetchFirestore() {
   const snap = {
     fetched_at: new Date().toISOString(), fetch_ms: Date.now() - t0,
     unsubscribed: unsub.docs.map((d) => String(d.data().email || '').trim().toLowerCase()).filter(Boolean),
-    names: names.docs.map((d) => { const x = d.data(); return { id: d.id, name: x.name, email: x.email, language: x.language, status: x.status }; }),
+    names: names.docs.map((d) => { const x = d.data(); return { id: d.id, name: x.name, email: x.email, language: x.language, status: x.status, created: x.createdAt?.toMillis?.() ?? null }; }),
   };
   fs.writeFileSync(SNAPSHOT, JSON.stringify(snap));
   return snap;
@@ -174,7 +203,7 @@ async function loadList({ allowSnapshot }) {
   if (SIM) {
     const langs = [undefined, 'en', 'pt', 'br'];
     return { source: `SIMULATION (${SIM} fake names)`, fetch_ms: 0, unsubscribed: [],
-      names: Array.from({ length: SIM }, (_, i) => ({ id: `sim${String(i).padStart(6, '0')}`, name: `Sim Name ${i}`, email: `delivered+sim${i}@resend.dev`, language: langs[i % 4], status: 'pending' })) };
+      names: Array.from({ length: SIM }, (_, i) => ({ id: `sim${String(i).padStart(6, '0')}`, name: `Sim Name ${i}`, email: `delivered+sim${i % Math.max(1, SIM - 7)}@resend.dev`, language: langs[i % 4], status: 'pending', created: i })) };
   }
   try { const s = await fetchFirestore(); s.source = 'firestore (live)'; return s; }
   catch (e) {
@@ -188,23 +217,47 @@ async function loadList({ allowSnapshot }) {
 function readLedger() {
   return new Set(fs.existsSync(LEDGER) ? fs.readFileSync(LEDGER, 'utf-8').split('\n').map((s) => s.trim()).filter(Boolean) : []);
 }
+function pickLanguage(list) {   // most common saved language on the address's names (missing → en); tie → pt, br, en
+  const c = { pt: 0, br: 0, en: 0 };
+  for (const n of list) c[templateKey(n.language || 'en')]++;
+  return ['pt', 'br', 'en'].reduce((best, k) => (c[k] > c[best] ? k : best), 'pt');
+}
 function buildQueue(snap) {
   const unsub = new Set(snap.unsubscribed);
   const sent = readLedger();
-  const x = { deleted: 0, unsubscribed: 0, invalid_site_rule: 0, invalid_resend_would_reject: 0, already_sent: 0 };
+  const x = { deleted: 0, unsubscribed: 0, invalid_site_rule: 0, invalid_resend_would_reject: 0, already_sent_addresses: 0 };
   const invalid = new Set();
-  const queue = [];
+  const byAddr = new Map();
+  let namesIn = 0;
   for (const n of snap.names) {
     const e = String(n.email || '').trim().toLowerCase();
     if (n.status === 'deleted') { x.deleted++; continue; }
     if (!siteValid(e)) { x.invalid_site_rule++; invalid.add(e); continue; }
     if (unsub.has(e)) { x.unsubscribed++; continue; }
     if (!STRICT_RE.test(e) || BLOCKED_DOMAINS.test(e)) { x.invalid_resend_would_reject++; invalid.add(e); continue; }
-    if (sent.has(n.id)) { x.already_sent++; continue; }
-    queue.push({ ...n, email: e });
+    namesIn++;
+    if (!byAddr.has(e)) byAddr.set(e, []);
+    byAddr.get(e).push(n);
   }
-  queue.sort((a, b) => (a.id < b.id ? -1 : 1));   // deterministic chunks → stable idempotency keys on resume
-  return { queue, excluded: x, invalid: [...invalid] };
+  const queue = [];
+  let dupes = 0, mixed = 0, names = 0;
+  for (const [email, list] of byAddr) {
+    if (sent.has(email)) { x.already_sent_addresses++; continue; }
+    list.sort((a, b) => (a.created ?? Infinity) - (b.created ?? Infinity) || (a.id < b.id ? -1 : 1));   // sign-up order
+    const seen = new Set(), uniq = [];
+    for (const n of list) {
+      const nm = String(n.name || '').replace(/\s+/g, ' ').trim();
+      if (!nm) continue;
+      if (seen.has(nm)) { dupes++; continue; }
+      seen.add(nm); uniq.push(nm);
+    }
+    if (!uniq.length) continue;
+    if (new Set(list.map((n) => templateKey(n.language || 'en'))).size > 1) mixed++;
+    names += uniq.length;
+    queue.push({ email, language: pickLanguage(list), names: uniq });
+  }
+  queue.sort((a, b) => (a.email < b.email ? -1 : 1));   // deterministic chunks → stable idempotency keys on resume
+  return { queue, excluded: x, invalid: [...invalid], names_in: namesIn, names_listed: names, duplicate_names_dropped: dupes, mixed_language_addresses: mixed };
 }
 
 // ─── Resend ─────────────────────────────────────────────────────────────────
@@ -223,7 +276,7 @@ async function postBatch(key, emails, idem) {
   return { status: res.status, body, headers };
 }
 
-// Sends one chunk. Returns {sent:[ids], failed:[[id,email,msg]...]}. Throws Quota; network errors retry until NET_WINDOW.
+// Sends one chunk. Returns {sent:[addresses], failed:[[address,address,msg]...]}. Throws Quota; network errors retry until NET_WINDOW.
 async function sendChunk(key, chunk, pressMs, net) {
   let backoff = 2000;
   const payload = chunk.map((rec) => message(rec, pressMs));
@@ -242,7 +295,7 @@ async function sendChunk(key, chunk, pressMs, net) {
     const msg = (r.body && (r.body.message || r.body.error?.message)) || '';
     if (r.status === 200) {
       const errs = new Map((r.body.errors || []).map((x) => [x.index, x.message]));
-      return { sent: chunk.filter((_, i) => !errs.has(i)).map((c) => c.id), failed: [...errs].map(([i, m]) => [chunk[i].id, chunk[i].email, m]), headers: r.headers };
+      return { sent: chunk.filter((_, i) => !errs.has(i)).map((c) => c.email), failed: [...errs].map(([i, m]) => [chunk[i].email, chunk[i].names.length, m]), headers: r.headers };
     }
     if (r.status === 429 && /quota/i.test(`${name} ${msg}`)) throw new Quota(`${name}: ${msg}`);
     if (r.status === 429) { const wait = (Number(r.headers['retry-after']) || 1) * 1000; log(`rate limited; wait ${wait / 1000}s`); await sleep(wait); continue; }
@@ -314,17 +367,18 @@ function estimate(n, latencyS) {
 }
 function report(snap, q) {
   const by = { en: 0, br: 0, pt: 0 };
-  for (const r of q.queue) by[templateKey(r.language)]++;
-  const addrs = new Map();
-  for (const r of q.queue) addrs.set(r.email, (addrs.get(r.email) || 0) + 1);
-  const top = [...addrs.values()].sort((a, b) => b - a).slice(0, 5);
+  for (const r of q.queue) by[r.language]++;
+  const multi = q.queue.filter((r) => r.names.length > 1).length;
+  const top = q.queue.map((r) => r.names.length).sort((a, b) => b - a).slice(0, 5);
   const fast = estimate(q.queue.length, 1.0), slow = estimate(q.queue.length, 3.0);
   log(`list: ${snap.source} · ${snap.names.length} name docs · fetch ${snap.fetch_ms ?? '?'} ms`);
   log(`excluded: ${JSON.stringify(q.excluded)}`);
-  log(`to send: ${q.queue.length} emails (one per name) to ${addrs.size} addresses · templates en ${by.en} · br ${by.br} · pt ${by.pt} · most names on one address: ${top.join(', ')}`);
+  log(`to send: ${q.queue.length} emails = ${q.queue.length} addresses (ONE per address) · ${q.names_listed} names listed (${q.names_in} name docs; ${q.duplicate_names_dropped} identical names on the same address listed once)`);
+  log(`single-name emails ${q.queue.length - multi} · multi-name emails ${multi} · most names in one email: ${top.join(', ')} · mixed-language addresses ${q.mixed_language_addresses}`);
+  log(`templates: en ${by.en} · br ${by.br} · pt ${by.pt}`);
   log(`${fast.batches} batches of ≤${BATCH} · ${RATE} req/s, ${INFLIGHT} in flight · estimated ${fast.seconds}–${slow.seconds}s of sending (1–3 s per batch call) + list fetch`);
-  if (q.invalid.length) log(`invalid addresses skipped (${q.invalid.length}): ${q.invalid.join(' ')}`);
-  return { ...by, addresses: addrs.size, batches: fast.batches };
+  if (q.invalid.length) log(`invalid addresses skipped: ${q.invalid.length}`);
+  return { ...by, addresses: q.queue.length, names: q.names_listed, batches: fast.batches };
 }
 async function reportMail(key, subject, body) {
   try { await postBatch(key, [{ from: FROM, to: [REPORT_TO], subject, text: body }], `report/${crypto.randomUUID()}`); } catch { /* best effort */ }
@@ -335,9 +389,9 @@ async function main() {
   const mode = process.argv[2];
   const bad = lint();
   if (mode === 'lint') {
-    for (const language of ['en', 'br', 'pt']) {
-      const m = message({ name: TEST_NAME, email: TEST_TO, language }, Date.now());
-      console.log(`\n── ${language} ── Subject: ${m.subject}\n${m.text}`);
+    for (const language of ['en', 'br', 'pt']) for (const names of [[TEST_NAME], [TEST_NAME, 'Maria Aparecida da Silva', 'João Pavoni']]) {
+      const m = message({ names, email: TEST_TO, language }, Date.now());
+      console.log(`\n── ${language} ${names.length > 1 ? 'multi' : 'single'} ── Subject: ${m.subject}\n${m.text}`);
     }
     console.log(bad.length ? `\n✗ LINT:\n  ${bad.join('\n  ')}` : '\n✓ lint clean (matches index.ts; no UARX/OSSIE/in orbit/transmitting)');
     process.exit(bad.length ? 1 : 0);
@@ -353,8 +407,10 @@ async function main() {
     const key = apiKey();
     const pressMs = Number(arg('--press-ms', Date.now()));
     const t0 = Date.now();
-    const r = await postBatch(key, ['en', 'pt', 'br'].map((language) => message({ name: TEST_NAME, email: TEST_TO, language }, pressMs)), `test/${crypto.randomUUID()}`);
-    log(`TEST → ${TEST_TO} only (en, pt, br) · HTTP ${r.status} · ${Date.now() - t0} ms for one 3-email batch call`);
+    const MULTI = [TEST_NAME, 'Maria Aparecida da Silva', 'João Pavoni'];
+    const cases = [['en', [TEST_NAME]], ['en', MULTI], ['pt', [TEST_NAME]], ['pt', MULTI], ['br', MULTI]];
+    const r = await postBatch(key, cases.map(([language, names]) => message({ names, email: TEST_TO, language }, pressMs)), `test/${crypto.randomUUID()}`);
+    log(`TEST → ${TEST_TO} only (en single, en multi, pt single, pt multi, br multi) · HTTP ${r.status} · ${Date.now() - t0} ms for one ${cases.length}-email batch call`);
     log(`response: ${JSON.stringify(r.body)}`);
     log(`headers: ${JSON.stringify(r.headers)}`);
     process.exit(r.status === 200 && !(r.body.errors || []).length ? 0 : 1);
@@ -387,7 +443,7 @@ async function main() {
   if (mode === 'status') {
     const a = armState();
     log(`armed now: ${a.armed ? 'YES' : `no (${a.why})`}${a.a ? ` · ARMED file: ${JSON.stringify(a.a)}` : ''}`);
-    log(`ledger: ${readLedger().size} names sent · done: ${fs.existsSync(DONE) ? fs.readFileSync(DONE, 'utf-8') : 'no'} · lock: ${fs.existsSync(LOCK) ? fs.readFileSync(LOCK, 'utf-8') : 'none'}`);
+    log(`ledger: ${readLedger().size} addresses sent · done: ${fs.existsSync(DONE) ? fs.readFileSync(DONE, 'utf-8') : 'no'} · lock: ${fs.existsSync(LOCK) ? fs.readFileSync(LOCK, 'utf-8') : 'none'}`);
     process.exit(0);
   }
 
