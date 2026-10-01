@@ -122,13 +122,6 @@ ${L.paragraphs.map((p) => `  <p>${inline(p)}</p>`).join('\n\n')}
 ${L.thanks ? `  <p>${esc(L.thanks)}</p>\n` : ''}
   <p>${L.name ? `${esc(L.name)}<br>\n  ` : ''}${A(u.home, L.site)}</p>
 
-${lang === 'pt' ? '' : `  <p style="margin-top: 32px; padding-top: 16px; border-top: 1px solid #ddd;">
-    <strong>${esc(c.supportHeading)}:</strong> ${esc(c.supportText)} ${A(u.support, `orbitaltemple.art/${lang}/support`)}
-  </p>
-`}
-  <p${lang === 'pt' ? ' style="margin-top: 32px; padding-top: 16px; border-top: 1px solid #ddd;"' : ''}>
-    <strong>${esc(c.followHeading)}:</strong> ${A(u.instagram, 'instagram.com/edsonpavoni/')}
-  </p>
 </div>
 `;
 }
@@ -149,11 +142,6 @@ ${L.thanks}
 ${L.name}
 ${L.site}
 
-${lang === 'pt' ? '' : `-
-${c.supportHeading}: ${c.supportText} ${u.support}
-
-`}-
-${c.followHeading}: ${u.instagram}
 `).replace(/\n{3,}/g, '\n\n');
 }
 
@@ -220,16 +208,17 @@ const STRICT_RE = /^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)
 const BLOCKED_DOMAINS = /@(example\.(com|org|net)|test\.com)$/i;
 
 async function main() {
-  const [mode, arg] = process.argv.slice(2);
+  const [mode, arg, extra] = process.argv.slice(2);
   const key = (process.env.RESEND_API_KEY || '').trim();
   if (!key) { console.error('❌ RESEND_API_KEY not found in .env'); process.exit(1); }
 
   if (mode === 'test') {
     if (!arg || !arg.includes('@')) { console.error('Usage: npx tsx send-launch-date.ts test you@example.com'); process.exit(1); }
-    const r = await postBatch(key, [message(arg, 'en'), message(arg, 'pt')], `launch-date-test/${crypto.randomUUID()}`);
+    const only = (extra === 'en' || extra === 'pt') ? [extra as Lang] : (['en', 'pt'] as Lang[]);   // test <email> [en|pt]
+    const r = await postBatch(key, only.map((l) => message(arg, l)), `launch-date-test/${crypto.randomUUID()}`);
     const errs = r.body?.errors || [];
     console.log(r.status === 200 && !errs.length
-      ? `✅ EN + PT test sent to ${arg} in one batch call (ids ${r.body.data.map((d: any) => d.id).join(', ')})`
+      ? `✅ ${only.join(' + ').toUpperCase()} test sent to ${arg} in one batch call (ids ${r.body.data.map((d: any) => d.id).join(', ')})`
       : `❌ HTTP ${r.status}: ${JSON.stringify(r.body)}`);
     process.exit(r.status === 200 && !errs.length ? 0 : 1);
   }
