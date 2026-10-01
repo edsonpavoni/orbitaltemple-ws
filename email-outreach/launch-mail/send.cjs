@@ -126,8 +126,8 @@ const PLURAL = {
 };
 // Context at the bottom of every email (Edson, Oct 1 06:33: "something simple, that makes people remember what it is about").
 const FOOTER = {
-  en: `\n\n—\nOrbital Temple is an artwork by Brazilian artist Edson Pavoni: a small satellite that carries every name it is given, with no exception.\nIt left Earth today, aboard SpaceX's Transporter-18. In the coming weeks it is released into its own orbit, and the names circle the Earth for years, until it falls and burns as a shooting star.\n\norbitaltemple.art`,
-  pt: `\n\n—\nO Templo Orbital é uma obra do artista brasileiro Edson Pavoni: um pequeno satélite que leva todos os nomes que recebe, sem exceção.\nEle deixou a Terra hoje, a bordo da Transporter-18 da SpaceX. Nas próximas semanas, é solto em sua própria órbita, e os nomes dão voltas na Terra por anos, até que ele caia e queime como uma estrela cadente.\n\norbitaltemple.art`,
+  en: `\n\n—\n\nOrbital Temple.\nAn artwork by Edson Pavoni.\n\nA satellite. Five centimeters. Two hundred and fifty grams.\nIt carries every name it is given.\nNo exception.\n\nIt left Earth today.\nIt will circle the Earth for years.\nThen it will fall, and burn.\n\norbitaltemple.art`,
+  pt: `\n\n—\n\nTemplo Orbital.\nUma obra de Edson Pavoni.\n\nUm satélite. Cinco centímetros. Duzentos e cinquenta gramas.\nLeva todos os nomes que recebe.\nSem exceção.\n\nSaiu da Terra hoje.\nVai dar voltas na Terra por anos.\nDepois vai cair, e queimar.\n\norbitaltemple.art`,
 };
 FOOTER.br = FOOTER.pt;
 const getEmailTemplate = (language) => EMAIL_TEMPLATES[language] || EMAIL_TEMPLATES.en;
