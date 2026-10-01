@@ -57,19 +57,19 @@ const EMAIL_TEMPLATES: Record<string, EmailTemplate> = {
   en: {
     queuedSubject: (name) => `${name} is now queued for ascension`,
     queuedBody: (name) => `the name\n${name}\nis now queued\nfor ascension.\n\nwhen the\ntemple in space\naligns, with\nour antenna\non Earth\n\nwe will send\nthe name\nand you'll receive\na message.`,
-    ascendedSubject: (name) => `${name} ascended to heaven`,
+    ascendedSubject: (name) => `${name} ascended`,
     ascendedBody: (name, date, time) => `Today, ${date}, at ${time}\nthe name ${name} ascended to heaven and there it remains.`,
   },
   br: {
     queuedSubject: (name) => `${name} está agora na fila para ascensão`,
     queuedBody: (name) => `o nome\n${name}\nestá agora na fila\npara ascensão.\n\nquando o\ntemplo no espaço\nse alinhar com\nnossa antena\nna Terra\n\nenviaremos\no nome\ne você receberá\numa mensagem.`,
-    ascendedSubject: (name) => `${name} ascendeu ao céu`,
+    ascendedSubject: (name) => `${name} ascendeu`,
     ascendedBody: (name, date, time) => `Hoje, ${date}, às ${time}\no nome ${name} ascendeu ao céu e lá permanece.`,
   },
   pt: {
     queuedSubject: (name) => `${name} está agora na fila para ascensão`,
     queuedBody: (name) => `o nome\n${name}\nestá agora na fila\npara ascensão.\n\nquando o\ntemplo no espaço\nse alinhar com\na nossa antena\nna Terra\n\nenviaremos\no nome\ne receberá\numa mensagem.`,
-    ascendedSubject: (name) => `${name} ascendeu ao céu`,
+    ascendedSubject: (name) => `${name} ascendeu`,
     ascendedBody: (name, date, time) => `Hoje, ${date}, às ${time}\no nome ${name} ascendeu ao céu e lá permanece.`,
   },
 };

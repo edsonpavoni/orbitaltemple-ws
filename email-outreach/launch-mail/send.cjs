@@ -95,15 +95,15 @@ function apiKey() {
 // ─── Content: copied verbatim from functions/src/index.ts (lint checks it still matches) ──
 const EMAIL_TEMPLATES = {
   en: {
-    ascendedSubject: (name) => `${name} ascended to heaven`,
+    ascendedSubject: (name) => `${name} ascended`,
     ascendedBody: (name, date, time) => `Today, ${date}, at ${time}\nthe name ${name} ascended to heaven and there it remains.`,
   },
   br: {
-    ascendedSubject: (name) => `${name} ascendeu ao céu`,
+    ascendedSubject: (name) => `${name} ascendeu`,
     ascendedBody: (name, date, time) => `Hoje, ${date}, às ${time}\no nome ${name} ascendeu ao céu e lá permanece.`,
   },
   pt: {
-    ascendedSubject: (name) => `${name} ascendeu ao céu`,
+    ascendedSubject: (name) => `${name} ascendeu`,
     ascendedBody: (name, date, time) => `Hoje, ${date}, às ${time}\no nome ${name} ascendeu ao céu e lá permanece.`,
   },
 };
@@ -112,22 +112,22 @@ const EMAIL_TEMPLATES = {
 // in the plural.
 const PLURAL = {
   en: {
-    subject: (n) => `${n} names ascended to heaven`,
+    subject: (n) => `${n} names ascended`,
     body: (names, date, time) => `Today, ${date}, at ${time}\nthe names\n\n${names.join('\n')}\n\nascended to heaven and there they remain.`,
   },
   br: {
-    subject: (n) => `${n} nomes ascenderam ao céu`,
+    subject: (n) => `${n} nomes ascenderam`,
     body: (names, date, time) => `Hoje, ${date}, às ${time}\nos nomes\n\n${names.join('\n')}\n\nascenderam ao céu e lá permanecem.`,
   },
   pt: {
-    subject: (n) => `${n} nomes ascenderam ao céu`,
+    subject: (n) => `${n} nomes ascenderam`,
     body: (names, date, time) => `Hoje, ${date}, às ${time}\nos nomes\n\n${names.join('\n')}\n\nascenderam ao céu e lá permanecem.`,
   },
 };
 // Context at the bottom of every email (Edson, Oct 1 06:33: "something simple, that makes people remember what it is about").
 const FOOTER = {
-  en: `\n\n—\n\nOrbital Temple.\nAn artwork by Edson Pavoni.\n\nA satellite. Five centimeters. Two hundred and fifty grams.\nIt carries every name it is given.\nNo exception.\n\nIt left Earth today.\nIt will circle the Earth for years.\nThen it will fall, and burn.\n\norbitaltemple.art`,
-  pt: `\n\n—\n\nTemplo Orbital.\nUma obra de Edson Pavoni.\n\nUm satélite. Cinco centímetros. Duzentos e cinquenta gramas.\nLeva todos os nomes que recebe.\nSem exceção.\n\nSaiu da Terra hoje.\nVai dar voltas na Terra por anos.\nDepois vai cair, e queimar.\n\norbitaltemple.art`,
+  en: `\n\n-\nOrbital Temple.\nAn artwork by Edson Pavoni.\n\nIt left Earth and reached space today.\nIt will circle the Earth for years.\nThen it will fall, and burn.\n\norbitaltemple.art`,
+  pt: `\n\n-\nTemplo Orbital.\nUma obra de Edson Pavoni.\n\nSaiu da Terra e chegou ao espaço hoje.\nVai dar voltas na Terra por anos.\nDepois vai cair, e queimar.\n\norbitaltemple.art`,
 };
 FOOTER.br = FOOTER.pt;
 const getEmailTemplate = (language) => EMAIL_TEMPLATES[language] || EMAIL_TEMPLATES.en;
