@@ -38,37 +38,35 @@ type Lang = 'en' | 'pt';
 
 // ─── The letter (verbatim from the md; **bold**, *italic*) ──────────────────
 const LETTER: Record<Lang, { subject: string; preview: string; greeting: string; paragraphs: string[]; thanks: string; name: string; site: string }> = {
+  // Oct 1, 06:47 — Edson: sharp, like the ascended email. One line per breath.
   en: {
-    subject: 'Thursday, 2:18 PM: your name leaves Earth',
-    preview: "The Orbital Temple launches on SpaceX's Transporter-18. Watch it with us.",
-    greeting: 'Hello,',
+    subject: 'Your name leaves Earth today',
+    preview: 'Today, 2:18 PM New York time. SpaceX Transporter-18.',
+    greeting: '',
     paragraphs: [
-      'You sent a name to the Orbital Temple. On Thursday it leaves Earth.',
-      'SpaceX is targeting **Thursday, October 1, 2026 at 2:18 PM New York time** for the launch of Transporter-18, from Vandenberg, California. The Orbital Temple is on board, with more than 19,000 names, yours among them.',
-      'That is 11:18 AM in Los Angeles, 3:18 PM in São Paulo, 7:18 PM in London, 8:18 PM in Berlin, 11:48 PM in New Delhi, and 3:18 AM Friday in Tokyo.',
-      '**Watch it live:** SpaceX streams the launch at spacex.com/launches/transporter18. Everything is also on orbitaltemple.art/en/space-launch.',
-      'This is the second time. In January the first temple reached space on a rocket that failed. Eight months later a new one is built and ready. Space is hard and dates can move: SpaceX\'s backup day is Friday, October 2, at the same time. If it moves, we will tell you.',
-      '**You will hear from us on the day,** when the rocket releases its satellites and the temple is in space. Days to weeks after that, the temple is set free into its own orbit, and your name begins to circle the Earth.',
-      '**If you are in New York,** come watch it with us. *Birth of a Temple* is a free ritual at Dustin Yellin Studio, 153 Pioneer St, Red Hook, Brooklyn. Doors at 1 PM, the launch at 2:18. The celebration starts at 7:30 PM. RSVP: https://partiful.com/e/LHgmbQlh0hspkJwcaMuc',
+      'Today, October 1, 2026, at 2:18 PM New York time,\nthe name you sent leaves Earth.',
+      'SpaceX Transporter-18.\nVandenberg, California.\nLive: spacex.com/launches/transporter18',
+      'When it reaches space, later today,\nyou will receive one more message.\nIf the launch moves, we will tell you.',
+      'New York: watch it with us.\nDustin Yellin Studio, 153 Pioneer St, Red Hook.\nDoors at 1 PM. The celebration at 7:30 PM.\nRSVP: https://partiful.com/e/LHgmbQlh0hspkJwcaMuc',
+      '-\nOrbital Temple.\nAn artwork by Edson Pavoni.',
     ],
-    thanks: 'Thank you for sending a name. A temple is only a temple because people bring something to it.',
-    name: 'Edson Pavoni',
+    thanks: '',
+    name: '',
     site: 'orbitaltemple.art',
   },
   pt: {
-    subject: 'Quinta-feira, 15h18: o seu nome sai da Terra',
-    preview: 'O Templo Orbital sobe na Transporter-18 da SpaceX. Assista com a gente.',
-    greeting: 'Olá,',
+    subject: 'O seu nome sai da Terra hoje',
+    preview: 'Hoje, 15h18 (Brasília). SpaceX Transporter-18.',
+    greeting: '',
     paragraphs: [
-      'Você enviou um nome para o Templo Orbital. Na quinta-feira ele sai da Terra.',
-      'A SpaceX marcou para **quinta-feira, 1º de outubro de 2026, às 15h18 (horário de Brasília)** o lançamento da missão Transporter-18, da base de Vandenberg, na Califórnia. O Templo Orbital vai a bordo, com mais de 19 mil nomes, o seu entre eles.',
-      '**Assista ao vivo:** a SpaceX transmite o lançamento em spacex.com/launches/transporter18. Tudo também está em orbitaltemple.art/pt/space-launch.',
-      'É a segunda vez. Em janeiro, o primeiro templo chegou ao espaço num foguete que falhou. Oito meses depois, um novo está pronto. O espaço é difícil e as datas podem mudar: a data reserva da SpaceX é sexta-feira, 2 de outubro, no mesmo horário. Se mudar, a gente avisa.',
-      '**No dia, você vai receber uma mensagem nossa,** quando o foguete soltar os satélites e o templo estiver no espaço. De dias a semanas depois, o templo é solto em sua própria órbita, e o seu nome começa a dar voltas na Terra.',
-      '**Se você está em Nova York,** venha assistir com a gente. *Birth of a Temple* é um ritual gratuito no Dustin Yellin Studio, 153 Pioneer St, Red Hook, Brooklyn. Portas às 13h (NY), o lançamento às 14h18 (NY). A celebração começa às 19h30 (NY). RSVP: https://partiful.com/e/LHgmbQlh0hspkJwcaMuc',
+      'Hoje, 1º de outubro de 2026, às 15h18 (horário de Brasília),\no nome que você enviou sai da Terra.',
+      'SpaceX Transporter-18.\nVandenberg, Califórnia.\nAo vivo: spacex.com/launches/transporter18',
+      'Quando chegar ao espaço, mais tarde, hoje,\nvocê recebe mais uma mensagem.\nSe o lançamento mudar, a gente avisa.',
+      'Em Nova York: assista com a gente.\nDustin Yellin Studio, 153 Pioneer St, Red Hook.\nPortas às 13h. A celebração às 19h30 (horário de Nova York).\nRSVP: https://partiful.com/e/LHgmbQlh0hspkJwcaMuc',
+      '-\nTemplo Orbital.\nUma obra de Edson Pavoni.',
     ],
-    thanks: 'Obrigado por ter enviado um nome. Um templo só é templo porque as pessoas levam algo até ele.',
-    name: 'Edson Pavoni',
+    thanks: '',
+    name: '',
     site: 'orbitaltemple.art',
   },
 };
@@ -93,7 +91,8 @@ function inline(md: string) {   // escape, then **bold**, *italic*, links
   return esc(md)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(LINK_RE, (m) => A(href(m), m));
+    .replace(LINK_RE, (m) => A(href(m), m))
+    .replace(/\n/g, '<br>');
 }
 const plain = (md: string) => md.replace(/\*\*(.+?)\*\*/g, '$1').replace(/\*(.+?)\*/g, '$1');
 
@@ -115,14 +114,11 @@ function html(email: string, lang: Lang) {
     ${esc(c.header)} <a href="${u.unsubscribe}" style="color: #666;">${esc(c.unsubscribe)}</a>
   </p>
 
-  <p>${esc(L.greeting)}</p>
-
+${L.greeting ? `  <p>${esc(L.greeting)}</p>\n` : ''}
 ${L.paragraphs.map((p) => `  <p>${inline(p)}</p>`).join('\n\n')}
 
-  <p>${esc(L.thanks)}</p>
-
-  <p>${esc(L.name)}<br>
-  ${A(u.home, L.site)}</p>
+${L.thanks ? `  <p>${esc(L.thanks)}</p>\n` : ''}
+  <p>${L.name ? `${esc(L.name)}<br>\n  ` : ''}${A(u.home, L.site)}</p>
 
 ${lang === 'pt' ? '' : `  <p style="margin-top: 32px; padding-top: 16px; border-top: 1px solid #ddd;">
     <strong>${esc(c.supportHeading)}:</strong> ${esc(c.supportText)} ${A(u.support, `orbitaltemple.art/${lang}/support`)}
@@ -137,7 +133,7 @@ ${lang === 'pt' ? '' : `  <p style="margin-top: 32px; padding-top: 16px; border-
 
 function text(email: string, lang: Lang) {
   const L = LETTER[lang], c = CHROME[lang], u = urls(email, lang);
-  return `${c.header}
+  return (`${c.header}
 ${c.unsubscribe}: ${u.unsubscribe}
 
 ---
@@ -156,7 +152,7 @@ ${c.supportHeading}: ${c.supportText} ${u.support}
 
 `}-
 ${c.followHeading}: ${u.instagram}
-`;
+`).replace(/\n{3,}/g, '\n\n');
 }
 
 function message(to: string, lang: Lang, bcc = false) {
