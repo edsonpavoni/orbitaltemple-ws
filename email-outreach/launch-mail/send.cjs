@@ -55,6 +55,7 @@ const ENV_FILES = [path.join(HERE, '..', '.env'), path.join(HERE, '..', '..', 'f
 
 const FROM = 'Orbital Temple <noreply@orbitaltemple.art>';     // as sendConfirmationEmail
 const TEST_TO = 'edsonpavoni@gmail.com';
+const TEST_TOS = ['edsonpavoni@gmail.com', ...(process.env.TEST_TO_EXTRA ? [process.env.TEST_TO_EXTRA] : [])];   // test mode only (Edson, Oct 1)
 const TEST_NAME = 'Edson Pavoni';
 const REPORT_TO = SIM ? 'delivered@resend.dev' : 'edsonpavoni@gmail.com';
 const LIST_UNSUBSCRIBE_HEADER = true;   // invisible header pointing at the site's unsubscribe page (the body is exactly the site's)
@@ -94,44 +95,48 @@ function apiKey() {
 // ─── Content: copied verbatim from functions/src/index.ts (lint checks it still matches) ──
 const EMAIL_TEMPLATES = {
   en: {
-    ascendedSubject: (name) => `${name} ascension to the orbital temple in space`,
-    ascendedBody: (name, date, time) => `today, ${date}, at ${time} the name ${name} ascended, and there it remains.`,
+    ascendedSubject: (name) => `${name} ascended to heaven`,
+    ascendedBody: (name, date, time) => `Today, ${date}, at ${time}\nthe name ${name} ascended to heaven and there it remains.`,
   },
   br: {
-    ascendedSubject: (name) => `${name} ascendeu ao templo orbital no espaço`,
-    ascendedBody: (name, date, time) => `hoje, ${date}, às ${time}, o nome ${name} ascendeu, e lá ele permanece.`,
+    ascendedSubject: (name) => `${name} ascendeu ao céu`,
+    ascendedBody: (name, date, time) => `Hoje, ${date}, às ${time}\no nome ${name} ascendeu ao céu e lá permanece.`,
   },
   pt: {
-    ascendedSubject: (name) => `${name} ascendeu ao templo orbital no espaço`,
-    ascendedBody: (name, date, time) => `hoje, ${date}, às ${time}, o nome ${name} ascendeu, e lá permanece.`,
+    ascendedSubject: (name) => `${name} ascendeu ao céu`,
+    ascendedBody: (name, date, time) => `Hoje, ${date}, às ${time}\no nome ${name} ascendeu ao céu e lá permanece.`,
   },
 };
-// Several names on one address (NOT in index.ts; the site never sends this). Same voice as above.
+// Several names on one address. Edson's text (Oct 1, 06:27): the artwork's own sentence, from the 2022
+// statement ("Today, September 28, 2022, at 11:56pm / the name Kalpana Chawla ascended to heaven and there it remains."),
+// in the plural.
 const PLURAL = {
   en: {
-    subject: (n) => `${n} names ascended to the orbital temple in space`,
-    body: (names, date, time) => `today, ${date}, at ${time} these names ascended, and there they remain:\n\n${names.join('\n')}`,
+    subject: (n) => `${n} names ascended to heaven`,
+    body: (names, date, time) => `Today, ${date}, at ${time}\nthe names\n\n${names.join('\n')}\n\nascended to heaven and there they remain.`,
   },
   br: {
-    subject: (n) => `${n} nomes ascenderam ao templo orbital no espaço`,
-    body: (names, date, time) => `hoje, ${date}, às ${time}, estes nomes ascenderam, e lá eles permanecem:\n\n${names.join('\n')}`,
+    subject: (n) => `${n} nomes ascenderam ao céu`,
+    body: (names, date, time) => `Hoje, ${date}, às ${time}\nos nomes\n\n${names.join('\n')}\n\nascenderam ao céu e lá permanecem.`,
   },
   pt: {
-    subject: (n) => `${n} nomes ascenderam ao templo orbital no espaço`,
-    body: (names, date, time) => `hoje, ${date}, às ${time}, estes nomes ascenderam, e lá permanecem:\n\n${names.join('\n')}`,
+    subject: (n) => `${n} nomes ascenderam ao céu`,
+    body: (names, date, time) => `Hoje, ${date}, às ${time}\nos nomes\n\n${names.join('\n')}\n\nascenderam ao céu e lá permanecem.`,
   },
 };
 const getEmailTemplate = (language) => EMAIL_TEMPLATES[language] || EMAIL_TEMPLATES.en;
 const templateKey = (language) => (EMAIL_TEMPLATES[language] ? language : 'en');
 // Date/time exactly as sendConfirmationEmail formats confirmedAt, plus the time zone above.
 function formatWhen(pressMs, language) {
-  const localeMap = { en: 'en-US', br: 'pt-BR', pt: 'pt-PT' };
+  const localeMap = { en: 'en-US', br: 'pt-BR', pt: 'pt-BR' };
   const locale = localeMap[language] || 'en-US';
   const date = new Date(pressMs);
   const timeZone = TZ[templateKey(language)];
   return {
     date: date.toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric', timeZone }),
-    time: date.toLocaleTimeString(locale, { hour: 'numeric', minute: '2-digit', hour12: language !== 'br' && language !== 'pt', timeZone }),
+    time: (language === 'br' || language === 'pt')
+      ? date.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone }).replace(':', 'h')
+      : date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone }).replace(/\s?([AP])M/i, (m, a) => a.toLowerCase() + 'm'),
   };
 }
 function unsubUrl(email, language) {   // the Sep "Once again" shape
@@ -409,8 +414,8 @@ async function main() {
     const t0 = Date.now();
     const MULTI = [TEST_NAME, 'Maria Aparecida da Silva', 'João Pavoni'];
     const cases = [['en', [TEST_NAME]], ['en', MULTI], ['pt', [TEST_NAME]], ['pt', MULTI], ['br', MULTI]];
-    const r = await postBatch(key, cases.map(([language, names]) => message({ names, email: TEST_TO, language }, pressMs)), `test/${crypto.randomUUID()}`);
-    log(`TEST → ${TEST_TO} only (en single, en multi, pt single, pt multi, br multi) · HTTP ${r.status} · ${Date.now() - t0} ms for one ${cases.length}-email batch call`);
+    const r = await postBatch(key, TEST_TOS.flatMap((to) => cases.map(([language, names]) => message({ names, email: to, language }, pressMs))), `test/${crypto.randomUUID()}`);
+    log(`TEST → ${TEST_TOS.join(' + ')} only (en single, en multi, pt single, pt multi, br multi) · HTTP ${r.status} · ${Date.now() - t0} ms for one ${cases.length}-email batch call`);
     log(`response: ${JSON.stringify(r.body)}`);
     log(`headers: ${JSON.stringify(r.headers)}`);
     process.exit(r.status === 200 && !(r.body.errors || []).length ? 0 : 1);
