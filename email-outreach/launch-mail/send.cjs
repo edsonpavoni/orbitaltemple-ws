@@ -124,6 +124,12 @@ const PLURAL = {
     body: (names, date, time) => `Hoje, ${date}, às ${time}\nos nomes\n\n${names.join('\n')}\n\nascenderam ao céu e lá permanecem.`,
   },
 };
+// Context at the bottom of every email (Edson, Oct 1 06:33: "something simple, that makes people remember what it is about").
+const FOOTER = {
+  en: `\n\n—\nOrbital Temple is an artwork by Brazilian artist Edson Pavoni: a small satellite that carries every name it is given, with no exception.\nIt left Earth today, aboard SpaceX's Transporter-18. In the coming weeks it is released into its own orbit, and the names circle the Earth for years, until it falls and burns as a shooting star.\n\norbitaltemple.art`,
+  pt: `\n\n—\nO Templo Orbital é uma obra do artista brasileiro Edson Pavoni: um pequeno satélite que leva todos os nomes que recebe, sem exceção.\nEle deixou a Terra hoje, a bordo da Transporter-18 da SpaceX. Nas próximas semanas, é solto em sua própria órbita, e os nomes dão voltas na Terra por anos, até que ele caia e queime como uma estrela cadente.\n\norbitaltemple.art`,
+};
+FOOTER.br = FOOTER.pt;
 const getEmailTemplate = (language) => EMAIL_TEMPLATES[language] || EMAIL_TEMPLATES.en;
 const templateKey = (language) => (EMAIL_TEMPLATES[language] ? language : 'en');
 // Date/time exactly as sendConfirmationEmail formats confirmedAt, plus the time zone above.
@@ -155,6 +161,7 @@ function message(rec, pressMs) {
     const t = PLURAL[language];
     subject = t.subject(names.length); text = t.body(names, date, time);
   }
+  text += FOOTER[language] || FOOTER.en;
   const m = {
     from: FROM,
     to: [rec.email.trim().toLowerCase()],
