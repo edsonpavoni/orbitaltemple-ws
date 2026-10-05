@@ -7,9 +7,9 @@
   },
   "aboutProject": {
     "heading": "Sobre o projeto",
-    "paragraph1": "O Templo Orbital é uma obra de arte e um satélite que pretende ser um templo radicalmente inclusivo, construído onde não há muros. Criado pelo artista brasileiro Edson Pavoni, o mesmo por trás do Memorial dos Inumeráveis, que alcançou 1 em cada 6 brasileiros durante a pandemia de COVID-19, o projeto convida pessoas do mundo todo a enviar o nome de alguém que desejam homenagear. Esses nomes serão transmitidos para um satélite em órbita, criando um memorial coletivo.",
+    "paragraph1": "O Templo Orbital é uma obra de arte e um satélite que pretende ser um templo radicalmente inclusivo, construído onde não há muros. Criado pelo artista brasileiro Edson Pavoni, o mesmo por trás do Memorial dos Inumeráveis, que alcançou 1 em cada 6 brasileiros durante a pandemia de COVID-19, o projeto convida pessoas do mundo todo a enviar o nome de alguém que desejam homenagear. Esses nomes são transmitidos para um satélite em órbita, criando um memorial coletivo.",
     "paragraph2": "Por meio de um site disponível em 136 idiomas, os participantes se envolvem em um novo tipo de ritual. O Templo Orbital explora temas como inclusão, memória e nossa humanidade compartilhada, questionando por que nenhum templo físico na Terra pode realmente acolher a todos e propondo o espaço como o único lugar onde a inclusão radical pode existir.",
-    "paragraph3": "Em 12 de janeiro de 2026, o primeiro satélite do Templo Orbital estava a bordo do foguete PSLV-C62 da ISRO. O foguete alcançou o espaço, mas falhou em seu estágio final, e o satélite queimou na reentrada. Um segundo satélite está autorizado a voar na missão Transporter-18 da SpaceX, prevista para quinta-feira, 1º de outubro de 2026."
+    "paragraph3": "Em 12 de janeiro de 2026, o primeiro satélite do Templo Orbital estava a bordo do foguete PSLV-C62 da ISRO. O foguete alcançou o espaço, mas falhou em seu estágio final, e o satélite queimou na reentrada. Na quinta-feira, 1º de outubro de 2026, um segundo satélite foi lançado na missão Transporter-18 da SpaceX e alcançou a órbita, onde está hoje."
   },
   "aboutArtist": {
     "heading": "Sobre o artista",
@@ -23,9 +23,9 @@
     "artist": "<strong>Artista:</strong> Edson Pavoni (Brasil)",
     "projectType": "<strong>Tipo de projeto:</strong> Obra de arte via satélite, específica para o local no espaço, ritual baseado na web",
     "launchDate": "<strong>Primeiro lançamento:</strong> 12 de janeiro de 2026 — PSLV-C62 alcançou o espaço, mas falhou em implantar os satélites. O Templo Orbital queimou na reentrada.",
-    "nextLaunch": "<strong>Próximo lançamento:</strong> SpaceX Transporter-18, da base de Vandenberg, na Califórnia, previsto para quinta-feira, 1º de outubro de 2026, às 15h18 (horário de Brasília).",
+    "nextLaunch": "<strong>Lançamento:</strong> SpaceX Transporter-18, da base de Vandenberg, na Califórnia, na quinta-feira, 1º de outubro de 2026, às 15h18 (horário de Brasília). O satélite alcançou a órbita.",
     "satellite": "<strong>Satélite:</strong> 1P PocketQube, cubo de 5 cm, 250 g",
-    "orbit": "<strong>Órbita alvo:</strong> cerca de 500 a 560 km, heliossíncrona",
+    "orbit": "<strong>Órbita:</strong> cerca de 500 a 560 km, heliossíncrona",
     "participation": "<strong>Participação:</strong> Gratuita e aberta a todos, globalmente.",
     "namesSent": {
       "heading": "<strong>Nomes na fila para ascensão:</strong>",
@@ -98,7 +98,7 @@
       "classification": "Classificação: 1P PocketQube",
       "weight": "Peso: 250 g",
       "materials": "Materiais: Alumínio, ouro, fibra de vidro, componentes eletrônicos",
-      "orbit": "Órbita alvo: heliossíncrona, cerca de 500 a 560 km; inclinação cerca de 97,5°"
+      "orbit": "Órbita: heliossíncrona, cerca de 500 a 560 km; inclinação cerca de 97,5°"
     },
     "antenna": {
       "heading": "Antena/Escultura",
@@ -109,7 +109,7 @@
     "radio": {
       "heading": "Especificações do rádio",
       "downlink": "Uplink: 401,5 MHz · Downlink: 468,5 MHz",
-      "status": "Status: autorizado para a Transporter-18, 1º de outubro de 2026"
+      "status": "Status: em órbita desde o lançamento na Transporter-18, 1º de outubro de 2026"
     }
   },
   "additionalResources": {

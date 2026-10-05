@@ -3,15 +3,15 @@
   "heading": "Space Launch",
   "launch": {
     "date": "Thursday, October 1, 2026 · 2:18 PM New York time",
-    "paragraph1": "The Orbital Temple launches on SpaceX's Transporter-18 mission from Vandenberg, California, on <strong>Thursday, October 1, 2026 at 2:18 PM New York time (18:18 UTC)</strong>. The backup day is Friday, October 2.",
-    "paragraph2": "It carries more than 19,000 names. Days to weeks after launch, the temple is released into its own orbit, and from there the names begin to circle the Earth.",
-    "watch": "Watch the launch live on <a href=\"https://www.spacex.com/launches/transporter18\" target=\"_blank\" rel=\"noopener noreferrer\">SpaceX's webcast</a>."
+    "paragraph1": "The Orbital Temple launched on SpaceX's Transporter-18 mission from Vandenberg, California, on <strong>Thursday, October 1, 2026 at 2:18 PM New York time (18:18 UTC)</strong>.",
+    "paragraph2": "It carries more than 19,000 names. Once in space, the temple was released into its own orbit, and from there the names circle the Earth.",
+    "watch": "Watch the launch on <a href=\"https://www.spacex.com/launches/transporter18\" target=\"_blank\" rel=\"noopener noreferrer\">SpaceX's webcast</a>."
   },
   "firstAttempt": {
     "heading": "This is the second time",
     "paragraph1": "On January 12, 2026, the first Orbital Temple was aboard ISRO's PSLV-C62 rocket. The rocket lifted off and reached space, but failed in its final stage. The Orbital Temple was in space for only 10 minutes before the rocket lost control and burned up in the atmosphere.",
     "partnership": "That first launch was a partnership between NewSpace India Limited (NSIL), a Government of India Company under the Department of Space, Antrix Corporation, and the artist, a milestone for art in space exploration that brought India's space program together with an artistic vision of radical inclusivity.",
-    "paragraph2": "Temples take time to build. Some took centuries. The Orbital Temple carries the names of those who believed in it, and that commitment remains. We are trying again."
+    "paragraph2": "Temples take time to build. Some took centuries. The Orbital Temple carries the names of those who believed in it, and that commitment remained. We tried again, and on October 1, 2026, the temple reached orbit."
   },
   "imageAlts": {
     "india": "ISRO Space Center, India",

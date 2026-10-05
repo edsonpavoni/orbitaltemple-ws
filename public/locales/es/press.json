@@ -7,9 +7,9 @@
   },
   "aboutProject": {
     "heading": "Acerca del proyecto",
-    "paragraph1": "El Templo Orbital es una obra de arte y un satélite que aspira a ser un templo radicalmente inclusivo, construido donde ningún muro puede llegar. Creado por el artista brasileño Edson Pavoni, autor del Memorial Inumeráveis, que llegó a uno de cada seis brasileños durante la pandemia de COVID, el proyecto invita a personas de todo el mundo a enviar el nombre de alguien a quien deseen recordar. Estos nombres serán transmitidos a un satélite en órbita, creando un memorial colectivo.",
+    "paragraph1": "El Templo Orbital es una obra de arte y un satélite que aspira a ser un templo radicalmente inclusivo, construido donde ningún muro puede llegar. Creado por el artista brasileño Edson Pavoni, autor del Memorial Inumeráveis, que llegó a uno de cada seis brasileños durante la pandemia de COVID, el proyecto invita a personas de todo el mundo a enviar el nombre de alguien a quien deseen recordar. Estos nombres se transmiten a un satélite en órbita, creando un memorial colectivo.",
     "paragraph2": "A través de una página web disponible en 136 idiomas, los participantes se involucran en un nuevo tipo de ritual. El Templo Orbital explora temas de inclusión, memoria y nuestra humanidad compartida, cuestionando por qué ningún templo físico en la Tierra puede acoger verdaderamente a todos y proponiendo el espacio como el único lugar donde podría existir una inclusión radical.",
-    "paragraph3": "El 12 de enero de 2026, el primer satélite del Templo Orbital estaba a bordo del cohete PSLV-C62 de ISRO. El cohete llegó al espacio, pero falló en su etapa final, y el satélite se desintegró al reingresar en la atmósfera. Un segundo satélite tiene autorización para volar en la misión Transporter-18 de SpaceX, programada para el jueves 1 de octubre de 2026."
+    "paragraph3": "El 12 de enero de 2026, el primer satélite del Templo Orbital estaba a bordo del cohete PSLV-C62 de ISRO. El cohete llegó al espacio, pero falló en su etapa final, y el satélite se desintegró al reingresar en la atmósfera. El jueves 1 de octubre de 2026, un segundo satélite despegó en la misión Transporter-18 de SpaceX y alcanzó la órbita, donde está hoy."
   },
   "aboutArtist": {
     "heading": "Acerca del artista",
@@ -23,9 +23,9 @@
     "artist": "<strong>Artista:</strong> Edson Pavoni (Brasil)",
     "projectType": "<strong>Tipo de proyecto:</strong> Obra de arte satelital, site-specific en el espacio, ritual en la web",
     "launchDate": "<strong>Primer lanzamiento:</strong> 12 de enero de 2026. El PSLV-C62 llegó al espacio, pero no logró desplegar los satélites. El Templo Orbital se desintegró al reingresar en la atmósfera.",
-    "nextLaunch": "<strong>Próximo lanzamiento:</strong> Transporter-18 de SpaceX, desde Vandenberg, California, programado para el jueves 1 de octubre de 2026, a las 2:18 p. m. (hora de Nueva York; 18:18 UTC).",
+    "nextLaunch": "<strong>Lanzamiento:</strong> Transporter-18 de SpaceX, desde Vandenberg, California, el jueves 1 de octubre de 2026, a las 2:18 p. m. (hora de Nueva York; 18:18 UTC). El satélite alcanzó la órbita.",
     "satellite": "<strong>Satélite:</strong> 1P PocketQube, cubo de 5 cm, 250 g",
-    "orbit": "<strong>Órbita objetivo:</strong> entre 500 y 560 km aproximadamente, heliosíncrona",
+    "orbit": "<strong>Órbita:</strong> entre 500 y 560 km aproximadamente, heliosíncrona",
     "participation": "<strong>Participación:</strong> Gratuita, abierta a todas las personas del mundo",
     "namesSent": {
       "heading": "<strong>Nombres en cola para ascensión:</strong>",

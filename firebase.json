@@ -50,6 +50,16 @@
         "source": "/countdown-test{,/**}",
         "destination": "/countdown",
         "type": 302
+      },
+      {
+        "regex": "^/([^/]+)/(countdown|scope|notify-me)/?$",
+        "destination": "/:1/",
+        "type": 302
+      },
+      {
+        "regex": "^/(countdown|scope|notify-me)/?$",
+        "destination": "/",
+        "type": 302
       }
     ],
     "rewrites": [

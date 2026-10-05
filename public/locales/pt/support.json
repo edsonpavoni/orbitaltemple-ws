@@ -1,11 +1,11 @@
 {
   "title": "Apoie o Templo Orbital - Junte-se à Missão",
   "heading": "Apoie o Templo Orbital",
-  "vision": "<strong>O Templo Orbital</strong> será lançado na missão <strong>Transporter-18 da SpaceX</strong>, da base de Vandenberg, na Califórnia, prevista para <strong>quinta-feira, 1º de outubro de 2026</strong>. Um satélite de arte participativa do Sul Global, ele é um monumento à inclusão radical, uma plataforma para a educação e um catalisador para a conversa global sobre o futuro do sagrado na era da tecnologia, da IA e da exploração espacial.",
+  "vision": "<strong>O Templo Orbital</strong> foi lançado na missão <strong>Transporter-18 da SpaceX</strong>, da base de Vandenberg, na Califórnia, na <strong>quinta-feira, 1º de outubro de 2026</strong>, e está em órbita. Um satélite de arte participativa do Sul Global, ele é um monumento à inclusão radical, uma plataforma para a educação e um catalisador para a conversa global sobre o futuro do sagrado na era da tecnologia, da IA e da exploração espacial.",
   "videoCaption": "Vídeo de introdução ao Templo Orbital, 1 min.",
   "accomplished": {
     "heading": "O que conquistamos",
-    "content": "Após cinco anos de pesquisa e desenvolvimento, e um primeiro lançamento em janeiro de 2026 que terminou com a falha do foguete, a missão está pronta de novo. Concluímos <strong>o desenvolvimento de hardware e software</strong> para o satélite, passamos nos <strong>testes oficiais de vibração</strong> exigidos para a certificação de voo e concluímos, a documentação exigida pela SpaceX e pela NASA. O satélite está construído. A tecnologia funciona. Estamos autorizados a voar na Transporter-18."
+    "content": "Após cinco anos de pesquisa e desenvolvimento, e um primeiro lançamento em janeiro de 2026 que terminou com a falha do foguete, a missão voou de novo. Concluímos <strong>o desenvolvimento de hardware e software</strong> para o satélite, passamos nos <strong>testes oficiais de vibração</strong> exigidos para a certificação de voo e concluímos a documentação exigida pela SpaceX e pela NASA. Em <strong>1º de outubro de 2026</strong>, o Templo Orbital foi lançado na Transporter-18 e alcançou a órbita."
   },
   "funding": {
     "heading": "Progresso no financiamento",
@@ -70,13 +70,13 @@
     "intro": "Sua contribuição financia diretamente aspectos específicos da missão. Escolha o que mais lhe interessa ou combine várias opções para gerar um impacto maior.",
     "launch": {
       "title": "Financie o lançamento espacial",
-      "description": "O custo do lançamento a bordo da missão <strong>Transporter-18 da SpaceX</strong>, prevista para <strong>quinta-feira, 1º de outubro de 2026</strong>. Isso enviará o Templo Orbital para a órbita, onde permanecerá de quatro a dez anos como um satélite de arte participativa e um templo no céu, acessível a qualquer pessoa no mundo.",
+      "description": "O custo do lançamento a bordo da missão <strong>Transporter-18 da SpaceX</strong>, na <strong>quinta-feira, 1º de outubro de 2026</strong>. Isso levou o Templo Orbital à órbita, onde permanecerá de quatro a dez anos como um satélite de arte participativa e um templo no céu, acessível a qualquer pessoa no mundo.",
       "benefits": "Você receberá: o título de \"Patrocinador do Lançamento\" · Destaque em todos os comunicados de imprensa · Acesso VIP aos eventos de lançamento · Participação em videoconferências trimestrais com Edson e a equipe da missão · Certificado com dados orbitais do satélite · Recibo dedutível de impostos",
       "button": "Faça uma doação dedutível de impostos"
     },
     "travel": {
       "title": "Financie a documentação do lançamento",
-      "description": "Custos de produção para o artista Edson Pavoni e sua equipe principal documentarem o lançamento em <strong>1º de outubro de 2026</strong> e o primeiro contato com o satélite. Isso é essencial para a filmagem do documentário, a cobertura da mídia e a representação do Sul Global neste momento histórico.",
+      "description": "Custos de produção para o artista Edson Pavoni e sua equipe principal documentarem o lançamento em <strong>1º de outubro de 2026</strong> e os anos do templo em órbita. Isso é essencial para a filmagem do documentário, a cobertura da mídia e a representação do Sul Global neste momento histórico.",
       "benefits": "Você receberá: Agradecimento pessoal do artista · Acesso ao documentário de bastidores · Seu nome nos créditos do documentário · Recibo dedutível de impostos",
       "button": "Faça uma doação dedutível de impostos"
     },
@@ -108,7 +108,7 @@
       "title": "Torne-se o único colecionador de arte do Templo Orbital",
       "imageAlt": "Instalação do Templo Orbital na Bienal do Mercosul",
       "imageCaption": "Orbital Temple at the 13th Mercosul Biennial, Porto Alegre. Foto de Clara Marques.",
-      "paragraph1": "Três satélites idênticos foram construídos para esta missão. <strong>Um</strong> será lançado ao espaço na Transporter-18 da SpaceX, em 1º de outubro de 2026. <strong>Outro</strong> viajará para exposições em museus ao redor do mundo. <strong>O terceiro</strong> está reservado para um colecionador generoso que deseja financiar esta visão e possuir uma peça da história da arte espacial.",
+      "paragraph1": "Três satélites idênticos foram construídos para esta missão. <strong>Um</strong> foi lançado ao espaço na Transporter-18 da SpaceX, em 1º de outubro de 2026. <strong>Outro</strong> viajará para exposições em museus ao redor do mundo. <strong>O terceiro</strong> está reservado para um colecionador generoso que deseja financiar esta visão e possuir uma peça da história da arte espacial.",
       "paragraph2": "Esta não é uma réplica; é um dos três satélites originais. Uma <strong>espaçonave totalmente funcional</strong> que também é uma <strong>escultura</strong> . O satélite mede <strong>5 cm³</strong> e pesa <strong>245 g</strong> , com uma cúpula feita de <strong>ouro</strong> .",
       "paragraph3": "Esta é uma <strong>obra de arte única (1/1)</strong> .",
       "paragraph4": "Como colecionador, você receberá a mesma instalação criada para a <strong>13ª Bienal do Mercosul</strong> , uma exposição museológica completa que apresenta o satélite como arte e tecnologia. Esta instalação já foi exibida em importantes espaços internacionais e representa o mais alto padrão de apresentação de arte espacial.",
@@ -139,7 +139,7 @@
   },
   "join": {
     "heading": "Junte-se a nós",
-    "content": "O satélite está construído. A tecnologia está pronta. Ele está autorizado a voar na <strong>Transporter-18 da SpaceX</strong>, prevista para <strong>quinta-feira, 1º de outubro de 2026</strong>. Este é o momento de se juntar a uma missão que reinventa o que a arte pode fazer, aonde ela pode chegar e a quem ela pode servir.",
+    "content": "O satélite está em órbita. Ele foi lançado na <strong>Transporter-18 da SpaceX</strong>, na <strong>quinta-feira, 1º de outubro de 2026</strong>. Este é o momento de se juntar a uma missão que reinventa o que a arte pode fazer, aonde ela pode chegar e a quem ela pode servir.",
     "fundSpecific": {
       "heading": "Financie um componente específico ou torne-se um sócio fundador.",
       "description": "Escolha uma das oportunidades de financiamento acima ou discuta um patrocínio personalizado que esteja alinhado com a sua visão.",

@@ -2,8 +2,8 @@
   "title": "Como funciona - Templo Orbital",
   "heading": "Como funciona",
   "intro": "O projeto do Templo Orbital consiste em três elementos interligados que trabalham em conjunto para enviar nomes ao templo no espaço.",
-  "paragraph1": "Após o lançamento, o satélite orbitará a Terra a uma altitude de cerca de 500 a 560 km, levando na memória os mais de 19.000 nomes já enviados. Estações terrestres então se comunicarão com o satélite durante suas passagens, transmitindo os novos nomes que as pessoas enviarem pelo site.",
-  "paragraph2": "Os mais de 19.000 nomes enviados até agora já estão na memória do satélite, e todas as pessoas que enviaram um nome receberão uma confirmação quando ele estiver em órbita. Novos nomes entram em uma fila e são transmitidos pela nossa estação terrestre durante as passagens do satélite. Você receberá um e-mail de confirmação quando o seu for carregado no Templo Orbital.",
-  "paragraph3": "Em 12 de janeiro de 2026, o primeiro satélite voou a bordo do PSLV-C62 da ISRO. O foguete alcançou o espaço, mas falhou em liberar sua carga útil. Um segundo satélite está autorizado a voar na missão Transporter-18 da SpaceX, prevista para quinta-feira, 1º de outubro de 2026.",
+  "paragraph1": "O satélite orbita a Terra a uma altitude de cerca de 500 a 560 km, levando na memória os mais de 19.000 nomes enviados antes do lançamento. Estações terrestres se comunicam com ele durante suas passagens, transmitindo os novos nomes que as pessoas enviam pelo site.",
+  "paragraph2": "Os mais de 19.000 nomes enviados antes do lançamento estão na memória do satélite, e todas as pessoas que enviaram um nome receberam uma mensagem quando ele ascendeu. Novos nomes entram em uma fila e são transmitidos pela nossa estação terrestre durante as passagens do satélite. Você receberá um e-mail de confirmação quando o seu for carregado no Templo Orbital.",
+  "paragraph3": "Em 12 de janeiro de 2026, o primeiro satélite voou a bordo do PSLV-C62 da ISRO. O foguete alcançou o espaço, mas falhou em liberar sua carga útil. Na quinta-feira, 1º de outubro de 2026, um segundo satélite foi lançado na missão Transporter-18 da SpaceX e alcançou a órbita.",
   "imageAlt": "Diagrama do Sistema de Templos Orbitais"
 }
