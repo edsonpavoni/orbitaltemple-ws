@@ -6,7 +6,6 @@ import HomeHero from "../../components/HomeHero";
 import HomeCTA from "../../components/HomeCTA";
 import ManifestoContent from "../../components/ManifestoContent";
 import FooterCredits from "../../components/FooterCredits";
-import CountdownPill from "../../components/CountdownPill";
 import "../../styles/ritual-button.css";
 import { LANGUAGE_CODES, isValidLanguage } from "../../lib/i18n-config";
 
@@ -61,11 +60,6 @@ if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
         <source src="/videos/desk_h264.webm" type="video/webm" />
         <source src="/videos/desk_h264.mp4" type="video/mp4" />
       </video>
-    </div>
-
-    <!-- Launch pill at top: Oct 1, Transporter-18 -->
-    <div style="position: relative; z-index: 1; text-align: center;">
-      <CountdownPill client:only="react" />
     </div>
 
     <!-- Spacer for vertical centering -->
