@@ -4,13 +4,14 @@
     "description": "Templo Orbital é um satélite com uma missão artística: um memorial no espaço aberto a todo ser senciente que vive ou viveu na Terra."
   },
   "nav": {
+    "home": "início",
     "theArtwork": "a obra de arte",
     "sendAName": "enviar um nome",
     "updates": "atualizações",
     "fromTheArtist": "do artista",
     "yetAnotherTemple": "mais um templo?",
     "howItWorks": "como funciona",
-    "spaceLaunch": "lançamento espacial e riscos",
+    "spaceLaunch": "lançamento espacial",
     "briefHistory": "breve história da arte no espaço",
     "education": "educação e código aberto",
     "sustainability": "sustentabilidade e detritos espaciais",

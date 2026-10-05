@@ -19,8 +19,12 @@ export default function UpdatesContent() {
     { code: 'zh', label: '中文' },
   ];
 
-  const onceAgainParagraphs = t('updates.once-again.content.paragraphs', { returnObjects: true });
-  const paragraphs: string[] = Array.isArray(onceAgainParagraphs) ? (onceAgainParagraphs as string[]) : [];
+  const paragraphsOf = (key: string): string[] => {
+    const value = t(`updates.${key}.content.paragraphs`, { returnObjects: true });
+    return Array.isArray(value) ? (value as string[]) : [];
+  };
+  const paragraphs = paragraphsOf('ascended');
+  const onceAgainParagraphs = paragraphsOf('once-again');
 
   // A "\n" inside a paragraph is a line break the author chose.
   const withBreaks = (text: string) =>
@@ -45,7 +49,7 @@ export default function UpdatesContent() {
         {t('heading')}
       </h1>
 
-      {/* Once Again Update (latest) */}
+      {/* Ascended Update (latest) */}
       <article className="update-article" style={{ marginTop: '3rem' }}>
         {/* Language Switcher */}
         <p className="body-text" style={{ marginBottom: '2rem', opacity: 0.7 }}>
@@ -69,7 +73,35 @@ export default function UpdatesContent() {
 
         <div style={{ marginBottom: '2rem' }}>
           <p className="body-text" style={headerLabelStyle}>
-            {t('latestUpdate')} — {t('updates.once-again.date')}
+            {t('latestUpdate')} — {t('updates.ascended.date')}
+          </p>
+          <h2 className="section-heading" style={{ marginTop: 0 }}>
+            {t('updates.ascended.title')}
+          </h2>
+        </div>
+
+        <div className="update-content">
+          <p className="body-text">{t('updates.ascended.content.greeting')}</p>
+
+          {paragraphs.map((text, i) => (
+            <p className="body-text" key={i}>{withBreaks(text)}</p>
+          ))}
+
+          <p className="body-text">
+            {t('updates.ascended.content.signature')}<br />
+            {t('updates.ascended.content.name')}
+          </p>
+        </div>
+      </article>
+
+      {/* Once Again Update (previous) */}
+      <article
+        className="update-article"
+        style={{ marginTop: '4rem', paddingTop: '3rem', borderTop: '1px solid rgba(255,255,255,0.1)' }}
+      >
+        <div style={{ marginBottom: '2rem' }}>
+          <p className="body-text" style={headerLabelStyle}>
+            {t('previousUpdate')} — {t('updates.once-again.date')}
           </p>
           <h2 className="section-heading" style={{ marginTop: 0 }}>
             {t('updates.once-again.title')}
@@ -79,7 +111,7 @@ export default function UpdatesContent() {
         <div className="update-content">
           <p className="body-text">{t('updates.once-again.content.greeting')}</p>
 
-          {paragraphs.map((text, i) => (
+          {onceAgainParagraphs.map((text, i) => (
             <p className="body-text" key={i}>{withBreaks(text)}</p>
           ))}
 

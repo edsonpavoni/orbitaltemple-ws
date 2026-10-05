@@ -5,6 +5,23 @@
   "latestUpdate": "Latest Update",
   "previousUpdate": "Previous Update",
   "updates": {
+    "ascended": {
+      "date": "October 4, 2026",
+      "title": "Ascended",
+      "content": {
+        "greeting": "Hello from the artist,",
+        "paragraphs": [
+          "On Thursday, October 1, 2026, at 2:18 PM New York time, the Orbital Temple launched on SpaceX's Transporter-18 from Vandenberg, California.",
+          "The launch was a success. The temple is in orbit.",
+          "Inside it are more than 19,000 names, sent from every corner of the world. That afternoon, each of them ascended, and everyone who sent one received a message saying so.",
+          "In New York, we gathered for a ritual and an exhibition of the twelve Orbital Witnesses.",
+          "In January I wrote to you about fire and ashes. In September, about starting again. Today I can tell you: the temple is in the sky.",
+          "Thank you for believing in it."
+        ],
+        "signature": "With love,",
+        "name": "Edson Pavoni"
+      }
+    },
     "once-again": {
       "date": "September 14, 2026",
       "title": "Once Again",

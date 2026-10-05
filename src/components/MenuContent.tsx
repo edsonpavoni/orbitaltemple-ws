@@ -43,6 +43,13 @@ export default function MenuContent() {
     <nav aria-labelledby="menu-title" className="menu-drawer-content">
       <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', marginBottom: '2rem' }}>
         <h2 id="menu-title" style={{ fontSize: 'var(--text-display-md)', lineHeight: 'var(--text-display-md-lh)', fontWeight: 700, margin: 0 }}>
+          <a href={localePath('/')} style={linkStyle} onClick={handleLinkClick}
+             onMouseOver={(e) => e.currentTarget.style.color = 'var(--color-ot-gold300)'}
+             onMouseOut={(e) => e.currentTarget.style.color = 'var(--color-ot-gold600)'}>
+            {t('nav.home')}
+          </a>
+        </h2>
+        <h2 style={{ fontSize: 'var(--text-display-md)', lineHeight: 'var(--text-display-md-lh)', fontWeight: 700, margin: 0 }}>
           <a href={localePath('/artwork')} style={linkStyle} onClick={handleLinkClick}
              onMouseOver={(e) => e.currentTarget.style.color = 'var(--color-ot-gold300)'}
              onMouseOut={(e) => e.currentTarget.style.color = 'var(--color-ot-gold600)'}>

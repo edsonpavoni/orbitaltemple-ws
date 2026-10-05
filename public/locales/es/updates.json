@@ -5,6 +5,23 @@
   "latestUpdate": "Última actualización",
   "previousUpdate": "Actualización anterior",
   "updates": {
+    "ascended": {
+      "date": "4 de octubre de 2026",
+      "title": "Ascendieron",
+      "content": {
+        "greeting": "Hola del artista,",
+        "paragraphs": [
+          "El jueves 1 de octubre de 2026, a las 2:18 p. m. hora de Nueva York, el Templo Orbital despegó en la Transporter-18 de SpaceX desde Vandenberg, California.",
+          "El lanzamiento fue un éxito. El templo está en órbita.",
+          "Dentro van más de 19.000 nombres, enviados desde todos los rincones del mundo. Esa tarde, cada uno de ellos ascendió, y todas las personas que enviaron uno recibieron un mensaje que lo decía.",
+          "En Nueva York nos reunimos para un ritual y una exposición de los doce Testigos Orbitales.",
+          "En enero te escribí sobre fuego y cenizas. En septiembre, sobre volver a empezar. Hoy puedo decirte: el templo está en el cielo.",
+          "Gracias por creer en él."
+        ],
+        "signature": "Con amor,",
+        "name": "Edson Pavoni"
+      }
+    },
     "once-again": {
       "date": "14 de septiembre de 2026",
       "title": "Una vez más",

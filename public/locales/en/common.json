@@ -1,12 +1,13 @@
 {
   "nav": {
+    "home": "home",
     "theArtwork": "the artwork",
     "sendAName": "send a name",
     "updates": "updates",
     "fromTheArtist": "from the artist",
     "yetAnotherTemple": "yet, another temple?",
     "howItWorks": "how it works",
-    "spaceLaunch": "space launch and risks",
+    "spaceLaunch": "space launch",
     "briefHistory": "brief history of art in space",
     "education": "education & open source",
     "sustainability": "sustainability and space debris",
