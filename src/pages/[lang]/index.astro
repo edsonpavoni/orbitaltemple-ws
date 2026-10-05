@@ -3,8 +3,6 @@ import Base from "../../layouts/BaseLayout.astro";
 import HomeRitualButton from "../../components/HomeRitualButton";
 import RitualButtonPlaceholder from "../../components/RitualButtonPlaceholder.astro";
 import HomeHero from "../../components/HomeHero";
-import HomeCTA from "../../components/HomeCTA";
-import ManifestoContent from "../../components/ManifestoContent";
 import FooterCredits from "../../components/FooterCredits";
 import "../../styles/ritual-button.css";
 import { LANGUAGE_CODES, isValidLanguage } from "../../lib/i18n-config";
@@ -124,10 +122,7 @@ if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
       document.addEventListener('astro:page-load', initRitualButton);
     </script>
 
-    <!-- Bottom link with 36px margin (from padding) -->
-    <div style="position: relative; z-index: 1; width: 100%;">
-      <HomeCTA client:only="react" />
-    </div>
+    <!-- "Yet, another temple?" link removed 2026-10-05 (Edson: take out the manifesto section) -->
   </section>
 
   <!-- Second Fold: Dome Image -->
@@ -138,10 +133,7 @@ if (lgParam && lgParam !== lang && isValidLanguage(lgParam)) {
     </picture>
   </section>
 
-  <!-- Third Section: Manifesto -->
-  <section style="position: relative; background-color: var(--color-ot-dark);">
-    <ManifestoContent client:only="react" />
-  </section>
+  <!-- Manifesto section removed 2026-10-05 (Edson). Component kept: src/components/ManifestoContent.tsx -->
 
   <!-- Footer: Credits -->
   <footer style="background-color: var(--color-ot-dark); padding: 4rem 1.5rem 2rem 1.5rem;">
