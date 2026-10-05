@@ -1,3 +1,4 @@
+import type React from 'react';
 import { useTranslation } from 'react-i18next';
 
 export default function HomeHero() {
@@ -5,10 +6,11 @@ export default function HomeHero() {
 
   // Helper to convert \n to <br/>
   const renderTextWithBreaks = (text: string) => {
-    return text.split('\n').map((line, index, array) => (
-      <span key={index}>
-        {line}
-        {index < array.length - 1 && <br />}
+    // Each line is its own balanced block, and its last two words never split,
+    // so a phone never leaves one word alone on a line ("céu.").
+    return text.split('\n').map((line, index) => (
+      <span key={index} style={{ display: 'block', textWrap: 'balance' } as React.CSSProperties}>
+        {line.replace(/ (\S+)$/, '\u00A0$1')}
       </span>
     ));
   };
